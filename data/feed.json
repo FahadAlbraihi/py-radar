@@ -1,230 +1,280 @@
 {
- "generated": "2026-08-14T07:20:35.424377+00:00",
- "count": 353,
+ "generated": "2026-08-14T08:03:44.029355+00:00",
+ "count": 377,
  "items": [
   {
-   "title": "univapay-client-sdk 1.0.2",
-   "url": "https://pypi.org/project/univapay-client-sdk/1.0.2/",
-   "date": "2026-08-14T07:18:15+00:00",
-   "summary": "Use the Univapay Payments Client SDK to create & manage payments",
+   "title": "Comfy-Org/ComfyUI",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "date": "2026-08-14T08:02:40+00:00",
+   "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+   "points": 127466,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
+   "title": "NousResearch/hermes-agent",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "date": "2026-08-14T08:01:17+00:00",
+   "summary": "The agent that grows with you",
+   "points": 230334,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
+   "title": "pytorch/pytorch",
+   "url": "https://github.com/pytorch/pytorch",
+   "date": "2026-08-14T08:00:45+00:00",
+   "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+   "points": 102368,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
+   "title": "kivi-sdk 1.2.0",
+   "url": "https://pypi.org/project/kivi-sdk/1.2.0/",
+   "date": "2026-08-14T07:59:54+00:00",
+   "summary": "The untrusting client SDK for the kivi event-ledger database",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "yeetr 2026.8.14.post1",
-   "url": "https://pypi.org/project/yeetr/2026.8.14.post1/",
-   "date": "2026-08-14T07:18:14+00:00",
-   "summary": "A tiny, typed, signature-driven CLI runner.",
+   "title": "tokenkick 1.21.5",
+   "url": "https://pypi.org/project/tokenkick/1.21.5/",
+   "date": "2026-08-14T07:59:50+00:00",
+   "summary": "Local CLI for tracking AI coding quota windows, planning reset coverage, and optional explicit provider-native kicks.",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "dashclaw 5.23.3",
-   "url": "https://pypi.org/project/dashclaw/5.23.3/",
-   "date": "2026-08-14T07:17:58+00:00",
-   "summary": "Python SDK for the DashClaw AI agent decision infrastructure platform",
+   "title": "ankor 0.5.274",
+   "url": "https://pypi.org/project/ankor/0.5.274/",
+   "date": "2026-08-14T07:59:42+00:00",
+   "summary": "Standalone workflow automation and monitoring for Python",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "atsw 1.2.6",
-   "url": "https://pypi.org/project/atsw/1.2.6/",
-   "date": "2026-08-14T07:17:52+00:00",
-   "summary": "ATSW — A Time Series Workshop: the Box-Jenkins-Treadway suite (univariate exact-ML estimation, graphics, model building, transfer functions and multivariate VARMA) with three MCP assistants for LLM-driven analysis",
+   "title": "dexterity.localrolesfield 2.0.0b2",
+   "url": "https://pypi.org/project/dexterity-localrolesfield/2.0.0b2/",
+   "date": "2026-08-14T07:59:37+00:00",
+   "summary": "z3c.form local role field for dexterity",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "codi-api-agent 0.3.2",
-   "url": "https://pypi.org/project/codi-api-agent/0.3.2/",
-   "date": "2026-08-14T07:17:33+00:00",
-   "summary": "Read-only, spec-driven natural-language agent over any API (OpenAPI/Swagger, GraphQL, or auto-converted Postman/RAML/API Blueprint), with citations and a faithfulness check.",
+   "title": "vllm-cpu-nightly 0.27.2.dev202608140727",
+   "url": "https://pypi.org/project/vllm-cpu-nightly/0.27.2.dev202608140727/",
+   "date": "2026-08-14T07:59:19+00:00",
+   "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "nebo 0.3.6",
-   "url": "https://pypi.org/project/nebo/0.3.6/",
-   "date": "2026-08-14T07:15:58+00:00",
-   "summary": "A modern logging SDK for multi-modal data",
+   "title": "wredis 1.0.3",
+   "url": "https://pypi.org/project/wredis/1.0.3/",
+   "date": "2026-08-14T07:59:15+00:00",
+   "summary": "Redis control with Python - Async support, decorators, and high availability",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "protonfs 1.11.1",
-   "url": "https://pypi.org/project/protonfs/1.11.1/",
-   "date": "2026-08-14T07:15:34+00:00",
-   "summary": "Sync a local directory tree with Proton Drive via the official Proton Drive CLI, with conflict-aware push/pull and a local sync manifest.",
+   "title": "langflow-ai/langflow",
+   "url": "https://github.com/langflow-ai/langflow",
+   "date": "2026-08-14T07:59:09+00:00",
+   "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+   "points": 153220,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
+   "title": "netease-cloudmusic-detector 2.0.1",
+   "url": "https://pypi.org/project/netease-cloudmusic-detector/2.0.1/",
+   "date": "2026-08-14T07:59:07+00:00",
+   "summary": "使用 Python 监听网易云音乐客户端正在播放中的音乐，支持获取 SongId、暂停状态、歌曲进度",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "mixpeek 1.3.346",
-   "url": "https://pypi.org/project/mixpeek/1.3.346/",
-   "date": "2026-08-14T07:15:30+00:00",
-   "summary": "Mixpeek API",
+   "title": "inkmap 0.1.2",
+   "url": "https://pypi.org/project/inkmap/0.1.2/",
+   "date": "2026-08-14T07:59:03+00:00",
+   "summary": "Per-pixel foreground coverage for photographed marks -- QR, barcodes, text, any shape you can model",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "trampoline-delta 0.1.5rc51",
-   "url": "https://pypi.org/project/trampoline-delta/0.1.5rc51/",
-   "date": "2026-08-14T07:14:34+00:00",
-   "summary": "Command line interface for the Delta service",
+   "title": "dm-pure 1.0.2",
+   "url": "https://pypi.org/project/dm-pure/1.0.2/",
+   "date": "2026-08-14T07:59:00+00:00",
+   "summary": "纯 Python 实现的达梦 DM8 数据库驱动（无 native 依赖）",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "mfa-servicenow-mcp 1.24.28",
-   "url": "https://pypi.org/project/mfa-servicenow-mcp/1.24.28/",
-   "date": "2026-08-14T07:13:53+00:00",
+   "title": "dexterity.localroles 2.0.0b2",
+   "url": "https://pypi.org/project/dexterity-localroles/2.0.0b2/",
+   "date": "2026-08-14T07:58:42+00:00",
+   "summary": "Define local roles settings by dexterity type",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "hiddenink 0.1.0",
+   "url": "https://pypi.org/project/hiddenink/0.1.0/",
+   "date": "2026-08-14T07:58:24+00:00",
+   "summary": "Find the ink you can't see. Inspects and cleans invisible Unicode, homoglyphs, and container metadata — and says precisely what it did not do.",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "omniopt2 9798",
+   "url": "https://pypi.org/project/omniopt2/9798/",
+   "date": "2026-08-14T07:58:21+00:00",
+   "summary": "Automatic highly parallelized hyperparameter optimizer based on Ax/Botorch",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "cpersona 2.5.4a2",
+   "url": "https://pypi.org/project/cpersona/2.5.4a2/",
+   "date": "2026-08-14T07:58:13+00:00",
+   "summary": "CPersona — Persistent AI memory server with 3-layer hybrid search, confidence scoring, and 29 tools. MIT licensed.",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "cwltest 2.7.20260814074913",
+   "url": "https://pypi.org/project/cwltest/2.7.20260814074913/",
+   "date": "2026-08-14T07:57:59+00:00",
+   "summary": "Common Workflow Language testing framework",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "loci-tools 0.1.117",
+   "url": "https://pypi.org/project/loci-tools/0.1.117/",
+   "date": "2026-08-14T07:57:58+00:00",
+   "summary": "Hardware-grounded execution-aware analysis for C/C++/Rust compiled binaries — timing, energy, stack depth, memory, security.",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "oneshot-python 0.19.0",
+   "url": "https://pypi.org/project/oneshot-python/0.19.0/",
+   "date": "2026-08-14T07:57:55+00:00",
+   "summary": "Core Python SDK for the OneShot API — HTTP client with x402 payment handling",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "py-ephemeris 1.0.0a3",
+   "url": "https://pypi.org/project/py-ephemeris/1.0.0a3/",
+   "date": "2026-08-14T07:57:51+00:00",
+   "summary": "Python bindings for Taiyin Ephemeris",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "windcode 0.4.1",
+   "url": "https://pypi.org/project/windcode/0.4.1/",
+   "date": "2026-08-14T07:57:49+00:00",
+   "summary": "A safe, extensible terminal coding agent",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "kryten-api-gate 0.8.4",
+   "url": "https://pypi.org/project/kryten-api-gate/0.8.4/",
+   "date": "2026-08-14T07:57:09+00:00",
+   "summary": "HTTP REST gateway for the Kryten ecosystem — exposes KrytenClient via FastAPI",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "kryten-webqueue 0.35.6",
+   "url": "https://pypi.org/project/kryten-webqueue/0.35.6/",
+   "date": "2026-08-14T07:57:06+00:00",
+   "summary": "Netflix/Tubi-style catalog browser and pay-to-play queue management for CyTube",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "gen-worker 0.114.3",
+   "url": "https://pypi.org/project/gen-worker/0.114.3/",
+   "date": "2026-08-14T07:56:59+00:00",
+   "summary": "A library used to build custom functions in Cozy Creator's serverless function platform.",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "collective.classification.tree 1.3.0",
+   "url": "https://pypi.org/project/collective-classification-tree/1.3.0/",
+   "date": "2026-08-14T07:56:49+00:00",
+   "summary": "Addon to manage complex content classification tree",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "datasentry-ai 0.14.0",
+   "url": "https://pypi.org/project/datasentry-ai/0.14.0/",
+   "date": "2026-08-14T07:56:42+00:00",
+   "summary": "An evidence-driven, local-first AI copilot for detecting, explaining, validating, and safely repairing data quality problems.",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en"
+  },
+  {
+   "title": "mfa-servicenow-mcp 1.24.29",
+   "url": "https://pypi.org/project/mfa-servicenow-mcp/1.24.29/",
+   "date": "2026-08-14T07:56:34+00:00",
    "summary": "A Model Context Protocol (MCP) server implementation for ServiceNow",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "parity-check 0.9.2",
-   "url": "https://pypi.org/project/parity-check/0.9.2/",
-   "date": "2026-08-14T07:13:52+00:00",
-   "summary": "Local-first semantic verification for dataframe and numerical migrations",
+   "title": "py-pve-cloud-backup 3.5.9",
+   "url": "https://pypi.org/project/py-pve-cloud-backup/3.5.9/",
+   "date": "2026-08-14T07:56:13+00:00",
+   "summary": "None",
    "sourceId": "pypi",
    "source": "PyPI",
    "lang": "en"
   },
   {
-   "title": "fake-bge-module 20260814",
-   "url": "https://pypi.org/project/fake-bge-module/20260814/",
-   "date": "2026-08-14T07:13:48+00:00",
-   "summary": "Collection of the fake Blender Game Engine (BGE) Python API module for the code completion.",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "fake-bge-module-latest 20260814",
-   "url": "https://pypi.org/project/fake-bge-module-latest/20260814/",
-   "date": "2026-08-14T07:13:42+00:00",
-   "summary": "Collection of the fake Blender Game Engine (BGE) Python API module for the code completion.",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "parody 0.34.2",
-   "url": "https://pypi.org/project/parody/0.34.2/",
-   "date": "2026-08-14T07:13:23+00:00",
-   "summary": "Unified book/notebook authoring toolchain: pandoc markdown + executed jupytext sources to JSON artifact, HTML preview, and print PDF",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "mastersoup 0.1.0",
-   "url": "https://pypi.org/project/mastersoup/0.1.0/",
-   "date": "2026-08-14T07:13:14+00:00",
-   "summary": "On-device vector search with a shipped partition catalog — loaded, not trained",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "skcoord 0.1.5",
-   "url": "https://pypi.org/project/skcoord/0.1.5/",
-   "date": "2026-08-14T07:12:58+00:00",
-   "summary": "Sovereign multi-agent coordination + ITIL service management (conflict-free task board, kanban, CardStore, CMDB)",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "emby-cli 0.7.0",
-   "url": "https://pypi.org/project/emby-cli/0.7.0/",
-   "date": "2026-08-14T07:12:18+00:00",
-   "summary": "CLI to list, search, play, and download/backup original media from an Emby server via its REST API.",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "metabrowser 0.4.0",
-   "url": "https://pypi.org/project/metabrowser/0.4.0/",
-   "date": "2026-08-14T07:12:13+00:00",
-   "summary": "Browse local files from your web browser, with extensible plugin-based rendering of Markdown, code, JSON, YAML, logs, and other files.",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "ops-rec 2.7.1",
-   "url": "https://pypi.org/project/ops-rec/2.7.1/",
-   "date": "2026-08-14T07:12:12+00:00",
-   "summary": "Ascend NPU Custom Operations for Recommendation Systems",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "soothe-daemon 0.10.11",
-   "url": "https://pypi.org/project/soothe-daemon/0.10.11/",
-   "date": "2026-08-14T07:11:45+00:00",
-   "summary": "Soothe daemon server - long-running agent runtime with WebSocket/HTTP transports",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "pinnlab 0.5.1",
-   "url": "https://pypi.org/project/pinnlab/0.5.1/",
-   "date": "2026-08-14T07:11:32+00:00",
-   "summary": "Physics-Informed Neural Network implementations",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "ops-rec 2.10.0",
-   "url": "https://pypi.org/project/ops-rec/2.10.0/",
-   "date": "2026-08-14T07:11:32+00:00",
-   "summary": "Ascend NPU Custom Operations for Recommendation Systems",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "victron-mqtt 2026.8.3",
-   "url": "https://pypi.org/project/victron-mqtt/2026.8.3/",
-   "date": "2026-08-14T07:11:11+00:00",
-   "summary": "Python library for communicating with Victron Venus OS MQTT interface",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "tickerall 0.4.0",
-   "url": "https://pypi.org/project/tickerall/0.4.0/",
-   "date": "2026-08-14T07:11:11+00:00",
-   "summary": "Official Python client for the TickerAll REST + WebSocket API — place trades, stream live market data, and manage broker sessions without an MT4/MT5 terminal in the path.",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en"
-  },
-  {
-   "title": "agenttakt 0.2.0",
-   "url": "https://pypi.org/project/agenttakt/0.2.0/",
-   "date": "2026-08-14T07:10:47+00:00",
-   "summary": "Review, edit, and approve AI agent task plans in a visual node editor in your terminal (MCP server + TUI)",
-   "sourceId": "pypi",
-   "source": "PyPI",
+   "title": "open-webui/open-webui",
+   "url": "https://github.com/open-webui/open-webui",
+   "date": "2026-08-14T06:55:23+00:00",
+   "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "points": 148749,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -235,6 +285,16 @@
    "points": 0,
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "huggingface/transformers",
+   "url": "https://github.com/huggingface/transformers",
+   "date": "2026-08-14T06:39:37+00:00",
+   "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+   "points": 164097,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -268,15 +328,6 @@
    "lang": "en"
   },
   {
-   "title": "I built a Python module with C++ and pybind11",
-   "url": "https://www.reddit.com/r/Python/comments/1vnya04/i_built_a_python_module_with_c_and_pybind11/",
-   "date": "2026-08-14T05:23:44+00:00",
-   "summary": "I built a Python module with C++ and pybind11, and I partially migrated cpp-httplib. I’d love to hear your thoughts, questions, or suggestions. submitted by /u/BooF-LooF [link] [التعليقات]",
-   "sourceId": "reddit",
-   "source": "r/Python",
-   "lang": "en"
-  },
-  {
    "title": "Your LLM gateway takes a cut. Seventeen lines of Python tell you how big.",
    "url": "https://dev.to/altrouter/your-llm-gateway-takes-a-cut-seventeen-lines-of-python-tell-you-how-big-45jc",
    "date": "2026-08-14T05:18:57+00:00",
@@ -284,6 +335,16 @@
    "points": 0,
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "date": "2026-08-14T04:53:53+00:00",
+   "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+   "points": 186615,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -367,6 +428,16 @@
    "lang": "en"
   },
   {
+   "title": "langchain-ai/langchain",
+   "url": "https://github.com/langchain-ai/langchain",
+   "date": "2026-08-14T02:16:57+00:00",
+   "summary": "The agent engineering platform.",
+   "points": 144230,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "Before You Trust That AI Diff, Replay Real Requests Against It",
    "url": "https://dev.to/codepy_1473/before-you-trust-that-ai-diff-replay-real-requests-against-it-2b27",
    "date": "2026-08-14T01:05:03+00:00",
@@ -416,6 +487,16 @@
    "lang": "en"
   },
   {
+   "title": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code",
+   "date": "2026-08-13T23:29:59+00:00",
+   "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+   "points": 141406,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "I Built My First Machine Learning API — Here's Everything I Learned",
    "url": "https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7",
    "date": "2026-08-13T22:49:39+00:00",
@@ -423,6 +504,16 @@
    "points": 0,
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "github/spec-kit",
+   "url": "https://github.com/github/spec-kit",
+   "date": "2026-08-13T21:56:12+00:00",
+   "summary": "💫 Toolkit to help you get started with Spec-Driven Development",
+   "points": 127756,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -446,6 +537,16 @@
    "lang": "en"
   },
   {
+   "title": "public-apis/public-apis",
+   "url": "https://github.com/public-apis/public-apis",
+   "date": "2026-08-13T21:07:34+00:00",
+   "summary": "A collective list of free APIs",
+   "points": 456232,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system",
    "url": "https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa",
    "date": "2026-08-13T20:32:20+00:00",
@@ -453,6 +554,16 @@
    "points": 0,
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "browser-use/browser-use",
+   "url": "https://github.com/browser-use/browser-use",
+   "date": "2026-08-13T19:28:15+00:00",
+   "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+   "points": 109156,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -473,6 +584,26 @@
    "points": 2,
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Shubhamsaboo/awesome-llm-apps",
+   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+   "date": "2026-08-13T18:45:25+00:00",
+   "summary": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+   "points": 132570,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
+   "title": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "date": "2026-08-13T18:09:56+00:00",
+   "summary": "Public repository for Agent Skills",
+   "points": 169255,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -516,6 +647,16 @@
    "lang": "en"
   },
   {
+   "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+   "date": "2026-08-13T17:10:11+00:00",
+   "summary": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+   "points": 116564,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "Reproduce n-ary `vmap` from unary",
    "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
    "date": "2026-08-13T16:37:21+00:00",
@@ -543,6 +684,16 @@
    "points": 1,
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Graphify-Labs/graphify",
+   "url": "https://github.com/Graphify-Labs/graphify",
+   "date": "2026-08-13T14:15:04+00:00",
+   "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "points": 106149,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -729,6 +880,16 @@
    "points": 2,
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "harry0703/MoneyPrinterTurbo",
+   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+   "date": "2026-08-13T03:41:56+00:00",
+   "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "points": 103249,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -929,7 +1090,7 @@
    "url": "https://getseisin.com",
    "date": "2026-08-12T15:39:00+00:00",
    "summary": "Hello everyone, I’ve been building Seisin, a desktop app for keeping an entire job search in one place. I was planning on posting this back at v1.0, but held on to see a bit more of what HN was like b",
-   "points": 5,
+   "points": 6,
    "sourceId": "hn",
    "source": "Hacker News",
    "lang": "en"
@@ -1429,6 +1590,16 @@
    "lang": "en"
   },
   {
+   "title": "EbookFoundation/free-programming-books",
+   "url": "https://github.com/EbookFoundation/free-programming-books",
+   "date": "2026-08-11T12:11:06+00:00",
+   "summary": ":books: Freely available programming books",
+   "points": 394375,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "I Built a Signed Webhook Receiver for Cross-Server Communication",
    "url": "https://dev.to/cyberhuginn/building-a-secure-webhook-receiver-for-server-to-server-communication-23d7",
    "date": "2026-08-11T12:05:48+00:00",
@@ -1605,6 +1776,16 @@
    "summary": "Django's Steering Council has accepted the Django Enhancement Proposal DEP 20 to move Django to an annual release cycle. From January 2028, Django will make one feature release a year, giving every feature release the LTS-level three years of support, and vers",
    "sourceId": "blogs",
    "source": "Planet Python",
+   "lang": "en"
+  },
+  {
+   "title": "practical-tutorials/project-based-learning",
+   "url": "https://github.com/practical-tutorials/project-based-learning",
+   "date": "2026-08-10T07:04:22+00:00",
+   "summary": "Curated list of project-based tutorials",
+   "points": 279123,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -1917,6 +2098,26 @@
    "lang": "en"
   },
   {
+   "title": "vinta/awesome-python",
+   "url": "https://github.com/vinta/awesome-python",
+   "date": "2026-08-05T06:11:04+00:00",
+   "summary": "An opinionated list of Python frameworks, libraries, tools, and resources",
+   "points": 313878,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
+   "title": "yt-dlp/yt-dlp",
+   "url": "https://github.com/yt-dlp/yt-dlp",
+   "date": "2026-08-04T22:58:34+00:00",
+   "summary": "A feature-rich command-line audio/video downloader",
+   "points": 184376,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "Showcase Thread",
    "url": "https://www.reddit.com/r/Python/comments/1vfemi1/showcase_thread/",
    "date": "2026-08-04T16:05:25+00:00",
@@ -1962,6 +2163,16 @@
    "lang": "en"
   },
   {
+   "title": "TheAlgorithms/Python",
+   "url": "https://github.com/TheAlgorithms/Python",
+   "date": "2026-08-03T18:44:56+00:00",
+   "summary": "All Algorithms implemented in Python",
+   "points": 223738,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "MCP Gets Its Biggest Rewrite and Other Python News for August 2026",
    "url": "https://realpython.com/python-news-august-2026/",
    "date": "2026-08-03T14:00:00+00:00",
@@ -1977,6 +2188,16 @@
    "summary": "Test your understanding of the GIL, process-based parallelism, and the ways to run Python threads in parallel across multiple CPU cores.",
    "sourceId": "blogs",
    "source": "Real Python",
+   "lang": "en"
+  },
+  {
+   "title": "521xueweihan/HelloGitHub",
+   "url": "https://github.com/521xueweihan/HelloGitHub",
+   "date": "2026-08-02T07:58:25+00:00",
+   "summary": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+   "points": 170802,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -2007,12 +2228,32 @@
    "lang": "en"
   },
   {
+   "title": "microsoft/markitdown",
+   "url": "https://github.com/microsoft/markitdown",
+   "date": "2026-07-29T18:18:09+00:00",
+   "summary": "Python tool for converting files and office documents to Markdown.",
+   "points": 173663,
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en"
+  },
+  {
    "title": "CrewAI in Python: Coordinating Teams of AI Agents",
    "url": "https://realpython.com/crewai-python/",
    "date": "2026-07-29T14:00:00+00:00",
    "summary": "Learn how to use CrewAI to build teams of AI agents in Python, define roles and tools, and coordinate multi-agent workflows that solve complex tasks.",
    "sourceId": "blogs",
    "source": "Real Python",
+   "lang": "en"
+  },
+  {
+   "title": "openai/whisper",
+   "url": "https://github.com/openai/whisper",
+   "date": "2026-07-28T20:18:29+00:00",
+   "summary": "Robust Speech Recognition via Large-Scale Weak Supervision",
+   "points": 107248,
+   "sourceId": "github",
+   "source": "GitHub",
    "lang": "en"
   },
   {
@@ -2181,9 +2422,9 @@
    "title": "فتح باب الترشح لدورات تكوينية مجانية في الذكاء الاصطناعي باستخدام بايثون.",
    "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQR3dPWU9iNjYxcC1JbU1hbnMxNXJPcldPVXp6OWJWMWNVNkR4WVZUSHl4ZFNDcG1tbVpuVkVGMXNMV00xQUhzNFM0MVR6OTF5TEpkTEpmQ1JmakgyaS1OT25LT1IyOENwYWVuVlRnN2tLYmUwQy1VenNEeEEybXlKNmZNWnlEaFAzcG5PUGpBbnA4UjlDSGVDS1hkY0tpOUhXdzI0RTViQUZLeXZGT1BvQ1VrTjJpMXlaOV8tQWJCN1g3VVZOc0JwVV9COFdwZVJPTzRrSm5JREhISGpSQlFRMU45THFOVGUtcDFIRWktbXltM1hWZUN4OG0yOEFqYm5xVkpRQkJUaHNvNDZhR25iTmEyaTN4UVBMRVU4a0NGT0d2Rnc2VF9MR3k2Rjk0VnVVZXczYUZSU243OEdwVWJmYnlzR0VCXzRpTFNKbzdn?oc=5",
    "date": "2026-07-12T07:00:00+00:00",
-   "summary": "فتح باب الترشح لدورات تكوينية مجانية في الذكاء الاصطناعي باستخدام بايثون. journalistesfaxien.tn",
+   "summary": "فتح باب الترشح لدورات تكوينية مجانية في الذكاء الاصطناعي باستخدام بايثون. موقع الصحفيين التونسيين بصفاقس",
    "sourceId": "ar-news",
-   "source": "journalistesfaxien.tn",
+   "source": "موقع الصحفيين التونسيين بصفاقس",
    "lang": "ar"
   },
   {
@@ -2262,9 +2503,9 @@
    "title": "أفضل 10 خدمات استضافة بايثون: تشاركية وVPS في [2026]",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWEhuV3Uta0U5TEVmcGh1MEhGVE12NU5zYllKR0k5Y3NORnNFa1NVU2wwRXB3RHpYaU1tS1ZpVXdzVXZRd2hXSFJZekEtZU1ZaWdjTjhSZXdSSG1PNndiUE81TFB3dHhsRUhmTTlyXzJoXzRqSUszZWdGS3NFMHVjVjNWUThtTnZObGZlVWluQjk5bUg5MFRPSUw4VDZzb0xVTExnM0FOUlV3NkhHQjhYcnhPRVI3Umxqa051dm94YXI0SEJMdFdyaHlBb3lkVTlwbEgwMExSYzNCMWI4THJXdlR6OUxnVmRBVGMwSFU0WUtHYmo4aWJvdzJOTU9aS1ZhZTBjNw?oc=5",
    "date": "2026-02-23T08:00:00+00:00",
-   "summary": "أفضل 10 خدمات استضافة بايثون: تشاركية وVPS في [2026] Website Planet",
+   "summary": "أفضل 10 خدمات استضافة بايثون: تشاركية وVPS في [2026] websiteplanet.com",
    "sourceId": "ar-news",
-   "source": "Website Planet",
+   "source": "websiteplanet.com",
    "lang": "ar"
   },
   {
@@ -2469,9 +2710,9 @@
    "title": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون| صور",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14QmlSUnNrSkdKUi1rRENtQi1CRWJQbkVVaDZJTzl6REM1cVhua2VhZ3BOM1RJQVFrRzVId2FxaEdyR205NkFDblJtbHY1NjlpRGhxS0dn?oc=5",
    "date": "2024-07-14T07:00:00+00:00",
-   "summary": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون| صور gate.ahram.org.eg",
+   "summary": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون| صور بوابة الأهرام",
    "sourceId": "ar-news",
-   "source": "gate.ahram.org.eg",
+   "source": "بوابة الأهرام",
    "lang": "ar"
   },
   {
@@ -3279,9 +3520,9 @@
    "title": "مكتبات بايثون مهمة وأساسية في تحسين تجربة البرمجة وجعل عملك أسهل وأسرع",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HaUt2Zm1mNFJjUExlZWtwejA0bDB5WExSRFN2dmtKSEszT2hOQk9KYkc5UEJZWnc0ZDNhRi0ta1huTS13YmRGaVA0ZUxkZ0JpRXRaTzF1VDg?oc=5",
    "date": "2019-02-26T08:00:00+00:00",
-   "summary": "مكتبات بايثون مهمة وأساسية في تحسين تجربة البرمجة وجعل عملك أسهل وأسرع arageek.com",
+   "summary": "مكتبات بايثون مهمة وأساسية في تحسين تجربة البرمجة وجعل عملك أسهل وأسرع Arageek",
    "sourceId": "ar-news",
-   "source": "arageek.com",
+   "source": "Arageek",
    "lang": "ar"
   },
   {
