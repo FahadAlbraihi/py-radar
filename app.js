@@ -361,35 +361,54 @@ async function searchYouTube(query){
   );
 }
 
+const YT_MIN_LEN   = 3;      // أقل طول للاستعلام قبل الجلب
+const YT_DEBOUNCE  = 800;    // مهلة بعد التوقف عن الكتابة
+const ytCache = new Map();   // استعلام ← نتائجه، فلا يتكرر الجلب
+let ytSeq = 0;               // حارس: نتيجة استعلام قديم تُتجاهل
+
+function setYtBusy(busy){
+  $('#btn-yt').disabled = busy;
+  $('#yt-label').textContent = busy ? 'جارٍ البحث في يوتيوب…' : 'ابحث في يوتيوب';
+}
+
+function applyYtResults(q, found){
+  if (!found.length){
+    setStatus(`لا فيديوهات مطابقة لـ «${q}»`);
+    return;
+  }
+  state.items = merge(state.items, found);
+  state.ytQuery = q;
+  state.shown = PAGE_SIZE;
+  render();
+  setStatus(`نتائج يوتيوب لـ «${q}»: ${found.length}`);
+}
+
+/** يُستدعى تلقائياً أثناء الكتابة، وعند الضغط على الزر أو Enter. */
 async function runYouTubeSearch(){
   const q = state.q.trim();
-  if (!q || state.ytLoading) return;
+  if (q.length < YT_MIN_LEN){ setYtBusy(false); return; }
 
-  state.ytLoading = true;
-  const btn = $('#btn-yt');
-  btn.disabled = true;
-  $('#yt-label').textContent = 'جارٍ البحث في يوتيوب…';
+  const seq = ++ytSeq;                       // أي بحث أحدث يُبطل ما قبله
 
-  try {
-    const found = await searchYouTube(q);
-    if (found.length){
-      state.items = merge(state.items, found);
-      state.ytQuery = q;
-      state.shown = PAGE_SIZE;
-      render();
-      scrollTo({ top: 0, behavior: 'smooth' });
-      setStatus(`نتائج يوتيوب لـ «${q}»: ${found.length}`);
-    } else {
-      setStatus('لم يُعثر على فيديوهات مطابقة.');
-    }
-  } catch {
-    setStatus('تعذّر البحث في يوتيوب — أعد المحاولة.');
+  if (ytCache.has(q)){                       // نتيجة محفوظة: فورية بلا شبكة
+    applyYtResults(q, ytCache.get(q));
+    return;
   }
 
-  state.ytLoading = false;
-  btn.disabled = false;
-  $('#yt-label').textContent = 'ابحث في يوتيوب';
-  setTimeout(() => setStatus(''), 5000);
+  setYtBusy(true);
+  try {
+    const found = await searchYouTube(q);
+    if (seq !== ytSeq) return;               // المستخدم كتب شيئاً أحدث
+    ytCache.set(q, found);
+    applyYtResults(q, found);
+  } catch {
+    if (seq === ytSeq) setStatus('تعذّر البحث في يوتيوب — أعد المحاولة.');
+  } finally {
+    if (seq === ytSeq){
+      setYtBusy(false);
+      setTimeout(() => { if (seq === ytSeq) setStatus(''); }, 5000);
+    }
+  }
 }
 
 /** يبني قائمة المهام لجلب لغة برمجة واحدة. */
@@ -949,6 +968,7 @@ function renderPresets(){
     b.onclick = () => {
       const q = $('#q');
       q.value = p; q.dispatchEvent(new Event('input'));
+      clearTimeout(ytTimer);            // لا ننتظر المهلة: الاستعلام جاهز
       runYouTubeSearch();
     };
     wrap.appendChild(b);
@@ -1016,22 +1036,32 @@ function resetFilters(){
 $('#btn-reset').onclick = resetFilters;
 $('#btn-reset2').onclick = resetFilters;
 
-let qTimer;
+let qTimer, ytTimer;
 $('#q').addEventListener('input', e => {
   state.q = e.target.value;
   const has = !!state.q.trim();
   $('#btn-clear').hidden = !has;
   $('#btn-yt').hidden = !has;
+
+  // تغيّر النص: نعود لنتائج التطبيق فوراً حتى تصل نتائج يوتيوب الجديدة
+  if (state.ytQuery && state.ytQuery !== state.q.trim()) state.ytQuery = '';
+
   clearTimeout(qTimer);
   qTimer = setTimeout(() => { state.shown = PAGE_SIZE; render(); }, 180);
+
+  // بحث يوتيوب فوري: يبدأ بعد التوقف عن الكتابة لا مع كل حرف
+  clearTimeout(ytTimer);
+  if (has) ytTimer = setTimeout(runYouTubeSearch, YT_DEBOUNCE);
 });
 $('#q').addEventListener('keydown', e => {
-  if (e.key === 'Enter'){ e.preventDefault(); $('#q').blur(); runYouTubeSearch(); }
+  if (e.key === 'Enter'){ e.preventDefault(); $('#q').blur(); clearTimeout(ytTimer); runYouTubeSearch(); }
 });
-$('#btn-yt').onclick = runYouTubeSearch;
+$('#btn-yt').onclick = () => { clearTimeout(ytTimer); runYouTubeSearch(); };
 $('#btn-clear').onclick = () => {
+  clearTimeout(ytTimer); ytSeq++;                 // يُبطل أي بحث جارٍ
   $('#q').value = ''; state.q = ''; state.ytQuery = '';
   $('#btn-clear').hidden = true; $('#btn-yt').hidden = true;
+  setYtBusy(false);
   state.shown = PAGE_SIZE;
   render();
 };
