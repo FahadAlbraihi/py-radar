@@ -1,14 +1,25 @@
 {
- "generated": "2026-08-14T20:43:11.618041+00:00",
+ "generated": "2026-08-14T21:02:42.263845+00:00",
  "tech": "cpp",
- "count": 105,
+ "count": 106,
  "items": [
+  {
+   "title": "A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.",
+   "url": "https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei",
+   "date": "2026-08-14T20:40:21+00:00",
+   "summary": "A realistic failure mode starts with a team that runs a nightly triage job on a small free server....",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Kotlin Native Interop: Calling C and C++ from Android",
    "url": "https://dev.to/vmodal_ai/kotlin-native-interop-calling-c-and-c-from-android-4jof",
    "date": "2026-08-14T19:06:45+00:00",
    "summary": "Kotlin Native Interop: Calling C and C++ from Android   Android applications can combine...",
-   "points": 0,
+   "points": 1,
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -935,10 +946,10 @@
    "title": "Beginning C++ Programming Course on Udemy - Learn Modern C++ with C++14, C++17, & C++20 - Official",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45VFBQUnRpaF9qaXBaNFZqa2d1Y0tPaHhSSjJ5SlM1VUg5X3NkSGFxQkZYMGh0aWdSRi1TOGZOdFVHdmVmQmhONmo2dkFMRF83eW9qVTJB?oc=5",
    "date": "2021-07-15T15:30:06+00:00",
-   "summary": "Beginning C++ Programming Course on Udemy - Learn Modern C++ with C++14, C++17, & C++20 - Official YouTube",
+   "summary": "Beginning C++ Programming Course on Udemy - Learn Modern C++ with C++14, C++17, & C++20 - Official youtube.com",
    "tech": "cpp",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {

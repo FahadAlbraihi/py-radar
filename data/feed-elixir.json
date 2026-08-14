@@ -1,0 +1,511 @@
+{
+ "generated": "2026-08-14T21:04:45.173625+00:00",
+ "tech": "elixir",
+ "count": 49,
+ "items": [
+  {
+   "title": "Building Distributed Systems in Elixir: Part 4 — Process Linking",
+   "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb",
+   "date": "2026-08-14T12:02:52+00:00",
+   "summary": "In the previous part of this series, we used process monitors to observe when another process...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Distributed Systems in Elixir: Part 3 — Process Monitoring",
+   "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p",
+   "date": "2026-08-13T14:44:20+00:00",
+   "summary": "In the previous parts of this series, we built a stateful process using a mailbox and then added...",
+   "points": 3,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How does Elixir do it? | Andrew Okoye",
+   "url": "https://medium.com/@nature.exs/how-does-elixir-do-it-andrew-okoye-d9727c30dcf7?source=rss------elixir-5",
+   "date": "2026-08-12T05:21:12+00:00",
+   "summary": "Why doesn&#x2019;t an expensive Elixir function freeze the rest of your application? Most of us know the BEAM is concurrent, but very few of us&#x2026; Continue reading on Medium »",
+   "tech": "elixir",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building Reliable Multi-Agent LLM Applications in Elixir with ExAgent",
+   "url": "https://medium.com/@tiagodavi/building-reliable-multi-agent-llm-applications-in-elixir-with-exagent-69e023b9c087?source=rss------elixir-5",
+   "date": "2026-08-11T23:25:36+00:00",
+   "summary": "Most LLM libraries give you something like: Continue reading on Medium »",
+   "tech": "elixir",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I’m a Senior Elixir Engineer, and I Need a Job",
+   "url": "https://medium.com/@kiunyearaya/im-a-senior-elixir-engineer-and-i-need-a-job-ccef61008e41?source=rss------elixir-5",
+   "date": "2026-08-11T18:36:06+00:00",
+   "summary": "I&#x2019;ve shipped code that processes real money for real people. I led a migration that most teams still avoid attempting. I maintained a&#x2026; Continue reading on Medium »",
+   "tech": "elixir",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Learning Elixir: Module Attributes",
+   "url": "https://dev.to/abreujp/learning-elixir-module-attributes-2ind",
+   "date": "2026-08-08T10:27:48+00:00",
+   "summary": "I like to think of module attributes as the sticky notes I stick on the drawers of my toolbox. Each...",
+   "points": 1,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "⌘+click finally works in my Elixir projects in VS Code with ElixirLS",
+   "url": "https://felipelopezhamann.medium.com/click-finally-works-in-my-elixir-projects-in-vs-code-with-elixirls-3d8faf8a35ee?source=rss------elixir-5",
+   "date": "2026-08-08T07:19:08+00:00",
+   "summary": "For years I coded Elixir in VS Code without go-to-definition. It was on my list, I never had the time. Today I sat down with the ElixirLS&#x2026; Continue reading on Medium »",
+   "tech": "elixir",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Buffering High-Throughput Writes in Elixir: Introducing Tidefall",
+   "url": "https://medium.com/erlang-battleground/buffering-high-throughput-writes-in-elixir-introducing-tidefall-87e4d9bd6079?source=rss------elixir-5",
+   "date": "2026-08-07T16:55:16+00:00",
+   "summary": "There&#x2019;s a problem that shows up again and again once your system starts dealing with real volume: data arrives faster than you can process&#x2026; Continue reading on Erlang Battleground »",
+   "tech": "elixir",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "PON-BEAM: um paradigma orientado a notificações dentro da máquina virtual do Erlang",
+   "url": "https://dev.to/matheuscamarques/pon-beam-um-paradigma-orientado-a-notificacoes-dentro-da-maquina-virtual-do-erlang-191l",
+   "date": "2026-08-05T18:10:11+00:00",
+   "summary": "Como reescrevemos cada subsistema da BEAM (Erlang/OTP 30) usando Premises, Conditions e Instigações — do receive seletivo O(1) ao GC tri-color — eliminando polling e scans lineares, com 6.665× de ganho e 0% de CPU ociosa",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Re-Architected the Erlang VM Core in C to Eliminate O(N) Loops — The PON-BEAM Saga",
+   "url": "https://dev.to/matheuscamarques/i-re-architected-the-erlang-vm-core-in-c-to-eliminate-on-loops-the-pon-beam-saga-1ao8",
+   "date": "2026-08-05T17:31:09+00:00",
+   "summary": "How applying the Notification-Oriented Paradigm (PON/NOP) to Erlang/OTP 30 eliminated CPU idle waste (0.0% CPU) and unlocked O(1) selective receives.",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The guard checked the URL, not the record it returned (OpenFn Lightning, GHSA-vf9q-phg3-hqj6)",
+   "url": "https://dev.to/santosh_kumarpuppala_96e/the-guard-checked-the-url-not-the-record-it-returned-openfn-lightning-ghsa-vf9q-phg3-hqj6-5f0k",
+   "date": "2026-08-05T03:34:51+00:00",
+   "summary": "TL;DR     What: A cross-project authorization bug in OpenFn Lightning — a viewer-role member...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Monitor Your Phoenix (Elixir) Application with Vigilmon",
+   "url": "https://dev.to/vigilmon/how-to-monitor-your-phoenix-elixir-application-with-vigilmon-2a92",
+   "date": "2026-08-04T19:11:53+00:00",
+   "summary": "How to Monitor Your Phoenix (Elixir) Application with Vigilmon   Phoenix is the...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How We Built Kimlic: Reusable Blockchain-Based KYC with Elixir and Kubernetes",
+   "url": "https://dev.to/dmytronasyrov/how-we-built-kimlic-reusable-blockchain-based-kyc-with-elixir-and-kubernetes-1o74",
+   "date": "2026-08-04T11:05:13+00:00",
+   "summary": "A production case study on reusable KYC credentials, privacy-preserving proof sharing and a cloud-native identity platform handling 10K+ verifications per day.",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Monitor Your Elixir Phoenix Application with Vigilmon",
+   "url": "https://dev.to/vigilmon/how-to-monitor-your-elixir-phoenix-application-with-vigilmon-16nl",
+   "date": "2026-08-04T09:35:01+00:00",
+   "summary": "How to Monitor Your Elixir Phoenix Application with Vigilmon   Elixir and Phoenix are known...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Monitor Your Elixir/Phoenix Application with Vigilmon (Complete Guide)",
+   "url": "https://dev.to/vigilmon/how-to-monitor-your-elixirphoenix-application-with-vigilmon-complete-guide-cf2",
+   "date": "2026-08-03T16:09:41+00:00",
+   "summary": "How to Monitor Your Elixir/Phoenix Application with Vigilmon (Complete Guide)   Elixir and...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Monitor Your Elixir/Phoenix API with Vigilmon (Uptime + Health Checks)",
+   "url": "https://dev.to/vigilmon/how-to-monitor-your-elixirphoenix-api-with-vigilmon-uptime-health-checks-1dc4",
+   "date": "2026-08-03T11:11:36+00:00",
+   "summary": "Elixir and Phoenix are known for their fault-tolerant, self-healing design. The BEAM VM restarts...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Modelo de Atores da BEAM vs. Scheduler Agent Supervisor: Mera Coincidência? O que a Ericsson com Erlang já resolveu no passado?",
+   "url": "https://dev.to/matheuscamarques/modelo-de-atores-da-beam-vs-scheduler-agent-supervisor-mera-coincidencia-o-que-a-ericsson-com-16n4",
+   "date": "2026-07-27T17:08:02+00:00",
+   "summary": "Olá, me chamo Matheus de Camargo Marques. Ao aprofundar meus estudos em conceitos modernos de Cloud,...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A nuvem chegou às mesmas conclusões que Joe Armstrong e a equipe da Ericsson chegaram em 1986.",
+   "url": "https://dev.to/matheuscamarques/a-nuvem-chegou-as-mesmas-conclusoes-que-joe-armstrong-e-a-equipe-da-ericsson-chegaram-em-1986-3hid",
+   "date": "2026-07-27T17:06:58+00:00",
+   "summary": "A nuvem chegou às mesmas conclusões que Joe Armstrong e a equipe da Ericsson chegaram em...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Filosofia Oculta das Ferramentas (Agente ou a gente ?)",
+   "url": "https://dev.to/matheuscamarques/a-filosofia-oculta-das-ferramentas-agente-ou-a-gente--52i7",
+   "date": "2026-07-22T19:23:38+00:00",
+   "summary": "Olá, pessoal! Espero que estejam tendo um ótimo dia. Me chamo Matheus de Camargo Marques e o texto a...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Language Tour: Learn Elixir through an interactive guide written in Elixir",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FenNxZzB3R2lyb2FXbVBHYkpaTFRabDQxLW12RmR4NXFnbkY0Tkt6LWtQWkdTMXg0SkIwb1k4dnpyampIYUhIb0dVNFlMYnE4allGZU53?oc=5",
+   "date": "2026-01-22T16:50:23+00:00",
+   "summary": "Elixir Language Tour: Learn Elixir through an interactive guide written in Elixir youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "About Elixir programming language",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGLWxfWjZGRU1kQ19wZWtPdnlhbWY5Wkh4dlhHdnZ4OUQzeFNQVkZzcUhvYVNNLVNpSE5UaGlObUFQeDhRZ2tmUnF3UnJWWlU2cjBtRA?oc=5",
+   "date": "2025-06-04T13:30:12+00:00",
+   "summary": "About Elixir programming language youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 47 - Part 1 Writing Tests for our DSL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VbFBFV1Bhc2NES0Y2N240MThkdDNKdVEyRjVrcVlURTd1THRKREo1SGhKSVh4VDhEdHIxUmVsOXZzVGxxY2ZMOEMyVjJ3X3R3VVlhWVhB?oc=5",
+   "date": "2025-05-12T15:01:38+00:00",
+   "summary": "Elixir Full Course: 47 - Part 1 Writing Tests for our DSL youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 45 - Part 1 Building our own DSL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGSVo0dkwtNWV4eFZLUkc0QTl4cU5CN2ZhR19YOHZOdlFFdVVDMzVJNEtwNG02QTgxZ3VCOWhTM3lDMFFsVUktZ3NtR1VkZlRuVmF5WlFR?oc=5",
+   "date": "2025-04-28T15:01:10+00:00",
+   "summary": "Elixir Full Course: 45 - Part 1 Building our own DSL youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 43 - Application",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3ZzFFVjMtVU1DNnpZX25CT1lTYmlWSkh1aEtCR3lkc1BqYXg1SUdpbEJYWktHOTNxcFZ0RE9DdFZQcDRPWUh3UDFNWTdaVFlKZ0xWTVln?oc=5",
+   "date": "2025-04-14T15:00:28+00:00",
+   "summary": "Elixir Full Course: 43 - Application youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 42 - Agents",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EblJHZUxIdW80Z29ZSzBpcnJkaV9PVXNFdVJmNF83aTZtMEh4RllxSl9ac24za1BBUmthTVBIenJtUGRMTmxLXzdERHZHRzNYRExTNjNB?oc=5",
+   "date": "2025-04-07T15:01:06+00:00",
+   "summary": "Elixir Full Course: 42 - Agents youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 41 - Tasks",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5USXl5UWl2RDd4Q21RdWpxMkpUUU9idWxoeWdWZEhaRk10Q3NDeVpkWTV6MzJzUUlvNGxyMmd5ZlFzd2ppZWFsaXhsSi1aUEFSUzdxTl9n?oc=5",
+   "date": "2025-03-31T15:00:24+00:00",
+   "summary": "Elixir Full Course: 41 - Tasks youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 40 - Supervisors",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95aGJ4N3ZUQ2Z4U0xRVk13WmNtNjVBWFVxREE0Uy15N19fQXJSbW5QMVA2dlhTLWJiTlZNemotRVl1SmxzbExjTjZYaFVFa3JoOGo2QVB3?oc=5",
+   "date": "2025-03-24T15:00:05+00:00",
+   "summary": "Elixir Full Course: 40 - Supervisors youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 38 - Process Linking and Monitoring",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDVnVjOXEtYU14TjJXc3FqbU9OZ3hSNGZuUkhhWHI2S24xdXBWRlRCQnpNNlJveV9TMC1wUkN4Sm4wbXpydkRwT29EQ3RxSU1INUFXamtB?oc=5",
+   "date": "2025-03-10T15:00:04+00:00",
+   "summary": "Elixir Full Course: 38 - Process Linking and Monitoring youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 37 - Sending and Receiving Messages",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pby1PMGdDME5UT2ZsZTg4aWJTeDgwU3MxTDFzM1E0Qmg4U2lGUFJQZ2hvaXp0dnliOVozVUdSTHk0UE02NFR5Vm1Fd2k3MGszdmpPbGdB?oc=5",
+   "date": "2025-03-03T16:00:28+00:00",
+   "summary": "Elixir Full Course: 37 - Sending and Receiving Messages youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Mentor",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrSV9NS2FhUzhZYXFVV2pxanBfZnJRY25ibHBFOGpFeGxxMHliRUl1RzhsSEhYamJtMDNGU01zNDY2Tm9zMmJBZ1BJeG15Zw?oc=5",
+   "date": "2025-02-25T13:52:38+00:00",
+   "summary": "Elixir Mentor youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 36 - Processes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JZkduYzE0ZkQwT0hhNnEzOVNPTEVFQ1JreGdqSjQyQXVyaFpDT203bGRCUHpNM1dRbW1RQW1jSnZ2eXRfNVk4czBUWkE5TnBRMUNxbTdn?oc=5",
+   "date": "2025-02-24T16:00:59+00:00",
+   "summary": "Elixir Full Course: 36 - Processes youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Evolve your developer abilities with Elixir - Carlo Gilmar | Erlang Solutions Webinar",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iN2pvOHdxYWFzTGw1MGtrMEFsV2d4ZG1TSGVDT0duUzIxR0dlRk1SS0dNUlltYUtqeTZvcVVGV1NJc1hTa2xwTGxSYmRrMXlZb2JVQXZR?oc=5",
+   "date": "2025-02-24T14:49:04+00:00",
+   "summary": "Evolve your developer abilities with Elixir - Carlo Gilmar | Erlang Solutions Webinar youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 35 - Introduction to Processes, Concurrency, and OTP",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUXBMR3dkYW0yQTBBbldnNm9rcl80c1NnVTBnMVMxMkhQOVRDY1Z5eEJPcGhnSG9rekh1LU9zcFBRZFl0QjI1V2doLWQ0TVQxM0JmUmt3?oc=5",
+   "date": "2025-02-17T16:00:32+00:00",
+   "summary": "Elixir Full Course: 35 - Introduction to Processes, Concurrency, and OTP youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 34 - Leveraging Structs with Nested Data Structures",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rZnVDVUVOb0JZRllCUU9FNXkyQnlVRUtaQ0hSaklFZmZ5bWdBeG14TnQwa3pXTEQxMm12RTJ2ZTAxQ0kwRUtnRGpGRWJzUDJ4cjlqOEp3?oc=5",
+   "date": "2025-02-10T16:01:05+00:00",
+   "summary": "Elixir Full Course: 34 - Leveraging Structs with Nested Data Structures youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 33 - Defining and using Structs",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZ3ozTnVLYXl2QXBwYUZaYkY5Z2FpRDVlaVhvZzFnaGhXbER2S0xkZlp4OWwxS1R5RGV0ekRvSUVFdkoyaDQ0WkZ5QlNtZHF1QUVEWU9B?oc=5",
+   "date": "2025-02-03T16:00:36+00:00",
+   "summary": "Elixir Full Course: 33 - Defining and using Structs youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Local-first software development with Elixir by James Arthur",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Hc1lzcjQ4NEpLaVA4UVI5SHhIOWx6S2dnNnh2bnZTQjk1ei1MVjdUXzdkUklnbkNhOFA1bFh5X1U4dG1kRkhKUHpBbjZaVXBjYXc4UUV3?oc=5",
+   "date": "2025-01-22T13:49:53+00:00",
+   "summary": "Local-first software development with Elixir by James Arthur youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 30 - Conditional Statements",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBLVNqT21VcmFSYnR0SVc0QVFjUGNNbTNtOTl1azg2TEVGSVo0RTRXV1c4ZExKZV9sUW9aenVwS2lycnhtMVNCaEgzOUVwcFNWYjg2UnZ3?oc=5",
+   "date": "2025-01-13T16:00:21+00:00",
+   "summary": "Elixir Full Course: 30 - Conditional Statements youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 27 - Working with Lists",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TbV85ZDFEN0ZvX250MkFkZ1ZwUkRfYkFkR25rMkViT0FLTzFpMldiVl9IRGlPdDZWT2t0YTQzbFRXUkJ5dFFWemxnY2dGZEc1aWU1XzRn?oc=5",
+   "date": "2024-12-23T16:00:55+00:00",
+   "summary": "Elixir Full Course: 27 - Working with Lists youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 26 - import alias require use",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wY0dtNWJFeE5jZ1liVER2bm9tR0RZSkZUUXJYdDdiNjNEazFORG9WSVNiZXlqcE9ZTElCcHRLTXNCTlEyOUt5Rzgza1ZONnh0bGx0aDJR?oc=5",
+   "date": "2024-12-16T16:00:47+00:00",
+   "summary": "Elixir Full Course: 26 - import alias require use youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 25 - Anonymous Functions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KQzl1d3ZfWnBDbWdfUHZSVjVDX3Jpc2pxOGVoY0xMOE52SWYydTJUZ290U1VGekJXdk9aOW5hcXVEMEhJQlRBYmpOSVF5Q09oOXpDa01R?oc=5",
+   "date": "2024-12-13T16:00:17+00:00",
+   "summary": "Elixir Full Course: 25 - Anonymous Functions youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 24 - Named Functions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OUGsyT19uZHZ1LUpveDIyYkdqNzlKcnVIa2E4M01CVWxKcndkVUgyT08tdHlveFpNTi1JYkN3VG9BbXdrNnVYZUYtanRPSzVmNmJXbERR?oc=5",
+   "date": "2024-12-11T16:00:14+00:00",
+   "summary": "Elixir Full Course: 24 - Named Functions youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 22 - Variables and Pattern Matching",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1WEVhMnFfNjdXSGsxMkRCSUlscVl6ZzljUXQyUjlHalI3YUpXUWlOWC1DbHd1Z0lEZ0tfN0RrMF80UExjRUZlb1FZRExyZENseFdxbVFB?oc=5",
+   "date": "2024-12-06T16:00:53+00:00",
+   "summary": "Elixir Full Course: 22 - Variables and Pattern Matching youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 21 - Keyword Lists",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYczlLS2ZoX0FOMXVWRFBXVVpIcWZOY0ZWVWFUSndVWkdtVGJsVUVwd1VFd2dDWVVXUlc5Tl83RnBhemNWUTBGVDBuSl8wZnNjMUVSRmNn?oc=5",
+   "date": "2024-12-04T16:00:10+00:00",
+   "summary": "Elixir Full Course: 21 - Keyword Lists youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 20 - Maps",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wNk9FYlBMS3ZHZm01UFhsN2N3VHNRTk9pM2Fscnl2cG9VNXdGTDF1MDVWbXlrMWg4QlFONjV0bGlmenlndTFBbzR2X2g3MVczOFZPS1VR?oc=5",
+   "date": "2024-12-02T16:00:14+00:00",
+   "summary": "Elixir Full Course: 20 - Maps youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 19 - Character Lists",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Xdk4tcTM3R2U1cmNkaVhZamNaSHl2RHROSE0zNkFTcUpvdzZHVmJPckJHajZrU2VtU1BScEJBdTYybUJwSnpuZmJIMlNoVEN4X2lucjNB?oc=5",
+   "date": "2024-11-29T16:00:47+00:00",
+   "summary": "Elixir Full Course: 19 - Character Lists youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 18 - Binaries, Bytes, and Bitstrings",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tRU00TzNMV3lTR2k3aGoxTTMydktYLUhscTJWMWg2OUVUZ2o3Y2xyNkhVQXFENVc3R0J2X3EtaU5QN2JydVdpRGxIbXRQZktyUHFsME13?oc=5",
+   "date": "2024-11-27T16:00:26+00:00",
+   "summary": "Elixir Full Course: 18 - Binaries, Bytes, and Bitstrings youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 17 - Tuples",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XNnItTlpoRk1Obm1BZXZPZWlmQW9wMHRSS1pfcWoyRUZqR2tGa2MxQ29rWDNPLV81VTZYMjhjM3dpWXhLZld4ZDRLSUl2UEVXeUN5ZUxB?oc=5",
+   "date": "2024-11-25T16:00:58+00:00",
+   "summary": "Elixir Full Course: 17 - Tuples youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 16 - Lists",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbFU5QkhHS1pqYzBob2NKWXJYdUI2OG1VdTVHOVJhRDNBUzZkZVJHTkRqUW51ZEtxd19CdmhXSnB2dWRFeGEwR3U2WkxOcDdsS2dJWEV3?oc=5",
+   "date": "2024-11-22T16:00:29+00:00",
+   "summary": "Elixir Full Course: 16 - Lists youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 15 - Atoms",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yaERZOGdTSFVpOFZocTFQcU5iOUR3amY5YW5XWXJER0FyckhuamMwWVo5MWxueDBoX29jbWdpMDQ0dXdwTmRNeF9JZkk5c2x4aVRwOXdB?oc=5",
+   "date": "2024-11-20T16:00:52+00:00",
+   "summary": "Elixir Full Course: 15 - Atoms youtube.com",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  }
+ ]
+}

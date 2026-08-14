@@ -1,0 +1,582 @@
+{
+ "generated": "2026-08-14T21:04:36.849497+00:00",
+ "tech": "scala",
+ "count": 56,
+ "items": [
+  {
+   "title": "Representing Music with Code",
+   "url": "https://dev.to/aranadedoros/representing-music-with-code-4kbj",
+   "date": "2026-08-11T22:32:40+00:00",
+   "summary": "Chordal: a Scala DSL for music theory   Another post about my previous DSL experiments. This...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Monitor Your Scala Play Framework Application with Vigilmon",
+   "url": "https://dev.to/vigilmon/how-to-monitor-your-scala-play-framework-application-with-vigilmon-5b6a",
+   "date": "2026-08-04T07:07:37+00:00",
+   "summary": "How to Monitor Your Scala Play Framework Application with Vigilmon   Play Framework is a...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Coding Agents with Scala is a Superpower: Beyond Basic Code Navigation",
+   "url": "https://medium.com/@victorkalinin/coding-agents-with-scala-is-a-superpower-beyond-basic-code-navigation-0ad413bfd7cd?source=rss------scala-5",
+   "date": "2026-07-28T06:16:01+00:00",
+   "summary": "In my previous post, It Hurts to Watch an AI Grep My Scala, I talked about why plain text search, like grep, is a bad tool when LLM agents&#x2026; Continue reading on Medium »",
+   "tech": "scala",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Traversal, Linear Search, Swapping, Shifting & More (Leetcode Code example)",
+   "url": "https://blog.devgenius.io/array-operations-in-java-and-scala-traversal-linear-search-swapping-shifting-more-with-code-4ed85cc716ea?source=rss------scala-5",
+   "date": "2026-07-22T19:33:42+00:00",
+   "summary": "Array Operations in Java and Scala: Continue reading on Dev Genius »",
+   "tech": "scala",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building a desktop app for repetitive Excel and CSV work",
+   "url": "https://dev.to/baccaso/building-a-desktop-app-for-repetitive-excel-and-csv-work-4i26",
+   "date": "2026-07-20T08:17:30+00:00",
+   "summary": "I’ve been building Fuga, a Windows desktop app for repetitive Excel and CSV work.  The basic idea is...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "As we celebrate the 15th anniversary of Kotlin, let’s not forget its Scala roots",
+   "url": "https://alonso-delarte.medium.com/as-we-celebrate-the-15th-anniversary-of-kotlin-lets-not-forget-its-scala-roots-251f9eb3377b?source=rss------scala-5",
+   "date": "2026-07-15T23:27:57+00:00",
+   "summary": "Photo by Uljana Vasiljeva on Unsplash Continue reading on Medium »",
+   "tech": "scala",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Fast and Durable: How Redis and Postgres Split the Work in a Game Backend",
+   "url": "https://dev.to/andy327/fast-and-durable-how-redis-and-postgres-split-the-work-in-a-game-backend-lag",
+   "date": "2026-07-14T20:45:21+00:00",
+   "summary": "A real-time game backend, and how it keeps state fast, correct, and durable — by refusing to make one...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Hearth and Kindlings: libraries worth looking into",
+   "url": "https://jducoeur.medium.com/hearth-and-kindlings-libraries-worth-looking-into-b9d255c8154d?source=rss------scala-5",
+   "date": "2026-07-14T17:32:03+00:00",
+   "summary": "I spent the morning, quite unintentionally, falling into a deep but rewarding rabbit hole. I recommend that serious Scala devs do the same&#x2026; Continue reading on Medium »",
+   "tech": "scala",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Find Min, Max, and Top 5 Elements in an Array in Java and Scala (With Code Examples)",
+   "url": "https://blog.devgenius.io/how-to-find-min-max-and-top-5-elements-in-an-array-in-java-and-scala-with-code-examples-7155d6b3b242?source=rss------scala-5",
+   "date": "2026-07-14T15:55:51+00:00",
+   "summary": "Introduction Continue reading on Dev Genius »",
+   "tech": "scala",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "One Name, Two Languages: Giving Siunertaq a Canonical Namespace.",
+   "url": "https://dev.to/p_pumulo/one-name-two-languages-giving-siunertaq-a-canonical-namespace-bdm",
+   "date": "2026-07-07T02:25:44+00:00",
+   "summary": "This is the third post in a series on Siunertaq, a small Scala 3 project that models computation as...",
+   "points": 1,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Java and the JVM Ecosystem: Kotlin, Scala, and Beyond",
+   "url": "https://dev.to/gpuneet/java-and-the-jvm-ecosystem-kotlin-scala-and-beyond-55ei",
+   "date": "2026-07-04T15:29:19+00:00",
+   "summary": "Java is more than a language. Exploring the JVM ecosystem and how Kotlin, Scala, and other JVM languages extend Java’s capabilities.",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "One Stack Machine, Two Runtimes: Cross-Validating Scala and Perl with a Shared JSON IR",
+   "url": "https://dev.to/p_pumulo/one-stack-machine-two-runtimes-cross-validating-scala-and-perl-with-a-shared-json-ir-29jc",
+   "date": "2026-06-29T10:28:24+00:00",
+   "summary": "This follows up on Mainframes, Monads, and Stack Machines. Short version of that post: we model...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Brute force isn't grit. It's the bill for a plan you skipped.",
+   "url": "https://dev.to/fagundesv/brute-force-isnt-grit-its-the-bill-for-a-plan-you-skipped-1a0l",
+   "date": "2026-06-24T03:00:00+00:00",
+   "summary": "Brute force isn't grit. It's the bill for a plan you skipped.  We've turned grinding into a...",
+   "points": 1,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Scala and SBT Dependency Security — Scanning Your JVM Projects for Vulnerabilities",
+   "url": "https://dev.to/vulert_official/scala-and-sbt-dependency-security-scanning-your-jvm-projects-for-vulnerabilities-414o",
+   "date": "2026-06-23T13:42:08+00:00",
+   "summary": "Scala powers high-value systems in data engineering, fintech, streaming, and backend services. That...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Registers, Lanes, and Berry Phase: Lifting Siunertaq from Batch Graphs to the Complex Plane",
+   "url": "https://dev.to/p_pumulo/registers-lanes-and-berry-phase-lifting-siunertaq-from-batch-graphs-to-the-complex-plane-5164",
+   "date": "2026-06-17T02:31:57+00:00",
+   "summary": "The previous article is here: Mainframes, Monads, and Stack Machines: Extending Siunertaq to the...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I made OR-Tools prove it was better than the deterministic dispatcher",
+   "url": "https://dev.to/kingsleyonoh/why-i-made-or-tools-prove-it-was-better-than-the-deterministic-dispatcher-46i9",
+   "date": "2026-06-15T20:05:19+00:00",
+   "summary": "Dispatch optimization needs a lower bound before it needs a clever objective. In the first real OR-Tools integration, the solver selected…",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Mainframes, Monads, and Stack Machines: Extending Siunertaq to the Batch Layer",
+   "url": "https://dev.to/p_pumulo/mainframes-monads-and-stack-machines-extending-siunertaq-to-the-batch-layer-5ih",
+   "date": "2026-06-12T00:34:03+00:00",
+   "summary": "This is a follow-up to my previous post on Dhall-to-Effect and provably safe task orchestration. If...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Encrypting PostgreSQL Columns in Scala with skunk-crypt",
+   "url": "https://dev.to/thatscalaguy/encrypting-postgresql-columns-in-scala-with-skunk-crypt-21o3",
+   "date": "2026-06-08T17:48:12+00:00",
+   "summary": "Some columns shouldn't sit in your database as plain text. Email addresses, phone numbers, tax IDs,...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Dhall-to-Effect: Provably Safe Task Orchestration via Total Functional Configuration and Purely Functional Runtimes",
+   "url": "https://dev.to/p_pumulo/dhall-to-effect-provably-safe-task-orchestration-via-total-functional-configuration-and-purely-2lnb",
+   "date": "2026-06-02T03:24:47+00:00",
+   "summary": "ᓯᐅᓇᕐᑕᖅ — Inuktitut for \"that which lies ahead; a purpose\"            🗣️ On the Name   Full...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Modern SCADA Systems Need Structured Learning More Than Ever",
+   "url": "https://dev.to/baotthitawat/modern-scada-systems-need-structured-learning-more-than-ever-o9b",
+   "date": "2026-05-27T07:20:00+00:00",
+   "summary": "SCADA development today is becoming far more complex than traditional monitoring and control...",
+   "points": 0,
+   "tech": "scala",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Apache Spark Scala Tutorial for Beginners | Apache Spark with Scala Tutorial Session - 1 | myTectra",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQLVltaFAxQ3VaUl9Qa3E1WFBqYnpRY0RRMEhpYUNRTy1Fb3pJWnA1bVZMeWxkc1QxZmx2NGZ4dF91VFIzWjdvX2MzbjYtWEV3NUpUTFVn?oc=5",
+   "date": "2025-12-10T14:30:03+00:00",
+   "summary": "Apache Spark Scala Tutorial for Beginners | Apache Spark with Scala Tutorial Session - 1 | myTectra youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "1: Welcome to the “Advanced Scala 3” video course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VXpJby1PdmE1WjBqVldBbFc5WHVKcHhJei1acUI1T2xUbEpiUURyZTdfMEVTQWpyTkZ3VlhxbEYySVRTQTBzc3huRUNYeTk1NnlRNXhR?oc=5",
+   "date": "2025-09-04T09:30:42+00:00",
+   "summary": "1: Welcome to the “Advanced Scala 3” video course youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "1: Introduction to Scala 3",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzZ3MyT2NKQUNoY1NwX0xERGsxUnRyV3RERHVjMEZqcXpLSWZUdWxwaEd1QzNvelA0Y25LZWZpQW5WRTktUGI0NDJDelNXT2pPMnVKQkd3?oc=5",
+   "date": "2025-09-04T09:22:54+00:00",
+   "summary": "1: Introduction to Scala 3 youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Complete Apache Spark & Scala Tutorial | Learn Big Data Processing Step-by-Step | GoLogica",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40WGFnaXY3VHFqdHI0aEhGSjNoclBPcFcyYnAzSzVDMFBMZllIWWxGbjNVX3h2akx1eE5mSDQxUHBoYVU1REM3cHZyRTZndXNFVTVCM2dR?oc=5",
+   "date": "2025-07-04T13:30:34+00:00",
+   "summary": "Complete Apache Spark & Scala Tutorial | Learn Big Data Processing Step-by-Step | GoLogica youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Scala in 2025: How to Start, What to Learn | Functional World #16",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NQ3RkcEZMR0diQ3JyM3NLZ1g1WEhOZTk5Sm9HQ2JvSkc3VjN5UEtreFdjb05tdXlGTEM4TWRvN2hmcmw2WlBRYmJzSzF2bmlIMDBZWm1n?oc=5",
+   "date": "2025-03-12T05:58:49+00:00",
+   "summary": "Scala in 2025: How to Start, What to Learn | Functional World #16 youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Scala Programming for Java Developers: A Beginner's Guide",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMFo4a1RESE9MUEtpWlQxbjlUbHFyZWFVcmpjUmhWTnJrS2UzZko1YTZlY0VOU3VVcW1QRDJUbDJOc0JNTlA3bDhCemx5dmc1OXFRckNR?oc=5",
+   "date": "2024-07-10T11:01:40+00:00",
+   "summary": "Scala Programming for Java Developers: A Beginner's Guide youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - Intro: Learning Spark",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pVURVd2hYWFVaZlRjbjRETkg0VTliSWFKUlU5MmFNei1mMUFmYTFqcmJxdHcwRTN6RVc5dldXYWNkV3RGYkdxWTZoc0x1THZVQXk5M2d3?oc=5",
+   "date": "2024-05-24T11:58:10+00:00",
+   "summary": "Spark with Scala Course - Intro: Learning Spark youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "How to Write Full-Stack Scala Applications - Typelevel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ac2s4TnltUVh1aVlEU1BobmFiRDdCRmZSY0g3Q1g4WWZKWU11eVNEaHNDc0ZIVC1sbVN1d24yVE9XUnB0Q215QTQxaXRMYlhQMk51LWJ3?oc=5",
+   "date": "2024-01-25T09:43:52+00:00",
+   "summary": "How to Write Full-Stack Scala Applications - Typelevel youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Apache Spark & Scala Course: Step-by-step from Beginner to Pro [Hands-on, code demos, examples, Tutorial, Workshop]",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01M1ZtdjVEcE1Sd1FJalpLT3RZOWRCclhvN25heGRYbkc2QzJzdGxhY2tzUENVamlSQ0pmNDlON3RWaENCcVN0N0JyVWhnSVp1OFNUNnE3NzJuMHhtM2ZvdTFpSXAyQnRpZ2JacGRtb0JHQmpGdEdvQTVXbUE?oc=5",
+   "date": "2023-11-25T22:01:44+00:00",
+   "summary": "Apache Spark & Scala Course: Step-by-step from Beginner to Pro [Hands-on, code demos, examples, Tutorial, Workshop] youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #15 On testable code & our first test",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41cDVrVGw0VXZxZHpFYzRSc0FtNVlWRHlHdVdLS0Vqc0xveGRJTmR2elF0ZU5ZZFJYM2hVT3NxUGx4T21ZQVlLOTN4UjVHZUM1ZVJFYUJ3?oc=5",
+   "date": "2023-11-01T13:00:28+00:00",
+   "summary": "Spark with Scala Course - #15 On testable code & our first test youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #12 Window Functions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCMWwtY1JlYzdJMms4QW1UUW5zc0JLRDZ4cjBDdlVudkFrbGFBOTV1WXdpZXVUWVRmaEtkSDMyTWk2Nm1xM1ptT1NZMnZUM00yamxxSklR?oc=5",
+   "date": "2023-10-16T11:00:09+00:00",
+   "summary": "Spark with Scala Course - #12 Window Functions youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #10 What is Spark?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Rm03cVJVYXdNUjY3ZUtSVmk4ME5WYTNsWVpMNkdHWjlnS3NtZ21aaGhaY2NlMlhRbHExTm5DZTRESTcwVW9XZ0VQMGtHMEliRzFUa0h3?oc=5",
+   "date": "2023-10-12T11:30:13+00:00",
+   "summary": "Spark with Scala Course - #10 What is Spark? youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #8 SQL Expressions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02RV9YYVdLYURidVZRZWx4dnhlLWVqRVRxQ1ZqMUVmWXMySy1mYlFrYlo3Uy1LXzViUG50RWNvclFWUW1pLVQxRDZjQVF6WDJYN0M4a2h3?oc=5",
+   "date": "2023-10-02T11:51:00+00:00",
+   "summary": "Spark with Scala Course - #8 SQL Expressions youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #6 Column Functions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3MHZNaXV4TUprajE5eG9pM3c0VkprdmEwZUtVdU4wTlgtZHplUmNQaVlMUVdHeFhjOFdHS1Z5SXVRaV9OeGVGbXFDR193UU00N1ByQUFB?oc=5",
+   "date": "2023-10-02T11:50:53+00:00",
+   "summary": "Spark with Scala Course - #6 Column Functions youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #4 The Dataset API",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TQU0yYjRPYVdGWWRKM0cxQmt3RzlFMmFMZGNPcmREUGNtR3NsbU03dGRPODJ0ajRmZkM0SHNEb0NBMnVyR3hlZTdsdDkzUkxYR2NHUTlR?oc=5",
+   "date": "2023-10-02T11:50:47+00:00",
+   "summary": "Spark with Scala Course - #4 The Dataset API youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #2 First Application: Read csv and show action",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZTJlMHp5blQ4ZkhVTV82VWRiTzFEMkdLcGZHY09ER1VGYzRHOFBnWndXNl90RVZLcTRTa2lSVzZTM05NMC1welV1TDN3ZGhIcl9HeU53?oc=5",
+   "date": "2023-10-02T11:50:41+00:00",
+   "summary": "Spark with Scala Course - #2 First Application: Read csv and show action youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Spark with Scala Course - #1 Setting up a development environment using IntelliJ, SBT, Scala & Spark",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3ZTY1Z1RzcXBEY3JNSkxvRWNjUjJpUEdtZ2t6cDZ3b2ZWV0wxSVQwOHdNVXFUSkFoZy10Q28zQ01wV1NJV2dUMURHZFo2cW44aWw4WjRn?oc=5",
+   "date": "2023-10-02T11:50:37+00:00",
+   "summary": "Spark with Scala Course - #1 Setting up a development environment using IntelliJ, SBT, Scala & Spark youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Scala Programming Full Course | Scala tutorial For Beginners | Part 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSEctSkpQOU9CbW9GZkpUSlRPMnNSS09mLVpRbXc4WVFHZkw4d0ZEbjYxTkFxZHhZSVRYX25wM0g5aURkLXFQWHItbVN6aE16NkMyVHdR?oc=5",
+   "date": "2023-05-30T18:54:17+00:00",
+   "summary": "Scala Programming Full Course | Scala tutorial For Beginners | Part 1 youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Functional Programming in Scala | Functional Programming and Scala",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpamRvbUxFR0VxOGpUblZCMUJESUg3QXVmd1BTNm9uUnNTUHI3bUxKdUxYcFdGbmJxSVFLZkRpZGgwUzA5Smw3YU8tLVBJOWxaMV9CWnp3?oc=5",
+   "date": "2023-03-17T22:45:41+00:00",
+   "summary": "Functional Programming in Scala | Functional Programming and Scala youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "🔥Spark Full Course 2026 | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZWZaWnJFWFhGT1Z6Qk9kM2N0Tnh1bHNJNlpSdTBCWEhZRC1DV195OHZCNmx5ekFHU2hVR3VlenRRMEFvX2NUXzA2aVM2Yk51T3hibW9B?oc=5",
+   "date": "2023-03-02T21:28:35+00:00",
+   "summary": "🔥Spark Full Course 2026 | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Scala Full Course!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZG1VNnAtdGk3Um80NzNCQjAzeEhLbi13N1ZxSmQ5eHBHcVRYZDBoWkZfQ21WaDJlQW1wRldJbHlLZV8xREVFVUNQYXAtYi1xcDdESEpB?oc=5",
+   "date": "2023-02-16T22:39:39+00:00",
+   "summary": "Scala Full Course! youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to Scala Development using vscode - Dick Wall",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TY29OdjBQTGRMa0RaWThnOTFod0NJdUp1U1JHQTZNNEF5bTBoaVI4UW1wRFRlUTVRWDNPMmNJNi1YalBvbFYwc1pjUElENlpuQm02Q0FR?oc=5",
+   "date": "2023-02-01T09:27:39+00:00",
+   "summary": "Introduction to Scala Development using vscode - Dick Wall youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Apache Spark Full Course [2024] | Learn Apache Spark | Apache Spark Tutorial | Edureka",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBES0FuM3JYSFpOdzFFRHFfWlp0VVloN0lTOTVVNFBEQ3k2UGhoeWRZaFJpSDFBVFREWXlHOVc1NUlGV2hYdXVyeWdZcTNlc0dyZkxqUGNR?oc=5",
+   "date": "2023-01-19T16:22:05+00:00",
+   "summary": "Apache Spark Full Course [2024] | Learn Apache Spark | Apache Spark Tutorial | Edureka youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Scala CLI Tutorial: Building and Running Scala, Directives, Scala Native and a Pure Sudoku Solver",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpd2Z6QVJadERGVURYeXpEZDM3dUJsVFNzUUpCTFptT1I2eVBsc3l4TGtDWDl5UGJpdFhxR014ZTFSNHgzZG5MQ3RHMFNjQk9lbHBGTTB3?oc=5",
+   "date": "2023-01-16T21:09:55+00:00",
+   "summary": "Scala CLI Tutorial: Building and Running Scala, Directives, Scala Native and a Pure Sudoku Solver youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "A Sweet Beginner's Guide to Scala by Daniel Ciocirlan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xbGlZbGpNMXVqQXVKbXAyS3ZIVWFlUnFQZVJ6Y3pEYUQzSS1wUnlpNzA0d2xHdUxHZG9GWTNEQS1Jb2hjR3BncUJBbFUzNUlobXpoQWp3?oc=5",
+   "date": "2022-12-07T12:58:48+00:00",
+   "summary": "A Sweet Beginner's Guide to Scala by Daniel Ciocirlan youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "A Quick introduction to Scala Language",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VX2d6YmttVXE2QmhwbWVac1lUQUtfLUV4RnI5aUFNTWo5Wk1LWXdELVlhWkc3a3V2eWhGNWVkUHdJc3h3TlZxSzVIQ0ZFZ3p4WU9LZm93?oc=5",
+   "date": "2022-11-13T15:29:07+00:00",
+   "summary": "A Quick introduction to Scala Language youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Top 10 Skills to Learn to Be a Scala Developer",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNck1vX2RURkx6YzFNeXBRVzhscVhKUXJEUFhrRThBVTZVYlRaaGkxUzdKMGJyMk1hRFZodzFubXp3dkNjSjRVVkpuV0NLYzZIUkFVdE93?oc=5",
+   "date": "2022-11-09T14:53:49+00:00",
+   "summary": "Top 10 Skills to Learn to Be a Scala Developer youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Functional Programming Crash Course for Scala Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wVTRZS0ZBRXhzN0ZPMmdPV21WQ0lJeHpYbXpoR2Z1UTEzRXVGV3hGbXlDYUxzSDJjWWs2OVhGZXVETWxxMU1XUmFsVmZvNlEyTGwtd3Nn?oc=5",
+   "date": "2022-07-31T15:01:41+00:00",
+   "summary": "Functional Programming Crash Course for Scala Beginners youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "FS2: Typed Functional Streams in Scala",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNi1Ha3V3TVRvbGFQb1dJdlJRdkFyc2xINExIRmptWmZPemN0MGZaWHZwRWRxdU52UjRGOUtYNE1tbmkxN21uSThSTDFVaE45WDZDWGlR?oc=5",
+   "date": "2022-02-10T18:38:34+00:00",
+   "summary": "FS2: Typed Functional Streams in Scala youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Scala Training | Apache Scala Certification Course Online | Apache Scala Tutorial | MindMajix",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WMGk3dVUzcFBTVmlldTRvMXpGUjF1OXhrYzNXdlo2d2lUdG9UamEyM0ZpSlBtSXQ1VWkzYkJaUEpqa3ZiUDEzaUVoRVl2ZFhLQmZWdk5B?oc=5",
+   "date": "2022-01-31T11:30:10+00:00",
+   "summary": "Scala Training | Apache Scala Certification Course Online | Apache Scala Tutorial | MindMajix youtube.com",
+   "tech": "scala",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "تركيب مضخة سكالا 2 | الوابل للمضخات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zTTBBNFMyUUVtZ2ltN0VXOHlpZXZJcTRfVEtFNnNIMXZ6NGFnRFpOUGdjeVVYZk1JVlNrVzk0WnhKUlZZX1M2c2thWGdpdFZiSGJZZVJ3?oc=5",
+   "date": "2022-01-25T05:57:18+00:00",
+   "summary": "تركيب مضخة سكالا 2 | الوابل للمضخات YouTube",
+   "tech": "scala",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مراجعة وشرح لـ مضخة سكالا 2 من جراندفوس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1va2JBVXZldVVuZ0pMSVVpc0VpbldmSzlsNlBIaG9ja2w4S3ZZak82bVMwT1MyeHlTeDY3d2h0SFRGc1lqcHYxSVczOHNlNFVxQm40N0xn?oc=5",
+   "date": "2021-08-26T12:15:48+00:00",
+   "summary": "مراجعة وشرح لـ مضخة سكالا 2 من جراندفوس YouTube",
+   "tech": "scala",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مضخة سكالا 2 الذكية Scala2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kbWNJXzRmOHhqZGZ3NEp5dG10Wm53YXRTOWtkV18wUVp3SVJ1cUJwU3hWUWhKX0ZERDlFMDhxa3NOX09iclliNWdDUE55VUlLd1c1T0V3?oc=5",
+   "date": "2021-06-14T12:35:26+00:00",
+   "summary": "مضخة سكالا 2 الذكية Scala2 YouTube",
+   "tech": "scala",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استعراض مضخة سكالا scala2 من سناب رضوان",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WZ2NOWnZ0ZjhOZS14djJmejlFc0FFWkZyeW84Z2tDRUllaDg5MFBjU0ZoTUFjTDhranpBUnVuM3lPbFVZNHgzUEYzZzdid0lVU2ZYNmNn?oc=5",
+   "date": "2021-02-23T15:52:20+00:00",
+   "summary": "استعراض مضخة سكالا scala2 من سناب رضوان YouTube",
+   "tech": "scala",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "لوحة تحكم مضخة سكالا2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByemZMWi1hY0paMUZaLUxkOXVGV3ZwUjVRMllLUXhNVUtrUkp5T1kzemg2ZHdIYURHQS1QOW8ybGctTUxjWUNkX3Q0aHo2M2tHZndpeVpn?oc=5",
+   "date": "2020-07-27T08:15:06+00:00",
+   "summary": "لوحة تحكم مضخة سكالا2 YouTube",
+   "tech": "scala",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مضخة سكالا2 (SCALA2) طريقة التركيب و التشغيل و مميزاتها (لطلب المضخة تم وضع الرابط اسفل الفديو)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MeUpLQVB4NlBZcE15cWVyQWVYRnppRDVVQnRWeEM5Z3V4dFI5cWxuRlpfMVlZaGx5OGU1dm5zTlRBRkZneUdWcnhJd2M0eF9SQjRvZ0xn?oc=5",
+   "date": "2020-04-22T06:45:08+00:00",
+   "summary": "مضخة سكالا2 (SCALA2) طريقة التركيب و التشغيل و مميزاتها (لطلب المضخة تم وضع الرابط اسفل الفديو) YouTube",
+   "tech": "scala",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  }
+ ]
+}

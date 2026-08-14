@@ -1,0 +1,582 @@
+{
+ "generated": "2026-08-14T21:05:10.961956+00:00",
+ "tech": "julia",
+ "count": 56,
+ "items": [
+  {
+   "title": "Julia: Working with vectors and matrices — Part 4",
+   "url": "https://medium.com/@angelogalvao/julia-working-with-vectors-and-matrices-part-4-8312b8133f2e?source=rss------julia-5",
+   "date": "2026-08-06T14:53:42+00:00",
+   "summary": "In this article, I&apos;ll play around with some cool matrices! Just that! Let&apos;s go play together! Continue reading on Medium »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Julia’s Hidden Superpower Nobody Talks About",
+   "url": "https://medium.com/chifi-media/julias-hidden-superpower-nobody-talks-about-d52be81df403?source=rss------julia-5",
+   "date": "2026-08-05T10:09:07+00:00",
+   "summary": "The most compelling reason to switch to Julia is hiding in the background, and nobody ever mentions it! Continue reading on chifi »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "10 Random Julia Tips To Help You On Your Way",
+   "url": "https://medium.com/chifi-media/10-random-julia-tips-to-help-you-on-your-way-3ecfcd77b77a?source=rss------julia-5",
+   "date": "2026-08-04T06:32:51+00:00",
+   "summary": "10 of my favorite code snippets to completely change your Julia software. Continue reading on chifi »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Julia: Working with vectors and matrices (angles and linearity) — Part 3",
+   "url": "https://medium.com/@angelogalvao/julia-working-with-vectors-and-matrices-angles-and-linearity-part-3-3591b4cf731b?source=rss------julia-5",
+   "date": "2026-08-03T16:15:43+00:00",
+   "summary": "This is the third part of working with vectors and matrices. Now I will talk about vector angles and linearity. The last story of this&#x2026; Continue reading on Medium »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Anatomy of a Hybrid AI Agent: Combining Prolog, Julia and Lisp",
+   "url": "https://sigaretto.medium.com/anatomy-of-a-hybrid-ai-agent-combining-prolog-julia-and-lisp-ad438d24f687?source=rss------julia-5",
+   "date": "2026-07-31T23:04:12+00:00",
+   "summary": "Breaking down a three-layer architecture that blends logical planning, numerical computation, and meta-programming Continue reading on Medium »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why Prolog, Lisp and Julia Struggle to \"Talk\" to Each Other",
+   "url": "https://sigaretto.medium.com/why-prolog-lisp-and-julia-struggle-to-talk-to-each-other-f8701cd85a65?source=rss------julia-5",
+   "date": "2026-07-30T13:13:36+00:00",
+   "summary": "The limits of cross-language bridges aren&#x2019;t an engineering problem&#x200A;&#x2014;&#x200A;they&#x2019;re structural Anyone who has tried to make different paradigms&#x200A;&#x2014;&#x2026; Continue reading on Medium »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The Data Scientist’s Guide to Julia: Use Cases, Strengths, and 2026 Outlook",
+   "url": "https://medium.com/@elnorabunton/the-data-scientists-guide-to-julia-use-cases-strengths-and-2026-outlook-04128348e8a8?source=rss------julia-5",
+   "date": "2026-07-24T08:13:51+00:00",
+   "summary": "High-performance computing is becoming a bigger deal as AI and data science workloads keep growing in scale and complexity, and Julia has&#x2026; Continue reading on Medium »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Finding The Treasure BY JENN WEBSTER",
+   "url": "https://jnw112774328.medium.com/finding-the-treasure-by-jenn-webster-3c645d907272?source=rss------julia-5",
+   "date": "2026-07-16T05:01:02+00:00",
+   "summary": "Julia was a disciplined and well-organized person, yet she had just been let go from her job because the company was trying to cut back&#x2026; Continue reading on Medium »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Julia: Working with vectors and matrices — Part 2",
+   "url": "https://medium.com/@angelogalvao/julia-working-with-vectors-and-matrices-part-2-548880a87591?source=rss------julia-5",
+   "date": "2026-06-21T20:54:45+00:00",
+   "summary": "This is the second part of working with vectors and matrices. The first part of the series can be read here: Continue reading on Medium »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Built a Free Open-Source Library of 89 Romanian Legal Document Templates — Then Added Malbolge",
+   "url": "https://dev.to/ciprianlocalpulse/i-built-a-free-open-source-library-of-89-romanian-legal-document-templates-then-added-malbolge-52j6",
+   "date": "2026-06-20T13:08:47+00:00",
+   "summary": "A deep dive into building acte-juridice-romania: 89 free legal document templates for Romania, a Julia package, an interactive web generator, and one very cursed easter egg.",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Froze Simulation Inputs Before the Solver Ran",
+   "url": "https://dev.to/kingsleyonoh/why-i-froze-simulation-inputs-before-the-solver-ran-592",
+   "date": "2026-05-28T13:24:24+00:00",
+   "summary": "A planner can approve the right transfer for the wrong reason. That was the failure mode I kept coming back to while building the Inventory…",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Rust 1.95 vs Julia 1.10: Performance for Scientific Computing Tasks",
+   "url": "https://dev.to/johalputt/rust-195-vs-julia-110-performance-for-scientific-computing-tasks-3pb8",
+   "date": "2026-05-05T13:48:51+00:00",
+   "summary": "In 2024, scientific computing teams wasted $420M on tooling mismatches according to O'Reilly's State...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Case Study: We Adopted Julia 1.10 for Data Science and Cut Processing Time by 60%",
+   "url": "https://dev.to/johalputt/case-study-we-adopted-julia-110-for-data-science-and-cut-processing-time-by-60-3402",
+   "date": "2026-04-28T16:58:04+00:00",
+   "summary": "In Q3 2024, our 12-person data engineering team replaced 14,000 lines of Python/pandas ETL code with...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "@async in Julia is not parallelism - but @Thread.spawn is...",
+   "url": "https://dev.to/sommukhopadhyay/async-in-julia-is-not-parallelism-but-threadspawn-is-16hb",
+   "date": "2026-04-15T12:12:00+00:00",
+   "summary": "The Core Idea   In Julia , @async gives you concurrency , not parallelism.    @async → runs...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "IPC - Incremental Potential Contact - implemented using Julia...",
+   "url": "https://dev.to/sommukhopadhyay/ipc-incremental-potential-contact-implemented-using-julia-4l1i",
+   "date": "2026-04-12T07:39:00+00:00",
+   "summary": "Scientists have started noticing Julia.  The word spreads.  Not through a marketing campaign.  But...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Half Sync - Half Async design pattern implemented using Julia...",
+   "url": "https://dev.to/sommukhopadhyay/half-sync-half-async-design-pattern-implemented-using-julia-1cp8",
+   "date": "2026-04-08T14:11:00+00:00",
+   "summary": "My deep study of the Android AsyncTask framework many years ago - a perfect example of this design...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Structured Concurrency in Julia: A Clean Approach Using @sync and Threads.@spawn",
+   "url": "https://dev.to/sommukhopadhyay/structured-concurrency-in-julia-a-clean-approach-using-sync-and-threadsspawn-9ik",
+   "date": "2026-04-08T06:19:00+00:00",
+   "summary": "Concurrency is often introduced with complexity—locks, counters, race conditions, and subtle bugs....",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Usefulness of Julia in engineering syllabus - we must include it in the engineering curriculum...",
+   "url": "https://dev.to/sommukhopadhyay/usefulness-of-julia-in-engineering-syllabus-we-must-include-it-in-the-engineering-curriculum-1kci",
+   "date": "2026-03-08T08:11:00+00:00",
+   "summary": "Hey guys... today I want to write about the basic hindrance of engineering college studies. You know...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Simple Cloth Simulation in Julia — Inspired by My Son’s Blender Experiments",
+   "url": "https://dev.to/sommukhopadhyay/a-simple-cloth-simulation-in-julia-inspired-by-my-sons-blender-experiments-5bgk",
+   "date": "2026-03-06T11:52:00+00:00",
+   "summary": "Four years ago, I watched my son Ridit, in class V back then, experimenting with cloth and soft-body...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How Rebuilding My Old FFT Spectrum Analyzer Opened a New Railway Safety Perspective - magic of julia",
+   "url": "https://dev.to/sommukhopadhyay/why-julia-is-becoming-so-popular-among-sciml-engineers-and-how-rebuilding-my-old-fft-spectrum-2g0g",
+   "date": "2026-02-26T15:01:00+00:00",
+   "summary": "Back in 2012, I wrote a small experimental piece on building a simple FFT-based spectrum...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Engineer in Me is Jubilant — Julia, A Language for System-Level Experimentation for engineers...",
+   "url": "https://dev.to/sommukhopadhyay/the-engineer-in-me-is-jubilant-julia-a-language-for-system-level-experimentation-for-engineers-4dj8",
+   "date": "2026-02-21T14:44:00+00:00",
+   "summary": "There are moments in an engineer’s life when a tool just clicks.  For me, that moment came while...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Paradigm shift - from behaviours inside objects in OOAD to Julia's multiple dispatch...",
+   "url": "https://dev.to/sommukhopadhyay/paradigm-shift-from-behaviours-inside-objects-in-ooad-to-julias-multiple-dispatch-nil",
+   "date": "2026-02-20T11:29:00+00:00",
+   "summary": "OOAD Thought Processing            Concept → Owner    Behavior → Object Polymorphism →...",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Keep Julia Awake: NoSleep.jl",
+   "url": "https://dev.to/metelkin/keep-julia-awake-nosleepjl-4pko",
+   "date": "2025-10-04T07:00:00+00:00",
+   "summary": "A lightweight Julia package to prevent your computer from falling asleep during long-running jobs. Cross-platform (Windows, macOS, Linux), simple API, and safe by design — created for overnight simulations or unattended ",
+   "points": 0,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to Julia | JuliaCon Global 2025 | Bauman, Meitz, Madureira",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qQl9SNHNGRmNWejROUmh4Rnk1S1luMURxVEZFZGF0dVZEc3lUc0R0SVBfd1c0UzJtcklZREl2RllaSzE3RTctckJPb1hXQ0lPb0U2ckx3?oc=5",
+   "date": "2025-09-17T07:26:28+00:00",
+   "summary": "Introduction to Julia | JuliaCon Global 2025 | Bauman, Meitz, Madureira youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Julia for Engineers Part 1 Intro to Julia and ModelingToolkit",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83YkNpMGxrcHVoZXBYTlVIekU5X2ltemktWWJxU3cySWpxaWVzai10SnJ2SHNVSGlYNFFfMUJZQzl3SmNmeUhiNjJJVHBRTGluTDc0WVZB?oc=5",
+   "date": "2025-08-01T08:51:11+00:00",
+   "summary": "Julia for Engineers Part 1 Intro to Julia and ModelingToolkit youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "16. HPC Cluster Essentials: Tools, Techniques, and Best Practices [HPC in Julia]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQm9vdldJNGYxbVJTRExOenN5aXpNOHM5Q1NBTTlra29KZzIyQWV0NGR5QlM5NVFHS0NKVjVfT0I5bUEtM2lsRmFLZFE4Zl9KcXE4aF9B?oc=5",
+   "date": "2025-04-09T08:00:12+00:00",
+   "summary": "16. HPC Cluster Essentials: Tools, Techniques, and Best Practices [HPC in Julia] youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "14. Multithreading [HPC in Julia]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZdUd5aDR1VTgyVGVQYS1BWlZpRmd2V1FhWXdyX0JEQTZZbnBEVnFZNlVZS3BfbEgyVVlLTXVGYUtmYWN2V01Ld3htZ2tMbm5GY1JyQXJ3?oc=5",
+   "date": "2025-03-25T08:00:19+00:00",
+   "summary": "14. Multithreading [HPC in Julia] youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "12. Optimisation Tips & Tricks [HPC in Julia]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tc2hHVk96dngyUjFuVVBuSVJaanhfWUdnUVFQZ1BHM2tRc3VLNHp0U3VHWXg4eG41ZHV0TmdNeVNfV29USUtyTDJQbzljTlhIc1VOT01n?oc=5",
+   "date": "2025-03-01T08:00:33+00:00",
+   "summary": "12. Optimisation Tips & Tricks [HPC in Julia] youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "09. Modern CPU Architecture [HPC in Julia]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tdzlZRmFTTXk0dEV2cEl2SGc1bkpLU0hnOGRzSFBuQktUNzhlazVIRE1rRWlMMkprQ2JQM2xnVGJHYTM3QVd5MWJwLTlTS01oVXdLdXdB?oc=5",
+   "date": "2025-02-11T07:06:08+00:00",
+   "summary": "09. Modern CPU Architecture [HPC in Julia] youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "08. Benchmarking [HPC in Julia]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9admdLRURxWVQzamV6QXM3T3FTNVFWOG9XLVRDdTdUb2tycnBWbTRwcmdRdllGdTRGUWNFZS11aFFJVklnc0lkUVZoWC1XdWN5QnVQLV9n?oc=5",
+   "date": "2025-02-06T15:17:31+00:00",
+   "summary": "08. Benchmarking [HPC in Julia] youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "05. Julia Overview [HPC in Julia]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94OWVkOUZSa1Z6Uk9CU3I0QTc0OHB1LXJ5dXNGVUdKZUNjU01qY0hwX2xIcDNRYU5JME1Nb2U4azQzbWI1dEpKTE9lSUo3VUI1V3EyaDZ3?oc=5",
+   "date": "2025-01-27T17:20:43+00:00",
+   "summary": "05. Julia Overview [HPC in Julia] youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "01. Introduction [HPC in Julia]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMZTdYZVFUTWtYZjBzMWFMdTRIMDIxQ05jN09FT2hJYWdWSXEzbWZoRGtDdzRVQzhsUkRSc2F1c085TG96MmN0TDJvQktwUWs5TmI5Z0lB?oc=5",
+   "date": "2025-01-21T09:17:43+00:00",
+   "summary": "01. Introduction [HPC in Julia] youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "How To Reload Julia Web App with Revise and Oxygen",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOU40NjJUOWxxM3lHUmR0M2pYalZtczAtVThuaTg3dENiRUs3eEdmTUFWOG1FTGF3dHFvZy01MWduUFE0aFVhUVZydWF5WFl3Q1NOQVdn?oc=5",
+   "date": "2024-12-25T17:26:18+00:00",
+   "summary": "How To Reload Julia Web App with Revise and Oxygen youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Beginner's Guide to Programming Languages for Machine Learning",
+   "url": "https://dev.to/susanneema/beginners-guide-to-programming-languages-for-machine-learning-4832",
+   "date": "2024-08-02T07:17:01+00:00",
+   "summary": "Machine learning is an exciting and rapidly evolving field that blends mathematics, statistics, and...",
+   "points": 1,
+   "tech": "julia",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Update to Julia (+Jupyter) installation, now using juliaup",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdjE0VHpBU19CWWE0N3VZWkRDX3lrMHpNdFluM3pSb2xvS3gtY0JnWlZCcXdHQzFOd3FMQTR3aTJTZ1pVaVFPSlN3MVd1eURxX01Mcnd3?oc=5",
+   "date": "2024-07-15T03:00:44+00:00",
+   "summary": "Update to Julia (+Jupyter) installation, now using juliaup youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to kernel (GPU) programming in Julia with an NBody simulation",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zUHd3bXdsNlVjT1VoZ0h0OTVQTHdYNUZ5ekd3S0U1bGE2NFlCVXVKdnY4TmlKRU9OOGZWQnpFNl9kdGFXSEF5Mmw3UzhVU1Z4Mi1GYkVR?oc=5",
+   "date": "2024-04-19T14:16:50+00:00",
+   "summary": "Introduction to kernel (GPU) programming in Julia with an NBody simulation youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Julia Syntax",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tbEktcFFvT3lyaXB3TGpENmZORDJETDdJcFdkb05pNkJFZ2NnZDdMYmVheGlaVnlsSnE1bkVnc1AtWm4zVzNqM05FTHo2SlBEYkJDRklR?oc=5",
+   "date": "2024-02-28T12:11:41+00:00",
+   "summary": "Julia Syntax youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Building Data Visualization Apps with Dash and Julia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MWFpFeVkzZE1yZmVsMVVZbE5saHQzMDduMExJVmpZWFNfZ3hOUUtrWkw2ZWd5dWVVaWF4U3NBcG5SaEk4MUtNdXlaZWJQeVA3ZEdISTBn?oc=5",
+   "date": "2024-01-05T17:10:42+00:00",
+   "summary": "Building Data Visualization Apps with Dash and Julia youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLZEZKZmQ2NDFTOUlJM2MyWHR1Q2tCNVIzemw2RERTNHdxNFZjdk9WWG5UT2s3RWlnVGpGb1ZVU2JvbDhRbzQ0WW56WmFHVHZyeUhBMUFB?oc=5",
+   "date": "2023-12-24T16:01:01+00:00",
+   "summary": "Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Using and Developing Julia Packages",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3ZmRIRDBKQmhDRlBiNG10T28waVIwTWRyUFZQb1djaG9fVGIweTdRM0Vib0NaS3NBdTNtMlNEZmxHR2JJLWxpQ0R2UVJHU2tWdzJvT0x3?oc=5",
+   "date": "2023-10-31T23:08:38+00:00",
+   "summary": "Using and Developing Julia Packages youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[10x12] How to use Arrays in Julia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOMkNuSmRnazZHenYxUkE1NV9fX2ZyT05NYzdETlZLYVNtNWhjLUhiUENxbVRiaFNOTHhxd1hWZy14Z0V2R2RTSGNzZVpQUlUtYTMxRFdn?oc=5",
+   "date": "2023-10-29T15:01:05+00:00",
+   "summary": "[10x12] How to use Arrays in Julia youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[10x11] How to use Characters and Strings in Julia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ellsQ3Vnci1JdmpoY2hXRkZ4US1rVG01VjJuR0lsRUEzMVEyTUF5N3lmeVEyQksyMUtqN0g3QVBVNkN0UjFWX3Z3SXBCSGZPbFlvVFNB?oc=5",
+   "date": "2023-10-22T15:01:29+00:00",
+   "summary": "[10x11] How to use Characters and Strings in Julia youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[10x08] How to use Booleans in Julia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51enJGcGlFeE9ZZmlQQWxUSzhfNnZ5RFI3Y3VJMGdNR0R3RzN2ZndvSHR4UnhQRHBwa3dRYzNLOEdqOVNCY05GUUZITU9kVXpmS0NjVDNR?oc=5",
+   "date": "2023-10-08T15:01:33+00:00",
+   "summary": "[10x08] How to use Booleans in Julia youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[10x06] How to use Julia in VS Code",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT3FLWGNLR2t5NVI0TVFMMEhEaENva0xVbWJxUmo4bG9wMkhzWVdNb0djOVRfQTdiUXJiSEFXQ0twb2dqRUhZVTA3aDhwckpieUQ1ZV9B?oc=5",
+   "date": "2023-10-01T15:01:39+00:00",
+   "summary": "[10x06] How to use Julia in VS Code youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[10x02] How to install Julia | Julia for Absolute Beginners Series",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzYnBOY09fNlJiYXpLQUJPeW9sTnRvYWJaNzlqNGF5OXdIanZJaTlna2JwUlVERVhxMWJ0YmRsVE1YTmxvMTU1RGhBMll1amRURzc5a2dn?oc=5",
+   "date": "2023-09-24T15:01:12+00:00",
+   "summary": "[10x02] How to install Julia | Julia for Absolute Beginners Series youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Build Web Apps in Julia with Oxygen.jl",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11ZXc3V0ZDcE1QVW9DcmtJZ2JBUHhnZmEwTWttZDdnX3lWRDhsdlY0eTM0YnBlOWtqT3VldklseGlDMVZLWVM3a1JZMm1NOHBxVXY4bDNR?oc=5",
+   "date": "2023-09-24T14:42:09+00:00",
+   "summary": "Build Web Apps in Julia with Oxygen.jl youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[10x01] Why Should I Learn the Julia Programming Language? | Julia for Absolute Beginners Series",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ncnJjcURfOU5ja2xPdE11NHI2bG50UWJGN2I1ck90aHNiMk1vX2xaaEhqWnhSd21adTFHNk1hRVpSMFQtc3hDOFlfQl9HOFVCc2MtTFVR?oc=5",
+   "date": "2023-09-17T15:01:05+00:00",
+   "summary": "[10x01] Why Should I Learn the Julia Programming Language? | Julia for Absolute Beginners Series youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Image Processing in Julia Workshop | JuliaCon 2023",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82MHRBYlV3U1lSdHlHRnZMRGltOVNPNk0tMFlmUHlVLUxWYzlJN3NNWWRjTGo2YU9wTk1oOFhsSzVsS2FoTzFQdHRCUENnR0NQQWhSLUFR?oc=5",
+   "date": "2023-08-25T20:47:16+00:00",
+   "summary": "Image Processing in Julia Workshop | JuliaCon 2023 youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "How to install plots in Julia | Amit Thinks",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAySzRDZDBxZ2gwV1JhRFVBQ3NOSjlvLVoxR1RzNk9pUVFiM1ZsN0hnbE1qNTA2dzZjaXBUaE9RVmQ2d1RoTDZRWFJMcjl6OFhZNXdPdUVB?oc=5",
+   "date": "2023-08-02T15:15:02+00:00",
+   "summary": "How to install plots in Julia | Amit Thinks youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Building documentation and automatic tests and doc builds of a Julia package",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hU3RkWk1qak1IcmM4UlEtaXlkSUxjR2RpSm9HTk85aWhRVklRU05mb1ZyUEVZNS1YNmtfNHZlNHNOU2p0NjA3YU9rbm1DQ3A1azVpTXpR?oc=5",
+   "date": "2023-06-21T21:01:50+00:00",
+   "summary": "Building documentation and automatic tests and doc builds of a Julia package youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "A Brief Introduction to Julia",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sM3NqN2YycWtrazB5c1FCOWV4TnlEaWJtZGdfbXdTSjBqN0pDa0dOSkFDZFI5WHFsUGF6N1ZiOGdHODVWdDNjdmlYck8yZzR3aURsNkNn?oc=5",
+   "date": "2023-04-03T23:00:21+00:00",
+   "summary": "A Brief Introduction to Julia youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Funky Swan - Julia Lange, Funky Fingerstyle Guitar",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sTGNkR0tWeHZlZWppWDZMSlJhRnVqNXRiVTN2bHdFQ2lhdHR6cTU5LVJGWHRTTUswZDEzOHZEX1QtWUkxZllnSFJ3NlJobHpRLWdvSWVB?oc=5",
+   "date": "2023-03-28T17:30:08+00:00",
+   "summary": "Funky Swan - Julia Lange, Funky Fingerstyle Guitar youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[08x10] Intro to Probabilistic Programming in Julia using Turing.jl and Pluto",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pSC1Sb1QxdzcwdG1ZR1hFS0t2eVlLRk5hUURZUTdrWU1qTHRta2tzeEE5ajVQT1l2QWZnWktnNG5CLU5kRFBCalRxYmVXaUlDMXA4eEl3?oc=5",
+   "date": "2023-03-26T15:01:05+00:00",
+   "summary": "[08x10] Intro to Probabilistic Programming in Julia using Turing.jl and Pluto youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "[08x09] Symbolic Computation in Julia using Symbolics.jl, SymbolicNumericIntegration.jl and Pluto",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFTE5sZG9xYmJhSDJmZ2VscVBCWmxkVW1ZTnBkQnZRbVFJUjR6TnlyY2xPbHBnWERrek53VHd0OXFyQTNEMUtNTTlhemR6V0VuWWsxOWhR?oc=5",
+   "date": "2023-03-19T15:01:07+00:00",
+   "summary": "[08x09] Symbolic Computation in Julia using Symbolics.jl, SymbolicNumericIntegration.jl and Pluto youtube.com",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "learn Julia programming in Arabic part 1 - 1 تعلم برمجة جوليا بالعربية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oZk1xbF82Y2s0SFZBZVdzTGJwdHBFS0pNYnNTLU5xOHlyaERjWWEzRXFRcXBDZnBGMDhTZXdIR2t5Y25Tald3WnZxWlB4b0p0WURuWUtR?oc=5",
+   "date": "2022-03-03T04:27:30+00:00",
+   "summary": "learn Julia programming in Arabic part 1 - 1 تعلم برمجة جوليا بالعربية YouTube",
+   "tech": "julia",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح تكنولوجيا الفاروميو جوليا اس وسوبر (الشاشه الصغيرة والكبيرة)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUm03T2lhTEdpaWNVVmEtUjByRE1iRndpSXhKYUdJZEdoWml4X1NKVmZSZlRWeW1iQXBsWlZwSVdVVWREM3Uxak92aWZ5NU4yaGt6TTVB?oc=5",
+   "date": "2019-04-09T18:57:44+00:00",
+   "summary": "شرح تكنولوجيا الفاروميو جوليا اس وسوبر (الشاشه الصغيرة والكبيرة) YouTube",
+   "tech": "julia",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  }
+ ]
+}

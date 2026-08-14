@@ -1,0 +1,722 @@
+{
+ "generated": "2026-08-14T21:04:28.276096+00:00",
+ "tech": "lua",
+ "count": 70,
+ "items": [
+  {
+   "title": "🚀 Introducing pack.nvim: The Modern UI for Neovim's Native Package Manager",
+   "url": "https://dev.to/igmrrf/introducing-packnvim-the-modern-ui-for-neovims-native-package-manager-eii",
+   "date": "2026-08-10T20:24:10+00:00",
+   "summary": "If you've been using Neovim for a while, you've likely traversed the plugin manager landscape: from...",
+   "points": 2,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Luau Tips That Make Your Roblox Scripts More Reliable",
+   "url": "https://dev.to/clarkdevlinorg/5-luau-tips-that-make-your-roblox-scripts-more-reliable-52nf",
+   "date": "2026-08-10T06:30:30+00:00",
+   "summary": "5 Luau Tips That Make Your Roblox Scripts More Reliable   Writing Roblox scripts is fun, but...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How the +1 Speed Keyboard Escape Keyboards Are Actually Built in Roblox",
+   "url": "https://dev.to/sebattfg/how-the-1-speed-keyboard-escape-keyboards-are-actually-built-in-roblox-5g8",
+   "date": "2026-08-09T10:19:41+00:00",
+   "summary": "If you have opened Roblox in the last few weeks, you have seen them: a giant keyboard, players...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Zbudowałem darmowy linter C++/Lua/Python w 100 liniach — oto co wykrywa",
+   "url": "https://dev.to/famatyyk/zbudowalem-darmowy-linter-cluapython-w-100-liniach-oto-co-wykrywa-1d37",
+   "date": "2026-08-08T23:45:05+00:00",
+   "summary": "Dlaczego darmowy linter?   Większość \"audytorów kodu\" to zamknięte SaaS-y z subskrypcją....",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "7 legalnych narzędzi C++ / Lua / Windows, które zbudowałem zamiast cheatów",
+   "url": "https://dev.to/famatyyk/7-legalnych-narzedzi-c-lua-windows-ktore-zbudowalem-zamiast-cheatow-4de0",
+   "date": "2026-08-08T21:14:13+00:00",
+   "summary": "Dlaczego?   Większość ludzi zainteresowanych reverse engineeringiem i automatyzacją ląduje w...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Designing Clean Roblox GUIs: Grid, Contrast, and the 3-Click Rule",
+   "url": "https://dev.to/veronicaaalin/designing-clean-roblox-guis-grid-contrast-and-the-3-click-rule-486a",
+   "date": "2026-08-08T03:18:52+00:00",
+   "summary": "Designing Clean Roblox GUIs: Grid, Contrast, and the 3-Click Rule   A Roblox game lives or...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Lua Isn’t Dead: Five Reasons I Still Use It in 2026",
+   "url": "https://medium.com/codetodeploy/lua-isnt-dead-five-reasons-i-still-use-it-in-2026-4ac0d82d7133?source=rss------lua-5",
+   "date": "2026-08-07T17:43:19+00:00",
+   "summary": "Continue reading on CodeToDeploy »",
+   "tech": "lua",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Improving Lua 5.1 VM Performance in Go: Addressing Memory and Speed Issues in Real-World Applications",
+   "url": "https://dev.to/viklogix/improving-lua-51-vm-performance-in-go-addressing-memory-and-speed-issues-in-real-world-295k",
+   "date": "2026-08-04T07:40:02+00:00",
+   "summary": "Introduction   Lua 5.1 has long been a staple for embedded scripting in Go applications,...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Delta Executor: A Technical Overview of Its Workflow and Features",
+   "url": "https://dev.to/delta_executor_apps/delta-executor-a-technical-overview-of-its-workflow-and-features-4gp",
+   "date": "2026-08-01T20:53:11+00:00",
+   "summary": "When evaluating software, it's easy to focus only on feature lists. In reality, long-term usability...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Improvements for larkos, update for od.nvim",
+   "url": "https://dev.to/okerew/improvements-for-larkos-update-for-odnvim-397d",
+   "date": "2026-08-01T17:56:58+00:00",
+   "summary": "Majorly improved extensibly, added support for lldb, fixed bugs in...",
+   "points": 1,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "wisp v3 update: fixed the pty-only job-control bugs, plus LuaRocks packages",
+   "url": "https://dev.to/hinika/i-built-a-linux-shell-that-uses-lua-instead-of-bash-syntax-2a41",
+   "date": "2026-08-01T08:35:28+00:00",
+   "summary": "Update on wisp, the Linux shell that swaps bash syntax for Lua. Since that post, I found and fixed a...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Packaging Lua Scripts as Standalone Executables with luainstaller",
+   "url": "https://dev.to/water_run_305f6dfd401fdaf/packaging-lua-scripts-as-standalone-executables-with-luainstaller-2ei7",
+   "date": "2026-07-30T01:12:55+00:00",
+   "summary": "Lua programs are usually distributed as source files and executed with a Lua interpreter already...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "[PT-BR] GQEngine: Uma Engine Simples e Amigável",
+   "url": "https://dev.to/gamequeststudio/pt-br-gqengine-uma-engine-simples-e-amigavel-34j2",
+   "date": "2026-07-28T17:30:53+00:00",
+   "summary": "A GQEngine é uma engine experimental em desenvolvimento com foco na simplicidade e no desenvolvimento...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Plantar na Lua Certa: Descubra o Que Plantar em Cada Fase da Lua",
+   "url": "https://medium.com/@kelvinlopeslima/plantar-na-lua-certa-descubra-o-que-plantar-em-cada-fase-da-lua-dd1f68b5cb6a?source=rss------lua-5",
+   "date": "2026-07-27T16:17:01+00:00",
+   "summary": "H&#xE1; gera&#xE7;&#xF5;es, agricultores observam o c&#xE9;u antes de colocar as m&#xE3;os na terra. Muito antes dos calend&#xE1;rios modernos, as fases da Lua j&#xE1; eram&#x2026; Continue reading on Medium »",
+   "tech": "lua",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Wireshark Dissector for TP-Link Smart Home System and Device Discovery Protocols",
+   "url": "https://meetcyber.net/wireshark-dissector-for-tp-link-smart-home-system-and-device-discovery-protocols-c174ab0c18e1?source=rss------lua-5",
+   "date": "2026-07-21T14:38:51+00:00",
+   "summary": "A Lua-based Wireshark protocol dissector that is tested on network traffic from TP-Link Tapo C100 IP camera and is aimed at analyzing&#x2026; Continue reading on MeetCyber »",
+   "tech": "lua",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Lua's Hidden Startup Hook",
+   "url": "https://dev.to/caspianrz/luas-hidden-startup-hook-4gi",
+   "date": "2026-07-19T09:50:44+00:00",
+   "summary": "While reading through the Lua source code, I stumbled upon a small but interesting feature that I had...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Fixed window rate limiter using Lua, Java and Redis",
+   "url": "https://medium.com/@meaningfulblogger9/fixed-window-rate-limiter-using-lua-java-and-redis-d6e5c294f4ce?source=rss------lua-5",
+   "date": "2026-07-13T07:27:57+00:00",
+   "summary": "Rate limiting is one of those things every backend engineer encounters eventually &#x2014; whether you&#x2019;re protecting an API from abuse, enforcing&#x2026; Continue reading on Medium »",
+   "tech": "lua",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I built a Pomodoro plugin for Neovim that locks me out of my own distractions",
+   "url": "https://dev.to/ianon/i-built-a-pomodoro-plugin-for-neovim-that-locks-me-out-of-my-own-distractions-da",
+   "date": "2026-07-12T09:12:31+00:00",
+   "summary": "Every Pomodoro app I've used has the same flaw: it lives in another window. A timer ticking away in a...",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Giving Your Neovim AI Assistant a Sense of Time: Scheduled Tasks in chat.nvim",
+   "url": "https://dev.to/wsdjeg/giving-your-neovim-ai-assistant-a-sense-of-time-scheduled-tasks-in-chatnvim-3da9",
+   "date": "2026-07-08T13:27:59+00:00",
+   "summary": "How I designed and implemented a scheduled task system for chat.nvim, giving AI the ability to proactively trigger actions at future moments.",
+   "points": 0,
+   "tech": "lua",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Procedural Asset Generation in Aseprite with Lua: Combining Modular Pixel Art",
+   "url": "https://medium.com/@pjwatson/procedural-asset-generation-in-aseprite-with-lua-combining-modular-pixel-art-95b0e30209e2?source=rss------lua-5",
+   "date": "2026-06-30T18:47:59+00:00",
+   "summary": "Build modular pixel art asset pipelines in Aseprite with Lua. Continue reading on Medium »",
+   "tech": "lua",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Lua: The Programming Language for IT Security",
+   "url": "https://medium.com/@rkdas.ict/lua-the-programming-language-for-it-security-817fc0b224c7?source=rss------lua-5",
+   "date": "2026-06-24T09:56:20+00:00",
+   "summary": "Lua is a popular programming language for IT or computer security. It has mainly three common features: lightweight, powerful, and speedy&#x2026; Continue reading on Medium »",
+   "tech": "lua",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Roblox Studio Scripting Course for Beginners 2026 #roblox #lua #robloxstudio #tutorial #2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VZDhmMnV1ZEdkWUFRcnJ5b18yVDZBQ0xFd3VwaGNxSWNXdTgwcTlIZWJzaVpYZzlielBuZVlQUWRJLUhmelptZXFOcnpsWktnbE5QTHJBUnlNS2FEN2hKNzZlM0x1eUdjbnM0NzRBUFRkNU44Y0x2azBzWEM?oc=5",
+   "date": "2026-05-06T16:57:08+00:00",
+   "summary": "Roblox Studio Scripting Course for Beginners 2026 #roblox #lua #robloxstudio #tutorial #2026 youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Roblox Studio Basics - Roblox Beginners Scripting Tutorial #1 | 2026 #roblox #robloxstudio #lua",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CZFlyQmk4ZVZvdGpYU3pVUU5LTGxobHJiSDI3VUVxdnNtRmthT2hoaVlTbThQX0I4bUFSOFFSZWpGcDZkbEtrb1dHWXZFZmJOUFg3Vkln?oc=5",
+   "date": "2026-04-13T13:49:43+00:00",
+   "summary": "Roblox Studio Basics - Roblox Beginners Scripting Tutorial #1 | 2026 #roblox #robloxstudio #lua youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "14 | String library | شرح لغة لوا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xVGYtc3o4MjhFT3Ewc2JadlZ3YUlPQXhFbVQ5bTNkT2NFUnU0OVlSQVhaeXVGUGtSdGZtYlFTQmhFMFNVNWxvZ2RqdV9KaUY5OFRQX0tB?oc=5",
+   "date": "2025-09-30T02:34:01+00:00",
+   "summary": "14 | String library | شرح لغة لوا YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Love2D Full Course 2026 | Learn Lua Game Development from Beginner to Pro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsM09LeHVCX0VhUU9oNXh3VmVKdnBuWEMzRmw5MnlyTEFVY2JLUUFiNE92cUlkbTlmaHNHd0s4cUVCSnBFdzIyRjNueFBRVEpGWlZhMUhR?oc=5",
+   "date": "2025-09-27T13:15:02+00:00",
+   "summary": "Love2D Full Course 2026 | Learn Lua Game Development from Beginner to Pro youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lua Tutorial for Beginners – Learn Lua Programming (Full Course)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PVmF2S2cwbno1NVQ3VkZnay04XzJ2UE0yVmJieVIxZnpfYzVOcUlvdWdFUjBGbl80eGdZN25jeEs5YjI4bVhsc1l4R0o2bl9YeklBNWhB?oc=5",
+   "date": "2025-09-21T13:30:06+00:00",
+   "summary": "Lua Tutorial for Beginners – Learn Lua Programming (Full Course) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Your First LOVE 2D Program – Lua Programming Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rSTNETFJMaUk5Q0J2U0RWWW5INkFDa3hXd21MNk1JMFF5dUp1ajNGc3NjZU44NVA1eFdFc08zdTE3YmdDbm92ZkNrUTg1Z1dNS1haMXl3?oc=5",
+   "date": "2025-08-15T14:40:52+00:00",
+   "summary": "Your First LOVE 2D Program – Lua Programming Tutorial for Beginners youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Getting Started Scripting with LuaU on Roblox (feat. GlibDuke) | Inspire 2025",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdzBuMmJ0RjBpUFQxWUhRMzVjdVlXRGE3aDNqZm5kX0tPbXRWamhlbVl2Z05qd05xNkpFM1JGamhjdS11VDVsQ1dFNVBvNG9jSEthRTdn?oc=5",
+   "date": "2025-08-06T12:07:40+00:00",
+   "summary": "Getting Started Scripting with LuaU on Roblox (feat. GlibDuke) | Inspire 2025 youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "How to ACTUALLY LEARN to Script in Roblox Studio (5 Steps to learn)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93RjdwYWo4VG95ZGZ6Nkg4ZVdvMk9OSTJmSnFRZ3RSV0JJNElBNkYzZjFrZ3RKQlhxVFRHQ3pHVUFXU3VIaUxydE5NYXktMDNFdDkwTUFB?oc=5",
+   "date": "2025-06-15T18:26:47+00:00",
+   "summary": "How to ACTUALLY LEARN to Script in Roblox Studio (5 Steps to learn) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "How to use OOP with Luau on Roblox",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2eEJQNWk2LTZMdWlGT1JDY1B3a2xueXhxOU5zSFFUbWxNNW1YMGZCMjNhSDl5UkNtQjJiZUU4Unc5VUptN2pWaWEyQXZ1bGNfeWdSVEVn?oc=5",
+   "date": "2025-06-04T18:26:45+00:00",
+   "summary": "How to use OOP with Luau on Roblox youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lua Control Statements Tutorial | If Else, For & While Loops with Tables - Ep. 4",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DVGZLcER6Z245Nkt4T0RtNFFOc1ItcEtHYnJYMVJPVVdqX3FRUTdtSjRoSF9aLVJuUVl4NS14dTA2V3hjQ1ZRbktjRnNEMkpiOGdKUHJ3?oc=5",
+   "date": "2025-06-03T13:15:27+00:00",
+   "summary": "Lua Control Statements Tutorial | If Else, For & While Loops with Tables - Ep. 4 youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lua Programming for Beginners #2 | Variables & Data Types in Lua Explained",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNno2VXFaMFcxRWQ4elJWTG5aREFhRFBOMy1KSEVBWXJnTjlNUTZScWdZb293TUV1WGtfNmlhYmN5Tmt0TEZNdkhPOS1kYmpONVlCazR3?oc=5",
+   "date": "2025-05-30T13:15:06+00:00",
+   "summary": "Lua Programming for Beginners #2 | Variables & Data Types in Lua Explained youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lua Programming for Beginners #1 | Intro, Installation & Your First Lua Script",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiVkl2bzdrQnRNeHRac3k0aFlEVUxYOXJLaV92YXk1UThyV29OcklDdGx1ODE4STQ0ME9vQWVFZ1EyandtQUFvNWRYUmNpd2s4b3p0Ml9B?oc=5",
+   "date": "2025-05-28T13:15:06+00:00",
+   "summary": "Lua Programming for Beginners #1 | Intro, Installation & Your First Lua Script youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lua Crash Course for Beginners 🎮",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rd1lwdzRYbjMwOFpybU1MZHRsUmI2WGxydHo1OGctUnpLZnBUUUpzR2ZyN0tIUlphSHhiUGV1ejlSZmJQYUdjVUVvNXFaWG85cWlLaE5R?oc=5",
+   "date": "2025-05-25T16:14:59+00:00",
+   "summary": "Lua Crash Course for Beginners 🎮 youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Q-SYS Training | Control 101 - Lua Editor (EN)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGVUJPUmVWcG14RXZncklWN2RqeUEtaGFBU3BfdER4UkxiTHFva1I0Y0tDT0x2VHFraEVoTDQwam9zZEZTNTE5NnMzUEJiQWxyNHJsVWFn?oc=5",
+   "date": "2025-04-14T21:01:20+00:00",
+   "summary": "Q-SYS Training | Control 101 - Lua Editor (EN) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Q-SYS Training | Control and UCI ADVANCED - C1 - Lua Syntax",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZNWhfbk12RTA3RDZOV0NlTVJMU3hlQ2JkdW01UFdyd3BkOTJEZFZoajZEVHlPREhLeG5LVm1LaC1mX3RMcmJuaDZoOWthMG5jaEJZQ3BB?oc=5",
+   "date": "2025-04-11T19:42:13+00:00",
+   "summary": "Q-SYS Training | Control and UCI ADVANCED - C1 - Lua Syntax youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Lua for GrandMA3 From Start to Finish: Complete Crash Course!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYVlaMm9zZHktV3gxbXh0UFRjdlpTTnd6TmZLaWJDdThWS0VOaTJ3MFRFYVB6VTBTQVRKYmFGeEZOOFEwbHBGeWsxU3hROEVLMXB0NGxR?oc=5",
+   "date": "2025-03-07T18:00:32+00:00",
+   "summary": "Learn Lua for GrandMA3 From Start to Finish: Complete Crash Course! youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lua For GrandMA3 Tutorials",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zRlJTZ1V5eUQ5b1R4STdrY0Y4cWtxUDZiLWF6ZkxveU5iUFFjT3phdTFxRU9wN2tRdF84ckNpQURDN3lDOXB3bHlwRkJ2Z1BNOEVMZjUxM3JfQTVLS2RyQWljanZxQ0FZUWs3cmgybFZfMjNvYmJVc3RiV1Y?oc=5",
+   "date": "2025-01-18T10:08:39+00:00",
+   "summary": "Lua For GrandMA3 Tutorials youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Everything You Need To Start Writing Lua",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUlZSQ1p0U3VXdTFXVHhFb0xNZGdlRWlvLUk1ZnAxMVR6U2RFcGxBdTNRSEpBbU1CbXNFVEIzeko3WWhrbWdEYmg1cmRsaUQzY3lETEd3?oc=5",
+   "date": "2024-12-03T12:00:15+00:00",
+   "summary": "Everything You Need To Start Writing Lua youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Complete Lua and Love2D Crash Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SV0l4c1hQMkFrWS13cnN5aTF6VmJxQlVSZVRsYURlWkJTaWRjT1VDXzZFR0V4bHZpNV9fRFo5WFluZ3dPaExUYWxlWW0tSS1DLVFvR1FB?oc=5",
+   "date": "2024-10-04T13:00:32+00:00",
+   "summary": "Complete Lua and Love2D Crash Course youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "13-1 | Introduction to Tables | شرح لغة لوا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Mk9OVGFxRHNfNFZtbHc5TXRscmNYd3YtQWIzTloyQW5OZEZET2YzOVNHMHFkbGI5UHJwRzFEdXEtck5CYmRLOEdOU1RSalFsTW9KcDJB?oc=5",
+   "date": "2024-09-16T21:58:48+00:00",
+   "summary": "13-1 | Introduction to Tables | شرح لغة لوا YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "12 | Functions (Part 2) | شرح لغة لوا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZN3ltcFhvdy0tUmRpZVFHMUxaOFpYazEzcldKWkZiYjBPMC1WRXhlTG12NnB5VzZnZlZvc1hUUjdSV0tKVTlHVlU5cnY1T1ZfYkZ4NFJn?oc=5",
+   "date": "2024-09-15T18:32:19+00:00",
+   "summary": "12 | Functions (Part 2) | شرح لغة لوا YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "12 | Functions (Part 1) | شرح لغة لوا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mcnJWa1NzT3ROOGlBeTljWTh4R3BaRVJaUG9jLTVDY1dWQTdMdUNJcUx1S3c1QnRRZVJzT3ZvYjJkeUNtaEtlbzYyMmtHLTRXR0Zkek13?oc=5",
+   "date": "2024-08-04T19:30:36+00:00",
+   "summary": "12 | Functions (Part 1) | شرح لغة لوا YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "برمجه روبلوكس ستوديو (Lua) || الجزء 3 - Roblox Studio Scripting Tutorial Arabic #3 || Script Basics",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ycjlxSzFlWkVwZXBvZkMxc2NFQ1VyWUpCUC1ENms3MUx0VXpkQUkyazhNaFNuX3ZCQzdHTWhmX2RiRncyQ0JxSm9Nck9iNGJWVlNNY09n?oc=5",
+   "date": "2024-07-18T12:52:31+00:00",
+   "summary": "برمجه روبلوكس ستوديو (Lua) || الجزء 3 - Roblox Studio Scripting Tutorial Arabic #3 || Script Basics YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "برمجه روبلوكس ستوديو (Lua) || الجزء 2 - Roblox Studio Scripting Tutorial Arabic #2 || Basics",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96d3RiV3E5VHlUR29rcnp2T3ZZSHlVS2JqUkdJV3RmdmU5TGlXa1pQaVg0U2JQcHJTcWNhT1d0RFBBM0x4b1ZwV3FJLWY4SmRNYTlHRjJn?oc=5",
+   "date": "2024-07-17T08:16:18+00:00",
+   "summary": "برمجه روبلوكس ستوديو (Lua) || الجزء 2 - Roblox Studio Scripting Tutorial Arabic #2 || Basics YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Roblox Studio Basics - Roblox Beginners Scripting Tutorial #1 (2025)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SaWZRYk1GM0dsQkVTbUF3b0N2NEZLUTFhSWg0TjdlU2gxRFp3cXdpQWMzWHV4RVcxUXFyNUpwOEE0cWZDT3dyOHZxU1VXS3d5V0g4WUFB?oc=5",
+   "date": "2024-06-16T20:02:06+00:00",
+   "summary": "Roblox Studio Basics - Roblox Beginners Scripting Tutorial #1 (2025) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Learn to code with Lua!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OeEtOQzJPOW5uZXlWMjh5UG5hbHV1ZkMyLTk3V21SX3BwdmxVOGEyejNJMjE2TjNVV1lVVXNPU2wwanpqazdfU2p4TUd5blRWZlR6eE93?oc=5",
+   "date": "2024-06-07T17:30:02+00:00",
+   "summary": "Learn to code with Lua! youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Kontakt Builder KSP Scripting Course Tutorials - Lesson 10 (Kontakt Lua API Intro and Setup)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01ME1mbnZ4MWxmUm40TDc5Vm9mVEdOQVFzT3FRQ3c0Ni1aNXJFVWR1TTRsRi0tTWx2WmRnNV9qYXF1Zy1kSDFJMlNoek9XTHlIRnctS0VB?oc=5",
+   "date": "2024-05-15T08:24:04+00:00",
+   "summary": "Kontakt Builder KSP Scripting Course Tutorials - Lesson 10 (Kontakt Lua API Intro and Setup) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "5 | Variables | شرح لغة لوا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qUXdJdWh6N2QyXzFZSlUyVmUxdDlRbnAxamJZdTN4ZEhITVRXTm1UYWxwQnp5OTNWSE5WNDd5VGRKWU02UGN2YVFwU3J5TGN1LUNGd1J3?oc=5",
+   "date": "2024-04-20T23:51:20+00:00",
+   "summary": "5 | Variables | شرح لغة لوا YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Roblox Luau Course - Episode 1: Fundamentals",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WOE9EZGdlT0o2bTNhZThhb2VKN0dWMk9PSFItVzJMRmh1Tzl0T1dhdVJBRUhLbjZ5WVlSSnZ1UVdMUENvY1RvU0MyYnNZRGFGT3VoLVRR?oc=5",
+   "date": "2024-03-26T16:36:18+00:00",
+   "summary": "Roblox Luau Course - Episode 1: Fundamentals youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Roblox Scripting (Full Guide for Beginners)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YQk16c1hGTXVLanc1WTNEQmdtaUNUUm5Zd1BKemQ1QzdfcFAwcGVMVW5QbE5OM29XWEdsT1o5YldmSXM4WmNmaUVaSlNTa2E4UGg2N1Jn?oc=5",
+   "date": "2024-03-20T23:00:06+00:00",
+   "summary": "Roblox Scripting (Full Guide for Beginners) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Full Lua Crash Course 💥 2.5 Hours 🖥️⌨️ Beginner's Programming Fundamentals Guide for Developers",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdlFlU0dxZDFzT09IalRoVVJTLVQ4NlUwNjRNTDdlem9RVU05YkRLamM3ZGJ4ZExqaWxpZC1fc2ZEUTFrM2NXaUZZNG1DdGQzcXhkUnFB?oc=5",
+   "date": "2024-03-11T08:49:58+00:00",
+   "summary": "Full Lua Crash Course 💥 2.5 Hours 🖥️⌨️ Beginner's Programming Fundamentals Guide for Developers youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Making a Game in Lua with No Experience",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHaUNDU2lyMGcxSDR3X3NWWTVpVEdWMWh0Z2RRS2lsUEFhOGlRY3dJb1RObzVRYy1HQUpfZm8yR0dfYnRfTUotUWNwM3RURTdxWGpMQzZ3?oc=5",
+   "date": "2024-02-21T15:32:01+00:00",
+   "summary": "Making a Game in Lua with No Experience youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lua Course in Arabic",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1la3FaS3NNVjZLZUx1RDNYMy1veWd2YlNCYkxhS0dkWndORGRKWVZxZG93T0FNV1hZZEppRjExV3lWTnc3UnhUZlpkYkFkMzFoYjVLaGxOOWZRZzQya09oZzNGZ2VvTFdjU3FMTEZITnVVdzFIZUVNdmRLSEE?oc=5",
+   "date": "2024-02-15T00:57:50+00:00",
+   "summary": "Lua Course in Arabic YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "F3F TOOL 🛠 TUTORIAL | BEST JETI LUA APP?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14Q0duZU5oUDZiSW5wUU0tYW5McjdDWFlkSWNkdW9SY2Rtd1dTckRxbUpwQ0hlWFhUY1dCMzJsU21uVXNkX1pSS0JGdlZjVnlRcGl1VEJB?oc=5",
+   "date": "2023-11-08T18:56:48+00:00",
+   "summary": "F3F TOOL 🛠 TUTORIAL | BEST JETI LUA APP? youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "3 | Setting up Environment | شرح لغة لوا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40dVhteU5HV2JmakdrSHRhVUxqdHdXMDhQTjdqdUxMbnk2N1BXYmZvRTZCaF9uS3IwRGI1WUhVMzZjdGNoS21WUnlZUHo2a1VkWTNza3F3?oc=5",
+   "date": "2023-08-20T22:01:08+00:00",
+   "summary": "3 | Setting up Environment | شرح لغة لوا YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Lua Tutorial 8th Class: FTP Client",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NT2N6T3RQVl9jWjR1Z3k2dkVoazV5djdEUDFBY19QTXdrMjBLV0w2Z3dvNlRHZWVrSHk5XzlEYXg1SDlTSGhHczZfQTJqZFRRVmZLSlRn?oc=5",
+   "date": "2023-08-12T11:14:20+00:00",
+   "summary": "Lua Tutorial 8th Class: FTP Client youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "برمجة MTA:SA بالعربي | برمجة لوحة باستخدام HTML,CSS,JS + LUA و ربطها | Narox",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oanp5d0N1Ukp4cUV3ZkZKRTk1Yzk5OWljSkRYY1MyTTBadndkLUdjbzY5MTF4bHRnWkNaOWFkQy1ieVpCcFhzT216cWlxZy1hUDVIenV3?oc=5",
+   "date": "2023-08-09T15:00:01+00:00",
+   "summary": "برمجة MTA:SA بالعربي | برمجة لوحة باستخدام HTML,CSS,JS + LUA و ربطها | Narox YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1 | Introduction | شرح لغة لوا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqQnhVano4UG9wcE44bEJHY0VuNDBxMGw2NTBXV2E5bmdOM1YzZFZfZ1dRYmRpYXNwd3pSNzF1Y0ZjelR0TzZvODdVNUJQTm5Qc1NQSjRB?oc=5",
+   "date": "2023-07-31T17:42:08+00:00",
+   "summary": "1 | Introduction | شرح لغة لوا YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Lua Tutorial 7th: HTTP & JSON",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KeFdFRVVKS2NCbWdWdzlDbzRnOVctVU9TOGRyV2VNcmo3NXJuOEc1NU16WkNMSGQwaC1QeXNscnNYc3hlNVlBSWYtLVpDejdEZU1HcHFB?oc=5",
+   "date": "2023-07-11T02:26:19+00:00",
+   "summary": "Lua Tutorial 7th: HTTP & JSON youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "كورس تعلم البرمجة في روبلوكس من الصفر حتي الاحتراف بلغة Lua 1️⃣",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KbnVpd2FUZkw0b0Y1Tk1qWTg5djhYLTJ0ODZINGdCXzc0N3NTOVZsUDdidDd0ZU0wWkpfb3QtcVAzZTVXLUUxZTYycmpjWk9MNzl1N1VR?oc=5",
+   "date": "2023-06-26T20:03:37+00:00",
+   "summary": "كورس تعلم البرمجة في روبلوكس من الصفر حتي الاحتراف بلغة Lua 1️⃣ YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Advanced FiveM Lua Features (FiveM Lua Scripting Master Series)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CUUdMZ0NkOU9OYkxFdFdlWndYbU9PUXJSQVAxWE9HVnh1ajR1T0pjbmdvY0luMkxueUFFdURiOFpORGRyYjFWZmV4TnJ3QU44RHEySEVn?oc=5",
+   "date": "2023-05-07T16:00:25+00:00",
+   "summary": "Advanced FiveM Lua Features (FiveM Lua Scripting Master Series) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "شرح لغة لوا - المصفوفات الترابطية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jeG9qaGZLOXFpbWxBYkR3RmhoOE5BdVZjQlgyZzVmQUpJZUt3dnRTMnBpdFhZWkg0SDFJX3Vyal91RHZ4cTR1QTd5Q1lfMzRQOUZaandB?oc=5",
+   "date": "2023-04-16T12:00:10+00:00",
+   "summary": "شرح لغة لوا - المصفوفات الترابطية YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "How To Script In ROBLOX Studio! (EASIEST Beginner Scripting Tutorial)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JbkpaVVdhLUQxY1AzUXVRdHA1M1NTVGpYTlp3T3VOUVNQbFU4MlotZWFfb3ZMSGRFX3J1dnNnN1paalVmb1BHMVZ6MEI5X3poTnQ2R3lR?oc=5",
+   "date": "2023-03-04T14:30:06+00:00",
+   "summary": "How To Script In ROBLOX Studio! (EASIEST Beginner Scripting Tutorial) youtube.com",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "الدرس رقم 1 من دورة برمجة فايف ام من الصفر | Lua FiveM Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McDZxZmJkdHZpNnFMTXhHRHd4a2MxeGVfUEFoRC1YZnc5LXA3VS1aOXFWb1RrVjNhSlV5clZiYWxyZmpWSTBFR0dONDFYdVM1aENEaUp3?oc=5",
+   "date": "2022-11-08T22:55:24+00:00",
+   "summary": "الدرس رقم 1 من دورة برمجة فايف ام من الصفر | Lua FiveM Course YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح لغة لوا - النصوص",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42S21iZUFpN3NCYy1SUlUzZ3NzSDBzdmQyMnEtMjJsRlJscUwza2xyTkRDMHN1V1pqT2tBZDhNTjZ0amdrN21JRTFOSU5XOVFVMjRCVTh3?oc=5",
+   "date": "2022-08-03T09:20:20+00:00",
+   "summary": "شرح لغة لوا - النصوص YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح لغة لوا - الأرقام والعمليات الحسابية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hbWN3MG1qUlVQNTYtd3dsQ0s5ZFNFSVNjNm9CZzFrTWVSby1La0VFLVNkRFQ3YzNqWHJOR3pEYkR5a29rbzZvRlZFQkpCSl9tV29tSkpR?oc=5",
+   "date": "2022-07-30T06:45:04+00:00",
+   "summary": "شرح لغة لوا - الأرقام والعمليات الحسابية YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح لغة لوا - مقدمة",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kRFFWNWNFQV9UUEVqMVE5eE1RWThOWDFiMGMxWl9ReHhBdFdfUmdxSXRQcnc0NE81SGdUb3ZLc05iVVVUQlBOLTVRb1BDbjBuSXY0dzU2M2ZtbFdsTW85Wm1SempDQjh1WC04QlFMZkwzX1ZjX2o1UVc2cEs?oc=5",
+   "date": "2022-07-15T16:20:27+00:00",
+   "summary": "شرح لغة لوا - مقدمة YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الدرس 75 تعلم البرمجة من خلال و حدات لغة لوا Modules in lua language",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SMXFtckxKVVFDeXZhY0J0aTRyUVVkb3FpNkZOUDVRMmw1SFFtN2kwMzN6MFFYbmRVeWdFX1hsa1JOT1JsOGh4b0gyYlpfZW5rZVJTUk5n?oc=5",
+   "date": "2020-03-04T14:37:13+00:00",
+   "summary": "الدرس 75 تعلم البرمجة من خلال و حدات لغة لوا Modules in lua language YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الدرس الاول :سلسلة تعلم لغة اللوا باللغة العربية LUA",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5odlY1N2M3eVlRSVRRT05vMmhOVlJrM2pPRC00OFdSaENOc1paSDJvSGM0VkJ5Mm5ENEs3SXhqRlVXdHpVM2RlV3d5YnBwN3hxbmhKMGln?oc=5",
+   "date": "2017-09-04T02:03:49+00:00",
+   "summary": "الدرس الاول :سلسلة تعلم لغة اللوا باللغة العربية LUA YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  }
+ ]
+}
