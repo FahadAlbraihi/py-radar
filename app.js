@@ -582,7 +582,6 @@ async function searchYouTube(query){
 }
 
 const YT_MIN_LEN   = 2;      // حرفان يكفيان: «‎c#» و«‎go» و«‎R» أسماء لغات فعلية
-const YT_DEBOUNCE  = 800;    // مهلة بعد التوقف عن الكتابة
 const ytCache = new Map();   // استعلام ← نتائجه، فلا يتكرر الجلب
 let ytSeq = 0;               // حارس: نتيجة استعلام قديم تُتجاهل
 
@@ -1315,12 +1314,12 @@ $('#q').addEventListener('input', e => {
   // تغيّر النص: نعود لنتائج التطبيق فوراً حتى تصل نتائج يوتيوب الجديدة
   if (state.ytQuery && state.ytQuery !== state.q.trim()) state.ytQuery = '';
 
+  // الترشيح داخل التطبيق فوري أثناء الكتابة
   clearTimeout(qTimer);
   qTimer = setTimeout(() => { state.shown = PAGE_SIZE; render(); }, 180);
 
-  // بحث يوتيوب فوري: يبدأ بعد التوقف عن الكتابة لا مع كل حرف
+  // أما بحث يوتيوب فلا ينطلق إلا بضغط الزر أو Enter
   clearTimeout(ytTimer);
-  if (has) ytTimer = setTimeout(runYouTubeSearch, YT_DEBOUNCE);
 });
 $('#q').addEventListener('keydown', e => {
   if (e.key === 'Enter'){ e.preventDefault(); $('#q').blur(); clearTimeout(ytTimer); runYouTubeSearch(); }
