@@ -4,91 +4,113 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
 <title>رادار البرمجة</title>
-<meta name="description" content="محتوى برمجي بالعربي والإنجليزي مصنّف حسب اللغة والمستوى والنوع، محدّث يومياً">
-<meta name="theme-color" content="#0b1020" media="(prefers-color-scheme: dark)">
-<meta name="theme-color" content="#f5f7fb" media="(prefers-color-scheme: light)">
+<meta name="description" content="محتوى برمجي بالعربي والإنجليزي مصنّف حسب المسار والمستوى والنوع، محدّث يومياً">
+<meta name="theme-color" content="#2b66bf">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="رادار البرمجة">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
 <link rel="icon" href="icons/icon-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<header class="topbar">
-  <div class="topbar-row">
+<!-- ================= الشريط العلوي ================= -->
+<header class="site-nav topbar">
+  <div class="wrap nav-row">
     <h1 class="brand">رادار <span>البرمجة</span></h1>
     <div class="actions">
-      <button id="btn-library" class="icon-btn" aria-label="مكتبتي">
-        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+      <button id="btn-library" class="nav-btn" aria-label="مكتبتي">
+        <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
           <path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/>
         </svg>
+        <span class="nav-btn-txt">مكتبتي</span>
         <span id="lib-badge" class="badge" hidden></span>
       </button>
-      <button id="btn-filters" class="icon-btn" aria-label="الفلاتر">
-        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <button id="btn-filters" class="nav-btn" aria-label="الفلاتر">
+        <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
           <path d="M4 6h16M7 12h10M10 18h4"/>
         </svg>
+        <span class="nav-btn-txt">الفلاتر</span>
         <span id="filter-badge" class="badge" hidden></span>
       </button>
-      <button id="btn-refresh" class="icon-btn" aria-label="تحديث">
-        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <button id="btn-theme" class="nav-btn icon-only" aria-label="تبديل الوضع الليلي">
+        <span id="theme-icon">🌙</span>
+      </button>
+      <button id="btn-refresh" class="nav-btn icon-only" aria-label="تحديث">
+        <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
           <path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/>
         </svg>
       </button>
     </div>
   </div>
 
-  <div class="search-wrap">
-    <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
-      <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5" stroke-linecap="round"/>
-    </svg>
-    <input id="q" type="search" inputmode="search" enterkeyhint="search"
-           placeholder="ابحث… يوتيوب يبحث تلقائياً وأنت تكتب" autocomplete="off">
-    <button id="btn-clear" class="clear-btn" hidden aria-label="مسح">&times;</button>
+  <!-- شريط المسارات ملتصق بالرأس: يبقى في متناول اليد أثناء التمرير -->
+  <div class="wrap track-bar">
+    <div class="chips scroll-x" id="tech-chips" aria-label="المسار"></div>
+    <div class="chips scroll-x" id="lang-chips" aria-label="لغة المحتوى">
+      <button class="chip is-on" data-lang="all">الكل</button>
+      <button class="chip" data-lang="ar">عربي</button>
+      <button class="chip" data-lang="en">إنجليزي</button>
+      <button class="chip" data-lang="translated">مترجم / بالعربي</button>
+    </div>
   </div>
-
-  <div class="search-actions">
-    <button id="btn-yt" class="yt-btn" hidden>
-      <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true">
-        <path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/>
-      </svg>
-      <span id="yt-label">ابحث في يوتيوب</span>
-    </button>
-    <button id="btn-code" class="code-btn">&lt;/&gt; بحث بالكود</button>
-  </div>
-
-  <nav class="chips scroll-x" id="preset-chips" aria-label="بحث سريع"></nav>
-
-  <div id="comeback" class="comeback" hidden></div>
-
-  <div class="row-label">لغة البرمجة <span>← اسحب لرؤية المزيد</span></div>
-  <nav class="chips scroll-x" id="tech-chips" aria-label="لغة البرمجة"></nav>
-
-  <nav class="chips" id="lang-chips" aria-label="لغة المحتوى">
-    <button class="chip is-on" data-lang="all">الكل</button>
-    <button class="chip" data-lang="ar">عربي</button>
-    <button class="chip" data-lang="en">إنجليزي</button>
-    <button class="chip" data-lang="translated">مترجم / بالعربي</button>
-  </nav>
 </header>
 
-<main>
-  <div id="status" class="status" role="status"></div>
-  <div id="active-filters" class="active-filters"></div>
-  <div id="list" class="list"></div>
-  <div id="empty" class="empty" hidden>
-    <p>لا توجد نتائج مطابقة.</p>
-    <button class="btn-ghost" id="btn-reset">إعادة تعيين الفلاتر</button>
+
+<!-- ================= الهيرو ================= -->
+<section class="hero">
+  <div class="wrap">
+    <h2 class="hero-title">تعلّم من كل مكان.. بلغتك</h2>
+    <p class="hero-sub">محتوى برمجي عربي وإنجليزي من تسعة مسارات، مصنّف ومحدّث كل يوم</p>
+
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5" stroke-linecap="round"/>
+      </svg>
+      <input id="q" type="search" inputmode="search" enterkeyhint="search"
+             placeholder="ابحث… يوتيوب يبحث تلقائياً وأنت تكتب" autocomplete="off">
+      <button id="btn-clear" class="clear-btn" hidden aria-label="مسح">&times;</button>
+    </div>
+
+    <div class="search-actions">
+      <button id="btn-yt" class="yt-btn" hidden>
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true">
+          <path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/>
+        </svg>
+        <span id="yt-label">ابحث في يوتيوب</span>
+      </button>
+      <button id="btn-code" class="code-btn">&lt;/&gt; بحث بالكود</button>
+    </div>
+
+    <nav class="chips scroll-x hero-chips" id="preset-chips" aria-label="بحث سريع"></nav>
   </div>
-  <button id="btn-more" class="btn-more" hidden>عرض المزيد</button>
+</section>
+
+
+<main>
+  <div class="wrap">
+    <div id="comeback" class="comeback" hidden></div>
+    <div id="status" class="status" role="status"></div>
+    <div id="active-filters" class="active-filters"></div>
+    <div id="list" class="list"></div>
+    <div id="empty" class="empty" hidden>
+      <p>لا توجد نتائج مطابقة.</p>
+      <button class="btn-ghost" id="btn-reset">إعادة تعيين الفلاتر</button>
+    </div>
+    <button id="btn-more" class="btn-more" hidden>عرض المزيد</button>
+  </div>
 </main>
 
 <footer class="foot">
-  <span id="meta"></span>
-  <button id="btn-install" class="btn-ghost" hidden>إضافة للشاشة الرئيسية</button>
+  <div class="wrap foot-row">
+    <span id="meta"></span>
+    <button id="btn-install" class="btn-ghost" hidden>إضافة للشاشة الرئيسية</button>
+  </div>
 </footer>
 
 
@@ -102,7 +124,7 @@
 
     <section>
       <h3>المستوى</h3>
-      <div class="chips wrap" id="level-chips">
+      <div class="chips wrap-chips" id="level-chips">
         <button class="chip is-on" data-level="all">الكل</button>
         <button class="chip" data-level="beginner">مبتدئ</button>
         <button class="chip" data-level="intermediate">متوسط</button>
@@ -112,7 +134,7 @@
 
     <section>
       <h3>نوع المحتوى</h3>
-      <div class="chips wrap" id="kind-chips">
+      <div class="chips wrap-chips" id="kind-chips">
         <button class="chip is-on" data-kind="all">الكل</button>
         <button class="chip" data-kind="course">دورة كاملة</button>
         <button class="chip" data-kind="tutorial">شرح نظري</button>
@@ -126,13 +148,13 @@
 
     <section>
       <h3>الترتيب</h3>
-      <div class="chips wrap" id="sort-chips">
+      <div class="chips wrap-chips" id="sort-chips">
         <button class="chip is-on" data-sort="date">الأحدث</button>
         <button class="chip" data-sort="points">الأكثر تفاعلاً</button>
         <button class="chip" data-sort="views">الأكثر مشاهدة</button>
         <button class="chip" data-sort="rating">الأعلى تقييماً</button>
       </div>
-      <p class="note">المشاهدات والتقييم متوفّران لفيديوهات يوتيوب فقط؛ ما لا يحمل الرقم ينزل لآخر القائمة.</p>
+      <p class="note">المشاهدات والتقييم متوفّران لفيديوهات القنوات المضافة فقط؛ ما لا يحمل الرقم ينزل لآخر القائمة.</p>
     </section>
 
     <section>
@@ -147,7 +169,7 @@
 
     <section>
       <h3>المصدر</h3>
-      <div class="chips wrap" id="source-chips"></div>
+      <div class="chips wrap-chips" id="source-chips"></div>
     </section>
 
   </div>
@@ -180,7 +202,7 @@
     </section>
 
     <section>
-      <div class="chips wrap" id="shelf-chips">
+      <div class="chips wrap-chips" id="shelf-chips">
         <button class="chip is-on" data-shelf="saved">★ محفوظ</button>
         <button class="chip" data-shelf="later">⏱ أشاهده لاحقاً</button>
         <button class="chip" data-shelf="done">✓ أنهيته</button>
@@ -207,7 +229,7 @@
     </p>
     <textarea id="code-input" rows="8" spellcheck="false" dir="ltr"
       placeholder="import socket&#10;s = socket.socket()&#10;s.connect((host, port))"></textarea>
-    <div id="code-terms" class="chips wrap"></div>
+    <div id="code-terms" class="chips wrap-chips"></div>
   </div>
   <div class="sheet-foot">
     <button class="btn-ghost" data-close>إلغاء</button>

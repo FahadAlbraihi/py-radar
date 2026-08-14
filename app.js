@@ -1078,7 +1078,7 @@ function setPanelOffset(on){
   const px = (on && isWide()) ? '432px' : '';   // عرض اللوحة 420 + فاصل
   const side = getComputedStyle(document.documentElement).direction === 'rtl'
     ? 'paddingLeft' : 'paddingRight';
-  for (const sel of ['.topbar', 'main', '.foot']){
+  for (const sel of ['.site-nav', '.hero', 'main', '.foot']){
     const node = document.querySelector(sel);
     if (node) node.style[side] = px;
   }
@@ -1115,6 +1115,17 @@ addEventListener('resize', () => {
 $('#btn-filters').onclick = () => { syncControls(); openSheet($('#filters-dlg')); };
 $('#btn-library').onclick = () => { renderLibrary(); openSheet($('#library-dlg')); };
 $('#btn-install').onclick = () => $('#install-dlg').showModal();
+
+/* الوضع الفاتح هو الأصل؛ الليلي اختيار يُحفظ */
+const THEME_KEY = 'radar.theme.v1';
+function applyTheme(dark){
+  document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+  $('#theme-icon').textContent = dark ? '☀️' : '🌙';
+  document.querySelector('meta[name="theme-color"]')
+    ?.setAttribute('content', dark ? '#0b1020' : '#2b66bf');
+  save(THEME_KEY, dark);
+}
+$('#btn-theme').onclick = () => applyTheme(document.documentElement.dataset.theme !== 'dark');
 $('#btn-export').onclick = exportLibrary;
 
 $('#btn-code').onclick = () => { renderCodeTerms(); openSheet($('#code-dlg')); };
@@ -1184,6 +1195,7 @@ document.addEventListener('visibilitychange', () => {
   if (/iPad|iPhone|iPod/.test(navigator.userAgent) && !navigator.standalone)
     $('#btn-install').hidden = false;
 
+  applyTheme(load(THEME_KEY, false));
   syncControls();
   renderTechChips();        // يظهر شريط المسارات فوراً، قبل وصول أي محتوى
   renderPresets();
