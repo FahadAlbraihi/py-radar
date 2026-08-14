@@ -1,12 +1,24 @@
 {
- "generated": "2026-08-14T19:23:53.082485+00:00",
+ "generated": "2026-08-14T19:28:46.823835+00:00",
  "tech": "cpp",
  "count": 210,
  "items": [
   {
+   "title": "tensorflow/tensorflow",
+   "url": "https://github.com/tensorflow/tensorflow",
+   "date": "2026-08-14T19:28:10+00:00",
+   "summary": "An Open Source Machine Learning Framework for Everyone",
+   "points": 197026,
+   "tech": "cpp",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
    "title": "ClickHouse/ClickHouse",
    "url": "https://github.com/ClickHouse/ClickHouse",
-   "date": "2026-08-14T19:23:33+00:00",
+   "date": "2026-08-14T19:24:16+00:00",
    "summary": "ClickHouse® is a real-time analytics database management system",
    "points": 49250,
    "tech": "cpp",
@@ -33,18 +45,6 @@
    "date": "2026-08-14T19:22:14+00:00",
    "summary": "LLM inference in C/C++",
    "points": 123926,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "tensorflow/tensorflow",
-   "url": "https://github.com/tensorflow/tensorflow",
-   "date": "2026-08-14T19:22:00+00:00",
-   "summary": "An Open Source Machine Learning Framework for Everyone",
-   "points": 197025,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",

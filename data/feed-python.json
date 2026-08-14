@@ -1,12 +1,189 @@
 {
- "generated": "2026-08-14T19:21:43.809629+00:00",
+ "generated": "2026-08-14T19:27:56.407536+00:00",
  "tech": "python",
  "count": 220,
  "items": [
   {
+   "title": "dagster-gcp 0.29.18",
+   "url": "https://pypi.org/project/dagster-gcp/0.29.18/",
+   "date": "2026-08-14T19:27:00+00:00",
+   "summary": "Package for GCP-specific Dagster framework op and resource components.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-shared 1.13.18",
+   "url": "https://pypi.org/project/dagster-shared/1.13.18/",
+   "date": "2026-08-14T19:26:51+00:00",
+   "summary": "Shared code between dagster and dagster-dg-core.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-clickhouse-polars 0.29.18",
+   "url": "https://pypi.org/project/dagster-clickhouse-polars/0.29.18/",
+   "date": "2026-08-14T19:26:43+00:00",
+   "summary": "Package for storing Polars DataFrames in ClickHouse.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-dg-core 1.13.18",
+   "url": "https://pypi.org/project/dagster-dg-core/1.13.18/",
+   "date": "2026-08-14T19:26:35+00:00",
+   "summary": "None",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-rest-resources 0.29.18",
+   "url": "https://pypi.org/project/dagster-rest-resources/0.29.18/",
+   "date": "2026-08-14T19:26:27+00:00",
+   "summary": "None",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-gcp-pyspark 0.29.18",
+   "url": "https://pypi.org/project/dagster-gcp-pyspark/0.29.18/",
+   "date": "2026-08-14T19:26:18+00:00",
+   "summary": "Package for storing PySpark DataFrames in GCP",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "python-oephys 0.1.3",
+   "url": "https://pypi.org/project/python-oephys/0.1.3/",
+   "date": "2026-08-14T19:26:14+00:00",
+   "summary": "Python interface and utilities for working with Open Ephys devices and electrophysiology data",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "mesa-sdk 0.47.0",
+   "url": "https://pypi.org/project/mesa-sdk/0.47.0/",
+   "date": "2026-08-14T19:26:13+00:00",
+   "summary": "Official Mesa Python SDK",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-dg-cli 1.13.18",
+   "url": "https://pypi.org/project/dagster-dg-cli/1.13.18/",
+   "date": "2026-08-14T19:26:10+00:00",
+   "summary": "None",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "vetoworld 0.1.2",
+   "url": "https://pypi.org/project/vetoworld/0.1.2/",
+   "date": "2026-08-14T19:26:07+00:00",
+   "summary": "VetoWorld: a benchmark of expedience under terminal stakes",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "mesa-rest 0.47.0",
+   "url": "https://pypi.org/project/mesa-rest/0.47.0/",
+   "date": "2026-08-14T19:26:02+00:00",
+   "summary": "None",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-mlflow 0.29.18",
+   "url": "https://pypi.org/project/dagster-mlflow/0.29.18/",
+   "date": "2026-08-14T19:26:01+00:00",
+   "summary": "Package for mlflow Dagster framework components.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "date": "2026-08-14T19:25:57+00:00",
+   "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+   "points": 186620,
+   "tech": "python",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "odoo-addon-account-tax-unece 15.0.2.0.0.3",
+   "url": "https://pypi.org/project/odoo-addon-account-tax-unece/15.0.2.0.0.3/",
+   "date": "2026-08-14T19:25:51+00:00",
+   "summary": "UNECE nomenclature for taxes",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dagster-dask 0.29.18",
+   "url": "https://pypi.org/project/dagster-dask/0.29.18/",
+   "date": "2026-08-14T19:25:50+00:00",
+   "summary": "Package for using Dask as Dagster's execution engine.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "classifyre-cli 0.4.115",
+   "url": "https://pypi.org/project/classifyre-cli/0.4.115/",
+   "date": "2026-08-14T19:25:49+00:00",
+   "summary": "Classifyre CLI — scan and classify unstructured data sources",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
    "title": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
-   "date": "2026-08-14T19:21:01+00:00",
+   "date": "2026-08-14T19:22:36+00:00",
    "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
    "points": 164106,
    "tech": "python",
@@ -16,176 +193,11 @@
    "kind": "news"
   },
   {
-   "title": "dagster-celery-k8s 0.29.18",
-   "url": "https://pypi.org/project/dagster-celery-k8s/0.29.18/",
-   "date": "2026-08-14T19:20:52+00:00",
-   "summary": "A Dagster integration for celery-k8s-executor",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "dagster-webserver 1.13.18",
-   "url": "https://pypi.org/project/dagster-webserver/1.13.18/",
-   "date": "2026-08-14T19:20:42+00:00",
-   "summary": "Web UI for dagster.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "blackboard-cli 0.1.6",
-   "url": "https://pypi.org/project/blackboard-cli/0.1.6/",
-   "date": "2026-08-14T19:20:37+00:00",
-   "summary": "Terminal CLI for Blackboard LMS — sync deadlines, grades, and announcements",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "treecf 0.2.0",
-   "url": "https://pypi.org/project/treecf/0.2.0/",
-   "date": "2026-08-14T19:20:31+00:00",
-   "summary": "Constrained, threshold-aware counterfactual explanations for tree ensembles (XGBoost, LightGBM, CatBoost, sklearn) on a bundled Rust genetic engine.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "mindroom 2026.8.65",
-   "url": "https://pypi.org/project/mindroom/2026.8.65/",
-   "date": "2026-08-14T19:20:31+00:00",
-   "summary": "A universal interface for AI agents with persistent memory, where every conversation has a home",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "vetoworld 0.1.1",
-   "url": "https://pypi.org/project/vetoworld/0.1.1/",
-   "date": "2026-08-14T19:20:05+00:00",
-   "summary": "VetoWorld: a benchmark of expedience under terminal stakes",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "gsctl 0.31.0a20260814",
-   "url": "https://pypi.org/project/gsctl/0.31.0a20260814/",
-   "date": "2026-08-14T19:19:59+00:00",
-   "summary": "Command line tool for GraphScope",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "graphscope-flex 0.31.0a20260814",
-   "url": "https://pypi.org/project/graphscope-flex/0.31.0a20260814/",
-   "date": "2026-08-14T19:19:57+00:00",
-   "summary": "GraphScope FLEX HTTP SERVICE API",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "timecopilot-gift-eval 0.3.0",
-   "url": "https://pypi.org/project/timecopilot-gift-eval/0.3.0/",
-   "date": "2026-08-14T19:19:56+00:00",
-   "summary": "GIFT-Eval benchmark integration for time series forecasters",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "esi-core 1.2.9",
-   "url": "https://pypi.org/project/esi-core/1.2.9/",
-   "date": "2026-08-14T19:19:54+00:00",
-   "summary": "Repository for compiled code used by ESI projects.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "solarspatialtools 0.5.5",
-   "url": "https://pypi.org/project/solarspatialtools/0.5.5/",
-   "date": "2026-08-14T19:19:38+00:00",
-   "summary": "A package for spatial analysis of solar energy and solar irradiance",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "llmpu 0.2.5",
-   "url": "https://pypi.org/project/llmpu/0.2.5/",
-   "date": "2026-08-14T19:19:28+00:00",
-   "summary": "Large Language Model Processing Unit",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "rynth 0.0.1",
-   "url": "https://pypi.org/project/rynth/0.0.1/",
-   "date": "2026-08-14T19:19:25+00:00",
-   "summary": "Python bindings for VapourSynth.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "kalpa-crs 2.0.1",
-   "url": "https://pypi.org/project/kalpa-crs/2.0.1/",
-   "date": "2026-08-14T19:19:09+00:00",
-   "summary": "Autonomous Causal Cyber Reasoning System (CRS)",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "siphrix 1.8.5",
-   "url": "https://pypi.org/project/siphrix/1.8.5/",
-   "date": "2026-08-14T19:19:03+00:00",
-   "summary": "Siphrix — AI Action Audit & Risk Monitor. Records every agent action, surfaces it in a dashboard, and raises risk-ranked warnings. Blocking exists as a frozen, opt-in enforcement mode.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "date": "2026-08-14T19:18:01+00:00",
    "summary": "The agent that grows with you",
-   "points": 230592,
+   "points": 230596,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -197,7 +209,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "date": "2026-08-14T19:17:38+00:00",
    "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-   "points": 106333,
+   "points": 106334,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -221,19 +233,7 @@
    "url": "https://github.com/Comfy-Org/ComfyUI",
    "date": "2026-08-14T19:17:19+00:00",
    "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-   "points": 127572,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Significant-Gravitas/AutoGPT",
-   "url": "https://github.com/Significant-Gravitas/AutoGPT",
-   "date": "2026-08-14T19:16:22+00:00",
-   "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "points": 186620,
+   "points": 127571,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -245,7 +245,7 @@
    "url": "https://github.com/langflow-ai/langflow",
    "date": "2026-08-14T19:13:14+00:00",
    "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-   "points": 153244,
+   "points": 153245,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -294,6 +294,16 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Where can I learn Python for free?",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vofwg1/where_can_i_learn_python_for_free/",
+   "date": "2026-08-14T18:48:42+00:00",
+   "summary": "I’m looking for a good free resource to learn Python from scratch. What do you guys recommend? submitted by /u/yup-console [link] [التعليقات]",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -358,6 +368,26 @@
    "lang": "en"
   },
   {
+   "title": "Advancing in python",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vod84m/advancing_in_python/",
+   "date": "2026-08-14T17:12:03+00:00",
+   "summary": "Heyy everyone first time posting here so I’m a student, I want to learn some computer skills to learn something new and have some practically applicable skills other than a degree (which is a long way to go). I might also consider taking a ",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced Python",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vod6rv/advanced_python/",
+   "date": "2026-08-14T17:10:42+00:00",
+   "summary": "Heyy everyone first time posting here so I’m a student, I want to learn some computer skills to learn something new and have some practically applicable skills other than a degree (which is a long way to go). I might also consider taking a ",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
    "title": "Catch Prompt Drift Before It Breaks Your Free-Model CI Job",
    "url": "https://dev.to/gitlab_3188/catch-prompt-drift-before-it-breaks-your-free-model-ci-job-4phl",
    "date": "2026-08-14T17:10:10+00:00",
@@ -384,7 +414,7 @@
    "url": "https://github.com/github/spec-kit",
    "date": "2026-08-14T16:44:52+00:00",
    "summary": "💫 Toolkit to help you get started with Spec-Driven Development",
-   "points": 128341,
+   "points": 128342,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -411,6 +441,16 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "what's the point of getters and setters?",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vobo1q/whats_the_point_of_getters_and_setters/",
+   "date": "2026-08-14T16:15:21+00:00",
+   "summary": "I had python classes a year ago, and after a semester of not having any (OOP language) programming classes in college, I kinda want to relearn python (and OOP in general) However one thing that I never understood is the point of getters and",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -469,6 +509,16 @@
    "lang": "en"
   },
   {
+   "title": "Very new to python, would appreciate help",
+   "url": "https://www.reddit.com/r/learnpython/comments/1voan51/very_new_to_python_would_appreciate_help/",
+   "date": "2026-08-14T15:37:33+00:00",
+   "summary": "I am building a calculator program and it works, but now I am attempting to bullet proof it, so that no wrong inputs can cause an error. With what I have written, it works but the loop for the operator input does not actually loop even thou",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
    "title": "Animica – a post-quantum Layer 1 blockchain built primarily in Python",
    "url": "https://animica.org/",
    "date": "2026-08-14T15:34:44+00:00",
@@ -502,6 +552,16 @@
    "lang": "en"
   },
   {
+   "title": "Tkinter vs cutomtkinter",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo9orz/tkinter_vs_cutomtkinter/",
+   "date": "2026-08-14T15:02:01+00:00",
+   "summary": "I am starting with GUI designs and want to know about the difference and which is better 😉 submitted by /u/Smartyboyz [link] [التعليقات]",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
    "title": "Show HN: Burla – Distributed computing framework for AI agents",
    "url": "https://burla.dev/",
    "date": "2026-08-14T14:52:54+00:00",
@@ -521,6 +581,16 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Week 1 - progress towards machine learning",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo9912/week_1_progress_towards_machine_learning/",
+   "date": "2026-08-14T14:45:11+00:00",
+   "summary": "I started my journey to learning machine learning a little over 1 week ago and am writing these posts to hold myself accountable for my study and hopefully give some insight for anyone following my footsteps. I have identified a road map th",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -578,6 +648,16 @@
    "lang": "en"
   },
   {
+   "title": "Starting From ZERO experience - goal to make an app",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo5d20/starting_from_zero_experience_goal_to_make_an_app/",
+   "date": "2026-08-14T12:03:13+00:00",
+   "summary": "I want to learn to code with the goal of developing a women s health app. I know literally nothing about coding, I have no background whatsoever in computer science and most days fight with my computer (I feel as though if I bothered to lea",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
    "title": "The Real Python Podcast – Episode #307: Improving NumPy Performance on Free-Threaded Python",
    "url": "https://realpython.com/podcasts/rpp/307/",
    "date": "2026-08-14T12:00:00+00:00",
@@ -617,6 +697,16 @@
    "tech": "python",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Terminal and raw I/O VT100 codes question",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo4p7u/terminal_and_raw_io_vt100_codes_question/",
+   "date": "2026-08-14T11:31:39+00:00",
+   "summary": "A Windows terminal/consoles VT100 emulation question. https://espterm.github.io/docs/VT100%20escape%20codes.html specifies getcursor DSR Get cursor position ^[6n cursorpos CPR Response: cursor is at v,h ^[ v ; h R so print( \\x1b[6n ) ends u",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -719,7 +809,7 @@
    "url": "https://github.com/open-webui/open-webui",
    "date": "2026-08-14T06:55:23+00:00",
    "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "points": 148793,
+   "points": 148794,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -1007,105 +1097,6 @@
    "lang": "en"
   },
   {
-   "title": "Entertaining content for learning Python! (porting 'Poignant Guide to Ruby' to teach Python)",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vnpi59/entertaining_content_for_learning_python_porting/",
-   "date": "2026-08-13T22:31:24+00:00",
-   "summary": "For anyone looking for entertaining light book for learning Python, I started porting to Python a few chapters of Why s Guide to Ruby, which uses comics and surreal humor to introduce Ruby (the original author why the lucky stiff disappeare",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
-   "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
-   "date": "2026-08-13T21:32:16+00:00",
-   "summary": "python، machine-learning",
-   "points": -3,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "React Frontend Error Tracking Explained: A FastAPI Backend Collector for Safer Stack Data",
-   "url": "https://dev.to/jamesanderson121/react-frontend-error-tracking-explained-a-fastapi-backend-collector-for-safer-stack-data-1252",
-   "date": "2026-08-13T21:11:53+00:00",
-   "summary": "Short answer: send window.onerror and onunhandledrejection events through a FastAPI collector, scrub...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "public-apis/public-apis",
-   "url": "https://github.com/public-apis/public-apis",
-   "date": "2026-08-13T21:07:34+00:00",
-   "summary": "A collective list of free APIs",
-   "points": 458307,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Having problem with understanding or creating programs",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vnmzty/having_problem_with_understanding_or_creating/",
-   "date": "2026-08-13T20:52:32+00:00",
-   "summary": "So basically I ve learned python and created some basic programs like calculator, multiplier etc amd when it comes to create a real program I got so much confused. I learned python to create my own linux tools and to create my own personal ",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system",
-   "url": "https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa",
-   "date": "2026-08-13T20:32:20+00:00",
-   "summary": "I'm building PhotonicOps, an offline, air-gapped telemetry ingestion and agentic hardware-triage...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "browser-use/browser-use",
-   "url": "https://github.com/browser-use/browser-use",
-   "date": "2026-08-13T19:28:15+00:00",
-   "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-   "points": 109228,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Thoughts on \"SIMD in Pure Python\" – purplesyringa's blog",
-   "url": "https://purplesyringa.moe/blog/thoughts-on-simd-in-pure-python/",
-   "date": "2026-08-13T19:17:08+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Python Type System and Tooling Survey 2026",
-   "url": "https://www.surveymonkey.com/r/python_typing",
-   "date": "2026-08-13T19:15:14+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "#491 Feeling Judged",
    "url": "https://pythonbytes.fm/episodes/show/491/feeling-judged",
    "date": "2026-08-12T01:00:10+00:00",
@@ -1299,20 +1290,20 @@
    "title": "ساعة ناسا الذكية التي تعلّم الأطفال البرمجة بلغة بايثون",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZN1g0OTRSemFINXN1TkVFZnotWVV0Y2F3R0RrcG5jRTBDQlhxZk95SkxPTVBHYWxWbFk0VE9CclFybnA0X28w?oc=5",
    "date": "2026-04-07T07:00:00+00:00",
-   "summary": "ساعة ناسا الذكية التي تعلّم الأطفال البرمجة بلغة بايثون elbalad.news",
+   "summary": "ساعة ناسا الذكية التي تعلّم الأطفال البرمجة بلغة بايثون صدى البلد",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "elbalad.news",
+   "source": "صدى البلد",
    "lang": "ar"
   },
   {
    "title": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wcnFHcmpXaFM2U3JycDFvWXBjRUpYem5WcUpCWHg4dG84Q3MyZFlRWlN0YmdtSjhGdXBadGdyUWR1OG13WEhlSDdMOHJGQlhmY0E?oc=5",
    "date": "2026-04-05T08:15:31+00:00",
-   "summary": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة وكالة عمون الاخبارية",
+   "summary": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة ammonnews.net",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "وكالة عمون الاخبارية",
+   "source": "ammonnews.net",
    "lang": "ar"
   },
   {
@@ -1499,10 +1490,10 @@
    "title": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xLVlRaGJ2cWRpdFgxNUk2UHJ5NENUT0Z0M0xCR3VtUlgzOXB3UDZMeURGSEhJcklGR2VoQ2J4ZXFvSVBQbTRIa29zamNpcVV5aXZnNDFWeFI5YzItV2c?oc=5",
    "date": "2024-08-06T07:00:00+00:00",
-   "summary": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة Sharjah24",
+   "summary": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة sharjah24.ae",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "Sharjah24",
+   "source": "sharjah24.ae",
    "lang": "ar"
   },
   {
@@ -1559,10 +1550,10 @@
    "title": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54YVFOa3k5UFQ2djFjSlEyLXBGNFhLS1pvamk0MmQyd0VQVm5ZZVlpTzFSejNSQlJSa2ZWbll3Q2tDMHFQcUs0?oc=5",
    "date": "2024-07-14T07:00:00+00:00",
-   "summary": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون elbalad.news",
+   "summary": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون صدى البلد",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "elbalad.news",
+   "source": "صدى البلد",
    "lang": "ar"
   },
   {
@@ -2069,10 +2060,10 @@
    "title": "«وربة» راعٍ لدورة برمجة لغة بايثون",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wSVRFYmdoVXp1NlBqWGI4TkdsUmpwX2ZfX3U3cWphMVBYVk5PMklpeFhTNzd3YWJrb0doWUF0V1p5VGJfSHhadU1BcldxNE1uN2hTcEc2UXNRdWdEc1FRYV9jRdIBaEFVX3lxTE1uaklIbWN4OUpFb3diY05iN2JlVll5a0gxbWpiMkQ1QmNHLUR2c3l6SU00bER2NTU1aEpLSXJmaHpTOHZGSTdHSlhsMl9TWXpLcm5ZdVktU2NjOWJhNkV0WjFoajh2Q19v?oc=5",
    "date": "2022-03-23T07:00:00+00:00",
-   "summary": "«وربة» راعٍ لدورة برمجة لغة بايثون جريدة الجريدة الكويتية",
+   "summary": "«وربة» راعٍ لدورة برمجة لغة بايثون aljarida.com",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "جريدة الجريدة الكويتية",
+   "source": "aljarida.com",
    "lang": "ar"
   },
   {
