@@ -1,48 +1,8 @@
 {
- "generated": "2026-08-14T23:05:36.143150+00:00",
+ "generated": "2026-08-14T21:57:13.017059+00:00",
  "tech": "cyber",
- "count": 220,
+ "count": 218,
  "items": [
-  {
-   "title": "4 NextAuth Bugs, 1 Budibase Leak: This Week’s Real Risk",
-   "url": "https://ismysitehackable.medium.com/4-nextauth-bugs-1-budibase-leak-this-weeks-real-risk-5a439bd074fa?source=rss------cybersecurity-5",
-   "date": "2026-08-14T22:50:53+00:00",
-   "summary": "Four new NextAuth.js CVEs and a Budibase credential-handling bug are the real security story this week &#x2014; not the latest model benchmarks&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "From “Pending Admin Approval” to Super Admin in 3 Requests: My First Pentest Writeup",
-   "url": "https://medium.com/@ghazisantino/from-pending-admin-approval-to-super-admin-in-3-requests-my-first-pentest-writeup-34d2330f206a?source=rss------cybersecurity-5",
-   "date": "2026-08-14T22:40:55+00:00",
-   "summary": "A case study on Broken Access Control and Mass Assignment in a Next.js internship-management app &#x2014; written for educational purposes, with&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Mengupas Tuntas Proses Pentest: Dari Reconnaissance Sampai Nemu Celah IDOR",
-   "url": "https://medium.com/@stevanzaky87/mengupas-tuntas-proses-pentest-dari-reconnaissance-sampai-nemu-celah-idor-ecc6696bc913?source=rss------cybersecurity-5",
-   "date": "2026-08-14T22:30:12+00:00",
-   "summary": "Sebagai orang yang terjun di dunia keamanan siber, momen presentasi hasil pengujian keamanan (penetration testing atau pentest) ke klien&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "E-mail with malware in my spam folder",
-   "url": "https://medium.com/@ObscurityThroughSecurity/email-with-malware-in-my-spam-folder-a61106f9caaf?source=rss------cybersecurity-5",
-   "date": "2026-08-14T22:00:13+00:00",
-   "summary": "From: admin@learnstax.com Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
   {
    "title": "Hands-On UFW Firewall on Ubuntu 24.04: Testing Network Ports with Kali Linux and Nmap",
    "url": "https://tanya-bhardwaj20.medium.com/hands-on-ufw-firewall-on-ubuntu-24-04-testing-network-ports-with-kali-linux-and-nmap-fd57c5bf3268?source=rss------cybersecurity-5",
@@ -552,22 +512,33 @@
    "title": "Cyber Security Full Course [FREE] | Cybersecurity Tutorial 2026 | Cybersecurity Course | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcWNDSTQ0eC1UazZCenVPQTE0QmV0dEVHcVpnWWtrQ3R0Y0pVUDFCM1NBNElkeU02N0hWbG9LQ2RSZWVrc0JhZ2IyU1VZbGFtOWdSQUZ3?oc=5",
    "date": "2026-08-06T15:45:37+00:00",
-   "summary": "Cyber Security Full Course [FREE] | Cybersecurity Tutorial 2026 | Cybersecurity Course | Intellipaat YouTube",
+   "summary": "Cyber Security Full Course [FREE] | Cybersecurity Tutorial 2026 | Cybersecurity Course | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
-   "title": "LOW - Trailer",
-   "url": "https://thisislow.com/",
-   "date": "2026-08-06T07:00:00+00:00",
-   "summary": "After 8 years, LOW is finally here. A story about the weight of being and the wreckage of waking up. Five episodes. Five descents. LOW is an audio journey into the unlit corners of human experience. Choices we made in the dark, the silences",
+   "title": "🐛 The bug: Improper Access Control (IDOR) in Calibre-Web",
+   "url": "https://dev.to/acciobugs/the-bug-improper-access-control-idor-in-calibre-web-1395",
+   "date": "2026-08-04T18:17:23+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  While auditing...",
+   "points": 2,
    "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Water Infrastructure Cybersecurity Grants: Why $9M Is a Rounding Error",
+   "url": "https://dev.to/satyam_rastogi/water-infrastructure-cybersecurity-grants-why-9m-is-a-rounding-error-393n",
+   "date": "2026-08-04T15:01:53+00:00",
+   "summary": "New York's $9M grant to 153 water systems exposes critical gaps in OT security budgets. Red teams already exploit these infrastructure weaknesses syst",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
   },
   {
    "title": "178: Ubiquiti",
@@ -581,6 +552,72 @@
    "kind": "podcast"
   },
   {
+   "title": "How to Earn $10k+/Year from Bug Bounties",
+   "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-4cke",
+   "date": "2026-07-30T12:00:53+00:00",
+   "summary": "How to Earn $10k+/Year from Bug Bounties   tags: security, bugbounty, money, hacking       ...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "OT Isolation as Attack Surface: Weaponizing CISA's Defense Guidance",
+   "url": "https://dev.to/satyam_rastogi/ot-isolation-as-attack-surface-weaponizing-cisas-defense-guidance-1n1j",
+   "date": "2026-07-29T14:42:19+00:00",
+   "summary": "CISA's new OT isolation guidance reveals defensive assumptions attackers exploit. Improperly segmented networks, unmonitored isolation points, and leg",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why AI Models Are Vulnerable: The Hidden Risks You Need to Know",
+   "url": "https://dev.to/fabiosarmento/why-ai-models-are-vulnerable-the-hidden-risks-you-need-to-know-1klo",
+   "date": "2026-07-24T11:00:20+00:00",
+   "summary": "Why AI Models Are Vulnerable: The Hidden Risks You Need to Know   Have you ever considered...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "💻 From Hacker to Security Professional: My Journey into Ethical Hacking",
+   "url": "https://dev.to/danielioni/from-hacker-to-security-professional-my-journey-into-ethical-hacking-5cdf",
+   "date": "2026-07-24T05:47:19+00:00",
+   "summary": "💻 From Hacker to Security Professional: My Journey into Ethical Hacking  I've always been fascinated...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "📝 My Story – Bio (Full Version)",
+   "url": "https://dev.to/danielioni/my-story-bio-full-version-4752",
+   "date": "2026-07-21T16:39:21+00:00",
+   "summary": "I started my journey the way many self-taught hackers do: downloading Kali Linux manuals from torrent...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Qilin Ransomware Exploits PAN-OS GlobalProtect Auth Bypass",
+   "url": "https://dev.to/satyam_rastogi/qilin-ransomware-exploits-pan-os-globalprotect-auth-bypass-f9",
+   "date": "2026-07-21T14:35:01+00:00",
+   "summary": "Qilin ransomware operators exploit critical Palo Alto PAN-OS GlobalProtect authentication bypass to establish initial access. Arctic Wolf confirms act",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "177: National Public Data",
    "url": "https://darknetdiaries.com/episode/177/",
    "date": "2026-07-21T07:00:00+00:00",
@@ -590,6 +627,17 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Microsoft Patch Tuesday 622 CVEs: Zero-Day Triage & Exploitation Readiness",
+   "url": "https://dev.to/satyam_rastogi/microsoft-patch-tuesday-622-cves-zero-day-triage-exploitation-readiness-3ehh",
+   "date": "2026-07-15T14:19:46+00:00",
+   "summary": "Analysis of Microsoft's record 622-CVE Patch Tuesday: three zero-days, 60+ critical flaws, and attacker prioritization strategies for maximum enterpri",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
   },
   {
    "title": "176: NSL",
@@ -606,10 +654,10 @@
    "title": "Learn Cyber Security Full Course Free | Cyber Security Course 2026 | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3QWNuV1dUSGNjVC1pSFQtc2FRdDZtbTg3bGNLNkQ4QTRsR0h2T2VkMDVhWFY3dXE3azYyMDhwWW15NmF2ZHFJaEp1Rnh0TVVyUDRvamhB?oc=5",
    "date": "2026-06-23T13:30:23+00:00",
-   "summary": "Learn Cyber Security Full Course Free | Cyber Security Course 2026 | Intellipaat YouTube",
+   "summary": "Learn Cyber Security Full Course Free | Cyber Security Course 2026 | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -626,10 +674,10 @@
    "title": "Cybersecurity Full Course 2026 [FREE] | Cyber Security Tutorial For Beginners | #Shorts #Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KbHF0ZC1lM1BGLUxYS2V3OVBMUk8tYnpCNUhud0JncHdnbUhzLVJCSGZiSF9tWEZJb19sYlUxSUVMSy1BRU5pTlFYMmxROGt1SExjWg?oc=5",
    "date": "2026-06-08T16:30:06+00:00",
-   "summary": "Cybersecurity Full Course 2026 [FREE] | Cyber Security Tutorial For Beginners | #Shorts #Simplilearn YouTube",
+   "summary": "Cybersecurity Full Course 2026 [FREE] | Cyber Security Tutorial For Beginners | #Shorts #Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -647,10 +695,10 @@
    "title": "Cyber Security Full Course | Complete Cyber Security Course Free 2026 | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wWGt3c28zWGkyMThDU1NYekQ5R19aRldIS1pzbGtPNmRMbW1XOUs2dzk2aVNHYTYtcWdic0R2R1AycTRSNEYzNE1qNGtuZDgzdlpPbGtR?oc=5",
    "date": "2026-05-22T17:27:52+00:00",
-   "summary": "Cyber Security Full Course | Complete Cyber Security Course Free 2026 | Intellipaat YouTube",
+   "summary": "Cyber Security Full Course | Complete Cyber Security Course Free 2026 | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -690,10 +738,10 @@
    "title": "Learn Cyber security Full Course 2026 Free | Cyber Security Course | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4WURycVFBUVZNSUNZb2t3OENfSG85M2d5emQ1bXR0RmVfaTRUY1I0WjByaXJOLWpQM09xU1l1VEgxalA4ZDYzRGxtT3V1U3NiQVpmSUtn?oc=5",
    "date": "2026-03-26T15:01:11+00:00",
-   "summary": "Learn Cyber security Full Course 2026 Free | Cyber Security Course | Intellipaat YouTube",
+   "summary": "Learn Cyber security Full Course 2026 Free | Cyber Security Course | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -720,10 +768,10 @@
    "title": "Learn Cyber Security Course Free 2026 | Cyber Security Full Course For Beginners 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BcGdCdVlFeFk4Wk13N3hrUmJUeGlDRWplNWFETkZ0SHpzTnZ0MTRoSzhrYWRxUlNzbFltZWtPdUZuYzJ2Sk4zeDFJeUpCdTlXSmcxVG1n?oc=5",
    "date": "2026-03-16T14:30:22+00:00",
-   "summary": "Learn Cyber Security Course Free 2026 | Cyber Security Full Course For Beginners 2026 | Simplilearn YouTube",
+   "summary": "Learn Cyber Security Course Free 2026 | Cyber Security Full Course For Beginners 2026 | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -741,10 +789,10 @@
    "title": "Cybersecurity Full Course 2026 | Cyber Security Training For Beginners | Cybersecurity | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DQi1CY3Q0YlZsakl3am5sNkRYTGRUaEZLUm9BTHBwQnB6bFFSZjNHRjg3VzJ5S0ZiLVBnWk1PdVlENGIwcnBGMXB1aEllbFEwME1wQTFR?oc=5",
    "date": "2026-02-06T14:30:56+00:00",
-   "summary": "Cybersecurity Full Course 2026 | Cyber Security Training For Beginners | Cybersecurity | Simplilearn YouTube",
+   "summary": "Cybersecurity Full Course 2026 | Cyber Security Training For Beginners | Cybersecurity | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -782,10 +830,10 @@
    "title": "Cyber Security Course 2026 [FREE]| Cyber Security Full Course For Beginners 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UVkZ5U1JMWC1NUUtKd2hwc3JOQk1kaWZyczRkWXRpWjdDMW1FbEV2UTNOXzdvVlBuYm9aX0c5R3ByMWpUYUlMT2FTcmJ0X1hpS0RCQVpB?oc=5",
    "date": "2026-01-31T01:29:28+00:00",
-   "summary": "Cyber Security Course 2026 [FREE]| Cyber Security Full Course For Beginners 2026 | Simplilearn YouTube",
+   "summary": "Cyber Security Course 2026 [FREE]| Cyber Security Full Course For Beginners 2026 | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -802,10 +850,10 @@
    "title": "🔥Cyber Security Full Course 2026 (Free) | Cyber Security Course for Beginners | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01VFVoVnVnMHB0dzBuOHhBTHdPckRLUmpLNEtuSERSRFZLS0dqTnNrb1RpejFud0k5ODVMRE9wN1VEdDJTVUNKajdkMmdZZmVUVnREUF9B?oc=5",
    "date": "2026-01-20T14:30:40+00:00",
-   "summary": "🔥Cyber Security Full Course 2026 (Free) | Cyber Security Course for Beginners | Intellipaat YouTube",
+   "summary": "🔥Cyber Security Full Course 2026 (Free) | Cyber Security Course for Beginners | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -831,6 +879,17 @@
    "kind": "podcast"
   },
   {
+   "title": "167: Threatlocker",
+   "url": "https://darknetdiaries.com/episode/167/",
+   "date": "2025-12-23T08:00:00+00:00",
+   "summary": "A manufacturer gets hit with ransomware. A hospital too. Learn how Threatlocker stops these types of attacks. This episode is brought to you by Threatlocker. Sponsors This episode is sponsored by ThreatLocker® . ThreatLocker® is a Zero Trus",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
    "title": "الفيديو #1: البداية الصحيحة في الأمن السيبراني | شرح Junior Security Analyst Intro #1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LXzlRV2UzS25tRVVyOXhGRTVBYWRqTHNxVnVENG1xYXNFbDktRzZTMW9Bc0NleTRDTzRxWXpib3RWQzlSZjJwVlFXa0hBbVA2MUhESGNB?oc=5",
    "date": "2025-12-10T18:51:15+00:00",
@@ -839,6 +898,17 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "166: Maxie",
+   "url": "https://darknetdiaries.com/episode/166/",
+   "date": "2025-12-02T08:00:00+00:00",
+   "summary": "Maxie Reynolds loves an adventure, especially the kind where she’s breaking into buildings (legally). In this episode, she shares stories from her time as a professional penetration tester, including high-stakes physical intrusions, red tea",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
   },
   {
    "title": "كل ما تحتاج معرفته قبل البداية في مجال أمن المعلومات | محمد فتحي في بودكاست غريب",
@@ -864,10 +934,10 @@
    "title": "Cyber Security Full Course FREE (2026) | Cyber Security Course | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GanBiU01PNVhVUDZzWGRxUGE2a2daVDZNdVJRbWFqbUJod2RqSi1TSklnMXJLTjllTjZUNzNjRjRsQ3RHaXdGMzYyU25BVUMyUmRoeXZR?oc=5",
    "date": "2025-11-20T09:30:37+00:00",
-   "summary": "Cyber Security Full Course FREE (2026) | Cyber Security Course | Intellipaat YouTube",
+   "summary": "Cyber Security Full Course FREE (2026) | Cyber Security Course | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -879,6 +949,17 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "165: Tanya",
+   "url": "https://darknetdiaries.com/episode/165/",
+   "date": "2025-11-04T08:00:00+00:00",
+   "summary": "Tanya Janca is a globally recognized AppSec (application security) expert and founder of We Hack Purple. In this episode, she shares wild stories from the front lines of cybersecurity. She shares stories of when she was a penetration tester",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
   },
   {
    "title": "تعلم أشهر الثغرات على مواقع الويب من الصفر شرح بالعربية | kali linux Broken access control",
@@ -894,20 +975,20 @@
    "title": "Cyber Security Full Course FREE | Cyber Security Course 2026 | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTFREVS0zVGpXbXlEaDc3RzA4R1g4czNQVHJwZzJDNVBCSER1V2FhZHNwVzNfTnhrMlpHZzA0dExJdFExcEVVd2xuaHppUVlVTENrdGxB?oc=5",
    "date": "2025-11-01T10:30:05+00:00",
-   "summary": "Cyber Security Full Course FREE | Cyber Security Course 2026 | Intellipaat YouTube",
+   "summary": "Cyber Security Full Course FREE | Cyber Security Course 2026 | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "Cyber Security Full Course 2025 | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DZGNXVnlkVEJCWW9HWTQ2Y0xiS1hxd2tINTVpdDJ4QkdrNHRNdnN4TWxEandKVFU3cl9TUGZvUnhGYTZucEswdEFnLVBxMVUxc0dpMWdR?oc=5",
    "date": "2025-10-17T04:30:07+00:00",
-   "summary": "Cyber Security Full Course 2025 | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn YouTube",
+   "summary": "Cyber Security Full Course 2025 | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -924,10 +1005,10 @@
    "title": "I Tried 50 Cyber Security Courses. Here Are Top 5",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iRUNISThKbENzQXFwTUJwY29rRUUzQzlWMEpxNWp6ZTlYQzR5LVVpV3pPZURveVlpeUFWeVJlSHJQNzY4NjNtek5xT3JmeXo5QzRxUHdR?oc=5",
    "date": "2025-10-03T00:45:59+00:00",
-   "summary": "I Tried 50 Cyber Security Courses. Here Are Top 5 YouTube",
+   "summary": "I Tried 50 Cyber Security Courses. Here Are Top 5 youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -994,10 +1075,10 @@
    "title": "Cyber Security Mastery | Complete Cybersecurity Course For Beginners | Cybersecurity | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BY0stUVg4WGdXSlJQajdXeGtLUU1NZ0hJUXBURWdiX19HRm9VSFZBdHppbjVmeHd2cVMtU3BJUUJ6U21IOUJlNDNVcENNMmxWQmxPTjF3?oc=5",
    "date": "2025-08-17T15:11:15+00:00",
-   "summary": "Cyber Security Mastery | Complete Cybersecurity Course For Beginners | Cybersecurity | Simplilearn YouTube",
+   "summary": "Cyber Security Mastery | Complete Cybersecurity Course For Beginners | Cybersecurity | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1014,20 +1095,20 @@
    "title": "Cyber Security Full Course (2025) | Cyber Security on the Cloud For Beginners FREE | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxS3NBNWZWck9CaHFXTHNQZXlxYTNpODcxcE5Ed3lkX1JCWEdlLTBRTWVzcUI3d2wwaUMxSEh3NThJanBVOGpjVVM1MHNRZGJSb1V2RUh3?oc=5",
    "date": "2025-08-05T18:56:50+00:00",
-   "summary": "Cyber Security Full Course (2025) | Cyber Security on the Cloud For Beginners FREE | Intellipaat YouTube",
+   "summary": "Cyber Security Full Course (2025) | Cyber Security on the Cloud For Beginners FREE | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "Application Security Full Course 2026 | Application Security Tutorial For Beginners | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5akVqOEVxbWNXeDNFUGRvWU9QRWNMUmRNczhkWW5STmZ4czZHc0tSTC1vYko4RGdZRnhacW1IbHhlWUVXX3pPcTJ3Zzc2REJpNklfR1pB?oc=5",
    "date": "2025-07-23T17:13:22+00:00",
-   "summary": "Application Security Full Course 2026 | Application Security Tutorial For Beginners | Simplilearn YouTube",
+   "summary": "Application Security Full Course 2026 | Application Security Tutorial For Beginners | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1064,10 +1145,10 @@
    "title": "Best Cyber Security Course Online | Learn Cyber Security Course - Intellipaat Reviews",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EU04xUUFDVlc4cUhNblltQWFNdzh6VjJyNlIyRFdzYTg2QkUxbUIyZE1PZzdHV1llX1BJbDZMMlJJTE9wTWNnSnVPdEVZSk1pSkxaYmlR?oc=5",
    "date": "2025-06-29T06:24:27+00:00",
-   "summary": "Best Cyber Security Course Online | Learn Cyber Security Course - Intellipaat Reviews YouTube",
+   "summary": "Best Cyber Security Course Online | Learn Cyber Security Course - Intellipaat Reviews youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1104,20 +1185,20 @@
    "title": "Cyber Security Full Course 2026 | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XdUtjMUo5WGpoSUNqakwzZVVsZFBvZ1NGUlprTGFvMDJRdUJ2WmJqaDd0VV80RGliSlY4MWV3UE5yU0tseXVDdHdqZjNKd3hmemc1eTlB?oc=5",
    "date": "2025-05-26T16:03:29+00:00",
-   "summary": "Cyber Security Full Course 2026 | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn YouTube",
+   "summary": "Cyber Security Full Course 2026 | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "Certified Information Security Manager (CISM) Bootcamp | Full CISM Training Program",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAza01VUG8yMzl5aTFEcEtFMFZlbExhR1JVRUZ2dWFjMUxOb1ZHcUU4a2VtejJtQ29aOGc4V2N3UmxkRmVsY0JxQ1RlZnpHOWczTWdWSEFR?oc=5",
    "date": "2025-05-15T13:30:02+00:00",
-   "summary": "Certified Information Security Manager (CISM) Bootcamp | Full CISM Training Program YouTube",
+   "summary": "Certified Information Security Manager (CISM) Bootcamp | Full CISM Training Program youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1304,10 +1385,10 @@
    "title": "Cyber Security Full Course | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKUEJHVnVfeDFxSE1BOG5QWjlTRUtrbDhaQWFGWWUzTy1BM0VFeTdqQWN4Wml5THRWbUFuOFVVX3BIUmNEZXI2U3BXaFRrUklEU2gwTHRn?oc=5",
    "date": "2024-12-12T02:22:52+00:00",
-   "summary": "Cyber Security Full Course | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn YouTube",
+   "summary": "Cyber Security Full Course | Cybersecurity Tutorial For Beginners | Cybersecurity | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1384,30 +1465,30 @@
    "title": "The Ultimate 2024 Cyber Security Tutorial | Cybersecurity for beginners | Cyber security in 4 hours",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xRFNIOTdGY3VDVW5JaFlfYmZkV3V0d21ESk5Vd1lia0QtR3JPWjQxTVF1ZVpGaVF3TURwY29UaG5MVEFMdGY2SFQ2a0twQ2gxcjVvbnBR?oc=5",
    "date": "2024-09-20T12:34:23+00:00",
-   "summary": "The Ultimate 2024 Cyber Security Tutorial | Cybersecurity for beginners | Cyber security in 4 hours YouTube",
+   "summary": "The Ultimate 2024 Cyber Security Tutorial | Cybersecurity for beginners | Cyber security in 4 hours youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "Cyber Security Full Course 2024 | Cyber Security Course | Cyber Security Training | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVjZVaUpua1Vsc2l3alBMYjlla1ZIRDZkaDlaM05ySXk1N0sybG8zdmlpYWlYUnhrNzlldjhnZ1Q0d1pmXy1fZDMyRklZQU54UVRDQXFB?oc=5",
    "date": "2024-09-18T18:18:02+00:00",
-   "summary": "Cyber Security Full Course 2024 | Cyber Security Course | Cyber Security Training | Intellipaat YouTube",
+   "summary": "Cyber Security Full Course 2024 | Cyber Security Course | Cyber Security Training | Intellipaat youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "Cybersecurity Full Course 2026 | Web Application Security Tutorial For Beginners | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GTEVFS1ZWVGpaaV9Jc1FwNU1zYXNTaXFkUThuUDdsV3BLeGI2R0NoZWRfanFvdEp5dC1wTl9fNWZNNXpraDdhS2t6WVVIQTdWVDh1cW93?oc=5",
    "date": "2024-09-14T12:30:27+00:00",
-   "summary": "Cybersecurity Full Course 2026 | Web Application Security Tutorial For Beginners | Simplilearn YouTube",
+   "summary": "Cybersecurity Full Course 2026 | Web Application Security Tutorial For Beginners | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1444,10 +1525,10 @@
    "title": "Cyber Security Crash Course 2026 | Cyber Security Course Training For Beginners 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBna3NfWENYcnVaYnVKN2czRjNGdmpQYXpHbFFkb2ZaTVU4aFZYWUd2TGd1MWpGT3NaZlZUVjQ1MDBfeVlxZS1paTRnTks2cjZlVXBad1F3?oc=5",
    "date": "2024-07-07T14:30:25+00:00",
-   "summary": "Cyber Security Crash Course 2026 | Cyber Security Course Training For Beginners 2026 | Simplilearn YouTube",
+   "summary": "Cyber Security Crash Course 2026 | Cyber Security Course Training For Beginners 2026 | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1461,33 +1542,23 @@
    "lang": "ar"
   },
   {
-   "title": "Cyber Security Full Course | Cyber Security Training For Beginners | Cyber Security Course | Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tV09uQXNLSlFEMUNaV0RsLVhrd01yN3RkTUJLaEpIclhDNmRjcl9kQWRIeUEtS2djQjFHVEx0NjdZa0VsNjVXUEhsQ19ybnlHS05zaW1n?oc=5",
-   "date": "2024-07-02T16:11:13+00:00",
-   "summary": "Cyber Security Full Course | Cyber Security Training For Beginners | Cyber Security Course | Edureka YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Cyber Security Full Course | Cyber Security Training On 🔴LIVE | Cybersecurity | 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pRHAtVnpIU0w1M0x5blFWZzdNYkgxZ3BJWkVGcFJIc3c5SW1jWElVNDNYMEJJWVFMR285TEJqVFdCMHRfeXVlZmVRalpzU1Z6VW9RUkFB?oc=5",
    "date": "2024-06-26T18:20:09+00:00",
-   "summary": "Cyber Security Full Course | Cyber Security Training On 🔴LIVE | Cybersecurity | 2026 | Simplilearn YouTube",
+   "summary": "Cyber Security Full Course | Cyber Security Training On 🔴LIVE | Cybersecurity | 2026 | Simplilearn youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "How I Would Learn Cyber Security If I Could Start Over in 2024",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5NjJYVXB4OHVzYTZVSENROUVMRjJ5UDdEUTVod0t1c0xxbnFlZ09iSVg5bmdxYWppbS1kRktmQlJMYUhGNTFxQlFRQ0NnSHA1QTlDU0tR?oc=5",
    "date": "2024-06-14T15:15:31+00:00",
-   "summary": "How I Would Learn Cyber Security If I Could Start Over in 2024 YouTube",
+   "summary": "How I Would Learn Cyber Security If I Could Start Over in 2024 youtube.com",
    "tech": "cyber",
    "sourceId": "yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
@@ -1551,16 +1622,6 @@
    "lang": "ar"
   },
   {
-   "title": "Cybersecurity For Beginners | Basics of Cyber security For Beginners Complete Course, Google",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HeU9PLWFnRTRRZDRLSGRTbmtIU2ZFSTBYNzFZNDZMeWRzbWdpclRTZmZrTkVlME9WdHRHNF9oSHJPMG84dkVBVkNnVnNGaXRVOFNfcDZ3?oc=5",
-   "date": "2024-03-26T08:52:33+00:00",
-   "summary": "Cybersecurity For Beginners | Basics of Cyber security For Beginners Complete Course, Google YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "اخترقت Mr robot !! كيف؟ | غرفة عمليات اختبار الاختراق",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YNWNmVjZFVEF3Nmoyb1lKZl9PdGlIZnpLTE00RHZaVk5pQkxJbUhxZmdIOUt4TTNTbFJORXBPanlrUkdGd3doY25pejFzNWRYbDF4SktB?oc=5",
    "date": "2024-03-21T18:00:32+00:00",
@@ -1569,16 +1630,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Cyber Security Course | Cyber Security Training For Beginners | Learn Cyber Security | Intellipaat",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oMmxsVHctRWF3MFhFYVZPWGk3dVFCblZvUS1GSUtqV0twQnhwQ2hkLThxSGk1WW93Tmh2VFJHT0NhN0doZ0ZBRVVDQW9TdEQtdk41TGJn?oc=5",
-   "date": "2024-03-16T18:20:33+00:00",
-   "summary": "Cyber Security Course | Cyber Security Training For Beginners | Learn Cyber Security | Intellipaat YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "أداة تساعدك على تسريع عملية اختبار الاختراق | The Lazy Script",
@@ -1671,16 +1722,6 @@
    "lang": "en"
   },
   {
-   "title": "🔥 Cybersecurity Course For Beginners 2026 | Cyber Security Full Course 2026 | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpSTA3ejRCLTIySF9UWjNxMnA3VXdJZzktaGxzNVpOS0pnbGItRVRhVkdpZXZVMFRTQ0stQUdZbkhkRmI5NEJZRTJXd20zZm5TRDlpUW1B?oc=5",
-   "date": "2023-12-04T20:23:16+00:00",
-   "summary": "🔥 Cybersecurity Course For Beginners 2026 | Cyber Security Full Course 2026 | Simplilearn YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعلم الأمن السيبراني والاختراق بالطريقة العملية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpbEhyZ2kyZEtNOWI3M1VUYjdZU2ZFOExvTWM0TE1rS1BOaUhxSXNZVlo1ekF1R1dEc2RFTWR2N3A4bkxWampyVWRiQXo5a2VkU1NjQldR?oc=5",
    "date": "2023-11-12T16:00:01+00:00",
@@ -1761,16 +1802,6 @@
    "lang": "ar"
   },
   {
-   "title": "Complete Cyber Security Course For 2026 | Cyber Security Full Course for Beginners | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53UTVhZnVnUDNKXzhaVEFINW1iUGY0ZUQzTVVURXZyYnRfNFRtQjRGQ01rVUtMa1ZscV9CZG84cTdmNXF5Rkd0djdrSHhwVDIwcWJ0YTNn?oc=5",
-   "date": "2023-07-25T14:30:11+00:00",
-   "summary": "Complete Cyber Security Course For 2026 | Cyber Security Full Course for Beginners | Simplilearn YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعلم مجال أمن الشبكات بالطريقة المجانية السريعة 2023 - Networks Security",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90QVY0UUdQak90VlRTUjRRc2QwMkpKZEtaRVBjUzRnWDY2RkZ6VDE3MkRJbE8tSGdMc2Z6M0gxVkZPN3ZYZ0M1c3FYOUR0RkRUY3ByVVpn?oc=5",
    "date": "2023-07-09T15:56:13+00:00",
@@ -1779,16 +1810,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Advanced Cyber Security Course | Cybersecurity Training for 2026 | Cyber Security | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXYlpYcjlYV29pOTBkTEFlWFI2R2NEZmQtbXg4YjEtbjcxcmRtcElfekVmNlhyZTFpZ3dnaUE5OGRKeWN6OGpkRkJMcDVKSHAwdmRDSGJR?oc=5",
-   "date": "2023-07-04T15:30:03+00:00",
-   "summary": "Advanced Cyber Security Course | Cybersecurity Training for 2026 | Cyber Security | Simplilearn YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "دليلك الكامل لعمل مختبر الاختراق الخاص بك",
@@ -1851,16 +1872,6 @@
    "lang": "ar"
   },
   {
-   "title": "Cyber Security Full course - 12 Hours | Cyber Security Course Training For Beginners [2024] |Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Q0VoM2pzRlp6R0hEMl9EMTlqUmxZZkd4VlhwSEZzWkttSjFvYjZWM2drdkZrV2tTNEFhWEhMMndQVm9QNk8zaUtCd29MY0hDbTBnUF9R?oc=5",
-   "date": "2023-04-03T19:55:49+00:00",
-   "summary": "Cyber Security Full course - 12 Hours | Cyber Security Course Training For Beginners [2024] |Edureka YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "الدرس ٢٣ (الأخيرة) | أهم سياسات الأمن السيبراني للحماية من الاختراقات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95Q1NuZkg1WmkyLWJ1aTN3eDE2NjNIcXczNDVKRUY3ZFhQTERyN2NHcUFJd3hiYlNkU3ItT1EybHhGYzJHNGxObTRPYS0tZDlzU3NJbnFn?oc=5",
    "date": "2023-04-02T08:10:17+00:00",
@@ -1879,16 +1890,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Cyber Security Course | Cyber Security Training | Cyber Security Full Course | Intellipaat",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJQ1paOEUyT2l2RU9yTHBXZURnUUJwaldmUHBJem4zYVo4V3Z3OWdua1I5eUIyd0tVVEdSUG5RZEIySTVJcXIzTzB5SFZuMnpybDFXNkN3?oc=5",
-   "date": "2023-03-11T19:34:56+00:00",
-   "summary": "Cyber Security Course | Cyber Security Training | Cyber Security Full Course | Intellipaat YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "فتح البورتات في الراوتر قبل اختبار الاختراق الخارجي - Port Forwarding",
@@ -1951,16 +1952,6 @@
    "lang": "ar"
   },
   {
-   "title": "SQL injection | SQL Injection Attack Tutorial | Cybersecurity Training | Edureka Rewind - 6",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6emhCWTFSN3pzdlByczE5d0JIbDFTSFZqRTRJQ1pqd05la0N1cUwxbG1EdFF0cklJa2c5NkRzQXJPQ3VoamRhQmRtQ1hXZDRhLWpOQTZn?oc=5",
-   "date": "2022-12-12T23:22:09+00:00",
-   "summary": "SQL injection | SQL Injection Attack Tutorial | Cybersecurity Training | Edureka Rewind - 6 YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "منصة اختبار اختراق قوية | بديل Kali Linux لأصحاب القلوب الضعيفة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYXVYelpwV3I4aVZoZGY3VGZONjNiSW9QYnRONmE4QWRzVkU5eVp1Y1NsM0pPOVJSbWVCT3F3dmNiTmEtRlRDUENJWGN3aGRaZ3JwZk1n?oc=5",
    "date": "2022-12-09T18:39:39+00:00",
@@ -1999,16 +1990,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Splunk Tutorial for Beginners (Cyber Security Tools)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54RDhIUHRQelZJZDZjUzRwenc1RjhZdUNCY0Y3U3NxbUhsN1IzbWEyRVdDd3h2eE5hX1gyUjVER2lBaVh1aWRJODFzWDk2RFNHTVdDM1dR?oc=5",
-   "date": "2022-10-10T14:00:02+00:00",
-   "summary": "Splunk Tutorial for Beginners (Cyber Security Tools) YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "كورس الامن السيبراني-7: اختبار الاختراق ونظام كالي لينكس",
@@ -2141,16 +2122,6 @@
    "lang": "ar"
   },
   {
-   "title": "Cyber Security Full Course | Cyber Security Training | Cyber Security For Beginners | Intellipaat",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PemVyZlJZWXQyLTZtZkRBb2dZeFlBYmZBZC1mSllkMVBSWFpGaERaYlJfUXhWUnVTTnliNFEtaTBrVWtnblUtaG1xcWZMRTJDc2tQUTdR?oc=5",
-   "date": "2021-09-19T17:16:15+00:00",
-   "summary": "Cyber Security Full Course | Cyber Security Training | Cyber Security For Beginners | Intellipaat YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "3 Cyber Security | كورس انشاء برامج الاختراق باستخدام لغة بايثون - Build ICMP Sender Project",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZTdmczNQdkUyd1pJcThPaFF5dnR5a0NEb3JSaWk5VWJZQ1dBWHg3X0ZZTS15YzVwNlpubmkxRjRGSjFGZGpNTm9xZWl0ak82a0JJdGJn?oc=5",
    "date": "2021-09-19T04:57:42+00:00",
@@ -2179,16 +2150,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Cyber Security Course | Cyber Security Training | Cyber Security Tutorial For Beginners |Intellipaat",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbnZGRlJmVVRDSTVIYVNaYWQ5TVRPQnB4ZklodC1zcVlxbUYzQW5DdlFWaU5Qa3VPVURmRGJmQXE0dkI1ekhSalAxVmh4LUNMbHZlN3RR?oc=5",
-   "date": "2021-08-29T15:39:25+00:00",
-   "summary": "Cyber Security Course | Cyber Security Training | Cyber Security Tutorial For Beginners |Intellipaat YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "احتراف أمن المعلومات - كورس كامل",
@@ -2231,24 +2192,54 @@
    "lang": "ar"
   },
   {
-   "title": "Cyber Security Training For Beginners In Hindi | Cyber security Tutorials | Great Learning",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MEdjemR2bFFkeUhqUzVILWRiazhpQzVjdzNiQk1BbWZjbW56UmFqRHVnT1g5aVBJWlV4Z25BQ3V1VGlOZ0R6M1VoX2ctSUloTjF3aXVn?oc=5",
-   "date": "2021-02-16T12:01:06+00:00",
-   "summary": "Cyber Security Training For Beginners In Hindi | Cyber security Tutorials | Great Learning YouTube",
+   "title": "شرح مفصل لمسار تخصصات أمن المعلومات بتفصيل مقدم من م.أحمد المشايخ | RoadMap Information Security.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SUXEyU3JGQXIwck8zTUgxd0NSMXpaM28tZFlHRkthanR2R191a20xMGpOOGV0WldIenk4N2N0b1NnX0dRcWpxcFhwLTVGSEtodDVvY053?oc=5",
+   "date": "2021-02-08T17:25:01+00:00",
+   "summary": "شرح مفصل لمسار تخصصات أمن المعلومات بتفصيل مقدم من م.أحمد المشايخ | RoadMap Information Security. YouTube",
    "tech": "cyber",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
-   "title": "Cyber Security Full Course In 8 Hours | Cyber Security Training For Beginners | Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFU24zRjV4RlYwY200ZXNuRkhUbWI0WllTdzhNcS1HeGhvbzVHcFlVelNQUGJwejE4bS0wQVEwWGwtUTUtcDlQbXFaTnBBajctNEluODZR?oc=5",
-   "date": "2021-02-10T14:38:28+00:00",
-   "summary": "Cyber Security Full Course In 8 Hours | Cyber Security Training For Beginners | Edureka YouTube",
+   "title": "انواع الهجمات الإلكترونية - شرح عبدالله للتقنية Cyber Security Attack",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rbHA0ZEhadXNVb09yRDh5WEw3WDNWZGZVZm1lSjgwRDA2ZTNwdXRtQmV2SHZ5WTI2ZFk2WkJ3dkhjSkxlLXQ3RG5PVjlhdjE5SkI5bEZn?oc=5",
+   "date": "2020-12-11T17:59:30+00:00",
+   "summary": "انواع الهجمات الإلكترونية - شرح عبدالله للتقنية Cyber Security Attack YouTube",
    "tech": "cyber",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
+  },
+  {
+   "title": "CHC v2 - 11 Cloud Security أمن الحوسبة السحابية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBocE04cGpRS2M1eVFRS1Y3cGVxRU9fMkdFeW5mV2tkclc0RlFYcDBBOW4zYmJVZzFjdzdrbUppNzV0UnBRd21ucGdqc2kweWt6VzlkRDZB?oc=5",
+   "date": "2019-12-26T06:38:01+00:00",
+   "summary": "CHC v2 - 11 Cloud Security أمن الحوسبة السحابية YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مشروع RouterSploit لاختبار اختراق شبكات الـWi-Fi - فيديو تعليمي توعوي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RakVQbnJHZS1Za3BFRHM0dGlUd1Y3UXJkS2ZqWXlPMjE1OERMVjI0OXBmTlMyZ1A4blU5T3BuTkxZcmlTUjRfQlEzQkMwRzhNYW5IVmVn?oc=5",
+   "date": "2018-06-06T15:17:29+00:00",
+   "summary": "مشروع RouterSploit لاختبار اختراق شبكات الـWi-Fi - فيديو تعليمي توعوي YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مقدمة في أمن المعلومات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9COTdVYTVTV3dPVUp4ZDhYaWcxMHh1S04yc0hJbjZkX0ZPd2ZodHZKZ3VmY2pYMW0xMEVHNjdRbGJLSjVSbW1oNTBtQXd0elM4aHJzVFlB?oc=5",
+   "date": "2018-03-18T03:19:58+00:00",
+   "summary": "مقدمة في أمن المعلومات YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   }
  ]
 }

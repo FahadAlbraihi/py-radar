@@ -367,6 +367,13 @@ const YT_GAME = /لعبة|لعبه|ألعاب|العاب|قيمنق|قيمينق
 const YT_BUILD_GAME = /(بناء|برمجة|صنع|اصنع|أصنع|تطوير|إنشاء|انشاء)[^.]{0,15}(لعبة|لعبه)|\b(build|make|create|develop|program|coding)\b[^.]{0,20}\bgame\b/i;
 
 const NOISE = /ثعب|أفع|افع|سيارة|طائرة|صاروخ|دبابة|مسدس|كوبرا|حديقة الحيوان/;
+
+/* أسماء اللغات تشترك مع أشياء كثيرة بالإنجليزية: Python ثعبان، Swift مغنية،
+   Ruby حجر كريم، Java جزيرة وقهوة، Go وDarts ألعاب، Elixir شراب.
+   فلتر الضوضاء كان عربياً فقط، فكانت النتائج الإنجليزية تمرّ بلا تصفية. */
+const NOISE_EN = /ball python|python (snake|morph|breed)|snakes?|reptiles?|terrarium|boa constrictor|pet (care|shop|store)|breeder|taylor swift|gemstones?|jewel(ry|lery)|necklace|espresso|recipes?|coffee bean|workouts?|horoscope|zodiac|movie|casino|fishing|hunting/i;
+
+const STRONG_PROG_EN = /\bprogramming\b|\bcode\b|\bcoding\b|\bdeveloper\b|\bsoftware\b|\bframework\b|\bfunctions?\b|\bapi\b|\bcompiler\b|\bscript(ing)?\b|\bsyntax\b|\bdebug|\balgorithm|\bdatabase\b|\bserver\b|\bapp\b/i;
 const PROG  = /برمج|مبرمج|لغة|كود|تطوير|تعلم|دورة|كورس|شرح|مكتبة|مكتبات|تطبيق|مشروع|بيانات|ذكاء اصطناعي|خوارزم|\bcode\b|\bprogramming\b/i;
 
 /* ---------- بروكسي CORS ---------- */
@@ -513,6 +520,7 @@ async function fetchFeeds(urls, sourceId, sourceName, tech, checkRelevance, extr
       const blob = `${title} ${it.summary || ''}`;
       if (checkRelevance && t && !t.match.test(blob)) continue;
       if (NOISE.test(blob) && !PROG.test(blob)) continue;
+      if (NOISE_EN.test(blob) && !STRONG_PROG_EN.test(blob)) continue;
       // مصادر يوتيوب: يوتيوب حصراً، مع دليل تعليمي برمجي، وبلا ألعاب أو فلوجات
       if (/^(ar-yt|yt)/.test(sourceId)){
         // يوتيوب يظهر بصيغتين: «YouTube» و«youtube.com»

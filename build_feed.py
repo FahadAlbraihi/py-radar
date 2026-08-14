@@ -48,6 +48,16 @@ UA = (
 ARABIC = re.compile(r"[؀-ۿ]")
 TAGS = re.compile(r"<[^>]+>")
 NOISE = re.compile(r"ثعب|أفع|افع|سيارة|طائرة|صاروخ|دبابة|مسدس|كوبرا|حديقة الحيوان")
+# أسماء اللغات تشترك مع أشياء كثيرة بالإنجليزية (Python ثعبان، Swift مغنية،
+# Ruby حجر كريم) — فلتر الضوضاء العربي وحده كان يترك هذه النتائج تمرّ.
+NOISE_EN = re.compile(
+    r"ball python|python (snake|morph|breed)|snakes?|reptiles?|terrarium|boa constrictor|pet (care|shop|store)|breeder|taylor swift|gemstones?|jewel(ry|lery)|necklace|espresso|recipes?|coffee bean|workouts?|horoscope|zodiac|movie|casino|fishing|hunting",
+    re.IGNORECASE,
+)
+STRONG_PROG_EN = re.compile(
+    r"\bprogramming\b|\bcode\b|\bcoding\b|\bdeveloper\b|\bsoftware\b|\bframework\b|\bfunctions?\b|\bapi\b|\bcompiler\b|\bscript(ing)?\b|\bsyntax\b|\bdebug|\balgorithm|\bdatabase\b|\bserver\b|\bapp\b",
+    re.IGNORECASE,
+)
 PROG = re.compile(
     r"برمج|مبرمج|لغة|كود|تطوير|تعلّ?م|دورة|كورس|شرح|مكتب(ة|ات)|تطبيق|مشروع"
     r"|بيانات|ذكاء اصطناعي|خوارزم|\bcode\b|\bprogramming\b",
@@ -556,6 +566,8 @@ def parse_feed(xml: bytes, source_id: str, source: str, tech: str,
         if match and not match.search(blob):
             continue
         if NOISE.search(blob) and not PROG.search(blob):
+            continue
+        if NOISE_EN.search(blob) and not STRONG_PROG_EN.search(blob):
             continue
 
         via = ""
