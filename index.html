@@ -50,12 +50,19 @@
     <button id="btn-clear" class="clear-btn" hidden aria-label="مسح">&times;</button>
   </div>
 
-  <button id="btn-yt" class="yt-btn" hidden>
-    <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true">
-      <path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/>
-    </svg>
-    <span id="yt-label">ابحث في يوتيوب</span>
-  </button>
+  <div class="search-actions">
+    <button id="btn-yt" class="yt-btn" hidden>
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true">
+        <path d="M23 12s0-3.9-.5-5.8a3 3 0 0 0-2.1-2.1C18.5 3.6 12 3.6 12 3.6s-6.5 0-8.4.5A3 3 0 0 0 1.5 6.2C1 8.1 1 12 1 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 8.4.5 8.4.5s6.5 0 8.4-.5a3 3 0 0 0 2.1-2.1C23 15.9 23 12 23 12zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/>
+      </svg>
+      <span id="yt-label">ابحث في يوتيوب</span>
+    </button>
+    <button id="btn-code" class="code-btn">&lt;/&gt; بحث بالكود</button>
+  </div>
+
+  <nav class="chips scroll-x" id="preset-chips" aria-label="بحث سريع"></nav>
+
+  <div id="comeback" class="comeback" hidden></div>
 
   <div class="row-label">لغة البرمجة <span>← اسحب لرؤية المزيد</span></div>
   <nav class="chips scroll-x" id="tech-chips" aria-label="لغة البرمجة"></nav>
@@ -113,6 +120,7 @@
         <button class="chip" data-kind="challenge">تحدي برمجي</button>
         <button class="chip" data-kind="interview">مقابلة عمل</button>
         <button class="chip" data-kind="news">أداة / خبر</button>
+        <button class="chip" data-kind="podcast">🎧 بودكاست</button>
       </div>
     </section>
 
@@ -157,13 +165,53 @@
     <button class="x" data-close aria-label="إغلاق">&times;</button>
   </div>
   <div class="sheet-body">
+    <div id="streak-box" class="streak-box"></div>
     <div id="progress-box" class="progress-box"></div>
-    <div class="chips wrap" id="shelf-chips">
-      <button class="chip is-on" data-shelf="saved">★ محفوظ</button>
-      <button class="chip" data-shelf="later">⏱ أشاهده لاحقاً</button>
-      <button class="chip" data-shelf="done">✓ أنهيته</button>
-    </div>
-    <div id="shelf-list" class="list" style="padding:12px 0"></div>
+
+    <section>
+      <h3>خارطة التعلّم</h3>
+      <p class="note" style="margin-top:0">كل مرحلة تكتمل بما تضعه في «أنهيته».</p>
+      <div id="learning-map" class="map"></div>
+    </section>
+
+    <section>
+      <h3>هذا الأسبوع</h3>
+      <div id="weekly-stats" class="weekly"></div>
+    </section>
+
+    <section>
+      <div class="chips wrap" id="shelf-chips">
+        <button class="chip is-on" data-shelf="saved">★ محفوظ</button>
+        <button class="chip" data-shelf="later">⏱ أشاهده لاحقاً</button>
+        <button class="chip" data-shelf="done">✓ أنهيته</button>
+      </div>
+      <div id="shelf-list" class="list" style="padding:12px 0"></div>
+    </section>
+  </div>
+  <div class="sheet-foot">
+    <button class="btn-ghost" id="btn-export">تصدير القائمة</button>
+    <button class="btn" data-close>إغلاق</button>
+  </div>
+</dialog>
+
+
+<!-- ============ البحث بالكود ============ -->
+<dialog id="code-dlg" class="sheet">
+  <div class="sheet-head">
+    <h2>البحث بالكود</h2>
+    <button class="x" data-close aria-label="إغلاق">&times;</button>
+  </div>
+  <div class="sheet-body">
+    <p class="note" style="margin-top:12px">
+      الصق مقطع كود، فتُستخرج منه المفاهيم (المكتبات والدوال) ويُبحث عنها بدل الكلمات الحرفية.
+    </p>
+    <textarea id="code-input" rows="8" spellcheck="false" dir="ltr"
+      placeholder="import socket&#10;s = socket.socket()&#10;s.connect((host, port))"></textarea>
+    <div id="code-terms" class="chips wrap"></div>
+  </div>
+  <div class="sheet-foot">
+    <button class="btn-ghost" data-close>إلغاء</button>
+    <button class="btn" id="btn-code-search">ابحث عن هذه المفاهيم</button>
   </div>
 </dialog>
 

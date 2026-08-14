@@ -53,7 +53,7 @@ PROG = re.compile(
     re.IGNORECASE,
 )
 CAPS = {"pypi": 15, "blogs": 50, "devto": 45, "hn": 40, "so": 30, "github": 25,
-        "reddit": 30, "fcc": 20, "yt": 25}
+        "reddit": 30, "fcc": 20, "yt": 25, "medium": 20, "podcast": 15}
 
 # قنوات يوتيوب — مصدر المشاهدات والتقييم (تغذية القناة تحملها، بخلاف نتائج البحث).
 #
@@ -82,6 +82,8 @@ TECHS = {
                '"بايثون" (دورة OR شرح OR كورس OR مشروع)'],
         "match": r"\bpython\b|بايثون|بايثن|\bdjango\b|جانغو|\bflask\b|فلاسك|\bfastapi\b|\bpandas\b|\bnumpy\b",
         "pypi": True,
+        "medium": "python",
+        "podcasts": ["https://talkpython.fm/episodes/rss", "https://pythonbytes.fm/episodes/rss"],
     },
     "javascript": {
         "name": "جافاسكربت", "hn": "javascript", "so": "javascript", "gh": "javascript",
@@ -120,6 +122,18 @@ TECHS = {
         "devto": ["rust"], "reddit": ["rust"], "blogs": [],
         "ar": ['"لغة رست" OR Rust برمجة'],
         "match": r"\brust\b|لغة رست|رست\b",
+    },
+    "cyber": {
+        "name": "أمن سيبراني", "hn": "cybersecurity OR pentest", "so": "security", "gh": "",
+        "devto": ["security", "cybersecurity", "hacking"],
+        "reddit": ["netsec", "HowToHack", "AskNetsec"], "blogs": [],
+        "ar": ['"الأمن السيبراني" (اختبار اختراق OR "كالي لينكس" OR "اختراق أخلاقي")',
+               '"أمن المعلومات" (دورة OR شرح OR مشروع) اختراق'],
+        "match": (r"أمن سيبراني|أمن المعلومات|اختراق|كالي لينكس|اختبار اختراق|ثغر|تشفير"
+                  r"|\bsecurity\b|\bpentest|\bkali\b|tryhackme|hack ?the ?box|\bctf\b|\bnmap\b"
+                  r"|metasploit|burp ?suite|\bowasp\b|\bxss\b|sql ?injection|\bmalware\b|\bforensics\b"),
+        "medium": "cybersecurity",
+        "podcasts": ["https://feeds.megaphone.fm/darknetdiaries"],
     },
     "bash": {
         "name": "Bash / Shell", "hn": "bash shell scripting", "so": "bash", "gh": "shell",
@@ -442,8 +456,9 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
             pool.submit(fetch_hn, tech, cfg),
             pool.submit(fetch_devto, tech, cfg),
             pool.submit(fetch_so, tech, cfg),
-            pool.submit(fetch_github, tech, cfg),
         ]
+        if cfg["gh"]:
+            jobs.append(pool.submit(fetch_github, tech, cfg))
         if cfg.get("pypi"):
             jobs.append(pool.submit(fetch_pypi, tech, cfg))
 
@@ -454,10 +469,18 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
         for url in cfg["blogs"]:
             jobs.append(pool.submit(
                 lambda u=url: parse_feed(get(u), "blogs", "مدونات", tech, None)))
-        # freeCodeCamp تغطي كل اللغات — تُرشَّح حسب لغة البرمجة الحالية
+        # مصادر عامة تغطي كل المسارات — تُرشَّح حسب المسار الحالي
         jobs.append(pool.submit(
             lambda: parse_feed(get("https://www.freecodecamp.org/news/rss/"),
                                "fcc", "freeCodeCamp", tech, match)))
+        if cfg.get("medium"):
+            jobs.append(pool.submit(
+                lambda: parse_feed(get(f"https://medium.com/feed/tag/{cfg['medium']}"),
+                                   "medium", "Medium", tech, match)))
+        for feed in cfg.get("podcasts", []):
+            jobs.append(pool.submit(
+                lambda u=feed: [dict(i, kind="podcast")
+                                for i in parse_feed(get(u), "podcast", "بودكاست", tech, match)]))
         for cid in channels.values():
             jobs.append(pool.submit(fetch_channel, cid, tech, match))
 

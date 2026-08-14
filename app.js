@@ -9,12 +9,13 @@ const CACHE_KEY = 'radar.items.v4';
 const LIB_KEY   = 'radar.library.v1';   // { url: {state, at, item} }
 const PREF_KEY  = 'radar.prefs.v1';
 const VISIT_KEY = 'radar.lastVisit.v1';
+const STREAK_KEY = 'radar.streak.v1';
 const STALE_MS  = 6 * 60 * 60 * 1000;   // يعاد الجلب إذا مضت ٦ ساعات أو تغيّر اليوم
 const PAGE_SIZE = 30;
 const MAX_STORE = 800;
 
 const CAPS = { pypi:15, blogs:50, devto:45, hn:40, so:30, github:25, reddit:30,
-               fcc:20, yt:20, 'yt-search':40 };
+               fcc:20, yt:20, 'yt-search':40, medium:20, podcast:15 };
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
@@ -54,12 +55,29 @@ const TECHS = [
     ar:['"لغة رست" OR Rust برمجة'],
     match:/\brust\b|لغة رست|رست\b/i },
 
+  { id:'cyber', name:'🛡 أمن سيبراني', hn:'cybersecurity OR pentest', so:'security', gh:'',
+    devto:['security','cybersecurity','hacking'], reddit:['netsec','HowToHack','AskNetsec'], blogs:[],
+    ar:['"الأمن السيبراني" (اختبار اختراق OR "كالي لينكس" OR "اختراق أخلاقي")',
+        '"أمن المعلومات" (دورة OR شرح OR مشروع) اختراق'],
+    match:/أمن سيبراني|أمن المعلومات|اختراق|كالي لينكس|اختبار اختراق|ثغر|تشفير|\bsecurity\b|\bpentest|\bkali\b|tryhackme|hack ?the ?box|\bctf\b|\bnmap\b|metasploit|burp ?suite|\bowasp\b|\bxss\b|sql ?injection|\bmalware\b|\bforensics\b/i },
+
   { id:'bash', name:'Bash / Shell', hn:'bash shell scripting', so:'bash', gh:'shell',
     devto:['bash','linux'], reddit:['bash','linuxadmin'], blogs:[],
     ar:['"سطر الأوامر" لينكس سكربت','"باش" OR "شل" برمجة لينكس'],
     match:/\bbash\b|\bshell\b|\bzsh\b|سطر الأوامر|سكربت|لينكس/i },
 ];
 const techById = id => TECHS.find(t => t.id === id);
+
+// مصادر مقالات وصوتيات لكل مسار (تُرشَّح بتعبير المسار نفسه)
+const MEDIUM_TAG = {
+  python:'python', javascript:'javascript', sql:'sql', cpp:'cpp',
+  java:'java', go:'golang', rust:'rust', bash:'linux', cyber:'cybersecurity',
+};
+const PODCASTS = {
+  python: ['https://talkpython.fm/episodes/rss', 'https://pythonbytes.fm/episodes/rss'],
+  javascript: ['https://feed.syntax.fm/rss'],
+  cyber: ['https://feeds.megaphone.fm/darknetdiaries'],
+};
 
 /* ---------- مسار التعلّم ---------- */
 const STAGES = [
@@ -76,6 +94,12 @@ const STAGES = [
   { id:'web',     name:'الويب وواجهات API',         re:/\bweb\b|\bapi\b|\bdjango\b|\bflask\b|\bfastapi\b|\brest\b|جانغو|فلاسك|ويب|واجهة برمجية/i },
   { id:'data',    name:'البيانات والذكاء الاصطناعي', re:/\bpandas\b|\bnumpy\b|\bdata\b|machine learning|\bml\b|\bai\b|بيانات|ذكاء اصطناعي|تعلم الآلة|تحليل/i },
   { id:'db',      name:'قواعد البيانات',            re:/\bsql\b|\bdatabase\b|\bpostgres\b|\bmysql\b|\bsqlite\b|\borm\b|قواعد البيانات/i },
+  // مراحل مسار الأمن السيبراني
+  { id:'sec-basics', name:'🛡 أساسيات الأمن ولينكس', re:/كالي لينكس|\bkali\b|\blinux\b|أساسيات الأمن|security basics|\bterminal\b|سطر الأوامر/i },
+  { id:'sec-recon',  name:'🛡 الاستطلاع والمسح',     re:/استطلاع|مسح الشبكة|\bnmap\b|\brecon\b|scanning|enumeration|\bosint\b|shodan/i },
+  { id:'sec-web',    name:'🛡 ثغرات الويب',          re:/\bxss\b|sql ?injection|\bowasp\b|burp ?suite|ثغرات الويب|\bcsrf\b|\bssrf\b|web ?vuln/i },
+  { id:'sec-exp',    name:'🛡 الاستغلال والاختبار',  re:/metasploit|\bexploit|اختبار اختراق|pentest|tryhackme|hack ?the ?box|\bctf\b|payload/i },
+  { id:'sec-net',    name:'🛡 الشبكات والتشفير',     re:/شبكات|تشفير|\bcrypto|\btls\b|\bvpn\b|wireshark|packet|\bfirewall\b|جدار ناري/i },
 ];
 
 /* ---------- تصنيف المستوى والنوع ---------- */
@@ -377,20 +401,26 @@ function jobsFor(techId){
     { name:'Hacker News',    fn:() => fetchHN(t) },
     { name:'DEV.to',         fn:() => fetchDevTo(t) },
     { name:'Stack Overflow', fn:() => fetchSO(t) },
-    { name:'GitHub',         fn:() => fetchGitHub(t) },
     { name:'مقالات عربية',   fn:() => fetchFeeds(t.ar.map(q => gnews(q, 'ar')), 'ar-news', 'مقالات عربية', t.id, true) },
     { name:'فيديوهات عربية', fn:() => fetchFeeds([gnews(`${t.ar[0]} site:youtube.com`, 'ar')], 'ar-yt', 'فيديوهات ودروس', t.id, true) },
     { name:'فيديوهات إنجليزية', fn:() => fetchFeeds(
         [gnews(`${t.hn} tutorial site:youtube.com`, 'en')], 'yt', 'يوتيوب', t.id, true) },
   ];
+  if (t.gh) jobs.push({ name:'GitHub', fn:() => fetchGitHub(t) });
   if (t.reddit.length)
     jobs.push({ name:'Reddit', fn:() => fetchFeeds(
       t.reddit.map(s => `https://www.reddit.com/r/${s}/hot/.rss?limit=25`), 'reddit', 'Reddit', t.id, false) });
   if (t.blogs.length)
     jobs.push({ name:'مدونات', fn:() => fetchFeeds(t.blogs, 'blogs', 'مدونات', t.id, false) });
-  // freeCodeCamp تغطي كل اللغات — تُرشَّح حسب لغة البرمجة الحالية
+  // مصادر عامة تغطي كل المسارات — تُرشَّح حسب المسار الحالي
   jobs.push({ name:'freeCodeCamp', fn:() => fetchFeeds(
     ['https://www.freecodecamp.org/news/rss/'], 'fcc', 'freeCodeCamp', t.id, true) });
+  if (MEDIUM_TAG[t.id])
+    jobs.push({ name:'Medium', fn:() => fetchFeeds(
+      [`https://medium.com/feed/tag/${MEDIUM_TAG[t.id]}`], 'medium', 'Medium', t.id, true) });
+  if (PODCASTS[t.id])
+    jobs.push({ name:'بودكاست', fn:() => fetchFeeds(
+      PODCASTS[t.id], 'podcast', 'بودكاست', t.id, true, { kind:'podcast' }) });
   if (t.id === 'python')
     jobs.push({ name:'PyPI', fn:fetchPyPI });
 
@@ -518,7 +548,8 @@ function ago(iso){
 const nf = new Intl.NumberFormat('ar-EG', { notation: 'compact', maximumFractionDigits: 1 });
 
 const LEVEL_NAME = { beginner:'مبتدئ', intermediate:'متوسط', advanced:'متقدم' };
-const KIND_NAME  = { course:'دورة كاملة', tutorial:'شرح', project:'مشروع', challenge:'تحدي', interview:'مقابلة عمل', news:'أداة / خبر' };
+const KIND_NAME  = { course:'دورة كاملة', tutorial:'شرح', project:'مشروع', challenge:'تحدي',
+                     interview:'مقابلة عمل', news:'أداة / خبر', podcast:'🎧 بودكاست' };
 
 const isNew = i => i.date && new Date(i.date).getTime() > state.lastVisit;
 
@@ -691,7 +722,7 @@ function renderSourceChips(){
   const names = { hn:'Hacker News', devto:'DEV.to', so:'Stack Overflow', github:'GitHub',
                   pypi:'PyPI', 'ar-news':'مقالات عربية', 'ar-yt':'فيديوهات عربية',
                   blogs:'مدونات', reddit:'Reddit', fcc:'freeCodeCamp',
-                  yt:'يوتيوب', 'yt-search':'بحث يوتيوب' };
+                  yt:'يوتيوب', 'yt-search':'بحث يوتيوب', medium:'Medium', podcast:'بودكاست' };
 
   wrap.textContent = '';
   const defs = [{ id:'all', name:'كل المصادر' },
@@ -776,6 +807,160 @@ function renderLibrary(){
   }
 
   for (const b of $('#shelf-chips').children) b.classList.toggle('is-on', b.dataset.shelf === state.shelf);
+
+  renderLearningMap();
+  renderWeekly();
+}
+
+/* ---------- الستريك اليومي ---------- */
+function touchStreak(){
+  const today = new Date().toDateString();
+  const s = load(STREAK_KEY, { days: 0, last: '' });
+  if (s.last === today) return s;
+  const yesterday = new Date(Date.now() - 864e5).toDateString();
+  s.days = (s.last === yesterday) ? s.days + 1 : 1;   // انقطاع يوم يعيد العدّ
+  s.last = today;
+  save(STREAK_KEY, s);
+  return s;
+}
+
+/* ---------- خارطة التعلّم والإحصاءات ---------- */
+function renderLearningMap(){
+  const done = Object.values(state.library).filter(e => e.state === 'done');
+  const perStage = new Map();
+  for (const e of done)
+    for (const s of (e.item.stages || [])) perStage.set(s, (perStage.get(s) || 0) + 1);
+
+  const wrap = $('#learning-map');
+  wrap.textContent = '';
+  for (const s of STAGES){
+    if (!s.id) continue;
+    const count = perStage.get(s.id) || 0;
+    const row = el('div', 'map-row' + (count ? ' done' : '') + (prefs.stage === s.id ? ' current' : ''));
+    const dot = el('span', 'map-dot'); dot.textContent = count ? '✓' : '';
+    const name = el('span', 'map-name'); name.textContent = s.name;
+    const num = el('span', 'map-count'); num.textContent = count ? `${count}` : '';
+    row.append(dot, name, num);
+    row.onclick = () => {
+      prefs.stage = prefs.stage === s.id ? '' : s.id;
+      savePrefs(); syncControls(); render(); renderLibrary();
+    };
+    wrap.appendChild(row);
+  }
+}
+
+function renderWeekly(){
+  const lib = Object.values(state.library);
+  const weekAgo = Date.now() - 7 * 864e5;
+  const doneWeek = lib.filter(e => e.state === 'done' && e.at > weekAgo);
+  const topics = new Set();
+  for (const e of lib.filter(x => x.state === 'done')) for (const s of (e.item.stages || [])) topics.add(s);
+
+  const stats = [
+    [doneWeek.length, 'أنهيته هذا الأسبوع'],
+    [lib.filter(e => e.state === 'later').length, 'بانتظار المشاهدة'],
+    [topics.size, 'موضوعاً غطّيته'],
+  ];
+  const wrap = $('#weekly-stats');
+  wrap.textContent = '';
+  for (const [n, label] of stats){
+    const box = el('div', 'stat');
+    const b = el('b'); b.textContent = n;
+    const s = el('span'); s.textContent = label;
+    box.append(b, s);
+    wrap.appendChild(box);
+  }
+
+  const streak = load(STREAK_KEY, { days: 0 });
+  const sb = $('#streak-box');
+  sb.textContent = '';
+  const flame = el('span', 'flame'); flame.textContent = streak.days > 1 ? '🔥' : '🌱';
+  const txt = el('div');
+  const num = el('div', 'num'); num.textContent = `${streak.days} ${streak.days === 1 ? 'يوم' : 'أيام'}`;
+  const sub = el('div', 'txt');
+  sub.textContent = streak.days > 1 ? 'متتالية من المتابعة — لا تكسر السلسلة' : 'بداية السلسلة، عُد غداً لتكملها';
+  txt.append(num, sub);
+  sb.append(flame, txt);
+}
+
+/* ---------- تصدير القائمة ---------- */
+function exportLibrary(){
+  const entries = Object.values(state.library).sort((a, b) => b.at - a.at);
+  if (!entries.length){ setStatus('لا يوجد شيء لتصديره.'); return; }
+
+  const label = { saved:'★ محفوظ', later:'⏱ لاحقاً', done:'✓ أنهيته' };
+  const text = entries.map(e => `${label[e.state]} — ${e.item.title}\n${e.item.url}`).join('\n\n');
+
+  navigator.clipboard?.writeText(text).catch(() => {});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([text], { type: 'text/plain;charset=utf-8' }));
+  a.download = 'مكتبتي.txt';
+  a.click();
+  URL.revokeObjectURL(a.href);
+  setStatus(`صُدِّر ${entries.length} عنصراً (ونُسخت إلى الحافظة).`);
+  setTimeout(() => setStatus(''), 5000);
+}
+
+/* ---------- البحث بالكود ---------- */
+const CODE_STOP = new Set(['print','len','str','int','float','list','dict','range','main','self','this',
+  'if','for','while','return','def','function','console','log','var','let','const','new','true','false','null']);
+
+function extractCodeTerms(code){
+  const terms = new Set();
+  for (const m of code.matchAll(/(?:^|\n)\s*(?:import|from)\s+([\w.]+)/g)) terms.add(m[1].split('.')[0]);
+  for (const m of code.matchAll(/(?:require|import)\s*\(\s*['"]([\w\-@/]+)/g)) terms.add(m[1].replace(/^@/, ''));
+  for (const m of code.matchAll(/\b([a-zA-Z_]\w{2,})\s*\(/g)) terms.add(m[1]);
+  for (const m of code.matchAll(/\b(class|async|await|yield|lambda|thread|socket|regex|recursion|decorator|generator)\b/gi))
+    terms.add(m[1].toLowerCase());
+  return [...terms].filter(t => t.length > 2 && !CODE_STOP.has(t.toLowerCase())).slice(0, 8);
+}
+
+function renderCodeTerms(){
+  const terms = extractCodeTerms($('#code-input').value);
+  const wrap = $('#code-terms');
+  wrap.textContent = '';
+  for (const t of terms){
+    const c = el('span', 'chip');
+    c.textContent = t;
+    wrap.appendChild(c);
+  }
+  $('#btn-code-search').disabled = !terms.length;
+  return terms;
+}
+
+/* ---------- بحث سريع جاهز ---------- */
+const PRESETS = [
+  'مشروع بايثون للأمن السيبراني',
+  'أتمتة المهام بايثون',
+  'مشروع تخرج بايثون',
+  'أسئلة مقابلات بايثون',
+  'كالي لينكس من الصفر',
+  'تحليل بيانات بايثون',
+];
+
+function renderPresets(){
+  const wrap = $('#preset-chips');
+  wrap.textContent = '';
+  for (const p of PRESETS){
+    const b = el('button', 'chip');
+    b.textContent = p;
+    b.onclick = () => {
+      const q = $('#q');
+      q.value = p; q.dispatchEvent(new Event('input'));
+      runYouTubeSearch();
+    };
+    wrap.appendChild(b);
+  }
+}
+
+/* ---------- لافتة العودة بعد غياب ---------- */
+function renderComeback(){
+  const box = $('#comeback');
+  const days = Math.floor((Date.now() - state.lastVisit) / 864e5);
+  if (days < 2){ box.hidden = true; return; }
+  const fresh = state.items.filter(isNew).length;
+  box.textContent = `مضى ${days} يوماً على آخر زيارة${fresh ? ` — ${fresh} عنصراً جديداً بانتظارك` : ''}.`;
+  box.hidden = false;
 }
 
 function skeletons(){
@@ -898,6 +1083,19 @@ addEventListener('resize', () => {
 $('#btn-filters').onclick = () => { syncControls(); openSheet($('#filters-dlg')); };
 $('#btn-library').onclick = () => { renderLibrary(); openSheet($('#library-dlg')); };
 $('#btn-install').onclick = () => $('#install-dlg').showModal();
+$('#btn-export').onclick = exportLibrary;
+
+$('#btn-code').onclick = () => { renderCodeTerms(); openSheet($('#code-dlg')); };
+$('#code-input').addEventListener('input', renderCodeTerms);
+$('#btn-code-search').onclick = () => {
+  const terms = renderCodeTerms();
+  if (!terms.length) return;
+  $('#code-dlg').close();
+  const q = $('#q');
+  q.value = terms.join(' ');
+  q.dispatchEvent(new Event('input'));
+  runYouTubeSearch();
+};
 
 for (const dlg of document.querySelectorAll('dialog.sheet')){
   dlg.addEventListener('click', e => {
@@ -955,8 +1153,11 @@ document.addEventListener('visibilitychange', () => {
     $('#btn-install').hidden = false;
 
   syncControls();
-  renderTechChips();        // يظهر شريط لغات البرمجة فوراً، قبل وصول أي محتوى
+  renderTechChips();        // يظهر شريط المسارات فوراً، قبل وصول أي محتوى
+  renderPresets();
+  touchStreak();
   await refresh(false);
+  renderComeback();
 
   save(VISIT_KEY, Date.now());          // بعد أول عرض، حتى تظهر شارة "جديد" لهذه الجلسة
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
