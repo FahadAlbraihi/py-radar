@@ -1,0 +1,442 @@
+{
+ "generated": "2026-08-14T21:22:04.967343+00:00",
+ "tech": "clojure",
+ "count": 42,
+ "items": [
+  {
+   "title": "I Built a Clojure That Runs on Go(cljgo) . Then I Made It Run a Real AI Agent.",
+   "url": "https://muthuishere.medium.com/i-built-a-clojure-that-runs-on-go-cljgo-then-i-made-it-run-a-real-ai-agent-594391ddf00e?source=rss------clojure-5",
+   "date": "2026-08-02T18:40:33+00:00",
+   "summary": "How dogfooding cljgo with a seven-language agent library turned into a Clojure port with zero reader conditionals &#x2014; and a portability seam&#x2026; Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure vars - notes",
+   "url": "https://dev.to/ivangavlik/clojure-vars-notes-5h66",
+   "date": "2026-07-26T17:14:06+00:00",
+   "summary": "Intro   named references (symbol) to values of fn  they live in a namespace mutable reference to an...",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Setting Up a Clojure App Template: The Decisions and Trade-offs Behind It",
+   "url": "https://medium.com/@belisabettega_83446/setting-up-an-opinionated-clojure-service-template-the-decisions-and-trade-offs-behind-it-d21b317f4278?source=rss------clojure-5",
+   "date": "2026-07-21T00:20:59+00:00",
+   "summary": "There are many ways to start learning a new language but, personally, my favorite one is by starting a hobby web app. Coming from a ruby&#x2026; Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "From Prototype to Production: The Business Case for Chachaml Part 3",
+   "url": "https://medium.com/@flexianadevgroup/from-prototype-to-production-the-business-case-for-chachaml-part-3-5e94f913ec78?source=rss------clojure-5",
+   "date": "2026-06-29T11:39:24+00:00",
+   "summary": "This is the final article in our series, Clojure Meets Production MLOps: How chachaml Delivers AI-Native Workflows. Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Inside chachaml: Core Capabilities for AI-Native Workflows in Clojure Part 2",
+   "url": "https://medium.com/@flexianadevgroup/inside-chachaml-core-capabilities-for-ai-native-workflows-in-clojure-part-2-af2ea239f779?source=rss------clojure-5",
+   "date": "2026-06-26T10:20:43+00:00",
+   "summary": "This is Part 2 of our series, Clojure Meets Production MLOps: How chachaml Delivers AI-Native Workflows. Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure Meets Production MLOps: How chachaml Delivers AI‑Native Workflows ( Part 1)",
+   "url": "https://medium.com/@flexianadevgroup/clojure-meets-production-mlops-how-chachaml-delivers-ai-native-workflows-part-1-61c1a0afe186?source=rss------clojure-5",
+   "date": "2026-06-25T08:15:00+00:00",
+   "summary": "This is the first article in our three-part series, Clojure Meets Production MLOps: How chachaml Delivers AI-Native Workflows. Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "O melhor de Clojure não é ser funcional, é ser simples",
+   "url": "https://medium.com/@louisemaestri/o-melhor-de-clojure-n%C3%A3o-%C3%A9-ser-funcional-%C3%A9-ser-simples-65f49b5e17a6?source=rss------clojure-5",
+   "date": "2026-06-22T08:11:42+00:00",
+   "summary": "Clojure parece uma linguagem feita para afastar curiosos na porta. Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I’m Not a Clojure Programmer. But I Built a Clojure Dialect to Free its Philosophy From the JVM.",
+   "url": "https://medium.com/@gamarino_99916/im-not-a-clojure-programmer-but-i-built-a-clojure-dialect-to-free-its-philosophy-from-the-jvm-ddca8937a331?source=rss------clojure-5",
+   "date": "2026-06-15T02:00:28+00:00",
+   "summary": "An outsider&#x2019;s experiment in hosting Clojure&#x2019;s soul on a C++20 object kernel. A story about structural sharing, transparent polyglot&#x2026; Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Beyond Syntax: Understanding the Ideas Behind Clojure",
+   "url": "https://medium.com/@madhumidha22/beyond-syntax-understanding-the-ideas-behind-clojure-567381b31e3e?source=rss------clojure-5",
+   "date": "2026-06-03T15:34:43+00:00",
+   "summary": "When developers discuss programming languages, the conversation often revolves around popularity, ecosystem size, job opportunities, or&#x2026; Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Advent of Code 2015 days 3-8 in Clojure",
+   "url": "https://dev.to/andyn/advent-of-code-2015-days-3-8-in-clojure-3c94",
+   "date": "2026-05-27T15:42:57+00:00",
+   "summary": "Yeah, I'm starting to think my initial comment about taking until the heat death of the universe to...",
+   "points": 1,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Confidence Is Not Ownership",
+   "url": "https://dev.to/kingsleyonoh/confidence-is-not-ownership-2d80",
+   "date": "2026-05-06T16:00:28+00:00",
+   "summary": "What should a finance queue do when two credible records point at the same case? An invoice discrepancy and a contract breach can describe…",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "bisql (Clojure Data Access Library) released v0.4.0: Support Malli Validation",
+   "url": "https://dev.to/conpoi/bisql-clojure-data-access-library-released-v040-support-malli-validation-1o0o",
+   "date": "2026-04-23T19:54:18+00:00",
+   "summary": "Bisql   I'm building Bisql, a data access library for 2-way SQL in...",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Leiningen — Complete Tutorial & Best Practices",
+   "url": "https://dev.to/ivangavlik/leiningen-complete-tutorial-best-practices-3f8l",
+   "date": "2026-04-12T11:23:33+00:00",
+   "summary": "Leiningen is the build tool and project manager for Clojure. Think of it   like npm (Node), Maven...",
+   "points": 2,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure core.async: A Question & Answer Journey on Channels",
+   "url": "https://dev.to/ivangavlik/clojure-coreasync-a-question-answer-journey-on-channels-3om0",
+   "date": "2026-03-13T14:29:49+00:00",
+   "summary": "Introduction   core.async is Clojure's library for writing concurrent code without dealing...",
+   "points": 4,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure Inheritance… Sort Of",
+   "url": "https://dev.to/quoll/clojure-inheritance-sort-of-2i6i",
+   "date": "2026-03-12T05:49:43+00:00",
+   "summary": "Disclaimer   I want to start off by saying that I don't expect anyone to read this. However,...",
+   "points": 21,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Just What IS Clojure, Anyway?",
+   "url": "https://dev.to/dimension-ai/just-what-is-clojure-anyway-42np",
+   "date": "2026-03-08T17:44:46+00:00",
+   "summary": "Look at this line of code:    processCustomerOrder(customer, orderItems)        Enter fullscreen...",
+   "points": 5,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Datastar Observations",
+   "url": "https://dev.to/hlship/datastar-observations-3icg",
+   "date": "2026-02-07T23:35:22+00:00",
+   "summary": "I've been very impressed, so far, with Datastar, a tiny JavaScript library for front-end work; I've...",
+   "points": 5,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "No, Clojure: your REPL is not new – or best",
+   "url": "https://dev.to/dimension-ai/no-clojure-your-repl-is-not-new-or-best-556",
+   "date": "2025-12-20T11:07:34+00:00",
+   "summary": "Spend any time around Clojure's devoted community and you'll encounter a cluster of claims:   the...",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What it was like to give a talk at Clojure South 2025",
+   "url": "https://dev.to/marciofrayze/what-it-was-like-to-give-a-talk-at-clojure-south-2025-b1c",
+   "date": "2025-12-03T14:45:59+00:00",
+   "summary": "What is Clojure South?   According to the official website:   \"Organized by Nubank, Clojure...",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Como foi palestrar na Clojure South 2025",
+   "url": "https://dev.to/marciofrayze/como-foi-palestrar-na-clojure-south-2025-3hb3",
+   "date": "2025-11-23T21:40:28+00:00",
+   "summary": "O que é a Clojure South?   Segundo site oficial:   \"Organizada pelo Nubank, a Clojure South...",
+   "points": 3,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Native Apps with ClojureScript, React and Static Hermes",
+   "url": "https://dev.to/romanliutikov/native-apps-with-clojurescript-react-and-static-hermes-1ebg",
+   "date": "2025-11-17T16:00:00+00:00",
+   "summary": "A mix of tech that makes it possible to build fully native apps with JavaScript, React and native libraries such as ImGui, thanks to JavaScript AOT compilation in Static Hermes",
+   "points": 1,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced Beginner’s guide to ClojureScript",
+   "url": "https://dev.to/romanliutikov/advanced-beginners-guide-to-clojurescript-oi2",
+   "date": "2025-11-07T20:00:00+00:00",
+   "summary": "Having hard time figuring out how to build your ClojureScript project? This guide helps you to understand how the code is compiled",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "JavaScript | Closure",
+   "url": "https://dev.to/josejuarezjunior/javascript-closure-2an0",
+   "date": "2025-10-16T21:56:41+00:00",
+   "summary": "Em JavaScript, um closure (ou clausura, em português) é um conceito fundamental que acontece quando...",
+   "points": 1,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Robert Martin on Clojure, AI, Programming Languages and the Craft of Good Code",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TT1l3QmFUSm9LRmhrcm5FTVBaalVXcjNnS0lRZjZoMTVpTWJHRVFFUUVaOHU3SGdvV0w1T3RpN0ZEQWwyWkNMZHJPaGMtWHFObmN3MFFB?oc=5",
+   "date": "2025-07-17T13:33:50+00:00",
+   "summary": "Robert Martin on Clojure, AI, Programming Languages and the Craft of Good Code youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure Crash Course 2025: Beginner Friendly",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXRUVPRFR6QmFLV2NVRW0yaGliMHNCQjRLQU1qWnA4eTFlWFlvWkxwZFhSRzVlVE1xNGo5V1BySU43cjhIYXBHOXFSVHJlOTY2YmI3a0V3?oc=5",
+   "date": "2025-02-08T21:29:05+00:00",
+   "summary": "Clojure Crash Course 2025: Beginner Friendly youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure Corner: Interview with David Nolen",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ReTFtRXlNZFBESjdWdE0xaG9ZbmlrZS1yeFMwUHc4LTFjcHIwMG1UWkQ2VDY5bFc3VVJnOXFlYjl3Z3l2cm1LcGEzMXJlRWFEbThMX0xR?oc=5",
+   "date": "2025-01-31T14:43:13+00:00",
+   "summary": "Clojure Corner: Interview with David Nolen youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Clojure – Macros",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzZVhkU0NjM1pFUmcxYlZBYVVkb2JTdjlGdy15eEItUVF3UGc3RC05ZG9FS3BxU0lpWlVfaWxhdDlnMkJmam91TlV5dGRhNkZqX2hmQ2VB?oc=5",
+   "date": "2024-09-15T03:10:23+00:00",
+   "summary": "Learn Clojure – Macros youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Building Web Applications with Clojure",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVTRGeDRRbWZ6TjR6TkhwUDl2U1E2R05xVGM3Ulh1WkE0cmh5dEZQcWg4SldCNnNzalJGazE4eHdEZF9UOV9OWWpIVjN0Q3hxZEVXclhB?oc=5",
+   "date": "2024-09-06T12:19:53+00:00",
+   "summary": "Building Web Applications with Clojure youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "حل مشكلة شاشةBZ4X⚡وكراون كلوجر👑",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94aDdrMXl4YkRidFVLUnc1RlFscGthRmVONmFNT0x0X0diUXF5Uk9fZF9MVXZ3ZjdhSjVWd1RHSU9yMUdxbTl5WV9ueDRkRHBnT3VzSjFB?oc=5",
+   "date": "2024-07-01T09:08:51+00:00",
+   "summary": "حل مشكلة شاشةBZ4X⚡وكراون كلوجر👑 YouTube",
+   "tech": "clojure",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Modern gRPC with Buf, is it any good? Rest API alternative for microservices (Java/Clojure example)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zZjROX3Z6RFZwdm4zZ0tsS21wT29QWV8xeENzZUZqRTZUSTdOS2VaVmxzbHJyYXFYQTNzVlV0UGV4dEtDQlY1aVBneWVHdXBBbTI3dlpn?oc=5",
+   "date": "2024-06-01T22:14:26+00:00",
+   "summary": "Modern gRPC with Buf, is it any good? Rest API alternative for microservices (Java/Clojure example) youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Building web apps with Clojure",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNd21iRVg4QUdibjctampOWjYxeGJXeWdUOWlZV0xfN2JuNVppNEpqWTRvOGt3cmZjMjcyUUdfOU1oZnZZMFp5NElVeVhtek4tS1AyUmFB?oc=5",
+   "date": "2024-05-24T20:06:56+00:00",
+   "summary": "Building web apps with Clojure youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure installation on Windows and Intellij IDEA",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iaWJuYUJwZS16QktZMEFhZ1FIRlJlSnJrX0k1aVF6NVlIWHlWdE95by1FWUhnaTBKSDFlRE5aVV9YUV9kVmN3YnhwR21yLVVQZ3lQQWF3?oc=5",
+   "date": "2024-04-22T16:00:48+00:00",
+   "summary": "Clojure installation on Windows and Intellij IDEA youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure - First Impression [Programming Languages Episode 17]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zazU1WUNNTzkxV1N4dHpMcUg1TVIwZGhGQXZBRlh4eWwxMEFGbXM5MHpxWkNJN1ZfazduZXR2RWpISllKUWxqcmpvcTRqTnFXRHNiYUZB?oc=5",
+   "date": "2024-02-06T05:00:17+00:00",
+   "summary": "Clojure - First Impression [Programming Languages Episode 17] youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Complete Clojure Development Environment Setup: IntelliJ IDEA, Cursive, ASDF/RTX, Toolbox",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5melN1QXc4RXZtNWxhZjYyN1c2T0xiVHNmaUpNdWl0RWw4dEJ3QzBoMFZGQjh2MUpOSFNmRXp5dkc2MHJXX29acXRfNzFQdmxmWWQwclRn?oc=5",
+   "date": "2023-09-29T22:45:22+00:00",
+   "summary": "Complete Clojure Development Environment Setup: IntelliJ IDEA, Cursive, ASDF/RTX, Toolbox youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Tutorial for installing Clojure and run it on IntelliJ - Windows",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PclVuOXpzTWU5enZfZ3c5bmVZOEswRG9DSkdGRjZveHlNdWp0QkNsNHYyTzNCMVZHMkpfelFxUXo4Q0wtUVZSMGFNeTVpXzNSMU9HdFJ3?oc=5",
+   "date": "2023-09-11T04:57:34+00:00",
+   "summary": "Tutorial for installing Clojure and run it on IntelliJ - Windows youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Tutorial for installing Clojure (running on IntelliJ) - Mac OS",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVTEwVGowVmVfZVc2WXc2NFdQdUlNZmNPT2hxOU9PNkd6cnVQMUtBWkJoWXZSU1NmRmlKcWpTeGRCRlBsNmF4UDZicEJnTEVSZ1MwSUF3?oc=5",
+   "date": "2023-09-11T04:06:28+00:00",
+   "summary": "Tutorial for installing Clojure (running on IntelliJ) - Mac OS youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Webinar: Xiana Blade for Clojure",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zWWJvckpJR2lONUluQ3RxNkc0TnNiT2d2MHl1bThtYnBSa0dIbWhBcGFibTNOd1ZaUGo0bXlnQ05KNS03cVptd1lFZWdYb083RnhJQlRn?oc=5",
+   "date": "2023-07-28T14:06:32+00:00",
+   "summary": "Webinar: Xiana Blade for Clojure youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lisp Tutorial for Beginners (Clojure)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVQmg4UTExZWI2ZHJzODNmQTFpVHhuYlMxcmhXaXVENE5TaUFsZjR0MmNqUTZ2eG9wX2JkbmNqaUVqNWpzekV2dldsbkh2elQtRGRyS2l3?oc=5",
+   "date": "2023-07-12T01:21:03+00:00",
+   "summary": "Lisp Tutorial for Beginners (Clojure) youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "\"Vector Symbolic Architectures In Clojure\" by Carin Meier",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5seWxHQkItWUlXQ1JOOEd4S2d6U3NEX2ZXemhoZ3M1TXFQWXlsUW9panp4QjNsd2pXODlxMHgzV1U2ZGItLXp4YWdfR3JUMzZoczFwQjJ3?oc=5",
+   "date": "2023-05-11T18:26:33+00:00",
+   "summary": "\"Vector Symbolic Architectures In Clojure\" by Carin Meier youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure Crash Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44d0ZSRkI1a2hrMFRXb3IwZXZncjJOdDNTZ2pHcEU2Z3BPWlBBclhTMTJBRE91T1gzZGxlLUxkVzBHajZsVjlkcllSQjNObmkySERMQU9R?oc=5",
+   "date": "2021-08-17T15:00:15+00:00",
+   "summary": "Clojure Crash Course youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Setup Clojure and run a REPL in VS Code Using Calva",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qT0ZPbnRHaGd3TVV4UUI2dUNlaTZiWDRIUWRvRmVBMzRwUnhvMHhvVTJXN3hxQXVPQ25TaUx5VUJsdkZ6VFFBblhONWpCTmRNem9NS3F3?oc=5",
+   "date": "2021-05-17T07:00:01+00:00",
+   "summary": "Setup Clojure and run a REPL in VS Code Using Calva youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nNFhDYmxFMUlsMjFmQUNtcmRuNm5BYVphSkJ4Wk4wMHFXb2FzQmxPaXVOaDFzUUNaYVNrTHh1U2p2TGhXVFhLZHh5NWRfV0lwczVJR0RB?oc=5",
+   "date": "2017-11-26T17:39:33+00:00",
+   "summary": "Clojure Tutorial youtube.com",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  }
+ ]
+}

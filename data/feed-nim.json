@@ -1,0 +1,182 @@
+{
+ "generated": "2026-08-14T21:22:38.168747+00:00",
+ "tech": "nim",
+ "count": 16,
+ "items": [
+  {
+   "title": "I Built CSS-Like Native UI Animations with Nim and SDL3",
+   "url": "https://dev.to/puffball1567/i-built-css-like-native-ui-animations-with-nim-and-sdl3-3jp8",
+   "date": "2026-08-13T02:03:48+00:00",
+   "summary": "A native GUI devlog showing CSS-like keyframe animations and hover transitions built with Nim, SDL3, and Clay Board Style System.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Implementing CSS ex and ch Units in a Native UI Style Engine",
+   "url": "https://dev.to/puffball1567/implementing-css-ex-and-ch-units-in-a-native-ui-style-engine-2433",
+   "date": "2026-08-06T12:57:16+00:00",
+   "summary": "A Clay Board Style System devlog about resolving ex, ch, rex, and rch through an injectable font-metrics contract without coupling layout to a text engine.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "KoutenDB v0.10.0: 72 Hours, Three Persistent Nodes, and Zero Client Errors",
+   "url": "https://dev.to/puffball1567/koutendb-v0100-72-hours-three-persistent-nodes-and-zero-client-errors-1n2m",
+   "date": "2026-08-03T12:23:51+00:00",
+   "summary": "KoutenDB v0.10.0 completed a 72-hour three-node persistent cluster endurance run with more than four million mixed operations, zero client errors, and successful offline verification.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Clay Board Style System update: Link Navigation",
+   "url": "https://dev.to/puffball1567/clay-board-style-system-update-link-navigation-49gj",
+   "date": "2026-08-03T11:52:50+00:00",
+   "summary": "Build a simple SPA-like navigation menu for a native Nim application with Clay Board Style System.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "KoutenDB v0.9.0: From a Locality Experiment to a Testable Database",
+   "url": "https://dev.to/puffball1567/koutendb-v090-from-a-locality-experiment-to-a-testable-database-2api",
+   "date": "2026-08-02T11:09:04+00:00",
+   "summary": "KoutenDB v0.9.0 adds disk-backed locality validation, bounded related-data reads, and reproducible benchmarks for a ring-oriented NoSQL database.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Introducing Clay Board Style System: CSS-Inspired Native UI for Nim",
+   "url": "https://dev.to/puffball1567/introducing-clay-board-style-system-css-inspired-native-ui-for-nim-346a",
+   "date": "2026-08-02T10:59:52+00:00",
+   "summary": "Clay Board Style System is a developer preview of a CSS-inspired primitive engine for native GUI toolkits, written in Nim.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Two lines swap OpenAI for 160 free NVIDIA-hosted models",
+   "url": "https://dev.to/creeta/two-lines-swap-openai-for-160-free-nvidia-hosted-models-njg",
+   "date": "2026-08-01T03:50:54+00:00",
+   "summary": "Set base_url to integrate.api.nvidia.com/v1, swap your model string, and call 160+ TensorRT-optimized models — no card, 40 req/min free.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "La ruta hacia epsilon-cero y su…",
+   "url": "https://dev.to/norviktech/la-ruta-hacia-epsilon-cero-y-su-njf",
+   "date": "2026-07-27T05:06:07+00:00",
+   "summary": "Originally published at norvik.tech            Introduction   Explora el concepto de epsilon-cero en...",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RocheDB Is Now KoutenDB",
+   "url": "https://dev.to/puffball1567/rochedb-is-now-koutendb-3bka",
+   "date": "2026-07-20T08:51:32+00:00",
+   "summary": "RocheDB has been renamed to KoutenDB. The project direction is unchanged, while the package, CLI, C ABI, repository, and documentation now use the new name.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Introducing nimux: A Pure-Nim Network Enumeration and Remote Execution Toolkit",
+   "url": "https://dev.to/blue0x1/introducing-nimux-a-pure-nim-network-enumeration-and-remote-execution-toolkit-3oi9",
+   "date": "2026-07-17T18:24:00+00:00",
+   "summary": "I recently released nimux, a pure-Nim network enumeration and remote execution toolkit for authorized...",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "KoutenDB v0.6.0: Locality Validation, Topology Remapping, and Safer Query Boundaries",
+   "url": "https://dev.to/puffball1567/rochedb-v060-locality-validation-topology-remapping-and-safer-query-boundaries-2e1g",
+   "date": "2026-07-17T17:27:11+00:00",
+   "summary": "KoutenDB v0.6.0 strengthens data-locality validation for AI, RAG, and application retrieval workloads, with topology remapping primitives and safer query helpers.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Hello, KoutenDB! A Nim Database Built Around Data Locality",
+   "url": "https://dev.to/puffball1567/hello-rochedb-a-nim-database-built-around-data-locality-22co",
+   "date": "2026-07-14T06:00:43+00:00",
+   "summary": "Introducing KoutenDB, a Nim database that uses application-level locality to reduce retrieval working sets.",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Made Stale Forecasts Fail Instead of Falling Back to Do Nothing",
+   "url": "https://dev.to/kingsleyonoh/why-i-made-stale-forecasts-fail-instead-of-falling-back-to-do-nothing-7m8",
+   "date": "2026-06-12T23:03:41+00:00",
+   "summary": "The UI showed ready, donothing, and a blank reason field. A facility manager reading that screen would assume the engine had looked at the…",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Nim vs Rust: Language is a Matter of 'Coherence', Not 'Performance'",
+   "url": "https://dev.to/wintrover/nim-vs-rust-language-is-a-matter-of-coherence-not-performance-45kc",
+   "date": "2026-04-17T11:59:55+00:00",
+   "summary": "I once spent a long time debating between two languages as the foundation for a formal verification...",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Python Full Stack",
+   "url": "https://dev.to/saith_f8f4f2bae9159c53b49/python-full-stack-564k",
+   "date": "2026-04-01T05:01:31+00:00",
+   "summary": "Python Full Stack Course at NIM Academy, Nagercoil – Master Web Development  Are you looking to...",
+   "points": 0,
+   "tech": "nim",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "functional programming with nim language",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13LW1kWHVEWXhacDBvTE1DMzViRnpUX2x6ZXJsNUtBYlAxaEFHWWNMYkxsZTdVWHdhYks0eThQQXdyWllxREpSNUh1aDBKaWstYTB1SEVn?oc=5",
+   "date": "2023-09-10T23:00:12+00:00",
+   "summary": "functional programming with nim language youtube.com",
+   "tech": "nim",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  }
+ ]
+}

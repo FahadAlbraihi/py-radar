@@ -1,0 +1,182 @@
+{
+ "generated": "2026-08-14T21:22:33.888505+00:00",
+ "tech": "zig",
+ "count": 16,
+ "items": [
+  {
+   "title": "How to Monitor Your Zig HTTP Server with Vigilmon",
+   "url": "https://dev.to/vigilmon/how-to-monitor-your-zig-http-server-with-vigilmon-4k8a",
+   "date": "2026-08-04T05:54:26+00:00",
+   "summary": "How to Monitor Your Zig HTTP Server with Vigilmon   Zig is a systems programming language...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Zig's Incremental Compilation: Why It Could Change the Way We Build Software",
+   "url": "https://dev.to/shrsv/zigs-incremental-compilation-why-it-could-change-the-way-we-build-software-1f6j",
+   "date": "2026-07-28T17:14:25+00:00",
+   "summary": "Hello, I'm Shrijith Venkatramana. I'm building git-lrc, an AI code reviewer that runs on every...",
+   "points": 10,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Zig's New Memory-Safe Compilation Mode: Balancing Safety and Performance Trade-offs",
+   "url": "https://dev.to/kornilovconstru/zigs-new-memory-safe-compilation-mode-balancing-safety-and-performance-trade-offs-5edb",
+   "date": "2026-07-20T16:33:36+00:00",
+   "summary": "Introduction: The Memory Safety Dilemma in Modern Programming   Memory safety—the assurance...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Andrew Kelley Challenged Anthropic’s Claude Code Story",
+   "url": "https://dev.to/simon_paxton/andrew-kelley-challenged-anthropics-claude-code-story-26m6",
+   "date": "2026-07-19T20:05:55+00:00",
+   "summary": "Andrew Kelley, Zig’s creator, did publicly accuse Anthropic and Bun of misleading developers about...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bun riscrive tutto: da Zig a Rust in 11 giorni (e cosa ci insegna davvero)",
+   "url": "https://dev.to/frontendfacile/bun-riscrive-tutto-da-zig-a-rust-in-11-giorni-e-cosa-ci-insegna-davvero-p49",
+   "date": "2026-07-16T08:14:56+00:00",
+   "summary": "Una riscrittura totale di codebase è quasi sempre un pessimo segnale. Qui, invece, ha prodotto bug...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Language After Rust and Zig",
+   "url": "https://dev.to/kvthweatt/the-language-after-rust-and-zig-4pj7",
+   "date": "2026-07-14T23:00:34+00:00",
+   "summary": "Systems programming has been having a moment. After decades of C and C++ as the only real options for...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Zig's creator says the 'AI rewrote our codebase' story is marketing, not a win",
+   "url": "https://dev.to/breachprotocol/zigs-creator-says-the-ai-rewrote-our-codebase-story-is-marketing-not-a-win-2m3j",
+   "date": "2026-07-14T02:10:37+00:00",
+   "summary": "Andrew Kelley and a widely-shared essay argue the celebrated AI-assisted rewrites shipped 'unreviewed slop' - fluent code that looks correct but hides systemic bugs, a review failure rather than proof of AI or language s",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Learning how LLMs actually work by building 18 of them in Zig",
+   "url": "https://dev.to/dipankar_sarkar/learning-how-llms-actually-work-by-building-18-of-them-in-zig-53cl",
+   "date": "2026-07-07T10:27:17+00:00",
+   "summary": "Most people who ship features on top of LLMs have never seen the inside of one. I was in that group....",
+   "points": 2,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Zig's Build System-Driven Package Management: A Game-Changer for Developers",
+   "url": "https://dev.to/tamizuddin/zigs-build-system-driven-package-management-a-game-changer-for-developers-51oo",
+   "date": "2026-07-05T00:00:49+00:00",
+   "summary": "Explore how Zig's integrated build system transforms package management for faster, more reliable software development.",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Fenwick Tree (BIT) CLI in Zig — It All Hangs on i & -i: O(log n) Prefix Sums, Point Updates, and Binary-Lifted Select",
+   "url": "https://dev.to/sendotltd/building-a-fenwick-tree-bit-cli-in-zig-it-all-hangs-on-i-i-olog-n-prefix-sums-point-1bmm",
+   "date": "2026-07-01T23:25:30+00:00",
+   "summary": "The classic Fenwick tree (Binary Indexed Tree) as a Zig CLI. Prefix sums and point updates both in...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Same agent, different language: mago fixed a crashing test in my Zig CLI",
+   "url": "https://dev.to/javimosch/same-agent-different-language-mago-fixed-a-crashing-test-in-my-zig-cli-3553",
+   "date": "2026-06-25T20:43:30+00:00",
+   "summary": "After shipping a feature to my Go CLI, I pointed the same autonomous agent at a Zig project with a crashing test. It root-caused the SIGABRT, fixed it in one line, and turned the suite 133/133 green.",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "You have been zigged (series) : Directory traversal 2",
+   "url": "https://dev.to/black_tornado/you-have-been-zigged-series-directory-traversal-2-4noh",
+   "date": "2026-06-21T09:19:16+00:00",
+   "summary": "The 20th program in GNULinux.pdf (mentioned in blog 1) traverses sub directories by changing the...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "You have been zigged (series) : Directory traversal part 2",
+   "url": "https://dev.to/black_tornado/you-have-been-zigged-series-directory-traversal-part-2-1od9",
+   "date": "2026-06-20T17:14:34+00:00",
+   "summary": "Lets continue building the last program. In here we will be using the std.Io.Dir.walk() function to...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "You have been zigged (series) : Enumerating files and directories",
+   "url": "https://dev.to/black_tornado/you-have-been-zigged-series-enumerating-files-and-directories-hpf",
+   "date": "2026-06-20T16:58:03+00:00",
+   "summary": "To open a directory for the purposes of inspecting its contents, we can use the...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "You have been zigged (series) : Forking a child process",
+   "url": "https://dev.to/black_tornado/you-have-been-zigged-series-forking-a-child-process-1bm4",
+   "date": "2026-06-19T14:09:00+00:00",
+   "summary": "This program is about the POSIX fork() syscall. Zig favors standard library functions...",
+   "points": 1,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "한글지그Zig강의_002_array_Zig Programming Language tutorial #ziglang #zig",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPWUFjMGVSVURfM0ZfRi04R0tORkxqRktEdUppaUE1OVp5YlIwd3g0UUZCX2N0UXlIbUpJRm5rMS00eTdXYnFwZnRMVWV0YW5WZUNZRjh3?oc=5",
+   "date": "2022-07-14T13:45:02+00:00",
+   "summary": "한글지그Zig강의_002_array_Zig Programming Language tutorial #ziglang #zig youtube.com",
+   "tech": "zig",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  }
+ ]
+}

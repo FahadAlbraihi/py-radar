@@ -1,0 +1,942 @@
+{
+ "generated": "2026-08-14T21:22:46.277720+00:00",
+ "tech": "lisp",
+ "count": 92,
+ "items": [
+  {
+   "title": "REPL — วิธีคุยกับคอมพิวเตอร์ที่ LISP สอนโลก",
+   "url": "https://dev.to/gophernment/repl-withiikhuykabkhmphiwetrthii-lisp-snolk-31dg",
+   "date": "2026-08-05T10:14:29+00:00",
+   "summary": "คุณเคยนึกไหมว่าก่อนที่จะมี &gt;&gt;&gt; ใน Python, ก่อน node console, ก่อน Chrome DevTools...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LISP — ภาษา 67 ปีก่อน ที่ยังมีชีวิตอยู่ในทุกภาษาที่คุณเขียน",
+   "url": "https://dev.to/gophernment/lisp-phaasaa-67-piikn-thiiyangmiichiiwityuuainthukphaasaathiikhunekhiiyn-1cfe",
+   "date": "2026-08-04T23:13:21+00:00",
+   "summary": "คุณเขียน if-else ทุกวัน คุณรัน code ใน terminal แล้ว REPL มันตอบกลับมา คุณ lambda ใน Python, arrow...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Anatomy of a Hybrid AI Agent: Combining Prolog, Julia and Lisp",
+   "url": "https://sigaretto.medium.com/anatomy-of-a-hybrid-ai-agent-combining-prolog-julia-and-lisp-ad438d24f687?source=rss------lisp-5",
+   "date": "2026-07-31T23:04:12+00:00",
+   "summary": "Breaking down a three-layer architecture that blends logical planning, numerical computation, and meta-programming Continue reading on Medium »",
+   "tech": "lisp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why Prolog, Lisp and Julia Struggle to \"Talk\" to Each Other",
+   "url": "https://sigaretto.medium.com/why-prolog-lisp-and-julia-struggle-to-talk-to-each-other-f8701cd85a65?source=rss------lisp-5",
+   "date": "2026-07-30T13:13:36+00:00",
+   "summary": "The limits of cross-language bridges aren&#x2019;t an engineering problem&#x200A;&#x2014;&#x200A;they&#x2019;re structural Anyone who has tried to make different paradigms&#x200A;&#x2014;&#x2026; Continue reading on Medium »",
+   "tech": "lisp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Python has most of what made Common Lisp special in \"Beating the Average\"… does it?",
+   "url": "https://dev.to/vindarel/python-has-most-of-what-made-common-lisp-special-in-beating-the-average-does-it-38ek",
+   "date": "2026-07-29T23:13:51+00:00",
+   "summary": "This. Python already has most of what made Common Lisp special in the Beating the Averages era. But...",
+   "points": 2,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Forth and Lisp: Two Very Different Languages With the Same Philosophy",
+   "url": "https://medium.com/code-is-data-data-is-code/forth-and-lisp-two-very-different-languages-with-the-same-philosophy-558c7fde7bc4?source=rss------lisp-5",
+   "date": "2026-07-24T08:54:14+00:00",
+   "summary": "What Programming Language Should You Learn Next? Continue reading on Code is Data, Data is Code »",
+   "tech": "lisp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Implementing Lisp on the Linux…",
+   "url": "https://dev.to/norviktech/implementing-lisp-on-the-linux-1p1l",
+   "date": "2026-07-20T00:05:49+00:00",
+   "summary": "Originally published at norvik.tech            Introduction   Explore the implications of...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Code Is Data and Data Is Code: An Invitation to Write About Programming Ideas",
+   "url": "https://medium.com/code-is-data-data-is-code/code-is-data-and-data-is-code-an-invitation-to-write-differently-about-programming-f3e4496c7bb5?source=rss------lisp-5",
+   "date": "2026-07-19T21:06:00+00:00",
+   "summary": "A home for Lisp, functional programming, expressive languages, unusual tools, and the small ideas that permanently change how we write code Continue reading on Code is Data, Data is Code »",
+   "tech": "lisp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Common Lisp Became Easier to Set Up in 2026",
+   "url": "https://medium.com/code-is-data-data-is-code/common-lisp-became-easier-to-setup-in-2026-89119624a3a5?source=rss------lisp-5",
+   "date": "2026-07-18T16:09:06+00:00",
+   "summary": "A modern set up now takes much less time, and we have now much more options Continue reading on Code is Data, Data is Code »",
+   "tech": "lisp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Set Up a Common Lisp Development Environment in 2026",
+   "url": "https://medium.com/data-science-collective/how-to-set-up-a-common-lisp-development-environment-in-2026-3ba1f6e73953?source=rss------lisp-5",
+   "date": "2026-07-18T15:01:20+00:00",
+   "summary": "Install SBCL, manage dependencies with ocicl or Quicklisp, choose Emacs, VS Code, or mine, and build a tested Common Lisp project with CI. Continue reading on Data Science Collective »",
+   "tech": "lisp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Emacs' lispy-mode: Convolute real-world example!",
+   "url": "https://dev.to/vindarel/emacs-lispy-mode-convolute-real-world-example-fe1",
+   "date": "2026-06-23T17:43:07+00:00",
+   "summary": "It took me years to find a real-world use case for lispy-mode's convolute key, bound to C! Here it is...",
+   "points": 1,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "الليسب الذي يبحث عنه الجميع، تقسيم المساحات إلى أجزاء متساوية على برنامج AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JRWNlU1ZET2N0YkJGOTByOW82U2VySFJTNXBUVlZpaDRGYi1zSFQwc01CY3kzUE1zQTIxYkZQTkVaR29Vam9sSWl5S3VENlRyOWQxeFJB?oc=5",
+   "date": "2026-04-07T16:39:50+00:00",
+   "summary": "الليسب الذي يبحث عنه الجميع، تقسيم المساحات إلى أجزاء متساوية على برنامج AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "JSON That Thinks: A Programming Language Inside JSON",
+   "url": "https://dev.to/almadar/json-that-thinks-how-we-built-a-turing-complete-language-inside-json-4n76",
+   "date": "2026-02-19T14:22:47+00:00",
+   "summary": "What if JSON wasn't just a data format?  What if it was a programming language?  We built a...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Programming Language for Fun",
+   "url": "https://dev.to/influx/building-a-programming-language-for-fun-okf",
+   "date": "2026-02-17T01:23:51+00:00",
+   "summary": "I've been building a programming language. It started as an experiment and turned into sixty thousand...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MCP Development with Lisp, Firestore, Cloud Run, and Gemini CLI",
+   "url": "https://dev.to/gde/mcp-development-with-lisp-firestore-cloud-run-and-gemini-cli-1a58",
+   "date": "2026-01-27T23:20:38+00:00",
+   "summary": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+   "points": 4,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MCP Development with Lisp, Firestore, and Gemini CLI",
+   "url": "https://dev.to/gde/mcp-development-with-lisp-firestore-and-gemini-cli-8j5",
+   "date": "2026-01-27T14:02:32+00:00",
+   "summary": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MCP Development with Lisp, Cloud Run, and Gemini CLI",
+   "url": "https://dev.to/gde/mcp-development-with-lisp-cloud-run-and-gemini-cli-2bgb",
+   "date": "2026-01-23T21:39:41+00:00",
+   "summary": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+   "points": 2,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Common Lisp needs more documentation, tools and ideas (where are we on this?)",
+   "url": "https://dev.to/vindarel/common-lisp-needs-more-documentation-tools-and-ideas-where-are-we-on-this-io",
+   "date": "2025-12-17T16:27:45+00:00",
+   "summary": "This comment is like a mantra on reddit:   Lisp needs more fresh documentation, more fresh tooling,...",
+   "points": 3,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Emacs Indigo: bindings for the Indigo cheminformatics library",
+   "url": "https://dev.to/gicrisf/emacs-indigo-bindings-for-the-indigo-cheminformatics-library-1hlh",
+   "date": "2025-11-09T12:53:16+00:00",
+   "summary": "After several months of development, I'm sharing the first pre-release of emacs-indigo, a native...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "طريقة عمل كود LISP فى الأتوكاد بالذكاء الأصطناعي لعمل الأبعاد بضغطه واحده CHATGPT & AUTOCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rS1pEMjh1c1F3cXhwdEZrMDNXTXNwczBHd2pWMHR2a3FBdjFCdUx0TzJFWHY2VXBJb0ppU1NuMUpKWmtDLUhpUGI4cldjSEE3TUw4RFFB?oc=5",
+   "date": "2025-11-04T18:30:06+00:00",
+   "summary": "طريقة عمل كود LISP فى الأتوكاد بالذكاء الأصطناعي لعمل الأبعاد بضغطه واحده CHATGPT & AUTOCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Common Lisp script: search and transform music files to mp3 with ffmpeg",
+   "url": "https://dev.to/vindarel/common-lisp-script-search-and-transform-music-files-to-mp3-with-ffmpeg-3phn",
+   "date": "2025-09-09T12:54:47+00:00",
+   "summary": "We leverage some cool libraries:    $ ciel -s ffmpeg delux flac  […]      TITLE           : Cria de...",
+   "points": 0,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Common Lisp: read password on a terminal (by hiding its input)",
+   "url": "https://dev.to/vindarel/common-lisp-read-password-on-a-terminal-by-hiding-its-input-2e3j",
+   "date": "2025-09-04T20:53:43+00:00",
+   "summary": "We want to have a prompt asking for a password or other sensitive information:   &gt; enter...",
+   "points": 1,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Implementando o LISP em LISP - Paradigmas 2025",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cFA4Ymc1NElhVzgydVA0SWVTMVQ0WmRkMjNydVFqOXp1RWl4d2pwRjgySms1QXlIdU5telotYjJNOFRraUcxV2lWdF9FeXlJQjdlOXdR?oc=5",
+   "date": "2025-08-21T18:47:27+00:00",
+   "summary": "Implementando o LISP em LISP - Paradigmas 2025 youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Common Lisp: a command-line interactive terminal application in 2 lines",
+   "url": "https://dev.to/vindarel/common-lisp-a-command-line-interactive-terminal-application-in-2-lines-2gnb",
+   "date": "2025-07-27T14:11:21+00:00",
+   "summary": "The quicker to a MVP the better, right?  Suppose you have a working Lisp function:    (defun play...",
+   "points": 5,
+   "tech": "lisp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "شرح autocad lisp و تحميله واستخدامه",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDOXV5SW5RUXpTN1lnR3F2STladHBfTUNKc3JTcG5CNzJtaTh4eWJZTHVEYTNVN3FXNlQ5TnJBSnMzR1JkbUVPS0JkOVRSaXdCczhQZnB3?oc=5",
+   "date": "2025-07-25T19:00:34+00:00",
+   "summary": "شرح autocad lisp و تحميله واستخدامه YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "AutoCAD Lisp to Annotate Coordinates & Export to CSV | MFAC by Musa Fide",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04dl9JV2hBcFhfemlGVzNySjFKMTBlYmlJcm9HcFNfQWZNWTBMcnBYY0s4c3lyYUpuMzV4M0JmT2hMdWx3cjZYeG8zM3lrUFdZbXRhUTBn?oc=5",
+   "date": "2025-06-27T04:08:51+00:00",
+   "summary": "AutoCAD Lisp to Annotate Coordinates & Export to CSV | MFAC by Musa Fide youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "رسم خطوط الكونتور تلقائيًا في أوتوكاد باستخدام كود LISP بسيط – خطوة بخطوة للمبتدئين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIaXUwRDYtVE9ZVDJ1ZGhhOVlPVjgyNFRpYVBORm5vVTJjdXVhTEhvSW1VVTM4d2VUcDBKd25PTGVEd29wdUpMR3RFWkhTQUp2VXFPQjJB?oc=5",
+   "date": "2025-05-20T14:45:23+00:00",
+   "summary": "رسم خطوط الكونتور تلقائيًا في أوتوكاد باستخدام كود LISP بسيط – خطوة بخطوة للمبتدئين YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Lisp Programming Language – Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3X1JMc2szUVFxSFBvU2w4dEtaZHd0UHB5cGFsVER5d0d3UlFYMFl1dGFCRGFfQW4xWU5rNkxUYlNXM1JPSU5UMU44Uzcyb084RGVVV0J3?oc=5",
+   "date": "2025-01-14T16:03:17+00:00",
+   "summary": "Lisp Programming Language – Full Course for Beginners youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "طريقة رسم قطاع صرف صحي profile من الأكسيل excel الي الأوتوكاد autocad باستخدام sewer profile.lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nMjRkQ0VlcU82VmQxXzg2MWxVZjlZcWd4anZqb2RRUndXVVhpQUR2ZE4xZ0tfNzZSY0t5M040SDYzc05MTFgxb21CcFBYOFQ5dVM4Qk1R?oc=5",
+   "date": "2025-01-05T20:52:19+00:00",
+   "summary": "طريقة رسم قطاع صرف صحي profile من الأكسيل excel الي الأوتوكاد autocad باستخدام sewer profile.lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب لتحويل المخططات من الاوتوكاد الى جوجل ايرث | Lisp to convert AutoCAD drawings to Google Earth",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lam9tc3MxdlRPOEtqOWswajNmcld4NEFfMDJHWUNleHN2cUZJQXdtZ1RHOUNmVzVBeHk3YmJ2SGltTzEwOWhkX0g1eGdkWnUzU0xycThn?oc=5",
+   "date": "2025-01-04T18:46:21+00:00",
+   "summary": "ليسب لتحويل المخططات من الاوتوكاد الى جوجل ايرث | Lisp to convert AutoCAD drawings to Google Earth YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Janet: A Practical, Embeddable Lisp - System Crafters Live!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WQ0tPcWtFb0R6X0xreG1BcTVZNVRMemEzTDgyY2JyM05PVm1oOTJIenVIdjEyLVFWMVE3OWR6Q05Bd0hVMDhEd1VLM3BOV2FQWTY4ZUpn?oc=5",
+   "date": "2024-08-31T05:13:13+00:00",
+   "summary": "Janet: A Practical, Embeddable Lisp - System Crafters Live! youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lisp - First Impression [Programming Languages Episode 30]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Tam5pQTBrQjA2NXB2a2xFU1dDdF9qaDF0VjV3bTNibVhCbkpnU2J2WTlxNS1wOWNDUEdpWHpXUGM4VnM5YldxdmdaeDRKTDBPNXVDQlhB?oc=5",
+   "date": "2024-07-03T04:00:29+00:00",
+   "summary": "Lisp - First Impression [Programming Languages Episode 30] youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "تعرف على لغة البرمجة lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TVDhqTDhONmg1amZkYTNvSjFFWFQyVkpja1hkLWl1OFhZMFY4WkdmX2RBaHhaY2FSYU96dU95SlRKVERwR1VNQTRLV19DWWotenlaY2xB?oc=5",
+   "date": "2024-06-10T13:21:38+00:00",
+   "summary": "تعرف على لغة البرمجة lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اسرع طريقة لرسم تفاصيل تسليح القواعد الخرسانية المسلحة/ STRUCT.LISP",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LaTFwSDdPck4xYkNfNlFJUWhweDlieTRMalVfdEdqcEp3MDVTLTlfSEtfSmZFQzF6NTJZdVFqZ0cybk4yaUNmMld5Q3ZGTi1MbS1HSWR3?oc=5",
+   "date": "2024-03-23T18:59:19+00:00",
+   "summary": "اسرع طريقة لرسم تفاصيل تسليح القواعد الخرسانية المسلحة/ STRUCT.LISP YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب لاستخراج الاحداثيات في برنامج الاوتوكاد على شكل جدول في الExcel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zT0QzVnd1RzJwOG92THY0cjR3RHZUZnJRUENGemk5TjdPZ0FwaEFuM191eVR1VjdVbTV5RFBvSC03X0o3ajgwYkEtcFpUMGdGYW0wWEZB?oc=5",
+   "date": "2024-03-06T08:24:57+00:00",
+   "summary": "ليسب لاستخراج الاحداثيات في برنامج الاوتوكاد على شكل جدول في الExcel YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "how to add lisp to Autocad - اضافة ليسب علي برنامج الاوتوكاد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiamxrZUFzOG5UTzZ6YmhPZ3RLWXdRVklPRFlSc19jdEk5M2lnZmZtTDJGTmhHTzIxRm5sclFRNUxEN1Q4X3JYYkRBVVhEaS1SRndvaFZB?oc=5",
+   "date": "2024-01-30T11:54:13+00:00",
+   "summary": "how to add lisp to Autocad - اضافة ليسب علي برنامج الاوتوكاد YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Autocad LISP-(coorn)(Export coordinates CAD to Excel) ليسب لاوتوكاد لاستخراج الاحداثيات الكاد اكسيل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14bnM3ZUJXSUREamlsMDVQc21PMkEzbnJHUHdldHBLYzhudG9VYkg2cnRhSEI5SjJvNlRxVzQtR2ZYSWZmSk4xVVZsRTdxX0loUHBYNWxB?oc=5",
+   "date": "2024-01-27T22:00:31+00:00",
+   "summary": "Autocad LISP-(coorn)(Export coordinates CAD to Excel) ليسب لاوتوكاد لاستخراج الاحداثيات الكاد اكسيل YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ما هو الليسب-تحميل جميع الليسبات للاوتوكاد بشكل دائم -AUTO LOAD LISPS ازاي اعرف اختصار الليسب/#lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oeE41TUdRYXE1TXVQU1JEak0tdTIwV2Zud1NzVGNZUlB4NlB2ajZucWttQUVkU3Q0ZEFvQkdlWVdiX2xQTl9YMHRMSTFvSzZkNkRtQjNn?oc=5",
+   "date": "2023-12-16T14:20:25+00:00",
+   "summary": "ما هو الليسب-تحميل جميع الليسبات للاوتوكاد بشكل دائم -AUTO LOAD LISPS ازاي اعرف اختصار الليسب/#lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب مجاني لعمل الأبعاد لمختلف الخطوط في الأوتوكادdisplay dimensions for different lines in autocad",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWlhhb0pkWlVWSEV5akVVamx6ZUZkUXVtZnJnTUpWS2FwWFB6UHk3b0xyQ0VGZ0o2dkR5RmVBenRuaFNjVzNrYjhvS18xTTJNOGFfVktR?oc=5",
+   "date": "2023-12-09T09:00:19+00:00",
+   "summary": "ليسب مجاني لعمل الأبعاد لمختلف الخطوط في الأوتوكادdisplay dimensions for different lines in autocad YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب لحساب مجموع الاطوال الخطوط بطريقة سريعة ( AddLen - add total length of lines )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GWXcteUdSVlRhWHYtQkJnWVV0TFNmZXNpZTh5U3d0Y2Z6dkhBZi1wT3BJUlY3QnFWMEhqZTNNLVlWSEkxZlhNaEptYk1qc1dDbGRvQkJn?oc=5",
+   "date": "2023-12-08T13:19:17+00:00",
+   "summary": "ليسب لحساب مجموع الاطوال الخطوط بطريقة سريعة ( AddLen - add total length of lines ) YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Autocad lisp programming شرح بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTODNaSVFHLUluUGF0aE1iS2dybUU0dC1FOWV5cG5BN0dXUTM3V2ttQUgtTmI0V2I5d3M0a2JFZmF3TXZDVjREZzdNZUk3R2ptMFZKdk4yc3h5aU5GUkltYjNxd2s1QnV0VElWbDdXR19Hc0hFUkgteDhub04?oc=5",
+   "date": "2023-10-29T14:35:21+00:00",
+   "summary": "Autocad lisp programming شرح بالعربي YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الترقيم علي برنامج #الاوتوكاد بكل سهولة باستخدام امر TCOUNT وليسب NUM",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iZVpMNnNJWTdiTHlTU3BkMmdzZXZXeFIwOTdxWHRqNEtzWUFRUHM4WkxtUGlMbTNQVFBhNnFLbUN6N3o3cnNuT3Y3cU1WRHlRbFd2dXVR?oc=5",
+   "date": "2023-10-05T19:06:13+00:00",
+   "summary": "الترقيم علي برنامج #الاوتوكاد بكل سهولة باستخدام امر TCOUNT وليسب NUM YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفيه عمل ليسب جديد من خلال شات جي بي تي SHATGPT",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNN3dzSk1xUFFRT1BUcVVZbzYwd3NOYTlVVmJUMUNTVWlBRVVFSDRfMmFycGNNTVdSdjFQZkJLQ3ZZT0NkbHVBY19LZURXLU9ocVpubjhn?oc=5",
+   "date": "2023-09-27T18:14:44+00:00",
+   "summary": "كيفيه عمل ليسب جديد من خلال شات جي بي تي SHATGPT YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الليسب التاسع ليسب COORN لاستخراج النقاط من الاتوكاد فى Excel -TEXT مهما كان عددها او نوعها فى ثانية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HNzZJdmVreHp6Z05xS0tYY2ljWi03YVpmQ3VmWHlaTEMtaWkxY0o3X0NyYS1fN2lqRUJ1OEl4dnQyanJQVFJ0RTZnS2paMlVjLUw1dTJ3?oc=5",
+   "date": "2023-07-16T11:37:28+00:00",
+   "summary": "الليسب التاسع ليسب COORN لاستخراج النقاط من الاتوكاد فى Excel -TEXT مهما كان عددها او نوعها فى ثانية YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حلقة 3 شرح كتابة الليسب اوتوكاد بالعربي مع المهندس عبدالرحمن علاء #autolisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCTTFMaFlFTTZPSDkxdUMtU1g4dTdyQjNIVnRXbHlxZ1E1MHVoNGp3QmtOcDU5dDlDQVk4WERLV0gxeFVpbmc5WGZvTXQxOFdTd2YtZ1pB?oc=5",
+   "date": "2023-06-30T22:11:14+00:00",
+   "summary": "حلقة 3 شرح كتابة الليسب اوتوكاد بالعربي مع المهندس عبدالرحمن علاء #autolisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "lisp programming شرح عربي حلقة 1 مشروع 1 #autolisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16QTI5c2tJVy1KQ1JFUkZDcl9vdkxHWjhjMk1KakZxQTk0UGhXMl9wNHZzYmgzcDZ1RlFCczFqb1hqNGhPeHZoWm5NbWhfdGNlWXB2THJR?oc=5",
+   "date": "2023-06-24T16:20:05+00:00",
+   "summary": "lisp programming شرح عربي حلقة 1 مشروع 1 #autolisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Learning Lisp - List Processing language - lesson 4 - Functions || تعلم ليسب - لغة معالجة القوائم",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xNlRKZllxNjQtbWZGOFFNYXRuYUhzSlJ6RGdYVzgxUmpRSXpjYldOMXdjUTRZNEFRRXFnU05DQm9HOEVBREdkYVpPWXcxUmI4dlV5U2Fn?oc=5",
+   "date": "2023-05-26T22:55:55+00:00",
+   "summary": "Learning Lisp - List Processing language - lesson 4 - Functions || تعلم ليسب - لغة معالجة القوائم YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Common Lisp #1 - Installation",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SZ2hyMGw2enBxVXFMSEhQazFIVGE3aWRyZEVoQkJGa2I4b2xYNXdVQVZEMWtkWV9RNG1sZlFPSmp4bURUbEFnNktPSWx2OEtkLXc4WUdB?oc=5",
+   "date": "2023-04-10T17:00:15+00:00",
+   "summary": "Common Lisp #1 - Installation youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "طريقة إظهار تقاطع الأشكال مع بعضها في الأوتوكاد بإستخدام الليسب المجاني autocad lisps",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMm4yVk1fWm5SS1M5bzJ5WVd6UlRfN2xiUUljSGhZa0NndDJNYV9VanlGR2phUEI1Y3BWNFREV0RmNzl4Yk1hNkgzSGlmTWlqeG9SNGdR?oc=5",
+   "date": "2023-01-24T12:49:18+00:00",
+   "summary": "طريقة إظهار تقاطع الأشكال مع بعضها في الأوتوكاد بإستخدام الليسب المجاني autocad lisps YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تصدير الأحداثيات من الاوتوكاد الي الاكسل بدون ليسب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UemVWRnA1dk1qdVRCYl9xT0JwV251MGxRbmlzQUd2bVhfQXZnUUFzZW5jR1E3R3VSeElpR1lscXIzZ2YxanNVZGN3OTM3SWJaV2p1RTBn?oc=5",
+   "date": "2023-01-15T21:26:23+00:00",
+   "summary": "تصدير الأحداثيات من الاوتوكاد الي الاكسل بدون ليسب YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح كيفية ترقيم النقاط واستخراج الأحداثيات في جدول علي الأوتوكاد بواسطة ليسب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YUC13RWxrTnBXd3M3cE1UTmZhOWFYbnF3ZDlSOEdrbk5MREs3c3V6OUFlRjZYV09sdVBIUjRmWkhrUmZqazZNTXFRNEUzM29rcFh5VW5n?oc=5",
+   "date": "2023-01-14T10:11:55+00:00",
+   "summary": "شرح كيفية ترقيم النقاط واستخراج الأحداثيات في جدول علي الأوتوكاد بواسطة ليسب YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "بأمر واحد طريقة حساب كل الاطوال فى كل الطبقات و وضعهم فى جدول عن طريق الليسبlaylength في الأوتوكاد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90aWtBWDNuUi1fWkdaVmZDenJEcWRycXZwVUU5TmhTQWpocEt0SmtJX3Uzb3gxbUFXM2dwWnViZkVhSGNWalZVa3hpODR0SDNmWVFaOGx3?oc=5",
+   "date": "2023-01-11T09:53:20+00:00",
+   "summary": "بأمر واحد طريقة حساب كل الاطوال فى كل الطبقات و وضعهم فى جدول عن طريق الليسبlaylength في الأوتوكاد YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح ليسب تحويل او أسقاط لوحه من برنامج الأوتوكاد الي برنامج جوجل ايرث. #خالد جمعه.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NM0hwQkNHTzFLbC10d0tVNWtQUFozck1UdTgtODFWMEpjVnd6SU5maFZaWWZxZHo5b2VpbnhSSUpzd0M2ZGRhclZEajVKc0F6LUtGdWdn?oc=5",
+   "date": "2022-12-29T14:19:38+00:00",
+   "summary": "شرح ليسب تحويل او أسقاط لوحه من برنامج الأوتوكاد الي برنامج جوجل ايرث. #خالد جمعه. YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح ليسب coorn على برنامج الاوتوكاد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GREdQZ0puMWUtMnVoakRWSXliSXlvU3FSZkNNVC1Dam53UG51SjNrbmdQSjBwRmNrWlFTbTQzT0c1VEFjdFhDSEw0NGQ0bURKeW9xc3ln?oc=5",
+   "date": "2022-12-19T13:35:41+00:00",
+   "summary": "شرح ليسب coorn على برنامج الاوتوكاد YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "001 - سلسلة دروس تعليم لغة أوتو ليسب ... الدرس الأول",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTmc2N0x3dG5QZlVJSTBlN291cVhORWkySk44QUtKWHEwa3lRa1NmazU4Uk1oWFdHbTRxS1hSOVFFYTNRNGNFOUVscmdEM3pWMzZSYTln?oc=5",
+   "date": "2022-12-15T09:57:35+00:00",
+   "summary": "001 - سلسلة دروس تعليم لغة أوتو ليسب ... الدرس الأول YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "وداعا سوكيا لينك | ليسب اخراج الاحداثيات SDR من الكاد الي التوتال مباشرة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43dmNjb2c0YzFMRnk5M2wwVnhuN1czWGhCUmJkRl8xdG5TdXBxTFU3dGZGc3FCeHRSQXZaVVZuU3VlRE5tWDV3WVV3cmVKdDQ2YUJqS2l3?oc=5",
+   "date": "2022-12-14T10:55:18+00:00",
+   "summary": "وداعا سوكيا لينك | ليسب اخراج الاحداثيات SDR من الكاد الي التوتال مباشرة YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Debugging Lisp: fix and resume a program from any point in the stack - how Common Lisp stands out.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80WTFxTWptQ2VaWk0xWjBCTGxzaWF6blUyM1BZMW5qRjh4VDlQaDlRRVk1N0pPV2pNYlB3OU5CbGF5UVhGaktPd25KTHBqbFliaEZqQWFB?oc=5",
+   "date": "2022-12-05T19:13:01+00:00",
+   "summary": "Debugging Lisp: fix and resume a program from any point in the stack - how Common Lisp stands out. youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Why Are Lisp Macros So Great!?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84M2dvdVZIV3J4aXpQcHpfSXZBd1I1M19VbFpFUWNYNjRfUmF6MTFVYUZuYTRfWDZMREY4bUZ4QTQ4RVhfRG15RTUtQ0p3NTRsdXRicDNn?oc=5",
+   "date": "2022-11-20T20:02:14+00:00",
+   "summary": "Why Are Lisp Macros So Great!? youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Unlock Lisp / Scheme's magic: beginner to Scheme-in-Scheme in one hour",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSGp2bllyN3djRWFYbmxSc3dvc29fVUtMZ0NCWmlfVkM1Vy05eXFwVjRmS09rd0l2aWdXWkRHRDR6SmEyQUhMTWR2b1Fobkxsem5hbjFn?oc=5",
+   "date": "2022-08-07T21:23:26+00:00",
+   "summary": "Unlock Lisp / Scheme's magic: beginner to Scheme-in-Scheme in one hour youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "ليسب مفيد لعمل Grid lines مع اظهار الاحداثيات (Easting, northing) بضغطتين على برنامج AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83NFNldEp6RGFnbVp3bnB5WmNndVBrcmFzamFQQVU5Umdiam5iRmk5RmdKcGJkdXZRUzVrel85eHczeXNnMnRaaW1MWF9QWDUyU19MaGVR?oc=5",
+   "date": "2022-08-07T11:06:58+00:00",
+   "summary": "ليسب مفيد لعمل Grid lines مع اظهار الاحداثيات (Easting, northing) بضغطتين على برنامج AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الحصر بالعدد _ count block in autocad lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JTGp5SVFadDUwaVJrRC1hNFNSVVlyRjRZd0tRalg1M25YTWc4dkdCMGplRy1wMzNraTdFcGZKdXhDYmd1QUJyR3h1T1hjcXhsQ0szMUdn?oc=5",
+   "date": "2022-07-23T23:14:33+00:00",
+   "summary": "الحصر بالعدد _ count block in autocad lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "polyline لل vertex ليسب وضع _ AddLwpolylinevertex lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NZHlMWlRQUGNobDM5R0JtckdVV21PRlF2TGdjTkk1VTk5Z3hZZDBqWXpMX3VwMWtET1Zsb1ZfcTlVZjVJLVpaNEFsMDQxNU5TandPNm9R?oc=5",
+   "date": "2022-01-13T10:14:19+00:00",
+   "summary": "polyline لل vertex ليسب وضع _ AddLwpolylinevertex lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب (Lisp) ممتاز لعمل النقاط عند تقاطع الأشكال دفعة واحدة على برنامج AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TamQyZGI2SFh6VXVuWDRXUmZDTmVOQVpmUGFxR1UzcmFHS056QjhadHJMOXBSeUZlUkxqZ0RKdlp1bHc2WE9HQ2JoRUVKelRhckY0czVR?oc=5",
+   "date": "2022-01-01T10:57:38+00:00",
+   "summary": "ليسب (Lisp) ممتاز لعمل النقاط عند تقاطع الأشكال دفعة واحدة على برنامج AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب (Lisp) ممتاز لرسم مقاطع الأعمدة المستطيلة بشكل أتوماتيكي (Column section) على برنامج AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qR0UxUldPbUl2VHVnOTIwNFljSXBlSVREWndtNWN6TUp6SXJoSVRobWVMSVAtaWVmV0pWS0ZNUEliUUNFV2JkR3lreGZ6elM4eGlDejdR?oc=5",
+   "date": "2021-10-23T18:21:55+00:00",
+   "summary": "ليسب (Lisp) ممتاز لرسم مقاطع الأعمدة المستطيلة بشكل أتوماتيكي (Column section) على برنامج AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "11 lisp in Autocad - part 1 ما هو ومن يصنعه وكيف نستخدمه",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOXVoeXVVb0J6UEFiVWhETDlEMUF6eGFDS0RNTFF1QnlDWTRJd0RWaER4cGxoYTY2QWtJdE1ZZ0lMdlVabzJ0Q29zLXo1NWJSTlRYTndB?oc=5",
+   "date": "2021-10-18T06:06:06+00:00",
+   "summary": "11 lisp in Autocad - part 1 ما هو ومن يصنعه وكيف نستخدمه YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اظهار الابعاد بضغطة زر واحده فى الاوتوكاد lisp Ad in auto cad",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jdGdDTGR0OWZrZHk3YnpMdm41eDkzYzQ3b3Jub2lfMUtjNWJzd1RMTUFsQVB0aml4Vmx0U1drN1ZESk5pZzhjSkVyZUd4VGgwR3YwbWJB?oc=5",
+   "date": "2021-10-08T22:36:08+00:00",
+   "summary": "اظهار الابعاد بضغطة زر واحده فى الاوتوكاد lisp Ad in auto cad YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "AutoCAD's Lisp Dynamic all lots Numbering",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvdWUwVnJuTGdsQzB0eS01ejdkUktYVGxjX3JPa2o0Y3RPZ0MycUJ1MGNMaVBPTk5lSFZKeVlqei0tbXV4WE5RSFBJenpKY3BHMGozYzh3?oc=5",
+   "date": "2021-08-23T13:00:39+00:00",
+   "summary": "AutoCAD's Lisp Dynamic all lots Numbering youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "اقوي ليسب لاستخراج الاحداثيات من الكاد الي توتال استيشن سوكيا ولايكا مباشر وترقيمها بدون برامج تحويل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vcm9kWE42V0p2eW1QZGxGUDZhX2ZyUm4tRHMzNkpHSG9seHN3V3dPZllBdXZkZkk5MHJsZzlSYVByT2g3Q1FIUlA5em80OU92ZTlyVWln?oc=5",
+   "date": "2021-07-23T11:42:36+00:00",
+   "summary": "اقوي ليسب لاستخراج الاحداثيات من الكاد الي توتال استيشن سوكيا ولايكا مباشر وترقيمها بدون برامج تحويل YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استخراج الاحداثيات بأفضل ليسب وعمل جدول علي اللوحه وتحويلها للتوتال واسقاط النقاط علي اللوحه بسهوله",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41R1JqSDRRLTB0SnhJdE4tREZsTnBSQm9vM012NmFReFZVQ09iYkpIZTMxVkFiYnNRVS1mTkFtb05xVnhLb2dORnlCU241V0g3ZG1Rb2VB?oc=5",
+   "date": "2021-06-13T18:09:19+00:00",
+   "summary": "استخراج الاحداثيات بأفضل ليسب وعمل جدول علي اللوحه وتحويلها للتوتال واسقاط النقاط علي اللوحه بسهوله YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "How to draw the automatic grid using lisp in AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sUzdaZW5LZ1RTeTRiMWVQeFQ0XzFHVGZwV1ZyZTdmQU1lNVdXcTVJNmZtRHJWWEEySVdIY09Ra1piVGkwUUVRQ0xKZUJqTUhQa3l4Szd3?oc=5",
+   "date": "2021-05-05T22:27:22+00:00",
+   "summary": "How to draw the automatic grid using lisp in AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "برمجية (Lisp) لاستخراج مساحة الأشكال و جعلها تتغير أوتوماتيكيا عند التعديل على الأشكال على AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Lb2pDNVhDMjc5VXRUMk40eXhFRjFaVGJWTDZCY05qVVBpVlJCd280eUR4cVVaR09YcDE5ZG5iRnBsaHZJVEpVWWs4TEw1Q040WVNyN2N3?oc=5",
+   "date": "2021-03-07T14:26:18+00:00",
+   "summary": "برمجية (Lisp) لاستخراج مساحة الأشكال و جعلها تتغير أوتوماتيكيا عند التعديل على الأشكال على AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "برمجة ممتازة (Lisp) لعمل النقاط مع ترقيمها + إضافة احداثياتها بشكل أتوماتيكي في جداول على AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KN2RUM0YzSGdQaU5YeU9ZeHVMN2FXb0lQcVNCdEVudk5wZ0NQZ05PdXQ5bENjUFhjTnkwWXgxMV9ScU9BRDlmeWlTTm82U0NoOEY5Z2pB?oc=5",
+   "date": "2021-02-24T10:48:55+00:00",
+   "summary": "برمجة ممتازة (Lisp) لعمل النقاط مع ترقيمها + إضافة احداثياتها بشكل أتوماتيكي في جداول على AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "إضافة الأبعاد على جميع أضلاع الأشكال المغلقة والمفتوحة دفعة واحد باستعمال برمجية (Lisp) على AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1alcxaE5Bdm56SE15cC1PWWR3dDNNUWg2Q25WV000clhmZ2Vfa2ZpUi1MVWNPX3djS1NSanVZMUxOaTFOVHN0dDVfbVZjdDNIV3VKQXFR?oc=5",
+   "date": "2021-02-21T12:01:47+00:00",
+   "summary": "إضافة الأبعاد على جميع أضلاع الأشكال المغلقة والمفتوحة دفعة واحد باستعمال برمجية (Lisp) على AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Intro to lisp macros",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xRmFqaVB3RUxMV3VwZHVkMWVqeXA1akE2NlEycGtRRVFMNnlObXI0aGRCcTZFLXZfWWctUVFFczNFQ1ZfWFdDYmt5SXZzN0picUI5c01R?oc=5",
+   "date": "2021-01-27T21:06:05+00:00",
+   "summary": "Intro to lisp macros youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "استخدام الليسب في الاوتوكاد وتصدير الجداول للاكسل - using lisp in AutoCAD and exporting tables Excel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZN19ISlN5SkhPWEt5X005Z3g4LUFsX1VxN0pJNnNFbHJNUGRSZFBja0VEbndxMmVKTnRDWGx0bUZpTW1CRzBsWW9KakxmbzJsbTZXWnB3?oc=5",
+   "date": "2021-01-04T19:30:29+00:00",
+   "summary": "استخدام الليسب في الاوتوكاد وتصدير الجداول للاكسل - using lisp in AutoCAD and exporting tables Excel YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب يقوم بالترقيم وتسلسل النقاط على لوحة الاوتوكاد ADD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96ZmczaS1EMlZnaVpmMkc0RFdlR2E0Tk5vMFg1Vy1VQ2xvbUxhZm1TdFdyT2V4SlU2cjRvU0hGZWF5a3M1YklpOUFRN2N1clp0cThQUGZn?oc=5",
+   "date": "2021-01-04T17:52:36+00:00",
+   "summary": "ليسب يقوم بالترقيم وتسلسل النقاط على لوحة الاوتوكاد ADD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب لتصدير الإحداثيات والمناسيب من AutoCAD الى ExcelاوTEXTوالترقيم التلقائي للنقاط",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JS00zZjUtcXZKbzZDWm1uWDA1VEpJYS1aQzNWazltUkRzdlppSUhJMUljeE05cXo0TG5mYk03S3JUT1ZvOS1NN1hfQVNBN2pBV1FGQUVn?oc=5",
+   "date": "2021-01-02T17:43:57+00:00",
+   "summary": "ليسب لتصدير الإحداثيات والمناسيب من AutoCAD الى ExcelاوTEXTوالترقيم التلقائي للنقاط YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حل مشكلة عدم عمل ملف الليسب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vcGh5cXFRMHZFZEs4X1F1WTY0UG5sM20xTUZDZTVzNkpQLWJWekhISjJkTlBDT0lMWUxLQTRUUXNQS1RHZ1ZYOFloZk5LTjVRM3J1NjNn?oc=5",
+   "date": "2020-11-24T17:57:13+00:00",
+   "summary": "حل مشكلة عدم عمل ملف الليسب YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "طريقة تقسيم المساحات الى أجزاء متساوية (أكثر من 03 قطع) باستعمال ليسب CD على برنامج AutoCAD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZNTl5akkxOHRWNnk2bWk3YlNxUDkza2dtbUp1Rld3VjZXRHBDZ0pxNUJtdERtUzR4WTU4STd1NzlkMWpmUjNSZUNycEhqdEhmV25vVkZR?oc=5",
+   "date": "2020-10-24T17:15:45+00:00",
+   "summary": "طريقة تقسيم المساحات الى أجزاء متساوية (أكثر من 03 قطع) باستعمال ليسب CD على برنامج AutoCAD YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ماهو الليسب وفيما يستخدم ؟! وأهم الليسبات المستخدمة #Lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMdFlyb2hiSGtVY1ZqdFRUQWVQTUM4S3BXdzhxbnNmdURnbmpESU5RWmFTU0E3VDVxdm1QNHdtY2RuYkxQemdYS1BMTXQ1OW1WQ2RmNzBR?oc=5",
+   "date": "2020-03-30T12:09:36+00:00",
+   "summary": "ماهو الليسب وفيما يستخدم ؟! وأهم الليسبات المستخدمة #Lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحميل برنامج ال LSP لبرنامج الاوتوكاد LOAD APPLICATION برمجة ال LISP",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45dU1hd2k2bllOUFU3b1hQVE4tTjBCdnlmNnJOcUs5Mml0bDBob1cyV1U4NHo4ZU4yV0Z6U3htSDl2OUNvODI5eV9UUEdWUHRDc1RqR1FR?oc=5",
+   "date": "2020-03-28T20:45:00+00:00",
+   "summary": "تحميل برنامج ال LSP لبرنامج الاوتوكاد LOAD APPLICATION برمجة ال LISP YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Lecture 1A: Overview and Introduction to Lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKVXZRb1FfTDAxVGE5ZGdSRFhmVmJxSUlkMUphbjd2SkswOHVPcXdSSkdQM0ZNT2gxN1BFdlplRW9NRlhhakN2SGJmbWpBaGNwWHR3R0p3?oc=5",
+   "date": "2019-08-22T22:17:39+00:00",
+   "summary": "Lecture 1A: Overview and Introduction to Lisp youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "1-Axis ليسب رسم و تسميه الأكسات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFWmtjcV9udkVUZG1CalNscy1STEdMX3p2MVdPV0VaOExMYTZtV0pGQ0QxM1pQaDBoNWNqc1poX3lQM3VGSGVmUzZtUXNPMzZ0NHhLRjBB?oc=5",
+   "date": "2019-07-12T21:24:28+00:00",
+   "summary": "1-Axis ليسب رسم و تسميه الأكسات YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "A very useful method for dividing and cutting circles into equal parts using AutoCAD (LISP) softw...",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NdjdwZTF5eG5UVVFEd1pXY1QxRWwyemdJZlFCS3hqTExPaWE4OTlsb0Q1dGFDZWVHVTdCZTZfN1BCTmVicENhdkU2S1RQdVRwSHlrN25xTFBYeXlvcDNXTDdScDBwb2JkNUF3U055N1BEcEx6XzVoZVhybFI?oc=5",
+   "date": "2018-09-23T18:57:53+00:00",
+   "summary": "A very useful method for dividing and cutting circles into equal parts using AutoCAD (LISP) softw... YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "طريقة عمل الأبعاد بشكل أتوماتيكي لعدة أشكال دفعة واحدة (جميع أضلاع الاشكال) على AutoCAD (ليسب)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54blNRRVpuRHozLWJfeGlFeUgzdTYtaENWUWhfS19XSllhVFhQRkc2SUNLWUNoODV4RUVLLUNVVU5KT0xpNUE3aW5MeUFWd215MUdSRzd3?oc=5",
+   "date": "2018-09-01T03:00:05+00:00",
+   "summary": "طريقة عمل الأبعاد بشكل أتوماتيكي لعدة أشكال دفعة واحدة (جميع أضلاع الاشكال) على AutoCAD (ليسب) YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ليسب لاظهار متوسط منسوب مجموعة من النقط AVG lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OeDRIVzVsZGVwMTNSTFdfMXRLSGltSmg1ZG01T3IwODZBX1dleFMwU2dhVjJoa1dzX1FLV2ZaVU1EaXZ5cVREb3lfcm1aNnVNLVplYlhR?oc=5",
+   "date": "2017-12-07T05:00:00+00:00",
+   "summary": "ليسب لاظهار متوسط منسوب مجموعة من النقط AVG lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "2- ليسب حساب عدد البلوكات وعمل جدول بالعدد والشكل ا Lisp For Auto cad 2018",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFVkRSNUE4RVI2dGRyUmtBQjNHZGt5MEpVQk1HdncyODhPcHJYWGp3NEtGS0VZZU1HVEJLc01Rc0RUci15ZWFaeXBXeWI2UldRcWZhQzh3?oc=5",
+   "date": "2017-07-04T22:11:19+00:00",
+   "summary": "2- ليسب حساب عدد البلوكات وعمل جدول بالعدد والشكل ا Lisp For Auto cad 2018 YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Lighting Blocks Distribution (LXX) Lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xNHpmZXF1UjItWGNXenZIaWJCZjl6TjNmTTZxVXhUQ1Z6XzBxcGN3eEg0YW9vOTlTTElCSnktWUdTcFp2eU0yOFFSVnpOY2dlaS1Cd0Rn?oc=5",
+   "date": "2016-04-24T00:33:08+00:00",
+   "summary": "Lighting Blocks Distribution (LXX) Lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Lisp Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lM0xfU3RCM2JWaVB3VDB6ZTFxTlBxTFZRRTBTNk5xZ0lZWTItYmUwX2RESzVzRUx1NWNhcUp3cnQ0TGNDS1pGeU1EZHE2WjdRQVFlbGxR?oc=5",
+   "date": "2015-07-22T01:01:23+00:00",
+   "summary": "Lisp Tutorial youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "North, East Coordinates (XY) Lisp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WVUhQRUFHLWIyNzdCNlFYOVducEZtYUFmMV9LX05aNElhTDRWRVdJd21LOWlTQW5LV183Mk1wNUtJbjlrb19qT1VOZ3NSREx3YnJSalNB?oc=5",
+   "date": "2015-05-31T00:38:35+00:00",
+   "summary": "North, East Coordinates (XY) Lisp YouTube",
+   "tech": "lisp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Common Lisp Tutorial - (5) List functions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MZ0ZBaUZTWjJhTVloWUM1OUtaamllaEtoU2FkUEtyQjBXMjlkOEFWTjA3SVlWZVQtQU1YbExPWlRXc3NwQlZKR3BwVW5oZnZWY2x2VDh3?oc=5",
+   "date": "2011-08-28T03:14:56+00:00",
+   "summary": "Common Lisp Tutorial - (5) List functions youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Common Lisp Tutorial - (3) let, let*, setq, defun, phew!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40ZVJiYUE1NjlPTERhVVZDZzJQZWxESUhtUzZ5cTVkYm04cHN6bkFQa1JWbkJENkdnTG1oYlloSVJBMUlnQ0hhb2VLMmJXcTFYeGg3SEVR?oc=5",
+   "date": "2011-08-24T04:14:08+00:00",
+   "summary": "Common Lisp Tutorial - (3) let, let*, setq, defun, phew! youtube.com",
+   "tech": "lisp",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  }
+ ]
+}

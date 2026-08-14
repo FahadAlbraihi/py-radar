@@ -1,0 +1,402 @@
+{
+ "generated": "2026-08-14T21:22:12.980008+00:00",
+ "tech": "erlang",
+ "count": 38,
+ "items": [
+  {
+   "title": "Building Distributed Systems in Elixir: Part 4 — Process Linking",
+   "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb",
+   "date": "2026-08-14T12:02:52+00:00",
+   "summary": "In the previous part of this series, we used process monitors to observe when another process...",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why We Built an Ontology Engine Instead of Another Rules System",
+   "url": "https://dev.to/lsxredrain/why-we-built-an-ontology-engine-instead-of-another-rules-system-8nj",
+   "date": "2026-08-13T19:11:50+00:00",
+   "summary": "False alarms dropped from 22% to 4.7% when we replaced 10,000 rules with 252 ontology entities. How DLAS compiles OWL axioms to Erlang pattern matches.",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Distributed Systems in Elixir: Part 3 — Process Monitoring",
+   "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-3-process-monitoring-5b5p",
+   "date": "2026-08-13T14:44:20+00:00",
+   "summary": "In the previous parts of this series, we built a stateful process using a mailbox and then added...",
+   "points": 3,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Quick rundown on concurrency and garbage collection",
+   "url": "https://dev.to/silvern47/a-quick-rundown-on-concurrency-and-garbage-collection-73k",
+   "date": "2026-08-12T17:14:08+00:00",
+   "summary": "Abstract   Three languages — Go, Kotlin, and Erlang/Elixir (running on BEAM) — solve...",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How We Built an IoT Platform That Handles 30 Million Concurrent Connections — With a Team of 10",
+   "url": "https://dev.to/lsxredrain/how-we-built-an-iot-platform-that-handles-30-million-concurrent-connections-with-a-team-of-10-2ni0",
+   "date": "2026-08-11T03:25:00+00:00",
+   "summary": "DGIOT runs 928 gateways across 16 oil fields, supports 300+ protocols, and keeps 99.9999% uptime with Erlang/OTP and DLAS architecture.",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PON-BEAM: um paradigma orientado a notificações dentro da máquina virtual do Erlang",
+   "url": "https://dev.to/matheuscamarques/pon-beam-um-paradigma-orientado-a-notificacoes-dentro-da-maquina-virtual-do-erlang-191l",
+   "date": "2026-08-05T18:10:11+00:00",
+   "summary": "Como reescrevemos cada subsistema da BEAM (Erlang/OTP 30) usando Premises, Conditions e Instigações — do receive seletivo O(1) ao GC tri-color — eliminando polling e scans lineares, com 6.665× de ganho e 0% de CPU ociosa",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Re-Architected the Erlang VM Core in C to Eliminate O(N) Loops — The PON-BEAM Saga",
+   "url": "https://dev.to/matheuscamarques/i-re-architected-the-erlang-vm-core-in-c-to-eliminate-on-loops-the-pon-beam-saga-1ao8",
+   "date": "2026-08-05T17:31:09+00:00",
+   "summary": "How applying the Notification-Oriented Paradigm (PON/NOP) to Erlang/OTP 30 eliminated CPU idle waste (0.0% CPU) and unlocked O(1) selective receives.",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Gleam OTP (Part 2): Introduction to BEAM Process",
+   "url": "https://medium.com/@marioraspiantoro/learn-gleam-otp-part-2-introduction-to-beam-process-4f1e244b3a42?source=rss------erlang-5",
+   "date": "2026-08-03T07:19:05+00:00",
+   "summary": "In the previous chapter, we finished the initial version of our simple expense tracker application. It may not be much, but we now have a&#x2026; Continue reading on Medium »",
+   "tech": "erlang",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building Distributed Systems in Elixir: Part 1 - Building a Stateful Process in Elixir Without GenServer",
+   "url": "https://dev.to/pckrishnadas88/building-a-stateful-process-in-elixir-without-genserver-58eb",
+   "date": "2026-07-30T18:12:12+00:00",
+   "summary": "Series: Distributed Systems from First Principles — Part 1   GenServer is one of the most widely...",
+   "points": 3,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A System Design Surprise from WhatsApp 😲",
+   "url": "https://dev.to/spanarin/a-system-design-surprise-from-whatsapp-1pke",
+   "date": "2026-07-29T11:48:33+00:00",
+   "summary": "While prepping for system design interviews, I was digging into Cassandra, the distributed database...",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Modelo de Atores da BEAM vs. Scheduler Agent Supervisor: Mera Coincidência? O que a Ericsson com Erlang já resolveu no passado?",
+   "url": "https://dev.to/matheuscamarques/modelo-de-atores-da-beam-vs-scheduler-agent-supervisor-mera-coincidencia-o-que-a-ericsson-com-16n4",
+   "date": "2026-07-27T17:08:02+00:00",
+   "summary": "Olá, me chamo Matheus de Camargo Marques. Ao aprofundar meus estudos em conceitos modernos de Cloud,...",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A nuvem chegou às mesmas conclusões que Joe Armstrong e a equipe da Ericsson chegaram em 1986.",
+   "url": "https://dev.to/matheuscamarques/a-nuvem-chegou-as-mesmas-conclusoes-que-joe-armstrong-e-a-equipe-da-ericsson-chegaram-em-1986-3hid",
+   "date": "2026-07-27T17:06:58+00:00",
+   "summary": "A nuvem chegou às mesmas conclusões que Joe Armstrong e a equipe da Ericsson chegaram em...",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Gleam OTP (Part 1): Designing the Initial System",
+   "url": "https://medium.com/@marioraspiantoro/learn-gleam-otp-part-1-designing-the-initial-system-3c2813b51609?source=rss------erlang-5",
+   "date": "2026-07-27T02:43:08+00:00",
+   "summary": "Modern applications are expected to handle many tasks simultaneously, whether serving multiple users, processing background jobs, or&#x2026; Continue reading on Medium »",
+   "tech": "erlang",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Kanell/0, Yet Another Pipeline-like Library",
+   "url": "https://dev.to/niamtokik/kanell0-yet-another-pipeline-like-library-2epo",
+   "date": "2026-07-13T08:00:00+00:00",
+   "summary": "When I started to work with Dart and Flutter, few weeks ago, I was looking for something like Erlang...",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How WhatsApp Moved 50 Billion Messages a Day With Just 32 Engineers",
+   "url": "https://nadeem4-nk13.medium.com/how-whatsapp-moved-50-billion-messages-a-day-with-just-32-engineers-33ab164b6ee8?source=rss------erlang-5",
+   "date": "2026-07-12T20:28:50+00:00",
+   "summary": "How 32 engineers ran a global messaging service on Erlang, Mnesia, and FreeBSD, and the ruthless simplicity that made it possible. Continue reading on Medium »",
+   "tech": "erlang",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Integrating Web Frontends with API Backends using the Actor Model",
+   "url": "https://medium.com/@gestapoh/integrating-web-frontends-with-api-backends-using-the-actor-model-27c7a08e53e7?source=rss------erlang-5",
+   "date": "2026-06-29T11:38:11+00:00",
+   "summary": "TL;DR: One thing I took away from my years writing Erlang is its knack for scaling and decoupling processes through the message-passing&#x2026; Continue reading on Medium »",
+   "tech": "erlang",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "🌈 The ultimate polymorphism: PureScript as a universal language (Node's V8, Erlang's BEAM, Chez Scheme...)",
+   "url": "https://dev.to/0x1/the-ultimate-polymorphism-purescript-as-a-universal-language-5gdi",
+   "date": "2026-06-21T13:12:49+00:00",
+   "summary": "Just as PureScript has expanded into the backend after having long been assigned to the frontend (in...",
+   "points": 16,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "WhatsApp Has 2 Million Connections Per Server. What's Your Number?",
+   "url": "https://dev.to/codesavvy_labs_fb381b820c/whatsapp-has-2-million-connections-per-server-whats-your-number-3gaa",
+   "date": "2026-06-17T14:38:36+00:00",
+   "summary": "The engineering case studies that prove what the BEAM can actually do     When engineers debate...",
+   "points": 1,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Erlang for Absolute Beginners: Syntax Basics and Data Types",
+   "url": "https://medium.com/@kathira06/erlang-for-absolute-beginners-syntax-basics-and-data-types-c397e62ee5d8?source=rss------erlang-5",
+   "date": "2026-06-11T15:04:53+00:00",
+   "summary": "A Plain-Language Guide to Getting Started with One of the World&#x2019;s Most Unusual Programming Languages Continue reading on Medium »",
+   "tech": "erlang",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why We Restart to Fix It",
+   "url": "https://dev.to/vivian-voss/why-we-restart-to-fix-it-4c3",
+   "date": "2026-05-31T09:25:06+00:00",
+   "summary": "On Second Thought — Episode 10  The pager has gone off. Memory on the auth service is climbing in a...",
+   "points": 0,
+   "tech": "erlang",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir and Erlang: Scalable Architectures and Fault-Tolerant System Design | Uplatz",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nSk9mNVhYZjdWYlVWbGdzTWh2ckk4SU9QUzBLQXc2OVRKV0JUc2FYWWliSkMxWmhVM1V4N0JDaEFRc2djdkZ5dVNRZEpQYUdpeGc0Yk5B?oc=5",
+   "date": "2026-01-18T11:27:39+00:00",
+   "summary": "Elixir and Erlang: Scalable Architectures and Fault-Tolerant System Design | Uplatz youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Backend Programming in Erlang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SQ2pvbG1EczFFSkltSWZrY3hYUVdnWjZuaG9GelRybTJWWjFFTzVQR1VpdF9vaGRNOHJLM1BWeXgxcGlkdXRQNkQxejMtTUZvemMtdWFn?oc=5",
+   "date": "2025-07-16T14:25:33+00:00",
+   "summary": "Backend Programming in Erlang youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Exploit Erlang/OTP SSH: CVE-2025-32433 | TryHackMe | PoC",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GLWY4Y1N0ZzNZeEc3SWtNSkFQcmtEYi12aHRhdTg5SmtaOFJkaUYyMHpvdjNreGZKV1A2bnN3dE80M3dtVXhLSUhHam9kcnFQb1lVczhB?oc=5",
+   "date": "2025-04-24T13:02:27+00:00",
+   "summary": "Exploit Erlang/OTP SSH: CVE-2025-32433 | TryHackMe | PoC youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Evolve your developer abilities with Elixir - Carlo Gilmar | Erlang Solutions Webinar",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iN2pvOHdxYWFzTGw1MGtrMEFsV2d4ZG1TSGVDT0duUzIxR0dlRk1SS0dNUlltYUtqeTZvcVVGV1NJc1hTa2xwTGxSYmRrMXlZb2JVQXZR?oc=5",
+   "date": "2025-02-24T14:49:04+00:00",
+   "summary": "Evolve your developer abilities with Elixir - Carlo Gilmar | Erlang Solutions Webinar youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Trying To Learn Erlang To Become a Better Developer",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GbTgyanh0U2t6NDQ0aExtcWVHam9Id1BVNmpDWVNmSmo5RnlaUnBwNUw4RXFxMmV6Y2VETjVNcXRTTkZ0RmNJd3RCLVpwUFVrb0tNQnlB?oc=5",
+   "date": "2025-01-18T17:00:51+00:00",
+   "summary": "Trying To Learn Erlang To Become a Better Developer youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Black Myth Wukong - How to become Unstoppable Not Even Erlang Can Beat THIS BUILD Early Game or NG+4",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EWFRXcDNZLVFXMnBjdjh4eWU0N1VwWG9kS0dXVDRrRkZNdTNtdGZLYUpWaldYbjdsZFRaVmo3M0YtYmRSVE5vLVM5WWtwZU0xXzA3WGNR?oc=5",
+   "date": "2024-10-01T14:01:21+00:00",
+   "summary": "Black Myth Wukong - How to become Unstoppable Not Even Erlang Can Beat THIS BUILD Early Game or NG+4 youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Erlang - First Impression [Programming Languages Episode 23]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhbGV3aG5VQjNjVVlYbjM2X05CVEVUWDdlaFNYN1N0NzZaTnEtdmZNMHpKcEhDMlhsUU01QnJWRXV0NmIxYVIyaEthSzFrZjN0WU55WDZR?oc=5",
+   "date": "2024-05-19T04:00:06+00:00",
+   "summary": "Erlang - First Impression [Programming Languages Episode 23] youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Erlang in 100 Seconds",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uQzBXRHZFS285c25nZUt3em9WckMyTnJzdU43aHVuM0JzMHZ4NEhUMEJTcVQ2R2UwbzBzRTZmZ0RuQ3UwTDBMQnhKX1pGemI2cmJxcENB?oc=5",
+   "date": "2024-03-18T15:01:39+00:00",
+   "summary": "Erlang in 100 Seconds youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "How To Install RabbitMQ on Windows Machine | Erlang OTP Installation| Rabbit MQ |Erlang |Spring Boot",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tMUVrVHQyWGpNcHl0a3pTdGZmSlZiRGJhNzIyZTJuS0NRQktpZHVjRlZzeDNUc1VDS3NJMnFpVmlXYmRVWV9WU0VJWjJrbFlJUGl2S3R3?oc=5",
+   "date": "2023-05-08T05:22:09+00:00",
+   "summary": "How To Install RabbitMQ on Windows Machine | Erlang OTP Installation| Rabbit MQ |Erlang |Spring Boot youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Zotonic, the Erlang Web Framework",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3U1o2cmxfRmRCam9VSlFmaTdXZXctZy05TGYwSmVKaEVqV3Vqb3ZvRzBuRF9MRHRKMTMydzVSUnl1alRvNWxfODBIRVBWbnJCTnFBend3?oc=5",
+   "date": "2022-02-16T15:19:25+00:00",
+   "summary": "Zotonic, the Erlang Web Framework youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Probability and Statistics Course - Lesson 21 - Standard Normal Complementary CDF, Erlang R.V.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iVFVUQTdqcWdOS0VtcFNFS2s4TWlaS1JiX190Z1hhNXVRbUNsX01aVDFrRENFRXNOTnJJbzNYX3J6X29BOHF3WnVFdlBOOVJjT3BjbDdn?oc=5",
+   "date": "2020-04-23T15:08:23+00:00",
+   "summary": "Probability and Statistics Course - Lesson 21 - Standard Normal Complementary CDF, Erlang R.V. youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "1- شرح لغة ايرلانغ Erlang . تركيب و تحميل الادوات. تعريف المتغيرات. استعمال بعض دوال الرياضية.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzRkFkZU5fb21PcEdWN091VWZQb25BazQxd0o3alBjMGRLQ3p2RGU5aWp2cU96a01RQ3NHREs3ODIxLTlIMnRkQUliVFhyWlNobFlOSDdn?oc=5",
+   "date": "2019-09-30T10:58:06+00:00",
+   "summary": "1- شرح لغة ايرلانغ Erlang . تركيب و تحميل الادوات. تعريف المتغيرات. استعمال بعض دوال الرياضية. YouTube",
+   "tech": "erlang",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "What is OTP in Erlang and Elixir?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BWm4teTctRkNYVmNGQ2xYN0t0YlpuRUNxQkZ2cFV2T0NXU0xpQi1tNWdKdURQYzZqV0hhNFBjYWpiaEFGWFpvZlpMc3VKMXpVV1ZKZ01n?oc=5",
+   "date": "2018-12-30T12:20:51+00:00",
+   "summary": "What is OTP in Erlang and Elixir? youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lecture 11: Numerical solving approach for Erlang B and Erlang C formula.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hRGJuN1dJYWNlTm9DSHYxYnh6SVBFRGRGMVlxVnRkOGlJNENJcEtMWkljYk1LcnZrN0NxQVd5a05ZblRHeFNDR3JQbzJLZlJaMi1STkJn?oc=5",
+   "date": "2018-08-02T03:25:49+00:00",
+   "summary": "Lecture 11: Numerical solving approach for Erlang B and Erlang C formula. youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Erlang Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XQlhCd2g3YWdmUVZUd3BNQ1pvcWdqWUwzZlJnRnFMRG1Wd2xDemlYSTI1enk0SkNhUm9TT3JkWi1WLURmY2Fmb1RxLXBVVlpVOFo5aUpR?oc=5",
+   "date": "2017-04-01T14:12:33+00:00",
+   "summary": "Erlang Tutorial youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Install Erlang for Eclipse",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mcmNHdE9TNlBPUDVDamV1OGNSclhTWmJELTBBUllDNl9fNXoyTjNoRURQTGhITHVmN1JfVHh3WG8wMUlpcUl1cGcxY3ZzZHRTMzlJbmxB?oc=5",
+   "date": "2017-03-29T11:25:23+00:00",
+   "summary": "Install Erlang for Eclipse youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "SMITE Erlang Shen in 3 Minutes - Quick Guide & builds",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxc00wVGcxWHpRVUtrWmpvajVBckF5bnJReHZmZU43QzUydnZpNVo5ZHMxMFFqX2h3d2ZfZ0FQQmJYbWRzVXV4UThDaGZYTVJGTF9CdkJn?oc=5",
+   "date": "2016-07-04T18:50:19+00:00",
+   "summary": "SMITE Erlang Shen in 3 Minutes - Quick Guide & builds youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Erlang Programming for Beginners - Introduction To Erlang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtUTBHUXd6MnpnR3VPSzdfZWoxVGNrWlpiLWRzTlJxWXJKS0VaTHlKTTZnaXpRRktWeGFpSWwzcVlvTHI4dFI3X0xPN2NlOElVZXZlYWxB?oc=5",
+   "date": "2016-05-14T07:44:01+00:00",
+   "summary": "Erlang Programming for Beginners - Introduction To Erlang youtube.com",
+   "tech": "erlang",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  }
+ ]
+}

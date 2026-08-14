@@ -1,0 +1,612 @@
+{
+ "generated": "2026-08-14T21:22:50.346743+00:00",
+ "tech": "prolog",
+ "count": 59,
+ "items": [
+  {
+   "title": "M-Prolog: Queens Is Working",
+   "url": "https://medium.com/@kenichisasagawa/m-prolog-queens-is-working-af0a25946ccd?source=rss------prolog-5",
+   "date": "2026-08-14T00:45:47+00:00",
+   "summary": "It has been about four months since I started working on a new Prolog compiler architecture called SCBM. Continue reading on Medium »",
+   "tech": "prolog",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "A Breakthrough in M-Prolog",
+   "url": "https://medium.com/@kenichisasagawa/a-breakthrough-in-m-prolog-09001ce45cfc?source=rss------prolog-5",
+   "date": "2026-08-09T22:15:54+00:00",
+   "summary": "I have set August 31, 2026 as the release date for M-Prolog Version 1.0, and development is now moving at a rapid pace. Continue reading on Medium »",
+   "tech": "prolog",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "π-WAM Contest: 1 Million Packets with Prolog",
+   "url": "https://medium.com/@janburse_2989/%CF%80-wam-contest-1-million-packets-with-prolog-ec3e91551773?source=rss------prolog-5",
+   "date": "2026-08-07T15:41:46+00:00",
+   "summary": "We recently demonstrated a Prolog emulator for ADA RendezVous without ACK and NACK. This is basically a bounded buffer with max_size=1. We&#x2026; Continue reading on Medium »",
+   "tech": "prolog",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "M-Prolog: Now It’s AI’s Turn",
+   "url": "https://medium.com/@kenichisasagawa/m-prolog-now-its-ai-s-turn-7613e0e063a9?source=rss------prolog-5",
+   "date": "2026-08-05T01:49:42+00:00",
+   "summary": "As we move rapidly toward the release of M-Prolog ver1.0 on August 31, 2026, development has entered an intense phase of debugging and&#x2026; Continue reading on Medium »",
+   "tech": "prolog",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Toward M-Prolog ver1.0",
+   "url": "https://medium.com/@kenichisasagawa/toward-m-prolog-ver1-0-71c55b086b82?source=rss------prolog-5",
+   "date": "2026-08-03T23:16:57+00:00",
+   "summary": "For the past three months, I have been fully immersed in developing SCBM (Success Continuation Backtracking Machine), a new compilation&#x2026; Continue reading on Medium »",
+   "tech": "prolog",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "SCBM (Success Continuation and Backtracking Machine)",
+   "url": "https://medium.com/@kenichisasagawa/scbm-success-continuation-and-backtracking-machine-593154faa6e2?source=rss------prolog-5",
+   "date": "2026-08-02T04:08:27+00:00",
+   "summary": "A Prolog Compilation Method Based on goto Continue reading on Medium »",
+   "tech": "prolog",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Welcome to the Kingdom of Prolog: A Fantasy Journey into Logic Programming",
+   "url": "https://sigaretto.medium.com/welcome-to-the-kingdom-of-prolog-a-fantasy-journey-into-logic-programming-05160846e474?source=rss------prolog-5",
+   "date": "2026-08-01T12:18:52+00:00",
+   "summary": "### A language that doesn&apos;t execute commands &#x2014; it deduces answers from facts and rules Continue reading on Medium »",
+   "tech": "prolog",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "My reasoning engine proved that 114 is prime — a debugging story about negation",
+   "url": "https://dev.to/acrion/my-reasoning-engine-proved-that-114-is-prime-a-debugging-story-about-negation-1lni",
+   "date": "2026-07-09T22:38:21+00:00",
+   "summary": "zelph&gt; 114 testprime 114 ( 114   isprime   114 ) ⇐ {(¬( 114   hasdivisor  D)) ( 114   testprime  ...",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog Learning Path: Overcoming Limited Course Availability for Basic Proficiency",
+   "url": "https://dev.to/denlava/prolog-learning-path-overcoming-limited-course-availability-for-basic-proficiency-179o",
+   "date": "2026-06-22T22:16:08+00:00",
+   "summary": "Introduction to Prolog   Prolog, a logic programming language, stands apart from mainstream...",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Brutal Truth About Programming Languages in 2026: Which Ones Will Break You and Which Ones Won't",
+   "url": "https://dev.to/marketingwithinzuoo/the-brutal-truth-about-programming-languages-in-2026-which-ones-will-break-you-and-which-ones-wont-2hgm",
+   "date": "2026-06-22T04:53:33+00:00",
+   "summary": "I have spent a good amount of time working at the intersection of technology and digital marketing....",
+   "points": 1,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Deterministic(ally) compiled Prolog: Detlog",
+   "url": "https://dev.to/luciangreen/deterministically-compiled-prolog-detlog-4lp0",
+   "date": "2026-06-12T08:49:41+00:00",
+   "summary": "A converter removes nondeterminism",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Double Pendulum Chaos Simulator in Prolog",
+   "url": "https://dev.to/mohammadijoo/building-a-double-pendulum-chaos-simulator-in-prolog-88j",
+   "date": "2026-06-08T13:27:36+00:00",
+   "summary": "Most developers know Prolog as a language for symbolic reasoning, expert systems, search, theorem...",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "O(1) is the simplest complexity that Prolog Optimisation results in",
+   "url": "https://dev.to/luciangreen/o1-is-the-simplest-complexity-that-prolog-optimisation-results-in-1430",
+   "date": "2026-05-26T01:24:53+00:00",
+   "summary": "O(1) is the simplest complexity that Prolog Optimisation results in",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding Prolog Coding Ho…",
+   "url": "https://dev.to/norviktech/understanding-prolog-coding-ho-238j",
+   "date": "2026-05-21T15:06:40+00:00",
+   "summary": "Originally published at norvik.tech            Introduction   Explore the intricacies of Prolog...",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Ancient Logic Meets Early AI: The Surprising Parallels Between Prolog and Sanskrit - Engineers of Bharat, wake up and embrace Sanskrit",
+   "url": "https://dev.to/sommukhopadhyay/ancient-logic-meets-early-ai-the-surprising-parallels-between-prolog-and-sanskrit-engineers-of-4eaj",
+   "date": "2026-04-30T03:48:00+00:00",
+   "summary": "When we think about Artificial Intelligence, we usually picture modern neural networks, GPUs, and...",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How do pl2js and Tau Prolog compare?",
+   "url": "https://dev.to/luciangreen/how-do-pl2js-and-tau-prolog-compare-6a",
+   "date": "2026-03-30T14:04:41+00:00",
+   "summary": "pl2js is a translator and is faster than the Tau interpreter",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GetzenRodeo 2025 | Hard Enduro Training & Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSFZJTmpCVmZZdVVQMGpkb1JBeDJsRWdpOUx5dVFDa2tQR0RycW9mVnFjdkNfSkxXaFRYRGFNN0g5UVE1aDg3SFBncmg3UVBrbUJCdzRn?oc=5",
+   "date": "2025-11-30T12:00:54+00:00",
+   "summary": "GetzenRodeo 2025 | Hard Enduro Training & Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog-MCP Server: Neuro-Symbolic AI for Modern Workflows",
+   "url": "https://dev.to/adamrybinski/prolog-mcp-server-neurosymbolic-ai-for-modern-workflows-3e35",
+   "date": "2025-04-19T08:00:28+00:00",
+   "summary": "What is Neuro-Symbolic AI?   Neuro-Symbolic AI represents a convergence of symbolic...",
+   "points": 13,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "تعلم لغة الـ Learn Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QMHRLb2ZYSDd5UWN3d2JUX2drTjk5dDU5bEZXemZvUm91RHg5ZHpyOFMzbFRJWDBBZW56cHJ5cU5DWm9WTUV0bFRuMVlYamtENWx4eGl3?oc=5",
+   "date": "2025-04-04T12:08:02+00:00",
+   "summary": "تعلم لغة الـ Learn Prolog YouTube",
+   "tech": "prolog",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Professional Programmer Proves Prolog Prolongs Productivity",
+   "url": "https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9",
+   "date": "2025-04-01T11:03:23+00:00",
+   "summary": "At least... probably 🙃    productive(X) :- not(takes_breaks(X)). takes_breaks(X) :-...",
+   "points": 3,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog Tutorial 2: Lists – Membership, Decomposition, and Anonymous Variables, York University",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tNE5JLTY2eTEwbnpKVUpYTW5CU0FfSHpPOER5eEgyd1VJVXJXa252dzNZN3RQWnJPRVRsd1E3aTRuVmNwYmpVZVVid3NzRlRDR2hNNVpR?oc=5",
+   "date": "2025-01-31T02:47:51+00:00",
+   "summary": "Prolog Tutorial 2: Lists – Membership, Decomposition, and Anonymous Variables, York University youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog Tutorial 1: Basics and Fundamentals, York University",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44YUV6b1picE0zaWpvMFphRTlVREQzQWlDTFJ3ZXlMZ2xjVFZaMWVHMHlmY1JHbHUwaTZrbFVpLTdPWE5kWWswU1c0TUxtR2JBQXFIR0J3?oc=5",
+   "date": "2025-01-31T02:42:09+00:00",
+   "summary": "Prolog Tutorial 1: Basics and Fundamentals, York University youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog first steps: predicates, metapredicates, lambdas",
+   "url": "https://dev.to/escribapetrus/prolog-first-steps-predicates-metapredicates-lambdas-47md",
+   "date": "2024-06-30T00:11:24+00:00",
+   "summary": "I first became interested in Prolog after I watched a talk by Joe Armstrong, creator of Erlang, in...",
+   "points": 4,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Becoming a Figma Pro: Mastering the Leading Design Tool",
+   "url": "https://dev.to/attaelahi/becoming-a-figma-pro-mastering-the-leading-design-tool-514l",
+   "date": "2024-05-03T11:38:39+00:00",
+   "summary": "Whether you're a seasoned designer or just starting out, gaining proficiency in Figma can be a...",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Learn To Code // Code To Learn - The Prolog Programming Language - What I Have Learned So Far",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJT3pqcTJRNGNqT0ViTGxnNmNwQlVaSldPMXlMZ1JheG1LQm9BejUyX3JCbmRGYmdIQTNZZFlEa0FsVzQyekpBejAtb1dpTGhyWmJyaGJB?oc=5",
+   "date": "2024-04-30T03:00:25+00:00",
+   "summary": "Learn To Code // Code To Learn - The Prolog Programming Language - What I Have Learned So Far youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog: Writing a Server-side App in WebAssembly using Spin",
+   "url": "https://dev.to/technosophos/prolog-writing-a-server-side-app-in-webassembly-using-spin-29nj",
+   "date": "2023-10-31T19:34:05+00:00",
+   "summary": "This post walks through creating a simple Prolog serverless function. Prolog is a logic-oriented...",
+   "points": 6,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Model business logic in Prolog",
+   "url": "https://dev.to/europeanplaice/model-business-logic-in-prolog-2ifb",
+   "date": "2023-07-01T14:42:06+00:00",
+   "summary": "Prolog is a logic programming language that offers a concise approach to modeling systems with...",
+   "points": 0,
+   "tech": "prolog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Brief Introduction to Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZM0kyVllvVmFhdHNzRnlmT05KU2VyTDVZUDM2RDV5d3VIY0VSamZYWGJUOU51RzEzbTlYano4OTJfMzNjbjdyeEJqUFNlc3Z6R3lTRkRn?oc=5",
+   "date": "2023-06-26T18:36:00+00:00",
+   "summary": "A Brief Introduction to Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "(Lec-68) Prolog (Programming Logic) - Part 1 | AI বাংলা টিউটোরিয়াল",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbjRSMHVYMWM4SzZVamxjX2F6bW5XWGo2RzZrQXRYeFU4MjRNekNLalc4R0dSMHgwUmNnYWJRcEx6a25faWtab3NlWnpKdG1ZQWgxeGdn?oc=5",
+   "date": "2022-09-24T13:33:00+00:00",
+   "summary": "(Lec-68) Prolog (Programming Logic) - Part 1 | AI বাংলা টিউটোরিয়াল youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog: Programming in Logic",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcXpvcUdEWnFwNllDZUNRaXZNdnl2U3NZZ01kSHBoYlBOY2I2cW5TMVcxdmtFbFFYOE1neXZna21QR0RxbGxocGV1ZzNVeGZpVDV3UzdB?oc=5",
+   "date": "2022-04-27T10:17:29+00:00",
+   "summary": "Prolog: Programming in Logic youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog installation tutorial - Mac OS",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmSzlBRWFYTEtDaGdRaWdId1pESDU3bkpxV3A3MkVFRHItQmFad2VjUGNreWVTRlEzeldaVHVocXo0bWNxRVYyZ2lvaWFZTnZ5anVXZzZB?oc=5",
+   "date": "2022-02-25T20:32:50+00:00",
+   "summary": "Prolog installation tutorial - Mac OS youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog :: lesson 1 - Introduction - Logical Programming Course | برولوغ - المقدمة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUHREZmJSSjFfdXR5U0w2T0xkOXhfT2NDd2E5eVdlTWtYQmFxZHJkWEVaRmdEUTdPUUROVVNWT3FjYVkwQjZUdnQ2Q2dpZ0xJSEd5SWZ3?oc=5",
+   "date": "2021-12-11T22:26:34+00:00",
+   "summary": "Prolog :: lesson 1 - Introduction - Logical Programming Course | برولوغ - المقدمة YouTube",
+   "tech": "prolog",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Quick Introduction to Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PeFpFLWRtOEpzOTRCbzBkZm40U2FNS2I3RDVaemI1LUx0Nk10VFZReWYtZVRST0xVWXg4VWdSanBIU0JKWlFBd0gtRUhIZnV3alRtMk1n?oc=5",
+   "date": "2021-11-01T04:28:56+00:00",
+   "summary": "Quick Introduction to Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "depth first search in prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQzg1OWFrNzZtbGxTYTNERE1hMk01eHk5WjlOOHpVV3g5blZ4TGtFSml1RjZjQ2NTejFVQjI5MC0yM1kteXhFYjB2c0ZVTHE4SU80SG53?oc=5",
+   "date": "2021-06-25T01:03:40+00:00",
+   "summary": "depth first search in prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "2021 #1 🏄‍♀️Prolog from 0 - Full online lesson free!!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUXBtSnpDS1VwcVhYd3NFU010Rm9MQjNwbVJQcFpYYmRmM2tzWmVNeUkyVnEyalpZUnRQTUlhc3JEem4yeXBLR0MyQmY1TjdhVE50cFB3?oc=5",
+   "date": "2021-03-09T07:41:06+00:00",
+   "summary": "2021 #1 🏄‍♀️Prolog from 0 - Full online lesson free!! youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "AI Unit:14 Introduction to Prolog (Part-1)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SSkpnZlpZeHpMT3ROcERBMklGMkU1S2dSOGhrMUJ5WVJld0RydW9WMDV2SVI4QmhhbUh3alV1NHAyYUpXOE9RQVoyYllYVFFXaFkyVnNR?oc=5",
+   "date": "2021-03-05T07:21:08+00:00",
+   "summary": "AI Unit:14 Introduction to Prolog (Part-1) youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "التعريف بلغة البرولوغ || Introduction to prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1VDBlZGVTbWNwTW14OTdPMWd4bmp2ZkdUeFJzcjFTakxTcjhyNVY3S182TjktNTFhdVQxdmkwM2FmelFvTWdES2lvek5LM08tbEN4aV9R?oc=5",
+   "date": "2020-12-06T11:25:34+00:00",
+   "summary": "التعريف بلغة البرولوغ || Introduction to prolog YouTube",
+   "tech": "prolog",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Prolog Installation & use with Visual Studio Code | Write knowledge base & Query in3 different tools",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBZHl5UE9BSG1ZdWl5Q1hSM25BcktWd1FZUmhvY1l5MmRucW1YSkJUVmJSLVRGelgzdnoyakRudmVYb1BXQklDVThYZjJpOGpDdGt6OTFB?oc=5",
+   "date": "2020-11-24T22:39:49+00:00",
+   "summary": "Prolog Installation & use with Visual Studio Code | Write knowledge base & Query in3 different tools youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Curso Básico de Prolog : 2 - Primer Programa",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvdGpxUFZuQWJzNS0xUUZlOG9GT1BaQUNDU2VBRGhnUDVfSWF4bFRjb21IXzNIZWtORzBCaHVyRWZMaDl3VzJiSHd0dGZxMmRyVUlZRHR3?oc=5",
+   "date": "2020-05-21T01:06:42+00:00",
+   "summary": "Curso Básico de Prolog : 2 - Primer Programa youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "برولوغ || البرمجة المنطقية || Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xMEdKWDVzMmVpc3hKSlRlNGhpUmhyXzZIaHpZelEtRE95UWM4MHhRYWd1NGFtWW5Bc2lZQmMxLTFZSFlENVhyQzVodGwwdDM0NHRpRUZn?oc=5",
+   "date": "2020-03-06T18:08:30+00:00",
+   "summary": "برولوغ || البرمجة المنطقية || Prolog YouTube",
+   "tech": "prolog",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "School Timetabling with Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XXzlqdlZQUzVuX0xlSEFLQmozeUtJS214elhzQ2RDdzdfV1VOMlVZZm5LLVltclhZbDNMdkRzMnFxS05Za2dOd3dHT0NFZm5Iazh2M0Jn?oc=5",
+   "date": "2020-01-02T09:55:03+00:00",
+   "summary": "School Timetabling with Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog Beginner's Tutorial: \"Compiling\" Your First Prolog Program using GNU Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRZFFFMW1uYUhjbmtEeU1hNzZfQUFLY1R6enRFVFcwVk1EbU05SGdyUFc3TVRHTHBwSHBndDN4UGJCUnJGZF9XcE5oOFowQWJ4WTJWN1J3?oc=5",
+   "date": "2019-11-25T09:26:34+00:00",
+   "summary": "Prolog Beginner's Tutorial: \"Compiling\" Your First Prolog Program using GNU Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog Tutorial Bangla - 3 | Facts, Rules and Clauses",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WaGNTc1BheEtXbUFsTmZfbmx1c3hwaVZQOFl6VHhRaF92aUh1VzFBdmdoTWtYWnZKeXBBbG5iMjEyS1V2c2NaaEhCQXZ6ZXgwelJTeDNn?oc=5",
+   "date": "2019-07-15T17:14:38+00:00",
+   "summary": "Prolog Tutorial Bangla - 3 | Facts, Rules and Clauses youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "learn prolog now 5.1 Arithmetic in Prolog العمليات الحسابية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuNGJyUUpBal9CNHQ1QlN2M1ozaE4yaXg1U0xDQWVrR2VRVGRiMjhSSkdaZmU0Y1dkWkdaeWlnbFM5dVYzUTZvaTBjRzVRUFZpRFhNYXF3?oc=5",
+   "date": "2018-09-21T12:58:43+00:00",
+   "summary": "learn prolog now 5.1 Arithmetic in Prolog العمليات الحسابية YouTube",
+   "tech": "prolog",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Crash Course in Prolog Programming (Explanation in Hindi)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DSnBIM2RzOFlEWFdDclY0bGxCb2JyU1VXa2ljMUxpTWtsbHpzMFZiaVhreWJYdTZYMmZGanlXNDdBY1ZOaW85cUhlN2czNUpjRWVlWWx3?oc=5",
+   "date": "2018-09-11T06:04:38+00:00",
+   "summary": "Crash Course in Prolog Programming (Explanation in Hindi) youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Welcome to HEBREW on DVD | Prolog.co.il 3421 2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTzZGM1h3ZF83OFRSNWhSTGhlVU5jOUdhY2dISTVUcFZKMm1PalZCa3A0RmluUjlfV1h2OUw5MmVUVEZBYXZaRWtTTlJITWtaRklqdlhn?oc=5",
+   "date": "2018-05-24T13:08:01+00:00",
+   "summary": "Welcome to HEBREW on DVD | Prolog.co.il 3421 2 youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog - Input Output Handling Using a Data File in Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50RVFfZm9NUThvMnRvVDRodDI4QjQtM3NhcXk2Y2lXSHNoVkdvVHhHTkU5bWhGc0ZPRDZkSEZGVS1KTkZ6Y1FRSzFJZWlMWXYxWnd0aHpn?oc=5",
+   "date": "2018-02-19T09:36:18+00:00",
+   "summary": "Prolog - Input Output Handling Using a Data File in Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog - List Operations To Find N-th Number",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WnAwM1FTY0x5dng1UzBieGZ1RDNmWWFDdkM4OHhmQ2ZNd01GYWQ4a3ZoOWRaUktiTFRyNWMxRk1oUzhwWHhQeGpzdk9pQkktUzQ5aC1B?oc=5",
+   "date": "2018-02-19T09:03:45+00:00",
+   "summary": "Prolog - List Operations To Find N-th Number youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog - List Operations Concatenation",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJMThuZndUSUp0M2lXY1pxUEJuU1pQNC1EY3lweXM0bktZVldrZjRhejJqQlVLMHV3alQ2TzM3T1doVHFtbE1uQjZHVzBqUGRMT0JsbG13?oc=5",
+   "date": "2018-02-16T12:03:18+00:00",
+   "summary": "Prolog - List Operations Concatenation youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog - Monkey and Banana Problem in Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DRlpVXzZtTFpFbUVrS1ZJdlpuakJldjNRN2lNMmlxUzVYbVMyalpQdTByWl9ZbjJDUjZzNm5UckFfampkRUdwY19VRXBYUlB3WldhVlZn?oc=5",
+   "date": "2018-02-16T11:57:45+00:00",
+   "summary": "Prolog - Monkey and Banana Problem in Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog - Programming Facts, Rules, Queries",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHNmxkSGlRZDhpRnVIZVhEbXVnUmMxNnpjZC13Ry1pTXVFM0ZaQTllbHlWUGZCNDJ5aUV0ZnFIUWxBM0hseHVrQjdUT0REWHR6c3hiY0N3?oc=5",
+   "date": "2018-02-16T11:22:53+00:00",
+   "summary": "Prolog - Programming Facts, Rules, Queries youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog - Applications of Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94aFIwLVZJUU1odzEzSXFjUGpsV3Q5N01hWFZ5RXIzSThQSl90QlByTGhSek91bXlEWmp0Z19kTHBiS1R2YlV6SlhDSVBFUk94Nm5rbFVB?oc=5",
+   "date": "2018-02-16T10:18:56+00:00",
+   "summary": "Prolog - Applications of Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "PROLOG Tutorials",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85Zkc5bmRkUnk0ZFhybmJDMnUydlQyODMyOEg1dnp5UmFvb1JZbWFWdWYxbGtOZHBER2lSWW1Xb2JHb3F2dnVTMWFLckt5LTNNUDREME4teFVUenRqVWx2WUJxeElVV2VwTFVnaHNjM0c3bThBU0p3eVV3YWQ?oc=5",
+   "date": "2018-02-01T17:34:12+00:00",
+   "summary": "PROLOG Tutorials youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog Language in Urdu/Hindi",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fcG5RLURpZVh6MnhZVXBiMkNUa2REWEd4M0JMNnlFS2hZLUlQdi1aZGR5YWVtU3k2M1ROYUxSTDlqMmVDWE55SlBmX3g2NzVqbllIN3d2eGJYVi1hZElGTHRnQkdkdkFnaDV0eFFtbTNoaXdQc0xrVUs4UzQ?oc=5",
+   "date": "2017-08-13T15:08:57+00:00",
+   "summary": "Prolog Language in Urdu/Hindi youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Prolog Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9COVNLWV8zUzlDTW93alJKS2pGVkMzak9LMDYyeE9tUGwzWnFIX0psSUtpZXRSUVZ3YXU1bUZ2YWo5OE5VVE9jaUJvd0pGVW9Tbm85aVpR?oc=5",
+   "date": "2015-08-13T02:11:10+00:00",
+   "summary": "Prolog Tutorial youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Logic Programming - Prolog - برمجة منطقية",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fMENvN3VnLWg0Ni1zUVRidm13NlcxQkJzR0UwOXRrdk9WZ1lRR1Y0TXZnZmlNY2NfZDNINmxoZkZOWUphN0tNNWlnR0p4MHM2VkNPWktYZ1dGU29yMDVwci1fRHJCdnVjaVd4UTRia0g0eTJicFhXZVo2V3o?oc=5",
+   "date": "2015-02-16T18:13:23+00:00",
+   "summary": "Logic Programming - Prolog - برمجة منطقية YouTube",
+   "tech": "prolog",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "[Arabic] Prolog / Introduction",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rUmdXWjhDeGJER3hWQy1DVkFabi01QWdmeUliZXVaRUJtVjVxZF9XcklzS0dkQW9yRC0xdU9ua2JvcnBSSnY5dGFSRWFBOWRiSmlwbjFR?oc=5",
+   "date": "2013-08-01T13:56:52+00:00",
+   "summary": "[Arabic] Prolog / Introduction YouTube",
+   "tech": "prolog",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "HEBREW let's speak! - (Hebrew for English speakers) (3431) | PROLOG",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yYXh0T08zeFBfNU43WnpnRWk3cW1BWkltclBHcHpIYnh6VHJINDdXYnRGSG5lRkdHeUZOMWh4d2sxQ0JUdjY0YlFkako0SXNsZTZUUzFR?oc=5",
+   "date": "2012-03-24T17:04:23+00:00",
+   "summary": "HEBREW let's speak! - (Hebrew for English speakers) (3431) | PROLOG youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Lecture - 13 Logic Programming : Prolog",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TcHowNDNkZ3NGNG5LZV9zcTRPVlVpZm1rNmxKNjlYNXNxT2g5SW15RldnZEpVaFBHTWRNRGlXM3ZseEViTjZaeHNyNThwc1gxbkJ0cXZB?oc=5",
+   "date": "2008-04-30T07:27:17+00:00",
+   "summary": "Lecture - 13 Logic Programming : Prolog youtube.com",
+   "tech": "prolog",
+   "sourceId": "yt",
+   "source": "youtube.com",
+   "lang": "en"
+  }
+ ]
+}
