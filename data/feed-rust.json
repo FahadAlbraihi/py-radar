@@ -1,38 +1,14 @@
 {
- "generated": "2026-08-14T19:29:24.507963+00:00",
+ "generated": "2026-08-14T20:06:11.549268+00:00",
  "tech": "rust",
- "count": 126,
+ "count": 152,
  "items": [
-  {
-   "title": "openai/codex",
-   "url": "https://github.com/openai/codex",
-   "date": "2026-08-14T19:28:59+00:00",
-   "summary": "Lightweight coding agent that runs in your terminal",
-   "points": 105966,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "oven-sh/bun",
    "url": "https://github.com/oven-sh/bun",
-   "date": "2026-08-14T19:28:57+00:00",
+   "date": "2026-08-14T20:05:10+00:00",
    "summary": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-   "points": 95423,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "zed-industries/zed",
-   "url": "https://github.com/zed-industries/zed",
-   "date": "2026-08-14T19:21:52+00:00",
-   "summary": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-   "points": 88632,
+   "points": 95422,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -42,9 +18,9 @@
   {
    "title": "astral-sh/uv",
    "url": "https://github.com/astral-sh/uv",
-   "date": "2026-08-14T19:20:37+00:00",
+   "date": "2026-08-14T20:04:28+00:00",
    "summary": "An extremely fast Python package and project manager, written in Rust.",
-   "points": 88756,
+   "points": 88755,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -52,10 +28,46 @@
    "kind": "news"
   },
   {
-   "title": "What You Gain by Building Your Own Game Engine",
-   "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-   "date": "2026-08-14T19:20:20+00:00",
-   "summary": "",
+   "title": "openai/codex",
+   "url": "https://github.com/openai/codex",
+   "date": "2026-08-14T20:04:24+00:00",
+   "summary": "Lightweight coding agent that runs in your terminal",
+   "points": 105967,
+   "tech": "rust",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "zed-industries/zed",
+   "url": "https://github.com/zed-industries/zed",
+   "date": "2026-08-14T19:56:56+00:00",
+   "summary": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+   "points": 88630,
+   "tech": "rust",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "openinterpreter/openinterpreter",
+   "url": "https://github.com/openinterpreter/openinterpreter",
+   "date": "2026-08-14T19:56:23+00:00",
+   "summary": "A coding agent for open models like Kimi K3",
+   "points": 68023,
+   "tech": "rust",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "Would you join an adults only social media site?",
+   "url": "https://news.ycombinator.com/item?id=49303768",
+   "date": "2026-08-14T19:51:24+00:00",
+   "summary": "Just asking before I create one.",
    "points": 1,
    "tech": "rust",
    "sourceId": "hn",
@@ -63,9 +75,30 @@
    "lang": "en"
   },
   {
+   "title": "Be honest: When was the last time you cleaned up obsolete code from your repos?",
+   "url": "https://news.ycombinator.com/item?id=49303688",
+   "date": "2026-08-14T19:45:33+00:00",
+   "summary": "I just had a chat with a buddy who invested in a startup buying up obsolete code. The use case is there, Github and other repos contain 10+% of obsolete code which no one ever deletes and it costs a b",
+   "points": 2,
+   "tech": "rust",
+   "sourceId": "hn",
+   "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "[Project] VulnScanner - Scanner de vulnerabilidades em Rust (15 tipos, WAF Bypass, API REST)",
+   "url": "https://www.reddit.com/r/rust/comments/1vohfj7/project_vulnscanner_scanner_de_vulnerabilidades/",
+   "date": "2026-08-14T19:45:15+00:00",
+   "summary": "Hey r/rust ! I built a multi-type vulnerability scanner in Rust and wanted to share some technical details. **What it does:** - Detects 15 vulnerability types: SQLi, XSS, LFI, SSTI, SSRF, CSRF, XXE, IDOR, Race Conditions, API REST, GraphQL,",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "warpdotdev/warp",
    "url": "https://github.com/warpdotdev/warp",
-   "date": "2026-08-14T19:18:53+00:00",
+   "date": "2026-08-14T19:44:44+00:00",
    "summary": "Warp is an agentic development environment, born out of the terminal.",
    "points": 64218,
    "tech": "rust",
@@ -75,11 +108,75 @@
    "kind": "news"
   },
   {
+   "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
+   "url": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
+   "date": "2026-08-14T19:36:18+00:00",
+   "summary": "",
+   "points": 11,
+   "tech": "rust",
+   "sourceId": "hn",
+   "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "rust-lang/rust",
+   "url": "https://github.com/rust-lang/rust",
+   "date": "2026-08-14T19:35:21+00:00",
+   "summary": "Empowering everyone to build reliable and efficient software.",
+   "points": 115506,
+   "tech": "rust",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "[Project] VulnScanner - A multi-type vulnerability scanner written in Rust",
+   "url": "https://www.reddit.com/r/rust/comments/1voh5oa/project_vulnscanner_a_multitype_vulnerability/",
+   "date": "2026-08-14T19:34:59+00:00",
+   "summary": "Hey r/rust ! I ve been working on a vulnerability scanner written in Rust and just released v1.0.0! **What it does:** - 15 vulnerability types: SQLi, XSS, LFI, SSTI, SSRF, CSRF, XXE, IDOR, Race Conditions, API REST, GraphQL, NoSQL, Command ",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "Configuration management engine as a library - module system for a compiled language ?",
+   "url": "https://www.reddit.com/r/rust/comments/1voh522/configuration_management_engine_as_a_library/",
+   "date": "2026-08-14T19:34:20+00:00",
+   "summary": "Hi all, I started this project a while ago : https://github.com/regent-project/regent-sdk First I was looking for a Rust alternative to Ansible, so I began to look into jetporch but it was abandoned by the creator. Then I began to write my ",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "What You Gain by Building Your Own Game Engine",
+   "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+   "date": "2026-08-14T19:20:20+00:00",
+   "summary": "",
+   "points": 2,
+   "tech": "rust",
+   "sourceId": "hn",
+   "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Crates discord server",
+   "url": "https://www.reddit.com/r/rust/comments/1vogfh2/crates_discord_server/",
+   "date": "2026-08-14T19:07:50+00:00",
+   "summary": "There was a discord server for some crates together like sqlx and askama … etc I was joining before But I lost it Can’t find in google Any help? submitted by /u/HosMercury [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "Show HN: Mole – Deep research agent for your terminal",
    "url": "https://github.com/lajosdeme/mole",
    "date": "2026-08-14T18:52:48+00:00",
    "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident. And if you want to run some research",
-   "points": 8,
+   "points": 12,
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
@@ -90,7 +187,7 @@
    "url": "https://github.com/ruvnet/RuView",
    "date": "2026-08-14T18:21:48+00:00",
    "summary": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-   "points": 90068,
+   "points": 90070,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -113,7 +210,7 @@
    "url": "https://github.com/denoland/deno",
    "date": "2026-08-14T18:00:32+00:00",
    "summary": "A modern runtime for JavaScript and TypeScript.",
-   "points": 108256,
+   "points": 108255,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -125,7 +222,7 @@
    "url": "https://github.com/rust-unofficial/awesome-rust",
    "date": "2026-08-14T17:56:17+00:00",
    "summary": "A curated list of Rust code and resources.",
-   "points": 58836,
+   "points": 58834,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -155,6 +252,16 @@
    "lang": "en"
   },
   {
+   "title": "Anyone going to Rust Conf this year that wants to meet?",
+   "url": "https://www.reddit.com/r/rust/comments/1vody3r/anyone_going_to_rust_conf_this_year_that_wants_to/",
+   "date": "2026-08-14T17:38:33+00:00",
+   "summary": "submitted by /u/Embeeded-AriannaCook [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "CFPB to Stop Posting Customer Narratives on Complaint Database",
    "url": "https://news.bloomberglaw.com/banking-law/cfpb-to-stop-posting-customer-narratives-on-complaint-database",
    "date": "2026-08-14T17:18:04+00:00",
@@ -164,18 +271,6 @@
    "sourceId": "hn",
    "source": "Hacker News",
    "lang": "en"
-  },
-  {
-   "title": "rust-lang/rust",
-   "url": "https://github.com/rust-lang/rust",
-   "date": "2026-08-14T17:11:30+00:00",
-   "summary": "Empowering everyone to build reliable and efficient software.",
-   "points": 115506,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "MSCI Gave SpaceX an ESG Score Matching Wartime Russia",
@@ -193,7 +288,7 @@
    "url": "https://github.com/rustdesk/rustdesk",
    "date": "2026-08-14T17:04:14+00:00",
    "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-   "points": 120574,
+   "points": 120588,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -216,7 +311,7 @@
    "url": "https://github.com/starship/starship",
    "date": "2026-08-14T16:45:13+00:00",
    "summary": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-   "points": 59408,
+   "points": 59405,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -228,7 +323,7 @@
    "url": "https://luacad.ad-si.com",
    "date": "2026-08-14T16:43:22+00:00",
    "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a desktop app, including a preview area and a text",
-   "points": 38,
+   "points": 45,
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
@@ -239,7 +334,7 @@
    "url": "https://github.com/farion1231/cc-switch",
    "date": "2026-08-14T16:32:54+00:00",
    "summary": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-   "points": 127277,
+   "points": 127279,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -262,7 +357,7 @@
    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
    "date": "2026-08-14T16:12:52+00:00",
    "summary": "",
-   "points": 116,
+   "points": 133,
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
@@ -299,6 +394,16 @@
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "UART Communication Between ESP32 and Raspberry Pi Pico in Rust",
+   "url": "https://www.reddit.com/r/rust/comments/1voatav/uart_communication_between_esp32_and_raspberry_pi/",
+   "date": "2026-08-14T15:43:51+00:00",
+   "summary": "A few months ago, someone sought help setting up communication between an ESP32-C3 and the Raspberry Pi Pico using UART in Embedded Rust. I tried to help by testing UART communication myself and confirming that it worked. I thought of writi",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -368,18 +473,6 @@
    "lang": "en"
   },
   {
-   "title": "openinterpreter/openinterpreter",
-   "url": "https://github.com/openinterpreter/openinterpreter",
-   "date": "2026-08-14T14:50:22+00:00",
-   "summary": "A coding agent for open models like Kimi K3",
-   "points": 68023,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Apple trained its own AI model for China with help from Alibaba",
    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
    "date": "2026-08-14T14:49:43+00:00",
@@ -395,7 +488,7 @@
    "url": "https://github.com/FuelLabs/sway",
    "date": "2026-08-14T14:48:39+00:00",
    "summary": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
-   "points": 61510,
+   "points": 61509,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -414,6 +507,16 @@
    "lang": "en"
   },
   {
+   "title": "tower-rate-limiter: keyed rate limiting middleware for Tower and Axum",
+   "url": "https://www.reddit.com/r/rust/comments/1vo8uvu/towerratelimiter_keyed_rate_limiting_middleware/",
+   "date": "2026-08-14T14:29:59+00:00",
+   "summary": "Hi r/rust , I’ve been working on [tower-rate-limiter]( https://github.com/nivek-ph/tower-rate-limiter ), a keyed, fixed-window HTTP rate limiting middleware for Tower and Axum. Tower already provides global rate limiting for services, but H",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "Show HN: Opensourcing APH Engine and Servers in Rust and N Lang",
    "url": "https://github.com/squillo/aph",
    "date": "2026-08-14T14:25:29+00:00",
@@ -429,7 +532,7 @@
    "url": "https://e360.yale.edu/digest/australia-home-batteries",
    "date": "2026-08-14T14:07:52+00:00",
    "summary": "",
-   "points": 257,
+   "points": 270,
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
@@ -444,6 +547,16 @@
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "I get lost in uncertainty",
+   "url": "https://www.reddit.com/r/rust/comments/1vo82od/i_get_lost_in_uncertainty/",
+   "date": "2026-08-14T14:00:05+00:00",
+   "summary": "&#x200B; I m shrey vats. I used to work with nodejs ecosystem. Typescript was my primary language and that when I noticed I m not feeling interest in what I m doing and writing code. Then I realised my primary interest not in that stuff it ",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -484,7 +597,7 @@
    "url": "https://cqdb.io/",
    "date": "2026-08-14T13:27:56+00:00",
    "summary": "",
-   "points": 3,
+   "points": 5,
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
@@ -510,6 +623,16 @@
    "tech": "rust",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "What is the status of web development in rust (back-end/full-stack) for a newcomer?",
+   "url": "https://www.reddit.com/r/rust/comments/1vo70bz/what_is_the_status_of_web_development_in_rust/",
+   "date": "2026-08-14T13:15:53+00:00",
+   "summary": "I (a Dev of Django, Laravel, Svelte, also small toy-projects with Elm) want to dive into rust, and especially web dev using rust..so, beside learning the language, patterns, etc. my question is regarding the ecosystem and frameworks... Wher",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -583,7 +706,7 @@
    "url": "https://github.com/tauri-apps/tauri",
    "date": "2026-08-14T12:09:28+00:00",
    "summary": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
-   "points": 110232,
+   "points": 110231,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -591,36 +714,23 @@
    "kind": "news"
   },
   {
-   "title": "React Context is good, it's just that useContext is bad",
-   "url": "https://www.youtube.com/watch?v=F0agoh-Qlwo",
-   "date": "2026-08-14T11:46:25+00:00",
-   "summary": "",
-   "points": 1,
+   "title": "goyda: cross-platform ui toolkit",
+   "url": "https://www.reddit.com/r/rust/comments/1vo4njv/goyda_crossplatform_ui_toolkit/",
+   "date": "2026-08-14T11:29:18+00:00",
+   "summary": "i built reactive framework in rust. instead of flutter it uses native rendering on every platform (not custom, like flutter does) so it apps look as native as possible also, it uses proc macro to make your code reactive. you wrote code with",
    "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
-   "title": "Ask HN: Does AI watermarking present a new attack vector?",
-   "url": "https://news.ycombinator.com/item?id=49297267",
-   "date": "2026-08-14T11:20:01+00:00",
-   "summary": "One thing I have not been able to determine from Claude&#x27;s documentation on watermarking[0] is what kind of metadata they store in association with a given watermark. Ostensibly they could make th",
-   "points": 4,
+   "title": "Rust in Biomedical Devices?",
+   "url": "https://www.reddit.com/r/rust/comments/1vo4hw9/rust_in_biomedical_devices/",
+   "date": "2026-08-14T11:21:03+00:00",
+   "summary": "Hi yall, recently started learning rust for funzies and absolutely love the language. However I’m also considering trying to pivot into using it with my work in microscale biomedical implanted devices, as one of the biggest benefits it prov",
    "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: A macOS menu bar app showing Claude subscription usage",
-   "url": "https://github.com/palamim/usagent",
-   "date": "2026-08-14T11:00:51+00:00",
-   "summary": "i use multiple Claude products, and i constantly check my usage limits, but there was never an instant way to do it. i kept opening claude ai settings usage or hitting &#x2F;usage in the cli. i wanted",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -628,7 +738,7 @@
    "url": "https://github.com/meilisearch/meilisearch",
    "date": "2026-08-14T09:38:01+00:00",
    "summary": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-   "points": 58964,
+   "points": 58963,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -669,6 +779,36 @@
    "lang": "en"
   },
   {
+   "title": "Question about Send and Sync traits",
+   "url": "https://www.reddit.com/r/rust/comments/1vnx10e/question_about_send_and_sync_traits/",
+   "date": "2026-08-14T04:17:27+00:00",
+   "summary": "I am going through Rust atomics and locks book where it builds spin locks. Here is the structure: struct SpinLock T { locked: AtomicBool, value: UnsafeCell T , } unsafe impl T Sync for SpinLock T where T: Send {} Now I see the documentation",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "PicStat: small tool to understand your most frequently used camera settings and gear",
+   "url": "https://www.reddit.com/r/rust/comments/1vno247/picstat_small_tool_to_understand_your_most/",
+   "date": "2026-08-13T21:33:57+00:00",
+   "summary": "Hi! I wrote a small CLI tool to help visualize what camera settings and gear I use the most. I hope someone else finds it useful :p Code and downloads: https://github.com/m-demare/picstat submitted by /u/Mr_Dema [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "How is iced on windows?",
+   "url": "https://www.reddit.com/r/rust/comments/1vnki28/how_is_iced_on_windows/",
+   "date": "2026-08-13T19:20:23+00:00",
+   "summary": "Hey there! i was recently asking about whether should i choose iced or slint and made the decision to use iced and make a fun layer (with things that i like from slint like MCP etc.) but ive got a question, while iced is more popular than s",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "Why Rust is the Future of Systems Programming",
    "url": "https://dev.to/3ni8ma/why-rust-is-the-future-of-systems-programming-34a9",
    "date": "2026-08-13T18:38:06+00:00",
@@ -677,6 +817,36 @@
    "tech": "rust",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Yesterday's eclipse as seen from Spain, simulated in Ephemeris Explorer, built with Rust and Bevy.",
+   "url": "https://www.reddit.com/r/rust/comments/1vnhdxr/yesterdays_eclipse_as_seen_from_spain_simulated/",
+   "date": "2026-08-13T17:31:15+00:00",
+   "summary": "https://github.com/Canleskis/ephemeris-explorer To explain further what this video shows: this is the results of the solar system being simulated with Newtonian, point-mass gravity from 1st January 1950 to 12th August 2026. As you can see, ",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "What I learned securing Sniffnet with the GitHub Secure Open Source Fund",
+   "url": "https://www.reddit.com/r/rust/comments/1vng5pu/what_i_learned_securing_sniffnet_with_the_github/",
+   "date": "2026-08-13T16:47:20+00:00",
+   "summary": "Recently Sniffnet (the Rust-based network monitoring tool) completed the GitHub Secure Open Source Fund , a program focused on improving the security of widely used open-source projects. The program consists of an immersive 3-week sprint th",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "Announcing OxiSH: a modern, memory-safe SSH server",
+   "url": "https://www.reddit.com/r/rust/comments/1vne4tf/announcing_oxish_a_modern_memorysafe_ssh_server/",
+   "date": "2026-08-13T15:35:37+00:00",
+   "summary": "submitted by /u/dochtman [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -692,6 +862,26 @@
    "kind": "news"
   },
   {
+   "title": "How we've been improving Rust at Hexcat",
+   "url": "https://www.reddit.com/r/rust/comments/1vnc3yu/how_weve_been_improving_rust_at_hexcat/",
+   "date": "2026-08-13T14:21:37+00:00",
+   "summary": "Hexcat is a small company of seven people working to improve Rust itself. We decided to share our monthly updates not only with our clients/sponsors, but to also share them publicly on our website. submitted by /u/m-ou-se [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "Made a cake for my boyfriend’s birthday",
+   "url": "https://www.reddit.com/r/rust/comments/1vnc3sy/made_a_cake_for_my_boyfriends_birthday/",
+   "date": "2026-08-13T14:21:26+00:00",
+   "summary": "I spent 40 minutes googling basic rust stuff to come up with the writing on a cake and I know it’s not 100% correct so don’t bully me please submitted by /u/pixiescurse [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "zhao-dbt-plan: a microbatch cascading time-window planner for dbt",
    "url": "https://dev.to/allenhori/zhao-dbt-plan-a-microbatch-cascading-time-window-planner-for-dbt-8pl",
    "date": "2026-08-13T13:07:24+00:00",
@@ -700,6 +890,16 @@
    "tech": "rust",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Announcing Apple App Store Server Library v6.0.0 — Faster, Simpler and Crypto Backend Agnostic",
+   "url": "https://www.reddit.com/r/rust/comments/1vna4lv/announcing_apple_app_store_server_library_v600/",
+   "date": "2026-08-13T13:03:19+00:00",
+   "summary": "We ve reached another significant milestone with our Rust implementation of the App Store Server Library. The latest release has full feature parity with Apple s official libraries and some extras, such as a client for the Advanced Commerce",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -725,6 +925,36 @@
    "lang": "en"
   },
   {
+   "title": "Rust on the JVM now passes >99% of official upstream tests after adding full unsafe pointer arithmetic support (Repo + details in comments)",
+   "url": "https://www.reddit.com/r/rust/comments/1vn95fs/rust_on_the_jvm_now_passes_99_of_official/",
+   "date": "2026-08-13T12:20:30+00:00",
+   "summary": "https://preview.redd.it/yxi9t6ety4jh1.png?width=1918 format=png auto=webp s=0be1be97eafc60baeae7a1c0eaa8539ea8c58a14 submitted by /u/IntegralPilot [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
+   "url": "https://www.reddit.com/r/rust/comments/1vn7pmw/beyond_wasi_running_any_rust_application_in_the/",
+   "date": "2026-08-13T11:11:03+00:00",
+   "summary": "submitted by /u/vilgefortz91 [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
+   "title": "Memory ordering and atomics",
+   "url": "https://www.reddit.com/r/rust/comments/1vn3mnu/memory_ordering_and_atomics/",
+   "date": "2026-08-13T07:14:43+00:00",
+   "summary": "I am going through the book Rust atomics and locks. In the book it s mentioned that basic happens-before rule is that everything that happens within the same thread happens in order. But Acquire and Release memory model says that everything",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "I Was Tired of Losing Disk Space to node_modules - So I Built ArtifactSweep",
    "url": "https://dev.to/srinivasankk/i-was-tired-of-losing-disk-space-to-nodemodules-so-i-built-artifactsweep-438p",
    "date": "2026-08-13T06:40:00+00:00",
@@ -747,11 +977,21 @@
    "lang": "en"
   },
   {
+   "title": "This Week in Rust #664",
+   "url": "https://www.reddit.com/r/rust/comments/1vn1ttk/this_week_in_rust_664/",
+   "date": "2026-08-13T05:33:37+00:00",
+   "summary": "submitted by /u/kannanpalani54 [link] [التعليقات]",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
+   "lang": "en"
+  },
+  {
    "title": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "date": "2026-08-13T00:14:17+00:00",
    "summary": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "points": 76164,
+   "points": 76167,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -840,7 +1080,7 @@
    "url": "https://github.com/sharkdp/bat",
    "date": "2026-08-11T14:39:20+00:00",
    "summary": "A cat(1) clone with wings.",
-   "points": 60242,
+   "points": 60240,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -890,6 +1130,16 @@
    "tech": "rust",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Hey Rustaceans! Got a question? Ask here (33/2026)!",
+   "url": "https://www.reddit.com/r/rust/comments/1vkv7bg/hey_rustaceans_got_a_question_ask_here_332026/",
+   "date": "2026-08-10T19:46:19+00:00",
+   "summary": "Mystified about strings? Borrow checker has you in a headlock? Seek help here! There are no stupid questions, only docs that haven t been written yet. Please note that if you include code examples to e.g. show a compiler error or surprising",
+   "tech": "rust",
+   "sourceId": "reddit",
+   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -951,7 +1201,7 @@
    "url": "https://github.com/tw93/Pake",
    "date": "2026-08-08T13:24:03+00:00",
    "summary": "🤱🏻 Turn any webpage into a desktop app with one command.",
-   "points": 60708,
+   "points": 60710,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -973,7 +1223,7 @@
    "url": "https://github.com/ultraworkers/claw-code",
    "date": "2026-08-06T11:18:35+00:00",
    "summary": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-   "points": 195075,
+   "points": 195077,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -985,7 +1235,7 @@
    "url": "https://github.com/BurntSushi/ripgrep",
    "date": "2026-08-04T13:59:44+00:00",
    "summary": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-   "points": 67330,
+   "points": 67329,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -997,7 +1247,7 @@
    "url": "https://github.com/alacritty/alacritty",
    "date": "2026-08-03T08:50:06+00:00",
    "summary": "A cross-platform, OpenGL terminal emulator.",
-   "points": 65369,
+   "points": 65367,
    "tech": "rust",
    "sourceId": "github",
    "source": "GitHub",
@@ -1051,6 +1301,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UTXk0LXI1V3pjNGE0UnlKRWZ3Z3E2TW96V1JMamFqV1c4NjBYVFlKREdJS2xLOUNoY1ZYUElnZngzNXlNcnp6ZFpaM1QxbXBEc25Sdmp3?oc=5",
    "date": "2026-05-07T09:44:37+00:00",
    "summary": "ابدأ مع لغة Rust: من الصفر إلى أول لعبة لك! YouTube",
+   "tech": "rust",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "بدأت من الصفر في Rust… أول يوم كان كارثة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zX0VCcWdZbzBqSzE5OUJuQjltZFZodTlURU56bmlRWVdTRjVSNmR3V3lYY3VBN3REY0ZRelBLQzFUNlNRZFVaSlIxa1dEVmZOMVdDc2d3?oc=5",
+   "date": "2026-04-19T15:00:23+00:00",
+   "summary": "بدأت من الصفر في Rust… أول يوم كان كارثة YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
    "source": "YouTube",

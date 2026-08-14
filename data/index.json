@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14T19:29:57.965580+00:00",
+ "generated": "2026-08-14T20:10:18.363924+00:00",
  "techs": [
   {
    "id": "python",
@@ -35,7 +35,43 @@
   },
   {
    "id": "bash",
-   "name": "Bash / Shell"
+   "name": "الطرفية و Bash"
+  },
+  {
+   "id": "csharp",
+   "name": "‏#C و‏.NET"
+  },
+  {
+   "id": "php",
+   "name": "PHP"
+  },
+  {
+   "id": "ruby",
+   "name": "Ruby"
+  },
+  {
+   "id": "swift",
+   "name": "Swift للآيفون"
+  },
+  {
+   "id": "kotlin",
+   "name": "Kotlin للأندرويد"
+  },
+  {
+   "id": "flutter",
+   "name": "Flutter"
+  },
+  {
+   "id": "windows",
+   "name": "ويندوز و PowerShell"
+  },
+  {
+   "id": "linux",
+   "name": "لينكس وتوزيعاته"
+  },
+  {
+   "id": "kali",
+   "name": "كالي وأدوات الاختراق"
   }
  ]
 }

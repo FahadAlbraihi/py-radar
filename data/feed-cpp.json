@@ -1,24 +1,12 @@
 {
- "generated": "2026-08-14T19:28:46.823835+00:00",
+ "generated": "2026-08-14T20:04:40.034172+00:00",
  "tech": "cpp",
- "count": 210,
+ "count": 218,
  "items": [
-  {
-   "title": "tensorflow/tensorflow",
-   "url": "https://github.com/tensorflow/tensorflow",
-   "date": "2026-08-14T19:28:10+00:00",
-   "summary": "An Open Source Machine Learning Framework for Everyone",
-   "points": 197026,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "ClickHouse/ClickHouse",
    "url": "https://github.com/ClickHouse/ClickHouse",
-   "date": "2026-08-14T19:24:16+00:00",
+   "date": "2026-08-14T20:03:56+00:00",
    "summary": "ClickHouse® is a real-time analytics database management system",
    "points": 49250,
    "tech": "cpp",
@@ -28,9 +16,21 @@
    "kind": "news"
   },
   {
+   "title": "bitcoin/bitcoin",
+   "url": "https://github.com/bitcoin/bitcoin",
+   "date": "2026-08-14T20:01:48+00:00",
+   "summary": "Bitcoin Core integration/staging tree",
+   "points": 89895,
+   "tech": "cpp",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
    "title": "protocolbuffers/protobuf",
    "url": "https://github.com/protocolbuffers/protobuf",
-   "date": "2026-08-14T19:22:24+00:00",
+   "date": "2026-08-14T19:54:20+00:00",
    "summary": "Protocol Buffers - Google's data interchange format",
    "points": 71730,
    "tech": "cpp",
@@ -40,11 +40,11 @@
    "kind": "news"
   },
   {
-   "title": "ggml-org/llama.cpp",
-   "url": "https://github.com/ggml-org/llama.cpp",
-   "date": "2026-08-14T19:22:14+00:00",
-   "summary": "LLM inference in C/C++",
-   "points": 123926,
+   "title": "tensorflow/tensorflow",
+   "url": "https://github.com/tensorflow/tensorflow",
+   "date": "2026-08-14T19:52:06+00:00",
+   "summary": "An Open Source Machine Learning Framework for Everyone",
+   "points": 197027,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -54,9 +54,32 @@
   {
    "title": "LizardByte/Sunshine",
    "url": "https://github.com/LizardByte/Sunshine",
-   "date": "2026-08-14T19:16:51+00:00",
+   "date": "2026-08-14T19:47:05+00:00",
    "summary": "Self-hosted game stream host for Moonlight.",
    "points": 40165,
+   "tech": "cpp",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "Has a lazy-initialization vocabulary type been proposed for C++?",
+   "url": "https://stackoverflow.com/questions/79995192/has-a-lazy-initialization-vocabulary-type-been-proposed-for-c",
+   "date": "2026-08-14T19:41:53+00:00",
+   "summary": "c++، std، lazy-initialization، standardization",
+   "points": -1,
+   "tech": "cpp",
+   "sourceId": "so",
+   "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "ggml-org/llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp",
+   "date": "2026-08-14T19:22:14+00:00",
+   "summary": "LLM inference in C/C++",
+   "points": 123928,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -68,7 +91,7 @@
    "url": "https://github.com/ggml-org/whisper.cpp",
    "date": "2026-08-14T19:16:10+00:00",
    "summary": "Port of OpenAI's Whisper model in C/C++",
-   "points": 52893,
+   "points": 52892,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -126,7 +149,7 @@
    "url": "https://github.com/electron/electron",
    "date": "2026-08-14T18:26:04+00:00",
    "summary": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-   "points": 122492,
+   "points": 122494,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -138,7 +161,7 @@
    "url": "https://github.com/godotengine/godot",
    "date": "2026-08-14T18:19:18+00:00",
    "summary": "Godot Engine – Multi-platform 2D and 3D game engine",
-   "points": 115713,
+   "points": 115712,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -150,7 +173,7 @@
    "url": "https://github.com/LadybirdBrowser/ladybird",
    "date": "2026-08-14T18:16:54+00:00",
    "summary": "Truly independent web browser",
-   "points": 65614,
+   "points": 65613,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -214,18 +237,6 @@
    "lang": "en"
   },
   {
-   "title": "bitcoin/bitcoin",
-   "url": "https://github.com/bitcoin/bitcoin",
-   "date": "2026-08-14T16:29:54+00:00",
-   "summary": "Bitcoin Core integration/staging tree",
-   "points": 89894,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "WerWolv/ImHex",
    "url": "https://github.com/WerWolv/ImHex",
    "date": "2026-08-14T15:37:46+00:00",
@@ -287,7 +298,7 @@
    "url": "https://github.com/react/react-native",
    "date": "2026-08-14T14:57:00+00:00",
    "summary": "A framework for building native applications using React",
-   "points": 126346,
+   "points": 126347,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -306,11 +317,21 @@
    "lang": "en"
   },
   {
+   "title": "What is going on here?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vo5s1k/what_is_going_on_here/",
+   "date": "2026-08-14T12:22:24+00:00",
+   "summary": "#include stdio.h int print_sum(a, b) int a; int b; { printf( %d , a + b); return a + b; } int main(void) { return print_sum(1.5, 0.5); } This has a random output every time: Compiler stderr source : In function print_sum : source :2:5: warn",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "opencv/opencv",
    "url": "https://github.com/opencv/opencv",
    "date": "2026-08-14T12:07:53+00:00",
    "summary": "Open Source Computer Vision Library",
-   "points": 90431,
+   "points": 90432,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -340,6 +361,16 @@
    "lang": "en"
   },
   {
+   "title": "What are some Rules of Thumb you use when writing programs in C?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vo4e7m/what_are_some_rules_of_thumb_you_use_when_writing/",
+   "date": "2026-08-14T11:15:51+00:00",
+   "summary": "I ve been writing some nasty code lately and I ve since learned to use fsanitize, Wall, Werror, etc. None of those have really changed HOW I write code, just helps me find out I goofed up sooner. I ve been trying to follow some guidelines l",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "A Clean-Room Evaluation Loop for a Newly Released Model Like Minimax H3",
    "url": "https://dev.to/datacpp_3670/a-clean-room-evaluation-loop-for-a-newly-released-model-like-minimax-h3-385d",
    "date": "2026-08-14T11:13:20+00:00",
@@ -359,6 +390,16 @@
    "tech": "cpp",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "How to start a new project?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vo296v/how_to_start_a_new_project/",
+   "date": "2026-08-14T09:15:23+00:00",
+   "summary": "Basically, this Is the part where I get stuck on the most, for example, say I’m building a compiler, but when it comes to building a lexer I go completely blank. I know what a lexer is, but when it comes to coding, I go completely empty, wh",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -416,6 +457,16 @@
    "lang": "en"
   },
   {
+   "title": "Should you worry about struct member order in C?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vnoenu/should_you_worry_about_struct_member_order_in_c/",
+   "date": "2026-08-13T21:47:54+00:00",
+   "summary": "Small technical blogpost about low-effort microoptimizations in C language. Will be glad to get some feedback or have a discussion on the topic :) submitted by /u/krikkitskig [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "What Building a C++ Benchmarking Suite Taught Me About \"Simple\" Data Structures",
    "url": "https://dev.to/mendolatech/what-building-a-c-benchmarking-suite-taught-me-about-simple-data-structures-5a94",
    "date": "2026-08-13T21:38:12+00:00",
@@ -424,6 +475,16 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GUI for a file manager (I have no idea what I am doing)",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vno4it/gui_for_a_file_manager_i_have_no_idea_what_i_am/",
+   "date": "2026-08-13T21:36:40+00:00",
+   "summary": "I have been learning C for quite a while and only recently can I say that I know it on a beginner level. I m looking for a lightweight library for making GUI programs. I plan on making a program with a 90 s style interface for a simple file",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -495,6 +556,16 @@
    "kind": "news"
   },
   {
+   "title": "well-partitioned hash-tries",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vnefkn/wellpartitioned_hashtries/",
+   "date": "2026-08-13T15:46:21+00:00",
+   "summary": "submitted by /u/skeeto [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "Markdown editor with live preview built in C++",
    "url": "https://github.com/MinottiAlessandro/Emerald",
    "date": "2026-08-13T15:36:14+00:00",
@@ -560,6 +631,16 @@
    "lang": "en"
   },
   {
+   "title": "How to progress after basic ..?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vn7g20/how_to_progress_after_basic/",
+   "date": "2026-08-13T10:56:59+00:00",
+   "summary": "I have learnt majority of the header, and built 10+ small or mini projects before. learnt abit of pointers, mallocs , callocs etc with myself and abit help of AI. but now while i was working on the Cipher project.. and trying to build a zig",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "Upscal – A native C++/Vulkan image upscaler for Windows",
    "url": "https://upscal.app",
    "date": "2026-08-13T08:32:50+00:00",
@@ -597,7 +678,7 @@
    "url": "https://github.com/facebookresearch/faiss",
    "date": "2026-08-13T00:46:03+00:00",
    "summary": "A library for efficient similarity search and clustering of dense vectors.",
-   "points": 40740,
+   "points": 40741,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -638,11 +719,21 @@
    "lang": "en"
   },
   {
+   "title": "Learning C weekly megapost for 2026-08-12",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vmo4zi/learning_c_weekly_megapost_for_20260812/",
+   "date": "2026-08-12T19:31:37+00:00",
+   "summary": "If you have questions about how to learn C: which books are best? which videos are best? which classes are best? which websites are best? is there a roadmap ? what projects can I do? then this is the thread for you. Add your question here. ",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "qbittorrent/qBittorrent",
    "url": "https://github.com/qbittorrent/qBittorrent",
    "date": "2026-08-12T18:18:48+00:00",
    "summary": "qBittorrent BitTorrent client",
-   "points": 39466,
+   "points": 39467,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -657,6 +748,46 @@
    "tech": "cpp",
    "sourceId": "reddit",
    "source": "r/cpp",
+   "lang": "en"
+  },
+  {
+   "title": "When exactly does endianness conversion happen?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vmi1p4/when_exactly_does_endianness_conversion_happen/",
+   "date": "2026-08-12T15:54:01+00:00",
+   "summary": "For example if I have uint8_t arr[] = {192, 94}; since these are individual bytes, they get stored in memory as they appear in the code: 0xc0, 0x5e , right? But if I were then to grab these two bytes as if they were a single uint16_t: uint1",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
+   "title": "Do you use autocomplete/intellisense?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vmhqq5/do_you_use_autocompleteintellisense/",
+   "date": "2026-08-12T15:43:05+00:00",
+   "summary": "There are times where I feel autocomplete isn t that helpful. But most of the time I find it indispensable. I m curious about how others use or don t use it. submitted by /u/AxeForge [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
+   "title": "Built a tiny graphics rendering engine in C.",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vmg8me/built_a_tiny_graphics_rendering_engine_in_c/",
+   "date": "2026-08-12T14:48:11+00:00",
+   "summary": "Hi everybody, It was a hard decision choosing between a language to build this project, but after not-so-long of a thought, I ended up going with building it with C. I ve built a little graphics engine or a CPU rasterizer to be exact. Curre",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
+   "title": "Generic hash table with optional ordering",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vmew98/generic_hash_table_with_optional_ordering/",
+   "date": "2026-08-12T13:57:31+00:00",
+   "summary": "Hi. For the past few weeks I ve been crafting my generic hash table implementation: https://github.com/andrzejs-gh/ghtable I realize it s not the fastest out there and isn t the most cache friendly, but that was never my priority as I prior",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -724,6 +855,16 @@
    "lang": "en"
   },
   {
+   "title": "A C iterator pattern using VLAs for automatic cleanup",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vm4hfh/a_c_iterator_pattern_using_vlas_for_automatic/",
+   "date": "2026-08-12T04:53:38+00:00",
+   "summary": "I was thinking about how to approach iteration in C, such as traversing a binary tree or going through all the permutations of an array. One possibility is the Visitor pattern, where you supply a function to call at each point in the traver",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "Introducing Jaithon 3 (the perfect programing language)",
    "url": "https://dev.to/abhiramasonny/introducing-jaithon-3-the-perfect-programing-language-2o75",
    "date": "2026-08-12T03:52:57+00:00",
@@ -753,6 +894,26 @@
    "tech": "cpp",
    "sourceId": "reddit",
    "source": "r/cpp",
+   "lang": "en"
+  },
+  {
+   "title": "I wrote the emudev hello world to learn C",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vlvj63/i_wrote_the_emudev_hello_world_to_learn_c/",
+   "date": "2026-08-11T22:04:15+00:00",
+   "summary": "Yep, just another CHIP-8 emulator. But for me, as someone who has never written anything this low level and never touched C before, it was quite the challenge at first. But after writing the first few instructions (drawing especially), it s",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
+   "title": "How to store functions in a file?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vlvf0x/how_to_store_functions_in_a_file/",
+   "date": "2026-08-11T21:59:55+00:00",
+   "summary": "I m building an ML library in C. I were trying to store the models and loading it with all the needed information embedded into the file itself so that the loader doesn t need to know about the number of layers, neurons, etc beforehand. The",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -796,6 +957,16 @@
    "tech": "cpp",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "package manager i wrote as a learning challenge",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vlr8bs/package_manager_i_wrote_as_a_learning_challenge/",
+   "date": "2026-08-11T19:22:50+00:00",
+   "summary": "https://github.com/mohennaceur/spdr/tree/main dont worry, it runs fast. i just gotta use turkish hotel wifi. the repo is tiny because its just a learning project, be nice pls (: it utilizes curl and tarballs to be fa(s)t listen i can explai",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -872,6 +1043,16 @@
    "tech": "cpp",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Easening memory management by simply declaring ownership?",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vlfuo9/easening_memory_management_by_simply_declaring/",
+   "date": "2026-08-11T12:18:52+00:00",
+   "summary": "After a half-year-long Java project I m writing something in C and the lack of a garbage collector can be positively felt in terms of performance but at the same time managing all the pointers can get messy. There s a whole nother language ",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -972,6 +1153,16 @@
    "lang": "en"
   },
   {
+   "title": "I wrote a small turing tape FFI",
+   "url": "https://www.reddit.com/r/C_Programming/comments/1vl3cee/i_wrote_a_small_turing_tape_ffi/",
+   "date": "2026-08-11T01:15:35+00:00",
+   "summary": "Not much else to it. It is inside a single header and features a few simple commands. It manipulates a kilobyte-size turing tape and is designed for small/embedded systems. submitted by /u/StrikingClub3866 [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/C_Programming",
+   "lang": "en"
+  },
+  {
    "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
    "url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
    "date": "2026-08-10T23:29:57+00:00",
@@ -1037,16 +1228,6 @@
    "lang": "en"
   },
   {
-   "title": "New C++ Conference Videos Released This Month - August 2026 (Updated To Include Videos Released 2026-08-03 - 2026-08-09)",
-   "url": "https://www.reddit.com/r/cpp/comments/1vkpkd5/new_c_conference_videos_released_this_month/",
-   "date": "2026-08-10T16:23:43+00:00",
-   "summary": "C++Now 2026-08-03 - 2026-08-09 How To Make Formal Methods A Software Quality Solution That Can Actually Be Used In The Industry - Steve Barriault - https://youtu.be/OYwDdMCCDIM Link What You Include - Maintain a Coherent CMake Target Model ",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "Hybrid relocatable/fixed arm gcc link output",
    "url": "https://stackoverflow.com/questions/79991987/hybrid-relocatable-fixed-arm-gcc-link-output",
    "date": "2026-08-10T16:14:11+00:00",
@@ -1088,26 +1269,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Understanding std::counting_semaphore and std::binary_semaphore from C++20",
-   "url": "https://www.reddit.com/r/cpp/comments/1vkjt53/understanding_stdcounting_semaphore_and_stdbinary/",
-   "date": "2026-08-10T12:44:22+00:00",
-   "summary": "An article on types introduced in C++20. submitted by /u/Kabra___kiiiiiiiid [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "Jessesort is now faster than std::sort on every input type",
-   "url": "https://www.reddit.com/r/cpp/comments/1vkjji4/jessesort_is_now_faster_than_stdsort_on_every/",
-   "date": "2026-08-10T12:32:33+00:00",
-   "summary": "Repo here: https://github.com/lewj85/jessesort tl;dr Jessesort is up to 20% faster than std::sort on random inputs and up to 95% faster on structured inputs Jessesort has two phases: insertion and merging. The insertion phase routes inputs ",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -1188,16 +1349,6 @@
    "lang": "en"
   },
   {
-   "title": "CppCast: From Self Taught to Committee Member's First Accepted Paper",
-   "url": "https://www.reddit.com/r/cpp/comments/1vkduu1/cppcast_from_self_taught_to_committee_members/",
-   "date": "2026-08-10T07:17:29+00:00",
-   "summary": "submitted by /u/robwirving [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "Show HN: Albedo – single-file listenable document database in Zig",
    "url": "https://github.com/klirix/albedo",
    "date": "2026-08-09T23:03:40+00:00",
@@ -1243,16 +1394,6 @@
    "kind": "news"
   },
   {
-   "title": "A failure to separate concerns",
-   "url": "https://www.reddit.com/r/cpp/comments/1vjsbk5/a_failure_to_separate_concerns/",
-   "date": "2026-08-09T15:10:45+00:00",
-   "summary": "I ve been taking a look at an extremely popular, 50K+ stars, C++ library which I won t name as I m going to criticise it as an example of a wider problem. This is going to be a rant and there may even be sarcasm. Feel free to skip it if tha",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "Stream FreeSWITCH call audio to a WebSocket for real-time ASR (mod_ws_media)",
    "url": "https://dev.to/luoyumin/stream-freeswitch-call-audio-to-a-websocket-for-real-time-asr-modwsmedia-32o2",
    "date": "2026-08-09T13:09:02+00:00",
@@ -1261,6 +1402,17 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding std:counting_semaphore and std:binary_semaphore from C++20",
+   "url": "https://www.cppstories.com/2026/semaphore/",
+   "date": "2026-08-09T08:30:20+00:00",
+   "summary": "",
+   "points": 4,
+   "tech": "cpp",
+   "sourceId": "hn",
+   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1308,16 +1460,6 @@
    "lang": "en"
   },
   {
-   "title": "GCC should ship prebuilt binary tarballs like LLVM",
-   "url": "https://www.reddit.com/r/cpp/comments/1vj67ov/gcc_should_ship_prebuilt_binary_tarballs_like_llvm/",
-   "date": "2026-08-08T20:28:40+00:00",
-   "summary": "It is really annoying, when you wanna test something you can t just download a previous release like llvm, so it is very hard to check if there is a regression. Also, the default build of c and c++ only, takes like an hour because of triple",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "Why does std::vector sometimes reallocate even when I know how many elements I’ll add?",
    "url": "https://stackoverflow.com/questions/79991614/why-does-stdvector-sometimes-reallocate-even-when-i-know-how-many-elements-i-l",
    "date": "2026-08-08T19:49:25+00:00",
@@ -1326,16 +1468,6 @@
    "tech": "cpp",
    "sourceId": "so",
    "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Bjarne Stroustrup, creator of C++, joins Susquehanna",
-   "url": "https://www.reddit.com/r/cpp/comments/1vj4sro/bjarne_stroustrup_creator_of_c_joins_susquehanna/",
-   "date": "2026-08-08T19:28:42+00:00",
-   "summary": "submitted by /u/Ok_Shopping_3292 [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -1416,16 +1548,6 @@
    "lang": "en"
   },
   {
-   "title": "GCC 16.2.0 Released",
-   "url": "https://www.reddit.com/r/cpp/comments/1vigs03/gcc_1620_released/",
-   "date": "2026-08-07T23:56:06+00:00",
-   "summary": "I m pretty excited about this maintenance release. I think this will be the first version of gcc which can compile my project. submitted by /u/NewLlama [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10",
    "url": "https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578",
    "date": "2026-08-07T20:20:43+00:00",
@@ -1441,7 +1563,7 @@
    "url": "https://github.com/ocornut/imgui",
    "date": "2026-08-07T16:43:39+00:00",
    "summary": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-   "points": 75649,
+   "points": 75650,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -1468,27 +1590,6 @@
    "tech": "cpp",
    "sourceId": "so",
    "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "QtGraph grid visibility issue",
-   "url": "https://stackoverflow.com/questions/79991366/qtgraph-grid-visibility-issue",
-   "date": "2026-08-07T14:34:52+00:00",
-   "summary": "c++، qt",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Boost.Multi Multi Mini-Review Begins Today (7 Aug - 12 Aug)",
-   "url": "https://www.reddit.com/r/cpp/comments/1vi06hm/boostmulti_multi_minireview_begins_today_7_aug_12/",
-   "date": "2026-08-07T13:07:59+00:00",
-   "summary": "Hello, Today begins the mini-review of Multi, authored by Alfredo Correa. Multi is a modern C++ library that provides manipulation and access of data in multidimensional arrays for both CPU and GPU memory. The review will run through Wednes",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -1525,16 +1626,6 @@
    "lang": "en"
   },
   {
-   "title": "C++ Show and Tell - August 2026",
-   "url": "https://www.reddit.com/r/cpp/comments/1vhdqw8/c_show_and_tell_august_2026/",
-   "date": "2026-08-06T19:13:21+00:00",
-   "summary": "Use this thread to share anything you ve written in C++. This includes: a tool you ve written a game you ve been working on your first non-trivial C++ program The rules of this thread are very straight forward: The project must involve C++ ",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "C++ Version of vLLM",
    "url": "https://github.com/mudler/vllm.cpp",
    "date": "2026-08-06T17:42:08+00:00",
@@ -1543,16 +1634,6 @@
    "tech": "cpp",
    "sourceId": "hn",
    "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Neoclassical C++ (2): Exploring input-output segmented algorithms",
-   "url": "https://www.reddit.com/r/cpp/comments/1vh8w31/neoclassical_c_2_exploring_inputoutput_segmented/",
-   "date": "2026-08-06T16:19:24+00:00",
-   "summary": "Hi, I ve written a new blog entry continuing my previous article about segmented iterators . This time trying to analyze how to apply Matt Austern s segmented iterator pattern to input-output algorithms like copy, copy_if , etc., benchmarki",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -1664,16 +1745,6 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
-  },
-  {
-   "title": "C++ Jobs - Q3 2026",
-   "url": "https://www.reddit.com/r/cpp/comments/1und8cz/c_jobs_q3_2026/",
-   "date": "2026-07-04T16:22:09+00:00",
-   "summary": "Rules For Individuals Don t create top-level comments - those are for employers. Feel free to reply to top-level comments with on-topic questions. I will create top-level comments for meta discussion and individuals looking for work . Rules",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
   },
   {
    "title": "الدرس الثاني | العمليات الحسابية والمنطقية في سي بلس بلس",
@@ -2240,6 +2311,16 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zbEFRLXF4RlVYeURNQUxrNHU4V2gwZTFuSjRpclFkMzBCV0cwZ054dUt6b2dRaFlGNWFuUlktZFpuaDBvc01pYUlRQXlZV2cyZ1dsMzVPQWtaaDU0XzVFNGJ4d1ZFQXhJVmg2X212R0FRZ0N1ZmgyY040QXY?oc=5",
    "date": "2017-02-16T18:05:58+00:00",
    "summary": "C++ Programming Course Level 1 Basics By Arabic كورس لغه برمجه سي بلس بلس المستوي الاول الاساسيات بالعربي YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "13-2 ما هو الملف التنفيذي في لغة سي++ وكيفية تشغيله",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVb2dkOWxSTDZ2dk04VzFoSExtb0NFSy1UUnBScno1NlFQb0pMYUNtNW9NVnhhMFItVVRnY2dsMHdUZ3RwdXZ5Nkc1OFVVTk1fdHFEOGln?oc=5",
+   "date": "2016-11-08T23:34:48+00:00",
+   "summary": "13-2 ما هو الملف التنفيذي في لغة سي++ وكيفية تشغيله YouTube",
    "tech": "cpp",
    "sourceId": "ar-yt",
    "source": "YouTube",

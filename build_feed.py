@@ -92,9 +92,11 @@ TECHS = {
         "blogs": [],
         "ar": ['"جافاسكربت" OR "جافا سكريبت" برمجة', '"جافاسكربت" (دورة OR شرح OR مشروع)'],
         "match": r"\bjavascript\b|\bjs\b|جافاسكربت|جافا سكريبت|\breact\b|\bnode\.?js\b|\btypescript\b|رياكت",
+        "medium": "javascript",
+        "podcasts": ["https://feed.syntax.fm/rss"],
     },
     "sql": {
-        "name": "SQL", "hn": "sql database", "so": "sql", "gh": "sql",
+        "name": "SQL", "hn": "sql", "so": "sql", "gh": "sql",
         "devto": ["sql", "database"], "reddit": ["SQL", "learnSQL"], "blogs": [],
         "ar": ['"قواعد البيانات" SQL تعلم', '"لغة SQL" شرح OR دورة'],
         "match": (r"\bsql\b|\bpostgres\b|\bmysql\b|\bsqlite\b|\bdatabases?\b|\borm\b"
@@ -125,7 +127,7 @@ TECHS = {
         "match": r"\brust\b|لغة رست|رست\b",
     },
     "cyber": {
-        "name": "أمن سيبراني", "hn": "cybersecurity OR pentest", "so": "security", "gh": "",
+        "name": "أمن سيبراني", "hn": "cybersecurity", "so": "security", "gh": "",
         "devto": ["security", "cybersecurity", "hacking"],
         "reddit": ["netsec", "HowToHack", "AskNetsec"], "blogs": [],
         "ar": ['"الأمن السيبراني" (اختبار اختراق OR "كالي لينكس" OR "اختراق أخلاقي")',
@@ -137,10 +139,82 @@ TECHS = {
         "podcasts": ["https://feeds.megaphone.fm/darknetdiaries"],
     },
     "bash": {
-        "name": "Bash / Shell", "hn": "bash shell scripting", "so": "bash", "gh": "shell",
-        "devto": ["bash", "linux"], "reddit": ["bash", "linuxadmin"], "blogs": [],
-        "ar": ['"سطر الأوامر" لينكس سكربت', '"باش" OR "شل" برمجة لينكس'],
-        "match": r"\bbash\b|\bshell\b|\bzsh\b|سطر الأوامر|سكربت|لينكس",
+        "name": "الطرفية و Bash", "hn": "bash", "so": "bash", "gh": "shell",
+        "devto": ["bash", "linux"], "reddit": ["bash", "commandline", "linuxadmin"], "blogs": [],
+        "ar": ['"سطر الأوامر" لينكس سكربت', '"باش" OR "الطرفية" OR "تيرمنال" شرح'],
+        "match": (r"\bbash\b|\bshell\b|\bzsh\b|\bterminal\b|سطر الأوامر|الطرفية|تيرمنال"
+                  r"|سكربت|\bgrep\b|\bsed\b|\bawk\b|\btmux\b|\bvim\b"),
+        "medium": "bash",
+    },
+    "csharp": {
+        "name": "‏#C و‏.NET", "hn": "dotnet", "so": "c%23", "gh": "c%23",
+        "devto": ["csharp", "dotnet"], "reddit": ["csharp", "dotnet"], "blogs": [],
+        "ar": ['"سي شارب" OR "#C" برمجة', '"دوت نت" OR ".NET" دورة OR شرح'],
+        "match": r"\bc#|c ?sharp|\.net\b|dotnet|سي شارب|\bunity\b|يونيتي|\bblazor\b|\basp\.net",
+        "medium": "csharp",
+    },
+    "php": {
+        "name": "PHP", "hn": "php", "so": "php", "gh": "php",
+        "devto": ["php", "laravel"], "reddit": ["PHP", "laravel"], "blogs": [],
+        "ar": ['"بي اتش بي" OR "PHP" برمجة موقع', '"لارافيل" OR "Laravel" دورة OR شرح'],
+        "match": r"\bphp\b|laravel|لارافيل|بي ?اتش ?بي|\bwordpress\b|ووردبريس|symfony",
+        "medium": "php",
+    },
+    "ruby": {
+        "name": "Ruby", "hn": "ruby", "so": "ruby", "gh": "ruby",
+        "devto": ["ruby", "rails"], "reddit": ["ruby", "rails"], "blogs": [],
+        "ar": ['"لغة روبي" OR Ruby برمجة'],
+        "match": r"\bruby\b|\brails\b|روبي",
+        "medium": "ruby",
+    },
+    "swift": {
+        "name": "Swift للآيفون", "hn": "swift", "so": "swift", "gh": "swift",
+        "devto": ["swift", "ios"], "reddit": ["swift", "iOSProgramming"], "blogs": [],
+        "ar": ['"تطبيقات الآيفون" OR "سويفت" برمجة', '"iOS" تطوير تطبيقات دورة OR شرح'],
+        "match": r"\bswift(ui)?\b|\bios\b|\bxcode\b|سويفت|الآيفون|الايفون|تطبيقات ابل|\bapp ?store\b",
+        "medium": "ios-app-development",
+    },
+    "kotlin": {
+        "name": "Kotlin للأندرويد", "hn": "kotlin", "so": "kotlin", "gh": "kotlin",
+        "devto": ["kotlin", "android"], "reddit": ["Kotlin", "androiddev"], "blogs": [],
+        "ar": ['"تطبيقات الأندرويد" برمجة كوتلن', '"أندرويد" تطوير تطبيقات دورة OR شرح'],
+        "match": r"\bkotlin\b|\bandroid\b|كوتلن|أندرويد|اندرويد|jetpack ?compose|android ?studio",
+        "medium": "android",
+    },
+    "flutter": {
+        "name": "Flutter", "hn": "flutter", "so": "flutter", "gh": "dart",
+        "devto": ["flutter", "dart"], "reddit": ["FlutterDev"], "blogs": [],
+        "ar": ['"فلاتر" OR Flutter تطبيقات برمجة', '"دارت" OR Dart لغة شرح'],
+        "match": r"\bflutter\b|\bdart\b|فلاتر|دارت",
+        "medium": "flutter",
+    },
+    "windows": {
+        "name": "ويندوز و PowerShell", "hn": "powershell", "so": "powershell", "gh": "powershell",
+        "devto": ["powershell", "windows"], "reddit": ["PowerShell", "sysadmin", "Windows10"], "blogs": [],
+        "ar": ['"باور شيل" OR PowerShell ويندوز شرح', '"ويندوز" (سطر الأوامر OR سكربت OR أتمتة)'],
+        "match": (r"powershell|باور ?شيل|\bwindows\b|ويندوز|\bwsl\b|\bcmd\b|\bwinget\b"
+                  r"|\.bat\b|active directory"),
+        "medium": "powershell",
+    },
+    "linux": {
+        "name": "لينكس وتوزيعاته", "hn": "linux", "so": "linux", "gh": "",
+        "devto": ["linux", "ubuntu"], "reddit": ["linux", "linux4noobs", "archlinux", "Ubuntu"], "blogs": [],
+        "ar": ['"لينكس" (توزيعة OR شرح OR دورة)', '"أوبونتو" OR "أرش لينكس" OR "ديبيان" شرح'],
+        "match": (r"\blinux\b|لينكس|\bubuntu\b|أوبونتو|اوبونتو|debian|ديبيان|\barch\b|أرش"
+                  r"|fedora|فيدورا|centos|\bmint\b|توزيع|\bsystemd\b|\bgrub\b"),
+        "medium": "linux",
+    },
+    "kali": {
+        "name": "كالي وأدوات الاختراق", "hn": "kali linux", "so": "", "gh": "",
+        "devto": ["hacking", "security", "pentesting"],
+        "reddit": ["Kalilinux", "HowToHack", "oscp", "AskNetsec"], "blogs": [],
+        "ar": ['"كالي لينكس" أدوات اختبار الاختراق شرح',
+               '"اختراق أخلاقي" (nmap OR metasploit OR burp) شرح'],
+        "match": (r"كالي|\bkali\b|\bnmap\b|metasploit|\bmsfvenom\b|burp ?suite|wireshark|aircrack"
+                  r"|\bhydra\b|john the ripper|sqlmap|\bnikto\b|hashcat|\bgobuster\b|\bnetcat\b"
+                  r"|أدوات اختراق|اختبار الاختراق"),
+        "medium": "penetration-testing",
+        "podcasts": ["https://feeds.megaphone.fm/darknetdiaries"],
     },
 }
 
@@ -456,8 +530,9 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
         jobs = [
             pool.submit(fetch_hn, tech, cfg),
             pool.submit(fetch_devto, tech, cfg),
-            pool.submit(fetch_so, tech, cfg),
         ]
+        if cfg["so"]:
+            jobs.append(pool.submit(fetch_so, tech, cfg))
         if cfg["gh"]:
             jobs.append(pool.submit(fetch_github, tech, cfg))
         if cfg.get("pypi"):

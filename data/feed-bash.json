@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-14T19:29:57.964112+00:00",
+ "generated": "2026-08-14T20:06:56.568452+00:00",
  "tech": "bash",
- "count": 137,
+ "count": 146,
  "items": [
   {
    "title": "dockur/windows",
    "url": "https://github.com/dockur/windows",
-   "date": "2026-08-14T18:32:50+00:00",
+   "date": "2026-08-14T19:51:52+00:00",
    "summary": "Windows inside a Docker container.",
    "points": 52866,
    "tech": "bash",
@@ -32,7 +32,7 @@
    "url": "https://github.com/basecamp/omarchy",
    "date": "2026-08-14T16:29:08+00:00",
    "summary": "Beautiful, Modern & Opinionated Linux",
-   "points": 24709,
+   "points": 24721,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -67,6 +67,16 @@
    "tech": "bash",
    "sourceId": "reddit",
    "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
+   "title": "The One Flag That Makes a Linux Search Show You Where, Not Just What",
+   "url": "https://medium.com/my-lifes-mirrow/the-one-flag-that-makes-a-linux-search-show-you-where-not-just-what-8fe3c4fc30c1?source=rss------bash-5",
+   "date": "2026-08-14T11:01:01+00:00",
+   "summary": "grep finds things. This flag tells you exactly where they are so you can go straight to the right line Continue reading on Bash_DevOps_AI »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
    "lang": "en"
   },
   {
@@ -244,11 +254,21 @@
    "lang": "en"
   },
   {
+   "title": "Understanding >/dev/null, 2>/dev/null, 2>&1, and Shell Redirection Without Memorizing Them",
+   "url": "https://medium.com/@geek-convert/understanding-dev-null-2-dev-null-2-1-and-shell-redirection-without-memorizing-them-07bc0915d6ef?source=rss------bash-5",
+   "date": "2026-08-13T09:07:06+00:00",
+   "summary": "If you spend enough time with Linux, macOS, Docker, Jenkins, CI pipelines, or shell scripts, you eventually encounter commands like these: Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
    "title": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-08-13T09:06:37+00:00",
    "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-   "points": 217433,
+   "points": 217451,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -390,7 +410,7 @@
    "url": "https://github.com/obra/superpowers",
    "date": "2026-08-13T00:36:31+00:00",
    "summary": "An agentic skills framework & software development methodology that works.",
-   "points": 272135,
+   "points": 272141,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -497,7 +517,7 @@
    "url": "https://github.com/VSCodium/vscodium",
    "date": "2026-08-12T12:43:33+00:00",
    "summary": "binary releases of VS Code without MS branding/telemetry/licensing",
-   "points": 32817,
+   "points": 32819,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -587,6 +607,36 @@
    "lang": "en"
   },
   {
+   "title": "Bash Aliases That Will Save You Hours",
+   "url": "https://medium.com/@bektiaw/bash-aliases-that-will-save-you-hours-7ab982cae507?source=rss------bash-5",
+   "date": "2026-08-11T16:31:01+00:00",
+   "summary": "Work faster, type less, and make your terminal more productive Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Use Bash as a Template Engine",
+   "url": "https://medium.com/@u.mair/how-to-use-bash-as-a-template-engine-abadfcd7ab52?source=rss------bash-5",
+   "date": "2026-08-11T16:31:01+00:00",
+   "summary": "If you have used Ansible, you have probably seen templates where variables are substituted into a configuration file before it is deployed&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Learn how to build a single Bash script that reports CPU, memory, disk, uptime and top processes.",
+   "url": "https://medium.com/@subramanya1496/learn-how-to-build-a-single-bash-script-that-reports-cpu-memory-disk-uptime-and-top-processes-5fcf0df90be3?source=rss------bash-5",
+   "date": "2026-08-11T15:24:56+00:00",
+   "summary": "According to the 2023 Linux Sysadmin Survey, 73% of administrators rely on custom Bash scripts to consolidate CPU, memory, and disk&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
    "title": "WARNING: .desktop files pose high risk attack surface for agents",
    "url": "https://www.reddit.com/r/linuxadmin/comments/1vljah1/warning_desktop_files_pose_high_risk_attack/",
    "date": "2026-08-11T14:38:26+00:00",
@@ -612,7 +662,7 @@
    "url": "https://github.com/ohmyzsh/ohmyzsh",
    "date": "2026-08-11T11:03:43+00:00",
    "summary": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-   "points": 189183,
+   "points": 189182,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -696,7 +746,7 @@
    "url": "https://github.com/tw93/Mole",
    "date": "2026-08-10T18:18:10+00:00",
    "summary": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
-   "points": 63508,
+   "points": 63511,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -788,7 +838,7 @@
    "url": "https://github.com/zsh-users/zsh-syntax-highlighting",
    "date": "2026-08-07T19:11:51+00:00",
    "summary": "Fish shell like syntax highlighting for Zsh.",
-   "points": 22922,
+   "points": 22921,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -822,7 +872,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "date": "2026-08-06T13:29:47+00:00",
    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-   "points": 145472,
+   "points": 145476,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -965,6 +1015,16 @@
    "lang": "ar"
   },
   {
+   "title": "Linux Shell Scripting for Beginners | Write Your First Bash Script + Automation with Cron",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fdFFBd0tsTkxlUl9vZXhOUW1CZXZxdjJsTnhncHkxclBLd1hBc3FMeEUzbWI3YzRiZHNMVzd2TndYazZJUmhoTnJLNHN3dXd5bTIwNTNR?oc=5",
+   "date": "2026-03-16T22:38:14+00:00",
+   "summary": "Linux Shell Scripting for Beginners | Write Your First Bash Script + Automation with Cron YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Shell Scripting Full Course 2026 [FREE] | Shell Scripting Tutorial For Beginners | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUld0aDB3MG54N1lzNnpJUkFDcGJHQmVvZnIycnpVbGRGb2pqYzg2dGxvRnl6YzJnSEQxZWk0WUVORHN6dlNmWDdHZ3FhbkdmbWY2bWZ3?oc=5",
    "date": "2026-02-13T15:30:39+00:00",
@@ -975,10 +1035,50 @@
    "lang": "en"
   },
   {
+   "title": "Why you should learn Bash Scripting - 5 reasons to learn the linux terminal",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QNWhFcE9YNHk0bHpXdjhjR2tMQXBDT2c1N0kwOC02NUszamFyaHV0aVRsTy12VE1jOU10VDIweEJSQ29zLWlsSnZrMTZXd0tHQTlSYW5B?oc=5",
+   "date": "2026-01-31T20:23:40+00:00",
+   "summary": "Why you should learn Bash Scripting - 5 reasons to learn the linux terminal YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Shell Scripting Full Course in Tamil (3+ Hours) | Learn Shell Scripting for Linux Automation",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kcjlTUXB2RlJPRG9iS1k1ajVWRlZSRTRVdXRwRjRkTURZTEhYVUxxNlI3c0wtckczVHpqWTdSWWlOQkFyaTJMM1FTcHdVZHZFRHp2S1BR?oc=5",
    "date": "2026-01-08T02:30:50+00:00",
    "summary": "Shell Scripting Full Course in Tamil (3+ Hours) | Learn Shell Scripting for Linux Automation YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UaDAyaXNrSHAwWDVvMi1tQ0dla0VMNjNXLVdXTDQ3eVFoRlduNjZBQ2VsZHhES21IeWVVZUxDZ0UyOGl0SlFmWG05YVpFTGlBVXdYbjNB?oc=5",
+   "date": "2025-12-15T17:00:06+00:00",
+   "summary": "The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to Terminal and Shell Scripting",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVUXRicE82d2hDbnNFckx0Wk5YRjBTOENCUGxKMjkwNUdmYVVJTjZnd2R5UWNMWDNxd2lIa3hsUE16aVQ5TFlkbmVTQ0FsN3B1a3UxSG9n?oc=5",
+   "date": "2025-11-13T21:55:28+00:00",
+   "summary": "Introduction to Terminal and Shell Scripting YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Basic shell scripting for Linux administrators | Into the Terminal 160",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82M1F2RFJTbW5OaFA1MFpsWHFSTGJfNjhnNEY5TDd5Q3JfWlc5QVQxQVNsa1NMVHZsd0xMTU1zVW55M1FKV2JaUkcyMGprVWhkamhUX1B3?oc=5",
+   "date": "2025-09-13T04:58:39+00:00",
+   "summary": "Basic shell scripting for Linux administrators | Into the Terminal 160 YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1025,6 +1125,16 @@
    "lang": "en"
   },
   {
+   "title": "البدء مع برنامج Terminal على توزيعة LinuxMint",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LY0ZlYUlCbTNUV2pHd3B0dDFVeUM1MGV5cnRnT0haRVpkTzdTVnJfQ2ozaG5aQlp5bWxvQnp3T0lrMUNVbXBobHN4ajctRHg4YUJ5MjZR?oc=5",
+   "date": "2025-06-05T21:00:40+00:00",
+   "summary": "البدء مع برنامج Terminal على توزيعة LinuxMint YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Complete Linux Course with Networking and Shell Scripting | Notes Provided",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WZ05XUmtuM1gwMVMwa1RfSzhNVGtsRnJuSU1wN091NlJyVnRleGRMU3BZTXRGT1M0c1RhMmZlU0dubHNFVjFWMElOeEEzQWRvLXczR3N3?oc=5",
    "date": "2025-04-23T15:02:42+00:00",
@@ -1039,6 +1149,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQVXpXMTFXelR3ZGhfbGFoMmtEOV9kdWx0YzZWQVZSVFlpLVFhVER0ZnRTV0xYLW1HZkJob1BRYkM4aEtTQ3EtSDJIeGItb0ZNNm1EMEZB?oc=5",
    "date": "2025-04-14T13:15:09+00:00",
    "summary": "Shell scripting Full Course | Bash Scripting Mastery: From Basics to Advanced Shell Programming YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Master Shell Scripting & Automation in Linux | DZH-6",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cFo3T0FublZwSGhhZF9RRnczeno0OXpXZFhpSDdWWmx1a2k1YnZTdEJrMzQ5bkhFbVYtYkI1Y0VRWWE3eWhEOWxKS0hwM3ZkczVvd2l3?oc=5",
+   "date": "2025-04-10T16:30:43+00:00",
+   "summary": "Master Shell Scripting & Automation in Linux | DZH-6 YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1095,6 +1215,16 @@
    "lang": "ar"
   },
   {
+   "title": "Intermediate Linux and Shell Scripting",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94eEJoZHdpVjc5MEJqNWZzd1ZlcnZRaEFnVmYzWTZjSV9PQk92b05uMnhOVUNoOE54bEpJUW5RbE5EZWZKNDdvQ0VhWXlSei1oYU8yTTBn?oc=5",
+   "date": "2024-10-16T21:56:15+00:00",
+   "summary": "Intermediate Linux and Shell Scripting YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Realtime Shell Scripting Hands-on Project | ADAM WezvaTech 📞 7829633132 #shellscripting #linux",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzN21fbkRVaXJ2bWFIZ1dkUk45TXRWZzhCek9IWHBxb2dhcUliRnhtVUhSV2pGd1Q3aEtEd19icVVoM0VNOG1xVUYxSDN3Ul9mM3FPT0dR?oc=5",
    "date": "2024-09-17T02:30:07+00:00",
@@ -1113,6 +1243,36 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "From Zero To Hero With Bash Scripting ('While' Loops and 'If' Statements)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mcnFBSEJlUmIwRmVsckN3NndPMDVQc0MzWmtWMEpZTFppek5UWGRUNXdUdjJQbE42QVJVSzZMOWhlWThoSkllVW1mQkVEVnE0d1h3cmlR?oc=5",
+   "date": "2024-07-31T12:36:17+00:00",
+   "summary": "From Zero To Hero With Bash Scripting ('While' Loops and 'If' Statements) YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Master Linux Bash Shell Scripting: From Beginner to Pro | UTCLISolutions.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmNWdDSUdVcGhoN0VnWjMwTDk3bklGeGVXMVdLT2pGU2NiRHJMVjdQWnlKX3k5eVN2LWl2bE1uS2NUOXliczdNbGhOTlQ0SDRJOVQ2SDNB?oc=5",
+   "date": "2024-06-30T15:00:01+00:00",
+   "summary": "Master Linux Bash Shell Scripting: From Beginner to Pro | UTCLISolutions.com YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Automating Tasks with Bash Scripts | Into the Terminal 109",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6VHdiRGVuRmRkazFqNlpfZjB6M2Z6WV9jbVlyTDZlc2taRGxpUDBNYlBWS3pmTjR5WHZJbVc2ZGhYVFBrNXBTaVB0ZzFGd1gwUGdEZkVR?oc=5",
+   "date": "2024-06-08T05:04:29+00:00",
+   "summary": "Automating Tasks with Bash Scripts | Into the Terminal 109 YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "تعلم بالتفصيل كيف تتحكم فى نظام راسبيان باستخدام ال Terminal(طرفية لينكس).",
@@ -1205,106 +1365,6 @@
    "lang": "ar"
   },
   {
-   "title": "Global Variable in Shell Scripts In Linux",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZElzTnBBNFk3TF9vYVhISWc2T29qSE5vQXQ0bnhSejc1dlBOeXh0UVg1cUJ0LUduNzBJNUNjQUlyc3N6dXJGc0RNX1NKa05mbGc1X2V3?oc=5",
-   "date": "2023-03-22T09:00:06+00:00",
-   "summary": "Global Variable in Shell Scripts In Linux YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "What are Loops in Bash? [18 of 20] | Bash for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55VjMzX0NwZUl0UUtmYU1ZTmZELWc3QWJuNnBrTGlkMmw3VExEV2lpVEYxZnZsOXBKSllxTWtOZFYzR1QxeUtpRlkzRTdWRFhMV1RVTjlR?oc=5",
-   "date": "2023-02-15T17:00:00+00:00",
-   "summary": "What are Loops in Bash? [18 of 20] | Bash for Beginners YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Shell Scripting While Loop | Shell Scripting Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iQkg2SGFJeVhhWVNSV293LXRVWmExdXl0OUN2SGdldXdPU1ppNThxMHRoY01oRWo2RFNGTnVtNWc2dW8tY3lJNThuR19pYThaendmWF9B?oc=5",
-   "date": "2022-12-28T22:10:01+00:00",
-   "summary": "Shell Scripting While Loop | Shell Scripting Tutorial for Beginners YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How to Use Case Statements in Bash Scripts | Shell Scripting Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LYVFxbEotcTNrX2dDSGhkSkhfWEJJNUM1T3BxZFRzSHlmZ1VzUWw3OC1aRzVlNHE4UzF0LWxNcXZHVXRvMHpfVVZjU1ItUVRQNy1GT09R?oc=5",
-   "date": "2022-12-10T09:12:12+00:00",
-   "summary": "How to Use Case Statements in Bash Scripts | Shell Scripting Tutorial for Beginners YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Basic Operators in Shell Scripting | Shell Scripting Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92dFdWQnA2TVNzYXU5Y3NNNzNyY3RkNEtYc1FiQkozUVY4Z3d2eVlsZndyRDVXak9QRU5YRnhaX2RLM0hGcXRweFpMUWlja21SLVdvZy1B?oc=5",
-   "date": "2022-12-07T08:00:09+00:00",
-   "summary": "Basic Operators in Shell Scripting | Shell Scripting Tutorial for Beginners YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Shell Scripting & Linux Interview Questions for DevOps Engineers | Bash Zero to Hero | #devops",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TdEoyODhNRDhEUEVtNFp5cV9uTWN6WXhmX0RIZjlSbGhHWE5ZRlpuakQtSDJ6NzZPS0FYb0V3Qmp3MEV4ZmtDMFZjRUx0RmNieEg4TW9B?oc=5",
-   "date": "2022-12-06T14:44:55+00:00",
-   "summary": "Shell Scripting & Linux Interview Questions for DevOps Engineers | Bash Zero to Hero | #devops YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Passing Arguments to the Script | Shell Scripting Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhbzVoY3R4ekdmNVNSV2FJWXFVeWVLc3Z3WmtWVU9qWnU3LWpFRG0tRlVKVkZTODhpemZtNUU1cnRDaXJ4SmY3MXhTQzMzM1F4NlFIOWN3?oc=5",
-   "date": "2022-12-03T21:34:48+00:00",
-   "summary": "Passing Arguments to the Script | Shell Scripting Tutorial for Beginners YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How To Write Bash Scripts In Linux - Complete Guide (Part 12 - Functions)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QUGhxczJtMnJ1ekFmclA4VzJtTHlNdlhsTUMzYzdNMlFUVnVza0FCci01R3pXek5uSGJCZ0VVNF9lc0JWRC1fbTJjNVZwMkJFeUVURVp3?oc=5",
-   "date": "2022-11-28T17:00:08+00:00",
-   "summary": "How To Write Bash Scripts In Linux - Complete Guide (Part 12 - Functions) YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How To Write Bash Scripts In Linux - Complete Guide (Part 10 - Storing Scripts)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84NDhhWjRRUTdkT3ZiZkw3dDQ5a3VNekxoWHlRX2JBa0VXeUlrRnhQWEVoYnlTYl8zaGwxZlRBUDR2aXZCQm5WWmlTWmJDUkNsY1lXdXdR?oc=5",
-   "date": "2022-11-28T16:30:03+00:00",
-   "summary": "How To Write Bash Scripts In Linux - Complete Guide (Part 10 - Storing Scripts) YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How To Write Bash Scripts In Linux - Complete Guide (Part 9 - For Loops)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54d24tV010Ym5ScEV0T292NlBJV1NFR0lJSEk4SVp6d0hFeC1MeXowemU4bWpZeWpTaVg2ZjhlNkZ3TjlodG9ETG0wOF9EcVpsRk44anJ3?oc=5",
-   "date": "2022-11-28T16:15:01+00:00",
-   "summary": "How To Write Bash Scripts In Linux - Complete Guide (Part 9 - For Loops) YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "ما هي Bash",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MWlaVE80UjFacWtLbU1ocVRYNFlfYy1qaGZtUVJ3NVotX1Q2VTh6MXVPM0VIaXF0SUw0ZWljVXRGMC14bk1UaFJlc1NxWlRDaHJUdHJB?oc=5",
    "date": "2022-10-06T14:00:01+00:00",
@@ -1395,6 +1455,26 @@
    "lang": "ar"
   },
   {
+   "title": "شرح تثبيت واستخدام برنامج Windows Terminal",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uYWNaRFN1Q1N1UmVpNFRhQmtKSXVPRlZzWUVVVUFINTY4TFNpS0t5T0dYSW10bXZmcVExOWhheTJpLUdpTkpZNDZTMGh0anQzWlhiMExB?oc=5",
+   "date": "2021-02-02T18:00:04+00:00",
+   "summary": "شرح تثبيت واستخدام برنامج Windows Terminal YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "أمير منطقة القصيم يتفقد خطوات تنفيذ مشروع «ضاحية الطرفية» حاضرة مدينة بريدة",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55UkhhVkhjN2V6VjhJSXpZUlR2MHdJRHJhTWJUTEUyNkZNbkZFSmNXQXdKREZRVFdPN29aSFU0a3l1c2JhemthSzczcVRTS1h2ZlkwVjEwM0dOYlpj?oc=5",
+   "date": "2020-11-22T08:00:00+00:00",
+   "summary": "أمير منطقة القصيم يتفقد خطوات تنفيذ مشروع «ضاحية الطرفية» حاضرة مدينة بريدة جريدة الجزيرة",
+   "tech": "bash",
+   "sourceId": "ar-news",
+   "source": "جريدة الجزيرة",
+   "lang": "ar"
+  },
+  {
    "title": "كورس تعليم اوبنتو | 1 | مقدمة عن اللينكس | مقدمة عن نظم التشغيل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XYVJmVU5sS044NkU4S1R6TWUzRFd4czNhM0lpdGRPLW5JY3RuT01fRFBJanN3OG80eE95RGFCanFSemw2MVhkY1JpZmc1THliZC16ZjFn?oc=5",
    "date": "2020-10-04T18:52:58+00:00",
@@ -1452,6 +1532,16 @@
    "tech": "bash",
    "sourceId": "ar-yt",
    "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "قطاع الوقاية في «الإطفاء» تفقَّد اشتراطات مبنى «التيرمنال 6»",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tZ19VX05vYmF4cy0zMmFQNGVjMGRrR2hOR0FxY1dCLUNBbWNQdHJ1d3FsQTBNLUFJVllXMWZEZUtkZnpJVFJJdjZjZjJkdjNSY3ZuS0lDTmlZZGpiRHNTNWQ0Y9IBaEFVX3lxTE5iSFNpd09GVHhoRWxtSmk5cExmZldoSTh4SkVucVJYaFlOOWF1eEs4SFNNMXpJMjdQSEVpZHJpc0xRVm1BYnZXMGlKUHlXY01xcjNnVUx2N1Nmd1pva2FYSHhBcFpQT0ZV?oc=5",
+   "date": "2018-02-01T08:00:00+00:00",
+   "summary": "قطاع الوقاية في «الإطفاء» تفقَّد اشتراطات مبنى «التيرمنال 6» جريدة الجريدة الكويتية",
+   "tech": "bash",
+   "sourceId": "ar-news",
+   "source": "جريدة الجريدة الكويتية",
    "lang": "ar"
   }
  ]

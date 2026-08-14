@@ -1,8 +1,30 @@
 {
- "generated": "2026-08-14T19:28:30.256380+00:00",
+ "generated": "2026-08-14T20:04:17.148834+00:00",
  "tech": "sql",
  "count": 220,
  "items": [
+  {
+   "title": "backend<app<db",
+   "url": "https://dev.to/iamry02/backendappdb-15jm",
+   "date": "2026-08-14T19:02:46+00:00",
+   "summary": "from app.db.sqlite import SQLiteDatabase  __all__ = [\"SQLiteDatabase\"]   sqlite.py  from...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "DB Connect: a database IDE that lets your AI assistant actually query your database",
+   "url": "https://dev.to/shubhesh07/-db-connect-a-database-ide-that-lets-your-ai-assistant-actually-query-your-database-4ea5",
+   "date": "2026-08-14T18:59:43+00:00",
+   "summary": "Most database GUIs were designed before \"AI coding assistant\" was a category. You'd find a bug,...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Your acquisitions table needs a status field, not a boolean",
    "url": "https://dev.to/corpdigest/your-acquisitions-table-needs-a-status-field-not-a-boolean-1gck",
@@ -305,7 +327,7 @@
    "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
    "date": "2026-08-13T23:46:00+00:00",
    "summary": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
-   "points": 9,
+   "points": 14,
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -1472,16 +1494,6 @@
    "lang": "en"
   },
   {
-   "title": "SDE Bootcamp 15: Azure SQL Database: Table Creation for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9paDNja2FFcXV4NDNmbTNsWWJfSzdjaXhxRHZnZXA3d1pJMjFqOEg3UVZGV0kweHVQU0NHQklLQW9RS3d0VDdtaVh2LXQtdWlnbTk5anNB?oc=5",
-   "date": "2024-10-26T08:08:59+00:00",
-   "summary": "SDE Bootcamp 15: Azure SQL Database: Table Creation for Beginners YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "SQL Server 2022 شرح اولى حلقات كورس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SbEhaQm9tWEVyczRpMVdfRFJtcExSZUg5b0NabE9STnk0NFZXaDhoaFRRUlNENlV5Vno4Tm5sMEV1U0MtNk55VjBESy1naVA5ZDNzRzhR?oc=5",
    "date": "2024-10-23T18:06:20+00:00",
@@ -1500,16 +1512,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "SDE Bootcamp 14: Azure SQL Database Setup: A Complete Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwXzJySVZJY0x2NW51d2xvRFYzMk0wZnNNTVE4bnk0T0dTZEF6ZG5ZR2xCQ2dkUzZkbDQtWXAzWkJ6NmVMQ0FkanFEYkp0WFRMbkNDVVRR?oc=5",
-   "date": "2024-10-20T11:50:39+00:00",
-   "summary": "SDE Bootcamp 14: Azure SQL Database Setup: A Complete Tutorial for Beginners YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "الفرق بين SQL و MySQL | ما هي قاعدة البيانات و كيفية التعامل معها؟",

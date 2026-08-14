@@ -19,64 +19,113 @@ const CAPS = { pypi:15, blogs:50, devto:45, hn:40, so:30, github:25, reddit:30,
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
-  { id:'python', name:'بايثون', hn:'python', so:'python', gh:'python',
+  { id:'python', name:'🐍 بايثون', hn:'python', so:'python', gh:'python',
     devto:['python','django','fastapi'], reddit:['Python','learnpython'],
     blogs:['https://realpython.com/atom.xml','https://planetpython.org/rss20.xml','https://blog.python.org/feeds/posts/default'],
     ar:['برمجة بايثون OR "تعلم بايثون" OR "لغة بايثون"','"بايثون" (دورة OR شرح OR كورس OR مشروع)'],
     match:/\bpython\b|بايثون|بايثن|\bdjango\b|جانغو|\bflask\b|فلاسك|\bfastapi\b|\bpandas\b|\bnumpy\b/i },
 
-  { id:'javascript', name:'جافاسكربت', hn:'javascript', so:'javascript', gh:'javascript',
+  { id:'javascript', name:'🟨 جافاسكربت', hn:'javascript', so:'javascript', gh:'javascript',
     devto:['javascript','react','nodejs'], reddit:['javascript','learnjavascript'], blogs:[],
     ar:['"جافاسكربت" OR "جافا سكريبت" برمجة','"جافاسكربت" (دورة OR شرح OR مشروع)'],
     match:/\bjavascript\b|\bjs\b|جافاسكربت|جافا سكريبت|\breact\b|\bnode\.?js\b|\btypescript\b|رياكت/i },
 
-  { id:'sql', name:'SQL', hn:'sql database', so:'sql', gh:'sql',
+  { id:'csharp', name:'🟦 ‏#C و‏.NET', hn:'dotnet', so:'c%23', gh:'c%23',
+    devto:['csharp','dotnet'], reddit:['csharp','dotnet'], blogs:[],
+    ar:['"سي شارب" OR "#C" برمجة','"دوت نت" OR ".NET" دورة OR شرح'],
+    match:/\bc#|c ?sharp|\.net\b|dotnet|سي شارب|\bunity\b|يونيتي|\bblazor\b|\basp\.net/i },
+
+  { id:'php', name:'🐘 PHP', hn:'php', so:'php', gh:'php',
+    devto:['php','laravel'], reddit:['PHP','laravel'], blogs:[],
+    ar:['"بي اتش بي" OR "PHP" برمجة موقع','"لارافيل" OR "Laravel" دورة OR شرح'],
+    match:/\bphp\b|laravel|لارافيل|بي ?اتش ?بي|\bwordpress\b|ووردبريس|symfony/i },
+
+  { id:'ruby', name:'💎 Ruby', hn:'ruby', so:'ruby', gh:'ruby',
+    devto:['ruby','rails'], reddit:['ruby','rails'], blogs:[],
+    ar:['"لغة روبي" OR Ruby برمجة'],
+    match:/\bruby\b|\brails\b|روبي/i },
+
+  { id:'swift', name:'🍎 Swift للآيفون', hn:'swift', so:'swift', gh:'swift',
+    devto:['swift','ios'], reddit:['swift','iOSProgramming'], blogs:[],
+    ar:['"تطبيقات الآيفون" OR "سويفت" برمجة','"iOS" تطوير تطبيقات دورة OR شرح'],
+    match:/\bswift(ui)?\b|\bios\b|\bxcode\b|سويفت|الآيفون|الايفون|تطبيقات ابل|\bapp ?store\b/i },
+
+  { id:'kotlin', name:'🤖 Kotlin للأندرويد', hn:'kotlin', so:'kotlin', gh:'kotlin',
+    devto:['kotlin','android'], reddit:['Kotlin','androiddev'], blogs:[],
+    ar:['"تطبيقات الأندرويد" برمجة كوتلن','"أندرويد" تطوير تطبيقات دورة OR شرح'],
+    match:/\bkotlin\b|\bandroid\b|كوتلن|أندرويد|اندرويد|jetpack ?compose|android ?studio/i },
+
+  { id:'flutter', name:'💙 Flutter', hn:'flutter', so:'flutter', gh:'dart',
+    devto:['flutter','dart'], reddit:['FlutterDev'], blogs:[],
+    ar:['"فلاتر" OR Flutter تطبيقات برمجة','"دارت" OR Dart لغة شرح'],
+    match:/\bflutter\b|\bdart\b|فلاتر|دارت/i },
+
+  { id:'sql', name:'🗄 SQL وقواعد البيانات', hn:'sql', so:'sql', gh:'sql',
     devto:['sql','database'], reddit:['SQL','learnSQL'], blogs:[],
     ar:['"قواعد البيانات" SQL تعلم','"لغة SQL" شرح OR دورة'],
     match:/\bsql\b|\bpostgres\b|\bmysql\b|\bsqlite\b|\bdatabases?\b|\borm\b|قواعد البيانات|قاعدة بيانات/i },
 
-  { id:'cpp', name:'C / C++', hn:'c++', so:'c%2B%2B', gh:'c%2B%2B',
+  { id:'cpp', name:'⚙️ C / C++', hn:'c++', so:'c%2B%2B', gh:'c%2B%2B',
     devto:['cpp','c'], reddit:['cpp','C_Programming'], blogs:[],
     ar:['"سي بلس بلس" OR "لغة سي" برمجة','"++C" شرح OR دورة'],
     match:/\bc\+\+\b|\bcpp\b|سي بلس بلس|لغة سي\b/i },
 
-  { id:'java', name:'جافا', hn:'java', so:'java', gh:'java',
+  { id:'java', name:'☕ جافا', hn:'java', so:'java', gh:'java',
     devto:['java'], reddit:['java','learnjava'], blogs:[],
     ar:['"لغة جافا" برمجة OR تعلم','"جافا" (دورة OR شرح) برمجة'],
     match:/\bjava\b(?!script)|لغة جافا|جافا\b(?! ?سكريبت|سكربت)/i },
 
-  { id:'go', name:'Go', hn:'golang', so:'go', gh:'go',
+  { id:'go', name:'🐹 Go', hn:'golang', so:'go', gh:'go',
     devto:['go'], reddit:['golang'], blogs:[],
     ar:['"لغة Go" OR "جولانج" برمجة'],
     match:/\bgolang\b|\bgo\b lang|جولانج|لغة go/i },
 
-  { id:'rust', name:'Rust', hn:'rust', so:'rust', gh:'rust',
+  { id:'rust', name:'🦀 Rust', hn:'rust', so:'rust', gh:'rust',
     devto:['rust'], reddit:['rust'], blogs:[],
     ar:['"لغة رست" OR Rust برمجة'],
     match:/\brust\b|لغة رست|رست\b/i },
 
-  { id:'cyber', name:'🛡 أمن سيبراني', hn:'cybersecurity OR pentest', so:'security', gh:'',
+  { id:'windows', name:'🪟 ويندوز و PowerShell', hn:'powershell', so:'powershell', gh:'powershell',
+    devto:['powershell','windows'], reddit:['PowerShell','sysadmin','Windows10'], blogs:[],
+    ar:['"باور شيل" OR PowerShell ويندوز شرح','"ويندوز" (سطر الأوامر OR سكربت OR أتمتة)'],
+    match:/powershell|باور ?شيل|\bwindows\b|ويندوز|\bwsl\b|\bcmd\b|\bwinget\b|\.bat\b|active directory/i },
+
+  { id:'linux', name:'🐧 لينكس وتوزيعاته', hn:'linux', so:'linux', gh:'',
+    devto:['linux','ubuntu'], reddit:['linux','linux4noobs','archlinux','Ubuntu'], blogs:[],
+    ar:['"لينكس" (توزيعة OR شرح OR دورة)','"أوبونتو" OR "أرش لينكس" OR "ديبيان" شرح'],
+    match:/\blinux\b|لينكس|\bubuntu\b|أوبونتو|اوبونتو|debian|ديبيان|\barch\b|أرش|fedora|فيدورا|centos|\bmint\b|توزيع|\bsystemd\b|\bgrub\b/i },
+
+  { id:'cyber', name:'🛡 أمن سيبراني', hn:'cybersecurity', so:'security', gh:'',
     devto:['security','cybersecurity','hacking'], reddit:['netsec','HowToHack','AskNetsec'], blogs:[],
     ar:['"الأمن السيبراني" (اختبار اختراق OR "كالي لينكس" OR "اختراق أخلاقي")',
         '"أمن المعلومات" (دورة OR شرح OR مشروع) اختراق'],
     match:/أمن سيبراني|أمن المعلومات|اختراق|كالي لينكس|اختبار اختراق|ثغر|تشفير|\bsecurity\b|\bpentest|\bkali\b|tryhackme|hack ?the ?box|\bctf\b|\bnmap\b|metasploit|burp ?suite|\bowasp\b|\bxss\b|sql ?injection|\bmalware\b|\bforensics\b/i },
 
-  { id:'bash', name:'Bash / Shell', hn:'bash shell scripting', so:'bash', gh:'shell',
-    devto:['bash','linux'], reddit:['bash','linuxadmin'], blogs:[],
-    ar:['"سطر الأوامر" لينكس سكربت','"باش" OR "شل" برمجة لينكس'],
-    match:/\bbash\b|\bshell\b|\bzsh\b|سطر الأوامر|سكربت|لينكس/i },
+  { id:'bash', name:'🖥 الطرفية و Bash', hn:'bash', so:'bash', gh:'shell',
+    devto:['bash','linux'], reddit:['bash','commandline','linuxadmin'], blogs:[],
+    ar:['"سطر الأوامر" لينكس سكربت','"باش" OR "الطرفية" OR "تيرمنال" شرح'],
+    match:/\bbash\b|\bshell\b|\bzsh\b|\bterminal\b|سطر الأوامر|الطرفية|تيرمنال|سكربت|\bgrep\b|\bsed\b|\bawk\b|\btmux\b|\bvim\b/i },
+
+  { id:'kali', name:'🗡 كالي وأدوات الاختراق', hn:'kali linux', so:'', gh:'',
+    devto:['hacking','security','pentesting'], reddit:['Kalilinux','HowToHack','oscp','AskNetsec'], blogs:[],
+    ar:['"كالي لينكس" أدوات اختبار الاختراق شرح','"اختراق أخلاقي" (nmap OR metasploit OR burp) شرح'],
+    match:/كالي|\bkali\b|\bnmap\b|metasploit|\bmsfvenom\b|burp ?suite|wireshark|aircrack|\bhydra\b|john the ripper|sqlmap|\bnikto\b|hashcat|\bgobuster\b|\bnetcat\b|أدوات اختراق|اختبار الاختراق/i },
 ];
 const techById = id => TECHS.find(t => t.id === id);
 
 // مصادر مقالات وصوتيات لكل مسار (تُرشَّح بتعبير المسار نفسه)
 const MEDIUM_TAG = {
-  python:'python', javascript:'javascript', sql:'sql', cpp:'cpp',
-  java:'java', go:'golang', rust:'rust', bash:'linux', cyber:'cybersecurity',
+  python:'python', javascript:'javascript', sql:'sql', cpp:'cpp', java:'java',
+  csharp:'csharp', php:'php', ruby:'ruby', go:'golang', rust:'rust',
+  swift:'ios-app-development', kotlin:'android', flutter:'flutter',
+  windows:'powershell', linux:'linux', bash:'bash',
+  cyber:'cybersecurity', kali:'penetration-testing',
 };
 const PODCASTS = {
   python: ['https://talkpython.fm/episodes/rss', 'https://pythonbytes.fm/episodes/rss'],
   javascript: ['https://feed.syntax.fm/rss'],
   cyber: ['https://feeds.megaphone.fm/darknetdiaries'],
+  kali: ['https://feeds.megaphone.fm/darknetdiaries'],
 };
 
 /* ---------- مسار التعلّم ---------- */
@@ -100,6 +149,10 @@ const STAGES = [
   { id:'sec-web',    name:'🛡 ثغرات الويب',          re:/\bxss\b|sql ?injection|\bowasp\b|burp ?suite|ثغرات الويب|\bcsrf\b|\bssrf\b|web ?vuln/i },
   { id:'sec-exp',    name:'🛡 الاستغلال والاختبار',  re:/metasploit|\bexploit|اختبار اختراق|pentest|tryhackme|hack ?the ?box|\bctf\b|payload/i },
   { id:'sec-net',    name:'🛡 الشبكات والتشفير',     re:/شبكات|تشفير|\bcrypto|\btls\b|\bvpn\b|wireshark|packet|\bfirewall\b|جدار ناري/i },
+  // مسارات المنصات
+  { id:'mobile',  name:'📱 تطبيقات الجوال',   re:/\bandroid\b|\bios\b|\bmobile\b|تطبيقات الجوال|أندرويد|اندرويد|الآيفون|\bflutter\b|\bswiftui\b|jetpack ?compose/i },
+  { id:'sysadmin',name:'🖥 إدارة الأنظمة',     re:/\bserver\b|\bsysadmin\b|\bdocker\b|\bnginx\b|\bsystemd\b|\bssh\b|إدارة الأنظمة|سيرفر|خادم|\bdeploy|\bbackup\b/i },
+  { id:'tools',   name:'🗡 أدوات الاختبار',    re:/\bnmap\b|metasploit|burp ?suite|wireshark|sqlmap|hashcat|\bhydra\b|aircrack|\bnikto\b|\bgobuster\b|أدوات اختراق/i },
 ];
 
 /* ---------- تصنيف المستوى والنوع ---------- */
@@ -417,14 +470,14 @@ function jobsFor(techId){
   if (!t) return [];
 
   const jobs = [
-    { name:'Hacker News',    fn:() => fetchHN(t) },
-    { name:'DEV.to',         fn:() => fetchDevTo(t) },
-    { name:'Stack Overflow', fn:() => fetchSO(t) },
+    { name:'Hacker News', fn:() => fetchHN(t) },
+    { name:'DEV.to',      fn:() => fetchDevTo(t) },
     { name:'مقالات عربية',   fn:() => fetchFeeds(t.ar.map(q => gnews(q, 'ar')), 'ar-news', 'مقالات عربية', t.id, true) },
     { name:'فيديوهات عربية', fn:() => fetchFeeds([gnews(`${t.ar[0]} site:youtube.com`, 'ar')], 'ar-yt', 'فيديوهات ودروس', t.id, true) },
     { name:'فيديوهات إنجليزية', fn:() => fetchFeeds(
         [gnews(`${t.hn} tutorial site:youtube.com`, 'en')], 'yt', 'يوتيوب', t.id, true) },
   ];
+  if (t.so) jobs.push({ name:'Stack Overflow', fn:() => fetchSO(t) });
   if (t.gh) jobs.push({ name:'GitHub', fn:() => fetchGitHub(t) });
   if (t.reddit.length)
     jobs.push({ name:'Reddit', fn:() => fetchFeeds(
@@ -472,8 +525,11 @@ const savePrefs = () => save(PREF_KEY, prefs);
 
 /* ============================ الجلب ============================ */
 
+let refreshQueued = false;
+
 async function refresh(force = false){
-  if (state.loading) return;
+  // طلب تحديث أثناء تحديث جارٍ (تبديل مسار مثلاً) يُنفَّذ بعده لا يُهمَل
+  if (state.loading){ if (force) refreshQueued = true; return; }
 
   const cached = load(CACHE_KEY, null);
   const sameDay = cached && new Date(cached.ts).toDateString() === new Date().toDateString();
@@ -526,6 +582,8 @@ async function refresh(force = false){
   render();
   setStatus(failed.size ? `تعذّر الوصول إلى: ${[...failed].join('، ')}` : '');
   if (failed.size) setTimeout(() => setStatus(''), 6000);
+
+  if (refreshQueued){ refreshQueued = false; refresh(true); }
 }
 
 /** يدمج بلا تكرار، يرتّب بالأحدث، ويطبّق حداً لكل مصدر. */
@@ -951,12 +1009,15 @@ function renderCodeTerms(){
 
 /* ---------- بحث سريع جاهز ---------- */
 const PRESETS = [
-  'مشروع بايثون للأمن السيبراني',
-  'أتمتة المهام بايثون',
-  'مشروع تخرج بايثون',
-  'أسئلة مقابلات بايثون',
   'كالي لينكس من الصفر',
-  'تحليل بيانات بايثون',
+  'أوامر لينكس الأساسية',
+  'تطبيق أندرويد بالكوتلن',
+  'تطبيق آيفون بالسويفت',
+  'مشروع بايثون للأمن السيبراني',
+  'أتمتة المهام بالباش',
+  'PowerShell للمبتدئين',
+  'أسئلة مقابلات البرمجة',
+  'تطوير الويب من الصفر',
 ];
 
 function renderPresets(){
