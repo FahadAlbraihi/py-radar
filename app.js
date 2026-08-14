@@ -597,16 +597,21 @@ function merge(oldItems, newItems){
   const sorted = [...map.values()].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
 
   const per = new Map();
-  const out = [];
+  const capped = [];
   for (const i of sorted){
     const key = i.tech + ':' + i.sourceId;
     const n = per.get(key) || 0;
     if (n >= (CAPS[i.sourceId] ?? 999)) continue;
     per.set(key, n + 1);
-    out.push(i);
-    if (out.length >= MAX_STORE) break;
+    capped.push(i);
   }
-  return out;
+  if (capped.length <= MAX_STORE) return capped;
+
+  /* المحتوى العربي أندر بكثير؛ بلا حصة محجوزة تزحمه المصادر الإنجليزية
+     الغزيرة عند تفعيل عدة مسارات معاً. */
+  const arabic  = capped.filter(i => i.lang === 'ar').slice(0, Math.round(MAX_STORE * 0.45));
+  const english = capped.filter(i => i.lang !== 'ar').slice(0, MAX_STORE - arabic.length);
+  return [...arabic, ...english].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
 }
 
 /* ============================ العرض ============================ */
