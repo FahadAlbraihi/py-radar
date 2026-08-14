@@ -1,14 +1,14 @@
 {
- "generated": "2026-08-14T09:23:42.248012+00:00",
+ "generated": "2026-08-14T09:30:15.006278+00:00",
  "tech": "bash",
- "count": 81,
+ "count": 106,
  "items": [
   {
-   "title": "dockur/windows",
-   "url": "https://github.com/dockur/windows",
-   "date": "2026-08-14T09:22:42+00:00",
-   "summary": "Windows inside a Docker container.",
-   "points": 52862,
+   "title": "community-scripts/ProxmoxVE",
+   "url": "https://github.com/community-scripts/ProxmoxVE",
+   "date": "2026-08-14T09:27:53+00:00",
+   "summary": "Proxmox VE Helper-Scripts (Community Edition) ",
+   "points": 29258,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -16,11 +16,11 @@
    "kind": "news"
   },
   {
-   "title": "community-scripts/ProxmoxVE",
-   "url": "https://github.com/community-scripts/ProxmoxVE",
-   "date": "2026-08-14T08:05:57+00:00",
-   "summary": "Proxmox VE Helper-Scripts (Community Edition) ",
-   "points": 29258,
+   "title": "dockur/windows",
+   "url": "https://github.com/dockur/windows",
+   "date": "2026-08-14T09:22:42+00:00",
+   "summary": "Windows inside a Docker container.",
+   "points": 52862,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -60,6 +60,16 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Quick Linux Tip #44 Question: My connections feel unreliable. How do I check for hidden packet loss?",
+   "url": "https://www.reddit.com/r/bash/comments/1vo09gx/quick_linux_tip_44_question_my_connections_feel/",
+   "date": "2026-08-14T07:15:27+00:00",
+   "summary": "submitted by /u/LinuxBook [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -106,6 +116,26 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Run a company of AI agents in pure Bash",
+   "url": "https://www.reddit.com/r/bash/comments/1vnd5a8/run_a_company_of_ai_agents_in_pure_bash/",
+   "date": "2026-08-13T15:00:04+00:00",
+   "summary": "I open-sourced 5dive , a CLI for running a company of AI agents on a Linux box you own. ~96% bash. Processing img t3zm9rzio5jh1... GitHub: https://github.com/5dive-ai/5dive (MIT) Each agent gets its own Linux user and runs an official CLI l",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
+   "title": "Quick Linux Tip #43 Question: How do I extract config values from between BEGIN and END markers?",
+   "url": "https://www.reddit.com/r/bash/comments/1vncqzw/quick_linux_tip_43_question_how_do_i_extract/",
+   "date": "2026-08-13T14:45:56+00:00",
+   "summary": "submitted by /u/LinuxBook [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -158,7 +188,7 @@
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-08-13T09:06:37+00:00",
    "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-   "points": 216963,
+   "points": 216973,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -270,12 +300,22 @@
    "url": "https://github.com/obra/superpowers",
    "date": "2026-08-13T00:36:31+00:00",
    "summary": "An agentic skills framework & software development methodology that works.",
-   "points": 271950,
+   "points": 271952,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "Run commands in parallel",
+   "url": "https://www.reddit.com/r/bash/comments/1vmnuty/run_commands_in_parallel/",
+   "date": "2026-08-12T19:20:46+00:00",
+   "summary": "I have a script that collects a list of directories that match a set of criteria and then goes into each one and runs a command. So something like this: #!/bin/bash startDir= $(realpath $1 ) cd $startDir || exit while IFS= read -r -d dir; d",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
   },
   {
    "title": "Escribir Caracteres del Español con Teclado Inglés en Linux: Hackeando XKB sin Permisos de Root",
@@ -289,6 +329,16 @@
    "lang": "en"
   },
   {
+   "title": "Best Practices for Scripting (Linux only)",
+   "url": "https://www.reddit.com/r/bash/comments/1vmkb5m/best_practices_for_scripting_linux_only/",
+   "date": "2026-08-12T17:13:50+00:00",
+   "summary": "submitted by /u/Unlikely_Zone_2589 [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "8 Linux Myths Even Senior Engineers Still Fall For (And How They Hurt Production)",
    "url": "https://dev.to/asepsayyad007/8-linux-myths-even-senior-engineers-still-fall-for-and-how-they-hurt-production-1o01",
    "date": "2026-08-12T16:39:23+00:00",
@@ -297,6 +347,16 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Rate my .bashrc",
+   "url": "https://www.reddit.com/r/bash/comments/1vmi8uo/rate_my_bashrc/",
+   "date": "2026-08-12T16:01:10+00:00",
+   "summary": "Hello, did a bit of Bash customization and came up with this. ~/.bashrc | Pastebin starship.toml | Pastebin I m open to critics and it s my first time. 😃 submitted by /u/Weydoon [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -315,7 +375,7 @@
    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
    "date": "2026-08-12T13:34:46+00:00",
    "summary": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-   "points": 24290,
+   "points": 24291,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -333,6 +393,16 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "local -n can modify variables from other functions",
+   "url": "https://www.reddit.com/r/bash/comments/1vmbck1/local_n_can_modify_variables_from_other_functions/",
+   "date": "2026-08-12T11:22:07+00:00",
+   "summary": "In Bash, normal local variables are usually fine. But with local -n (namerefs) I noticed they can sometimes change variables from outer/previous functions because of how scoping works. To avoid problems I started giving local variables uniq",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
   },
   {
    "title": "Linux Server Administration: The Skills That Actually Make You Dangerous in Production",
@@ -354,6 +424,16 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Wrapping search in less",
+   "url": "https://www.reddit.com/r/bash/comments/1vlpmyz/wrapping_search_in_less/",
+   "date": "2026-08-11T18:25:52+00:00",
+   "summary": "I put / forw-search ^W in lesskey config to make search to wrap at the end of file when I use / to start a search. How can I make n wrap when I resume the last search when I open less ? I tried adding n repeat-search ^W but it doesn t make ",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -391,6 +471,26 @@
    "lang": "en"
   },
   {
+   "title": "Multitask version of bash",
+   "url": "https://www.reddit.com/r/bash/comments/1vl6bb1/multitask_version_of_bash/",
+   "date": "2026-08-11T03:35:02+00:00",
+   "summary": "I adapted the bash shell 5.3 to more easily handle tasking. Each command has its output gathered into lines and each line is tagged and send to the output with a preamble. The bash input stays on the command line and you can type command li",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
+   "title": "I don't know what this means",
+   "url": "https://www.reddit.com/r/bash/comments/1vl4i7y/i_dont_know_what_this_means/",
+   "date": "2026-08-11T02:08:38+00:00",
+   "summary": "This is from a script that sends the output of an nmap scan to some files. But I can t figure out what \\| does. Please help RESULT=$(nmap -iL $(HOSTS) --open | grep Nmap scan report\\|tcp open ) What confuses me is that after running nmap, \\",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "5 Linux Terminal Combos Every Developer Should Know (Plus Automation Scripts)",
    "url": "https://dev.to/astrosss/5-linux-terminal-combos-every-developer-should-know-plus-automation-scripts-1d12",
    "date": "2026-08-11T00:58:21+00:00",
@@ -402,11 +502,21 @@
    "lang": "en"
   },
   {
+   "title": "Another Bash Prompt Generator...but better!",
+   "url": "https://www.reddit.com/r/bash/comments/1vkuids/another_bash_prompt_generatorbut_better/",
+   "date": "2026-08-10T19:20:49+00:00",
+   "summary": "I just released v1.0.0 of Promptr. I know there are many other prompt generators and customizers. What sets Promptr apart from them is: It s eye candy. It doesn t look like something straight out of 1995 Users can authenticate with their Go",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "tw93/Mole",
    "url": "https://github.com/tw93/Mole",
    "date": "2026-08-10T18:18:10+00:00",
    "summary": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
-   "points": 63473,
+   "points": 63474,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -437,6 +547,16 @@
    "lang": "en"
   },
   {
+   "title": "Quick Linux Tip #41 Question: How do I find duplicate files even if they have different names?",
+   "url": "https://www.reddit.com/r/bash/comments/1vk9z64/quick_linux_tip_41_question_how_do_i_find/",
+   "date": "2026-08-10T03:41:46+00:00",
+   "summary": "submitted by /u/Expensive-Rice-2052 [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "Sign up and receive $100 on Google Play!",
    "url": "https://dev.to/al_islam_92240b3be93b2b91/sign-up-and-receive-100-on-google-play-38me",
    "date": "2026-08-09T13:52:11+00:00",
@@ -448,16 +568,36 @@
    "lang": "en"
   },
   {
+   "title": "return and exit in potentially sourced script",
+   "url": "https://www.reddit.com/r/bash/comments/1vjotxj/return_and_exit_in_potentially_sourced_script/",
+   "date": "2026-08-09T12:38:08+00:00",
+   "summary": "Disclaimer: Yes, I am doing things bash scripting isn t meant for. No, I won t let you talk me out of it. I have a script that might be run directly or might be sourced; so to exit out of it I have to either return or exit accordingly. The ",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "OthmanAdi/planning-with-files",
    "url": "https://github.com/OthmanAdi/planning-with-files",
    "date": "2026-08-09T09:20:09+00:00",
    "summary": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
-   "points": 26164,
+   "points": 26165,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "Use alias from ssh",
+   "url": "https://www.reddit.com/r/bash/comments/1vjaemx/use_alias_from_ssh/",
+   "date": "2026-08-08T23:35:03+00:00",
+   "summary": "I can do ssh $HOST then use myalias $PATH to use an alias set in .bashrc (and .bash_profile does source ~/.bashrc ). But I can t do ssh $HOST myalias $PATH it can t find myalias. How can I use the alias and use $PATH that s on the server? s",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
   },
   {
    "title": "hwdsl2/setup-ipsec-vpn",
@@ -472,6 +612,16 @@
    "kind": "news"
   },
   {
+   "title": "made a proot alternative that doesn't use ptrace, curious if it holds up for anyone else",
+   "url": "https://www.reddit.com/r/bash/comments/1vj4852/made_a_proot_alternative_that_doesnt_use_ptrace/",
+   "date": "2026-08-08T19:04:57+00:00",
+   "summary": "submitted by /u/dsecurity49 [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "gpakosz/.tmux",
    "url": "https://github.com/gpakosz/.tmux",
    "date": "2026-08-08T15:52:45+00:00",
@@ -482,6 +632,26 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "Shell poetry",
+   "url": "https://www.reddit.com/r/bash/comments/1viiar1/shell_poetry/",
+   "date": "2026-08-08T01:06:59+00:00",
+   "summary": "for for in for; do eval $for $for in $for; do echo \\$$for; done ; done do=for; eval=do; for=in; in=echo; echo=eval; foo=done; done=foo; $echo $do $eval $for echo; $eval $in $done; $foo for=$(for do in for do in echo \\; do echo \\$do \\; done;",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
+   "title": "Jobman: a daemonless CLI for long-running jobs with retries, timeouts, dependencies, and durable logs",
+   "url": "https://www.reddit.com/r/bash/comments/1vihvgs/jobman_a_daemonless_cli_for_longrunning_jobs_with/",
+   "date": "2026-08-08T00:46:27+00:00",
+   "summary": "I ve long used nohup for background processes that I want to run independently of the terminal. These types of jobs are usually long-running, sometimes launched over an SSH connection, and often have dependencies on other jobs. I built Jobm",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
   },
   {
    "title": "zsh-users/zsh-syntax-highlighting",
@@ -496,6 +666,16 @@
    "kind": "news"
   },
   {
+   "title": "My favorite little bat wrapper I just wrote",
+   "url": "https://www.reddit.com/r/bash/comments/1vi91ip/my_favorite_little_bat_wrapper_i_just_wrote/",
+   "date": "2026-08-07T18:42:53+00:00",
+   "summary": "I wrote a wrapper function for the wonderful bat that searches a file for a function name and prints just that function and definition to stdout. I ve been using it a ton looking through legacy java projects and deployment scripts that I wa",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "useful-bash-functions",
    "url": "https://dev.to/mike_e677ba7447/useful-bash-functions-5ajn",
    "date": "2026-08-07T17:17:51+00:00",
@@ -504,6 +684,16 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "mirror-repo: Auto-sync Gitlab and Github repositories",
+   "url": "https://www.reddit.com/r/bash/comments/1vhux6o/mirrorrepo_autosync_gitlab_and_github_repositories/",
+   "date": "2026-08-07T08:34:35+00:00",
+   "summary": "mirror-repo is a CLI tool that creates a paired GitLab + GitHub repo in one command. You run mirror-repo my-project, and it: Creates a private or public repo on GitLab Creates an empty repo on GitHub 3. Configures GitLab s push mirror so ev",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -518,11 +708,21 @@
    "lang": "en"
   },
   {
+   "title": "Login with ssh password with bash only",
+   "url": "https://www.reddit.com/r/bash/comments/1vhc093/login_with_ssh_password_with_bash_only/",
+   "date": "2026-08-06T18:10:59+00:00",
+   "summary": "I can use programs like sshpass/expect to give a ssh password to the ssh command if I don t have pubkey auth. Can I do it using just bash? Some programs let you pipe a password on stdin can I do anything for ssh? It is to automate first log",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
    "title": "msitarzewski/agency-agents",
    "url": "https://github.com/msitarzewski/agency-agents",
    "date": "2026-08-06T13:29:47+00:00",
    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-   "points": 145377,
+   "points": 145378,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -546,12 +746,22 @@
    "url": "https://github.com/yuaotian/go-cursor-help",
    "date": "2026-08-05T16:58:36+00:00",
    "summary": "解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.",
-   "points": 26240,
+   "points": 26239,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "I built a visual game entirely in pure Bash — here is the demo and full source code!",
+   "url": "https://www.reddit.com/r/bash/comments/1vg6690/i_built_a_visual_game_entirely_in_pure_bash_here/",
+   "date": "2026-08-05T12:37:26+00:00",
+   "summary": "Hey everyone, I wanted to show what s actually possible using just pure Bash —from custom terminal graphics and animations to game logic. I ve been working on a project called Alchemon , a game written completely in Shell script that pushes",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
   },
   {
    "title": "Automating Java Servlet Deployments with Gradle and Bash",
@@ -562,6 +772,16 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bash is way too fun",
+   "url": "https://www.reddit.com/r/bash/comments/1vfk2qh/bash_is_way_too_fun/",
+   "date": "2026-08-04T19:17:58+00:00",
+   "summary": "I m a construction worker and love tech, switched to Linux last year and wanted to learn BASH just out of curiosity not necessity. The only other language I have experience is GML from when I was a teen. So I ve been building a text adventu",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -585,6 +805,26 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Terminal Based Universal-Downloader - Supports Youtube/Flathub/Github/Torrents/Direct Links",
+   "url": "https://www.reddit.com/r/bash/comments/1verwu8/terminal_based_universaldownloader_supports/",
+   "date": "2026-08-03T22:20:38+00:00",
+   "summary": "Hello everyone. This is my small contribution to Linux community, I made this bash script in 2022 and i ve been using it ever since and now i ve also included Flatpak(Flathub) support aswell. Description: A lightweight Linux Bash script tha",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Interview Question",
+   "url": "https://www.reddit.com/r/bash/comments/1veg8ir/linux_interview_question/",
+   "date": "2026-08-03T15:13:17+00:00",
+   "summary": "Today I had a mock interview with a senior Linux administrator, and he asked me a question that completely caught me off guard: Can you collect CPU, Memory, and Disk usage in a Bash script without using top , free , df , or any external com",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -773,6 +1013,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "set -x is your friend",
+   "url": "https://www.reddit.com/r/bash/comments/xcejrb/set_x_is_your_friend/",
+   "date": "2022-09-12T14:39:30+00:00",
+   "summary": "I enjoy looking through all the posts in this sub, to see the weird shit you guys are trying to do. Also, I think most people are happy to help, if only to flex their knowledge. However, a huge part of programming in general is learning how",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/bash",
+   "lang": "en"
   },
   {
    "title": "تعريف وتنصيب zsh — [الجزء 1]",

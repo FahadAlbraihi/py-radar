@@ -1,14 +1,14 @@
 {
- "generated": "2026-08-14T09:22:47.917116+00:00",
+ "generated": "2026-08-14T09:29:19.352325+00:00",
  "tech": "cpp",
- "count": 175,
+ "count": 198,
  "items": [
   {
-   "title": "tensorflow/tensorflow",
-   "url": "https://github.com/tensorflow/tensorflow",
-   "date": "2026-08-14T09:21:57+00:00",
-   "summary": "An Open Source Machine Learning Framework for Everyone",
-   "points": 197017,
+   "title": "ClickHouse/ClickHouse",
+   "url": "https://github.com/ClickHouse/ClickHouse",
+   "date": "2026-08-14T09:28:59+00:00",
+   "summary": "ClickHouse® is a real-time analytics database management system",
+   "points": 49241,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -16,11 +16,23 @@
    "kind": "news"
   },
   {
-   "title": "ClickHouse/ClickHouse",
-   "url": "https://github.com/ClickHouse/ClickHouse",
-   "date": "2026-08-14T09:21:49+00:00",
-   "summary": "ClickHouse® is a real-time analytics database management system",
-   "points": 49240,
+   "title": "tensorflow/tensorflow",
+   "url": "https://github.com/tensorflow/tensorflow",
+   "date": "2026-08-14T09:26:48+00:00",
+   "summary": "An Open Source Machine Learning Framework for Everyone",
+   "points": 197018,
+   "tech": "cpp",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "grpc/grpc",
+   "url": "https://github.com/grpc/grpc",
+   "date": "2026-08-14T09:26:19+00:00",
+   "summary": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+   "points": 45284,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -64,18 +76,6 @@
    "kind": "news"
   },
   {
-   "title": "grpc/grpc",
-   "url": "https://github.com/grpc/grpc",
-   "date": "2026-08-14T08:26:39+00:00",
-   "summary": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-   "points": 45284,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "opencv/opencv",
    "url": "https://github.com/opencv/opencv",
    "date": "2026-08-14T08:26:24+00:00",
@@ -104,7 +104,7 @@
    "url": "https://github.com/LadybirdBrowser/ladybird",
    "date": "2026-08-14T08:01:45+00:00",
    "summary": "Truly independent web browser",
-   "points": 65589,
+   "points": 65590,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -174,12 +174,32 @@
    "url": "https://github.com/microsoft/terminal",
    "date": "2026-08-13T22:57:47+00:00",
    "summary": "The new Windows Terminal and the original Windows console host, all in the same place!",
-   "points": 104604,
+   "points": 104605,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "C++26: std::indirect",
+   "url": "https://www.reddit.com/r/cpp/comments/1vnp8dk/c26_stdindirect/",
+   "date": "2026-08-13T22:20:44+00:00",
+   "summary": "submitted by /u/User_Deprecated [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
+   "title": "We Should Use Instrumented Profiling Scopes More · Mathieu Ropert",
+   "url": "https://www.reddit.com/r/cpp/comments/1vnp7b6/we_should_use_instrumented_profiling_scopes_more/",
+   "date": "2026-08-13T22:19:31+00:00",
+   "summary": "submitted by /u/mropert [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
   },
   {
    "title": "What Building a C++ Benchmarking Suite Taught Me About \"Simple\" Data Structures",
@@ -307,6 +327,16 @@
    "lang": "en"
   },
   {
+   "title": "MSVC Build Tools Preview updates - August 2026",
+   "url": "https://www.reddit.com/r/cpp/comments/1vnda9q/msvc_build_tools_preview_updates_august_2026/",
+   "date": "2026-08-13T15:04:38+00:00",
+   "summary": "Hi, one of the MSVC dev leads here. The post covers what s new in the MSVC Build Tools Preview (version 14.52) since mid-July. Instructions to install use the latest preview bits are at https://aka.ms/msvc/preview . Like last month, there s",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "What is the best practice to require functionality in a C++ template class?",
    "url": "https://stackoverflow.com/questions/79993853/what-is-the-best-practice-to-require-functionality-in-a-c-template-class",
    "date": "2026-08-13T15:01:37+00:00",
@@ -401,7 +431,7 @@
    "url": "https://github.com/WerWolv/ImHex",
    "date": "2026-08-13T00:35:11+00:00",
    "summary": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-   "points": 54459,
+   "points": 54460,
    "tech": "cpp",
    "sourceId": "github",
    "source": "GitHub",
@@ -454,14 +484,13 @@
    "kind": "news"
   },
   {
-   "title": "C++26: Std:Indirect",
-   "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
-   "date": "2026-08-12T16:13:23+00:00",
-   "summary": "",
-   "points": 3,
+   "title": "Boost 1.92.0 released",
+   "url": "https://www.reddit.com/r/cpp/comments/1vmi7ny/boost_1920_released/",
+   "date": "2026-08-12T16:00:11+00:00",
+   "summary": "Boost 1.92.0 is out. Highlights from this release: GPU / CUDA Charconv: to_chars and from_chars for integers are now usable inside CUDA kernels. Decimal: decimal32_t , decimal64_t , and decimal128_t are now usable in CUDA kernels. Math: fix",
    "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -487,6 +516,16 @@
    "lang": "en"
   },
   {
+   "title": "[CPP Epiphany Rant] - Programming is no joke",
+   "url": "https://www.reddit.com/r/cpp/comments/1vm6g7m/cpp_epiphany_rant_programming_is_no_joke/",
+   "date": "2026-08-12T06:43:10+00:00",
+   "summary": "Hi CPP Community, This is just a rant. I m a 24 yr old data analytics in telecommunication trying to pivot into C++ development for finance. I m 1 month into C++ and I have come to conclusion C++ is a behemoth. I m enrolled in Baruch Colleg",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "Can compiler ignore ill formed parts of the template body that are never used",
    "url": "https://stackoverflow.com/questions/79993403/can-compiler-ignore-ill-formed-parts-of-the-template-body-that-are-never-used",
    "date": "2026-08-12T06:33:03+00:00",
@@ -506,6 +545,16 @@
    "tech": "cpp",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Another C++26 reflection based dependency inverter",
+   "url": "https://www.reddit.com/r/cpp/comments/1vm5dfn/another_c26_reflection_based_dependency_inverter/",
+   "date": "2026-08-12T05:41:57+00:00",
+   "summary": "Someone else did a similar thing a few months ago, but I wanted to see if it could be done with templates. I ended up writing a dependency inverter/injector that can reflect on the concepts restricting unfilled template types and substitute",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -531,6 +580,16 @@
    "lang": "en"
   },
   {
+   "title": "Estimating branch probabilities",
+   "url": "https://www.reddit.com/r/cpp/comments/1vlwztv/estimating_branch_probabilities/",
+   "date": "2026-08-11T23:02:59+00:00",
+   "summary": "submitted by /u/User_Deprecated [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "DFlash Changes What Tokens per Second Means",
    "url": "https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493",
    "date": "2026-08-11T20:28:31+00:00",
@@ -550,6 +609,16 @@
    "tech": "cpp",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Latest News From Upcoming C++ Conferences (2026-08-11)",
+   "url": "https://www.reddit.com/r/cpp/comments/1vlrrja/latest_news_from_upcoming_c_conferences_20260811/",
+   "date": "2026-08-11T19:42:11+00:00",
+   "summary": "TICKETS AVAILABLE TO PURCHASE The following conferences currently have tickets available to purchase CppCon (12th - 18th September) - You can buy standard tickets until August 29th at https://cppcon.org/registration/ C++ Under The Sea (14th",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -605,6 +674,16 @@
    "tech": "cpp",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "[Tool/Writeup] ALPC-Enumerator: A dynamic, userland C++ tool to enumerate ALPC ports and detect ALPC spoofing",
+   "url": "https://www.reddit.com/r/cpp/comments/1vlk56w/toolwriteup_alpcenumerator_a_dynamic_userland_c/",
+   "date": "2026-08-11T15:10:05+00:00",
+   "summary": "Hey everyone For some time now, I ve been digging into ALPC, it s a fascinating and deliberately under documented corner of Windows internals. I originally built this userland enumerator to mitigate userland restrictions, but it’s structure",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -674,6 +753,16 @@
    "lang": "en"
   },
   {
+   "title": "Extending `[[clang::lifetimebound]]` to take a condition",
+   "url": "https://www.reddit.com/r/cpp/comments/1vlaqse/extending_clanglifetimebound_to_take_a_condition/",
+   "date": "2026-08-11T07:37:54+00:00",
+   "summary": "submitted by /u/ContDiArco [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "I Ported QOI to Rust. Here's What Almost Broke It.",
    "url": "https://dev.to/anish_prakash1/i-ported-qoi-to-rust-heres-what-almost-broke-it-2g0",
    "date": "2026-08-11T06:50:49+00:00",
@@ -682,6 +771,16 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ACCU Overload Journal 194 - August 2026",
+   "url": "https://www.reddit.com/r/cpp/comments/1vl920n/accu_overload_journal_194_august_2026/",
+   "date": "2026-08-11T06:00:18+00:00",
+   "summary": "submitted by /u/pavel_v [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -729,6 +828,16 @@
    "lang": "en"
   },
   {
+   "title": "GCC Build Experience",
+   "url": "https://www.reddit.com/r/cpp/comments/1vkz4r4/gcc_build_experience/",
+   "date": "2026-08-10T22:14:56+00:00",
+   "summary": "Firstly, you need a native installation of g++ and binutils via your package manager, then you need sysroots for your target platforms(probably x64 glibc linux and arm64 glibc linux). The workflow goes like this, to cross compile GCC itself",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "During overload resolution for list-initialization of an aggregate, why is the second standard conversion sequence an identity conversion?",
    "url": "https://stackoverflow.com/questions/79992052/during-overload-resolution-for-list-initialization-of-an-aggregate-why-is-the-s",
    "date": "2026-08-10T20:39:15+00:00",
@@ -773,6 +882,16 @@
    "lang": "en"
   },
   {
+   "title": "New C++ Conference Videos Released This Month - August 2026 (Updated To Include Videos Released 2026-08-03 - 2026-08-09)",
+   "url": "https://www.reddit.com/r/cpp/comments/1vkpkd5/new_c_conference_videos_released_this_month/",
+   "date": "2026-08-10T16:23:43+00:00",
+   "summary": "C++Now 2026-08-03 - 2026-08-09 How To Make Formal Methods A Software Quality Solution That Can Actually Be Used In The Industry - Steve Barriault - https://youtu.be/OYwDdMCCDIM Link What You Include - Maintain a Coherent CMake Target Model ",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "Hybrid relocatable/fixed arm gcc link output",
    "url": "https://stackoverflow.com/questions/79991987/hybrid-relocatable-fixed-arm-gcc-link-output",
    "date": "2026-08-10T16:14:11+00:00",
@@ -814,6 +933,26 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding std::counting_semaphore and std::binary_semaphore from C++20",
+   "url": "https://www.reddit.com/r/cpp/comments/1vkjt53/understanding_stdcounting_semaphore_and_stdbinary/",
+   "date": "2026-08-10T12:44:22+00:00",
+   "summary": "An article on types introduced in C++20. submitted by /u/Kabra___kiiiiiiiid [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
+   "title": "Jessesort is now faster than std::sort on every input type",
+   "url": "https://www.reddit.com/r/cpp/comments/1vkjji4/jessesort_is_now_faster_than_stdsort_on_every/",
+   "date": "2026-08-10T12:32:33+00:00",
+   "summary": "Repo here: https://github.com/lewj85/jessesort tl;dr Jessesort is up to 20% faster than std::sort on random inputs and up to 95% faster on structured inputs Jessesort has two phases: insertion and merging. The insertion phase routes inputs ",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -894,6 +1033,16 @@
    "lang": "en"
   },
   {
+   "title": "CppCast: From Self Taught to Committee Member's First Accepted Paper",
+   "url": "https://www.reddit.com/r/cpp/comments/1vkduu1/cppcast_from_self_taught_to_committee_members/",
+   "date": "2026-08-10T07:17:29+00:00",
+   "summary": "submitted by /u/robwirving [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "Show HN: Albedo – single-file listenable document database in Zig",
    "url": "https://github.com/klirix/albedo",
    "date": "2026-08-09T23:03:40+00:00",
@@ -939,6 +1088,16 @@
    "kind": "news"
   },
   {
+   "title": "A failure to separate concerns",
+   "url": "https://www.reddit.com/r/cpp/comments/1vjsbk5/a_failure_to_separate_concerns/",
+   "date": "2026-08-09T15:10:45+00:00",
+   "summary": "I ve been taking a look at an extremely popular, 50K+ stars, C++ library which I won t name as I m going to criticise it as an example of a wider problem. This is going to be a rant and there may even be sarcasm. Feel free to skip it if tha",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "Stream FreeSWITCH call audio to a WebSocket for real-time ASR (mod_ws_media)",
    "url": "https://dev.to/luoyumin/stream-freeswitch-call-audio-to-a-websocket-for-real-time-asr-modwsmedia-32o2",
    "date": "2026-08-09T13:09:02+00:00",
@@ -947,17 +1106,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Understanding std:counting_semaphore and std:binary_semaphore from C++20",
-   "url": "https://www.cppstories.com/2026/semaphore/",
-   "date": "2026-08-09T08:30:20+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1005,6 +1153,16 @@
    "lang": "en"
   },
   {
+   "title": "GCC should ship prebuilt binary tarballs like LLVM",
+   "url": "https://www.reddit.com/r/cpp/comments/1vj67ov/gcc_should_ship_prebuilt_binary_tarballs_like_llvm/",
+   "date": "2026-08-08T20:28:40+00:00",
+   "summary": "It is really annoying, when you wanna test something you can t just download a previous release like llvm, so it is very hard to check if there is a regression. Also, the default build of c and c++ only, takes like an hour because of triple",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "Why does std::vector sometimes reallocate even when I know how many elements I’ll add?",
    "url": "https://stackoverflow.com/questions/79991614/why-does-stdvector-sometimes-reallocate-even-when-i-know-how-many-elements-i-l",
    "date": "2026-08-08T19:49:25+00:00",
@@ -1013,6 +1171,16 @@
    "tech": "cpp",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Bjarne Stroustrup, creator of C++, joins Susquehanna",
+   "url": "https://www.reddit.com/r/cpp/comments/1vj4sro/bjarne_stroustrup_creator_of_c_joins_susquehanna/",
+   "date": "2026-08-08T19:28:42+00:00",
+   "summary": "submitted by /u/Ok_Shopping_3292 [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -1090,6 +1258,16 @@
    "tech": "cpp",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "GCC 16.2.0 Released",
+   "url": "https://www.reddit.com/r/cpp/comments/1vigs03/gcc_1620_released/",
+   "date": "2026-08-07T23:56:06+00:00",
+   "summary": "I m pretty excited about this maintenance release. I think this will be the first version of gcc which can compile my project. submitted by /u/NewLlama [link] [التعليقات]",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -1172,6 +1350,16 @@
    "lang": "en"
   },
   {
+   "title": "Boost.Multi Multi Mini-Review Begins Today (7 Aug - 12 Aug)",
+   "url": "https://www.reddit.com/r/cpp/comments/1vi06hm/boostmulti_multi_minireview_begins_today_7_aug_12/",
+   "date": "2026-08-07T13:07:59+00:00",
+   "summary": "Hello, Today begins the mini-review of Multi, authored by Alfredo Correa. Multi is a modern C++ library that provides manipulation and access of data in multidimensional arrays for both CPU and GPU memory. The review will run through Wednes",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "Should I be calling DisableNetwork before the OS loses connectivity?",
    "url": "https://stackoverflow.com/questions/79991342/should-i-be-calling-disablenetwork-before-the-os-loses-connectivity",
    "date": "2026-08-07T12:51:04+00:00",
@@ -1216,6 +1404,16 @@
    "lang": "en"
   },
   {
+   "title": "C++ Show and Tell - August 2026",
+   "url": "https://www.reddit.com/r/cpp/comments/1vhdqw8/c_show_and_tell_august_2026/",
+   "date": "2026-08-06T19:13:21+00:00",
+   "summary": "Use this thread to share anything you ve written in C++. This includes: a tool you ve written a game you ve been working on your first non-trivial C++ program The rules of this thread are very straight forward: The project must involve C++ ",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
+  },
+  {
    "title": "C++ Version of vLLM",
    "url": "https://github.com/mudler/vllm.cpp",
    "date": "2026-08-06T17:42:08+00:00",
@@ -1224,6 +1422,16 @@
    "tech": "cpp",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Neoclassical C++ (2): Exploring input-output segmented algorithms",
+   "url": "https://www.reddit.com/r/cpp/comments/1vh8w31/neoclassical_c_2_exploring_inputoutput_segmented/",
+   "date": "2026-08-06T16:19:24+00:00",
+   "summary": "Hi, I ve written a new blog entry continuing my previous article about segmented iterators . This time trying to analyze how to apply Matt Austern s segmented iterator pattern to input-output algorithms like copy, copy_if , etc., benchmarki",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
    "lang": "en"
   },
   {
@@ -1325,6 +1533,16 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "C++ Jobs - Q3 2026",
+   "url": "https://www.reddit.com/r/cpp/comments/1und8cz/c_jobs_q3_2026/",
+   "date": "2026-07-04T16:22:09+00:00",
+   "summary": "Rules For Individuals Don t create top-level comments - those are for employers. Feel free to reply to top-level comments with on-topic questions. I will create top-level comments for meta discussion and individuals looking for work . Rules",
+   "tech": "cpp",
+   "sourceId": "reddit",
+   "source": "r/cpp",
+   "lang": "en"
   },
   {
    "title": "الدرس الثاني | العمليات الحسابية والمنطقية في سي بلس بلس",
@@ -1831,6 +2049,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VmdOR1NJOHc2c2xqUHNRSE5VSzVLT1RzUU9HbDVUUlZTeDVYVk1BYVRZeHVmWVRySmMzamtNaXJXSkM1YlJmVVBLRG91dTk4OE8wWkln?oc=5",
    "date": "2020-07-19T13:16:18+00:00",
    "summary": "تعلم البرمجة بلغة ++C السي بلس بلس في ساعتين مع التطبيق العملي - C++ Programming YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "لغة سي بلس بلس - جمل الادخال والاخراج",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tQ19FWGtscFRzR3ZqM2RCLVhMYlM1Z1ZuR1pEOGVabnluckVHRGRFRWxRR3IwZVhvamhuWjd2NmIwVEd6c2s0TnJ4Nzcwb3d3dFJwR1R3?oc=5",
+   "date": "2020-03-29T12:30:43+00:00",
+   "summary": "لغة سي بلس بلس - جمل الادخال والاخراج YouTube",
    "tech": "cpp",
    "sourceId": "ar-yt",
    "source": "YouTube",

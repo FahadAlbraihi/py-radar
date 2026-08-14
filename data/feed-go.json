@@ -1,8 +1,20 @@
 {
- "generated": "2026-08-14T09:23:10.541145+00:00",
+ "generated": "2026-08-14T09:29:47.252899+00:00",
  "tech": "go",
  "count": 87,
  "items": [
+  {
+   "title": "moby/moby",
+   "url": "https://github.com/moby/moby",
+   "date": "2026-08-14T09:23:11+00:00",
+   "summary": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+   "points": 72021,
+   "tech": "go",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
   {
    "title": "prometheus/prometheus",
    "url": "https://github.com/prometheus/prometheus",
@@ -20,7 +32,7 @@
    "url": "https://github.com/infiniflow/ragflow",
    "date": "2026-08-14T09:08:46+00:00",
    "summary": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-   "points": 88234,
+   "points": 88235,
    "tech": "go",
    "sourceId": "github",
    "source": "GitHub",
@@ -150,7 +162,7 @@
    "url": "https://github.com/go-gitea/gitea",
    "date": "2026-08-14T03:15:38+00:00",
    "summary": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-   "points": 57369,
+   "points": 57370,
    "tech": "go",
    "sourceId": "github",
    "source": "GitHub",
@@ -208,7 +220,7 @@
    "url": "https://github.com/ollama/ollama",
    "date": "2026-08-13T22:38:02+00:00",
    "summary": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "points": 178520,
+   "points": 178521,
    "tech": "go",
    "sourceId": "github",
    "source": "GitHub",
@@ -225,18 +237,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "moby/moby",
-   "url": "https://github.com/moby/moby",
-   "date": "2026-08-13T20:32:26+00:00",
-   "summary": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-   "points": 72021,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system",
