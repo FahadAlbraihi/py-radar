@@ -14,7 +14,8 @@ const STALE_MS  = 6 * 60 * 60 * 1000;   // يعاد الجلب إذا مضت ٦ 
 const PAGE_SIZE = 30;
 const MAX_STORE = 800;
 
-const CAPS = { blogs:50, devto:45, fcc:20, yt:25, 'yt-search':120, medium:20, podcast:15 };
+/* اليوتيوب أولوية المصادر، فله أوسع حصة */
+const CAPS = { 'ar-yt':160, yt:70, blogs:40, devto:35, fcc:15, medium:15, podcast:12 };
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
@@ -561,80 +562,11 @@ async function fetchDevTo(t){
 
 
 
-/* ---------- بحث يوتيوب المباشر ----------
-   لا يحتاج مفتاح API: يُنفَّذ بحثاً مقيّداً بـ youtube.com بالعربي والإنجليزي معاً،
-   ويشمل كل لغات البرمجة لأنه يبحث عمّا تكتبه أنت لا عمّا هو محدّد في الشريط. */
-async function searchYouTube(query){
-  const q = query.trim();
-  if (!q) return [];
-  // يُضاف سياق برمجي للاستعلام نفسه، وإلا أعاد يوتيوب ألعاباً تحمل الاسم ذاته
-  const words = queryWords(q);
-  const found = await fetchFeeds(
-    [
-      gnews(`${q} برمجة site:youtube.com`, 'ar'),
-      gnews(`${q} programming tutorial site:youtube.com`, 'en'),
-    ],
-    'yt-search', 'يوتيوب', null, false,
-    { pinned: true, ytq: q },
-  );
-  // ترشيح أخير بكلمات البحث: البحث العام يعيد نتائج لا صلة لها بما كُتب
-  return found.filter(i => hasWords(`${i.title} ${i.summary || ''}`, words));
-}
 
-const YT_MIN_LEN   = 2;      // حرفان يكفيان: «‎c#» و«‎go» و«‎R» أسماء لغات فعلية
-const ytCache = new Map();   // استعلام ← نتائجه، فلا يتكرر الجلب
-let ytSeq = 0;               // حارس: نتيجة استعلام قديم تُتجاهل
 
-function setYtBusy(busy){
-  $('#btn-yt').disabled = busy;
-  $('#yt-label').textContent = busy ? 'جارٍ البحث في يوتيوب…' : 'ابحث في يوتيوب';
-}
 
-function applyYtResults(q, found){
-  if (!found.length){
-    setStatus(`لا فيديوهات مطابقة لـ «${q}»`);
-    return;
-  }
-  /* البحث نيّة صريحة من المستخدم: فلتر لغة المحتوى القديم كان يخفي نتائجه
-     (بحث إنجليزي مع فلتر «عربي» يعرض 5 من 93) فيبدو البحث معطّلاً. */
-  if (prefs.lang !== 'all'){ prefs.lang = 'all'; savePrefs(); syncControls(); }
-
-  state.items = merge(state.items, found);
-  state.ytQuery = q;
-  state.shown = PAGE_SIZE;
-  render();
-  // العدد المعروض فعلاً لا العدد المجلوب، وإلا بدا الرقم مخالفاً للقائمة
-  const shown = state.items.filter(i => i.ytq === q).length;
-  setStatus(`نتائج يوتيوب لـ «${q}»: ${shown}`);
-}
 
 /** يُستدعى تلقائياً أثناء الكتابة، وعند الضغط على الزر أو Enter. */
-async function runYouTubeSearch(){
-  const q = state.q.trim();
-  if (q.length < YT_MIN_LEN){ setYtBusy(false); return; }
-
-  const seq = ++ytSeq;                       // أي بحث أحدث يُبطل ما قبله
-
-  if (ytCache.has(q)){                       // نتيجة محفوظة: فورية بلا شبكة
-    applyYtResults(q, ytCache.get(q));
-    return;
-  }
-
-  setYtBusy(true);
-  try {
-    const found = await searchYouTube(q);
-    if (seq !== ytSeq) return;               // المستخدم كتب شيئاً أحدث
-    ytCache.set(q, found);
-    applyYtResults(q, found);
-  } catch {
-    if (seq === ytSeq) setStatus('تعذّر البحث في يوتيوب — أعد المحاولة.');
-  } finally {
-    if (seq === ytSeq){
-      setYtBusy(false);
-      setTimeout(() => { if (seq === ytSeq) setStatus(''); }, 5000);
-    }
-  }
-}
 
 /** يبني قائمة المهام لجلب لغة برمجة واحدة. */
 function jobsFor(techId){
@@ -837,6 +769,11 @@ function visible(){
 
   list.sort(COMPARE[prefs.sort] || byDate);
 
+  /* اليوتيوب أولوية المصادر: الدروس المرئية تتقدّم على المقالات
+     مع الحفاظ على الترتيب المختار داخل كل مجموعة. */
+  const isVideo = i => i.sourceId === 'ar-yt' || i.sourceId === 'yt';
+  list = [...list.filter(isVideo), ...list.filter(i => !isVideo(i))];
+
   // ترقية محتوى المرحلة الحالية إلى الأعلى (دون إخفاء الباقي)
   if (stage?.id && !prefs.stageOnly){
     const inStage = list.filter(i => (i.stages || []).includes(stage.id));
@@ -1017,9 +954,8 @@ function renderActiveFilters(){
   const wrap = $('#active-filters');
   wrap.textContent = '';
   const pills = [];
-  if (state.ytQuery) pills.push([`▶ نتائج يوتيوب: ${state.ytQuery}`, () => { state.ytQuery = ''; }]);
-  else if (state.q.trim()) pills.push([`🔎 البحث يشمل كل المسارات`, () => {
-    state.q = ''; $('#q').value = ''; $('#btn-clear').hidden = true; $('#btn-yt').hidden = true;
+  if (state.q.trim()) pills.push(['🔎 البحث يشمل كل المسارات', () => {
+    state.q = ''; $('#q').value = ''; $('#btn-clear').hidden = true;
   }]);
   if (prefs.level !== 'all')  pills.push([LEVEL_NAME[prefs.level], () => prefs.level = 'all']);
   if (prefs.kind !== 'all')   pills.push([KIND_NAME[prefs.kind],   () => prefs.kind = 'all']);
@@ -1232,8 +1168,6 @@ function renderPresets(){
       $('#tracks-dlg').close();
       const q = $('#q');
       q.value = p; q.dispatchEvent(new Event('input'));
-      clearTimeout(ytTimer);            // لا ننتظر المهلة: الاستعلام جاهز
-      runYouTubeSearch();
       scrollTo({ top: 0, behavior: 'smooth' });
     };
     wrap.appendChild(b);
@@ -1310,19 +1244,18 @@ $('#btn-more').onclick = () => { state.shown += PAGE_SIZE; render(); };
 function resetFilters(){
   Object.assign(prefs, { lang:'all', level:'all', kind:'all', sort:'date', source:'all', stage:'', stageOnly:false });
   state.q = ''; state.ytQuery = ''; $('#q').value = '';
-  $('#btn-clear').hidden = true; $('#btn-yt').hidden = true;
+  $('#btn-clear').hidden = true;
   state.shown = PAGE_SIZE;
   savePrefs(); syncControls(); render();
 }
 $('#btn-reset').onclick = resetFilters;
 $('#btn-reset2').onclick = resetFilters;
 
-let qTimer, ytTimer;
+let qTimer;
 $('#q').addEventListener('input', e => {
   state.q = e.target.value;
   const has = !!state.q.trim();
   $('#btn-clear').hidden = !has;
-  $('#btn-yt').hidden = !has;
 
   // تغيّر النص: نعود لنتائج التطبيق فوراً حتى تصل نتائج يوتيوب الجديدة
   if (state.ytQuery && state.ytQuery !== state.q.trim()) state.ytQuery = '';
@@ -1331,18 +1264,13 @@ $('#q').addEventListener('input', e => {
   clearTimeout(qTimer);
   qTimer = setTimeout(() => { state.shown = PAGE_SIZE; render(); }, 180);
 
-  // أما بحث يوتيوب فلا ينطلق إلا بضغط الزر أو Enter
-  clearTimeout(ytTimer);
 });
 $('#q').addEventListener('keydown', e => {
-  if (e.key === 'Enter'){ e.preventDefault(); $('#q').blur(); clearTimeout(ytTimer); runYouTubeSearch(); }
+  if (e.key === 'Enter'){ e.preventDefault(); $('#q').blur(); }
 });
-$('#btn-yt').onclick = () => { clearTimeout(ytTimer); runYouTubeSearch(); };
 $('#btn-clear').onclick = () => {
-  clearTimeout(ytTimer); ytSeq++;                 // يُبطل أي بحث جارٍ
   $('#q').value = ''; state.q = ''; state.ytQuery = '';
-  $('#btn-clear').hidden = true; $('#btn-yt').hidden = true;
-  setYtBusy(false);
+  $('#btn-clear').hidden = true;
   state.shown = PAGE_SIZE;
   render();
 };
@@ -1420,7 +1348,6 @@ $('#btn-code-search').onclick = () => {
   const q = $('#q');
   q.value = terms.join(' ');
   q.dispatchEvent(new Event('input'));
-  runYouTubeSearch();
 };
 
 for (const dlg of document.querySelectorAll('dialog.sheet')){

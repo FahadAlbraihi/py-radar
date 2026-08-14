@@ -53,8 +53,8 @@ PROG = re.compile(
     r"|بيانات|ذكاء اصطناعي|خوارزم|\bcode\b|\bprogramming\b",
     re.IGNORECASE,
 )
-CAPS = {"blogs": 50, "devto": 45, "fcc": 20, "yt": 30, "ar-yt": 130,
-        "medium": 20, "podcast": 15}
+CAPS = {"ar-yt": 160, "yt": 70, "blogs": 40, "devto": 35, "fcc": 15,
+        "medium": 15, "podcast": 12}
 # المصادر التعليمية المسموح بها — ما عداها يُستبعد (أخبار ونقاش ومستودعات)
 EDU_SOURCES = {"blogs", "devto", "fcc", "yt", "ar-yt", "medium", "podcast"}
 
