@@ -184,7 +184,115 @@ const TECHS = [
     devto:['vb','dotnet'], reddit:[], blogs:[],
     ar:['"فيجوال بيسك" OR "Visual Basic" شرح'],
     match:/visual ?basic|\bvb\.net\b|\bvba\b|فيجوال ?بيسك/i },
+
+  { id:'dart', name:'🎯 Dart', hn:'dart language', so:'', gh:'',
+    devto:['dart'], reddit:[], blogs:[],
+    ar:['"لغة دارت" OR Dart برمجة شرح'],
+    match:/\bdart\b|لغة دارت|دارت\b/i },
+
+  { id:'c', name:'🔧 لغة C', hn:'c programming', so:'', gh:'',
+    devto:['c','clanguage'], reddit:[], blogs:[],
+    ar:['"لغة سي" C برمجة شرح OR دورة'],
+    match:/\blegacy c\b|لغة سي\b|\bansi c\b|\bc99\b|\bpointers?\b|مؤشرات/i },
+
+  { id:'groovy', name:'🍀 Groovy', hn:'groovy', so:'', gh:'',
+    devto:['groovy','java'], reddit:[], blogs:[],
+    ar:['"جروفي" OR Groovy برمجة'],
+    match:/\bgroovy\b|جروفي|\bgradle\b/i },
+
+  { id:'clojure', name:'🌿 Clojure', hn:'clojure', so:'', gh:'',
+    devto:['clojure'], reddit:[], blogs:[],
+    ar:['"كلوجر" OR Clojure برمجة'],
+    match:/\bclojure\b|كلوجر/i },
+
+  { id:'fsharp', name:'🔵 ‏#F', hn:'fsharp', so:'', gh:'',
+    devto:['fsharp','dotnet'], reddit:[], blogs:[],
+    ar:['"إف شارب" OR "#F" برمجة'],
+    match:/\bf#|f ?sharp\b|إف شارب/i },
+
+  { id:'erlang', name:'☎️ Erlang', hn:'erlang', so:'', gh:'',
+    devto:['erlang'], reddit:[], blogs:[],
+    ar:['"إرلانج" OR Erlang برمجة'],
+    match:/\berlang\b|إرلانج|ارلانج|\botp\b/i },
+
+  { id:'ocaml', name:'🐫 OCaml', hn:'ocaml', so:'', gh:'',
+    devto:['ocaml'], reddit:[], blogs:[],
+    ar:['"أوكامل" OR OCaml برمجة'],
+    match:/\bocaml\b|أوكامل|اوكامل/i },
+
+  { id:'fortran', name:'🧮 Fortran', hn:'fortran', so:'', gh:'',
+    devto:['fortran'], reddit:[], blogs:[],
+    ar:['"فورتران" OR Fortran برمجة'],
+    match:/\bfortran\b|فورتران/i },
+
+  { id:'cobol', name:'🏦 COBOL', hn:'cobol', so:'', gh:'',
+    devto:['cobol'], reddit:[], blogs:[],
+    ar:['"كوبول" OR COBOL برمجة'],
+    match:/\bcobol\b|كوبول|mainframe/i },
+
+  { id:'pascal', name:'🔺 Pascal و Delphi', hn:'pascal delphi', so:'', gh:'',
+    devto:['pascal','delphi'], reddit:[], blogs:[],
+    ar:['"باسكال" OR "دلفي" برمجة شرح'],
+    match:/\bpascal\b|\bdelphi\b|باسكال|دلفي/i },
+
+  { id:'zig', name:'⚡ Zig', hn:'zig language', so:'', gh:'',
+    devto:['zig'], reddit:[], blogs:[],
+    ar:['"زيج" OR Zig لغة برمجة'],
+    match:/\bzig\b lang|\bziglang\b|لغة زيج/i },
+
+  { id:'nim', name:'👑 Nim', hn:'nim language', so:'', gh:'',
+    devto:['nim'], reddit:[], blogs:[],
+    ar:['"نيم" OR Nim لغة برمجة'],
+    match:/\bnim\b lang|\bnimlang\b|لغة نيم/i },
+
+  { id:'crystal', name:'💠 Crystal', hn:'crystal language', so:'', gh:'',
+    devto:['crystal'], reddit:[], blogs:[],
+    ar:['"كريستال" Crystal لغة برمجة'],
+    match:/crystal ?lang|لغة كريستال/i },
+
+  { id:'lisp', name:'🧠 Lisp و Scheme', hn:'lisp scheme', so:'', gh:'',
+    devto:['lisp'], reddit:[], blogs:[],
+    ar:['"ليسب" OR Lisp برمجة'],
+    match:/\blisp\b|\bscheme\b lang|\bracket\b lang|ليسب|سكيم/i },
+
+  { id:'prolog', name:'🔍 Prolog', hn:'prolog', so:'', gh:'',
+    devto:['prolog'], reddit:[], blogs:[],
+    ar:['"برولوج" OR Prolog برمجة منطقية'],
+    match:/\bprolog\b|برولوج|برمجة منطقية/i },
+
+  { id:'scratch', name:'🧩 سكراتش للمبتدئين', hn:'scratch programming kids', so:'', gh:'',
+    devto:['scratch','beginners'], reddit:[], blogs:[],
+    ar:['"سكراتش" برمجة الأطفال شرح'],
+    match:/\bscratch\b|سكراتش|برمجة الأطفال/i },
+
+  { id:'arduino', name:'🔌 أردوينو والمدمجة', hn:'arduino embedded', so:'', gh:'',
+    devto:['arduino','iot'], reddit:[], blogs:[],
+    ar:['"أردوينو" OR Arduino شرح مشروع','"الأنظمة المدمجة" برمجة شرح'],
+    match:/\barduino\b|أردوينو|اردوينو|\besp32\b|\braspberry\b|أنظمة مدمجة|الأنظمة المدمجة|\bembedded\b|\biot\b/i },
+
+  { id:'verilog', name:'🔬 VHDL و Verilog', hn:'verilog vhdl fpga', so:'', gh:'',
+    devto:['verilog','hardware'], reddit:[], blogs:[],
+    ar:['"فيريلوج" OR VHDL تصميم رقمي شرح'],
+    match:/\bverilog\b|\bvhdl\b|\bfpga\b|فيريلوج|تصميم رقمي/i },
+
+  { id:'graphql', name:'◻️ GraphQL', hn:'graphql', so:'', gh:'',
+    devto:['graphql','api'], reddit:[], blogs:[],
+    ar:['"جراف كيو ال" OR GraphQL شرح'],
+    match:/\bgraphql\b|جراف ?كيو/i },
+
+  { id:'sass', name:'🎨 Sass و Tailwind', hn:'tailwind sass css framework', so:'', gh:'',
+    devto:['tailwindcss','sass'], reddit:[], blogs:[],
+    ar:['"تيلويند" OR Tailwind تصميم شرح','"ساس" OR Sass CSS شرح'],
+    match:/\bsass\b|\bscss\b|\bless\b css|tailwind|تيلويند|بوتستراب|\bbootstrap\b/i },
 ];
+
+/* تصنيف المسارات لعرضها مجمّعة في لوحة «كل المسارات» */
+const GROUP_NAMES = { web:'الويب والواجهات', mobile:'تطبيقات الجوال',
+  systems:'الأنظمة والأداء', enterprise:'المؤسسات وسطح المكتب', data:'البيانات والعلوم',
+  functional:'البرمجة الوظيفية والمنطقية', os:'أنظمة التشغيل والطرفية',
+  security:'الأمن السيبراني', other:'مجالات أخرى' };
+const TECH_GROUP = { 'python': 'data', 'javascript': 'web', 'typescript': 'web', 'web': 'web', 'sass': 'web', 'php': 'web', 'ruby': 'web', 'graphql': 'web', 'swift': 'mobile', 'kotlin': 'mobile', 'flutter': 'mobile', 'dart': 'mobile', 'reactnative': 'mobile', 'objectivec': 'mobile', 'cpp': 'systems', 'c': 'systems', 'rust': 'systems', 'go': 'systems', 'zig': 'systems', 'nim': 'systems', 'crystal': 'systems', 'assembly': 'systems', 'fortran': 'systems', 'java': 'enterprise', 'csharp': 'enterprise', 'vb': 'enterprise', 'scala': 'enterprise', 'groovy': 'enterprise', 'cobol': 'enterprise', 'pascal': 'enterprise', 'sql': 'data', 'r': 'data', 'matlab': 'data', 'julia': 'data', 'haskell': 'functional', 'elixir': 'functional', 'erlang': 'functional', 'clojure': 'functional', 'fsharp': 'functional', 'ocaml': 'functional', 'lisp': 'functional', 'prolog': 'functional', 'windows': 'os', 'linux': 'os', 'bash': 'os', 'cyber': 'security', 'kali': 'security', 'lua': 'other', 'perl': 'other', 'solidity': 'other', 'scratch': 'other', 'arduino': 'other', 'verilog': 'other' };
+
 const techById = id => TECHS.find(t => t.id === id);
 
 // مصادر مقالات وصوتيات لكل مسار (تُرشَّح بتعبير المسار نفسه)
@@ -194,6 +302,7 @@ const MEDIUM_TAG = {
   swift:'ios-app-development', kotlin:'android', flutter:'flutter',
   windows:'powershell', linux:'linux', bash:'bash',
   cyber:'cybersecurity', kali:'penetration-testing',
+  dart:'dart', c:'c-programming', groovy:'groovy', clojure:'clojure', fsharp:'fsharp', erlang:'erlang', ocaml:'ocaml', fortran:'fortran', cobol:'cobol', pascal:'pascal', zig:'zig', nim:'nim', crystal:'crystal', lisp:'lisp', prolog:'prolog', scratch:'scratch', arduino:'arduino', verilog:'verilog', graphql:'graphql', sass:'tailwind-css',
   typescript:'typescript', web:'css', reactnative:'react-native', lua:'lua', r:'r', scala:'scala', perl:'perl', elixir:'elixir', solidity:'solidity', assembly:'assembly', matlab:'matlab', objectivec:'objective-c', haskell:'haskell', julia:'julia', vb:'visual-basic',
 };
 const PODCASTS = {
@@ -843,6 +952,42 @@ function renderTechChips(){
   syncBars();
 }
 
+/** لوحة «كل المسارات»: مجمّعة حسب المجال مع بحث، لأن 53 مساراً لا تُتصفَّح بشريط. */
+function toggleTech(id, redraw = true){
+  const i = prefs.techs.indexOf(id);
+  if (i >= 0){ if (prefs.techs.length > 1) prefs.techs.splice(i, 1); }
+  else prefs.techs.push(id);
+  prefs.lang = 'all';
+  savePrefs();
+  state.shown = PAGE_SIZE;
+  if (redraw){ syncControls(); renderTechChips(); render(); refresh(true); }
+}
+
+function renderTrackPanel(){
+  const q = $('#track-search').value.trim().toLowerCase();
+  const wrap = $('#track-groups');
+  wrap.textContent = '';
+
+  for (const [gid, gname] of Object.entries(GROUP_NAMES)){
+    const list = TECHS.filter(t => (TECH_GROUP[t.id] || 'other') === gid
+      && (!q || t.name.toLowerCase().includes(q) || t.id.includes(q)));
+    if (!list.length) continue;
+
+    const sec = el('div', 'track-group');
+    const h = el('h4'); h.textContent = gname; sec.appendChild(h);
+    const chips = el('div', 'chips');
+    for (const t of list){
+      const b = el('button', 'chip' + (prefs.techs.includes(t.id) ? ' is-on' : ''));
+      b.textContent = t.name;
+      b.onclick = () => { toggleTech(t.id); renderTrackPanel(); };
+      chips.appendChild(b);
+    }
+    sec.appendChild(chips);
+    wrap.appendChild(sec);
+  }
+  $('#track-count').textContent = `${prefs.techs.length} مساراً مفعّلاً من ${TECHS.length}`;
+}
+
 function renderSourceChips(){
   const wrap = $('#source-chips');
   const counts = new Map();
@@ -1259,6 +1404,8 @@ function applyTheme(dark){
 $('#btn-theme').onclick = () => applyTheme(document.documentElement.dataset.theme !== 'dark');
 $('#btn-export').onclick = exportLibrary;
 
+$('#btn-tracks').onclick = () => { renderTrackPanel(); openSheet($('#tracks-dlg')); };
+$('#track-search').addEventListener('input', renderTrackPanel);
 $('#btn-code').onclick = () => { renderCodeTerms(); openSheet($('#code-dlg')); };
 $('#code-input').addEventListener('input', renderCodeTerms);
 $('#btn-code-search').onclick = () => {

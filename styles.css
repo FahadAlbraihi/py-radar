@@ -77,6 +77,24 @@ select{font:inherit;color:inherit}
 }
 
 .track-bar{display:flex;flex-direction:column;gap:6px;margin-top:10px}
+.track-row{display:flex;align-items:center;gap:8px;min-width:0}
+.track-row .chips{flex:1 1 auto;min-width:0}
+.all-tracks-btn{
+  flex:0 0 auto;padding:7px 14px;border-radius:var(--r-pill);
+  border:1px solid rgba(255,255,255,.4);background:rgba(255,255,255,.22);
+  color:var(--header-ink);font-size:13.5px;font-weight:700;white-space:nowrap;
+}
+.all-tracks-btn:hover{background:rgba(255,255,255,.34)}
+
+#track-search{
+  width:100%;margin-top:14px;padding:12px 14px;font-size:16px;
+  border:1px solid var(--line);border-radius:var(--r-sm);background:var(--bg);color:var(--ink);
+}
+.track-group{padding:14px 0;border-bottom:1px solid var(--line)}
+.track-group:last-child{border-bottom:0}
+.track-group h4{margin:0 0 10px;font-size:13px;font-weight:800;color:var(--muted)}
+.track-group .chips{flex-wrap:wrap;gap:8px}
+.track-group .chip.is-on{background:var(--blue);border-color:var(--blue);color:#fff}
 
 /* ================= الهيرو ================= */
 .hero{

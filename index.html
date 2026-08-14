@@ -51,7 +51,10 @@
 
   <!-- شريط المسارات ملتصق بالرأس: يبقى في متناول اليد أثناء التمرير -->
   <div class="wrap track-bar">
-    <div class="chips scroll-x" id="tech-chips" aria-label="المسار"></div>
+    <div class="track-row">
+      <button id="btn-tracks" class="all-tracks-btn">☰ كل المسارات</button>
+      <div class="chips scroll-x" id="tech-chips" aria-label="المسار"></div>
+    </div>
     <div class="chips scroll-x" id="lang-chips" aria-label="لغة المحتوى">
       <button class="chip is-on" data-lang="all">الكل</button>
       <button class="chip" data-lang="ar">عربي</button>
@@ -212,6 +215,23 @@
   <div class="sheet-foot">
     <button class="btn-ghost" id="btn-export">تصدير القائمة</button>
     <button class="btn" data-close>إغلاق</button>
+  </div>
+</dialog>
+
+
+<!-- ============ كل المسارات ============ -->
+<dialog id="tracks-dlg" class="sheet">
+  <div class="sheet-head">
+    <h2>كل المسارات</h2>
+    <button class="x" data-close aria-label="إغلاق">&times;</button>
+  </div>
+  <div class="sheet-body">
+    <input id="track-search" type="search" placeholder="ابحث عن لغة أو مجال…" autocomplete="off">
+    <div id="track-groups"></div>
+  </div>
+  <div class="sheet-foot">
+    <span id="track-count" class="note" style="margin:0"></span>
+    <button class="btn" data-close>عرض النتائج</button>
   </div>
 </dialog>
 
