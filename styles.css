@@ -185,6 +185,10 @@ dialog.sheet[open]{animation:up .22s ease-out}
    وتُفتح غير حاجبة (‏show بدل showModal) فتبقى القائمة مقروءة وقابلة للتمرير. */
 @media (min-width:768px){
   dialog.sheet{
+    /* اللوحة غير الحاجبة ليست في الطبقة العليا، فيغطيها الشريط العلوي
+       (‏z-index:20) ما لم ترتفع فوقه. الموضع والارتفاع يضبطهما app.js
+       حسب ارتفاع الشريط الفعلي، لأنه يتغيّر بتغيّر عدد صفوف الأزرار. */
+    z-index:30;
     inset:auto auto auto auto; top:60px; inset-inline-end:14px; margin:0;
     width:370px; max-width:370px; max-height:calc(100vh - 84px);
     border:1px solid var(--line); border-radius:16px;

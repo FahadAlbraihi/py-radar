@@ -864,20 +864,38 @@ function setPanelOffset(on){
   }
 }
 
+/** يضع اللوحة أسفل الشريط العلوي مهما كان ارتفاعه (يتغيّر بعدد صفوف الأزرار). */
+function placePanel(dlg){
+  if (!isWide()){ dlg.style.top = ''; dlg.style.maxHeight = ''; return; }
+  const bar = document.querySelector('.topbar').getBoundingClientRect().height;
+  dlg.style.top = `${Math.round(bar) + 8}px`;
+  dlg.style.maxHeight = `${Math.max(240, Math.round(innerHeight - bar - 24))}px`;
+}
+
 function openSheet(dlg){
   for (const other of document.querySelectorAll('dialog.sheet[open]')) if (other !== dlg) other.close();
   if (dlg.open) { dlg.close(); return; }
   isWide() ? dlg.show() : dlg.showModal();
+  // الإزاحة أولاً: تضييق الشريط قد يجعل أزراره تلتف فيزيد ارتفاعه،
+  // والقياس قبلها يضع اللوحة تحت ارتفاع قديم فيغطيها الشريط.
   setPanelOffset(true);
+  void document.querySelector('.topbar').offsetHeight;   // يفرض إعادة حساب التخطيط فوراً
+  placePanel(dlg);
 }
 
+/* مراقبة سمة open بدل حدث close: بعض المحركات لا تُطلق close للّوحة غير
+   الحاجبة، فتبقى الإزاحة عالقة عند الإغلاق بـ Esc أو بالنقر خارجها. */
+const sheetWatcher = new MutationObserver(() => {
+  setPanelOffset(!!document.querySelector('dialog.sheet[open]'));
+});
 for (const dlg of document.querySelectorAll('dialog.sheet')){
-  dlg.addEventListener('close', () => {
-    if (!document.querySelector('dialog.sheet[open]')) setPanelOffset(false);
-  });
+  sheetWatcher.observe(dlg, { attributes: true, attributeFilter: ['open'] });
 }
 addEventListener('resize', () => {
-  if (document.querySelector('dialog.sheet[open]')) setPanelOffset(true);
+  const open = document.querySelector('dialog.sheet[open]');
+  if (!open) return;
+  placePanel(open);
+  setPanelOffset(true);
 });
 
 $('#btn-filters').onclick = () => { syncControls(); openSheet($('#filters-dlg')); };
