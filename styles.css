@@ -156,9 +156,18 @@ select{font:inherit;color:inherit}
 .chips.scroll-x{
   flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px;
   margin-inline:-18px;padding-inline:18px;scroll-padding-inline:18px;
+  padding-inline-end:34px;      /* مساحة بعد آخر شريحة فلا تنتهي ملتصقة بالحافة */
   overscroll-behavior-x:contain;
 }
 .chips.scroll-x::-webkit-scrollbar{display:none}
+
+/* تلاشٍ عند حافة التمرير بدل القطع الحاد، ويدل على وجود المزيد */
+.track-bar,.chips-fade{position:relative}
+.track-bar::after,.chips-fade::after{
+  content:'';position:absolute;top:0;bottom:0;inset-inline-end:-18px;width:36px;
+  background:linear-gradient(to right,var(--header-bg) 35%,transparent);
+  pointer-events:none;
+}
 .chip{
   flex:0 0 auto;padding:7px 15px;border-radius:var(--r-pill);
   border:1px solid var(--line);background:var(--card);color:var(--muted);
