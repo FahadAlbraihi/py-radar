@@ -109,6 +109,81 @@ const TECHS = [
     devto:['hacking','security','pentesting'], reddit:['Kalilinux','HowToHack','oscp','AskNetsec'], blogs:[],
     ar:['"كالي لينكس" أدوات اختبار الاختراق شرح','"اختراق أخلاقي" (nmap OR metasploit OR burp) شرح'],
     match:/كالي|\bkali\b|\bnmap\b|metasploit|\bmsfvenom\b|burp ?suite|wireshark|aircrack|\bhydra\b|john the ripper|sqlmap|\bnikto\b|hashcat|\bgobuster\b|\bnetcat\b|أدوات اختراق|اختبار الاختراق/i },
+
+  { id:'typescript', name:'🔷 TypeScript', hn:'typescript', so:'', gh:'',
+    devto:['typescript'], reddit:[], blogs:[],
+    ar:['"تايب سكريبت" OR TypeScript شرح OR دورة'],
+    match:/\btypescript\b|تايب ?سكريبت|تايب ?سكربت|\bts\b تايب/i },
+
+  { id:'web', name:'🌐 HTML و CSS', hn:'html css', so:'', gh:'',
+    devto:['html','css','webdev'], reddit:[], blogs:[],
+    ar:['"HTML" OR "CSS" تصميم موقع شرح','"تصميم المواقع" HTML CSS دورة'],
+    match:/\bhtml\b|\bcss\b|\bsass\b|\bscss\b|tailwind|bootstrap|تصميم موقع|تصميم المواقع|واجهة أمامية|frontend/i },
+
+  { id:'reactnative', name:'📲 React Native', hn:'react native', so:'', gh:'',
+    devto:['reactnative','react'], reddit:[], blogs:[],
+    ar:['"رياكت نيتف" OR "React Native" تطبيقات شرح'],
+    match:/react ?native|رياكت ?نيتف/i },
+
+  { id:'lua', name:'🌙 Lua', hn:'lua', so:'', gh:'',
+    devto:['lua'], reddit:[], blogs:[],
+    ar:['"لغة لوا" OR Lua برمجة شرح'],
+    match:/\blua\b|لغة لوا|\broblox\b|\blove2d\b/i },
+
+  { id:'r', name:'📊 R للإحصاء', hn:'rstats', so:'', gh:'',
+    devto:['rstats','datascience'], reddit:[], blogs:[],
+    ar:['"لغة R" تحليل بيانات شرح OR دورة'],
+    match:/\brstats\b|\bggplot\b|\btidyverse\b|لغة ار|لغة R\b/i },
+
+  { id:'scala', name:'🔺 Scala', hn:'scala', so:'', gh:'',
+    devto:['scala'], reddit:[], blogs:[],
+    ar:['"سكالا" OR Scala برمجة شرح'],
+    match:/\bscala\b|سكالا|\bakka\b|apache spark/i },
+
+  { id:'perl', name:'🐪 Perl', hn:'perl', so:'', gh:'',
+    devto:['perl'], reddit:[], blogs:[],
+    ar:['"بيرل" OR Perl لغة برمجة شرح'],
+    match:/\bperl\b|بيرل/i },
+
+  { id:'elixir', name:'💧 Elixir', hn:'elixir', so:'', gh:'',
+    devto:['elixir'], reddit:[], blogs:[],
+    ar:['"إليكسير" OR Elixir برمجة شرح'],
+    match:/\belixir\b|\bphoenix framework\b|إليكسير|اليكسير/i },
+
+  { id:'solidity', name:'⛓ Solidity والعقود الذكية', hn:'solidity', so:'', gh:'',
+    devto:['solidity','blockchain'], reddit:[], blogs:[],
+    ar:['"سوليديتي" OR "العقود الذكية" برمجة شرح'],
+    match:/\bsolidity\b|سوليديتي|عقود ذكية|العقود الذكية|smart contract|\bweb3\b|\bethereum\b/i },
+
+  { id:'assembly', name:'🔩 لغة التجميع', hn:'assembly', so:'', gh:'',
+    devto:['assembly','c'], reddit:[], blogs:[],
+    ar:['"لغة التجميع" OR "أسمبلي" شرح'],
+    match:/\bassembly\b|أسمبلي|اسمبلي|لغة التجميع|\bx86\b|\bnasm\b|\bmasm\b/i },
+
+  { id:'matlab', name:'📐 MATLAB', hn:'matlab', so:'', gh:'',
+    devto:['matlab'], reddit:[], blogs:[],
+    ar:['"ماتلاب" OR MATLAB شرح OR دورة'],
+    match:/\bmatlab\b|ماتلاب|\bsimulink\b|\boctave\b/i },
+
+  { id:'objectivec', name:'🍏 Objective-C', hn:'objective c', so:'', gh:'',
+    devto:['objectivec','ios'], reddit:[], blogs:[],
+    ar:['"أوبجكتف سي" OR "Objective-C" برمجة'],
+    match:/objective-? ?c\b|أوبجكتف/i },
+
+  { id:'haskell', name:'λ Haskell', hn:'haskell', so:'', gh:'',
+    devto:['haskell','functional'], reddit:[], blogs:[],
+    ar:['"هاسكل" OR Haskell برمجة دالية شرح'],
+    match:/\bhaskell\b|هاسكل|برمجة دالية|functional programming/i },
+
+  { id:'julia', name:'🔬 Julia', hn:'julialang', so:'', gh:'',
+    devto:['julia'], reddit:[], blogs:[],
+    ar:['"جوليا" OR Julia لغة برمجة شرح'],
+    match:/\bjulia(lang)?\b|جوليا/i },
+
+  { id:'vb', name:'🪟 Visual Basic', hn:'visual basic', so:'', gh:'',
+    devto:['vb','dotnet'], reddit:[], blogs:[],
+    ar:['"فيجوال بيسك" OR "Visual Basic" شرح'],
+    match:/visual ?basic|\bvb\.net\b|\bvba\b|فيجوال ?بيسك/i },
 ];
 const techById = id => TECHS.find(t => t.id === id);
 
@@ -119,6 +194,7 @@ const MEDIUM_TAG = {
   swift:'ios-app-development', kotlin:'android', flutter:'flutter',
   windows:'powershell', linux:'linux', bash:'bash',
   cyber:'cybersecurity', kali:'penetration-testing',
+  typescript:'typescript', web:'css', reactnative:'react-native', lua:'lua', r:'r', scala:'scala', perl:'perl', elixir:'elixir', solidity:'solidity', assembly:'assembly', matlab:'matlab', objectivec:'objective-c', haskell:'haskell', julia:'julia', vb:'visual-basic',
 };
 const PODCASTS = {
   python: ['https://talkpython.fm/episodes/rss', 'https://pythonbytes.fm/episodes/rss'],
@@ -764,6 +840,7 @@ function renderTechChips(){
     };
     wrap.appendChild(b);
   }
+  syncBars();
 }
 
 function renderSourceChips(){
@@ -1057,10 +1134,18 @@ chipGroup('#level-chips', 'level');
 chipGroup('#kind-chips', 'kind');
 chipGroup('#sort-chips', 'sort');
 
+/** شريط واحد فقط يعمل في كل وقت؛ الآخر يخفت ويعود لوضعه الافتراضي. */
+function syncBars(){
+  const langActive = prefs.lang !== 'all';
+  $('#tech-chips').classList.toggle('is-dimmed', langActive);
+  $('#lang-chips').classList.toggle('is-dimmed', !langActive);
+}
+
 function syncControls(){
   const mark = (sel, key) => {
     for (const b of $(sel).children) b.classList.toggle('is-on', b.dataset[key] === prefs[key]);
   };
+  syncBars();
   mark('#lang-chips', 'lang');
   mark('#level-chips', 'level');
   mark('#kind-chips', 'kind');
