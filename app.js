@@ -511,8 +511,10 @@ async function fetchFeeds(urls, sourceId, sourceName, tech, checkRelevance, extr
       const blob = `${title} ${it.summary || ''}`;
       if (checkRelevance && t && !t.match.test(blob)) continue;
       if (NOISE.test(blob) && !PROG.test(blob)) continue;
-      // فيديوهات يوتيوب: يلزم دليل تعليمي برمجي، وتُستبعد الألعاب والفلوجات
+      // مصادر يوتيوب: يوتيوب حصراً، مع دليل تعليمي برمجي، وبلا ألعاب أو فلوجات
       if (/^(ar-yt|yt)/.test(sourceId)){
+        // يوتيوب يظهر بصيغتين: «YouTube» و«youtube.com»
+        if (!/youtube/i.test(via)) continue;
         if (!PROG_SIGNAL.test(blob)) continue;
         if (YT_GAME.test(blob) && !YT_BUILD_GAME.test(blob)) continue;
       }

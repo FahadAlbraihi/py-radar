@@ -564,6 +564,10 @@ def parse_feed(xml: bytes, source_id: str, source: str, tech: str,
             if m:
                 title, via = m.group(1).strip(), m.group(2).strip()
 
+        # مصادر يوتيوب: يوتيوب حصراً — ناشر آخر يعني موقعاً لا علاقة له بالدروس
+        if source_id.startswith(("ar-yt", "yt")) and "youtube" not in via.lower():
+            continue
+
         item = {
             "title": title,
             "url": link,
