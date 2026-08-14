@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T19:16:58.471503+00:00",
+ "generated": "2026-08-14T19:25:15.771973+00:00",
  "tech": "bash",
- "count": 132,
+ "count": 137,
  "items": [
   {
    "title": "dockur/windows",
@@ -32,12 +32,42 @@
    "url": "https://github.com/basecamp/omarchy",
    "date": "2026-08-14T16:29:08+00:00",
    "summary": "Beautiful, Modern & Opinionated Linux",
-   "points": 24703,
+   "points": 24706,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "Building a Linux Admin Practice Lab with Termux + Arch Linux",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vob7kt/building_a_linux_admin_practice_lab_with_termux/",
+   "date": "2026-08-14T15:58:43+00:00",
+   "summary": "&#x200B; Hi everyone I’m currently learning Linux administration and I wanted to build a small home lab instead of only practicing commands theoretically. My current setup is: Android Phone → Termux → SSH → Arch Linux Laptop The idea is to ",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
+   "title": "mdadm renaming issue",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1voav80/mdadm_renaming_issue/",
+   "date": "2026-08-14T15:45:48+00:00",
+   "summary": "hello i recently had to rebuild my ubuntu box and afterwards i wanted to connect my raid 5 storage back to my machine. I reinstalled mdadm and I could see all my files with no issues. I was about to reconnect some shares and realized that t",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
+   "title": "Learn to secure your NGINX - Damn Vulnerable NGINX Proxy",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vo4dmz/learn_to_secure_your_nginx_damn_vulnerable_nginx/",
+   "date": "2026-08-14T11:15:01+00:00",
+   "summary": "Hello all, If you do bug bounty hunting or pentests you surely came across many hosts served from an NGINX server, in this lab (published to OWASP) I combined over 20 misconfigurations found in real world bug disclosures and both classic an",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
   },
   {
    "title": "a2aproject/A2A",
@@ -73,6 +103,16 @@
    "lang": "en"
   },
   {
+   "title": "CVE-2026-63077: JetBrains TeamCity unauth RCE via agent polling protocol — technical breakdown",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vnx8kq/cve202663077_jetbrains_teamcity_unauth_rce_via/",
+   "date": "2026-08-14T04:28:24+00:00",
+   "summary": "Based on the technical breakdown JetBrains and Rapid7 published this month, here s the architectural impact: TeamCity s XStreamHolder builds its deserialization allowlist by calling allowTypes() without first calling NoTypePermission.NONE ,",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
    "title": "acmesh-official/acme.sh",
    "url": "https://github.com/acmesh-official/acme.sh",
    "date": "2026-08-14T04:15:21+00:00",
@@ -83,6 +123,26 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "Can you beat Network Doctor at diagnosing a broken network?",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vnriex/can_you_beat_network_doctor_at_diagnosing_a/",
+   "date": "2026-08-13T23:57:50+00:00",
+   "summary": "I ve been working on an open-source network diagnostic tool called Network Doctor, and I recently built a challenge mode to test whether its diagnoses actually hold up against a human troubleshooting the same broken network. The idea is pre",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Admins is RHCSA/RHCE still worth it in 2026?",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vnocdu/linux_admins_is_rhcsarhce_still_worth_it_in_2026/",
+   "date": "2026-08-13T21:45:26+00:00",
+   "summary": "submitted by /u/Radiant_Abalone6009 [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
   },
   {
    "title": "dokku/dokku",
@@ -188,7 +248,7 @@
    "url": "https://github.com/mattpocock/skills",
    "date": "2026-08-13T09:06:37+00:00",
    "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-   "points": 217425,
+   "points": 217431,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -204,6 +264,26 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GitHub - jonaslejon/linux-security-audit-plugin: Claude Code plugin: audits Linux hardening posture and produces a risk-ranked report. 450+ checks",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vn4a49/github_jonaslejonlinuxsecurityauditplugin_claude/",
+   "date": "2026-08-13T07:53:40+00:00",
+   "summary": "submitted by /u/jonas02 [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
+   "title": "ClusterSizer",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vn43yo/clustersizer/",
+   "date": "2026-08-13T07:43:23+00:00",
+   "summary": "Hi guys, I ve made a little utility in Python that could help my fellow sysadmin (in)mates in they work. It simply does what we re doing in Excel or brains, but with some added features: it does sizing HW for a servers - cluster, tracking l",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
    "lang": "en"
   },
   {
@@ -285,6 +365,16 @@
    "lang": "en"
   },
   {
+   "title": "Rsync's new release fixes a whopping 33 bugs!!",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vn0bz3/rsyncs_new_release_fixes_a_whopping_33_bugs/",
+   "date": "2026-08-13T04:13:52+00:00",
+   "summary": "submitted by /u/unixbhaskar [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
    "title": "Homelab barato en Japón (y cómo instalarlo) 2026",
    "url": "https://dev.to/kilydev/homelab-barato-en-japon-2026-1pb9",
    "date": "2026-08-13T01:33:50+00:00",
@@ -300,12 +390,22 @@
    "url": "https://github.com/obra/superpowers",
    "date": "2026-08-13T00:36:31+00:00",
    "summary": "An agentic skills framework & software development methodology that works.",
-   "points": 272133,
+   "points": 272135,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "18 years old and trying to get into IT in Germany what should I do next?",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vmtdi2/18_years_old_and_trying_to_get_into_it_in_germany/",
+   "date": "2026-08-12T22:55:07+00:00",
+   "summary": "Hi everyone! Im 18 and Im trying to get into Linux / DevOps / Cloud / Infrastructure Ive been learning IT on my own for quite some time. Ive already built and maintained multiple homelabs using different hardware, including Raspberry Pis, m",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
   },
   {
    "title": "Run commands in parallel",
@@ -383,6 +483,16 @@
    "kind": "news"
   },
   {
+   "title": "Linux everywhere (even in my vacation)",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vmdsld/linux_everywhere_even_in_my_vacation/",
+   "date": "2026-08-12T13:13:04+00:00",
+   "summary": "Even in my vacation Im reading linux kernel logs :/ xD submitted by /u/Rafikbz [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
    "title": "VSCodium/vscodium",
    "url": "https://github.com/VSCodium/vscodium",
    "date": "2026-08-12T12:43:33+00:00",
@@ -402,6 +512,16 @@
    "tech": "bash",
    "sourceId": "reddit",
    "source": "r/bash",
+   "lang": "en"
+  },
+  {
+   "title": "How do you get alerted when a cron job simply stops running?",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vm8urj/how_do_you_get_alerted_when_a_cron_job_simply/",
+   "date": "2026-08-12T09:06:12+00:00",
+   "summary": "submitted by /u/georgi_tsenov [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
    "lang": "en"
   },
   {
@@ -427,6 +547,36 @@
    "lang": "en"
   },
   {
+   "title": "RovoBlast: Atlassian Rovo AI assistant hijacked via a single URL parameter (Varonis Threat Labs, DEF CON 34)",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vm56v9/rovoblast_atlassian_rovo_ai_assistant_hijacked/",
+   "date": "2026-08-12T05:31:52+00:00",
+   "summary": "Based on the technical breakdown Varonis Threat Labs published August 7 (following a DEF CON 34 talk), here s the architectural impact: Rovo, Atlassian s AI teammate across Jira/Confluence/Bitbucket plus 50+ SaaS connectors, exposes a rovoC",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
+   "title": "Devops small job / tasks / gigs",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vlwo7e/devops_small_job_tasks_gigs/",
+   "date": "2026-08-11T22:50:13+00:00",
+   "summary": "Hey guys, i hope you re all doing great! i wanted to ask if anyone has a small task or gig related to a devops project or Sys administration that you’d like me to work on, even if it’s unpaid , I’m looking to gain more experience and knowle",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
+   "title": "NetWatch v0.29.0 — a new \"dense\" view: your whole network on one screen",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vlvg3z/netwatch_v0290_a_new_dense_view_your_whole/",
+   "date": "2026-08-11T22:00:59+00:00",
+   "summary": "NetWatch is a terminal network monitor in Rust. v0.29.0 adds a third view for when you have a big terminal. Dense view — netwatch --view dense Four boxes filling the terminal. No header bar, no menu bar, no status bar — identity, sort state",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
+  },
+  {
    "title": "Wrapping search in less",
    "url": "https://www.reddit.com/r/bash/comments/1vlpmyz/wrapping_search_in_less/",
    "date": "2026-08-11T18:25:52+00:00",
@@ -434,6 +584,16 @@
    "tech": "bash",
    "sourceId": "reddit",
    "source": "r/bash",
+   "lang": "en"
+  },
+  {
+   "title": "WARNING: .desktop files pose high risk attack surface for agents",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vljah1/warning_desktop_files_pose_high_risk_attack/",
+   "date": "2026-08-11T14:38:26+00:00",
+   "summary": "submitted by /u/muayyadalsadi [link] [التعليقات]",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
    "lang": "en"
   },
   {
@@ -452,7 +612,7 @@
    "url": "https://github.com/ohmyzsh/ohmyzsh",
    "date": "2026-08-11T11:03:43+00:00",
    "summary": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-   "points": 189181,
+   "points": 189183,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -468,6 +628,16 @@
    "tech": "bash",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "CVE-2026-9198 — Langflow auto_login + validate/code chain = unauthenticated RCE (CISA KEV, Aug 4)",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vl6ofz/cve20269198_langflow_auto_login_validatecode/",
+   "date": "2026-08-11T03:53:34+00:00",
+   "summary": "Based on the technical breakdown published by SentinelOne s vulnerability database and IBM s own support advisory, here s the architectural impact of CVE-2026-9198. **The chain:** `GET /api/v1/auto_login` — mints a SUPERUSER JWT to any netw",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
    "lang": "en"
   },
   {
@@ -488,6 +658,16 @@
    "tech": "bash",
    "sourceId": "reddit",
    "source": "r/bash",
+   "lang": "en"
+  },
+  {
+   "title": "Need help with remote access for Jellyfin and Navidrome through WireGuard",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vl36cf/need_help_with_remote_access_for_jellyfin_and/",
+   "date": "2026-08-11T01:07:59+00:00",
+   "summary": "TLDR : I want a private server for Jellyfin and Navidrome to be reachable remotely through WireGuard, with geoblocking and brute-force attack prevention. WireGuard is already largely configured with wg-easy as well as Jellyfin and Navidrome",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
    "lang": "en"
   },
   {
@@ -516,12 +696,22 @@
    "url": "https://github.com/tw93/Mole",
    "date": "2026-08-10T18:18:10+00:00",
    "summary": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
-   "points": 63507,
+   "points": 63508,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "How much do you actually trust unattended upgrades in production?",
+   "url": "https://www.reddit.com/r/linuxadmin/comments/1vksm1f/how_much_do_you_actually_trust_unattended/",
+   "date": "2026-08-10T18:12:00+00:00",
+   "summary": "I’ve always been fairly conservative with automatic updates on production boxes. Patching is one thing, but I still prefer knowing exactly what changed, especially when an update can quietly restart something or introduce behaviour you only",
+   "tech": "bash",
+   "sourceId": "reddit",
+   "source": "r/linuxadmin",
+   "lang": "en"
   },
   {
    "title": "mbadolato/iTerm2-Color-Schemes",
@@ -547,16 +737,6 @@
    "lang": "en"
   },
   {
-   "title": "Quick Linux Tip #41 Question: How do I find duplicate files even if they have different names?",
-   "url": "https://www.reddit.com/r/bash/comments/1vk9z64/quick_linux_tip_41_question_how_do_i_find/",
-   "date": "2026-08-10T03:41:46+00:00",
-   "summary": "submitted by /u/Expensive-Rice-2052 [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "Sign up and receive $100 on Google Play!",
    "url": "https://dev.to/al_islam_92240b3be93b2b91/sign-up-and-receive-100-on-google-play-38me",
    "date": "2026-08-09T13:52:11+00:00",
@@ -565,16 +745,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "return and exit in potentially sourced script",
-   "url": "https://www.reddit.com/r/bash/comments/1vjotxj/return_and_exit_in_potentially_sourced_script/",
-   "date": "2026-08-09T12:38:08+00:00",
-   "summary": "Disclaimer: Yes, I am doing things bash scripting isn t meant for. No, I won t let you talk me out of it. I have a script that might be run directly or might be sourced; so to exit out of it I have to either return or exit accordingly. The ",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -590,16 +760,6 @@
    "kind": "news"
   },
   {
-   "title": "Use alias from ssh",
-   "url": "https://www.reddit.com/r/bash/comments/1vjaemx/use_alias_from_ssh/",
-   "date": "2026-08-08T23:35:03+00:00",
-   "summary": "I can do ssh $HOST then use myalias $PATH to use an alias set in .bashrc (and .bash_profile does source ~/.bashrc ). But I can t do ssh $HOST myalias $PATH it can t find myalias. How can I use the alias and use $PATH that s on the server? s",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "hwdsl2/setup-ipsec-vpn",
    "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
    "date": "2026-08-08T20:11:20+00:00",
@@ -610,16 +770,6 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
-  },
-  {
-   "title": "made a proot alternative that doesn't use ptrace, curious if it holds up for anyone else",
-   "url": "https://www.reddit.com/r/bash/comments/1vj4852/made_a_proot_alternative_that_doesnt_use_ptrace/",
-   "date": "2026-08-08T19:04:57+00:00",
-   "summary": "submitted by /u/dsecurity49 [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
   },
   {
    "title": "gpakosz/.tmux",
@@ -634,26 +784,6 @@
    "kind": "news"
   },
   {
-   "title": "Shell poetry",
-   "url": "https://www.reddit.com/r/bash/comments/1viiar1/shell_poetry/",
-   "date": "2026-08-08T01:06:59+00:00",
-   "summary": "for for in for; do eval $for $for in $for; do echo \\$$for; done ; done do=for; eval=do; for=in; in=echo; echo=eval; foo=done; done=foo; $echo $do $eval $for echo; $eval $in $done; $foo for=$(for do in for do in echo \\; do echo \\$do \\; done;",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "Jobman: a daemonless CLI for long-running jobs with retries, timeouts, dependencies, and durable logs",
-   "url": "https://www.reddit.com/r/bash/comments/1vihvgs/jobman_a_daemonless_cli_for_longrunning_jobs_with/",
-   "date": "2026-08-08T00:46:27+00:00",
-   "summary": "I ve long used nohup for background processes that I want to run independently of the terminal. These types of jobs are usually long-running, sometimes launched over an SSH connection, and often have dependencies on other jobs. I built Jobm",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "zsh-users/zsh-syntax-highlighting",
    "url": "https://github.com/zsh-users/zsh-syntax-highlighting",
    "date": "2026-08-07T19:11:51+00:00",
@@ -666,16 +796,6 @@
    "kind": "news"
   },
   {
-   "title": "My favorite little bat wrapper I just wrote",
-   "url": "https://www.reddit.com/r/bash/comments/1vi91ip/my_favorite_little_bat_wrapper_i_just_wrote/",
-   "date": "2026-08-07T18:42:53+00:00",
-   "summary": "I wrote a wrapper function for the wonderful bat that searches a file for a function name and prints just that function and definition to stdout. I ve been using it a ton looking through legacy java projects and deployment scripts that I wa",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "useful-bash-functions",
    "url": "https://dev.to/mike_e677ba7447/useful-bash-functions-5ajn",
    "date": "2026-08-07T17:17:51+00:00",
@@ -684,16 +804,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "mirror-repo: Auto-sync Gitlab and Github repositories",
-   "url": "https://www.reddit.com/r/bash/comments/1vhux6o/mirrorrepo_autosync_gitlab_and_github_repositories/",
-   "date": "2026-08-07T08:34:35+00:00",
-   "summary": "mirror-repo is a CLI tool that creates a paired GitLab + GitHub repo in one command. You run mirror-repo my-project, and it: Creates a private or public repo on GitLab Creates an empty repo on GitHub 3. Configures GitLab s push mirror so ev",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -708,21 +818,11 @@
    "lang": "en"
   },
   {
-   "title": "Login with ssh password with bash only",
-   "url": "https://www.reddit.com/r/bash/comments/1vhc093/login_with_ssh_password_with_bash_only/",
-   "date": "2026-08-06T18:10:59+00:00",
-   "summary": "I can use programs like sshpass/expect to give a ssh password to the ssh command if I don t have pubkey auth. Can I do it using just bash? Some programs let you pipe a password on stdin can I do anything for ssh? It is to automate first log",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "msitarzewski/agency-agents",
    "url": "https://github.com/msitarzewski/agency-agents",
    "date": "2026-08-06T13:29:47+00:00",
    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-   "points": 145469,
+   "points": 145471,
    "tech": "bash",
    "sourceId": "github",
    "source": "GitHub",
@@ -754,16 +854,6 @@
    "kind": "news"
   },
   {
-   "title": "I built a visual game entirely in pure Bash — here is the demo and full source code!",
-   "url": "https://www.reddit.com/r/bash/comments/1vg6690/i_built_a_visual_game_entirely_in_pure_bash_here/",
-   "date": "2026-08-05T12:37:26+00:00",
-   "summary": "Hey everyone, I wanted to show what s actually possible using just pure Bash —from custom terminal graphics and animations to game logic. I ve been working on a project called Alchemon , a game written completely in Shell script that pushes",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "Automating Java Servlet Deployments with Gradle and Bash",
    "url": "https://dev.to/yogeth-dev/automating-java-servlet-deployments-with-gradle-and-bash-3kjd",
    "date": "2026-08-05T07:55:47+00:00",
@@ -772,16 +862,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Bash is way too fun",
-   "url": "https://www.reddit.com/r/bash/comments/1vfk2qh/bash_is_way_too_fun/",
-   "date": "2026-08-04T19:17:58+00:00",
-   "summary": "I m a construction worker and love tech, switched to Linux last year and wanted to learn BASH just out of curiosity not necessity. The only other language I have experience is GML from when I was a teen. So I ve been building a text adventu",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -805,26 +885,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Terminal Based Universal-Downloader - Supports Youtube/Flathub/Github/Torrents/Direct Links",
-   "url": "https://www.reddit.com/r/bash/comments/1verwu8/terminal_based_universaldownloader_supports/",
-   "date": "2026-08-03T22:20:38+00:00",
-   "summary": "Hello everyone. This is my small contribution to Linux community, I made this bash script in 2022 and i ve been using it ever since and now i ve also included Flatpak(Flathub) support aswell. Description: A lightweight Linux Bash script tha",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Interview Question",
-   "url": "https://www.reddit.com/r/bash/comments/1veg8ir/linux_interview_question/",
-   "date": "2026-08-03T15:13:17+00:00",
-   "summary": "Today I had a mock interview with a senior Linux administrator, and he asked me a question that completely caught me off guard: Can you collect CPU, Memory, and Disk usage in a Bash script without using top , free , df , or any external com",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -1263,16 +1323,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "set -x is your friend",
-   "url": "https://www.reddit.com/r/bash/comments/xcejrb/set_x_is_your_friend/",
-   "date": "2022-09-12T14:39:30+00:00",
-   "summary": "I enjoy looking through all the posts in this sub, to see the weird shit you guys are trying to do. Also, I think most people are happy to help, if only to flex their knowledge. However, a huge part of programming in general is learning how",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
   },
   {
    "title": "تعريف وتنصيب zsh — [الجزء 1]",

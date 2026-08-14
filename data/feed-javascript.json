@@ -1,14 +1,24 @@
 {
- "generated": "2026-08-14T19:15:10.878694+00:00",
+ "generated": "2026-08-14T19:23:19.195859+00:00",
  "tech": "javascript",
  "count": 220,
  "items": [
+  {
+   "title": "[AskJS] Is there a lint rule for detecting mojibake? (garbled Unicode characters like Ãƒâ€)",
+   "url": "https://www.reddit.com/r/javascript/comments/1vogri8/askjs_is_there_a_lint_rule_for_detecting_mojibake/",
+   "date": "2026-08-14T19:20:13+00:00",
+   "summary": "This is becoming a more common issue with AI generation, so I m wondering if any linter has a good way of automatically catching these obvious mistakes. It seems like it should be easy enough to scan for these characters. submitted by /u/ni",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
   {
    "title": "vercel/next.js",
    "url": "https://github.com/vercel/next.js",
    "date": "2026-08-14T19:10:46+00:00",
    "summary": "The React Framework",
-   "points": 141794,
+   "points": 141795,
    "tech": "javascript",
    "sourceId": "github",
    "source": "GitHub",
@@ -19,8 +29,8 @@
    "title": "How do you approach the decorative elements of a website?",
    "url": "https://stackoverflow.com/questions/79995185/how-do-you-approach-the-decorative-elements-of-a-website",
    "date": "2026-08-14T19:02:44+00:00",
-   "summary": "javascript، css، deployment، frontend",
-   "points": -2,
+   "summary": "advice، javascript، css",
+   "points": -1,
    "tech": "javascript",
    "sourceId": "so",
    "source": "Stack Overflow",
@@ -54,7 +64,7 @@
    "url": "https://github.com/addyosmani/agent-skills",
    "date": "2026-08-14T18:51:33+00:00",
    "summary": "Production-grade engineering skills for AI coding agents.",
-   "points": 87237,
+   "points": 87238,
    "tech": "javascript",
    "sourceId": "github",
    "source": "GitHub",
@@ -77,7 +87,7 @@
    "url": "https://github.com/nodejs/node",
    "date": "2026-08-14T18:33:30+00:00",
    "summary": "Node.js JavaScript runtime ✨🐢🚀✨",
-   "points": 118946,
+   "points": 118947,
    "tech": "javascript",
    "sourceId": "github",
    "source": "GitHub",
@@ -364,7 +374,7 @@
    "url": "https://github.com/santifer/career-ops",
    "date": "2026-08-14T14:31:41+00:00",
    "summary": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-   "points": 63827,
+   "points": 63828,
    "tech": "javascript",
    "sourceId": "github",
    "source": "GitHub",
@@ -380,6 +390,16 @@
    "tech": "javascript",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We built the same data grid in React, Vue & Svelte, here's what we learned",
+   "url": "https://www.reddit.com/r/javascript/comments/1vo89vt/we_built_the_same_data_grid_in_react_vue_svelte/",
+   "date": "2026-08-14T14:07:22+00:00",
+   "summary": "At SVAR, we build UI components for React, Svelte, and Vue. Just shared our experience with a data grid – how to make it fast in all three frameworks. What surprised us: the expensive bits (virtualization, memoization, data flow) are almost",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
    "lang": "en"
   },
   {
@@ -488,6 +508,16 @@
    "tech": "javascript",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I'm an Angular dev and I spent some weeks building a 3D map of the universe in the browser using three.js",
+   "url": "https://www.reddit.com/r/javascript/comments/1vo2v9e/im_an_angular_dev_and_i_spent_some_weeks_building/",
+   "date": "2026-08-14T09:51:28+00:00",
+   "summary": "submitted by /u/Far_Experience_2688 [link] [التعليقات]",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
    "lang": "en"
   },
   {
@@ -833,6 +863,16 @@
    "kind": "news"
   },
   {
+   "title": "Your Modules Are Lying to You",
+   "url": "https://www.reddit.com/r/javascript/comments/1vnrw14/your_modules_are_lying_to_you/",
+   "date": "2026-08-14T00:13:46+00:00",
+   "summary": "import and require are not interchangeable. Live bindings, copied values, circular dependencies, separate caches, conditional exports, and dual-package hazards can all make modules behave differently from what the syntax suggests. submitted",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
    "title": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
    "url": "https://github.com/bshichman/trs80-coco-basic",
    "date": "2026-08-14T00:04:57+00:00",
@@ -848,7 +888,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "date": "2026-08-13T22:58:25+00:00",
    "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "points": 240141,
+   "points": 240143,
    "tech": "javascript",
    "sourceId": "github",
    "source": "GitHub",
@@ -860,7 +900,7 @@
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "date": "2026-08-13T22:31:08+00:00",
    "summary": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-   "points": 64710,
+   "points": 64712,
    "tech": "javascript",
    "sourceId": "github",
    "source": "GitHub",
@@ -955,6 +995,26 @@
    "lang": "en"
   },
   {
+   "title": "[AskJS] Ho ritrovato questo vecchio snippet per un rullo 3D in CSS/JS puro: niente di complesso, ma a me fa ancora impazzire!",
+   "url": "https://www.reddit.com/r/javascript/comments/1vnidh8/askjs_ho_ritrovato_questo_vecchio_snippet_per_un/",
+   "date": "2026-08-13T18:05:37+00:00",
+   "summary": "div class= container-rullo div class= rullo-3d id= rullo div class= item style= --i:0; a href= img src= /a /div div class= item style= --i:1; a href= img src= /a /div div class= item style= --i:2; a href= img src= /a /div div class= item st",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
+   "title": "The Simple AI Dictionary: putting an end to buzzwords, all without AI",
+   "url": "https://www.reddit.com/r/javascript/comments/1vnf8dp/the_simple_ai_dictionary_putting_an_end_to/",
+   "date": "2026-08-13T16:14:16+00:00",
+   "summary": "This is a next app I made that I d like to define the magical buzzwords that exist in the GenAI space. It s meant to be run by humans to simply and concretely define terms like agents , harness and hallucinations submitted by /u/Ahmed33033 ",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
    "title": "I found moderation endpoint in JavaScript",
    "url": "https://nadleer.github.io/posts/flagging_post_bug/",
    "date": "2026-08-13T15:59:44+00:00",
@@ -963,6 +1023,16 @@
    "tech": "javascript",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Plain White Tees in React Native, Meta’s Muse Code, and Making It to the Pub by 6 PM on a Friday",
+   "url": "https://www.reddit.com/r/javascript/comments/1vn9y98/plain_white_tees_in_react_native_metas_muse_code/",
+   "date": "2026-08-13T12:55:57+00:00",
+   "summary": "Hey Community, React Native Plain Text by Maciej Jastrzębski brings a lightweight alternative to standard Text components to squeeze maximum rendering performance out of large lists. Meanwhile, Meta introduced Muse Code, a terminal coding a",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
    "lang": "en"
   },
   {
@@ -1007,6 +1077,26 @@
    "lang": "en"
   },
   {
+   "title": "[AskJS] Are employed Developers still programming with vanilla JavaScript ?",
+   "url": "https://www.reddit.com/r/javascript/comments/1vn2qe5/askjs_are_employed_developers_still_programming/",
+   "date": "2026-08-13T06:23:34+00:00",
+   "summary": "I ve been programming on the side since 2017 and I ve never really hunted a developer job. I ve always thought about building my own things, mainly to supplement things I do like woodworking, tutoring, video editing and others. Since then, ",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
+   "title": "[AskJS] jsbin is down??",
+   "url": "https://www.reddit.com/r/javascript/comments/1vn26gi/askjs_jsbin_is_down/",
+   "date": "2026-08-13T05:52:55+00:00",
+   "summary": "During an interveiw yesterday, I tried opening jsbin but seems its shouting 503!! Any minimal JS playground, you people using/suggest EDIT: The sites up, I opened an issue on GitHub and the maintainers resolved it submitted by /u/TJ51097 [l",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
    "title": "Are object URLs now cached on disk instead of memory only?",
    "url": "https://stackoverflow.com/questions/79993675/are-object-urls-now-cached-on-disk-instead-of-memory-only",
    "date": "2026-08-13T03:38:05+00:00",
@@ -1047,6 +1137,16 @@
    "tech": "javascript",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Check out what I just built with Lovable!",
+   "url": "https://www.reddit.com/r/javascript/comments/1vmobs3/check_out_what_i_just_built_with_lovable/",
+   "date": "2026-08-12T19:38:35+00:00",
+   "summary": "https://caffesilvestre.app submitted by /u/Kind_Clock_1355 [link] [التعليقات]",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
    "lang": "en"
   },
   {
@@ -1114,6 +1214,16 @@
    "lang": "en"
   },
   {
+   "title": "Building KernelPlay-JS together — looking for open-source contributors",
+   "url": "https://www.reddit.com/r/javascript/comments/1vmb99q/building_kernelplayjs_together_looking_for/",
+   "date": "2026-08-12T11:17:21+00:00",
+   "summary": "Hey everyone! I m working on KernelPlay-JS , an open-source 2D game engine made with JavaScript. The project is growing, and I ve already had a few developers contribute. I ve also been working on ready-to-use templates such as a platformer",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
    "title": "Show HN: Gribble – Pixelated pixel art editor in the browser",
    "url": "https://gribble.app",
    "date": "2026-08-12T10:30:31+00:00",
@@ -1125,6 +1235,16 @@
    "lang": "en"
   },
   {
+   "title": "rapiq: typed query params for REST APIs (filters, sort, pagination, fields, relations) that run on TypeORM, Prisma, Drizzle or plain arrays",
+   "url": "https://www.reddit.com/r/javascript/comments/1vm8b0k/rapiq_typed_query_params_for_rest_apis_filters/",
+   "date": "2026-08-12T08:33:03+00:00",
+   "summary": "submitted by /u/Pakashi-kun [link] [التعليقات]",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
    "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
    "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
    "date": "2026-08-11T22:27:32+00:00",
@@ -1133,6 +1253,16 @@
    "tech": "javascript",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "I built a tool for system administrators who are tired of remembering commands using javascript",
+   "url": "https://www.reddit.com/r/javascript/comments/1vluo3m/i_built_a_tool_for_system_administrators_who_are/",
+   "date": "2026-08-11T21:30:20+00:00",
+   "summary": "A few months ago, I was frustrated by the huge number of commands I needed to remember and understand for the Windows and Linux servers I administer, so I thought of building a tool that centralizes both command search and documentation. I ",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
    "lang": "en"
   },
   {
@@ -1201,6 +1331,16 @@
    "lang": "en"
   },
   {
+   "title": "flo-webcomponents: Take back control of rendering + events using WebComponents with one minimal superclass.",
+   "url": "https://www.reddit.com/r/javascript/comments/1vlhac7/flowebcomponents_take_back_control_of_rendering/",
+   "date": "2026-08-11T13:20:20+00:00",
+   "summary": "submitted by /u/EveYogaTech [link] [التعليقات]",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
+   "lang": "en"
+  },
+  {
    "title": "In what cases bound method is used in production ?",
    "url": "https://www.reddit.com/r/learnjavascript/comments/1vlgm9r/in_what_cases_bound_method_is_used_in_production/",
    "date": "2026-08-11T12:52:37+00:00",
@@ -1218,6 +1358,16 @@
    "tech": "javascript",
    "sourceId": "reddit",
    "source": "r/learnjavascript",
+   "lang": "en"
+  },
+  {
+   "title": "[AskJS] I'm sick of AI slop; I want to learn how to use ESLint properly.",
+   "url": "https://www.reddit.com/r/javascript/comments/1vlebqt/askjs_im_sick_of_ai_slop_i_want_to_learn_how_to/",
+   "date": "2026-08-11T11:03:56+00:00",
+   "summary": "I m really sick of Claude Code or Codex messing things up it creates the same function 30 times, generates 200 lines functions, and casts everything or tweaks the schemas just to make it seem like it works. And if I m not there to check eve",
+   "tech": "javascript",
+   "sourceId": "reddit",
+   "source": "r/javascript",
    "lang": "en"
   },
   {
@@ -1254,26 +1404,6 @@
    "lang": "en"
   },
   {
-   "title": "Blobs",
-   "url": "https://www.reddit.com/r/learnjavascript/comments/1vl509n/blobs/",
-   "date": "2026-08-11T02:32:07+00:00",
-   "summary": "Can someone provide any information on a use case for blobs. Anything that has a bit more insight than what is provided in MDN. Looking for a way to think about and understand this. Thanks. submitted by /u/abaezeaba [link] [التعليقات]",
-   "tech": "javascript",
-   "sourceId": "reddit",
-   "source": "r/learnjavascript",
-   "lang": "en"
-  },
-  {
-   "title": "I’ve wanted to learn JavaScript for a while now.",
-   "url": "https://www.reddit.com/r/learnjavascript/comments/1vkzvud/ive_wanted_to_learn_javascript_for_a_while_now/",
-   "date": "2026-08-10T22:45:47+00:00",
-   "summary": "I’ve wanted to learn JavaScript for a while now. Honestly, starting has been harder than I thought it would be. Not because JavaScript itself is impossible, but because lately I’ve felt like I’ve lost some of the abilities I used to have. I",
-   "tech": "javascript",
-   "sourceId": "reddit",
-   "source": "r/learnjavascript",
-   "lang": "en"
-  },
-  {
    "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
    "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
    "date": "2026-08-10T19:29:02+00:00",
@@ -1285,16 +1415,6 @@
    "lang": "en"
   },
   {
-   "title": "Best architecture to build a client lib for rest/graphql - Factory vs Class ?",
-   "url": "https://www.reddit.com/r/learnjavascript/comments/1vks7q5/best_architecture_to_build_a_client_lib_for/",
-   "date": "2026-08-10T17:57:47+00:00",
-   "summary": "I am building a js lib and I have been reading about best ways to do this, but there are a lot of pros and cons for each way. I built a small one with a few functions for use in a very specific app and it was class based. I stored the class",
-   "tech": "javascript",
-   "sourceId": "reddit",
-   "source": "r/learnjavascript",
-   "lang": "en"
-  },
-  {
    "title": "How do I make it so that the script responds differently for each element?",
    "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
    "date": "2026-08-10T12:53:06+00:00",
@@ -1303,137 +1423,6 @@
    "tech": "javascript",
    "sourceId": "so",
    "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "MongoDB Shell JavaScript: Bulk Updates, Loops and Analysis",
-   "url": "https://visualeaf.com/blog/mongodb-shell-scripting-bulk-updates-loops-analysis/",
-   "date": "2026-08-10T12:15:05+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "javascript",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Learning Passport.js has me completely lost overwhelmed. How Much Do I Actually Need to Know?",
-   "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
-   "date": "2026-08-10T06:45:26+00:00",
-   "summary": "advice، javascript، node.js، passport.js، libraries",
-   "points": -9,
-   "tech": "javascript",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Ask HN: TS Compiler",
-   "url": "https://news.ycombinator.com/item?id=49239162",
-   "date": "2026-08-10T04:18:22+00:00",
-   "summary": "Hey everyone, I am an experienced JavaScript and TypeScript developer. What I love about JavaScript more than any other language is that it is so easy for me to express myself. It’s easier for me to e",
-   "points": 4,
-   "tech": "javascript",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show javascript text on an html file",
-   "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
-   "date": "2026-08-10T00:52:26+00:00",
-   "summary": "javascript",
-   "points": 2,
-   "tech": "javascript",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Modern JavaScript Tricks for Cleaner Everyday Code",
-   "url": "https://jsdevspace.substack.com/p/20-modern-javascript-tricks-for-cleaner",
-   "date": "2026-08-09T23:34:16+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "JavaScript for Unity",
-   "url": "https://onejs.com",
-   "date": "2026-08-09T21:49:31+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "javascript",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "juliangarnier/anime",
-   "url": "https://github.com/juliangarnier/anime",
-   "date": "2026-08-09T16:40:09+00:00",
-   "summary": "JavaScript animation engine",
-   "points": 72157,
-   "tech": "javascript",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Ask HN: My dev blog has 11k followers. I stopped writing it. What would you do?",
-   "url": "https://news.ycombinator.com/item?id=49231291",
-   "date": "2026-08-09T13:35:28+00:00",
-   "summary": "In 2017, I started a series on Medium called How JavaScript works . The idea was to explain to web devs what actually happens under the hood in the browser. Some stats from the most popular articles (",
-   "points": 9,
-   "tech": "javascript",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Pointers and references in Javascript",
-   "url": "https://stackoverflow.com/questions/79991637/pointers-and-references-in-javascript",
-   "date": "2026-08-08T22:56:05+00:00",
-   "summary": "javascript",
-   "points": -7,
-   "tech": "javascript",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How to make numbers interactive?",
-   "url": "https://www.reddit.com/r/learnjavascript/comments/1vj58yi/how_to_make_numbers_interactive/",
-   "date": "2026-08-08T19:47:48+00:00",
-   "summary": "I m a beginner in coding, and I need to know how to create a vertical row of clickable numbers. I wish I could show a picture, but I m just going to try to describe it. There s a website i m making, and I wanted to add a 1-10 scale. I also ",
-   "tech": "javascript",
-   "sourceId": "reddit",
-   "source": "r/learnjavascript",
-   "lang": "en"
-  },
-  {
-   "title": "FrameJS – interactive JavaScript visualizations that live in a URL",
-   "url": "https://framejs.io",
-   "date": "2026-08-08T15:13:41+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Is a Node unblocker worth using for a small scraper?",
-   "url": "https://www.reddit.com/r/learnjavascript/comments/1vipqo1/is_a_node_unblocker_worth_using_for_a_small/",
-   "date": "2026-08-08T07:38:46+00:00",
-   "summary": "Building a small scraper in node.js and I keep getting 403s and captchas after around 50 requests. Tried adding delays and rotating user agents, but I don t want to build out a whole big proxy setup for a one off project... would a node unb",
-   "tech": "javascript",
-   "sourceId": "reddit",
-   "source": "r/learnjavascript",
    "lang": "en"
   },
   {

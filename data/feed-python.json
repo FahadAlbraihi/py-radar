@@ -1,17 +1,242 @@
 {
- "generated": "2026-08-14T19:14:53.241709+00:00",
+ "generated": "2026-08-14T19:23:02.231170+00:00",
  "tech": "python",
  "count": 220,
  "items": [
   {
+   "title": "huggingface/transformers",
+   "url": "https://github.com/huggingface/transformers",
+   "date": "2026-08-14T19:22:36+00:00",
+   "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+   "points": 164106,
+   "tech": "python",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "date": "2026-08-14T19:22:17+00:00",
+   "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+   "points": 186620,
+   "tech": "python",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "interlaced 2.4.0",
+   "url": "https://pypi.org/project/interlaced/2.4.0/",
+   "date": "2026-08-14T19:18:50+00:00",
+   "summary": "Python and SQL models in one DAG. Transformation, orchestration and durable streaming in one process, on DuckDB and Postgres.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "eufy-sync 1.9.0",
+   "url": "https://pypi.org/project/eufy-sync/1.9.0/",
+   "date": "2026-08-14T19:18:38+00:00",
+   "summary": "Sync Eufy smart scale body composition data to Garmin Connect and Strava",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "langctl 0.12.1",
+   "url": "https://pypi.org/project/langctl/0.12.1/",
+   "date": "2026-08-14T19:18:37+00:00",
+   "summary": "Scaffold, run, and deploy production LangChain agents — frontend and agent in one command.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "the-loopy-one 9.14.0",
+   "url": "https://pypi.org/project/the-loopy-one/9.14.0/",
+   "date": "2026-08-14T19:18:33+00:00",
+   "summary": "Lightweight, extensible CLI for the-loop — quality-of-life commands the the-loop plugin can use (e.g. a GitHub webhook receiver).",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "graphifyy 0.9.43",
+   "url": "https://pypi.org/project/graphifyy/0.9.43/",
+   "date": "2026-08-14T19:18:06+00:00",
+   "summary": "AI coding assistant skill (Claude Code, CodeBuddy, Codex, OpenCode, Kilo Code, Cursor, Gemini CLI, Aider, OpenClaw, Factory Droid, Trae, Hermes, Kiro, Pi, Devin CLI, Google Antigravity) - turn any folder of code, docs, papers, images, or vi",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "NousResearch/hermes-agent",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "date": "2026-08-14T19:18:01+00:00",
+   "summary": "The agent that grows with you",
+   "points": 230592,
+   "tech": "python",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "pygeodata 0.2.0",
+   "url": "https://pypi.org/project/pygeodata/0.2.0/",
+   "date": "2026-08-14T19:17:59+00:00",
+   "summary": "Lightweight framework for geospatial data access and processing",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "edify-cli 0.1.0",
+   "url": "https://pypi.org/project/edify-cli/0.1.0/",
+   "date": "2026-08-14T19:17:55+00:00",
+   "summary": "CLI toolkit for the edify Claude Code plugin",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "sparc-pc 0.8.2",
+   "url": "https://pypi.org/project/sparc-pc/0.8.2/",
+   "date": "2026-08-14T19:17:55+00:00",
+   "summary": "SparC: fast, modular sparse probabilistic circuits in Cython (CPU-only)",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "Graphify-Labs/graphify",
+   "url": "https://github.com/Graphify-Labs/graphify",
+   "date": "2026-08-14T19:17:38+00:00",
+   "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "points": 106333,
+   "tech": "python",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
    "title": "pytorch/pytorch",
    "url": "https://github.com/pytorch/pytorch",
-   "date": "2026-08-14T19:13:42+00:00",
+   "date": "2026-08-14T19:17:35+00:00",
    "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
    "points": 102375,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "it-eval-framework 0.1.0",
+   "url": "https://pypi.org/project/it-eval-framework/0.1.0/",
+   "date": "2026-08-14T19:17:30+00:00",
+   "summary": "Reproducible Italian evaluation framework for autoregressive Hugging Face language models.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "Comfy-Org/ComfyUI",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "date": "2026-08-14T19:17:19+00:00",
+   "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+   "points": 127571,
+   "tech": "python",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "secretscreen 0.5.1",
+   "url": "https://pypi.org/project/secretscreen/0.5.1/",
+   "date": "2026-08-14T19:17:19+00:00",
+   "summary": "Detect and redact secrets in key-value pairs, dicts, and environment variables. Library and CLI.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "exmergo-dex-core 1.6.5",
+   "url": "https://pypi.org/project/exmergo-dex-core/1.6.5/",
+   "date": "2026-08-14T19:17:02+00:00",
+   "summary": "Analytics engineering for Claude Code and any agent: data warehouse exploration, dbt transformation and semantic modeling, and schema-drift maintenance on dbt.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "aegismcp-core 0.2.0",
+   "url": "https://pypi.org/project/aegismcp-core/0.2.0/",
+   "date": "2026-08-14T19:16:55+00:00",
+   "summary": "AegisMCP: The opinionated Model Context Protocol framework",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "aegismcp-core 0.1.4",
+   "url": "https://pypi.org/project/aegismcp-core/0.1.4/",
+   "date": "2026-08-14T19:16:54+00:00",
+   "summary": "AegisMCP: The opinionated Model Context Protocol framework",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "muxplex-client 0.47.8",
+   "url": "https://pypi.org/project/muxplex-client/0.47.8/",
+   "date": "2026-08-14T19:16:43+00:00",
+   "summary": "Typed sync/async HTTP client for the muxplex API",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "tadc 2.4.2",
+   "url": "https://pypi.org/project/tadc/2.4.2/",
+   "date": "2026-08-14T19:16:42+00:00",
+   "summary": "The Tidal Analysis Datum Calculator (TADC) computes tidal datums from a water level data time series.",
+   "tech": "python",
+   "sourceId": "pypi",
+   "source": "PyPI",
    "lang": "en",
    "kind": "news"
   },
@@ -28,193 +253,14 @@
    "kind": "news"
   },
   {
-   "title": "Significant-Gravitas/AutoGPT",
-   "url": "https://github.com/Significant-Gravitas/AutoGPT",
-   "date": "2026-08-14T19:13:10+00:00",
-   "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "points": 186620,
+   "title": "️⚡ Ash Keeps Searching the Tall Grass, While Python Prepares for the Next Gym Battle",
+   "url": "https://medium.com/@saurabh.hack.pandey/%EF%B8%8F-ash-keeps-searching-the-tall-grass-while-python-prepares-for-the-next-gym-battle-fbdfa7af4afe?source=rss------python-5",
+   "date": "2026-08-14T19:06:59+00:00",
+   "summary": "Ash had learned something important about Pok&#xE9;mon battles. Continue reading on Medium »",
    "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "huggingface/transformers",
-   "url": "https://github.com/huggingface/transformers",
-   "date": "2026-08-14T19:12:35+00:00",
-   "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "points": 164106,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "taut-summon 0.9.0",
-   "url": "https://pypi.org/project/taut-summon/0.9.0/",
-   "date": "2026-08-14T19:09:47+00:00",
-   "summary": "Summon extension for Taut: host an agent harness as a workspace member",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "taut-chat 0.9.0",
-   "url": "https://pypi.org/project/taut-chat/0.9.0/",
-   "date": "2026-08-14T19:09:47+00:00",
-   "summary": "Private, no-config chat with agents and humans in your terminal",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "taut-tui 0.9.0",
-   "url": "https://pypi.org/project/taut-tui/0.9.0/",
-   "date": "2026-08-14T19:09:45+00:00",
-   "summary": "Human-first terminal interface extension for Taut",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "taut-mcp 0.9.0",
-   "url": "https://pypi.org/project/taut-mcp/0.9.0/",
-   "date": "2026-08-14T19:09:42+00:00",
-   "summary": "MCP extension for attaching agent sessions to Taut workspaces",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "turndb 0.1.4",
-   "url": "https://pypi.org/project/turndb/0.1.4/",
-   "date": "2026-08-14T19:09:40+00:00",
-   "summary": "Embedded, byte-exact storage for AI traces",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "pitches-peaches 0.1.2",
-   "url": "https://pypi.org/project/pitches-peaches/0.1.2/",
-   "date": "2026-08-14T19:09:38+00:00",
-   "summary": "Turn a job posting and your CV into an interview prep dossier. It never applies to anything.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "gnougo-flow-core 0.18.1",
-   "url": "https://pypi.org/project/gnougo-flow-core/0.18.1/",
-   "date": "2026-08-14T19:09:34+00:00",
-   "summary": "Python 3.10+ implementation of GnOuGo.Flow.Core",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "forestui 1.3.1",
-   "url": "https://pypi.org/project/forestui/1.3.1/",
-   "date": "2026-08-14T19:09:32+00:00",
-   "summary": "A Terminal UI for managing Git worktrees",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "ceres-engine 0.42.0",
-   "url": "https://pypi.org/project/ceres-engine/0.42.0/",
-   "date": "2026-08-14T19:09:06+00:00",
-   "summary": "A Python framework for data collection, monitoring and device control.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "nost-tools 3.5.2",
-   "url": "https://pypi.org/project/nost-tools/3.5.2/",
-   "date": "2026-08-14T19:09:05+00:00",
-   "summary": "Tools for Novel Observing Strategies Testbed (NOS-T) Applications",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "sustained 2.2.0",
-   "url": "https://pypi.org/project/sustained/2.2.0/",
-   "date": "2026-08-14T19:08:54+00:00",
-   "summary": "A Python query builder inspired by Objection.js",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "sustained 2.1.0",
-   "url": "https://pypi.org/project/sustained/2.1.0/",
-   "date": "2026-08-14T19:08:52+00:00",
-   "summary": "A Python query builder inspired by Objection.js",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "code-coordinator 0.5.78",
-   "url": "https://pypi.org/project/code-coordinator/0.5.78/",
-   "date": "2026-08-14T19:08:50+00:00",
-   "summary": "Coordinate Claude Code workers across multiple machines and repos.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "omni-coder 0.5.26",
-   "url": "https://pypi.org/project/omni-coder/0.5.26/",
-   "date": "2026-08-14T19:08:48+00:00",
-   "summary": "A scoped, MCP-powered coding agent that puts Qwen Coder (or any OpenAI-compatible model) to work in your codebase",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "sustained 2.0.0",
-   "url": "https://pypi.org/project/sustained/2.0.0/",
-   "date": "2026-08-14T19:08:38+00:00",
-   "summary": "A Python query builder inspired by Objection.js",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
   },
   {
    "title": "langchain-ai/langchain",
@@ -248,6 +294,16 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Where can I learn Python for free?",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vofwg1/where_can_i_learn_python_for_free/",
+   "date": "2026-08-14T18:48:42+00:00",
+   "summary": "I’m looking for a good free resource to learn Python from scratch. What do you guys recommend? submitted by /u/yup-console [link] [التعليقات]",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -302,18 +358,6 @@
    "lang": "ar"
   },
   {
-   "title": "NousResearch/hermes-agent",
-   "url": "https://github.com/NousResearch/hermes-agent",
-   "date": "2026-08-14T18:22:17+00:00",
-   "summary": "The agent that grows with you",
-   "points": 230589,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "MY PYTHON PROGRAMMING INTERNSHIP JOURNEY AT OASIS INFOBYTE.",
    "url": "https://medium.com/@tejaswinikr785/my-python-programming-internship-journey-at-oasis-infobyte-1e8147dbf2bc?source=rss------python-5",
    "date": "2026-08-14T18:19:53+00:00",
@@ -324,16 +368,24 @@
    "lang": "en"
   },
   {
-   "title": "Comfy-Org/ComfyUI",
-   "url": "https://github.com/Comfy-Org/ComfyUI",
-   "date": "2026-08-14T17:31:38+00:00",
-   "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-   "points": 127572,
+   "title": "Advancing in python",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vod84m/advancing_in_python/",
+   "date": "2026-08-14T17:12:03+00:00",
+   "summary": "Heyy everyone first time posting here so I’m a student, I want to learn some computer skills to learn something new and have some practically applicable skills other than a degree (which is a long way to go). I might also consider taking a ",
    "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced Python",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vod6rv/advanced_python/",
+   "date": "2026-08-14T17:10:42+00:00",
+   "summary": "Heyy everyone first time posting here so I’m a student, I want to learn some computer skills to learn something new and have some practically applicable skills other than a degree (which is a long way to go). I might also consider taking a ",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
   },
   {
    "title": "Catch Prompt Drift Before It Breaks Your Free-Model CI Job",
@@ -362,7 +414,7 @@
    "url": "https://github.com/github/spec-kit",
    "date": "2026-08-14T16:44:52+00:00",
    "summary": "💫 Toolkit to help you get started with Spec-Driven Development",
-   "points": 128335,
+   "points": 128341,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -389,6 +441,16 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "what's the point of getters and setters?",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vobo1q/whats_the_point_of_getters_and_setters/",
+   "date": "2026-08-14T16:15:21+00:00",
+   "summary": "I had python classes a year ago, and after a semester of not having any (OOP language) programming classes in college, I kinda want to relearn python (and OOP in general) However one thing that I never understood is the point of getters and",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -447,6 +509,16 @@
    "lang": "en"
   },
   {
+   "title": "Very new to python, would appreciate help",
+   "url": "https://www.reddit.com/r/learnpython/comments/1voan51/very_new_to_python_would_appreciate_help/",
+   "date": "2026-08-14T15:37:33+00:00",
+   "summary": "I am building a calculator program and it works, but now I am attempting to bullet proof it, so that no wrong inputs can cause an error. With what I have written, it works but the loop for the operator input does not actually loop even thou",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
    "title": "Animica – a post-quantum Layer 1 blockchain built primarily in Python",
    "url": "https://animica.org/",
    "date": "2026-08-14T15:34:44+00:00",
@@ -480,6 +552,16 @@
    "lang": "en"
   },
   {
+   "title": "Tkinter vs cutomtkinter",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo9orz/tkinter_vs_cutomtkinter/",
+   "date": "2026-08-14T15:02:01+00:00",
+   "summary": "I am starting with GUI designs and want to know about the difference and which is better 😉 submitted by /u/Smartyboyz [link] [التعليقات]",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
    "title": "Show HN: Burla – Distributed computing framework for AI agents",
    "url": "https://burla.dev/",
    "date": "2026-08-14T14:52:54+00:00",
@@ -499,6 +581,16 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Week 1 - progress towards machine learning",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo9912/week_1_progress_towards_machine_learning/",
+   "date": "2026-08-14T14:45:11+00:00",
+   "summary": "I started my journey to learning machine learning a little over 1 week ago and am writing these posts to hold myself accountable for my study and hopefully give some insight for anyone following my footsteps. I have identified a road map th",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -556,6 +648,16 @@
    "lang": "en"
   },
   {
+   "title": "Starting From ZERO experience - goal to make an app",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo5d20/starting_from_zero_experience_goal_to_make_an_app/",
+   "date": "2026-08-14T12:03:13+00:00",
+   "summary": "I want to learn to code with the goal of developing a women s health app. I know literally nothing about coding, I have no background whatsoever in computer science and most days fight with my computer (I feel as though if I bothered to lea",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
+   "lang": "en"
+  },
+  {
    "title": "The Real Python Podcast – Episode #307: Improving NumPy Performance on Free-Threaded Python",
    "url": "https://realpython.com/podcasts/rpp/307/",
    "date": "2026-08-14T12:00:00+00:00",
@@ -595,6 +697,16 @@
    "tech": "python",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "Terminal and raw I/O VT100 codes question",
+   "url": "https://www.reddit.com/r/learnpython/comments/1vo4p7u/terminal_and_raw_io_vt100_codes_question/",
+   "date": "2026-08-14T11:31:39+00:00",
+   "summary": "A Windows terminal/consoles VT100 emulation question. https://espterm.github.io/docs/VT100%20escape%20codes.html specifies getcursor DSR Get cursor position ^[6n cursorpos CPR Response: cursor is at v,h ^[ v ; h R so print( \\x1b[6n ) ends u",
+   "tech": "python",
+   "sourceId": "reddit",
+   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -956,7 +1068,7 @@
    "url": "https://github.com/anthropics/claude-code",
    "date": "2026-08-13T23:29:59+00:00",
    "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-   "points": 141461,
+   "points": 141462,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -1021,7 +1133,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "date": "2026-08-13T21:07:34+00:00",
    "summary": "A collective list of free APIs",
-   "points": 458290,
+   "points": 458312,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -1054,7 +1166,7 @@
    "url": "https://github.com/browser-use/browser-use",
    "date": "2026-08-13T19:28:15+00:00",
    "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-   "points": 109225,
+   "points": 109228,
    "tech": "python",
    "sourceId": "github",
    "source": "GitHub",
@@ -1088,127 +1200,6 @@
    "url": "https://www.reddit.com/r/learnpython/comments/1vnjn50/tk_with_no_main_window/",
    "date": "2026-08-13T18:50:25+00:00",
    "summary": "I am making a simple gemini browser in python for fun with tk, but have stumbled upon a problem: if I close initial window all the rest will close too. Is there a way to make tk application with no main window or at least transfer leadershi",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "Shubhamsaboo/awesome-llm-apps",
-   "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-   "date": "2026-08-13T18:45:25+00:00",
-   "summary": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-   "points": 132630,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Ola tudo bem? estou aprendendo Python para analise de Dados, quais dicas vocês dão para iniciantes?",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vninlh/ola_tudo_bem_estou_aprendendo_python_para_analise/",
-   "date": "2026-08-13T18:15:31+00:00",
-   "summary": "queria dica de livros também submitted by /u/NekoMeaw [link] [التعليقات]",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "anthropics/skills",
-   "url": "https://github.com/anthropics/skills",
-   "date": "2026-08-13T18:09:56+00:00",
-   "summary": "Public repository for Agent Skills",
-   "points": 169401,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Civic Tech and Open Source Data Platforms: Building CommunityOne",
-   "url": "https://dev.to/3ni8ma/civic-tech-and-open-source-data-platforms-building-communityone-2m77",
-   "date": "2026-08-13T18:02:45+00:00",
-   "summary": "Overview   CommunityOne (DoxDock) is an open-source data platform that aggregates and...",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AuraFinance: Building a Zero-Cost Full-Stack Financial Intelligence Platform",
-   "url": "https://dev.to/3ni8ma/aurafinance-building-a-zero-cost-full-stack-financial-intelligence-platform-126j",
-   "date": "2026-08-13T17:57:31+00:00",
-   "summary": "Overview   AuraFinance is a full-stack financial intelligence platform that combines live...",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Modeling One LLM Agent Three Ways: Python, Clojure, Elixir",
-   "url": "https://sdtimes.com/programming-languages/elixir-clojure-or-python-for-llm-agents-our-experience-with-all-three/",
-   "date": "2026-08-13T17:38:59+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "How do I get better at actually solving Python problems as a complete beginner",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vnhdw6/how_do_i_get_better_at_actually_solving_python/",
-   "date": "2026-08-13T17:31:12+00:00",
-   "summary": "im completely new to the coding world n Python is my first programming language. ive watched some beginner Python videos n i understand the basic syntax, functions, what different things do, etc. But whenever i actually get a question to so",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "How can I make this Tkinter application work? I need to stop the threading when I push the stop button of the PyScripter IDE?",
-   "url": "https://stackoverflow.com/questions/79993886/how-can-i-make-this-tkinter-application-work-i-need-to-stop-the-threading-when",
-   "date": "2026-08-13T17:15:15+00:00",
-   "summary": "python، tkinter",
-   "points": -4,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-   "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-   "date": "2026-08-13T17:10:11+00:00",
-   "summary": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-   "points": 116717,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Reproduce n-ary `vmap` from unary",
-   "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
-   "date": "2026-08-13T16:37:21+00:00",
-   "summary": "python، jax",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "changing axis tick sizes - matplotlib",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vndudt/changing_axis_tick_sizes_matplotlib/",
-   "date": "2026-08-13T15:25:17+00:00",
-   "summary": "Hello, I m trying to change the font of the axis ticks (i think ticks is the right word - 0,0.1,0.2,0.3 on x and y axis) within a zoomed section on the graph. I want the numbers to be a different font, which i ve worked out how to do for th",
    "tech": "python",
    "sourceId": "reddit",
    "source": "r/learnpython",
@@ -1308,10 +1299,10 @@
    "title": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wcnFHcmpXaFM2U3JycDFvWXBjRUpYem5WcUpCWHg4dG84Q3MyZFlRWlN0YmdtSjhGdXBadGdyUWR1OG13WEhlSDdMOHJGQlhmY0E?oc=5",
    "date": "2026-04-05T08:15:31+00:00",
-   "summary": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة وكالة عمون الاخبارية",
+   "summary": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة ammonnews.net",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "وكالة عمون الاخبارية",
+   "source": "ammonnews.net",
    "lang": "ar"
   },
   {
@@ -1498,10 +1489,10 @@
    "title": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xLVlRaGJ2cWRpdFgxNUk2UHJ5NENUT0Z0M0xCR3VtUlgzOXB3UDZMeURGSEhJcklGR2VoQ2J4ZXFvSVBQbTRIa29zamNpcVV5aXZnNDFWeFI5YzItV2c?oc=5",
    "date": "2024-08-06T07:00:00+00:00",
-   "summary": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة Sharjah24",
+   "summary": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة sharjah24.ae",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "Sharjah24",
+   "source": "sharjah24.ae",
    "lang": "ar"
   },
   {
@@ -2068,10 +2059,10 @@
    "title": "«وربة» راعٍ لدورة برمجة لغة بايثون",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wSVRFYmdoVXp1NlBqWGI4TkdsUmpwX2ZfX3U3cWphMVBYVk5PMklpeFhTNzd3YWJrb0doWUF0V1p5VGJfSHhadU1BcldxNE1uN2hTcEc2UXNRdWdEc1FRYV9jRdIBaEFVX3lxTE1uaklIbWN4OUpFb3diY05iN2JlVll5a0gxbWpiMkQ1QmNHLUR2c3l6SU00bER2NTU1aEpLSXJmaHpTOHZGSTdHSlhsMl9TWXpLcm5ZdVktU2NjOWJhNkV0WjFoajh2Q19v?oc=5",
    "date": "2022-03-23T07:00:00+00:00",
-   "summary": "«وربة» راعٍ لدورة برمجة لغة بايثون جريدة الجريدة الكويتية",
+   "summary": "«وربة» راعٍ لدورة برمجة لغة بايثون aljarida.com",
    "tech": "python",
    "sourceId": "ar-news",
-   "source": "جريدة الجريدة الكويتية",
+   "source": "aljarida.com",
    "lang": "ar"
   },
   {
