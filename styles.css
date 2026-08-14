@@ -67,6 +67,13 @@ select{font:inherit;color:inherit}
 .clear-btn{position:absolute;inset-inline-end:8px;top:50%;transform:translateY(-50%);
   border:0;background:transparent;font-size:24px;line-height:1;color:var(--muted);padding:0 6px}
 
+.row-label{
+  margin-top:12px;font-size:12px;font-weight:800;color:var(--muted);
+  display:flex;align-items:baseline;gap:6px;
+}
+.row-label span{font-weight:600;font-size:11px;opacity:.75}
+.row-label + .chips{margin-top:5px}
+
 .chips{display:flex;gap:8px;margin-top:10px}
 .chips.wrap{flex-wrap:wrap}
 .chips.scroll-x{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}

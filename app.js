@@ -813,6 +813,7 @@ document.addEventListener('visibilitychange', () => {
     $('#btn-install').hidden = false;
 
   syncControls();
+  renderTechChips();        // يظهر شريط لغات البرمجة فوراً، قبل وصول أي محتوى
   await refresh(false);
 
   save(VISIT_KEY, Date.now());          // بعد أول عرض، حتى تظهر شارة "جديد" لهذه الجلسة
