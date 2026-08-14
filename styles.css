@@ -76,15 +76,21 @@ select{font:inherit;color:inherit}
   border:2px solid var(--blue);
 }
 
-.track-bar{display:flex;flex-direction:column;gap:6px;margin-top:10px}
-.track-row{display:flex;align-items:center;gap:8px;min-width:0}
-.track-row .chips{flex:1 1 auto;min-width:0}
+/* لا صفوف أفقية في الرأس: زر واحد يفتح لوحة المسارات، فلا قصّ ولا تمرير جانبي */
+.track-bar{display:flex;align-items:center;gap:10px;margin-top:10px;flex-wrap:wrap}
 .all-tracks-btn{
-  flex:0 0 auto;padding:7px 14px;border-radius:var(--r-pill);
-  border:1px solid rgba(255,255,255,.4);background:rgba(255,255,255,.22);
-  color:var(--header-ink);font-size:13.5px;font-weight:700;white-space:nowrap;
+  flex:0 1 auto;min-width:0;display:inline-flex;align-items:center;gap:8px;
+  padding:8px 16px;border-radius:var(--r-pill);
+  border:1px solid rgba(255,255,255,.42);background:rgba(255,255,255,.22);
+  color:var(--header-ink);font-size:14px;font-weight:700;text-align:start;
 }
 .all-tracks-btn:hover{background:rgba(255,255,255,.34)}
+.all-tracks-btn > span:first-child{flex:0 0 auto;white-space:nowrap}
+.tracks-summary{
+  min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  font-weight:600;opacity:.85;font-size:13px;
+}
+.track-bar .chips{margin-top:0}
 
 #track-search{
   width:100%;margin-top:14px;padding:12px 14px;font-size:16px;
@@ -161,13 +167,7 @@ select{font:inherit;color:inherit}
 }
 .chips.scroll-x::-webkit-scrollbar{display:none}
 
-/* تلاشٍ عند حافة التمرير بدل القطع الحاد، ويدل على وجود المزيد */
-.track-bar,.chips-fade{position:relative}
-.track-bar::after,.chips-fade::after{
-  content:'';position:absolute;top:0;bottom:0;inset-inline-end:-18px;width:36px;
-  background:linear-gradient(to right,var(--header-bg) 35%,transparent);
-  pointer-events:none;
-}
+/* لم يعد هناك تمرير أفقي في الرأس، فلا حاجة إلى تلاشي الحافة */
 .chip{
   flex:0 0 auto;padding:7px 15px;border-radius:var(--r-pill);
   border:1px solid var(--line);background:var(--card);color:var(--muted);

@@ -51,11 +51,11 @@
 
   <!-- شريط المسارات ملتصق بالرأس: يبقى في متناول اليد أثناء التمرير -->
   <div class="wrap track-bar">
-    <div class="track-row">
-      <button id="btn-tracks" class="all-tracks-btn">☰ كل المسارات</button>
-      <div class="chips scroll-x" id="tech-chips" aria-label="المسار"></div>
-    </div>
-    <div class="chips scroll-x" id="lang-chips" aria-label="لغة المحتوى">
+    <button id="btn-tracks" class="all-tracks-btn">
+      <span>☰ المسارات</span>
+      <span id="tracks-summary" class="tracks-summary"></span>
+    </button>
+    <div class="chips wrap-chips" id="lang-chips" aria-label="لغة المحتوى">
       <button class="chip is-on" data-lang="all">الكل</button>
       <button class="chip" data-lang="ar">عربي</button>
       <button class="chip" data-lang="en">إنجليزي</button>
@@ -90,9 +90,6 @@
       <button id="btn-code" class="code-btn">&lt;/&gt; بحث بالكود</button>
     </div>
 
-    <div class="chips-fade">
-      <nav class="chips scroll-x hero-chips" id="preset-chips" aria-label="بحث سريع"></nav>
-    </div>
   </div>
 </section>
 
@@ -228,6 +225,10 @@
     <button class="x" data-close aria-label="إغلاق">&times;</button>
   </div>
   <div class="sheet-body">
+    <section>
+      <h3>بحث سريع</h3>
+      <div class="chips wrap-chips" id="preset-chips" aria-label="بحث سريع"></div>
+    </section>
     <input id="track-search" type="search" placeholder="ابحث عن لغة أو مجال…" autocomplete="off">
     <div id="track-groups"></div>
   </div>

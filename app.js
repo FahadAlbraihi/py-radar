@@ -929,26 +929,14 @@ function setShelf(item, shelf){
 }
 
 function renderTechChips(){
-  const wrap = $('#tech-chips');
-  wrap.textContent = '';
-  for (const t of TECHS){
-    const on = prefs.techs.includes(t.id);
-    const b = el('button', 'chip' + (on ? ' is-on' : ''));
-    b.textContent = t.name;
-    b.onclick = () => {
-      const i = prefs.techs.indexOf(t.id);
-      if (i >= 0){ if (prefs.techs.length > 1) prefs.techs.splice(i, 1); }
-      else prefs.techs.push(t.id);
-      // اختيار المسار يُعيد شريط لغة المحتوى إلى «الكل» حتى لا يتراكم الفلتران
-      prefs.lang = 'all';
-      savePrefs();
-      state.shown = PAGE_SIZE;
-      syncControls();
-      render();
-      refresh(true);
-    };
-    wrap.appendChild(b);
-  }
+  // لم يعد هناك شريط أفقي — الملخّص يظهر على زر «المسارات» فقط
+  const names = prefs.techs
+    .map(id => (techById(id) || {}).name || id)
+    .map(n => n.replace(/^\S+\s/, ''));
+  const summary = names.length <= 2
+    ? names.join(' + ')
+    : `${names[0]} +${names.length - 1}`;
+  $('#tracks-summary').textContent = summary;
   syncBars();
 }
 
@@ -1226,10 +1214,12 @@ function renderPresets(){
     const b = el('button', 'chip');
     b.textContent = p;
     b.onclick = () => {
+      $('#tracks-dlg').close();
       const q = $('#q');
       q.value = p; q.dispatchEvent(new Event('input'));
       clearTimeout(ytTimer);            // لا ننتظر المهلة: الاستعلام جاهز
       runYouTubeSearch();
+      scrollTo({ top: 0, behavior: 'smooth' });
     };
     wrap.appendChild(b);
   }
@@ -1282,7 +1272,7 @@ chipGroup('#sort-chips', 'sort');
 /** شريط واحد فقط يعمل في كل وقت؛ الآخر يخفت ويعود لوضعه الافتراضي. */
 function syncBars(){
   const langActive = prefs.lang !== 'all';
-  $('#tech-chips').classList.toggle('is-dimmed', langActive);
+  $('#btn-tracks').classList.toggle('is-dimmed', langActive);
   $('#lang-chips').classList.toggle('is-dimmed', !langActive);
 }
 
