@@ -397,7 +397,8 @@ function queryWords(q){
     .replace(/[ً-ْ]/g, '')
     .split(/[^\p{L}\p{N}+#]+/u)
     .map(stripPrefix)
-    .filter(w => w.length >= 3);
+    // الرموز جزء من الاسم: «‎c#» و«‎c++» كلمتان معتبرتان رغم قصرهما
+    .filter(w => w.length >= 3 || (w.length >= 2 && /[+#]/.test(w)));
 }
 /** تكفي كلمة واحدة مطابقة: الهدف إسقاط ما لا صلة له إطلاقاً لا تضييق النتائج. */
 function hasWords(text, words){
@@ -580,7 +581,7 @@ async function searchYouTube(query){
   return found.filter(i => hasWords(`${i.title} ${i.summary || ''}`, words));
 }
 
-const YT_MIN_LEN   = 3;      // أقل طول للاستعلام قبل الجلب
+const YT_MIN_LEN   = 2;      // حرفان يكفيان: «‎c#» و«‎go» و«‎R» أسماء لغات فعلية
 const YT_DEBOUNCE  = 800;    // مهلة بعد التوقف عن الكتابة
 const ytCache = new Map();   // استعلام ← نتائجه، فلا يتكرر الجلب
 let ytSeq = 0;               // حارس: نتيجة استعلام قديم تُتجاهل
