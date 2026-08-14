@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
-<title>رادار بايثون</title>
-<meta name="description" content="محتوى برمجة بايثون بالعربي والإنجليزي، محدّث يومياً">
+<title>رادار البرمجة</title>
+<meta name="description" content="محتوى برمجي بالعربي والإنجليزي مصنّف حسب اللغة والمستوى والنوع، محدّث يومياً">
 <meta name="theme-color" content="#0b1020" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#f5f7fb" media="(prefers-color-scheme: light)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="رادار بايثون">
+<meta name="apple-mobile-web-app-title" content="رادار البرمجة">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
 <link rel="icon" href="icons/icon-180.png">
@@ -19,12 +19,26 @@
 
 <header class="topbar">
   <div class="topbar-row">
-    <h1 class="brand">رادار <span>بايثون</span></h1>
-    <button id="btn-refresh" class="icon-btn" aria-label="تحديث">
-      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-        <path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/>
-      </svg>
-    </button>
+    <h1 class="brand">رادار <span>البرمجة</span></h1>
+    <div class="actions">
+      <button id="btn-library" class="icon-btn" aria-label="مكتبتي">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+          <path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/>
+        </svg>
+        <span id="lib-badge" class="badge" hidden></span>
+      </button>
+      <button id="btn-filters" class="icon-btn" aria-label="الفلاتر">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M4 6h16M7 12h10M10 18h4"/>
+        </svg>
+        <span id="filter-badge" class="badge" hidden></span>
+      </button>
+      <button id="btn-refresh" class="icon-btn" aria-label="تحديث">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/>
+        </svg>
+      </button>
+    </div>
   </div>
 
   <div class="search-wrap">
@@ -32,40 +46,125 @@
       <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5" stroke-linecap="round"/>
     </svg>
     <input id="q" type="search" inputmode="search" enterkeyhint="search"
-           placeholder="ابحث… مثال: جانغو، pandas، تعلم بايثون" autocomplete="off">
+           placeholder="ابحث… مثال: OOP، جانغو، async" autocomplete="off">
     <button id="btn-clear" class="clear-btn" hidden aria-label="مسح">&times;</button>
   </div>
 
-  <nav class="chips" id="lang-chips" aria-label="اللغة">
+  <nav class="chips scroll-x" id="tech-chips" aria-label="لغة البرمجة"></nav>
+
+  <nav class="chips" id="lang-chips" aria-label="لغة المحتوى">
     <button class="chip is-on" data-lang="all">الكل</button>
     <button class="chip" data-lang="ar">عربي</button>
     <button class="chip" data-lang="en">إنجليزي</button>
-    <button class="chip" data-lang="saved">★ المحفوظات</button>
+    <button class="chip" data-lang="translated">مترجم / بالعربي</button>
   </nav>
-
-  <nav class="chips scroll-x" id="source-chips" aria-label="المصدر"></nav>
 </header>
 
 <main>
   <div id="status" class="status" role="status"></div>
+  <div id="active-filters" class="active-filters"></div>
   <div id="list" class="list"></div>
   <div id="empty" class="empty" hidden>
     <p>لا توجد نتائج مطابقة.</p>
-    <button class="btn-ghost" id="btn-reset">إظهار كل المصادر</button>
+    <button class="btn-ghost" id="btn-reset">إعادة تعيين الفلاتر</button>
   </div>
   <button id="btn-more" class="btn-more" hidden>عرض المزيد</button>
 </main>
 
 <footer class="foot">
   <span id="meta"></span>
-  <button id="btn-install" class="btn-ghost" hidden>كيف أضيفه للشاشة الرئيسية؟</button>
+  <button id="btn-install" class="btn-ghost" hidden>إضافة للشاشة الرئيسية</button>
 </footer>
+
+
+<!-- ============ لوحة الفلاتر ============ -->
+<dialog id="filters-dlg" class="sheet">
+  <div class="sheet-head">
+    <h2>الفلاتر والترتيب</h2>
+    <button class="x" data-close aria-label="إغلاق">&times;</button>
+  </div>
+  <div class="sheet-body">
+
+    <section>
+      <h3>المستوى</h3>
+      <div class="chips wrap" id="level-chips">
+        <button class="chip is-on" data-level="all">الكل</button>
+        <button class="chip" data-level="beginner">مبتدئ</button>
+        <button class="chip" data-level="intermediate">متوسط</button>
+        <button class="chip" data-level="advanced">متقدم</button>
+      </div>
+    </section>
+
+    <section>
+      <h3>نوع المحتوى</h3>
+      <div class="chips wrap" id="kind-chips">
+        <button class="chip is-on" data-kind="all">الكل</button>
+        <button class="chip" data-kind="course">دورة كاملة</button>
+        <button class="chip" data-kind="tutorial">شرح نظري</button>
+        <button class="chip" data-kind="project">مشروع عملي</button>
+        <button class="chip" data-kind="challenge">تحدي برمجي</button>
+        <button class="chip" data-kind="interview">مقابلة عمل</button>
+        <button class="chip" data-kind="news">أداة / خبر</button>
+      </div>
+    </section>
+
+    <section>
+      <h3>الترتيب</h3>
+      <div class="chips wrap" id="sort-chips">
+        <button class="chip is-on" data-sort="date">الأحدث</button>
+        <button class="chip" data-sort="points">الأكثر تفاعلاً</button>
+        <button class="chip" data-sort="views">الأكثر مشاهدة</button>
+        <button class="chip" data-sort="rating">الأعلى تقييماً</button>
+      </div>
+      <p class="note">المشاهدات والتقييم متوفّران لفيديوهات يوتيوب فقط؛ ما لا يحمل الرقم ينزل لآخر القائمة.</p>
+    </section>
+
+    <section>
+      <h3>مسار التعلّم</h3>
+      <p class="note" style="margin-top:0">اختر مرحلتك الحالية فيُقدَّم المحتوى المناسب لها أولاً.</p>
+      <select id="stage-select"></select>
+      <label class="switch">
+        <input type="checkbox" id="stage-only">
+        <span>اعرض محتوى هذه المرحلة فقط</span>
+      </label>
+    </section>
+
+    <section>
+      <h3>المصدر</h3>
+      <div class="chips wrap" id="source-chips"></div>
+    </section>
+
+  </div>
+  <div class="sheet-foot">
+    <button class="btn-ghost" id="btn-reset2">إعادة تعيين</button>
+    <button class="btn" data-close>عرض النتائج</button>
+  </div>
+</dialog>
+
+
+<!-- ============ مكتبتي ============ -->
+<dialog id="library-dlg" class="sheet">
+  <div class="sheet-head">
+    <h2>مكتبتي</h2>
+    <button class="x" data-close aria-label="إغلاق">&times;</button>
+  </div>
+  <div class="sheet-body">
+    <div id="progress-box" class="progress-box"></div>
+    <div class="chips wrap" id="shelf-chips">
+      <button class="chip is-on" data-shelf="saved">★ محفوظ</button>
+      <button class="chip" data-shelf="later">⏱ أشاهده لاحقاً</button>
+      <button class="chip" data-shelf="done">✓ أنهيته</button>
+    </div>
+    <div id="shelf-list" class="list" style="padding:12px 0"></div>
+  </div>
+</dialog>
+
 
 <dialog id="install-dlg">
   <h2>إضافة التطبيق للآيفون</h2>
   <ol>
     <li>افتح الصفحة في متصفح <b>Safari</b>.</li>
-    <li>اضغط زر المشاركة <b>􀈂</b> في الأسفل.</li>
+    <li>اضغط زر المشاركة في الأسفل.</li>
     <li>اختر <b>إضافة إلى الشاشة الرئيسية</b>.</li>
   </ol>
   <p class="hint">بعدها يفتح بملء الشاشة كأي تطبيق، ويحدّث المحتوى تلقائياً كل يوم.</p>

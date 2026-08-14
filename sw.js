@@ -1,7 +1,7 @@
 /* يخزّن ملفات الواجهة ليعمل التطبيق بدون إنترنت.
    بيانات المحتوى تُخزَّن في localStorage وليس هنا. */
 
-const CACHE = 'pyradar-shell-v3';
+const CACHE = 'radar-shell-v4';
 const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest'];
 
 self.addEventListener('install', e => {
