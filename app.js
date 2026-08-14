@@ -751,8 +751,9 @@ function renderLibrary(){
   const wrap = $('#shelf-list');
   wrap.textContent = '';
   if (!entries.length){
+    const hint = { saved:'★ محفوظ', later:'⏱ أشاهده لاحقاً', done:'✓ أنهيته' }[state.shelf];
     const p = el('p', 'note');
-    p.textContent = 'لا يوجد شيء هنا بعد.';
+    p.textContent = `لا يوجد شيء في «${hint}» بعد — اضغط الرمز نفسه على أي بطاقة في القائمة لإضافتها هنا.`;
     wrap.appendChild(p);
   }
   for (const e of entries) wrap.appendChild(card(e.item));

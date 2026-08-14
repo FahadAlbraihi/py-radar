@@ -18,6 +18,9 @@
   }
 }
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+/* أي قاعدة display في الملف تتغلّب على إخفاء المتصفح للعناصر ذات hidden،
+   فتظهر الشارات بصفر وزر البحث والمزيد بلا داعٍ. هذه القاعدة تحسم الأمر. */
+[hidden]{display:none !important}
 html,body{margin:0;padding:0}
 body{
   background:var(--bg); color:var(--ink);
