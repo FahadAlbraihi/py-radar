@@ -1,38 +1,8 @@
 {
- "generated": "2026-08-14T19:24:58.779882+00:00",
+ "generated": "2026-08-14T19:22:07.806646+00:00",
  "tech": "cyber",
  "count": 220,
  "items": [
-  {
-   "title": "Security Engineering Assessment of a Contemporary Banking System",
-   "url": "https://medium.com/@adejaremarvel/security-engineering-assessment-of-a-contemporary-banking-system-7f909d7e88a6?source=rss------cybersecurity-5",
-   "date": "2026-08-14T19:21:15+00:00",
-   "summary": "Applying Security Engineering Principles to Core Banking(part 1) Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Operation Greyframe: A Digital Forensics CTF by AstralGuard Cyber Academy",
-   "url": "https://medium.com/@cyberb354/operation-greyframe-a-digital-forensics-ctf-by-astralguard-cyber-academy-6658d249c8e7?source=rss------cybersecurity-5",
-   "date": "2026-08-14T19:13:43+00:00",
-   "summary": "A file was flagged during a routine sweep. Nothing about it looks wrong. That&#x2019;s the problem. Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Following the Breadcrumbs: A Full Walkthrough of TryHackMe’s Easy Peasy",
-   "url": "https://medium.com/@correctshivansh/following-the-breadcrumbs-a-full-walkthrough-of-tryhackmes-easy-peasy-1fbfe9bc9bcc?source=rss------cybersecurity-5",
-   "date": "2026-08-14T19:10:23+00:00",
-   "summary": "Some boxes throw everything at you at once. This one didn&#x2019;t. It gave me three open ports, a page that looked empty, and let me figure out&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
   {
    "title": "AI Security Homelab Part 3: Attacking the RAG Chatbot (OWASP LLM Top 10)",
    "url": "https://sthenos.medium.com/ai-security-homelab-part-3-attacking-the-rag-chatbot-owasp-llm-top-10-d9cd8e0c5667?source=rss------cybersecurity-5",
@@ -707,11 +677,22 @@
    "title": "بعد حادثة أنثروبيك وأوبن إيه آي.. نموذج «ميتا» ينفذ اختراقًا خارجيًا خلال اختبار أمني",
    "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxORm1nbUwwYUtkNHBtUTlaLXlUQkZ5YlRLVVBjandBakxtazc4Yjc0YUl5UE9oUHhvWnd6dm5CcEVKYVFEWHNVeG5NZHkxQWotSElLeVdWd3dLTnAzcVUyUEo2QTBpSkJXMDR0eUwtX1Jfbk1aRjdwSk1SRHE2d2wzOTBuTjBPYUVtZlo3b3N4VXdTOTNpLS1ySC1ua05qLW5ya0NTWFJqYkZJb21Wb3Q0Zl9ucUpNMEE5ekhIQ1N6S21uUlJRVkhuS2xWSlVNajJHblIwODVWczZBNU9ySEU3ZWNRLU10UTJtTTVSdUk3QW5DSjJqejh1WWJ5NTAxMjFGWVVLSnBoeWlTQy1MZzJtUWJNQk04Y1lSRFROSUFJQ0ZYSDNCRUMxVHBuZmZYRzdXeG0yRVdjTU9KYndM?oc=5",
    "date": "2026-08-06T09:09:12+00:00",
-   "summary": "بعد حادثة أنثروبيك وأوبن إيه آي.. نموذج «ميتا» ينفذ اختراقًا خارجيًا خلال اختبار أمني followict.news",
+   "summary": "بعد حادثة أنثروبيك وأوبن إيه آي.. نموذج «ميتا» ينفذ اختراقًا خارجيًا خلال اختبار أمني followict",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "followict.news",
+   "source": "followict",
    "lang": "ar"
+  },
+  {
+   "title": "LOW - Trailer",
+   "url": "https://thisislow.com/",
+   "date": "2026-08-06T07:00:00+00:00",
+   "summary": "After 8 years, LOW is finally here. A story about the weight of being and the wreckage of waking up. Five episodes. Five descents. LOW is an audio journey into the unlit corners of human experience. Choices we made in the dark, the silences",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
   },
   {
    "title": "Dell BIOS password generator not working",
@@ -923,6 +904,17 @@
    "lang": "en"
   },
   {
+   "title": "177: National Public Data",
+   "url": "https://darknetdiaries.com/episode/177/",
+   "date": "2026-07-21T07:00:00+00:00",
+   "summary": "This is the story of the hacker known as \"USDoD\". When he was young he had a vengeance on the US, and this lead him down a road of continual data breaches, until he hacked into National Public Data, which is when his spree went one step too",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
    "title": "Microsoft Patch Tuesday 622 CVEs: Zero-Day Triage & Exploitation Readiness",
    "url": "https://dev.to/satyam_rastogi/microsoft-patch-tuesday-622-cves-zero-day-triage-exploitation-readiness-3ehh",
    "date": "2026-07-15T14:19:46+00:00",
@@ -948,10 +940,10 @@
    "title": "ليبيا في اختبار سيبراني قاس بعد \"اختراق\" المصرف المركزي",
    "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQRnI0NVlWVktxdkU1bzNRZFBsRDhiY2xDUDFyUFpkUGgtOEwxeHBSdjREbHd1VkZTRHI4QkxwSVBzbThaWnZfdEdCeWRwT3lfYTFrY3V6TlhMd3pSTWEyOW52ZnFwTnVwS25DVGFiY0Y5SG1IWHRLNmIzR2MxaFA3VU8tekVQbWNBejZBQ1ptX0VMS1JYaEpfYmljN1pqenhuelF5WXhKRWVyQ09rYmpMaTAyWFVMajNXX3FydUFNU3NlOEp5OHBrWi1odThDVjk2Y2VVNk1JcWJhM05vOVVvek5wXzZpVzRjTnA4SENhX2pWeXV5SURoOGplM1hLTG93REVabUlrS3hiUWotdlhpdVR4VUpnSWwzd3ZvUGlua3RNWEhDbzFkYWxCUlhKTWVXR19SdlAyU1RSTnEyd0RJczNDcWNGRm5JVFZWaGhLblpoejN2WGI3d0RfRUZMblROc2x5ZkhJWHBIZ3V0d3BsUmt3MWh4S1VEOFl4QS1ITTJ3akpWdGoza1dpZTB5elZTc1BLb01xV0lvMVBHb3Y2b2YyS2F2UlVnbEMtRzdTeDJMcHI3NmRLWlNZRjcxOFJ1em1fYmI4ZF9jSDZTVjJuZ1h3MXJXcGxIem1HUE5NWGVFcU9YX3Znc0YtSjVOaDdFU3pobTM4NEVIbU9OeDlkTlpjaUdLQ2ZQOWJ3MmVDSFBveTA0UHBmVjFBWWVoYTh0eDRDZ05jYw?oc=5",
    "date": "2026-06-30T07:00:00+00:00",
-   "summary": "ليبيا في اختبار سيبراني قاس بعد \"اختراق\" المصرف المركزي اندبندنت عربية",
+   "summary": "ليبيا في اختبار سيبراني قاس بعد \"اختراق\" المصرف المركزي independentarabia.com",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "اندبندنت عربية",
+   "source": "independentarabia.com",
    "lang": "ar"
   },
   {
@@ -999,10 +991,10 @@
    "title": "كلية تكنولوجيا المعلومات في \"عمان العربية\" تستضيف أحد خريجيها في محاضرة حول \"مفاهيم وتطبيقات عملية في اختبار الاختراق\"",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93N3UtRjlYS1RucWo5SlNwNTc1WWVaSmNVdzA2dTY3T1NfSE1KVmxGXy0yVlRBYTFBWmNXN2RuaGhzM2h2VV9nS01Vdm16S0d2YVE?oc=5",
    "date": "2026-05-05T10:16:11+00:00",
-   "summary": "كلية تكنولوجيا المعلومات في \"عمان العربية\" تستضيف أحد خريجيها في محاضرة حول \"مفاهيم وتطبيقات عملية في اختبار الاختراق\" ammonnews.net",
+   "summary": "كلية تكنولوجيا المعلومات في \"عمان العربية\" تستضيف أحد خريجيها في محاضرة حول \"مفاهيم وتطبيقات عملية في اختبار الاختراق\" وكالة عمون الاخبارية",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "ammonnews.net",
+   "source": "وكالة عمون الاخبارية",
    "lang": "ar"
   },
   {
@@ -1016,6 +1008,17 @@
    "lang": "ar"
   },
   {
+   "title": "174: Pacific Rim",
+   "url": "https://darknetdiaries.com/episode/174/",
+   "date": "2026-05-05T07:00:00+00:00",
+   "summary": "For six years, Sophos fought a secret cyber war against a state-backed hacking group targeting its firewalls. This forced Sophos to drastically change tactics to properly secure their firewalls. Was it ethical? Was it effective? They disrup",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
    "title": "PSA",
    "url": "https://www.reddit.com/r/HowToHack/comments/1t3a708/psa/",
    "date": "2026-05-04T07:01:21+00:00",
@@ -1026,6 +1029,17 @@
    "lang": "en"
   },
   {
+   "title": "173: Tarjeteros",
+   "url": "https://darknetdiaries.com/episode/173/",
+   "date": "2026-04-21T07:00:00+00:00",
+   "summary": "In the streets of the Dominican Republic, a new economy thrives in the shadows. It’s built not on tourism or sugar, but on stolen data. They call them tarjeteros. And they are making a lot of money from stolen credit cards. This is a story ",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
    "title": "تزايد الهجمات السيبرانية يشد الانتباه إلى توظيفات \"مديرية أمن المعلومات\"",
    "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPSXFVYnRpUVVxRUlQQXNPNlVqT3dJcDZFUzlxWmNycXZ6VlVQaDQtNGJyQURORktwekRXd3Q0U0RqbTlJVWc3WjBLMmExWS1meUdHUmZFaFZycmN0VjZoanZNVmJzand3VFN6T2YwN0F3WGYyNFhnaTBMSk5ibVpaQnFRVEVBVTI1MVZRbVlSbWlTSG9MVnhOSHNDUVVNUTdoQzVNUW16ZFhfelM4bXdINENjTUw4ZnpyTDhsSm9zT2JpZmNSNlVGSEFPbHJlTjFMTXVwWUhYVUJlN0NRVHFKZzNTa2VXaUtGZUFHQjNzRlZvZ3plVm44QVNXMWVjclM2WGY2Q3p5Tkc2cFVoT1hwUW9CS0tidUxBelJPT1N3SllZdVpkYzB5TUZWQUphQW80a0JKWEwwOEZGZGJnc2dnNnJXOWtJM1R4N21ydGNLemxaS004?oc=5",
    "date": "2026-04-16T07:00:00+00:00",
@@ -1034,6 +1048,17 @@
    "sourceId": "ar-news",
    "source": "Hespress",
    "lang": "ar"
+  },
+  {
+   "title": "172: SuperBox",
+   "url": "https://darknetdiaries.com/episode/172/",
+   "date": "2026-04-07T07:00:00+00:00",
+   "summary": "What if there was a device which gave you endless movies and TV shows without ads? Ok great sign me up! In this episode we interview “D3ada55”, who found such a device, but as she gazed into it, she discovered it gazing back at her. Sponsor",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
   },
   {
    "title": "اختبار اختراق الشبكات اللاسلكية | Wireless Network Penetration Testing",
@@ -1066,6 +1091,17 @@
    "lang": "en"
   },
   {
+   "title": "171: Melody Fraud",
+   "url": "https://darknetdiaries.com/episode/171/",
+   "date": "2026-03-03T08:00:00+00:00",
+   "summary": "What if the music charts you see aren’t real? What if the numbers that define success can be manufactured? We talked to Andrew, a man who has spent his career on both sides of this battle. He once profited from the loopholes in streaming pl",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
    "title": "Cybersecurity Full Course 2026 | Cyber Security Training For Beginners | Cybersecurity | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DQi1CY3Q0YlZsakl3am5sNkRYTGRUaEZLUm9BTHBwQnB6bFFSZjNHRjg3VzJ5S0ZiLVBnWk1PdVlENGIwcnBGMXB1aEllbFEwME1wQTFR?oc=5",
    "date": "2026-02-06T14:30:56+00:00",
@@ -1074,6 +1110,17 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "170: Phrack",
+   "url": "https://darknetdiaries.com/episode/170/",
+   "date": "2026-02-03T08:00:00+00:00",
+   "summary": "Phrack is legendary. It is the oldest, and arguably the most prestigious, underground hacking magazine in the world. It started in 1985 and is still running today. In this episode we interview the Phrack staff to hear some stories about wha",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
   },
   {
    "title": "تعلم الهكر والاختراق الاخلاقي | بايثون",
@@ -1106,6 +1153,39 @@
    "lang": "ar"
   },
   {
+   "title": "169: MoD",
+   "url": "https://darknetdiaries.com/episode/169/",
+   "date": "2026-01-20T08:00:00+00:00",
+   "summary": "Legion of Doom, step aside. There’s a new elite hacker group in town, and they’re calling themselves Masters of Deception (MoD). With tactics that are grittier and more sophisticated than those of the LoD, MoD has targeted high-profile enti",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
+   "title": "168: LoD",
+   "url": "https://darknetdiaries.com/episode/168/",
+   "date": "2026-01-06T08:00:00+00:00",
+   "summary": "The Legion of Doom (LoD) wasn’t just a “hacker group”, it captured the essence of underground hacking in the 80s/90s. BBSes, phreaking, rival crews, and the crackdowns that changed everything. From those humble beginnings came a legacy that",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
+   "title": "167: Threatlocker",
+   "url": "https://darknetdiaries.com/episode/167/",
+   "date": "2025-12-23T08:00:00+00:00",
+   "summary": "A manufacturer gets hit with ransomware. A hospital too. Learn how Threatlocker stops these types of attacks. This episode is brought to you by Threatlocker. Sponsors This episode is sponsored by ThreatLocker® . ThreatLocker® is a Zero Trus",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
    "title": "قيادات شركة أنابيب البترول يجتازون دبلومة الأمن السيبراني واختبار الاختراق المعتمدة من جامعة الأزهر",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5RWJrNjFqUHFYVkpJV2lZOHNZVEhIbkxwcDNqam5NbVJCUndzNndhTE4tT3VRc1FybjdlTU5PdXVJU1N2Vk0xUEowV2JISFk?oc=5",
    "date": "2025-12-14T08:00:00+00:00",
@@ -1119,11 +1199,22 @@
    "title": "الحبس والغرامة عقوبة اختراق المواقع والحسابات الإلكترونية دون إذن",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aeGQ0Wjd0SUgzNjhoVDNkR1ZtTlpTaUkxN2o0RHZWVDVaOFZwUjRxVVl2OFQwc2hhX0NfWUFkMkZweFN1aGV3?oc=5",
    "date": "2025-12-12T08:00:00+00:00",
-   "summary": "الحبس والغرامة عقوبة اختراق المواقع والحسابات الإلكترونية دون إذن صدى البلد",
+   "summary": "الحبس والغرامة عقوبة اختراق المواقع والحسابات الإلكترونية دون إذن elbalad.news",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "صدى البلد",
+   "source": "elbalad.news",
    "lang": "ar"
+  },
+  {
+   "title": "166: Maxie",
+   "url": "https://darknetdiaries.com/episode/166/",
+   "date": "2025-12-02T08:00:00+00:00",
+   "summary": "Maxie Reynolds loves an adventure, especially the kind where she’s breaking into buildings (legally). In this episode, she shares stories from her time as a professional penetration tester, including high-stakes physical intrusions, red tea",
+   "tech": "cyber",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
   },
   {
    "title": "تعلم فحص الانظمة والشبكات | اداة Nmap | الامن السيبراني",
@@ -1201,6 +1292,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZamxTUVcyTXM1Y0xhS3BkcnhYcTVwcG84ZG1PZzhJcVFwVlRiUDFOblg2eEgtOTJSdEg4X2NWQjY3Y2FTQXEwZGQ0TkJ3RmVuUzBNVVFB?oc=5",
    "date": "2025-09-09T15:58:03+00:00",
    "summary": "تعلم اختبار الاختراق على الشبكات | شرح Nmap و Reconnaissance للمبتدئين YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "2-3_الشبكات مفتاح الاختراق وكشف الثغرات ومن غيرها مفيش هاكر_networking concepts for cyber security",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ydWNqWXdrNF9OdnhGT3hqbzNiT2NYbVNzalRzVjZQSGw3eVgwb0FzRXcyUkdoTWx6M2dFYUFLQzVRRnYyeWxpeTdBcG1LX1NLaGFFSml3?oc=5",
+   "date": "2025-08-31T19:50:23+00:00",
+   "summary": "2-3_الشبكات مفتاح الاختراق وكشف الثغرات ومن غيرها مفيش هاكر_networking concepts for cyber security YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1340,22 +1441,11 @@
    "title": "وزارة الاتصالات تُحذر من محاولات اختراق حسابات واتساب في سوريا",
    "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5JS2xrTXZRN3pubnBTcUtGbXhNUi15eHFqMmVRcUpEb2VnNjMyOUpfN3JsbWNSNHNpa1lNQw?oc=5",
    "date": "2025-05-17T07:00:00+00:00",
-   "summary": "وزارة الاتصالات تُحذر من محاولات اختراق حسابات واتساب في سوريا شبكة شام الإخبارية",
+   "summary": "وزارة الاتصالات تُحذر من محاولات اختراق حسابات واتساب في سوريا shaam.org",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "شبكة شام الإخبارية",
+   "source": "shaam.org",
    "lang": "ar"
-  },
-  {
-   "title": "158: MalwareTech",
-   "url": "https://darknetdiaries.com/episode/158/",
-   "date": "2025-05-06T07:00:00+00:00",
-   "summary": "MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected. ht",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
   },
   {
    "title": "اقوى دورة عربية لتعلم اختبار الاختراق 👌💪",
@@ -1391,10 +1481,10 @@
    "title": "تتبع اختراق “CNSS” يقود لمهندس أمن معلومات في ألمانيا",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZVFFtVG1DbUpkZG5CMXhmVHhlc0U2aGJxUFJNWDEweWNvV2pNRWdrNjM0MDJUeW1kSE9VeDNmbDV1QnEydUxEYXVSZ09vdw?oc=5",
    "date": "2025-04-10T07:00:00+00:00",
-   "summary": "تتبع اختراق “CNSS” يقود لمهندس أمن معلومات في ألمانيا achkayen.com",
+   "summary": "تتبع اختراق “CNSS” يقود لمهندس أمن معلومات في ألمانيا Achkayen",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "achkayen.com",
+   "source": "Achkayen",
    "lang": "ar"
   },
   {
@@ -1411,10 +1501,10 @@
    "title": "أفضل منهجيات اختبار الاختراق",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iNTBWQ0hETnl3cTVwekdKM2psaTEyUkFBOE5jREY3cWNIbmNTa1hUQzE5VUpSaU44S2ZsS0ZHMHZVV1p3MW9KZHB5QVpCODljcnVCWVFvU3VicU9jUkZkdGJWamdiZnBocU1JQ1lHNUFfQQ?oc=5",
    "date": "2025-03-28T17:38:19+00:00",
-   "summary": "أفضل منهجيات اختبار الاختراق IBM",
+   "summary": "أفضل منهجيات اختبار الاختراق ibm.com",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "IBM",
+   "source": "ibm.com",
    "lang": "ar"
   },
   {
@@ -1558,17 +1648,6 @@
    "lang": "ar"
   },
   {
-   "title": "151: Chris Rock",
-   "url": "https://darknetdiaries.com/episode/151/",
-   "date": "2024-11-05T08:00:00+00:00",
-   "summary": "Chris Rock is known for being a security researcher. But he’s also a black hat incident responder. He tells us about a job he did in the middle east. https://x.com/chrisrockhacker Sponsors Support for this show comes from Varonis. Do you wo",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
    "title": "شرح أوامر كالي لينكس بالعربية للمبتدئين من الصفر | كورس تعلم الامن السيبراني",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZG1HOGJWSWYzeUdIS0RLQUVWb3hOazREbGpFZWNmODNwOFF0ellaSlI1ZHJaQlZRLU9ndnNmYXBKYUQ3c3V0bjdhU1JCalQ0U1ZpTEd3?oc=5",
    "date": "2024-11-03T20:06:06+00:00",
@@ -1587,17 +1666,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "150: mobman 2",
-   "url": "https://darknetdiaries.com/episode/150/",
-   "date": "2024-10-01T07:00:00+00:00",
-   "summary": "In Episode 20 of Darknet Diaries, we heard from Greg aka “mobman” who said he created the sub7 malware. Something didn’t sit right with a lot of people about that episode. It’s time to revisit that episode and get to the bottom of things. S",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
   },
   {
    "title": "Cybersecurity Full Course 2026 | Web Application Security Tutorial For Beginners | Simplilearn",
@@ -1820,17 +1888,6 @@
    "lang": "ar"
   },
   {
-   "title": "137: Predator",
-   "url": "https://darknetdiaries.com/episode/137",
-   "date": "2023-09-05T07:00:00+00:00",
-   "summary": "A new type of mercenary spyware came on the radar called Predator. It’ll infect a mobile phone, and then suck up all the data from it. Contacts, text messages, location, and more. This malware is being sold to intelligence agencies around t",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
    "title": "Types Of Cybercrime In Cyber Security | Cybercrimes & Its Types | Cybersecurity Tutorial|Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QMkJ3M3FvdEw3WVpWa25qak1YektybXQ2R0Y4R05UZkJCd1A3ZnVjRTBWQUQ0LW4wbWhNREw0WEdnMG5QaWJkYVZobDBVNjJDbHF5OTZn?oc=5",
    "date": "2023-08-29T14:30:01+00:00",
@@ -1899,17 +1956,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "135: The D.R. Incident",
-   "url": "https://darknetdiaries.com/episode/135",
-   "date": "2023-07-04T07:00:00+00:00",
-   "summary": "Omar Avilez worked in the CSIRT of the Dominican Republic when a major cyber security incident erupted. Omar walks us through what happened and the incident response procedures that he went through. Breakmaster Cylinder’s new album: https:/",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
   },
   {
    "title": "Metasploit Course - دورة اختبار اختراق مع الميتاسبلويت",
@@ -1995,10 +2041,10 @@
    "title": "طلبة «العلوم والتكنولوجيا» يحصلون على اعتماد الاختراق الأخلاقي",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjOXRjdzhrUXhlNEdnamc1cFN3RnRFSmxMRkZDTDlrVFNJbWJITUNjQWFzLXFOZWpTSUdOVzFyMjItV0R5bTdBQnlpeHpYX0HSAVRBVV95cUxQRGpUS1Rud3luTEdCb2g4eDZmNFJPb24zZkoxUE1YZjNXTTE0b2Zjb1NfcXlVeXM5VlczMkJIMm0tLWJCbzFsbHFYRV9zMDVmTzhvaGI?oc=5",
    "date": "2023-01-15T08:00:00+00:00",
-   "summary": "طلبة «العلوم والتكنولوجيا» يحصلون على اعتماد الاختراق الأخلاقي aljarida.com",
+   "summary": "طلبة «العلوم والتكنولوجيا» يحصلون على اعتماد الاختراق الأخلاقي جريدة الجريدة الكويتية",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "aljarida.com",
+   "source": "جريدة الجريدة الكويتية",
    "lang": "ar"
   },
   {
@@ -2020,17 +2066,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "127: Maddie",
-   "url": "https://darknetdiaries.com/episode/127",
-   "date": "2022-11-01T07:00:00+00:00",
-   "summary": "Maddie Stone is a security researcher for Google’s Project Zero. In this episode we hear what it’s like battling zero day vulnerabilities. Sponsors Support for this show comes from Zscalar. Zscalar zero trust exchange will scrutinize the tr",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
   },
   {
    "title": "نسخ رات مدفوعه ومجانيه جاهزه لمحبي تعلم الـ Penetration Test & Cyber Security 🧑‍💻🔥",
@@ -2093,17 +2128,6 @@
    "lang": "ar"
   },
   {
-   "title": "117: Daniel the Paladin",
-   "url": "https://darknetdiaries.com/episode/117",
-   "date": "2022-05-17T07:00:00+00:00",
-   "summary": "Daniel Kelley (https://twitter.com/danielmakelley) was equal parts mischievousness and clever when it came to computers. Until the day his mischief overtook his cleverness. Sponsors Support for this show comes from Keeper Security. Keeper S",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
    "title": "شهادة eJPT دورة PTS اختبار الاختراق للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QQ2RFVG5MT0hxdTVZb2JnLS1kbXItal9mQS1kWFp5RWxZNmtPT1lQRTY0eHNKYjRkMFFSMlV5M3lkUnZhNTJubnNrY2lQbFFtdlZ2MERR?oc=5",
    "date": "2022-04-17T19:10:58+00:00",
@@ -2114,17 +2138,6 @@
    "lang": "ar"
   },
   {
-   "title": "114: HD",
-   "url": "https://darknetdiaries.com/episode/114",
-   "date": "2022-04-05T07:00:00+00:00",
-   "summary": "HD Moore (https://twitter.com/hdmoore) invented a hacking tool called Metasploit. He crammed it with tons of exploits and payloads that can be used to hack into computers. What could possibly go wrong? Learn more about what HD does today by",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
    "title": "مواقع تعلم الاختراق و ال Bug Bounty",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbHJ4d2EzM2ZpRVZLZ29JcVVzSUVrcllPUzBhVk5FZzFrQ0JvYlYtYmY2eVo0Z2E1N0NJcHU3S29ScmMtUDRZWmp6RndLcjY2ZlZXdkx3?oc=5",
    "date": "2022-01-01T17:00:24+00:00",
@@ -2133,17 +2146,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "103: Cloud Hopper",
-   "url": "https://darknetdiaries.com/episode/103",
-   "date": "2021-10-26T07:00:00+00:00",
-   "summary": "Fabio Viggiani is an incident responder. In this episode he talks about the story when one of his clients were breached. Sponsors Support for this show, and for stretched security teams, comes from SOC.OS. Too many security alerts means ale",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
   },
   {
    "title": "الإنتاج الحربى: تشفير كل بيانات المواطنين ومنع اختراقها",
@@ -2176,17 +2178,6 @@
    "lang": "ar"
   },
   {
-   "title": "98: Zero Day Brokers",
-   "url": "https://darknetdiaries.com/episode/98",
-   "date": "2021-08-03T07:00:00+00:00",
-   "summary": "Zero day brokers are people who make or sell malware that’s sold to people who will use that malware to exploit people. It’s a strange and mysterious world that not many people know a lot about. Nicole Perlroth , who is a cybersecurity repo",
-   "tech": "cyber",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
    "title": "كيف أتجنب اختراق حسابي في “الواتس آب” ؟",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeEZqeVNla0k0dGlyVjNKUTYtMTNEUUJYZUt3NUJnYkFJWmxZZDlfV1VPallXUGRJTVFtZU9fSVVLRjJtdmVveFlGalM4UQ?oc=5",
    "date": "2021-07-17T07:00:00+00:00",
@@ -2207,6 +2198,16 @@
    "lang": "ar"
   },
   {
+   "title": "Full Tutorial on HackTheBox Setup (Cybersecurity Like a Pro)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pNHNnRHVmMloyS0V4OHl4UDlMR01xWHBiX3Z5aFJ3aEFyN3U2ajZ4MGxOaWVDLWJfeDVqQUUzNDRLdC1kWjk5cUh4b0RoUW5IaXZONlR3?oc=5",
+   "date": "2021-03-22T16:00:12+00:00",
+   "summary": "Full Tutorial on HackTheBox Setup (Cybersecurity Like a Pro) YouTube",
+   "tech": "cyber",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "\"أرامكو\" تحصّن شبكاتها ضد الاختراقات السيبرانية بتقنية سعودية",
    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPOTJ0LWY2ZU4zZmJmQnFFV2NKdnNKcnZXbno3NnF3TGpXZGV0c2FvVERTOVRiMmEwUG8zcDBrYkI2eVV0LUVvZ0d6SFZSNmNTVmVxVXZ1YnBMYVBjNWZsNmQwVjFPWnRuNHJWelFMRUs5dnpHRVQ0X0w5SFNWc3hlcFd0ZzF3U0ktX3RrY3ZLRGl4ZF8wMDZsbkdTTHhyLVlFVnd4ZXZKNEsxNnlCbjZWTkxhaVhOMjJ4ZFgtcktGZl80eUR4UjdRbGJSSkIxR2c0ZlotOFlCU0VORS1NNi1LQkNOU1JCVFNJNDRSVkw4REw5MG5hb0RIY2t0bWZlYWluR0F2emVXZElNaFlSWFpFX3pYTlRoSHVlUEJnM1NRMDFBNFBFSTNnODNvc2dLdDFsdkR1OC11MGtZTE5TNEtoQ0h3?oc=5",
    "date": "2021-02-15T08:00:00+00:00",
@@ -2215,6 +2216,16 @@
    "sourceId": "ar-news",
    "source": "الشرق للأخبار",
    "lang": "ar"
+  },
+  {
+   "title": "Basics of SQL Injection - Penetration Testing for Ethical Hackers",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RMzdRNDV5ZUtiZ0NFcmpXYlNNZ1ZIVkQzVGh0aF9ocXBOVGs3TWpzbjJ3WUgzNW9zUmtuc1FFTmtteFVYUzdER29jWnNLdlF4ckVaMnFB?oc=5",
+   "date": "2021-01-19T17:36:28+00:00",
+   "summary": "Basics of SQL Injection - Penetration Testing for Ethical Hackers YouTube",
+   "tech": "cyber",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "التقنية والاتصالات: التصدي لأكثر من 14 مليار محاولة اختراق للفضاء السيبراني العُماني",
@@ -2240,10 +2251,10 @@
    "title": "المالود: وعي الموظفين من شأنه إفشال 90% من محاولات الاختراق الإلكترونية",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXRmFENmo1OHY2QWhfM3FSSlBGU0NrZzFBNWtVVkVZUUNaa2RiLXI1aG9kNFNTRTB3V3VuNGlEekJ4MEJDM0VpenhnNDNNTlJGZTVqVmdtX3plaU96WHIzUnp30gFoQVVfeXFMTlZQTVlVOUlXaFUxdW13VXRRbjhBczlkQjJ0UGYxbTZjZGhNS3FsWU9RSzk1LTQ0QkllazJyWnFTeHpXbklQU0dOUXpvUGhyNmhMVlltVGRPcmprRjFNaHNoTXRIVUtkcEg?oc=5",
    "date": "2019-01-15T08:00:00+00:00",
-   "summary": "المالود: وعي الموظفين من شأنه إفشال 90% من محاولات الاختراق الإلكترونية alayam.com",
+   "summary": "المالود: وعي الموظفين من شأنه إفشال 90% من محاولات الاختراق الإلكترونية الأيام البحرينية",
    "tech": "cyber",
    "sourceId": "ar-news",
-   "source": "alayam.com",
+   "source": "الأيام البحرينية",
    "lang": "ar"
   },
   {
@@ -2254,16 +2265,6 @@
    "tech": "cyber",
    "sourceId": "ar-news",
    "source": "المصري اليوم",
-   "lang": "ar"
-  },
-  {
-   "title": "خبراء يشرحون مميزات قانون الجريمة الإلكترونية.. يحد من اختراق البيانات.. يعترف بالأدلة الرقمية لأول مرة.. مسئول بغرفة CIT: يحفز على الاستثمار.. وخبير أمن معلومات: يتضمن تعريفا واضحا لمفاهيم جرائم المعلومات",
-   "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOWTltQW5IZmlRQTlLMVZNVm1GU0c3UEE0bi04UlI0dW92NkJhOG5XejRmdmVqUGlRVWxTSlVINGc0Ry1MRDBMVWtRTTU2QjFTdFZjcm1kQ2lubjd6VjNPR2k0MmNXc3RhTzZRd2ZENUJ4Y1JQbmJGOWVyS3dGTy00YmlUTnpTOUhjdzR6R2lWMGJXMi1UNVcxSHBqeVVzTXZ1ZEVCcDVhODc4dVhSV1A3ek40ajFTQnQ4OXhMRTNzZFBPb2NjVkxOOWVCb25ueXNfTTdxR0RHcVdNajE1Q1pZTEJQaXI3OF9RbU5vbE5HYVZPZjBQVUpudnFhQ09WOHBzUnI4clBUQkhVLUlSMzBFc1VmZ3EzMEpMT25jTjlveEE5S1JrSlV5Vy0xN2lzalBwNnhYeUNrNzNMUUlGTmJKNFJxVmtZRlBoZWlPMGVuYy1iYnRlTFBzVEVfMDloN0JXZXBYU1gyNzZScWI1aXBEdUJTMnJtZWhrMF9hQ3JadUdCNDJMaXRCa2w0d0o3QmhkejhxYklhR0FVUWRiX2ZYX0RsUW5KRHBmQktVNDBzQnpkX0NXM2RSY1I2a2pEUUE4RmdOMHB2aWw2ZDh5YThhVXJ5WWdjRXg0ZmJBWVpRd1IyWXJmMU14S1ZOY1VFSFM0OXhXZ0F4TTJFYzNINUs4LUZuVjZUNzdRZ3lUXzFrc0FLRkZfYVpZU0d1cnVISzZ4dDNzZVpobVJYcnpUbHdGdlRnTE1CbHpiSkZSNFlB0gG4BEFVX3lxTE1QSlhRZ0cyRWJvTGdxaEZvZEVZS0pvaERHZnVrMzkzVE5JVnNMWVFqN2lzRHJ6bmw2cjZsbGRKQ3lDWVI1OEJHeXI1VlRvZGpMMEdJaGplTVNuRkdtV0M0bWpydV9admpkQzNBS0hCMkpZQklMMlVNc1ZQaVFPU3k4YjcwNGpLZTNVWHN6VHU5OTk0bmNQMXM1UEZ3bC1uMzI2V1Y4eUljeENjV19TWnVJVHQyRHowNDBtUkxYZktuajFiNDVpWlRBMU8wNTIzeU9pbkIzMVBVV1pqLTlLUm9xLV9ib3NGcFZOV05KbFA3TWh6eXAyN3VjSU1tc1E3enQ0bDZCdUw2Y0phd01pLXhJMldrTWV3QzRfOE1hT01EcFUwcVNtMDNGNjFlamZ5TlBiaEh2SFFNOGo2a1ZCVjM1UG9ESmZfR0dwWEtGenNnNjF6VlVCem53UTF6eE8xUERFeFV2ZWU0cndIRnFrb0FBTnNabTFiYkQ5WXpXdWtfOTd6d3Z6NXJ5SjRHUFU5ZVZITEQtVGNydW9TdTZIZjVnTTlfa1dnNDMwQnM1Vk1TZmxlVFNMX0hfOVRwOFRnSGVmTXhRVXFUVHBoWnRzajVMZnlrUlBIcXk1N3NTSDcwQ1hRelRLZnBzZ2RmeGZFSThKaWVjaFZKRWY2TTdRSW84SVJxRnlMRzVEM0xvOFRIMjBIdGhNYXpkOVFOS0FranZyZXRDY2ZYa3NnSHo3SV9Ob3Q0MjNOYTQ?oc=5",
-   "date": "2018-04-16T07:00:00+00:00",
-   "summary": "خبراء يشرحون مميزات قانون الجريمة الإلكترونية.. يحد من اختراق البيانات.. يعترف بالأدلة الرقمية لأول مرة.. مسئول بغرفة CIT: يحفز على الاستثمار.. وخبير أمن معلومات: يتضمن تعريفا واضحا لمفاهيم جرائم المعلومات اليوم السابع",
-   "tech": "cyber",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
    "lang": "ar"
   }
  ]

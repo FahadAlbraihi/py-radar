@@ -37,6 +37,7 @@ DATA = Path(__file__).resolve().parent / "data"
 CHANNELS_FILE = DATA / "channels.json"
 MAX_PER_TECH = 220
 AR_QUOTA = 110          # أقصى ما يُحجز للمحتوى العربي قبل تعبئة الباقي بالإنجليزي
+PODCAST_QUOTA = 10      # حصة البودكاست، وإلا أزاحته عناصر اليوم الأحدث
 TIMEOUT = 25
 
 UA = (
@@ -477,10 +478,11 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
             jobs.append(pool.submit(
                 lambda: parse_feed(get(f"https://medium.com/feed/tag/{cfg['medium']}"),
                                    "medium", "Medium", tech, match)))
+        # البودكاست مختار لكل مسار مسبقاً، فلا يُرشَّح بالكلمات
         for feed in cfg.get("podcasts", []):
             jobs.append(pool.submit(
                 lambda u=feed: [dict(i, kind="podcast")
-                                for i in parse_feed(get(u), "podcast", "بودكاست", tech, match)]))
+                                for i in parse_feed(get(u), "podcast", "بودكاست", tech, None)[:15]]))
         for cid in channels.values():
             jobs.append(pool.submit(fetch_channel, cid, tech, match))
 
@@ -519,11 +521,19 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
         per_source[sid] = per_source.get(sid, 0) + 1
         seen[key] = item
 
-    # المحتوى العربي أندر بكثير — نضمن له حصة قبل أن تزحمه المصادر الإنجليزية الغزيرة
+    # حصص محجوزة: العربي أندر من الإنجليزي، والبودكاست أقل تواتراً من بقية
+    # المصادر فتزيحه عناصر اليوم لو تُرك للترتيب الزمني وحده.
     ordered = list(seen.values())
     arabic = [i for i in ordered if i["lang"] == "ar"][:AR_QUOTA]
-    english = [i for i in ordered if i["lang"] != "ar"][:MAX_PER_TECH - len(arabic)]
-    items = sorted(arabic + english, key=lambda i: i.get("date") or "", reverse=True)
+    taken = {id(i) for i in arabic}
+
+    podcasts = [i for i in ordered if i["sourceId"] == "podcast" and id(i) not in taken][:PODCAST_QUOTA]
+    taken |= {id(i) for i in podcasts}
+
+    room = MAX_PER_TECH - len(arabic) - len(podcasts)
+    english = [i for i in ordered if id(i) not in taken][:room]
+
+    items = sorted(arabic + podcasts + english, key=lambda i: i.get("date") or "", reverse=True)
     ar = len(arabic)
 
     if not items:

@@ -418,9 +418,11 @@ function jobsFor(techId){
   if (MEDIUM_TAG[t.id])
     jobs.push({ name:'Medium', fn:() => fetchFeeds(
       [`https://medium.com/feed/tag/${MEDIUM_TAG[t.id]}`], 'medium', 'Medium', t.id, true) });
+  // البودكاست مختار لكل مسار مسبقاً، فلا يُرشَّح بالكلمات: عناوين الحلقات
+  // كثيراً ما لا تذكر اسم اللغة أصلاً (مثل «‎#450: Data science tools»)
   if (PODCASTS[t.id])
     jobs.push({ name:'بودكاست', fn:() => fetchFeeds(
-      PODCASTS[t.id], 'podcast', 'بودكاست', t.id, true, { kind:'podcast' }) });
+      PODCASTS[t.id], 'podcast', 'بودكاست', t.id, false, { kind:'podcast' }) });
   if (t.id === 'python')
     jobs.push({ name:'PyPI', fn:fetchPyPI });
 
