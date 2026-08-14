@@ -52,7 +52,8 @@ PROG = re.compile(
     r"|بيانات|ذكاء اصطناعي|خوارزم|\bcode\b|\bprogramming\b",
     re.IGNORECASE,
 )
-CAPS = {"pypi": 15, "blogs": 50, "devto": 45, "hn": 40, "so": 30, "github": 25, "reddit": 30}
+CAPS = {"pypi": 15, "blogs": 50, "devto": 45, "hn": 40, "so": 30, "github": 25,
+        "reddit": 30, "fcc": 20}
 
 # قنوات يوتيوب عربية — تُحلّ معرّفاتها مرة واحدة وتُخزَّن في data/channels.json.
 # تغذية القناة تحمل المشاهدات والتقييم والصورة، بخلاف نتائج البحث.
@@ -421,6 +422,10 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
         for url in cfg["blogs"]:
             jobs.append(pool.submit(
                 lambda u=url: parse_feed(get(u), "blogs", "مدونات", tech, None)))
+        # freeCodeCamp تغطي كل اللغات — تُرشَّح حسب لغة البرمجة الحالية
+        jobs.append(pool.submit(
+            lambda: parse_feed(get("https://www.freecodecamp.org/news/rss/"),
+                               "fcc", "freeCodeCamp", tech, match)))
         for cid in channels.values():
             jobs.append(pool.submit(fetch_channel, cid, tech, match))
 

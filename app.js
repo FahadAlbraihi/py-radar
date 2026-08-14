@@ -13,7 +13,7 @@ const STALE_MS  = 6 * 60 * 60 * 1000;   // يعاد الجلب إذا مضت ٦ 
 const PAGE_SIZE = 30;
 const MAX_STORE = 800;
 
-const CAPS = { pypi:15, blogs:50, devto:45, hn:40, so:30, github:25, reddit:30 };
+const CAPS = { pypi:15, blogs:50, devto:45, hn:40, so:30, github:25, reddit:30, fcc:20 };
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
@@ -322,6 +322,9 @@ function jobsFor(techId){
       t.reddit.map(s => `https://www.reddit.com/r/${s}/hot/.rss?limit=25`), 'reddit', 'Reddit', t.id, false) });
   if (t.blogs.length)
     jobs.push({ name:'مدونات', fn:() => fetchFeeds(t.blogs, 'blogs', 'مدونات', t.id, false) });
+  // freeCodeCamp تغطي كل اللغات — تُرشَّح حسب لغة البرمجة الحالية
+  jobs.push({ name:'freeCodeCamp', fn:() => fetchFeeds(
+    ['https://www.freecodecamp.org/news/rss/'], 'fcc', 'freeCodeCamp', t.id, true) });
   if (t.id === 'python')
     jobs.push({ name:'PyPI', fn:fetchPyPI });
 
@@ -612,7 +615,7 @@ function renderSourceChips(){
   }
   const names = { hn:'Hacker News', devto:'DEV.to', so:'Stack Overflow', github:'GitHub',
                   pypi:'PyPI', 'ar-news':'مقالات عربية', 'ar-yt':'فيديوهات عربية',
-                  blogs:'مدونات', reddit:'Reddit' };
+                  blogs:'مدونات', reddit:'Reddit', fcc:'freeCodeCamp' };
 
   wrap.textContent = '';
   const defs = [{ id:'all', name:'كل المصادر' },
