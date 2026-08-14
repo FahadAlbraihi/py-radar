@@ -1,750 +1,8 @@
 {
- "generated": "2026-08-14T20:06:11.549268+00:00",
+ "generated": "2026-08-14T20:43:35.858792+00:00",
  "tech": "rust",
- "count": 152,
+ "count": 59,
  "items": [
-  {
-   "title": "oven-sh/bun",
-   "url": "https://github.com/oven-sh/bun",
-   "date": "2026-08-14T20:05:10+00:00",
-   "summary": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-   "points": 95422,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "astral-sh/uv",
-   "url": "https://github.com/astral-sh/uv",
-   "date": "2026-08-14T20:04:28+00:00",
-   "summary": "An extremely fast Python package and project manager, written in Rust.",
-   "points": 88755,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "openai/codex",
-   "url": "https://github.com/openai/codex",
-   "date": "2026-08-14T20:04:24+00:00",
-   "summary": "Lightweight coding agent that runs in your terminal",
-   "points": 105967,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "zed-industries/zed",
-   "url": "https://github.com/zed-industries/zed",
-   "date": "2026-08-14T19:56:56+00:00",
-   "summary": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-   "points": 88630,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "openinterpreter/openinterpreter",
-   "url": "https://github.com/openinterpreter/openinterpreter",
-   "date": "2026-08-14T19:56:23+00:00",
-   "summary": "A coding agent for open models like Kimi K3",
-   "points": 68023,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Would you join an adults only social media site?",
-   "url": "https://news.ycombinator.com/item?id=49303768",
-   "date": "2026-08-14T19:51:24+00:00",
-   "summary": "Just asking before I create one.",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Be honest: When was the last time you cleaned up obsolete code from your repos?",
-   "url": "https://news.ycombinator.com/item?id=49303688",
-   "date": "2026-08-14T19:45:33+00:00",
-   "summary": "I just had a chat with a buddy who invested in a startup buying up obsolete code. The use case is there, Github and other repos contain 10+% of obsolete code which no one ever deletes and it costs a b",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "[Project] VulnScanner - Scanner de vulnerabilidades em Rust (15 tipos, WAF Bypass, API REST)",
-   "url": "https://www.reddit.com/r/rust/comments/1vohfj7/project_vulnscanner_scanner_de_vulnerabilidades/",
-   "date": "2026-08-14T19:45:15+00:00",
-   "summary": "Hey r/rust ! I built a multi-type vulnerability scanner in Rust and wanted to share some technical details. **What it does:** - Detects 15 vulnerability types: SQLi, XSS, LFI, SSTI, SSRF, CSRF, XXE, IDOR, Race Conditions, API REST, GraphQL,",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "warpdotdev/warp",
-   "url": "https://github.com/warpdotdev/warp",
-   "date": "2026-08-14T19:44:44+00:00",
-   "summary": "Warp is an agentic development environment, born out of the terminal.",
-   "points": 64218,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
-   "url": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
-   "date": "2026-08-14T19:36:18+00:00",
-   "summary": "",
-   "points": 11,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "rust-lang/rust",
-   "url": "https://github.com/rust-lang/rust",
-   "date": "2026-08-14T19:35:21+00:00",
-   "summary": "Empowering everyone to build reliable and efficient software.",
-   "points": 115506,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "[Project] VulnScanner - A multi-type vulnerability scanner written in Rust",
-   "url": "https://www.reddit.com/r/rust/comments/1voh5oa/project_vulnscanner_a_multitype_vulnerability/",
-   "date": "2026-08-14T19:34:59+00:00",
-   "summary": "Hey r/rust ! I ve been working on a vulnerability scanner written in Rust and just released v1.0.0! **What it does:** - 15 vulnerability types: SQLi, XSS, LFI, SSTI, SSRF, CSRF, XXE, IDOR, Race Conditions, API REST, GraphQL, NoSQL, Command ",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Configuration management engine as a library - module system for a compiled language ?",
-   "url": "https://www.reddit.com/r/rust/comments/1voh522/configuration_management_engine_as_a_library/",
-   "date": "2026-08-14T19:34:20+00:00",
-   "summary": "Hi all, I started this project a while ago : https://github.com/regent-project/regent-sdk First I was looking for a Rust alternative to Ansible, so I began to look into jetporch but it was abandoned by the creator. Then I began to write my ",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "What You Gain by Building Your Own Game Engine",
-   "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-   "date": "2026-08-14T19:20:20+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Crates discord server",
-   "url": "https://www.reddit.com/r/rust/comments/1vogfh2/crates_discord_server/",
-   "date": "2026-08-14T19:07:50+00:00",
-   "summary": "There was a discord server for some crates together like sqlx and askama … etc I was joining before But I lost it Can’t find in google Any help? submitted by /u/HosMercury [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Mole – Deep research agent for your terminal",
-   "url": "https://github.com/lajosdeme/mole",
-   "date": "2026-08-14T18:52:48+00:00",
-   "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident. And if you want to run some research",
-   "points": 12,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "ruvnet/RuView",
-   "url": "https://github.com/ruvnet/RuView",
-   "date": "2026-08-14T18:21:48+00:00",
-   "summary": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-   "points": 90070,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Hex Supply Customer Support Log",
-   "url": "https://strangehorizons.com/wordpress/poetry/hex-supply-customer-support-log/",
-   "date": "2026-08-14T18:14:27+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "denoland/deno",
-   "url": "https://github.com/denoland/deno",
-   "date": "2026-08-14T18:00:32+00:00",
-   "summary": "A modern runtime for JavaScript and TypeScript.",
-   "points": 108255,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "rust-unofficial/awesome-rust",
-   "url": "https://github.com/rust-unofficial/awesome-rust",
-   "date": "2026-08-14T17:56:17+00:00",
-   "summary": "A curated list of Rust code and resources.",
-   "points": 58834,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Trust Boundary Collapse: Two Campaigns That Bypassed Artifact Inspection",
-   "url": "https://lateos.ai/articles/trust-boundary-collapse-teampcp-clickfix",
-   "date": "2026-08-14T17:42:49+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Rustc_codegen_JVM: Compile Rust to Java bytecode and runnable JARs",
-   "url": "https://github.com/IntegralPilot/rustc_codegen_jvm",
-   "date": "2026-08-14T17:42:04+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Anyone going to Rust Conf this year that wants to meet?",
-   "url": "https://www.reddit.com/r/rust/comments/1vody3r/anyone_going_to_rust_conf_this_year_that_wants_to/",
-   "date": "2026-08-14T17:38:33+00:00",
-   "summary": "submitted by /u/Embeeded-AriannaCook [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "CFPB to Stop Posting Customer Narratives on Complaint Database",
-   "url": "https://news.bloomberglaw.com/banking-law/cfpb-to-stop-posting-customer-narratives-on-complaint-database",
-   "date": "2026-08-14T17:18:04+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "MSCI Gave SpaceX an ESG Score Matching Wartime Russia",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/msci-gave-spacex-esg-score-122904001.html",
-   "date": "2026-08-14T17:07:23+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "rustdesk/rustdesk",
-   "url": "https://github.com/rustdesk/rustdesk",
-   "date": "2026-08-14T17:04:14+00:00",
-   "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-   "points": 120588,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Just how big is the hidden leverage of AI hyperscalers?",
-   "url": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
-   "date": "2026-08-14T17:02:45+00:00",
-   "summary": "",
-   "points": 7,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "starship/starship",
-   "url": "https://github.com/starship/starship",
-   "date": "2026-08-14T16:45:13+00:00",
-   "summary": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
-   "points": 59405,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-   "url": "https://luacad.ad-si.com",
-   "date": "2026-08-14T16:43:22+00:00",
-   "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a desktop app, including a preview area and a text",
-   "points": 45,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "farion1231/cc-switch",
-   "url": "https://github.com/farion1231/cc-switch",
-   "date": "2026-08-14T16:32:54+00:00",
-   "summary": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-   "points": 127279,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "The restaurant menu that never goes out of date",
-   "url": "https://menu.qrcard.in/",
-   "date": "2026-08-14T16:26:00+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "RustDesk now supports true unattended remote access on Wayland",
-   "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-   "date": "2026-08-14T16:12:52+00:00",
-   "summary": "",
-   "points": 133,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Enabling the next iteration of the borrow checker on nightly",
-   "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-   "date": "2026-08-14T16:12:23+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Self-bench – build SWE-bench style evals from private repos",
-   "url": "https://github.com/mupt-ai/self-bench",
-   "date": "2026-08-14T16:01:50+00:00",
-   "summary": "Hey HN! We all know that most public evals are saturated and are hard to trust. What matters is whether a model reliably works in your codebase in your actual day-to-day-work. To solve this, we built ",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Interactive Product Demos made easy",
-   "url": "https://www.rendemo.com",
-   "date": "2026-08-14T15:59:07+00:00",
-   "summary": "Utilize the chrome extension to record and have your product demo automatically created, or use the Rendemo MCP to have AI create a live interactive tour directly in your codebase. You can launch an i",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "UART Communication Between ESP32 and Raspberry Pi Pico in Rust",
-   "url": "https://www.reddit.com/r/rust/comments/1voatav/uart_communication_between_esp32_and_raspberry_pi/",
-   "date": "2026-08-14T15:43:51+00:00",
-   "summary": "A few months ago, someone sought help setting up communication between an ESP32-C3 and the Raspberry Pi Pico using UART in Embedded Rust. I tried to help by testing UART communication myself and confirming that it worked. I thought of writi",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Remarc – contextual feedback for coding agents via MCP",
-   "url": "https://github.com/metedata/Remarc",
-   "date": "2026-08-14T15:35:23+00:00",
-   "summary": "Like any side project, Remarc had its innocent beginnings in my own problem — there was no good way to provide contextual feedback to AI agents on their own output. There are a plethora of tools for c",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Chery didn't exist in the UK last year but just outsold Honda and Mazda combined",
-   "url": "https://www.carscoops.com/2026/08/chery-uk-market-share/",
-   "date": "2026-08-14T15:33:35+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Personal Software Is Getting Cheaper to Build, So I Killed My LinkedIn Feed",
-   "url": "https://andrewpollack.dev/blog/fixing-linkedin-customizing-the-web/",
-   "date": "2026-08-14T15:22:29+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "What caused man to be partially sucked out of Ryanair plane",
-   "url": "https://news.sky.com/story/revealed-what-caused-man-to-be-partially-sucked-out-of-ryanair-plane-13572791",
-   "date": "2026-08-14T15:13:30+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Kakehashi Update: Running Apple Clang build and lowering overhead to 1.24x",
-   "url": "https://news.ycombinator.com/item?id=49299613",
-   "date": "2026-08-14T15:00:23+00:00",
-   "summary": "Hello again HN! After 11 days, I&#x27;m back with an update about Kakehashi. I want to thank you for your support! Thank you for all your stars, comments. I didn&#x27;t expect you to be so interested ",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Does AI Improve Access to Justice?",
-   "url": "https://rafaelresearch.com/research/does-ai-improve-access-to-justice",
-   "date": "2026-08-14T14:55:35+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Apple trained its own AI model for China with help from Alibaba",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-   "date": "2026-08-14T14:49:43+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "FuelLabs/sway",
-   "url": "https://github.com/FuelLabs/sway",
-   "date": "2026-08-14T14:48:39+00:00",
-   "summary": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
-   "points": 61509,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: A painting engine that lets you sculpt drawings (tech demo)",
-   "url": "https://softedge-techdemo.jign.workers.dev/",
-   "date": "2026-08-14T14:36:31+00:00",
-   "summary": "This is a playable tech demo. All painting software (Photoshop, Krita, etc.) rasterize your strokes as you work. This means the stroke is frozen forever. You may use some tools like perspective warp o",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "tower-rate-limiter: keyed rate limiting middleware for Tower and Axum",
-   "url": "https://www.reddit.com/r/rust/comments/1vo8uvu/towerratelimiter_keyed_rate_limiting_middleware/",
-   "date": "2026-08-14T14:29:59+00:00",
-   "summary": "Hi r/rust , I’ve been working on [tower-rate-limiter]( https://github.com/nivek-ph/tower-rate-limiter ), a keyed, fixed-window HTTP rate limiting middleware for Tower and Axum. Tower already provides global rate limiting for services, but H",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Opensourcing APH Engine and Servers in Rust and N Lang",
-   "url": "https://github.com/squillo/aph",
-   "date": "2026-08-14T14:25:29+00:00",
-   "summary": "rustaceans, we&#x27;ve completely open sourced our APH rust engine and servers! APH is a Agent Per Human notarization protocol, that acts like remote guardrails for when your agents are working with a",
-   "points": 5,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "In Australia, a home battery boom has helped cut wholesale power prices",
-   "url": "https://e360.yale.edu/digest/australia-home-batteries",
-   "date": "2026-08-14T14:07:52+00:00",
-   "summary": "",
-   "points": 270,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "PSP Pi mod just keeps getting better [video]",
-   "url": "https://www.youtube.com/watch?v=tNmPTgMoZUI",
-   "date": "2026-08-14T14:03:52+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "I get lost in uncertainty",
-   "url": "https://www.reddit.com/r/rust/comments/1vo82od/i_get_lost_in_uncertainty/",
-   "date": "2026-08-14T14:00:05+00:00",
-   "summary": "&#x200B; I m shrey vats. I used to work with nodejs ecosystem. Typescript was my primary language and that when I noticed I m not feeling interest in what I m doing and writing code. Then I realised my primary interest not in that stuff it ",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Pi Security – Codex Security without all the bloat",
-   "url": "https://github.com/Cecuro/open-security",
-   "date": "2026-08-14T13:52:47+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: ApplyWise – I built an AI layer for the job application process",
-   "url": "https://applywise.eu/",
-   "date": "2026-08-14T13:51:27+00:00",
-   "summary": "t&#x27;s free to try and doesn&#x27;t require an account. https:&#x2F;&#x2F;applywise.eu I&#x27;m particularly interested in feedback on the core question: is a dedicated workflow like this actually b",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Ask HN: Do you know how much head hunters cost?",
-   "url": "https://news.ycombinator.com/item?id=49298538",
-   "date": "2026-08-14T13:39:31+00:00",
-   "summary": "I was surprised to learn today that the candidate I interviewed (who came from a head hunter vice someone submitting direct through our job post portal), was 25% of the first year&#x27;s salary. As th",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "CQ – a new q/qsql runtime for your cloud data lake",
-   "url": "https://cqdb.io/",
-   "date": "2026-08-14T13:27:56+00:00",
-   "summary": "",
-   "points": 5,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Gpui-component: Rust GUI components for building cross-platform apps",
-   "url": "https://longbridge.github.io/gpui-component/",
-   "date": "2026-08-14T13:26:35+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "TalonDeck – An offline-first, tactile media tracker for iOS",
-   "url": "https://apps.apple.com/pl/app/talondeck-media-tracker/id6781664803?see-all=customers-also-bought-apps&platform=iphone",
-   "date": "2026-08-14T13:17:21+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "What is the status of web development in rust (back-end/full-stack) for a newcomer?",
-   "url": "https://www.reddit.com/r/rust/comments/1vo70bz/what_is_the_status_of_web_development_in_rust/",
-   "date": "2026-08-14T13:15:53+00:00",
-   "summary": "I (a Dev of Django, Laravel, Svelte, also small toy-projects with Elm) want to dive into rust, and especially web dev using rust..so, beside learning the language, patterns, etc. my question is regarding the ecosystem and frameworks... Wher",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Home search that chats, reads the photos, and est. monthly costs",
-   "url": "https://app.ag3nt.homes",
-   "date": "2026-08-14T13:10:40+00:00",
-   "summary": "As a home buyer, I got frustrated with how salesy and unusable many of the online home search portals had become, especially when it came to things like finding homes in proximity to certain places or",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "OpenAI Just Made Analytics 10x Cheaper",
-   "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
-   "date": "2026-08-14T12:56:56+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "TrustContent – a creator directory where you can only endorse 3 people",
-   "url": "https://trustcontent.co",
-   "date": "2026-08-14T12:56:37+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: I precompiled the path network of 3 continents to invent hiking routes",
-   "url": "https://windygap.app",
-   "date": "2026-08-14T12:27:50+00:00",
-   "summary": "Windy Gap generates hiking and running routes based on what you ask for. There are potential routes all around us and it finds them. I built it because I train for endurance events and have a camper v",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Computer History",
-   "url": "https://learn.chatgpt.com/docs/customization/computer-history",
-   "date": "2026-08-14T12:21:09+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
-   "url": "https://gatewai.studio/artifex",
-   "date": "2026-08-14T12:15:13+00:00",
-   "summary": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. The agent talks to Artifex through a structured CLI inter",
-   "points": 5,
-   "tech": "rust",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "tauri-apps/tauri",
-   "url": "https://github.com/tauri-apps/tauri",
-   "date": "2026-08-14T12:09:28+00:00",
-   "summary": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
-   "points": 110231,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "goyda: cross-platform ui toolkit",
-   "url": "https://www.reddit.com/r/rust/comments/1vo4njv/goyda_crossplatform_ui_toolkit/",
-   "date": "2026-08-14T11:29:18+00:00",
-   "summary": "i built reactive framework in rust. instead of flutter it uses native rendering on every platform (not custom, like flutter does) so it apps look as native as possible also, it uses proc macro to make your code reactive. you wrote code with",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Rust in Biomedical Devices?",
-   "url": "https://www.reddit.com/r/rust/comments/1vo4hw9/rust_in_biomedical_devices/",
-   "date": "2026-08-14T11:21:03+00:00",
-   "summary": "Hi yall, recently started learning rust for funzies and absolutely love the language. However I’m also considering trying to pivot into using it with my work in microscale biomedical implanted devices, as one of the biggest benefits it prov",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "meilisearch/meilisearch",
-   "url": "https://github.com/meilisearch/meilisearch",
-   "date": "2026-08-14T09:38:01+00:00",
-   "summary": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-   "points": 58963,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "Moments: The Photo App I Built to Win an Argument",
    "url": "https://dev.to/fromthearchitect/moments-the-photo-app-i-built-to-win-an-argument-1edm",
@@ -779,36 +37,6 @@
    "lang": "en"
   },
   {
-   "title": "Question about Send and Sync traits",
-   "url": "https://www.reddit.com/r/rust/comments/1vnx10e/question_about_send_and_sync_traits/",
-   "date": "2026-08-14T04:17:27+00:00",
-   "summary": "I am going through Rust atomics and locks book where it builds spin locks. Here is the structure: struct SpinLock T { locked: AtomicBool, value: UnsafeCell T , } unsafe impl T Sync for SpinLock T where T: Send {} Now I see the documentation",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "PicStat: small tool to understand your most frequently used camera settings and gear",
-   "url": "https://www.reddit.com/r/rust/comments/1vno247/picstat_small_tool_to_understand_your_most/",
-   "date": "2026-08-13T21:33:57+00:00",
-   "summary": "Hi! I wrote a small CLI tool to help visualize what camera settings and gear I use the most. I hope someone else finds it useful :p Code and downloads: https://github.com/m-demare/picstat submitted by /u/Mr_Dema [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "How is iced on windows?",
-   "url": "https://www.reddit.com/r/rust/comments/1vnki28/how_is_iced_on_windows/",
-   "date": "2026-08-13T19:20:23+00:00",
-   "summary": "Hey there! i was recently asking about whether should i choose iced or slint and made the decision to use iced and make a fun layer (with things that i like from slint like MCP etc.) but ive got a question, while iced is more popular than s",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
    "title": "Why Rust is the Future of Systems Programming",
    "url": "https://dev.to/3ni8ma/why-rust-is-the-future-of-systems-programming-34a9",
    "date": "2026-08-13T18:38:06+00:00",
@@ -820,68 +48,6 @@
    "lang": "en"
   },
   {
-   "title": "Yesterday's eclipse as seen from Spain, simulated in Ephemeris Explorer, built with Rust and Bevy.",
-   "url": "https://www.reddit.com/r/rust/comments/1vnhdxr/yesterdays_eclipse_as_seen_from_spain_simulated/",
-   "date": "2026-08-13T17:31:15+00:00",
-   "summary": "https://github.com/Canleskis/ephemeris-explorer To explain further what this video shows: this is the results of the solar system being simulated with Newtonian, point-mass gravity from 1st January 1950 to 12th August 2026. As you can see, ",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "What I learned securing Sniffnet with the GitHub Secure Open Source Fund",
-   "url": "https://www.reddit.com/r/rust/comments/1vng5pu/what_i_learned_securing_sniffnet_with_the_github/",
-   "date": "2026-08-13T16:47:20+00:00",
-   "summary": "Recently Sniffnet (the Rust-based network monitoring tool) completed the GitHub Secure Open Source Fund , a program focused on improving the security of widely used open-source projects. The program consists of an immersive 3-week sprint th",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Announcing OxiSH: a modern, memory-safe SSH server",
-   "url": "https://www.reddit.com/r/rust/comments/1vne4tf/announcing_oxish_a_modern_memorysafe_ssh_server/",
-   "date": "2026-08-13T15:35:37+00:00",
-   "summary": "submitted by /u/dochtman [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "dani-garcia/vaultwarden",
-   "url": "https://github.com/dani-garcia/vaultwarden",
-   "date": "2026-08-13T14:46:28+00:00",
-   "summary": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-   "points": 65406,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "How we've been improving Rust at Hexcat",
-   "url": "https://www.reddit.com/r/rust/comments/1vnc3yu/how_weve_been_improving_rust_at_hexcat/",
-   "date": "2026-08-13T14:21:37+00:00",
-   "summary": "Hexcat is a small company of seven people working to improve Rust itself. We decided to share our monthly updates not only with our clients/sponsors, but to also share them publicly on our website. submitted by /u/m-ou-se [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Made a cake for my boyfriend’s birthday",
-   "url": "https://www.reddit.com/r/rust/comments/1vnc3sy/made_a_cake_for_my_boyfriends_birthday/",
-   "date": "2026-08-13T14:21:26+00:00",
-   "summary": "I spent 40 minutes googling basic rust stuff to come up with the writing on a cake and I know it’s not 100% correct so don’t bully me please submitted by /u/pixiescurse [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
    "title": "zhao-dbt-plan: a microbatch cascading time-window planner for dbt",
    "url": "https://dev.to/allenhori/zhao-dbt-plan-a-microbatch-cascading-time-window-planner-for-dbt-8pl",
    "date": "2026-08-13T13:07:24+00:00",
@@ -890,16 +56,6 @@
    "tech": "rust",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Announcing Apple App Store Server Library v6.0.0 — Faster, Simpler and Crypto Backend Agnostic",
-   "url": "https://www.reddit.com/r/rust/comments/1vna4lv/announcing_apple_app_store_server_library_v600/",
-   "date": "2026-08-13T13:03:19+00:00",
-   "summary": "We ve reached another significant milestone with our Rust implementation of the App Store Server Library. The latest release has full feature parity with Apple s official libraries and some extras, such as a client for the Advanced Commerce",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
    "lang": "en"
   },
   {
@@ -925,36 +81,6 @@
    "lang": "en"
   },
   {
-   "title": "Rust on the JVM now passes >99% of official upstream tests after adding full unsafe pointer arithmetic support (Repo + details in comments)",
-   "url": "https://www.reddit.com/r/rust/comments/1vn95fs/rust_on_the_jvm_now_passes_99_of_official/",
-   "date": "2026-08-13T12:20:30+00:00",
-   "summary": "https://preview.redd.it/yxi9t6ety4jh1.png?width=1918 format=png auto=webp s=0be1be97eafc60baeae7a1c0eaa8539ea8c58a14 submitted by /u/IntegralPilot [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
-   "url": "https://www.reddit.com/r/rust/comments/1vn7pmw/beyond_wasi_running_any_rust_application_in_the/",
-   "date": "2026-08-13T11:11:03+00:00",
-   "summary": "submitted by /u/vilgefortz91 [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Memory ordering and atomics",
-   "url": "https://www.reddit.com/r/rust/comments/1vn3mnu/memory_ordering_and_atomics/",
-   "date": "2026-08-13T07:14:43+00:00",
-   "summary": "I am going through the book Rust atomics and locks. In the book it s mentioned that basic happens-before rule is that everything that happens within the same thread happens in order. But Acquire and Release memory model says that everything",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
    "title": "I Was Tired of Losing Disk Space to node_modules - So I Built ArtifactSweep",
    "url": "https://dev.to/srinivasankk/i-was-tired-of-losing-disk-space-to-nodemodules-so-i-built-artifactsweep-438p",
    "date": "2026-08-13T06:40:00+00:00",
@@ -974,39 +100,6 @@
    "tech": "rust",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "This Week in Rust #664",
-   "url": "https://www.reddit.com/r/rust/comments/1vn1ttk/this_week_in_rust_664/",
-   "date": "2026-08-13T05:33:37+00:00",
-   "summary": "submitted by /u/kannanpalani54 [link] [التعليقات]",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "rtk-ai/rtk",
-   "url": "https://github.com/rtk-ai/rtk",
-   "date": "2026-08-13T00:14:17+00:00",
-   "summary": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "points": 76167,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Can Rust optimize out calls to `into()`, for example in constructors?",
-   "url": "https://stackoverflow.com/questions/79993607/can-rust-optimize-out-calls-to-into-for-example-in-constructors",
-   "date": "2026-08-12T20:20:52+00:00",
-   "summary": "rust، optimization",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -1065,29 +158,6 @@
    "lang": "en"
   },
   {
-   "title": "Writing just one line to fifo",
-   "url": "https://stackoverflow.com/questions/79992335/writing-just-one-line-to-fifo",
-   "date": "2026-08-11T20:29:07+00:00",
-   "summary": "linux، rust",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "sharkdp/bat",
-   "url": "https://github.com/sharkdp/bat",
-   "date": "2026-08-11T14:39:20+00:00",
-   "summary": "A cat(1) clone with wings.",
-   "points": 60240,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Secrets that live in git - encrypted, no Vault, no sidecar",
    "url": "https://dev.to/mighty840/secrets-that-live-in-git-encrypted-no-vault-no-sidecar-4ia5",
    "date": "2026-08-11T14:21:39+00:00",
@@ -1096,94 +166,6 @@
    "tech": "rust",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "rust-lang/rustlings",
-   "url": "https://github.com/rust-lang/rustlings",
-   "date": "2026-08-11T11:46:06+00:00",
-   "summary": ":crab: Small exercises to get you used to reading and writing Rust code!",
-   "points": 63878,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "How to convert variable into type associated data?",
-   "url": "https://stackoverflow.com/questions/79992155/how-to-convert-variable-into-type-associated-data",
-   "date": "2026-08-11T07:27:27+00:00",
-   "summary": "rust، types",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How to initialize struct members in struct in constructor new",
-   "url": "https://stackoverflow.com/questions/79992040/how-to-initialize-struct-members-in-struct-in-constructor-new",
-   "date": "2026-08-10T19:53:32+00:00",
-   "summary": "rust، struct، constructor",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Hey Rustaceans! Got a question? Ask here (33/2026)!",
-   "url": "https://www.reddit.com/r/rust/comments/1vkv7bg/hey_rustaceans_got_a_question_ask_here_332026/",
-   "date": "2026-08-10T19:46:19+00:00",
-   "summary": "Mystified about strings? Borrow checker has you in a headlock? Seek help here! There are no stupid questions, only docs that haven t been written yet. Please note that if you include code examples to e.g. show a compiler error or surprising",
-   "tech": "rust",
-   "sourceId": "reddit",
-   "source": "r/rust",
-   "lang": "en"
-  },
-  {
-   "title": "Mapping voxel data to surface net vertices",
-   "url": "https://stackoverflow.com/questions/79992021/mapping-voxel-data-to-surface-net-vertices",
-   "date": "2026-08-10T18:20:26+00:00",
-   "summary": "rust، mesh، voxel، bevy، procedural",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Function pointer comparisons do not produce meaningful results since their addresses are not guaranteed to be unique",
-   "url": "https://stackoverflow.com/questions/79991903/function-pointer-comparisons-do-not-produce-meaningful-results-since-their-addre",
-   "date": "2026-08-10T11:05:51+00:00",
-   "summary": "advice، rust، function-pointers",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Copying a borrow through a ref with different lifetime",
-   "url": "https://stackoverflow.com/questions/79991815/copying-a-borrow-through-a-ref-with-different-lifetime",
-   "date": "2026-08-10T03:29:07+00:00",
-   "summary": "rust",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "What will be the type of the variable used for a catch all expression inside a match expression in Rust?",
-   "url": "https://stackoverflow.com/questions/79991795/what-will-be-the-type-of-the-variable-used-for-a-catch-all-expression-inside-a-m",
-   "date": "2026-08-09T22:49:06+00:00",
-   "summary": "rust",
-   "points": -2,
-   "tech": "rust",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -1197,18 +179,6 @@
    "lang": "en"
   },
   {
-   "title": "tw93/Pake",
-   "url": "https://github.com/tw93/Pake",
-   "date": "2026-08-08T13:24:03+00:00",
-   "summary": "🤱🏻 Turn any webpage into a desktop app with one command.",
-   "points": 60710,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Rust for Beginners 0101 - Getting Started: Installation",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FcjNOQ1lFUlExR29UalM5R2hfb0R2VElOZ00yRVBldTFxdHcxRVhYclBYNlRoekRjYmxoakx4dVVucHAwVHJ5MHdYTVFGWUdBZ09laVB3?oc=5",
    "date": "2026-08-07T16:06:31+00:00",
@@ -1217,42 +187,6 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
-  },
-  {
-   "title": "ultraworkers/claw-code",
-   "url": "https://github.com/ultraworkers/claw-code",
-   "date": "2026-08-06T11:18:35+00:00",
-   "summary": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-   "points": 195077,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "BurntSushi/ripgrep",
-   "url": "https://github.com/BurntSushi/ripgrep",
-   "date": "2026-08-04T13:59:44+00:00",
-   "summary": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-   "points": 67329,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "alacritty/alacritty",
-   "url": "https://github.com/alacritty/alacritty",
-   "date": "2026-08-03T08:50:06+00:00",
-   "summary": "A cross-platform, OpenGL terminal emulator.",
-   "points": 65367,
-   "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "The Strongest Kit In Rust - Ballistic Armor Guide | Rust Tutorial",
@@ -1265,16 +199,14 @@
    "lang": "en"
   },
   {
-   "title": "unionlabs/union",
-   "url": "https://github.com/unionlabs/union",
-   "date": "2026-07-25T18:20:02+00:00",
-   "summary": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
-   "points": 73877,
+   "title": "Rust Course 2026 – Complete Rust Programming for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzSWtwX0FlMzA5Y3poX29vcjczQ3Y3QW1PNWRSeVVSR2hwbjNaSmwxaXltSFRzS1oxLTJ2SDkwRGtENFBVQno4U2F2RUZOZ1RvaTZKODV3?oc=5",
+   "date": "2026-07-17T13:29:46+00:00",
+   "summary": "Rust Course 2026 – Complete Rust Programming for Beginners YouTube",
    "tech": "rust",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "NEW Apartment Complex Guide | Rust Tutorial",
@@ -1293,6 +225,16 @@
    "summary": "Introduction to Rust | Rust for the AI Era #1 YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Rust Tutorial For PHP and JavaScript Developers",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TER2MHhRU2RyaW93eU5JRk96Zzd2RjQyTmY1QUJyZUVFYk1idzljaFdabjBaaV90NDZzUGhsWUgyUHhwcGVSWllzdWxQVXRsaEpTWDlB?oc=5",
+   "date": "2026-06-05T14:22:28+00:00",
+   "summary": "Rust Tutorial For PHP and JavaScript Developers YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -1347,6 +289,16 @@
    "lang": "en"
   },
   {
+   "title": "Rust Roadmap 2026: How to Learn Rust Fast (Step-by-Step)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdW0zc0xJVGlOUVE3dG1aM3Z1czZwUnEyQnFSQ1BEakxQeHVwUTNZd09VWUZTdjZla0lEd3lKMG5JUWdXbHdXczQ0Ymp2dlc1bVpiREV3?oc=5",
+   "date": "2026-03-24T14:21:02+00:00",
+   "summary": "Rust Roadmap 2026: How to Learn Rust Fast (Step-by-Step) YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Ultimate Realistic Rust Effects Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03WmM0cXpXT1lIYzdpa2Fwd0xYaTVFcl9SQUxCM25TcjdfbVV2LTk1cF9FamJWVjNadVd4TTlEX25lQkFZeFVlWEZXdC0yLWNmTnlDR2JB?oc=5",
    "date": "2026-03-15T17:01:19+00:00",
@@ -1377,6 +329,16 @@
    "lang": "en"
   },
   {
+   "title": "Build a Game with Rust! Learn the Rust Programming Language - 1-hour Bootcamp for beginners - Part 2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waDNheTViYTBMMncxNFJlYWVKbWRYd0NzQVFmRUJ1OWdlNlRnckprd3NsQW5paHRudHdkYTJHLWtjQ2g4Wm5mUVJudzNTRjYyZGlTMllB?oc=5",
+   "date": "2026-01-20T14:09:16+00:00",
+   "summary": "Build a Game with Rust! Learn the Rust Programming Language - 1-hour Bootcamp for beginners - Part 2 YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "🔥How To Host RUST SERVER At HOME for FREE 2026 | Rust Server Admin Tutorial 🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVNEw1WmwtVVdFSW5RUFJSSTVBVFBRNjV1X1MxbElxUGlhNWx2OUMxaDFUdHRwd0hJM1BVUEoyTkdUWkpkR2lyX3Jnamd3b3hETkxtNTN3?oc=5",
    "date": "2026-01-10T00:00:49+00:00",
@@ -1387,10 +349,50 @@
    "lang": "en"
   },
   {
+   "title": "Complete Axum 0.8 Tutorial: Build Production REST APIs in Rust (2026 Full Course)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OMEhoMXZNa050TmZDRnBNSlJQc2JnSVFHVURGZHZKRUJhaGR6RjZ3dGFUM2xNenhKV1ViQjJrUVhCdGV5TDNUYjhoTzR1SkhNZnRBMzh3?oc=5",
+   "date": "2026-01-09T10:14:15+00:00",
+   "summary": "Complete Axum 0.8 Tutorial: Build Production REST APIs in Rust (2026 Full Course) YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Build a Netflix Clone with Rust & React using RustRover (Axum and Tanstack Full Stack Tutorial)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZRjdtcy02VEUwT3Vkd2dRY2t0Q0hnTUktMEZUSHJBZVplakpST3dFblpHa0hfZk5PNEVQNFE4RzRxb0xkV09VdVBKZC1OX2JqSGNHVHJ3?oc=5",
+   "date": "2025-12-23T14:03:11+00:00",
+   "summary": "Build a Netflix Clone with Rust & React using RustRover (Axum and Tanstack Full Stack Tutorial) YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Rust REST API Tutorial: Axum, SQLx, Postgres & Docker",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WcmZtTDVIRGV6dnQ4M09qc1VqaC1tX205eGE3eEpRV0M0d3BKZHRHS1d1ZmI3THlOLWZQOERWOTJSVGlGSkJHMlVBNHJ3VW9HbUdVM3lB?oc=5",
    "date": "2025-12-16T13:48:39+00:00",
    "summary": "Rust REST API Tutorial: Axum, SQLx, Postgres & Docker YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Stop writing slow code: Rust for Developers (Full Beginner Course)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CMWZ1MDhXcEFQRjEtTlhseDlIbURTV2VJZVhTY0FxSXJKNURVZ2dLX2lGVlF2c3cwNFpPcjBLT2NjZ1QteFVBTkwzTkNqcGQxalNRR1Zn?oc=5",
+   "date": "2025-11-25T14:15:14+00:00",
+   "summary": "Stop writing slow code: Rust for Developers (Full Beginner Course) YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Rust Crush Bootcamp for beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdlpNS09ZOWI1ZGdoVjhUS3ctRXRRRXprX0hvUHBOTUNJbHhwN2c1NVF1VDR3VHFPdV9jVnZJaDg3ZW94a2ZpZ1lCbzM3VHkzWDBGWXln?oc=5",
+   "date": "2025-11-22T07:06:43+00:00",
+   "summary": "Rust Crush Bootcamp for beginners YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1417,10 +419,40 @@
    "lang": "en"
   },
   {
+   "title": "W3Schools Rust Tutorial in 1 Hour | Learn RUST Programming using W3Schools",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kMTk3dkhXaXpCdkI1ZkVQNGRsSEQ5dFdXTFYxMWZpTmpVX20wZlp1QmdwYmxwRGFqZGpZRmcxTEo2ZnVlTlJBVG1RM2dIVDNuRG1NVE9n?oc=5",
+   "date": "2025-09-12T12:30:34+00:00",
+   "summary": "W3Schools Rust Tutorial in 1 Hour | Learn RUST Programming using W3Schools YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Small Oil Rig Monument - Loot, Strategies & Puzzle Guide In 2025 | Rust Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiTTNwUGVsTng2dEJFX2pDY2tPSE80MGJVOWJVb0dwdFlpWmRDaV9TRllPWFdUTnZNQUVwM2g4RjQtblJ6WG5BVkVSUEpvcUtXTHhLSnlB?oc=5",
    "date": "2025-08-24T16:30:01+00:00",
    "summary": "Small Oil Rig Monument - Loot, Strategies & Puzzle Guide In 2025 | Rust Tutorial YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Rust Advance Programming 🦀| Build CLI Tool & Rust Backend Projects | Notes Included | Hindi",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzODJMTDY2WG1BMlpZM3RQekI1Sk40S0d3RUtnbjd6bDZ2dFVfX0JoeWR5eE5TU1lKQXUwN0g3bEMzemJnNGJETzdoMEt2QlZNY0RnWm9B?oc=5",
+   "date": "2025-08-07T14:21:38+00:00",
+   "summary": "Learn Rust Advance Programming 🦀| Build CLI Tool & Rust Backend Projects | Notes Included | Hindi YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Rust Course 2025 – Learn Rust Programming Fast | 1-Hour Beginner Crash Course (Wasm Ready)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oMFBDWHFLb3NRR3F1eHd3d0MxQ3Y1NGJRZjhhM2l2NExqWmFUYWpHX2wycEJ6ME5LUkJTMm9oS3FSaE5CLUJoWGFLYWxkNnhsQnBwZlBR?oc=5",
+   "date": "2025-08-01T06:39:37+00:00",
+   "summary": "Rust Course 2025 – Learn Rust Programming Fast | 1-Hour Beginner Crash Course (Wasm Ready) YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1437,6 +469,16 @@
    "lang": "en"
   },
   {
+   "title": "Build REST APIs with the Rust Axum Web Framework",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSEdFZ2JsSlUzNFhCVTJsLXJOYTBVYVVNMEhjYlRYcDBMcTNVbHpoQlM5bllCcTdmSXFfQ3A1cVZqcG1jSk5DNkFqclVqYmNhMFFQaF9n?oc=5",
+   "date": "2025-06-03T12:18:48+00:00",
+   "summary": "Build REST APIs with the Rust Axum Web Framework YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Ultimate Solo Raiding Guide - Best Strategies & Explosives | Rust Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Za2pZYUlmVnRNTC1uTUxDN0NpMlR0eVVBRU1zM1pLczhTQVpqY0Q1YjVhN25LNUpnX2F2b3FMY3l0YmlPMENEYkM5SVQ4RGQ0bHZaMWZR?oc=5",
    "date": "2025-05-31T15:14:48+00:00",
@@ -1447,40 +489,20 @@
    "lang": "en"
   },
   {
-   "title": "Rust + SQLite: Complete Tutorial (Schema, CRUD, JSON & Async)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54RnVvUHgwaG42Qk52aWlZM2UybmR0TmZ4VTVpR1lXRjltNXBoX0pKTTBIamFFWDY4ZFBrQWhZU0F2cUR4TkwwQ1pXclJSOW9kbGRqaGtB?oc=5",
-   "date": "2025-04-26T13:01:02+00:00",
-   "summary": "Rust + SQLite: Complete Tutorial (Schema, CRUD, JSON & Async) YouTube",
+   "title": "Rust for Dummies in 12 Minutes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sd08xanB1bzdReWZEN3Y0bkpoalp3S0xvQWc3c0RSbjR1VW5mSmxtYzBFc3l6NG5VUmRuRTVOaEE2T0lxdmg2WnE0TkMzLWpPVzlYMTNn?oc=5",
+   "date": "2025-05-15T15:00:07+00:00",
+   "summary": "Rust for Dummies in 12 Minutes YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Rust Concurrency and Parallelism - Message Passing in Rust - Full Crash Rust Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8taHRDUW9BUDRWX0V2STVBRTF6LUJMOEVGZERtck05Zl9ic0FCWVI2Rm9aaEx2T0J4ODJ4V3J0TWpXR3VsZFgtTG9YcHVjMGJDYU9HVVhB?oc=5",
-   "date": "2025-04-24T17:02:31+00:00",
-   "summary": "Rust Concurrency and Parallelism - Message Passing in Rust - Full Crash Rust Tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "🔌🌩 RUST | Electricity guide | Beginner to PRO in 10 minutes 🔌🌩",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vYUNoWkRWVVl5dDIyRTdiSFhLUG15SFE4WFFXaFU5eVdBRHVNTl9rOGpKbnpORHk5clBHQ0IydFdBRFZRWUcxUUpLMmpuVWhVTkxaRUx3?oc=5",
-   "date": "2025-04-17T18:00:22+00:00",
-   "summary": "🔌🌩 RUST | Electricity guide | Beginner to PRO in 10 minutes 🔌🌩 YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Rust Concurrency and Parallelism - Threads in Rust - Full Crash Rust Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LemtiZ3RvZGVUTkRzTzg2NnVraW5WVW5pRGJFOEJmc214bXE0YllfZEpUMnBqbUhqakotQkhkb0VQS0xiaEpHLWxNMzhSemdfOFJuaC1n?oc=5",
-   "date": "2025-04-15T14:30:30+00:00",
-   "summary": "Rust Concurrency and Parallelism - Threads in Rust - Full Crash Rust Tutorial for Beginners YouTube",
+   "title": "Learn the Rust programming language - Course for beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UU0h0cUZXZzAzZHFjSmowTkxYT0hDRW1hLS00U09GLTQ4a1V1VG1wZmVIZkMxYVl0ZmFLLUNWVzRLelhKZlRaazhJZmNrT2RYay1BY1RR?oc=5",
+   "date": "2025-05-06T13:45:46+00:00",
+   "summary": "Learn the Rust programming language - Course for beginners YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1495,56 +517,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Avoid Getting Raided! - Best Build Locations in 2024 | Rust Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONE40TFEteEdCbHJfTS1senVacVlRb0FpbzZuclRHYS1DMWF4a1V0TDVjNk94UkhQZDFEYWhqbU5iNl9QUUZBckNCTmdlNWFfVFlnTTBB?oc=5",
-   "date": "2024-11-03T16:30:06+00:00",
-   "summary": "Avoid Getting Raided! - Best Build Locations in 2024 | Rust Tutorial YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "NEW King of Ranged PVP? - Gas Compression Overdrive Guide | Rust Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92MjcyMzF3Z0xTb3pOdXpocUZmY3JzMzV0VEQ3OUFod1hzdVZEZ3BsaDJ5d191bnBQR05UX25uU1A2RE5XNjRxWkEtOUdVRkdId3pDZmhR?oc=5",
-   "date": "2024-09-22T19:00:15+00:00",
-   "summary": "NEW King of Ranged PVP? - Gas Compression Overdrive Guide | Rust Tutorial YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Test Driven Development in Rust - Full Crash Rust tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZRndSVFpLcnhPT3Vuby00d2Y2dnZoTmpkTGJudEloNURKN1Bmd1R4aG5jbGdpM1NPdTUyWjlxcHdSRXY1cVNLOENkcWh5VFg2QnJPLS1B?oc=5",
-   "date": "2024-09-15T02:04:08+00:00",
-   "summary": "Test Driven Development in Rust - Full Crash Rust tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Build a Rust CLI - Getting Command Line Arguments - Full Crash Rust Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oam5OYUxsWHVINFlZenlKTUd1ZmtIUUh4VlFfS1lCZmJpY2pIRkczZGl1LXFKS1JqVVhGazBZak5NRU1lTUJ5cUNabEhoTnNBZ1RxeTJ3?oc=5",
-   "date": "2024-08-27T13:00:52+00:00",
-   "summary": "Build a Rust CLI - Getting Command Line Arguments - Full Crash Rust Tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Rust Lifetimes explained Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45cUU4SFlFaXhISUFKSTFMbkdGemZWb2s4VF8xNjAxY2VEWEhrQWZ1cEs5S0xDTExFVVc4c1RWcktZSFBIS2ZaU0hyeTcxSmE4RjNUSFN3?oc=5",
-   "date": "2024-07-23T13:00:24+00:00",
-   "summary": "Rust Lifetimes explained Tutorial YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "خد فكرة عن Rust",

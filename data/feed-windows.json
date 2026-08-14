@@ -1,20 +1,8 @@
 {
- "generated": "2026-08-14T20:09:36.914740+00:00",
+ "generated": "2026-08-14T20:45:07.883719+00:00",
  "tech": "windows",
- "count": 184,
+ "count": 195,
  "items": [
-  {
-   "title": "MicrosoftDocs/PowerShell-Docs",
-   "url": "https://github.com/MicrosoftDocs/PowerShell-Docs",
-   "date": "2026-08-14T18:47:36+00:00",
-   "summary": "The official PowerShell documentation sources",
-   "points": 2519,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "From X/Twitter Bookmarks to a Searchable Static Site",
    "url": "https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd",
@@ -25,18 +13,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "ScoopInstaller/Extras",
-   "url": "https://github.com/ScoopInstaller/Extras",
-   "date": "2026-08-14T17:59:28+00:00",
-   "summary": "📦 The Extras bucket for Scoop.",
-   "points": 2132,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Ransomware Now Reboots Into Safe Mode to Kill Your EDR",
@@ -50,114 +26,6 @@
    "lang": "en"
   },
   {
-   "title": "MicrosoftDocs/architecture-center",
-   "url": "https://github.com/MicrosoftDocs/architecture-center",
-   "date": "2026-08-14T17:36:10+00:00",
-   "summary": "Open source documentation for the Azure Architecture Center on Microsoft Learn.",
-   "points": 2015,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "dataplat/dbatools",
-   "url": "https://github.com/dataplat/dbatools",
-   "date": "2026-08-14T16:57:44+00:00",
-   "summary": "🚀 SQL Server automation and instance migrations have never been safer, faster or freer",
-   "points": 2823,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "cisagov/ScubaGear",
-   "url": "https://github.com/cisagov/ScubaGear",
-   "date": "2026-08-14T16:47:09+00:00",
-   "summary": "Automation to assess the state of your M365 tenant against CISA's baselines",
-   "points": 2640,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "actions/runner-images",
-   "url": "https://github.com/actions/runner-images",
-   "date": "2026-08-14T14:06:46+00:00",
-   "summary": "GitHub Actions runner images",
-   "points": 13023,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "cmderdev/cmder",
-   "url": "https://github.com/cmderdev/cmder",
-   "date": "2026-08-14T14:03:26+00:00",
-   "summary": "Lovely console emulator package for Windows",
-   "points": 26990,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "psmux/psmux",
-   "url": "https://github.com/psmux/psmux",
-   "date": "2026-08-14T14:01:44+00:00",
-   "summary": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀",
-   "points": 3252,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "ChrisTitusTech/winutil",
-   "url": "https://github.com/ChrisTitusTech/winutil",
-   "date": "2026-08-14T13:44:10+00:00",
-   "summary": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
-   "points": 60542,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "zhaoxuya520/reverse-skill",
-   "url": "https://github.com/zhaoxuya520/reverse-skill",
-   "date": "2026-08-14T13:09:23+00:00",
-   "summary": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-   "points": 25208,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Micke-K/IntuneManagement",
-   "url": "https://github.com/Micke-K/IntuneManagement",
-   "date": "2026-08-14T11:56:15+00:00",
-   "summary": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.  ",
-   "points": 2030,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "How could I get rid of Python’s AI library dependency issues on Windows 10 Visual Studio Code with…",
    "url": "https://medium.com/@sasanace/how-could-i-get-rid-of-pythons-ai-library-dependency-issues-on-windows-10-visual-studio-code-with-59ff80d4140e?source=rss------powershell-5",
    "date": "2026-08-14T11:33:26+00:00",
@@ -166,30 +34,6 @@
    "sourceId": "medium",
    "source": "Medium",
    "lang": "en"
-  },
-  {
-   "title": "zoicware/RemoveWindowsAI",
-   "url": "https://github.com/zoicware/RemoveWindowsAI",
-   "date": "2026-08-13T19:48:54+00:00",
-   "summary": "Force Remove Copilot, Recall and More in Windows 11",
-   "points": 12790,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "dotnet/core",
-   "url": "https://github.com/dotnet/core",
-   "date": "2026-08-13T16:22:51+00:00",
-   "summary": ".NET news, announcements, release notes, and more!",
-   "points": 22031,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "PowerShell in 10 Minutes: 10 Commands Every Windows User Should Know",
@@ -211,66 +55,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "pester/Pester",
-   "url": "https://github.com/pester/Pester",
-   "date": "2026-08-13T09:42:14+00:00",
-   "summary": "Pester is the ubiquitous test and mock framework for PowerShell.",
-   "points": 3318,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Microsoft365DSC/Microsoft365DSC",
-   "url": "https://github.com/Microsoft365DSC/Microsoft365DSC",
-   "date": "2026-08-13T05:10:16+00:00",
-   "summary": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
-   "points": 2366,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Raphire/Win11Debloat",
-   "url": "https://github.com/Raphire/Win11Debloat",
-   "date": "2026-08-12T19:10:48+00:00",
-   "summary": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-   "points": 55467,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "farag2/Sophia-Script-for-Windows",
-   "url": "https://github.com/farag2/Sophia-Script-for-Windows",
-   "date": "2026-08-12T14:39:14+00:00",
-   "summary": ":zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub",
-   "points": 9656,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "YerongAI/Office-Tool",
-   "url": "https://github.com/YerongAI/Office-Tool",
-   "date": "2026-08-12T12:56:27+00:00",
-   "summary": "Office Tool Plus localization projects.",
-   "points": 14008,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "I Didn't Encrypt the Files. I Changed Who Windows Allows to Touch Them.",
@@ -317,30 +101,6 @@
    "lang": "en"
   },
   {
-   "title": "0xsyr0/OSCP",
-   "url": "https://github.com/0xsyr0/OSCP",
-   "date": "2026-08-11T16:14:48+00:00",
-   "summary": "OSCP Cheat Sheet",
-   "points": 3812,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "jenkinsci/docker",
-   "url": "https://github.com/jenkinsci/docker",
-   "date": "2026-08-11T09:23:01+00:00",
-   "summary": "Docker official jenkins repo",
-   "points": 7597,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Secure Boot's October 2026 Deadline: Two Years' Notice Wasn't Enough",
    "url": "https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64",
    "date": "2026-08-11T00:51:36+00:00",
@@ -373,18 +133,6 @@
    "lang": "en"
   },
   {
-   "title": "fleschutz/PowerShell",
-   "url": "https://github.com/fleschutz/PowerShell",
-   "date": "2026-08-10T06:12:57+00:00",
-   "summary": "600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.",
-   "points": 3228,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Why Is My Windows Disk Usage at 100% When I'm Not Doing Anything?",
    "url": "https://dev.to/darkssel/why-is-my-windows-disk-usage-at-100-when-im-not-doing-anything-1d4d",
    "date": "2026-08-10T05:23:07+00:00",
@@ -415,18 +163,6 @@
    "sourceId": "medium",
    "source": "Medium",
    "lang": "en"
-  },
-  {
-   "title": "olafhartong/sysmon-modular",
-   "url": "https://github.com/olafhartong/sysmon-modular",
-   "date": "2026-08-10T00:47:52+00:00",
-   "summary": "A repository of sysmon configuration modules",
-   "points": 3113,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Management Wants a Word: TryHackMe Forensics Writeup",
@@ -492,18 +228,6 @@
    "lang": "en"
   },
   {
-   "title": "SpotX-Official/SpotX",
-   "url": "https://github.com/SpotX-Official/SpotX",
-   "date": "2026-08-08T11:03:09+00:00",
-   "summary": "SpotX patcher used for patching the desktop version of Spotify",
-   "points": 22051,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Fixing Claude Code's /desktop on Windows: \"Claude Desktop is not installed\" (Microsoft Store/MSIX installs)",
    "url": "https://dev.to/arthamjayanth/fixing-claude-codes-desktop-on-windows-claude-desktop-is-not-installed-microsoft-storemsix-130a",
    "date": "2026-08-07T20:14:17+00:00",
@@ -526,18 +250,6 @@
    "lang": "en"
   },
   {
-   "title": "pnp/List-Formatting",
-   "url": "https://github.com/pnp/List-Formatting",
-   "date": "2026-08-07T07:11:06+00:00",
-   "summary": "List Formatting Samples for use in SharePoint and Microsoft Lists",
-   "points": 2172,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Logon Windows in “Text Mode”",
    "url": "https://medium.com/code-art/logon-windows-in-text-mode-24116bdb4521?source=rss------powershell-5",
    "date": "2026-08-07T05:19:25+00:00",
@@ -546,18 +258,6 @@
    "sourceId": "medium",
    "source": "Medium",
    "lang": "en"
-  },
-  {
-   "title": "admindroid-community/powershell-scripts",
-   "url": "https://github.com/admindroid-community/powershell-scripts",
-   "date": "2026-08-06T05:16:44+00:00",
-   "summary": "Office 365 Reporting PowerShell Scripts",
-   "points": 2003,
-   "tech": "windows",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Moving 20,724 PDFs Off iCloud Onto a Local Drive, Zero Lost",
@@ -582,16 +282,6 @@
    "lang": "en"
   },
   {
-   "title": "مايكروسوفت تغير أولويات ويندوز 11.. تحسين الأداء وليس الذكاء الاصطناعى - النيلين",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIMjc3c1FBUlFsVHFNdzhxamQzUVVidHQ2bUlnclIxNk5UVnJ6WnFtUmNYeGRJQnpxeWNXb3JFYjBNNXNIM1o4cGZaeHrSAVRBVV95cUxQSk9WUm1aNUd4ZnFPSGh5d245YzY0SzBBVkw4Y2RMYk4taUVVSVFORVJ2UEhVdm9MUC1RNkI1NjFla0ZxRmU1VEZtLXNIWEpJaDFIeEQ?oc=5",
-   "date": "2026-08-02T04:14:15+00:00",
-   "summary": "مايكروسوفت تغير أولويات ويندوز 11.. تحسين الأداء وليس الذكاء الاصطناعى - النيلين alnilin.com",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "alnilin.com",
-   "lang": "ar"
-  },
-  {
    "title": "I Spent 4 Hours Fighting PowerShell 5.1 Quoting Hell to Make Exa MCP Work. Here is the 10-Line Fix That Saved Me",
    "url": "https://dev.to/onurkizildag/i-spent-4-hours-fighting-powershell-51-quoting-hell-to-make-exa-mcp-work-here-is-the-10-line-fix-2jf3",
    "date": "2026-07-31T21:21:00+00:00",
@@ -600,17 +290,6 @@
    "tech": "windows",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ask HN: Security advisory Azure trusted launch VMs",
-   "url": "https://news.ycombinator.com/item?id=49122711",
-   "date": "2026-07-31T13:13:38+00:00",
-   "summary": "Hi, it seems azure has announced that all VMs world wide that run trusted launch need to be rebooted because of an unnamed security fix. Does anyone have details on how bad the problem actually is? Te",
-   "points": 2,
-   "tech": "windows",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -712,6 +391,26 @@
    "lang": "ar"
   },
   {
+   "title": "PowerShell Full Course for Beginners 2026 | Learn PowerShell from Zero to Hero",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0NjRxUjZldmN0ZnBJenZFQ3ZUdVc2bEJ2SU5WTktJbF9Vc1pWUUcxQ2dETm9CRGFEelF0U2FXdU54UE55OVNCZnExcERmdDJlUFpqRi1R?oc=5",
+   "date": "2026-06-30T05:11:43+00:00",
+   "summary": "PowerShell Full Course for Beginners 2026 | Learn PowerShell from Zero to Hero YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Powershell Zero To Hero | Powershell Automation Training | Intune Powershell",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZkdpbUFRYlZFSC1GbWN0eWhDNl9SMzE1VDNGclJ6VEtvOExacTg0d2Iwd2lDT1BwMWxXdy04ZWpzMTVkaVJ3NDgyZmdLNkd6cWNsZkRB?oc=5",
+   "date": "2026-05-31T13:07:31+00:00",
+   "summary": "Powershell Zero To Hero | Powershell Automation Training | Intune Powershell YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "❗ تحديث ويندوز الجديد فيه تغيير مهم… انتبه!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SWkVIN2VNY0JmQllZX2RpbFNTTjBuZHRwMWotbmw4OUhOcTZKOVA3OERPTkpWektZN0w3Nmc1UUVnb1lkUmVUaWMxM3FiZGRsTkhlckZB?oc=5",
    "date": "2026-04-26T17:36:49+00:00",
@@ -732,20 +431,40 @@
    "lang": "ar"
   },
   {
-   "title": "ويندوز 11 يصلّح بطء التخزين ويلغي قيد FAT32 بعد 30 سنة",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZMVQzN1UyTHJWbEZhWFBTdklmc2xhTnpGV1dlUWNhTWxMaDl1NlVURDA0Sm1IODctSVc5MGJOLU5ub3lROXA4?oc=5",
-   "date": "2026-04-14T07:00:00+00:00",
-   "summary": "ويندوز 11 يصلّح بطء التخزين ويلغي قيد FAT32 بعد 30 سنة elbalad.news",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "elbalad.news",
-   "lang": "ar"
-  },
-  {
    "title": "اتعلم powershell من الصفر في 30 دقيقة بس.. دليلك الشامل للدخول عالم الهكر!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzbFJ0MVZkYUVUdmlRX1VaN3BLQWU0eUVaYVlReXEyZ0RvQ0dUaHVkclBHV1gxb2c2UmR0R2ZXQTBtU2t5a0F1QzhJUkxzUXE2US1KX213?oc=5",
    "date": "2026-04-08T12:41:06+00:00",
    "summary": "اتعلم powershell من الصفر في 30 دقيقة بس.. دليلك الشامل للدخول عالم الهكر! YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Powershell Application Deploymnet ToolKit course | Advance PSADT training |",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82OWV3MkNnUk95ckpSUkFjUUp6NE5jZlBoR3htRXhlbUh6ZjJNTlhmSXN3WW5QMnN5NXVvTjNXZk5zZDdiWE9fTElDZ0h6cnJKb0htZkF3?oc=5",
+   "date": "2026-03-20T05:13:53+00:00",
+   "summary": "Powershell Application Deploymnet ToolKit course | Advance PSADT training | YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Powershell for Beginners To expert Guide | Power Shell Updated 2026 |",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95cXlMNUlPV1RjajRuczIxdHhrb2Q1Yy1oUDE2ZUJfbFFLZGZtWXpoQmk3d2hWVW5lbjFmM3J4QUl2SGc3MFVGbG5tMi1qam9QVW0wZWN3?oc=5",
+   "date": "2026-03-15T18:03:56+00:00",
+   "summary": "Learn Powershell for Beginners To expert Guide | Power Shell Updated 2026 | YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "عملت برنامج كمبيوتر من غير ولا سطر كود! | تصميم برامج ويندوز بالذكاء الاصطناعي 🤖💻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTX1pzb2NvdjVyQVJTcEJJQ1FfM0xjR2xwaEE1U2pzSExoYVpBVEJqV1NvWl9vRkt0Mk9aa0s4TXBXelNscjYyaWV3TkdSR3BjUUptOUlR?oc=5",
+   "date": "2026-03-13T14:15:14+00:00",
+   "summary": "عملت برنامج كمبيوتر من غير ولا سطر كود! | تصميم برامج ويندوز بالذكاء الاصطناعي 🤖💻 YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -812,14 +531,24 @@
    "lang": "en"
   },
   {
-   "title": "مايكروسوفت تُصلح ثغرة \"فشل الإقلاع\" في ويندوز 11 عبر تحديث الأمان الجديد",
-   "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOdzZVelk3OEhtc2dWclBPeWw4TVhnYkNaeFdxQmNCLWVFdm9CdWNnNEZMSk9tQU94bW1qUFlwWjZRMlF5Z1RKVkJWOVBJRUdPR2pEV0k5VlZLaFRRZ2dNTTNrNmV0SnZZcjBfQnJ0RzUzNzg0RW8zLU9kRUZ1Yk5WS24yNWdsZ1lheTNPMWNxTFdZdG1Gdkh1eGNoSmxCcXZNcEd3VEdoTU4zM2ZTLUttZTRSMXZMN1JHUUNQMVliazg0NFJQZC1GRHJ6M0pCd1o4X3k0UFZtb0d0M0pPYXdHTl8wOEJXVl9icW1aemx5cnJ5VEJNTnBWSzFmRExySERIZ1EwTXBaRm5fODh6Y0UxX1F4eWpyTXN5NXdxTXRMRlNidjk0dDVIcDRqWVpGT2JFZk9PejBIaWRnR3V2TTBQTFhlVGNWQXlZa19pdlRxX0d3TnUyY2RvTkFqVndrVVVUQTZyNjJXaFRiTThRMVBkZlVZOGsyTE9SUnR0Szlrai1kVTE1V2w3SkdxajZ0cDZpSU9KWUhjY0dYVWxFYzVwN0lNc0xvbW8tcTlJM3VhM3EyOVo0aTQ5TXlsZWVmSm9INjgzZVFCWFpSMFQ1OTQ1RG9xbENnN2ZWdFlvX2c0aDFaekprR1hVT0VIbWY0SW13UHkydWVnSWxGZ3pQQzY3em8zenk3cFkxeW9mdzFZUU9HWXR2azdfYTFfcjVGQVZYOXZqOS00ZkFOdVB0dGZn?oc=5",
-   "date": "2026-02-17T08:00:00+00:00",
-   "summary": "مايكروسوفت تُصلح ثغرة \"فشل الإقلاع\" في ويندوز 11 عبر تحديث الأمان الجديد جريدة الدستور",
+   "title": "حل مشكلة تعطل تبديل لغة الكتابة في ويندوز 11 بعد التحديث (Alt + Shift لا يعمل)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4RjVoTWN3aERwa0x5cEpqN2JpWldrV2I5QU1Wdm5RX3IxMGZPdFBDcDJzZ0o5enBwTDktOVhrYUlWTEQtRnM4cS1XOGNadGdTQmxxcFNR?oc=5",
+   "date": "2026-02-04T18:08:30+00:00",
+   "summary": "حل مشكلة تعطل تبديل لغة الكتابة في ويندوز 11 بعد التحديث (Alt + Shift لا يعمل) YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "جريدة الدستور",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "PowerShell for Azure Identity and Access Management",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNGJuVVVrLXYwX1NZb1pCc1lxdFAxaEFTczVoNmVxQWlzcW9nSTI3NDVTWjE2bXhGdkdqSUlyb1ZCekpiMFA1ZjhmNnRYUmpYd0gwSEp3?oc=5",
+   "date": "2026-01-30T23:30:51+00:00",
+   "summary": "PowerShell for Azure Identity and Access Management YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "احفظ ويندوز 11 مع التعريفات والبرامج في ملف ISO واحد (طريقة المحترفين)",
@@ -852,6 +581,16 @@
    "lang": "ar"
   },
   {
+   "title": "Learn Powershell From Zero To Hero | Windows Powershell Training",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IWVFfSy1zTEVBSmlhU3Nhd1VjZzVpVDRVQmszSGlmY3Y5cHV0OWFYekg4S1RHZEFsSF9Nb2V2dk9Demo1b2VxV1pNdmJlOXhIeWxySHpB?oc=5",
+   "date": "2026-01-04T15:33:54+00:00",
+   "summary": "Learn Powershell From Zero To Hero | Windows Powershell Training YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Powershell tutorial for Linux users (2) - Aliases and Shortcuts",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zUy1kdlJubEdmakpnVjlaT2g4OTBQV1RFZVVFWjl3SF9LRkNzemNOV25kcmJVeFpGSXMtLUNWd3d2TWhqOFNORER0NWw2NjV0bXdRdUR3?oc=5",
    "date": "2025-12-20T04:00:20+00:00",
@@ -872,10 +611,30 @@
    "lang": "en"
   },
   {
+   "title": "Lab 13: How to SSH into a Server from Windows Using PuTTY | Security Policy, Threats & Risk Manage.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03X1hwZk45dHdta3kzSjZzSGRwQ3BsQzZvcGsydVZUSjF1SGl1RGtNQU9LOEMyREtsU0c4ZXRkbFpNdmxwbkJET1I1NG5SUHRFUE1JY1ZR?oc=5",
+   "date": "2025-12-03T18:45:06+00:00",
+   "summary": "Lab 13: How to SSH into a Server from Windows Using PuTTY | Security Policy, Threats & Risk Manage. YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Powershell tutorial for Linux users – (1) getting around the filesystem",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ySUtzY1lnUUp5TWM4UUhYT2V1WS1fdzZYVmFIZzBKZEhfYkJMQnZORnZsOS1OdmxFd1JaTU9uUEJud05kUTJoNFJCelpZTXBFdTlzRGdB?oc=5",
    "date": "2025-12-01T16:15:01+00:00",
    "summary": "Powershell tutorial for Linux users – (1) getting around the filesystem YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "PowerShell Course | Windows PowerShell Training | PowerShell For Beginners | MindMajix",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vb0F4WHg4a3BNWWRtdEJMTlI5NzU2Z3hscUNKcHdNVHBjNHE2TkxoYlZrVjlCaFI0U3lCNWd2SzlWUlpXUlFHQ1A1MzhMSmRlNUZwUEFn?oc=5",
+   "date": "2025-11-27T12:01:30+00:00",
+   "summary": "PowerShell Course | Windows PowerShell Training | PowerShell For Beginners | MindMajix YouTube",
    "tech": "windows",
    "sourceId": "yt",
    "source": "YouTube",
@@ -902,6 +661,86 @@
    "lang": "en"
   },
   {
+   "title": "PowerShell and .NET: Using .NET Framework Classes | Advanced Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kYVMtbjg2YzNza2o1aXdSQXpSZmV2czRna3gtLTI0OWUzYlhLOThDWl8xblluZzM3emVZTC04dENkaXF2YTd6bzQ1YmRjVlp5d3FwZW9B?oc=5",
+   "date": "2025-10-28T17:49:32+00:00",
+   "summary": "PowerShell and .NET: Using .NET Framework Classes | Advanced Tutorial YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "PowerShell Class Constructors Tutorial - Initialize Objects Like a Pro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nbk5GM0dHTTRTTHJJS2U3MTdTVDdDTkw3a3l2MmN0aDMteHl2Qk53VU9iYnhXbDVWMTI5Tm1YWlVJeklNRWgzRExDVFlMNWw4UnJPQXpB?oc=5",
+   "date": "2025-10-28T17:49:22+00:00",
+   "summary": "PowerShell Class Constructors Tutorial - Initialize Objects Like a Pro YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "PowerShell Class Inheritance Tutorial - Extending Classes for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMLTBhVVBOZGtLX0dqRG4xZ1locnh1MTRQTGNzU09mZUFCVXFwVEZfVUxsaDNhY1l6dmpHdUxXZEViM3dKb2kzaWdSeWMyb2FvUmpKSjVB?oc=5",
+   "date": "2025-10-28T17:48:16+00:00",
+   "summary": "PowerShell Class Inheritance Tutorial - Extending Classes for Beginners YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "PowerShell Classes Tutorial: Object-Oriented Programming for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdkZJcmowT2ljUHNmWkttZE00TkFHUmo2MTU1QUM3R3RZYmU2NnVMR0xUdGF6cE5xRlppbW1VR05tMm00TmlubmZ5OTZtaXRKMDdHTHd3?oc=5",
+   "date": "2025-10-28T17:47:45+00:00",
+   "summary": "PowerShell Classes Tutorial: Object-Oriented Programming for Beginners YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "PowerShell Classes: Properties and Methods Explained | Advanced Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42UWJmSFdGLUVLZlpzRk9GdlhLVzhFdTBPWlJEd0c3bGZEOUlkamp2alBmRGJnanphYUZ1T3ZTTUZjRkZVVU1DZjVaLWxyLWpUdUNpT1NB?oc=5",
+   "date": "2025-10-28T17:45:27+00:00",
+   "summary": "PowerShell Classes: Properties and Methods Explained | Advanced Tutorial YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Exchange Online PowerShell Tutorial: Email Management for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SQkhJMjlZWDBXdnY2VEVUMnVzeW5ubnlab3YxQ0VaOWtYU3ppemhkcHNzQnpmdjVsVms4NUN3ZDVmUEhKS1g5TUw4bXJyZHRZZmIyLU5R?oc=5",
+   "date": "2025-10-25T19:20:46+00:00",
+   "summary": "Exchange Online PowerShell Tutorial: Email Management for Beginners YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Get-CimInstance: Modern WMI Queries in PowerShell Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jVTBBZVMwLXdxTmpXWldJUk5saXVBYjVlRzZJelJQbF9Sa1RCeVdicm04alZPekE0MXBUV0JoSzRSWGRDUTgzR0p5eEE4YlA3WFU1dkln?oc=5",
+   "date": "2025-10-25T19:06:39+00:00",
+   "summary": "Get-CimInstance: Modern WMI Queries in PowerShell Tutorial for Beginners YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Get-Content in PowerShell: Read File Contents Like a Pro | PowerShell Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwbzNrczZPajMyU3c0RHViMGZZWjNwbl8wNkFKZm91c1VOUjJ6bFN3WmtZZGhjc2psbHlZTlRuZlZTYzBXNXBUcUx4bjNjWG1MTW9Qbkxn?oc=5",
+   "date": "2025-10-25T18:25:34+00:00",
+   "summary": "Get-Content in PowerShell: Read File Contents Like a Pro | PowerShell Tutorial for Beginners YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "إصلاح جميع مشاكل متجر مايكروسوفت على Windows 10 و 11 | إعادة تعيين وتثبيت المتجر من جديد (حل نهائي)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jcy1DRWtpUWx1a0FIQU9RVUhZMjZjemFSb1NkelJYa193TzFuRTIyUjNQbWZUYzJIMmVyMTE5YWhkcUJZQmRKdVlCRGNKb2RmalM2QnZ3?oc=5",
    "date": "2025-10-23T12:49:46+00:00",
@@ -922,14 +761,14 @@
    "lang": "ar"
   },
   {
-   "title": "ثغرة عالية في محرك \"Unity\" تكشف الطريق أمام تنفيذ برمجيات خبيثة على ويندوز وأندرويد",
-   "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQN0hMVjBIbFNGZ3VOZTNuOXBpSEIxOC1hVUtNOXRPdF9Ea3d4ZlduQTRnb0RMSWdmTlVFbUwzUm5nZVh1S1hjcnVROWlLYVJJVHBlNmgzZFgzbVpvUHV6MzFaTmtBamVFRDR5SEhJMG5tVThXLS0tbnI5bXg5M05QX3laNGVIVXhqZ3ZUeGhuN3M4R3lUeGZBN2RNUDdQamZLbVI0NjdheFoteGpValctQzRrd2xGcHhOUFdRSG5vUktJWml5OG1LdVZCN2p2V3BYQWNYalFaRUtDdDBLeXVsemJnR3NWRnVGSWxWbkZQd19lLXRqRWp1VU5jSjhkdWxaR1hBdThOcFlzdGdVcEh1ZGx4dXgtbFQzVW9qQ0pvVEVVOS1yVHR2anVfaWVXMngxTi1KY0N2VHRUaG5hVnhod2dsOEoxWDg5emE4TzZuOUdzcDVwdkUzOGV3UkJjQmd0SnRCUVBfSl9JNW51c0Ric3BvRG41cGpxZXVzaS1BcUp2dWxYaUh4N1o5cDFrMXBpLW4yM0dBYmhZMFBwUDhZc3lzMFQ4MlBUNFhVdDFndFg5c3EyM2V6YkotdzFqUi1lTmZ5ZGVrUlE2Q0lDTmpLRzhOTnlKZXR6WnNxWHgyUE85WUc3UVFUcWxGMGVZbkdOTkJWY2Y4WEJUdmRPTHJGb2J0dVczMHlRbTVsbDNhUHlxQVZSODlMX3c0NEFZV3J5Qnc4cTdocmhydmYyME45QUJnUFNhT0tPVjI4M3RxN1ZsNDVwWDFZemp3YndjWW95eXNCX3piVXVQblRMZ2xXeEhUS19yY3Zoa2sxOFA5YWVUbzhNYUYwSlVhaEZQeFZCdV95Uks0UW5ka1HSAZAFQVVfeXFMUGdQWnhrSlVuRUhrVGhpWVozdkV2Mk1XRXFTcnlKR3g3TThoZnQ5ZVB0SlhnLVlUYlpLbEYwMmpBNDlvaFpfM1UwbS13MHg1Ul9EcGpsR3JfaE9MV01uUVdTanJXekJvdXhranBwVVJZejdGbm9sNDEzd3llYVlraHFwUHdNQlkyeDRpeG1IQjFMODh5MXV2Z2pXNkp3MGJVOERZcENOMG5zQ3k0S3Z4QUtUQk1kLWxuVVROdzF1SmFGSmdjRmNHeFQ4MzZSWUYxUzFTMVp3ZWZ5WEdwc2otS2FaS3dXSkZYRkJqbjVTNnpybE05azJtMDJveTNoVjRPZFBCdU1kTEo0QXBUSHFPQWdnTkZqTHhtcGk5eTRkMHY0SS0wQmg4WG5HMHhNS1Znd1ZkOF80NTFjZ1VQMDlSLXBaUHlGQkpIazlvc3BjNWNIVjIxNmhPbllrUkpiMHhvcGlfTzVVREZuYlRIRGM5VEx6LTFOUW9aR0lSd0J2OGhjLW44bmxhZEd0cGZEcUZpRGY1bjJEUTNNUzFkelNRbTd6eFJVY1NBR1I4TmZxaW5EMDl0WHh1azJNdHFlVjNkRXF4cFJUOEJQbzFCSXZTV0djaFhNOG9yS0hCSUpKMEl3YlpUamQ4T1pDNnZPSGlUWndDcW9JUFdJUkw0SnBCSTM2WnVvcFBuYndHV29aOUV0S25JRllJOENxQ0FQdWg2bGRCRVBoYjhBU1V1anBkQlV0VUxjRU9EcG1TX0RwLTE5ZUNoSEYzM0huZ0V6d093MGJDaUtjQ3B2MFZEbER0WHRHajNFTHgyMk0tWHlVeXA5VDIyNnJ0MWluVTBBODR0SUo3M0tkVGJlM3VvUGQ3WWs?oc=5",
-   "date": "2025-10-08T07:00:00+00:00",
-   "summary": "ثغرة عالية في محرك \"Unity\" تكشف الطريق أمام تنفيذ برمجيات خبيثة على ويندوز وأندرويد العربية",
+   "title": "Loop Like a Pro! PowerShell Arrays & foreach Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOLWR4NFVPTFByY0h5S2hHcmE2OVdZdi1QUzZxZ0QwRmJWanB1dXJ4eVJobGE2RXc2WnBRQ0tTYm1WU2FhMXBINDRvUTFiZE15OEM2LUtR?oc=5",
+   "date": "2025-10-12T17:45:15+00:00",
+   "summary": "Loop Like a Pro! PowerShell Arrays & foreach Tutorial for Beginners YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "العربية",
-   "lang": "ar"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "🚀 حل كل مشاكل تسطيب Github Copilot CLI على Windows خطوة بخطوة | دعم Sonnet4 و GPT-5",
@@ -962,6 +801,16 @@
    "lang": "en"
   },
   {
+   "title": "Getting started with PnP PowerShell | Install PnP PowerShell for SharePoint Online",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtNjM0cmFvMG5TTVpUZnBJQ2hjR3NJOUlscFplV184UUFrYmFsTnJZWlJuRm00bzdtT181R1R1cmRIRmt5TkJJc2E5dzV2X1JMRkhMc1lR?oc=5",
+   "date": "2025-07-11T13:39:47+00:00",
+   "summary": "Getting started with PnP PowerShell | Install PnP PowerShell for SharePoint Online YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Build a PowerShell Self-Service Portal for IT Support // Scripting Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DeS1yamNDV0NBbGdHM3dCaFBYa2l0OXktVy1JUGhYdGkwVGhqOTVCaWdXcjltMU5qMGFIR2pZa2puUFdjZVRQT01veTFKM3AtaFNvQUJR?oc=5",
    "date": "2025-07-07T17:06:33+00:00",
@@ -979,16 +828,6 @@
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة تثبيت متجر جوجل بلاى على ويندوز 11: تجربة أندرويد كاملة على جهازك الشخصى",
-   "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxONGlaSmdZMlhDbW1TWHFUSlJNMExsYW5Kb01kREdLLUNEa3JCMkNUZnA2cFUtOWh2ZFlnNl9OVWV0Tm9EZ0d5T21hTlIyVFRDMTlOZERnYXk5a0c3SmxuVzRRNWdybW5XVE1TTFlTVTFkS0dlWGktNWltTmktUlNTTjJ0enVFWVZXc2pONlpGR001ei1Od0NPLXN2OXMxQkRRWFdVb1NJb1lZYUZVd09jc0g1WmRYekh0SW1xY09ZQWY1cDRTeWVrRUg1ZzQ5V3JLTW5uWW1PQ3V0eThEektNSjduWnRrU1RnLXpfRmE5a0lSQ0ZGY3lxZDhfUE9jV3o0dGpUV2p6VHlxV1JCWnJGdWlVQmtJdzRhUjNKdU9kTTdxeWViTWpaYVZxSWNsMUpYNlY3OHRTWE5ra3JPNTBuaTJqR3F3RDNZVTBSdkxEVHpOakhwaWQ5RTI3bnJIaFNJUG05ejRLZ3A1UFROdDJkQVZzN29zRVZ3eVA5QkhEd0IwZjg3NFA2RGRGUHVBT2hFWWpmaTA4eHc4TVJiS25lMnp2V3pZVlluRDNJQUl6OHBIMEFYcnFWOVNWbEFmTWk10gG7A0FVX3lxTFBMRDZpWFpUaUpmclNpcGZkUFlpdzB6QWRMa3owVVNreXplRnZKR2RyUFRRQnNzbFpUQ0dTdmlvRlpQdmRGeWtNaGhVaXp3TUtRb3pVNnc5cU9EbV9FaWZmcnQ5dExwUjgzUFR2SFhRV0FUT0hWdDdsNjBDVWllakltTWJYWmJnSVR1cERUTkxLRl9QcHdTaGNVS01xZ3R5aGJ2a003a0VqUU5IN21RdDVrQWVHdHEyVFJRM216eGd6MDIzX1Q0OWlIeEpISHVVUWtrVnZzTEpDRFRvTU5sOTVGSEdnSW1xNVc3MWlYLVR3LWpyS1ZrWEZxb0NNSjNvdThHSmwzMVhBLVB1NGdnMTdBOHJjUUdRbFpZQmdxY2FXSVhYSTRBWjI0VS1EMTlsM2hYLVRnQXluU2xQR0xKMlpGbE5rczEyem14OEFxOWtiNk9UTkw2dTJ2MnRMX084aTNDVVozV0h5VjM1MWFwa0Y2NHpsSHQwb2k2MXVqTVNNem41dnh6VldFcVczUm9qaU5QU0lFTld1X0hjY2tLMUJKcUlRenM0NFBJN2ZaQkxKVm1FaXpVTWdmdEhr?oc=5",
-   "date": "2025-06-28T07:00:00+00:00",
-   "summary": "طريقة تثبيت متجر جوجل بلاى على ويندوز 11: تجربة أندرويد كاملة على جهازك الشخصى اليوم السابع",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
    "lang": "ar"
   },
   {
@@ -1010,6 +849,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Azure PowerShell Tutorial for Beginners | Top Skill for Cloud Jobs 2025 | SNIT Training Institute",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40by1GQXR6cHVna3hTRElIM2lPamxURm5Ka2kxRWRhQmJObV9rdmlGVU1sUnVmTDVnT2h2eUxyeU0xMUpWSTVROVdWU1Bhb3p0TGx6SDNR?oc=5",
+   "date": "2025-05-26T09:43:30+00:00",
+   "summary": "Azure PowerShell Tutorial for Beginners | Top Skill for Cloud Jobs 2025 | SNIT Training Institute YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Windows Service Monitoring with PowerShell | Self-Healing IT Tutorial",
@@ -1052,20 +901,20 @@
    "lang": "ar"
   },
   {
-   "title": "Get Started FAST: VS Code, Azure, PowerShell in ONE Tutorial!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10dFJiZTZuTXBzeTFSOUFCak10SW0wQ0FnRlYtSzdhOGExR0hlNTByRl9takhsVFkxaThTT0FYSUI2MWp4MWFNbUdOZW1ZVTVtbFRwNFVR?oc=5",
-   "date": "2025-03-19T21:07:15+00:00",
-   "summary": "Get Started FAST: VS Code, Azure, PowerShell in ONE Tutorial! YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تسريع ويندوز 11 🚀 | اكتشف 5 خطوات لتحسين الأداء وحل مشاكل التحديثات 🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WT24wd0pHNUl0dEJZNlA5RU1xSVhGdFIwOFRtd0RBZmlhTVJ1S2tvSEptWnRRTjhvQUxIemlXdTFhM284S3hyc3ZvMDBQbGJGUjZUbzRR?oc=5",
    "date": "2025-03-18T19:17:00+00:00",
    "summary": "تسريع ويندوز 11 🚀 | اكتشف 5 خطوات لتحسين الأداء وحل مشاكل التحديثات 🔥 YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "وداعًا للدعم 📢 استخدم ويندوز بحرية بعد 2026 😍 اكتشف الطريقة السحرية في استخدام ويندوز بأمان وسلاسة🛡️",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YldYclBpN2pJU0FoQ2tHQTZKVWpHSUFGT3F1a1QycVpfRWpydUJrcTNEd05HVnh4RWpkczlhbzdZUV9CVHpNaHNOcGx0V0NMbGVMeTZB?oc=5",
+   "date": "2025-03-08T13:47:31+00:00",
+   "summary": "وداعًا للدعم 📢 استخدم ويندوز بحرية بعد 2026 😍 اكتشف الطريقة السحرية في استخدام ويندوز بأمان وسلاسة🛡️ YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1082,20 +931,20 @@
    "lang": "ar"
   },
   {
-   "title": "How I would learn PowerShell in 2025",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJeVU3STEtVGxqZVQxUDBRS2ZLRU5LVjNENVdnNkIzbzFScG5ZcVNPbjNHbXpUaTFTX2ZlVnROZDI4Q0ZqY1BLNWZaVDh0QnFnVHZOZjh3?oc=5",
-   "date": "2025-02-24T16:01:08+00:00",
-   "summary": "How I would learn PowerShell in 2025 YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "التعامل مع الـ Logging في الويندوز | دورة Windows for Cybersecurity Professionals",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOSW9VWnlvUXc1UDlGQjZ3Z3UzelQ5amFWbmU0VlBPalpsREVJbGpJS2RNd05NS0dXMmUyM1locFBXZTRKbDlxd3BsZHVDNFkzQzRhYkVB?oc=5",
    "date": "2025-02-14T19:30:05+00:00",
    "summary": "التعامل مع الـ Logging في الويندوز | دورة Windows for Cybersecurity Professionals YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تخطي باسورد ويندوز 11 بدون فورمات وبدون برامج ✅",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14d1NHS3RUWDNxZ2Y5MlJpX3FuWnhhMnFaU2U2ellIWGhlaHgwLWgyS0psMmR3M3ZaM0FQemlDMFBRM2RweFo5NTB2RmVMcGdhSldkb213?oc=5",
+   "date": "2025-01-11T19:56:32+00:00",
+   "summary": "تخطي باسورد ويندوز 11 بدون فورمات وبدون برامج ✅ YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1132,24 +981,14 @@
    "lang": "ar"
   },
   {
-   "title": "Windows PowerShell Use Cases in 1 Hour",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrVjNKWXlvZlBrUkY4M2J6ZURpZUlYeE53OHVBcVo5RlNIZXFNUkpZN0hsMjJhX0o5emhfTjA1enBZTG53clF4czg3Y1pORFhoNWc0aHBR?oc=5",
-   "date": "2024-12-07T05:24:40+00:00",
-   "summary": "Windows PowerShell Use Cases in 1 Hour YouTube",
+   "title": "أسرار وحيل خفية في ويندوز 10 و 11 ستغير تجربتك بالكامل | مميزات سرية لا يعرفها أحد!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UjRYMEd2NVU5TDlrWS1FRFJTcVI4RFlUdFAzNlZXejFTSjIyS0ZpY0I4MjRUazNNQzA5aVYxc2Q4QUZmNGVIdWJjODJFazVRTVB4dllB?oc=5",
+   "date": "2024-12-03T15:42:56+00:00",
+   "summary": "أسرار وحيل خفية في ويندوز 10 و 11 ستغير تجربتك بالكامل | مميزات سرية لا يعرفها أحد! YouTube",
    "tech": "windows",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Powershell Basics for IT and Cybersecurity | TryHackMe Walkthrough",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xcmZfR2l0V21QaS1aLUNKYWdFWkdsdGtiWHF0cUZwQTdHNnllUnhjTi05aDQwZVhiWE5uMHdMd2MwS3N3bU41ZzJVWDVKYzhsLU1Hdm93?oc=5",
-   "date": "2024-11-30T11:13:12+00:00",
-   "summary": "Powershell Basics for IT and Cybersecurity | TryHackMe Walkthrough YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "طريقة تسريع ويندوز عبر 10Debloater",
@@ -1162,16 +1001,6 @@
    "lang": "ar"
   },
   {
-   "title": "PowerShell for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10a2ZVclZQeVZVb0RFdEJybGlNNGtvekxyM25LamlBVkhLNFlzTHlQemtiWElPUkFpbXI4SngyaDR4MEZILXc1cVpEVGhvVTdhRXdtS1B3?oc=5",
-   "date": "2024-11-27T04:10:12+00:00",
-   "summary": "PowerShell for Beginners YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "عمل نسخة ويندوز 10 22H2 مخففة تدعم جميع الاجهزة وسريعة جدا في الالعاب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HLWR0dUJqTnlOQ2FIOHdSNGl3TFIzMHB1TWJUWDUwb2pRU0xsaWJpNXVEWk5WUzVmOHFyVWR0cDVtc0ozbHIxMk43SzFJMmsxRzZyQWNB?oc=5",
    "date": "2024-11-24T15:34:37+00:00",
@@ -1182,14 +1011,14 @@
    "lang": "ar"
   },
   {
-   "title": "How To Use PowerShell and WPF To Create Advanced GUIs",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RVDlHNS1qWXVKSWtqOFhqTmtKbGJQRURvQ3lld3pnUWw1TzN2U2NNcHF1NEdCWUNpZndiNl9wVXVmZk9ETm1FZVJxT3Q0OTRtcjRaZHRB?oc=5",
-   "date": "2024-11-21T23:06:15+00:00",
-   "summary": "How To Use PowerShell and WPF To Create Advanced GUIs YouTube",
+   "title": "كل اصدارات ويندوز من سنة 1985 الى سنة 2025",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwZjVPdFVKV3JjdmRYQ3lMWWdMc1A4VXhuR1NoektUZWV2RDNxZ0MzN3plNnhfWUJOSURpclJyN1RyRGxod2tEQmRsclI2b0xscmhZRU13?oc=5",
+   "date": "2024-11-22T10:30:05+00:00",
+   "summary": "كل اصدارات ويندوز من سنة 1985 الى سنة 2025 YouTube",
    "tech": "windows",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "اوامر مهمة في powershell",
@@ -1210,16 +1039,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Debloat Windows 11: The Ultimate Guide",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQV09tLUpGNTl4UVQxV0MwNWUwRWVDeFdkQjNQbGlyQnd1c1pOT09qdUhZTFZ4TGw2eDhqcjcydFA1b0VOQVlIS0dXQXNSVWxieDVmRlJR?oc=5",
-   "date": "2024-10-26T18:30:27+00:00",
-   "summary": "Debloat Windows 11: The Ultimate Guide YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "طريقة إزالة اللغات المتعددة من الكيبورد | الحل النهائي لحذف اللغات الزائدة في الويندوز بسهولة!",
@@ -1252,50 +1071,20 @@
    "lang": "ar"
   },
   {
-   "title": "Update PowerShell to the Latest Version: Fast and Simple Guide!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEaVJiVDhmaEVPcnhFOGNfdTJEVTc4VXZzLXpGclAzU1FNZnVuZE93bE1EYlAxYmhjY1l3NC1xZDc3bGVKdzNYM1FBay11WGhrLUNJM3Zn?oc=5",
-   "date": "2024-10-07T15:18:02+00:00",
-   "summary": "Update PowerShell to the Latest Version: Fast and Simple Guide! YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Tutorial | Using Parentheses, Brackets, and Braces",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Qa1FQcGxQYU9PaENVUV96YUpYQm5hNUxSVXhjNVdaMFRsdHNKZS1IdmpIS04yZC1LS0h4YXI1S2pmSVYxQ0ZrNm1KNnQ2V0ZmVHBkQnZB?oc=5",
-   "date": "2024-10-03T16:00:47+00:00",
-   "summary": "PowerShell Tutorial | Using Parentheses, Brackets, and Braces YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "JackedProgrammer - Books and tips to learn PowerShell",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JcGI4Zm5XeG1uaERra1h4cW1QX3ZUWmd3anpmSDU5Ykpwc0ZwYktYaW54VGI1d2pqQWRxd2lRaEtWRXVzdWt4VTlZMGlISUdjdmJUS1Nn?oc=5",
-   "date": "2024-09-09T15:00:01+00:00",
-   "summary": "JackedProgrammer - Books and tips to learn PowerShell YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to powershell #windows #powershellcommands #programming #windowscommandline #microsoft",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45T1dfd0tNcDR2c1c1VnJyOHFueHE2QV9MNEw2Z3d5cEdpUUJVMEhxYS1wMXZsZ0djci0tUUlYeWhlZ0t0TURReUNsdFpHejdzQldzTA?oc=5",
-   "date": "2024-09-03T22:01:00+00:00",
-   "summary": "Introduction to powershell #windows #powershellcommands #programming #windowscommandline #microsoft YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "طريقة تحديث اداةPowerShell 7 4 5 win x64 من الاصدار5 4 الي 7 الاخير",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Y1VvZk5ZRmFSVURWdEx6YTRKcmxmUFZqbVF2Y1U0QWFWOWYzU0ppTlR6TllHRUhZTENxeGZ6TkhpVy1CSkVrODZ2bEVwMjRnQ0V5WlBB?oc=5",
    "date": "2024-09-02T15:00:07+00:00",
    "summary": "طريقة تحديث اداةPowerShell 7 4 5 win x64 من الاصدار5 4 الي 7 الاخير YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية تثبيت SQLplus على نظام التشغيل ويندوز - Download Oracle Database Express on windows",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0REZLWEV2cTlHak92VWc5eWQwelh6TWFyWG5Uc1ViVWxLTUk1Qmx4dHZ4bnMydUtqRGhjZnFsMDZNRHlkMVlKa1cxX0FrR1d4eUZTVS13?oc=5",
+   "date": "2024-08-31T10:53:55+00:00",
+   "summary": "كيفية تثبيت SQLplus على نظام التشغيل ويندوز - Download Oracle Database Express on windows YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1332,16 +1121,6 @@
    "lang": "ar"
   },
   {
-   "title": "Managing Windows Server 2022 with Powershell",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xS3lWcjd6alNxYTFPemhKTElBT2ctOW5HbTJpSXZfM2hVNnJoZFZQOXcwUTNyWElSaTFPcjFVMzBUUUZWeVNTZThzeml5SHN2N1RfZ2dR?oc=5",
-   "date": "2024-08-22T20:00:21+00:00",
-   "summary": "Managing Windows Server 2022 with Powershell YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "28 خدمة داخل الويندوز يستهلكوا كتيييير من المعالج || اقفلهم حالآ",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sVlNtY3FHV1pTLWhmWkxlM05rOGlaaFZpNU1qaGhPWk9IeWphQ1ZFbzNaR3BpNUJxNGJrcXJ4ZldSRFJYQlF0WlpwUW40UmpKV2NZX2hn?oc=5",
    "date": "2024-08-14T14:54:34+00:00",
@@ -1352,14 +1131,44 @@
    "lang": "ar"
   },
   {
-   "title": "Ultimate PowerShell Guide: Active Directory User Management Made Easy",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43cjJVSzcwMUhGaUZUcVYxYUNWNks4YnI3SnlmMG9HcFMtX2M2Z1h2cHBWNFFIVkdENXkzOUNFamhhcXhwTER1RGdzUHp2NmJYclVSaVl3?oc=5",
-   "date": "2024-08-07T18:53:04+00:00",
-   "summary": "Ultimate PowerShell Guide: Active Directory User Management Made Easy YouTube",
+   "title": "حذف البرامج غير الضرورية والتي تأتي مع ويندوز 11 || Win11Debloat",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQaW9OQU95UUlFQ0FHMGVONUtZRTJoVWw1VVBtY0ltc01wWDNkR3I0c2d2Slc3RTQtR3RPSl9vT0ZUcnBqRUNzTmlPQjE2TGJaWXhNR1B3?oc=5",
+   "date": "2024-07-06T21:00:08+00:00",
+   "summary": "حذف البرامج غير الضرورية والتي تأتي مع ويندوز 11 || Win11Debloat YouTube",
    "tech": "windows",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
+  },
+  {
+   "title": "دعم الاحرف العربية بداخل terminal الويندوز #cmd #terminal #windows",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdUlZcl9pS3prNENuQTJqX3doMWRaQnB5WUtjd0tGVzRyMXMwbnRHdHUxUGVrak5WWUY4UDZVVy05Qm5FUExKVFZhSUVHMmZSOE9ZRmxB?oc=5",
+   "date": "2024-06-18T15:38:06+00:00",
+   "summary": "دعم الاحرف العربية بداخل terminal الويندوز #cmd #terminal #windows YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اضافه حساب مستخدم جديد باستخدام أوامرCMD على ويندوز وحذفه|| ADD New User Account Using Command CMD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSkJkVk5FMnByYVg3VkYxMzVZeGhwcUdfMndjc3IwZW9EZGEwaEh5bGpEeVpma1NtV0hYeVUwMFlLVVhUSVRwVjNmMHpmUGl0ZmVoWEpR?oc=5",
+   "date": "2024-06-01T00:20:06+00:00",
+   "summary": "اضافه حساب مستخدم جديد باستخدام أوامرCMD على ويندوز وحذفه|| ADD New User Account Using Command CMD YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اتمتة وتنظيم الكمبيوتر بملفات الباتش Batch Files والأمر winget لتنصيب البرامج على ويندوز الجديد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jX2x3MWlOZ1E3bzJEX1cxb2JkS0pFZmRuSjlCd09hckFPd1d6XzJNNWFhT1gtVFladDJ3M0VncWVUZG85cmpiZF8tX1EzUmhEc0xwS0tn?oc=5",
+   "date": "2024-05-31T10:47:26+00:00",
+   "summary": "اتمتة وتنظيم الكمبيوتر بملفات الباتش Batch Files والأمر winget لتنصيب البرامج على ويندوز الجديد YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "تحويل ويندوز 8/10/11 لنفس ثيم وشكل ويندوز 7 الشهير الرهيب بضغطة واحدة2024",
@@ -1382,16 +1191,6 @@
    "lang": "ar"
   },
   {
-   "title": "Mẹo cập nhật toàn bộ ứng dụng trên máy tính Windows bằng CMD",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2xKZzZGWEJxa1RUeWp5Nm9HeVpXc1dSU1B5eENQYUR3N2RwQlpYT3VLUUp2MDhBVWVSeEhqRUU2eTM4QVhEWnloNDh4NzFkc2VGODBvcGVNeExCUndxM0dzS2pQSENDOGlYeUtMQndUWld1aXdQYzFCeGlPX2ZQbTFLTlBsZXFRNXRRYVpVUQ?oc=5",
-   "date": "2024-04-20T07:00:00+00:00",
-   "summary": "Mẹo cập nhật toàn bộ ứng dụng trên máy tính Windows bằng CMD Vietnam.vn",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "Vietnam.vn",
-   "lang": "en"
-  },
-  {
    "title": "شرح طريقة عمل لقطة شاشة فى ويندوز 11 بأستخدام Snipping tool",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOVVoxTHhFM1E3S291VnprTGo0emlFc1k5bldEbHVocWNJZWZ1eU9CcFpqRk1PSXRpUUNDclQ2TTFYcVpNeU5TaDhDUXNiNExWSC1MSERR?oc=5",
    "date": "2024-03-28T21:51:37+00:00",
@@ -1412,13 +1211,33 @@
    "lang": "ar"
   },
   {
-   "title": "تحميل تعريفات سامسونج للويندوز 2025 Samsung USB Drivers من الموقع الرسمي",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WZ3lsMXNSeHEyd0M2OE1wYlZRUzZJdVBuM3NNekFwVl85Vmh1X1lYQ21DRHlSaE5VNWNIeWpHNXN0eWdSdTNHcERSSnFLQzlVX0lsRWdBZmxBUkUzS3JHMGFIVngtV3NVM0V3?oc=5",
-   "date": "2024-01-19T08:00:00+00:00",
-   "summary": "تحميل تعريفات سامسونج للويندوز 2025 Samsung USB Drivers من الموقع الرسمي mohamedovic.com",
+   "title": "تجميعة أوامر نظام التشغيل Windows CMD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OZnY0QnBtYzZ1TzVrSUt5LVRiUDMtZGlaT3NpZUhiM0t3Q0VEM0lvVVVtaklCSnVMeGxpNHhzYTA0dmV2TFNCRHJDZWxJemQ4bDJtNU53?oc=5",
+   "date": "2024-01-20T11:04:38+00:00",
+   "summary": "تجميعة أوامر نظام التشغيل Windows CMD YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "mohamedovic.com",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تغيير DNS ومعرفة ping في ويندوز: خطوة بخطوة وبرنامج سهل الإستخدام",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Eci1oRmYyUkpnVkozbDBlaFFuc0VqQUlKeDZ4SEthOGxZYWtLanh5Z29nY3ozeDlzaDJ1MEZsam9tNjdRQjlReXNuZUtZbl94SmlpZFV3?oc=5",
+   "date": "2024-01-01T16:56:32+00:00",
+   "summary": "تغيير DNS ومعرفة ping في ويندوز: خطوة بخطوة وبرنامج سهل الإستخدام YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تصطيب و تشغيل بورتابل كل الانظمة من فلاشة واحدة كالي لينكس وويندوز و Kali لينكس واندرويد وهايرنز USB",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5WURYUEpoMWszNkpJVTdGUmUxSHloaEt6aHkxYnV6d0RBRE9FVk5Uand4eXZkMHFTYXRrZGRkU3dzTWxBekpxS2dpcFhsRE56V3lhLTR3?oc=5",
+   "date": "2023-12-18T18:00:11+00:00",
+   "summary": "تصطيب و تشغيل بورتابل كل الانظمة من فلاشة واحدة كالي لينكس وويندوز و Kali لينكس واندرويد وهايرنز USB YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1436,6 +1255,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2X3FBRU5yVDZvR29BVWVxM2ZuMjM3R3RKQU4tX2E0U3M2Wmc3Nk1PT2ozNWpjbG5NNWVkczdmTl80ZGkyWVlGcm5PNjBzVjJBSnl6WENB?oc=5",
    "date": "2023-11-17T20:06:03+00:00",
    "summary": "[6] Windows Admin Center Inside The Azure Portal |شرح YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كسر كلمة السر ويندوز 10/11 CMD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZDg4SE1iaTc2U2VFLU5udmtKcnhIUzJTb3RNZFd2aElhRjFhMFU0OVZzTlAxOG9HRlJDUnlpMWw0WUpJOUZ1LTRGMEFWa0UwZzdfczRn?oc=5",
+   "date": "2023-11-12T16:00:32+00:00",
+   "summary": "كسر كلمة السر ويندوز 10/11 CMD YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1512,16 +1341,6 @@
    "lang": "ar"
   },
   {
-   "title": "كيفية تفعيل ويندوز 10 بأوامر CMD",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMF9aNjZXR2pBVFNPMXI5ZzNGQ0YxYk04VE5SLWlrUzR5dDg5OVlpd0tyc3V0UEd4NU9vT0xsTGlGb1NmWXpjNHVLUUFWRXQwbW5DNHBRZU1QempUUjNJbWQtSV9KSE9FV0E?oc=5",
-   "date": "2023-08-25T10:01:22+00:00",
-   "summary": "كيفية تفعيل ويندوز 10 بأوامر CMD windowsnoticias.com",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "windowsnoticias.com",
-   "lang": "ar"
-  },
-  {
    "title": "مراقبة أوامر الباور شيل على انظمة ويندوز بأستخدام سيكيورتى اونيون | Monitor Windows Power Shell",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92NUszWFBIdG9ETjhXemdLQWFaaVZ2V2JaSjc2MGhBNFhIdDRuNDQyelVlOWZUeEZYSjFVaXU4WWM4dVRQWkdPSDAyMWthRElEYW9EY2Jn?oc=5",
    "date": "2023-08-18T11:00:06+00:00",
@@ -1542,20 +1361,30 @@
    "lang": "ar"
   },
   {
-   "title": "كيفية إزالة مُتصفح Microsoft Edge من ويندوز 10 أو ويندوز 11",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZanVubE02dk4xdjMzYkY2UDQzcktzNDB1LWZ2MG1PNnFKMF9TRm1aYjBqNTZtSkZ3UEprT0YxSmtaV213SXQ3Z1J2aHNKalhMNVpfd2RkZVRfT0RZYnlDVzBlWDN1aTJFT1p3Xw?oc=5",
-   "date": "2023-08-08T16:52:21+00:00",
-   "summary": "كيفية إزالة مُتصفح Microsoft Edge من ويندوز 10 أو ويندوز 11 Arabhardware",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "Arabhardware",
-   "lang": "ar"
-  },
-  {
    "title": "Setup Wazuh HIDS Server | نقل ومراقبة الاحداث الامنية على انظمة ويندوز بأستخدام سيكيورتى اونيون",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSjlTMVg3M1Y5QjBFcHUzTjgtM2pKUDk4UDdiUjVka0NaTzZ1SzNTTmh4WWRZbFpRSnIwRURfam1FclM4TlNqNV9xQnVCdmxNejYzUmt3?oc=5",
    "date": "2023-08-06T18:03:56+00:00",
    "summary": "Setup Wazuh HIDS Server | نقل ومراقبة الاحداث الامنية على انظمة ويندوز بأستخدام سيكيورتى اونيون YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "أقوى واهم اوامر ال cmd _ الجزء الثاني",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03TUd0T0JMNm0zSHpzOG9paTBaWWVHbVJlTUxrUjE1TnlPUjdTVFRydmlJQmJHYXBBQTFoN2c1VlhQcFRNU2hBUFNrT3c4bURYS1dGSy1B?oc=5",
+   "date": "2023-07-21T20:08:40+00:00",
+   "summary": "أقوى واهم اوامر ال cmd _ الجزء الثاني YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ما هو ملف Hosts؟ وكيف يمكننا التعديل عليه في ويندوز لحجب المواقع التي لا تريد لجهازك أن يدخل إليها.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xNEFJOVAtRXA3QlItUUhNZUlRakVXcWw4TTEzSjRmWHRDQkxOWk9hbVFmNEUtV3Q2N1lHOGNpc1phU3BESWVRdVd3Wm5YUk82aWYxRnZn?oc=5",
+   "date": "2023-07-16T20:00:02+00:00",
+   "summary": "ما هو ملف Hosts؟ وكيف يمكننا التعديل عليه في ويندوز لحجب المواقع التي لا تريد لجهازك أن يدخل إليها. YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1572,10 +1401,80 @@
    "lang": "ar"
   },
   {
+   "title": "سطر الأوامر في ويندوز CMD : IPCONFIG",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tRl9FMV93azRBY1dRNmtYeVRJUERlU19YUHZCQnBhZ19sZF9EbXNWNkdiRC1BY0FxNHMzdjVqVmdWTExDSmRBWW1ZNnFBREpiOERZaXJR?oc=5",
+   "date": "2023-07-11T14:15:15+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : IPCONFIG YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "سطر الأوامر في ويندوز CMD : PING",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wcGliWl9qSDB3aHpQMFdxTnZZa2psQzhvbkxNQ2s4eXQzelpsX1dYc3FmWGVfNDdhWF82a1BNWDUwdWRSSmVsM3JLZVI2WmpJNGE0SHJn?oc=5",
+   "date": "2023-07-09T10:31:40+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : PING YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "سطر الأوامر في ويندوز CMD : COPY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UR2pXTkd0djRQazc0MHJCY1VHVzRWbE4wZTM1Vk1kZzByYkxwS2x1aXdVcWhzMDdGcUtwU2x6ZDdGTTZSSklmWTU1Unl0a3VIcGhOOHB3?oc=5",
+   "date": "2023-07-05T16:35:46+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : COPY YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ضبط مؤقت إيقاف التشغيل في نظام ويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CSmVzTEw4c3ZwSHVkbk1ObzROV0dKeGgwQ0lpXzdJVExXTGFBeEFOUWN3TVdyZ0lTSXhnLVZlSWVEOTNJWVplMTBBZ2pJdVpjQ1FEMldB?oc=5",
+   "date": "2023-07-04T20:49:29+00:00",
+   "summary": "ضبط مؤقت إيقاف التشغيل في نظام ويندوز YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "سطر الأوامر في ويندوز CMD : DEL و RMDIR",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSMmY1SXhicDFSQUdTRUNBcXdtcWNEOHZYZkdqbkJrS0xITF9Xd2dRVEVhMXBSbUtGb1BGTXF1WVBXckVfWWU3LXh6dW4tcFVaSUpUZS13?oc=5",
+   "date": "2023-07-04T18:57:12+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : DEL و RMDIR YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "سطر الأوامر في ويندوز CMD : MKDIR",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wbTlfd2hxenRsQVRwMkdpcFNTY2lVREJMaG5JREdhN0wzcDA5VkwwazhUdmJ1QlVlLUZFN1g2R0dyc184TUozNm5NNU1obllrejd4RU5n?oc=5",
+   "date": "2023-07-03T11:12:49+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : MKDIR YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "سطر الأوامر في ويندوز CMD : CD",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81bEkxcy0zcjduem5POXNVV0lhd3lmUUZxLTh2UnZrVzZLbjZlbU8zbENYTEZURVYweF9qOU4xcTFUa1BhUUF2alp0VmRQOHRVM3pudjNn?oc=5",
    "date": "2023-07-02T18:59:09+00:00",
    "summary": "سطر الأوامر في ويندوز CMD : CD YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "سطر الأوامر في ويندوز CMD : DIR",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WVA0VVBLZ3NlSkRlcXpwNlc0V2hPcHRGcDRjV3hkVmpEREdUWFJRcWdKdDM0Tkw4RDdZY2lwTEUyS295X1dJV19JUTlnUDBJRFROVlJB?oc=5",
+   "date": "2023-07-02T15:26:27+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : DIR YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1612,10 +1511,60 @@
    "lang": "ar"
   },
   {
+   "title": "اصلاح اخطاءالويندوز والهارد ديسك من موجه الاوامر cmd",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZG1LVkY4NldKSUFkRXhFVFFxWVo0LWdaYWhVQWxEbzZDQlZuOU9qQm9QcHgxYUctRzNQazF0MkdFQWZXc25ydTA4VU50cFpjOUJwZ3d3?oc=5",
+   "date": "2023-04-05T19:53:47+00:00",
+   "summary": "اصلاح اخطاءالويندوز والهارد ديسك من موجه الاوامر cmd YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية اظهار باسورد الواى فاى على ويندوز 7,8,10,11",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CcmNrN092UkdPNUJoZE1COXhVeHdkeWtwTlNicG5la25rdnFaV0Nrd0VhaHduRnVkTnRhOHdfZkdMUUVmMlZ1R3A3T2JyajAwQm1SYV9B?oc=5",
+   "date": "2023-04-01T14:06:52+00:00",
+   "summary": "كيفية اظهار باسورد الواى فاى على ويندوز 7,8,10,11 YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية تثبيت PHP على نظام ويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZUE5bTZSRjRyUlZieWJvdTgyYTBuemNhZTBfNkFrYW5mOWJIZ0tCdS1RbENTQ0pNblNMZVJCclAyc3JPSG43SFZmcWlLcE43RDN2N0hn?oc=5",
+   "date": "2023-03-24T19:34:40+00:00",
+   "summary": "كيفية تثبيت PHP على نظام ويندوز YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية تثبيت وتفعيل Windows Subsystem for Linux WSL على ويندوز 11 و ويندوز 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UdFRhU0V5RnJOTnd0YTk4WU1kZl9fdDRuM0ZwSURJMEFLanFQbUdzS3JtYzdfNEFJeU1YSWcyOU5veXl2NlhrUTZsSm9JOVhlWkNjSHJR?oc=5",
+   "date": "2023-02-19T15:09:58+00:00",
+   "summary": "كيفية تثبيت وتفعيل Windows Subsystem for Linux WSL على ويندوز 11 و ويندوز 10 YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح تغيير شكل قائمة كليك يمين فى ويندوز 11 الى الشكل القديم بدون اى برامج",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lbjlLOGR3MDl0bk1pZE81Z3hSdTJWbnR2QUNCQ1IyQy1Pa2dwdjF1ZmVoZmFtdzVnM2RJbjU2T1VFS19RVUZ4MjhCekRkZFVSUDdNWVRB?oc=5",
    "date": "2023-01-26T13:26:57+00:00",
    "summary": "شرح تغيير شكل قائمة كليك يمين فى ويندوز 11 الى الشكل القديم بدون اى برامج YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "05 / Command prompt - slmgr /xpr - امر معرفة هل نسخة الويندوز مفعلة ام لا ومعرفة هل تفعيل دائم ام لا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fc2tBMXZjdTRXanBoVHFLbmY0a1c2SjVpWVFzcExfclhuVFBTLVhoaG1fRU9nMjVUVVNnTVpLbGxxWFYyM2RQaXBkWkpKS3o0WVJBLUhB?oc=5",
+   "date": "2023-01-01T18:26:34+00:00",
+   "summary": "05 / Command prompt - slmgr /xpr - امر معرفة هل نسخة الويندوز مفعلة ام لا ومعرفة هل تفعيل دائم ام لا YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1632,6 +1581,26 @@
    "lang": "ar"
   },
   {
+   "title": "Learning VB - Visual Basic - Lesson 9 - Informative & Windows Form App - تعلم الفيجوال بيسك",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OMHJBNHRFdUVQWmZFT3B0anJHNmktNFJ2MjJHSHcxdzhzV1U0TFRvN0otYkJTMDY4cGRmZjBSSzM2SUIxT3BsZkNZVFNRNDR1UGJ2aHhR?oc=5",
+   "date": "2022-11-06T10:07:50+00:00",
+   "summary": "Learning VB - Visual Basic - Lesson 9 - Informative & Windows Form App - تعلم الفيجوال بيسك YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "طرق فعاله لحل مشكلة ويندوز 10 و11 و 8 و 7 Side By Side Configuration Error",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96S0w5eFFOVEpEdE1kcGp6VW1VVkR5M3lUOVBfLVd6OHdKbzgwMV9mRFd3cTd3YXprYmtKWHdRVnhKZmdLRThPZjZMVDFDT3NvQ3hadGd3?oc=5",
+   "date": "2022-08-08T21:07:41+00:00",
+   "summary": "طرق فعاله لحل مشكلة ويندوز 10 و11 و 8 و 7 Side By Side Configuration Error YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تفعيل خاصية Ultimate Performanceعلى ويندوز10/11لتسريع الكمبيوتر والحصول على أقصى وأفضل أداء للويندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvVWNpdFh3M2RrVVJCTnBPbTBBcjUzVV9JX3BBOHVZaDFqMUtpY0tldjAxd2s1Nk9XLUpYNVl1YXByOUhybnBzZEVLVWxlbXd3Q1BaODFn?oc=5",
    "date": "2022-08-01T21:26:54+00:00",
@@ -1642,13 +1611,33 @@
    "lang": "ar"
   },
   {
-   "title": "مايكروسوفت تخطط ليجعل Windows Terminal تجربة سطر الأوامر الافتراضية الخاصة بها - وكالة الرأي الفلسطينية -",
-   "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPVjBFc1ZjaGdhYzBJVHh5M0VXdUhQX05RQ0I4Y041Z3ZnQkpRbHVYdTl1a2h5V3JCUHEwZ0VYZVNsbkhBMjBNVFVJSkdrUHNoUnBBSTJpejZ3MlZHdzhWTjduYWJaenZlT0JoODQ5aVBBcVh1S25lREZzd2FwVFFsdUduazhzQXE0X0JZbEoweGNPQmU2NnI5ZVZYRll4U3ZwVGhxaURuSWI2RUh1VmlkbmRsMTVJOE5TbDA3bFloWkFpR2dFWUZRaW9OYmVqOVk5UmlrM3IyaDBFcV92NGRuajJ0b3oyZk1ZZ2EtWTF6M1pidFNqVEZ5ejVSMzNZYWVpdllfMWFoc1BlSUNMU2JoM1JiOUcyNjhLWmFxTjJEWG1VLU9ETXY5MHlsenZ4b2tBY2pkd3gyNS1hWmJVendMX0s1bGhOdjFhbElSMFlSTFpFUlZMamo2MXRucVVGQm1TSThpY1NzRDZVNWZWbE9LeVBDcnVOSzE3RXptMFRYbGt1OXJRYlpWTHkxeXZVLWJUbkJ4bXd4QmYyN0VoVHhtUUVST0RzcDl3WFpkLVVHaGg4MFpPR093RXhxbVFNOHJQUTBXa0FGWmNWRnkxT1ZhbkR0WlNScVZuN0lsMGRlZVVyMzRSMW5FMHVGU1lfNFRCVFhVUno2VElHSnlGTnBScTE1eUpEaVpZQnlEdm84Yk0?oc=5",
-   "date": "2021-12-16T07:22:05+00:00",
-   "summary": "مايكروسوفت تخطط ليجعل Windows Terminal تجربة سطر الأوامر الافتراضية الخاصة بها وكالة الرأي الفلسطينية -",
+   "title": "اوامر CMD مهمة للشبكات و اصلاح الويندوز - اكواد موجه الاوامر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwdWUyQVVKSC1CT3dlQ3I3enZBOXc0ZVFZelFaOGs1WHFaZTdZUzVlRWtvU2hPdjBTNVBnLXhSMGlCX3VFVmxnWEQ3eUE1Mnd0V2VQd3F3?oc=5",
+   "date": "2022-07-24T07:26:43+00:00",
+   "summary": "اوامر CMD مهمة للشبكات و اصلاح الويندوز - اكواد موجه الاوامر YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تسريع ويندوز 11 الى اقصى حد - اللعب دون لاق وتقليل استهلاك المعالج والرام - Windows 11 Debloater",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TT0hnNjdSWDV1cG4zWlR0QjFjM0dfYUV1Z2xCWGFqcENZZ2hTRVlYaklsMFI3ZkZRbXFyMVR3Rm5KelozdjB2NGdnWmVjdEJDaUtXZ0dn?oc=5",
+   "date": "2022-06-09T22:48:46+00:00",
+   "summary": "تسريع ويندوز 11 الى اقصى حد - اللعب دون لاق وتقليل استهلاك المعالج والرام - Windows 11 Debloater YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حل مشكلة عدم عمل موجه الاوامر CMD لا يفتح",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JS2RiZWxfRm5zS0JEOURlbENYanhRVTlpc1NLQWtQb21KVHF3VEtQQUdRR2lsTy0tRlJOc19kZTFnV1o2QUpCZTZTdlVNdmQxaHV6cjZn?oc=5",
+   "date": "2022-05-05T15:54:27+00:00",
+   "summary": "حل مشكلة عدم عمل موجه الاوامر CMD لا يفتح YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1672,13 +1661,23 @@
    "lang": "ar"
   },
   {
-   "title": "ويندوز 11 يسمح بتحميل تطبيقات أندرويد من خارج المتجر",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdk1CTUV0X3dRQ2w5VTlWbjRXMmNkeTJvamlKcjNwcHR5UHVSZk9zeGZyaGdhd00wWmNRNFd0NnZYRjJtQlZsV3liUmJiTk0yeEgwUTcwTDRIODVMT2E2Z25wMWZmRDI1U0dmbTZJTk5HSFNMWUwxekxHellVd01zbmpiQk93b2d4RXdDaTJGSE45ZHVMZVlrMlMtRUpnS2p0d3llWFo2TnZhOFFjR0pCZE54cjNXa0o1cHgyRDRDclI0dm5aMGVaa0JQMmZsMl90VHhDd1VGV2lYbW9qRjJzSWFGU1pIU1VuTHF6Ukx6QlVjUTM5bG4zSFNfam5fVTV4cjBabzlNeXJzSVN3dDNrNkNJcXlfa0RXZFFjUFV3ZFZpUE5sTll5cXgzMVVKOS1MTGpPbmkxUC1OQUJPd0U5cmI2UmVqaFF1ajNNZDRFT3lPUQ?oc=5",
-   "date": "2021-06-26T07:00:00+00:00",
-   "summary": "ويندوز 11 يسمح بتحميل تطبيقات أندرويد من خارج المتجر البوابة التقنية",
+   "title": "ويندوز11: حل مشكلة عدم ظهور خيارات التبديل ألى قناة Beta فى برنامج Windows Insider",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kRlYyYVA5NUtuemc4bGhZMmk4TnpuczM3TlZPdThUbjIxWGFyM3VBbG8xUDhXVkNERXFyYl9YcjBhczJDTHQxR1phcmJqQnVNUVUyOVRR?oc=5",
+   "date": "2021-08-12T10:39:06+00:00",
+   "summary": "ويندوز11: حل مشكلة عدم ظهور خيارات التبديل ألى قناة Beta فى برنامج Windows Insider YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حل مشكله اختفاء سطح المكتب فى ويندوز 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EelNaOUdIa01oUU5nbEJwWVlyMFYyMkNtU1ViMHpMRUp2eGZhTFhkSERxci1ScVJMVENIMnlmcWFuZjNSVVg3MXZheTkxXzBuNnlMb053?oc=5",
+   "date": "2021-07-11T09:11:05+00:00",
+   "summary": "حل مشكله اختفاء سطح المكتب فى ويندوز 10 YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1686,6 +1685,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16U1lCOG5uZ2o0eUk2c1JVd1FBbDlxM2VBLUtGMkxDUE9fRFkxOUV3THg3a1VHVUVSN0wtZXh5M3M1cFhfUzhtQ1VWd0E5U2NIMGh3RHp3?oc=5",
    "date": "2021-06-13T20:08:16+00:00",
    "summary": "تحميل الملفات على الكمبيوتر باستخدام PowerShell في ويندوز YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "10. Terminal | إنشاء مفاتيح SSH على نظام الويندوز Mac",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRGdZMGs5dkpqQVhkTDE3Tk0zdnVaNTRMeWhBVV9aLUQ4c09sRTJsNmFOYUd5MlZ0aWg0aE5tY0FNV0MyZ3h0MWpTR2tDTVhPdGg2b1JB?oc=5",
+   "date": "2021-05-18T08:02:06+00:00",
+   "summary": "10. Terminal | إنشاء مفاتيح SSH على نظام الويندوز Mac YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "17- CompTIA A+ | Windows features جولة سريعة داخل ويندوز 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVVI4SjhSNXNFSmgxRFZJZFVTNTloeXNEbmNMTHRmYW1XOG8yZnFSbnR6blBPTlF6VnZoV1VDREZmX1B2UFR3cHpiUkloblF6MG5nNGdn?oc=5",
+   "date": "2021-03-29T05:22:35+00:00",
+   "summary": "17- CompTIA A+ | Windows features جولة سريعة داخل ويندوز 10 YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1712,20 +1731,40 @@
    "lang": "ar"
   },
   {
-   "title": "كيفية إنشاء بندريف تثبيت ويندوز من لينكس",
-   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOYWxOZThnTzJtSTJqNnV4SXJySWt6ZWRKci1ac1hjSVh3YTFhTzVIQkgtSkRWZXJodGJsOXNQR3hVRE1wQXdHRjhURTNkN0NsaGllbVZjX0JfaGJOdi1IeG1nVkJfOVR3TE1wbGxTZEdmVURKbUJyVXJWWnFSbzZMZzU3cUJPRUVUTGlfTTNGZXg0TEFrWk1IcmJ6MEZvTWJHbHI5Tk1ZaFMycm82Q1lFblhZd3ZVTkt0TzB3VUlmel9lWnF1QUZNamN3NGxoOFZ5ZEhLbDRHVWV6UWs2ZnlyLW15Rm00YS1Gc09sMVV6d21MV2tyTm42ZWp3N2xoLVNEbTFfREVLQlN0TF92WUhYNWljeGVWbVgzMWd4anBsb1ZYMmpScnl4ek1Kcl9RbGoxQkRKbWpUcjJHYUxfbU5UYURYMTN2X2dxYmY2bXpValBXYkxzbHRtOHkxdkktR0FrS3V3ckdnWQ?oc=5",
-   "date": "2021-02-05T03:31:39+00:00",
-   "summary": "كيفية إنشاء بندريف تثبيت ويندوز من لينكس Desde Linux",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
    "title": "شرح تثبيت واستخدام برنامج Windows Terminal",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uYWNaRFN1Q1N1UmVpNFRhQmtKSXVPRlZzWUVVVUFINTY4TFNpS0t5T0dYSW10bXZmcVExOWhheTJpLUdpTkpZNDZTMGh0anQzWlhiMExB?oc=5",
    "date": "2021-02-02T18:00:04+00:00",
    "summary": "شرح تثبيت واستخدام برنامج Windows Terminal YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تنظيف وتسريع ويندوز 10,8,7عن طريق أوامر قائمة Run Windows 10 ,8,7 Run command",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MEY2dGR4WG5NeF91NWpYcWNCeG5oWWtkNXJqbGpwS1M1dFl1ZGZhcnRTdEtwNGp3UFRQb3JnYTY0b1l5QkN3eUJNMFZoMkdyVk1wQUNB?oc=5",
+   "date": "2021-01-24T17:06:21+00:00",
+   "summary": "تنظيف وتسريع ويندوز 10,8,7عن طريق أوامر قائمة Run Windows 10 ,8,7 Run command YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم ويندوز 10 - شريط المهام",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZkpPNnQtb3otcEJtb3NVVG9qQkpCd2JJZ2dkUTdrekNVUGFWcXFFQjJLSkQwbzRkWGt2VkFILUY3aHBZSWtac0dmb292M1duVjhkVFVR?oc=5",
+   "date": "2021-01-13T16:16:22+00:00",
+   "summary": "تعلم ويندوز 10 - شريط المهام YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "🔴اظهار باسورد Wi-Fi باستخدام | CMD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZm5TSGFRRFRkVlBsY1F4b1NlajcxUkJJQ1hJQ0RyRkdkaEJvd1Nxa2NyTE1UNEtQWkI3Zkc1bndZU0lUUHBZZURJM1RxUkg4NXBSM1BR?oc=5",
+   "date": "2020-10-14T19:27:38+00:00",
+   "summary": "🔴اظهار باسورد Wi-Fi باستخدام | CMD YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1742,16 +1781,6 @@
    "lang": "ar"
   },
   {
-   "title": "يعنى إيه أداة Windows File Recovery الجديدة من مايكروسوفت",
-   "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNQnRYamRNWnd2T3VUanN3RGhuZk5CdF82eWszSGU3bXJvaFhLLTJGckVhNWZhdlZoZHdJWWFLWnhUakFvVGZYREgycmdQZWNoeTNFeVNXcDRZZjlvdzZHNFZjYWVUSk4yazBFcGNHY0RaX29Ib2NLenpWYzRGM2VxWnJHN09rbHhJSnNTX2NyTS1UUGVYMHd3a1V3S2hxTW5EcmFWUWNuSnRHcDlXLTh4Q2RuOHEzcUV2NjR1RzktS09OYTRTaXl3Z19tX3B3V0ZHTTlrMUtUanhLRUlGcFpEeXFMT2VUWU1UaVpMMDB2Z2FpSVhtdm53bFFHQW5wUjVqNUJacFF6NWxUN0ZlSk1IRGJHdWs4SDBhOHpKX3F3Y1N0Ym1RXzBSR2RFdk5DaHFvZHFReGdpX1dfaDgyLXQtdUJXWnAwNDVVR1NVc2VhcUpURndjLUhGem9rcm93WXZlaW01ZXA4TzJpaHN4MGfSAegCQVVfeXFMTjdNZ3UwNXVvTkRTWUlzWnlGVDdUUl9ySEVENXUwUUpQdXdRVHhRTEdVeXViQy15VWJHbGVZZldac2xRalVtZFMwOEtMMGhqdlNPcHdZdXRHWFZydThsWFdSOTBXdjFrZnhZS0toOFZFMmhiQ1RGajRiMXRVUi1zVmpockFKZlZIMFhsTDZLSERPQjlnX2NGUnZwSDBpSlRaRzVTdGpNV01Cc3IzOXZSZDdOcm5Bdmw5NndfZjFDNm5WTThjdURvMm83eVRnNmZ4WGhSbEJfd3U0RHZKWktlV296c2RneHpoUlNkX0ZnX0lkb1g3UHFtQXhTRGJaVkk3dkxKT0pjUldEZW9CMzVyUjlLbzIwZldWa25qaFlTWUpWMjZ6SDB4ME5kcUM5TVdsT2MtcGVrbGJIb005cm1XZ0FOUlcwNGhsazgyVmVNd29EZjhoVmJGa01TdXNqSXlCV1VCRXNxUldT?oc=5",
-   "date": "2020-06-29T07:00:00+00:00",
-   "summary": "يعنى إيه أداة Windows File Recovery الجديدة من مايكروسوفت اليوم السابع",
-   "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
-   "lang": "ar"
-  },
-  {
    "title": "Windows Server 2019 | Microsoft دورة ويندوز سيرفر",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsQ1pocjVxZ25zd1hNaV9PbkpwZXh6R1Y3YVJ1WjRWdlBJRFY2RHVuNDlYZDlGUmMyRDRKd3gxRURmY0xEd0dZWEtLUl9jWVYzTmtDVDgxc2ZOektmMmFXcm1OTkkwcWs1dFU4WEhBNEUwQlNxQjVYTUJ3blo?oc=5",
    "date": "2020-06-03T10:56:27+00:00",
@@ -1762,13 +1791,13 @@
    "lang": "ar"
   },
   {
-   "title": "مايكروسوفت تجلب تطبيقات Linux GUI إلى ويندوز 10",
-   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQVXJZQnQzdWxsV3c4d1NkQ2JoVWZ2Rk1SVkdFVGRyaGZ3SEN1QjRNQ0FHc0k5aWpYbWlSeWhlTVFMVzEwLUpSbk00alFWTDVyWjN0eWhxajFyNVpOT2dsUFZralR6ZFAxNVJITEhKcDRVTE1QNGlvTXdOcVR3VEY5dUNUWU9tSFVEUlVkVERMUlNGNlZGdWFjb1g3ekNlN0VYMkFxRzdLbjNyQ2Qxak5jZ0VoN2gtNXZ1SE1Lc0o0NlgyclZhUV9NbzR3VkdraXZRNWxPdDJjR1JUR2tFRDBUbUdNN0xpT0lFdWJ3N255LVc4YTZfNUR5bXpBQ0ZKdVpITmVlYnM1bTFuekV0V1VoczNXcnZ2VjFEZFJlTDB1RXRFeVI3U2tvUFRBS2NsUFpHdWQ5a3JVajVxSmJIQXY1S01Hd3R6alZHNGtoSjBn?oc=5",
-   "date": "2020-05-20T07:00:00+00:00",
-   "summary": "مايكروسوفت تجلب تطبيقات Linux GUI إلى ويندوز 10 البوابة التقنية",
+   "title": "طريقة كسر حماية الويندوز وتغيير كلمة السر بدون فورمات وبدون برامج أو USB",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2WjN2Wk5YRGJQOGtFTENOck9CY1U3ZUYxZzRHMnl4RHJyTWN6Y21DS3BhVFJJRnFaZzZCaE9Ga2lENk5OU1Q4cGthb2xWTk9oa1EwckRn?oc=5",
+   "date": "2020-05-22T23:44:15+00:00",
+   "summary": "طريقة كسر حماية الويندوز وتغيير كلمة السر بدون فورمات وبدون برامج أو USB YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1792,10 +1821,30 @@
    "lang": "ar"
   },
   {
+   "title": "9 طرق لفتح موجه الأوامر CMD على ويندوز windows 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wX1REMEgyWTBXX25NZ0RGTTI1Wmc3SVhESnNYWHRzaHBaS0g1NHdlY1F5MFg1VGhpYkNGbzZXT2tDMExFbWlFSzh6bHo3T3d4eHBubjFB?oc=5",
+   "date": "2020-02-25T01:11:05+00:00",
+   "summary": "9 طرق لفتح موجه الأوامر CMD على ويندوز windows 10 YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "طريقة تثبيت ويندوز سيرفر 2019",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pUFVHekxDUXVsR2ZBZllHd3k5cmdwU1NMMGtoS2kzbDFpSElxLXB0VDVVdmRNTnIxTTlDakxTT3o5cW94LTRXUjdpT0lUZTl4MUsxeVZn?oc=5",
    "date": "2019-10-22T14:13:35+00:00",
    "summary": "طريقة تثبيت ويندوز سيرفر 2019 YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "احترف التعامل مع أجهزة الاندرويد بموجه اوامر ويندوز cmd",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqSGdxdW1QVGptYkRsckNUM0ZraGo0NVpfZm9uaDJDaTlReUhfd09hbnIwZTBvNmZPR3h6djNodGFtaGJiOUgwbjEwTWsydWFrc1R6akJR?oc=5",
+   "date": "2019-06-26T21:01:14+00:00",
+   "summary": "احترف التعامل مع أجهزة الاندرويد بموجه اوامر ويندوز cmd YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1872,53 +1921,63 @@
    "lang": "ar"
   },
   {
-   "title": "مايكروسوفت تكشف النقاب عن أداة باورشيل لنظام لينكس",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NUzRRamtXalJSeHRKMmF4SVlNSVlWOHYza3R5c3kwOTlIVUJ6T0pQUExpVTRfcC1uenZYM1FkX0JuOHREYktpb3NkLXpzdldKNGEzdVFLb0NYQXFOUUpmQXV4X1N0cktjM2N2Mm5FazA?oc=5",
-   "date": "2016-08-30T07:00:00+00:00",
-   "summary": "مايكروسوفت تكشف النقاب عن أداة باورشيل لنظام لينكس alwatanvoice.com",
+   "title": "حذف الملفات والمجلدات التى تقبل لا الحذف بدون برامج و باستخدام CMD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVkQ0MEZwaGlkdVVaX2EyV0ZtQkdxZXlKRDNMYm5FdFIyOEZpb1k4eVZoLWROR1pfRXkxYXhEV1d0S3FkZFVBc0g5ODlpdVpnS0M5U2xR?oc=5",
+   "date": "2017-09-30T16:37:41+00:00",
+   "summary": "حذف الملفات والمجلدات التى تقبل لا الحذف بدون برامج و باستخدام CMD YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "alwatanvoice.com",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "طرح نسخة تجريبية جديدة من \"ويندوز 10\"",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPZ3hvR3RsZ1VIS1BfckkwQ3QwZmtkQ1p1cUNVcVVKVDFzQnJBeTNqUVljcmFKNXAwQUVVNUczb1RtU2tMV2RCbGt6bHR4REJLZU5sWFBUQXFmMWphb0RyY3h3eDJ0OGFoZlM5S1hVWF9pZ29yanBiNHlxWHJBNGVrNG9qSlNDc0h1Mmw2TDlZQXVHdmJJMUNqSW9yY1k3bG9OUG5GVUdKMVNNNldvczFHWUdlTUNDYXN0bzhSOVhLN3FlUDhSdV94bFh1bTNTM1BCcG1CYlJuYy11QUlQRFh1ZU1vdXZDM2ZiSjNJaWFJaUZySW93MzdVU0tLQzlZX3BRU2V0bUlTTk5aUUxsYlVLNldnckNQTHp0c0RtNGE2X0RqemdPYnREdzBnYmhSM2pkbDFiYURB0gG7AkFVX3lxTE1VUEtJQkZ2dFRSVmpjVkF1R0ZCUExPNTF6MGI3NzltT3Y5dEVQR0Y2WEVVYmVJUVBWV2hZdjFvZjkwN3BYcUhrZjFWQlJhY3l3TU1tdU5Ib0dmX0k1YUh3bl90aVM0YVI0OFBiVVRWYlhoTTdhWk5laXBCdHRzeHZmQ01RcXBkQUpVUnVjZFNyUWxRRHNSSG5iNGg0UW9HeGZlVDh5RU1UcDRyb0VQUzZxZEI4ZE1IRlRqeFA4SDFsYUVobjRwMnVSNWVMTGZPLW9aRkZzVkFIZXpzZkp4Rkc4aTdqd3RTTEdyd2dieDV5R1JWbUlNcXgzMTlxTS1UUTE5MHlEMFVBMDRMeXZfOU1UcDVuQ2NQaEtBRUJadE9FSFl4VXRTRllTME1aTHhZbzVUWmcyWnFYclhaNA?oc=5",
-   "date": "2016-05-12T07:00:00+00:00",
-   "summary": "طرح نسخة تجريبية جديدة من \"ويندوز 10\" الجزيرة نت",
+   "title": "شرح ويندوز 10: تفعيل المستخدم المسؤول في ويندوز 10 الادمن Active Administrator Windows 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Xb3JVLWlsNlpBWVNxdDZxZ0xaWExUa0lYNkF6NWo2YWJuNjFRWjhBbDNud3NvQmg1OTI0LW5uQXlvR0tFOGdIVTlNeE5ubnNjbS1lc2tB?oc=5",
+   "date": "2016-03-05T19:05:36+00:00",
+   "summary": "شرح ويندوز 10: تفعيل المستخدم المسؤول في ويندوز 10 الادمن Active Administrator Windows 10 YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "الجزيرة نت",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "\"مايكروسوفت\" تطلق نسخةً تجريبية جديدة من \"windows 10\" استعدادًا للتحديث السنوي",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCcGVWQ1hmLVVTUmJOMGFfdm9NTUhaRXJBa0pvLTZMZ3hQMzY2aWtGTmhTV1FBV3ptenQ0N2plYUpxZnU0RTNXZnF3UFVkOWZGLWpTZ2NWNW8?oc=5",
-   "date": "2016-05-11T07:00:00+00:00",
-   "summary": "\"مايكروسوفت\" تطلق نسخةً تجريبية جديدة من \"windows 10\" استعدادًا للتحديث السنوي صحيفة الوسط البحرينية",
+   "title": "ويندوز 10: طريقة الوصول السريع إلى سطر الأوامر في نظام التشغيل Windows 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HZmZyVUc4LXlhb0MtYVlsd0NoQzI2ZjZNUUhoV0pjY21xQkxyMHJPelJTU011TVhXeER2RFdSZHJXdkRCdDVvRHVPOG5aVjB6V0NVVUFR?oc=5",
+   "date": "2016-02-16T17:49:39+00:00",
+   "summary": "ويندوز 10: طريقة الوصول السريع إلى سطر الأوامر في نظام التشغيل Windows 10 YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "صحيفة الوسط البحرينية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "\"مايكروسوفت\" تطلق تحديثاً جديداً لـ\"ويندوز 10\" مع خاصة Windows Ink",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50Q0xkMkIxamJDVTI4bW1IbUVRNU5yLVFQdDFZMVlBTzV4WkNUQUFzMDlxSEFCNnJYZHBaSXlXWWNlZ3ZPX1ZhRVdCZVJlQ0tib09N?oc=5",
-   "date": "2016-04-24T07:00:00+00:00",
-   "summary": "\"مايكروسوفت\" تطلق تحديثاً جديداً لـ\"ويندوز 10\" مع خاصة Windows Ink SYRIA.NEWS أخبار",
+   "title": "طريقة تنصيب وتتبيت ويندوز 98 بالأوامر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZTBGTlROQ2Y1ZWt0MURZZjd0bEFuXzE2dzRaTFhaOGVERnV1ZmZWT05BM05fUDNnTUl3QTlDajRGekxWWURCWnFkN013aW12T2puY2JR?oc=5",
+   "date": "2015-01-23T22:28:02+00:00",
+   "summary": "طريقة تنصيب وتتبيت ويندوز 98 بالأوامر YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "SYRIA.NEWS أخبار",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "تحديث ويندوز المقبل يأتي بتنبيهات أندرويد للحاسوب",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQU3VZNVdZNXlGck0xbEhhMkVDSmJseV85MHZBV09zUEJENUgyd2gtcFZnbEJmZDRSTVhhdEdRVVRlNjhTZ3cxN1Y2dl8zNnZNbjRCcVQ5VW5UYlRmUHRfblpNMTVycWxYcG5pdC0zZkEzZGlUeUdKOHJFQ3FxeEFUcDdxZUdwckY3YVBmU2xtRDROZVFHVDFyUEhtYmpOT09CNm1lTUtuMGtEQ0hPSjBabmVQSU15RnpDOWZRU3YzR0JESHQ0dHJhNU5aOGNuYXRXckFlaUpoNjBPNC1Wbl84RkRCTWtfOUctVlFLX1YteHhSNmFyY2d6Z250aW5FZ3NlVU1iY3NqUWRBYzY3YlA3TmJzeDFuVjBoVkE2R1R0R3JTMHI0YUxqMG5OMk5KRDlhSEFCbWxGZkxhb0pIQVU0?oc=5",
-   "date": "2016-04-02T07:00:00+00:00",
-   "summary": "تحديث ويندوز المقبل يأتي بتنبيهات أندرويد للحاسوب الجزيرة نت",
+   "title": "أوامر CMD : حذف مستخدم من النظام في ويندوز عن طريق سطر الأوامر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fb043cjNvYVkxT01OSUNrS1B5WnFyejJ5VkQ4LVJJUUtrZ1BfTDYwZW9XZDZBb2NVV0dCLW10RXF3emktdmhHM01uVGswNzlEZlpnMEpB?oc=5",
+   "date": "2013-09-30T18:55:38+00:00",
+   "summary": "أوامر CMD : حذف مستخدم من النظام في ويندوز عن طريق سطر الأوامر YouTube",
    "tech": "windows",
-   "sourceId": "ar-news",
-   "source": "الجزيرة نت",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "أوامر CMD : امر إضافة مستخدم جديد في نظام ويندوز من خلال الدوس سطر الأوامر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wN3lHc2ZleXZpZ3RrUS1pdENYdEV2d3NxbjJ5RUgyTEY2N0lxUjBEQndQbEtqTWdxbTZFREE4dHBuU3ludDV4VndCVEh5UEJKOEhGMFdB?oc=5",
+   "date": "2013-09-29T17:47:30+00:00",
+   "summary": "أوامر CMD : امر إضافة مستخدم جديد في نظام ويندوز من خلال الدوس سطر الأوامر YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   }
  ]

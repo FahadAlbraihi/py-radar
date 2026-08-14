@@ -14,8 +14,7 @@ const STALE_MS  = 6 * 60 * 60 * 1000;   // يعاد الجلب إذا مضت ٦ 
 const PAGE_SIZE = 30;
 const MAX_STORE = 800;
 
-const CAPS = { pypi:15, blogs:50, devto:45, hn:40, so:30, github:25, reddit:30,
-               fcc:20, yt:20, 'yt-search':40, medium:20, podcast:15 };
+const CAPS = { blogs:50, devto:45, fcc:20, yt:25, 'yt-search':40, medium:20, podcast:15 };
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
@@ -205,6 +204,23 @@ const isArabic = s => /[؀-ۿ]/.test(s || '');
 const stripTags = s => (s || '').replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;|&#\d+;/gi, ' ').replace(/\s+/g, ' ').trim();
 const keyOf = i => (i.title || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, '').slice(0, 70);
 
+/* مطابقة الكلمات عربياً: «بالباش» يجب أن تطابق «الباش»، ولذلك تُنزع
+   السوابق (ال، بال، وال…) قبل المقارنة. */
+const stripPrefix = w => w.replace(/^(?:وال|فال|بال|كال|لل|ال|و|ف|ب|ل|ك)/, '');
+function queryWords(q){
+  return (q || '').toLowerCase()
+    .replace(/[ً-ْ]/g, '')
+    .split(/[^\p{L}\p{N}+#]+/u)
+    .map(stripPrefix)
+    .filter(w => w.length >= 3);
+}
+/** تكفي كلمة واحدة مطابقة: الهدف إسقاط ما لا صلة له إطلاقاً لا تضييق النتائج. */
+function hasWords(text, words){
+  if (!words.length) return true;
+  const hay = (text || '').toLowerCase().replace(/[ً-ْ]/g, '');
+  return words.some(w => hay.includes(w));
+}
+
 function load(key, fallback){
   try { return JSON.parse(localStorage.getItem(key)) ?? fallback; } catch { return fallback; }
 }
@@ -303,6 +319,10 @@ async function fetchFeeds(urls, sourceId, sourceName, tech, checkRelevance, extr
       const m = title.match(/^(.*)\s+[-–]\s+([^-–]{2,40})$/);
       if (m && /^(ar-|yt)/.test(sourceId)){ title = m[1].trim(); via = m[2].trim(); }
 
+      // وصف مكرّر لنفس العنوان لا يضيف شيئاً — يُحذف بدل عرضه مرتين
+      const bare = s => (s || '').replace(/\s+/g, ' ').trim();
+      if (bare(it.summary).startsWith(bare(title).slice(0, 40))) it.summary = '';
+
       const blob = `${title} ${it.summary || ''}`;
       if (checkRelevance && t && !t.match.test(blob)) continue;
       if (NOISE.test(blob) && !PROG.test(blob)) continue;
@@ -331,20 +351,6 @@ function decodeHTML(s){
   return t.value;
 }
 
-async function fetchHN(t){
-  const since = Math.floor((Date.now() - 21 * 864e5) / 1000);
-  const url = `https://hn.algolia.com/api/v1/search_by_date?query=${encodeURIComponent(t.hn)}`
-            + `&tags=story&hitsPerPage=40&numericFilters=created_at_i>${since}`;
-  const d = await (await timedFetch(url)).json();
-  return (d.hits || []).filter(h => h.title).map(h => classify({
-    title: h.title,
-    url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
-    date: h.created_at,
-    summary: stripTags(h.story_text || '').slice(0, 200),
-    points: h.points || 0,
-    tech: t.id, sourceId: 'hn', source: 'Hacker News', lang: 'en',
-  }));
-}
 
 async function fetchDevTo(t){
   const arr = await Promise.allSettled(t.devto.map(tag =>
@@ -364,38 +370,8 @@ async function fetchDevTo(t){
   return out;
 }
 
-async function fetchSO(t){
-  const url = 'https://api.stackexchange.com/2.3/questions?order=desc&sort=votes'
-            + `&tagged=${t.so}&site=stackoverflow&pagesize=30`
-            + `&fromdate=${Math.floor((Date.now() - 7 * 864e5) / 1000)}`;
-  const d = await (await timedFetch(url)).json();
-  return (d.items || []).map(q => classify({
-    title: decodeHTML(q.title), url: q.link,
-    date: new Date(q.creation_date * 1000).toISOString(),
-    summary: (q.tags || []).join('، '),
-    points: q.score || 0,
-    tech: t.id, sourceId: 'so', source: 'Stack Overflow', lang: 'en',
-  }));
-}
 
-async function fetchGitHub(t){
-  const d0 = new Date(Date.now() - 21 * 864e5).toISOString().slice(0, 10);
-  const url = `https://api.github.com/search/repositories?q=language:${t.gh}+pushed:>${d0}`
-            + '&sort=stars&order=desc&per_page=25';
-  const d = await (await timedFetch(url)).json();
-  return (d.items || []).map(r => classify({
-    title: r.full_name, url: r.html_url, date: r.pushed_at,
-    summary: r.description || '', points: r.stargazers_count || 0,
-    tech: t.id, sourceId: 'github', source: 'GitHub', lang: 'en', kind: 'news',
-  }));
-}
 
-async function fetchPyPI(){
-  const txt = await (await timedFetch('https://pypi.org/rss/updates.xml')).text();
-  return parseFeed(txt).slice(0, 20).map(i => classify({
-    ...i, tech: 'python', sourceId: 'pypi', source: 'PyPI', lang: 'en', kind: 'news',
-  }));
-}
 
 /* ---------- بحث يوتيوب المباشر ----------
    لا يحتاج مفتاح API: يُنفَّذ بحثاً مقيّداً بـ youtube.com بالعربي والإنجليزي معاً،
@@ -404,7 +380,8 @@ async function searchYouTube(query){
   const q = query.trim();
   if (!q) return [];
   // يُضاف سياق برمجي للاستعلام نفسه، وإلا أعاد يوتيوب ألعاباً تحمل الاسم ذاته
-  return fetchFeeds(
+  const words = queryWords(q);
+  const found = await fetchFeeds(
     [
       gnews(`${q} برمجة site:youtube.com`, 'ar'),
       gnews(`${q} programming tutorial site:youtube.com`, 'en'),
@@ -412,6 +389,8 @@ async function searchYouTube(query){
     'yt-search', 'يوتيوب', null, false,
     { pinned: true, ytq: q },
   );
+  // ترشيح أخير بكلمات البحث: البحث العام يعيد نتائج لا صلة لها بما كُتب
+  return found.filter(i => hasWords(`${i.title} ${i.summary || ''}`, words));
 }
 
 const YT_MIN_LEN   = 3;      // أقل طول للاستعلام قبل الجلب
@@ -469,34 +448,26 @@ function jobsFor(techId){
   const t = techById(techId);
   if (!t) return [];
 
+  /* مصادر تعليمية فقط: دروس وفيديوهات وشروحات ومقالات تعليمية وبودكاست.
+     استُبعدت مصادر الأخبار والنقاش والمستودعات: Hacker News و Reddit
+     وأخبار جوجل ومستودعات GitHub وإصدارات PyPI وأسئلة Stack Overflow. */
   const jobs = [
-    { name:'Hacker News', fn:() => fetchHN(t) },
-    { name:'DEV.to',      fn:() => fetchDevTo(t) },
-    { name:'مقالات عربية',   fn:() => fetchFeeds(t.ar.map(q => gnews(q, 'ar')), 'ar-news', 'مقالات عربية', t.id, true) },
-    { name:'فيديوهات عربية', fn:() => fetchFeeds([gnews(`${t.ar[0]} site:youtube.com`, 'ar')], 'ar-yt', 'فيديوهات ودروس', t.id, true) },
-    { name:'فيديوهات إنجليزية', fn:() => fetchFeeds(
-        [gnews(`${t.hn} tutorial site:youtube.com`, 'en')], 'yt', 'يوتيوب', t.id, true) },
+    { name:'DEV.to', fn:() => fetchDevTo(t) },
+    { name:'دروس عربية', fn:() => fetchFeeds(
+        t.ar.map(q => gnews(`${q} site:youtube.com`, 'ar')), 'ar-yt', 'دروس عربية', t.id, true) },
+    { name:'دروس إنجليزية', fn:() => fetchFeeds(
+        [gnews(`${t.hn} tutorial course site:youtube.com`, 'en')], 'yt', 'يوتيوب', t.id, true) },
   ];
-  if (t.so) jobs.push({ name:'Stack Overflow', fn:() => fetchSO(t) });
-  if (t.gh) jobs.push({ name:'GitHub', fn:() => fetchGitHub(t) });
-  if (t.reddit.length)
-    jobs.push({ name:'Reddit', fn:() => fetchFeeds(
-      t.reddit.map(s => `https://www.reddit.com/r/${s}/hot/.rss?limit=25`), 'reddit', 'Reddit', t.id, false) });
   if (t.blogs.length)
-    jobs.push({ name:'مدونات', fn:() => fetchFeeds(t.blogs, 'blogs', 'مدونات', t.id, false) });
-  // مصادر عامة تغطي كل المسارات — تُرشَّح حسب المسار الحالي
+    jobs.push({ name:'مدونات تعليمية', fn:() => fetchFeeds(t.blogs, 'blogs', 'مدونات', t.id, false) });
   jobs.push({ name:'freeCodeCamp', fn:() => fetchFeeds(
     ['https://www.freecodecamp.org/news/rss/'], 'fcc', 'freeCodeCamp', t.id, true) });
   if (MEDIUM_TAG[t.id])
     jobs.push({ name:'Medium', fn:() => fetchFeeds(
       [`https://medium.com/feed/tag/${MEDIUM_TAG[t.id]}`], 'medium', 'Medium', t.id, true) });
-  // البودكاست مختار لكل مسار مسبقاً، فلا يُرشَّح بالكلمات: عناوين الحلقات
-  // كثيراً ما لا تذكر اسم اللغة أصلاً (مثل «‎#450: Data science tools»)
   if (PODCASTS[t.id])
     jobs.push({ name:'بودكاست', fn:() => fetchFeeds(
       PODCASTS[t.id], 'podcast', 'بودكاست', t.id, false, { kind:'podcast' }) });
-  if (t.id === 'python')
-    jobs.push({ name:'PyPI', fn:fetchPyPI });
 
   return jobs;
 }
@@ -638,8 +609,7 @@ const KIND_NAME  = { course:'دورة كاملة', tutorial:'شرح', project:'�
 const isNew = i => i.date && new Date(i.date).getTime() > state.lastVisit;
 
 function visible(){
-  // مطابقة بالكلمات لا بالجملة الحرفية: «تعلم Rust» تطابق عنواناً فيه الكلمتان بأي ترتيب
-  const words = state.q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const words = queryWords(state.q);
   const stage = STAGES.find(s => s.id === prefs.stage);
 
   let list = state.items.filter(i => {
@@ -654,10 +624,7 @@ function visible(){
     if (prefs.source !== 'all' && i.sourceId !== prefs.source) return false;
     if (prefs.stageOnly && stage?.id && !(i.stages || []).includes(stage.id)) return false;
     // نتائج بحث يوتيوب جاءت من البحث نفسه، فلا يُعاد ترشيحها بالنص
-    if (words.length && !i.pinned){
-      const hay = `${i.title} ${i.summary || ''} ${i.source}`.toLowerCase();
-      if (!words.every(w => hay.includes(w))) return false;
-    }
+    if (words.length && !i.pinned && !hasWords(`${i.title} ${i.summary || ''} ${i.source}`, words)) return false;
     return true;
   });
 
@@ -787,8 +754,11 @@ function renderTechChips(){
       const i = prefs.techs.indexOf(t.id);
       if (i >= 0){ if (prefs.techs.length > 1) prefs.techs.splice(i, 1); }
       else prefs.techs.push(t.id);
+      // اختيار المسار يُعيد شريط لغة المحتوى إلى «الكل» حتى لا يتراكم الفلتران
+      prefs.lang = 'all';
       savePrefs();
       state.shown = PAGE_SIZE;
+      syncControls();
       render();
       refresh(true);
     };
@@ -804,7 +774,7 @@ function renderSourceChips(){
     counts.set(i.sourceId, (counts.get(i.sourceId) || 0) + 1);
   }
   const names = { hn:'Hacker News', devto:'DEV.to', so:'Stack Overflow', github:'GitHub',
-                  pypi:'PyPI', 'ar-news':'مقالات عربية', 'ar-yt':'فيديوهات عربية',
+                  'ar-yt':'دروس عربية',
                   blogs:'مدونات', reddit:'Reddit', fcc:'freeCodeCamp',
                   yt:'يوتيوب', 'yt-search':'بحث يوتيوب', medium:'Medium', podcast:'بودكاست' };
 
@@ -1014,15 +984,17 @@ function renderCodeTerms(){
 
 /* ---------- بحث سريع جاهز ---------- */
 const PRESETS = [
+  'تعليم الأمن السيبراني',
+  'شرح الشبكات من الصفر',
+  'أنظمة التشغيل شرح',
   'كالي لينكس من الصفر',
   'أوامر لينكس الأساسية',
   'تطبيق أندرويد بالكوتلن',
   'تطبيق آيفون بالسويفت',
-  'مشروع بايثون للأمن السيبراني',
   'أتمتة المهام بالباش',
   'PowerShell للمبتدئين',
-  'أسئلة مقابلات البرمجة',
   'تطوير الويب من الصفر',
+  'أسئلة مقابلات البرمجة',
 ];
 
 function renderPresets(){
@@ -1072,7 +1044,15 @@ function chipGroup(sel, key, after){
     after?.();
   });
 }
-chipGroup('#lang-chips', 'lang');
+// والعكس: اختيار لغة المحتوى يُبقي مساراً واحداً فقط، فالفلترة تبقى مفهومة
+chipGroup('#lang-chips', 'lang', () => {
+  if (prefs.lang !== 'all' && prefs.techs.length > 1){
+    prefs.techs = [prefs.techs[0]];
+    savePrefs();
+    renderTechChips();
+    render();
+  }
+});
 chipGroup('#level-chips', 'level');
 chipGroup('#kind-chips', 'kind');
 chipGroup('#sort-chips', 'sort');

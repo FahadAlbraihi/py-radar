@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T20:04:17.148834+00:00",
+ "generated": "2026-08-14T20:43:01.618521+00:00",
  "tech": "sql",
- "count": 220,
+ "count": 202,
  "items": [
   {
    "title": "backend<app<db",
@@ -37,17 +37,6 @@
    "lang": "en"
   },
   {
-   "title": "How To Query Row Based Data and Left Join It?",
-   "url": "https://stackoverflow.com/questions/79995174/how-to-query-row-based-data-and-left-join-it",
-   "date": "2026-08-14T18:19:51+00:00",
-   "summary": "sql، sql-server، entity-attribute-value",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "Caching & Redis: How to Reduce Database Load and Make APIs Faster",
    "url": "https://dev.to/tanu_priya/caching-redis-how-to-reduce-database-load-and-make-apis-faster-25b9",
    "date": "2026-08-14T17:57:43+00:00",
@@ -57,18 +46,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "wnl-icb-analytics/dbt-analytics",
-   "url": "https://github.com/wnl-icb-analytics/dbt-analytics",
-   "date": "2026-08-14T16:21:26+00:00",
-   "summary": "dbt project for WNL Analytics supporting commissioning and OLIDS data sources",
-   "points": 2,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "AWS News - S1E2",
@@ -170,16 +147,14 @@
    "lang": "en"
   },
   {
-   "title": "guilhermeferreira24/portugal-economic-indicators-pipeline",
-   "url": "https://github.com/guilhermeferreira24/portugal-economic-indicators-pipeline",
-   "date": "2026-08-14T11:48:37+00:00",
-   "summary": "End-to-end Portugal economic indicators pipeline using Python, BigQuery, SQL, and Power BI to extract, analyze, and visualize macroeconomic trends.",
-   "points": 1,
+   "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners 2026 | Advanced SQL Course | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q2NYaWh2T3RtXzU1QU45M0p6Mm80aGhacUZIV1JuN3R2Qk1tendockZCczNQSURsVzBqQ3V4YmVjaXg5YnlUU2lGWkhMYjRLaWhrQm13?oc=5",
+   "date": "2026-08-14T11:57:36+00:00",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners 2026 | Advanced SQL Course | Simplilearn YouTube",
    "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Replace the Heuristic With a Boundary: Rebuilding a Leave Table as an Append-Only Ledger",
@@ -201,16 +176,6 @@
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "how I learned why you shouldn't name an alias the same as the original column name",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vo2ofn/how_i_learned_why_you_shouldnt_name_an_alias_the/",
-   "date": "2026-08-14T09:40:05+00:00",
-   "summary": "submitted by /u/uncertainschrodinger [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -244,16 +209,6 @@
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Aspiring data analyst",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vo05o7/aspiring_data_analyst/",
-   "date": "2026-08-14T07:09:20+00:00",
-   "summary": "Good day, I have been teaching myself SQL and now power Bi I do understand the basics. Currently I am working in a law firm and I decided to start using the firms data sets that show the matters we have and the stages that they are at. I ha",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -345,18 +300,6 @@
    "lang": "en"
   },
   {
-   "title": "DANG-PH/dragonboy-db-backups",
-   "url": "https://github.com/DANG-PH/dragonboy-db-backups",
-   "date": "2026-08-13T21:01:31+00:00",
-   "summary": "Automated daily backups for the Ngọc Rồng Online project, running via cron at 4 AM and covering MySQL, PostgreSQL, MongoDB, and Redis. Each run is committed here to keep a versioned history, with backups older than 7 days cleaned up automatically.",
-   "points": 3,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Rate Limiting Isn't One Layer: What LogicVisor and Titan Actually Do Differently",
    "url": "https://dev.to/david_essien/rate-limiting-isnt-one-layer-what-logicvisor-and-titan-actually-do-differently-3kim",
    "date": "2026-08-13T20:53:45+00:00",
@@ -377,18 +320,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "ThatianeCosta/Banco-de-Dados-da-Loja-Virtual",
-   "url": "https://github.com/ThatianeCosta/Banco-de-Dados-da-Loja-Virtual",
-   "date": "2026-08-13T20:43:42+00:00",
-   "summary": "O projeto consiste na criação de um banco de dados para uma loja virtual, utilizando SQL com um Diagrama Entidade-Relacionamento como base. Após a criação das tabelas e inserção de dados, implementei uma VIEW para facilitar a consulta das informações.",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Detecting SQLite Full Table Scans in Node.js",
@@ -431,29 +362,6 @@
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "theammarngp-makes/SQL-Engineering-Handbook",
-   "url": "https://github.com/theammarngp-makes/SQL-Engineering-Handbook",
-   "date": "2026-08-13T15:09:08+00:00",
-   "summary": "Production-ready SQL Engineering Handbook with SQL tutorials, interview questions, real-world projects, query optimization, window functions, and analytics engineering examples.",
-   "points": 9,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: ProbeDeck an iOS app for ClickHouse incident triage",
-   "url": "https://news.ycombinator.com/item?id=49286299",
-   "date": "2026-08-13T14:14:17+00:00",
-   "summary": "As a backend developer dealing with heavy applications, I run a ClickHouse node with 3.42 TB compressed and 19.10 TB uncompressed amongst its active components. I built ProbeDeck to run some operation",
-   "points": 2,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -501,30 +409,6 @@
    "lang": "en"
   },
   {
-   "title": "PeterHDS/pcadi-data-integration",
-   "url": "https://github.com/PeterHDS/pcadi-data-integration",
-   "date": "2026-08-13T08:46:47+00:00",
-   "summary": "Reproducible SQL and Python pipeline for integrating NHS England primary-care activity data at practice-month level.",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "wnl-icb-analytics/dbt-OLIDS",
-   "url": "https://github.com/wnl-icb-analytics/dbt-OLIDS",
-   "date": "2026-08-13T08:46:21+00:00",
-   "summary": "dbt project for creating the stable layer for the One London Integrated Data Set Alpha.",
-   "points": 3,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "How Database Indexes Work (And Why Yours Might Be Useless)",
    "url": "https://dev.to/arnavsharma2711/how-database-indexes-work-and-why-yours-might-be-useless-3e8i",
    "date": "2026-08-13T07:59:30+00:00",
@@ -569,116 +453,6 @@
    "lang": "en"
   },
   {
-   "title": "Struggling with LeetCode Easy after doing well on HackerRank Easy — should I move to intermediate SQL?",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vn2nhi/struggling_with_leetcode_easy_after_doing_well_on/",
-   "date": "2026-08-13T06:19:10+00:00",
-   "summary": "&#x200B; I wanna be straight about this because it’s getting frustrating 😭 I can comfortably solve HackerRank Easy-level SQL questions, but when I try LeetCode Easy, I struggle quite a bit. I’ve seen people say that HackerRank Easy ≠ LeetCo",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "cahyadsn/wilayah",
-   "url": "https://github.com/cahyadsn/wilayah",
-   "date": "2026-08-13T04:33:48+00:00",
-   "summary": "Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+AJaX. Demo link : https://wilayah.cahyadsn.com/",
-   "points": 1262,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Replace zeros with NULL values",
-   "url": "https://stackoverflow.com/questions/79993678/replace-zeros-with-null-values",
-   "date": "2026-08-13T03:56:36+00:00",
-   "summary": "sql، google-bigquery",
-   "points": -4,
-   "tech": "sql",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "cahyadsn/wilayah_boundaries",
-   "url": "https://github.com/cahyadsn/wilayah_boundaries",
-   "date": "2026-08-13T03:48:02+00:00",
-   "summary": "Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 ",
-   "points": 54,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "freesam99/employee-attrition-analysis",
-   "url": "https://github.com/freesam99/employee-attrition-analysis",
-   "date": "2026-08-12T19:23:34+00:00",
-   "summary": "Analyzed employee attrition data using SQL and created Tableau dashboards to visualize turnover trends across departments, job roles, overtime status, and tenure. Calculated key metrics and identified patterns to support employee retention strategies.",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "why COUNT(*) and COUNT(o.id) aren't the same after a LEFT JOIN",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vmnf2h/why_count_and_countoid_arent_the_same_after_a/",
-   "date": "2026-08-12T19:04:55+00:00",
-   "summary": "say you have customers on the left and orders on the right. a LEFT JOIN keeps every customer, even if they have no matching order. for those rows, the columns from orders are NULL. that creates a small gotcha which i saw a few players falli",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "I built a SQL Visualizer & Lab",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vmn8t1/i_built_a_sql_visualizer_lab/",
-   "date": "2026-08-12T18:58:40+00:00",
-   "summary": "Last time my website was a prototype and didn t have a log in system to sabe progress, but now you can log in and save your progress + there is a dashboard as well Link- https://sql-visualizer-and-lab.vercel.app/ The idea is to make learnin",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "rezwan-ahmed-l7/DBMS",
-   "url": "https://github.com/rezwan-ahmed-l7/DBMS",
-   "date": "2026-08-12T18:54:23+00:00",
-   "summary": "Personal learning repository for Database Management Systems — SQL practice, relational database design, normalization, ER diagrams, and practical DBMS concepts documented throughout my self-development journey.",
-   "points": 3,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "What should I build next? Looking for suggestions from developers/learners",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vmlbp7/what_should_i_build_next_looking_for_suggestions/",
-   "date": "2026-08-12T17:50:06+00:00",
-   "summary": "I ve been creating free, long-form programming courses and I m now deciding what to work on next. So far, I ve created: 🐬 Complete MySQL Course — ~16 hours Only 3 parts are remaining, and then the course will be completed. The course covers",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "How do I get each unique value (not combination) to appear at least once?",
-   "url": "https://stackoverflow.com/questions/79993571/how-do-i-get-each-unique-value-not-combination-to-appear-at-least-once",
-   "date": "2026-08-12T16:58:02+00:00",
-   "summary": "sql، sql-server، crystal-reports",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "The SQL Worked Perfectly. The Data Was Wrong.",
    "url": "https://dev.to/eduardo-ortega/the-sql-worked-perfectly-the-data-was-wrong-44de",
    "date": "2026-08-12T14:46:50+00:00",
@@ -687,16 +461,6 @@
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built a free tool that ranks your slowest queries and explains the execution plan in plain english",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vme4cp/i_built_a_free_tool_that_ranks_your_slowest/",
-   "date": "2026-08-12T13:26:33+00:00",
-   "summary": "submitted by /u/Master-Bass-1905 [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -711,474 +475,23 @@
    "lang": "en"
   },
   {
-   "title": "Why memorizing SQL syntax fails in interviews (and how I'm designing a tool to fix it)",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vmb60f/why_memorizing_sql_syntax_fails_in_interviews_and/",
-   "date": "2026-08-12T11:12:56+00:00",
-   "summary": "When practicing SQL, standard platforms usually give you a schema, a goal, and then reveal the output query when you get stuck. The problem is that in a real interview setting, interviewers are evaluating how you break down the problem—not ",
+   "title": "Day 4 | SQL Training | FREE SQL & Linux Training",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53R1FqZFRjS2ppMTJjN3FhWEZUZWdsMm5VQUNuTVI1R2t0QklIRnJENTM0dmF0eHBzNWl1cHI3LVNRb29scnpKVExsWkNneW1jZ1JGcl9R?oc=5",
+   "date": "2026-08-05T02:29:35+00:00",
+   "summary": "Day 4 | SQL Training | FREE SQL & Linux Training YouTube",
    "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Data Lemur Doubt",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vm9mip/data_lemur_doubt/",
-   "date": "2026-08-12T09:50:45+00:00",
-   "summary": "Hi i saw this site mentioned a lot so I started practicing from it now I am 1-2 weeks into it and saw lot of the questions require premium Is the free questions enough for interview prep or are there any sites to fill the gap needed submitt",
+   "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | Advanced SQL Course | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CUlJzZlhld1A5VmxxSFRDS1JwazNqTEQ1dlFGMWtsandNNWtVVnhIaVRvN0ZyLTQtZGRRSU04Vnd1WjB4aXhDeHVhbC1nR1VqTkduZnpR?oc=5",
+   "date": "2026-07-27T16:30:33+00:00",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | Advanced SQL Course | Simplilearn YouTube",
    "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "Updated my 0-to-projects Repository.",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vlukt5/updated_my_0toprojects_repository/",
-   "date": "2026-08-11T21:26:44+00:00",
-   "summary": "It’s been a while! I originally shared this learning repo here a while back, and I’ve finally gotten around to updating it. Original post: https://www.reddit.com/r/letscodecommunity/s/572xioqMNC New addition: → SQL - Learn by Games 🎮 I’m tr",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "I made a short beginner-friendly lesson on SELECT, WHERE, LIKE & LIMIT",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vlpgm0/i_made_a_short_beginnerfriendly_lesson_on_select/",
-   "date": "2026-08-11T18:19:35+00:00",
-   "summary": "Hey everyone! I recently made a short SQL lesson for absolute beginners. I wanted to keep it practical rather than just explaining the syntax. In the video, I cover: - SELECT and selecting specific columns - AS and DISTINCT - WHERE and comp",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Dbctx – Compile a PostgreSQL database into compact, queryable context",
-   "url": "https://github.com/shrsv/dbctx",
-   "date": "2026-08-11T13:53:36+00:00",
-   "summary": "Hi HN, I&#x27;ve been finding increasing need for helping our users chat with the underlying application data in postgresql directly using LLMs, visualize results and so on. A major obstacle to this i",
-   "points": 5,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Scored 37% on my first SQL assessment — going back to basics, anyone else in the same boat?",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vlewsl/scored_37_on_my_first_sql_assessment_going_back/",
-   "date": "2026-08-11T11:33:48+00:00",
-   "summary": "submitted by /u/abhayverma2408 [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "What SQL function would I use to locate specific words in a dataset?",
-   "url": "https://stackoverflow.com/questions/79992081/what-sql-function-would-i-use-to-locate-specific-words-in-a-dataset",
-   "date": "2026-08-11T00:17:17+00:00",
-   "summary": "advice، sql",
-   "points": -4,
-   "tech": "sql",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Built a zero-install browser SQL sandbox: real schemas, audio narration, live query execution - looking for practitioner feedback",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vl1x5w/built_a_zeroinstall_browser_sql_sandbox_real/",
-   "date": "2026-08-11T00:11:58+00:00",
-   "summary": "submitted by /u/Manoj_manodemy [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Typegres 0.3 – SQL-as-your-API, safely (using Cap'n Web RPC)",
-   "url": "https://typegres.com/",
-   "date": "2026-08-10T21:49:45+00:00",
-   "summary": "For three years I worked as CTO of a startup building a huge Postgres app (a WMS) from scratch. We had 100+ inter-related tables and the complexity of delivering feature after feature on this substrat",
-   "points": 4,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Create a function to show ten rows of a table",
-   "url": "https://stackoverflow.com/questions/79992037/create-a-function-to-show-ten-rows-of-a-table",
-   "date": "2026-08-10T19:50:49+00:00",
-   "summary": "sql، duckdb",
-   "points": 3,
-   "tech": "sql",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Which type of SQL should I learn and master if I want to become a data analyst?",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vjqwt3/which_type_of_sql_should_i_learn_and_master_if_i/",
-   "date": "2026-08-09T14:12:10+00:00",
-   "summary": "After doing some research on google, I found out that there a lot of different types of sql (eg: mysql, postgresql, T-sql, etc). My question is, which type of sql should I learn and master if I want to become a data analyst? submitted by /u",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "tara61062-new/google-play-store-analysis",
-   "url": "https://github.com/tara61062-new/google-play-store-analysis",
-   "date": "2026-08-09T10:56:48+00:00",
-   "summary": "Google Play hosts millions of apps across different categories. This project analyses app performance to identify market opportunities, understand user preferences, and provide recommendations for developers using Excel, SQL, and Tableau.",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Harshit-Dogra/olist-ecommerce-analytics",
-   "url": "https://github.com/Harshit-Dogra/olist-ecommerce-analytics",
-   "date": "2026-08-09T05:59:55+00:00",
-   "summary": "End-to-end e-commerce analytics project using Python, MySQL, SQL, and Power BI featuring automated data ingestion, star schema modeling, business analysis, and interactive dashboard.",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "I ran out of cases in SQL Murder Mystery, so I built more",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vj6m2l/i_ran_out_of_cases_in_sql_murder_mystery_so_i/",
-   "date": "2026-08-08T20:45:54+00:00",
-   "summary": "I’ve been a web developer for a few years, and every once in a while I’d come back to SQL Murder Mystery as a fun way to brush up on SQL. My only problem was that once you solve it, that’s pretty much it. So I ended up building SQL Cold Cas",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "SQL",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vj44m5/sql/",
-   "date": "2026-08-08T19:01:03+00:00",
-   "summary": "submitted by /u/DeviceOptimal5127 [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "Project on SQL/NoSQL integrated with AI/DL/ML",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vizu7z/project_on_sqlnosql_integrated_with_aidlml/",
-   "date": "2026-08-08T16:08:19+00:00",
-   "summary": "For my college project regarding the DBMS course, we are asked to build a real-world project regarding using all the learning outcomes from the course. Please suggest some projects. For our ease, please provide: Project Title Objective Expe",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "OpenSID/pantau",
-   "url": "https://github.com/OpenSID/pantau",
-   "date": "2026-08-08T13:59:39+00:00",
-   "summary": "Memantau penggunaan OpenSID",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "What SQL project should I build as a fresher in 2026 to get more interview calls?",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1visyay/what_sql_project_should_i_build_as_a_fresher_in/",
-   "date": "2026-08-08T10:54:59+00:00",
-   "summary": "I’m a recent B.Sc. Data Science graduate looking to start my career in an SQL/Database role . I didn’t do any proper SQL projects or internships during college, and I’m now trying to build my profile. I’m currently: Learning SQL and databas",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "What SQL query took you way too long to figure out?",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1viozi3/what_sql_query_took_you_way_too_long_to_figure_out/",
-   "date": "2026-08-08T06:54:46+00:00",
-   "summary": "submitted by /u/gutenmorgan3035 [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "Query with LIKE / IN",
-   "url": "https://stackoverflow.com/questions/79991450/query-with-like-in",
-   "date": "2026-08-07T23:23:28+00:00",
-   "summary": "sql",
-   "points": -4,
-   "tech": "sql",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Any recourse with applying a functional based index to multiple situations?",
-   "url": "https://stackoverflow.com/questions/79991439/any-recourse-with-applying-a-functional-based-index-to-multiple-situations",
-   "date": "2026-08-07T21:27:03+00:00",
-   "summary": "advice، sql، oracle19c",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Help me understand what's happening behind the scenes in a self join.",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1viahgb/help_me_understand_whats_happening_behind_the/",
-   "date": "2026-08-07T19:36:38+00:00",
-   "summary": "Hello all. I m trying to wrap my head around how self joins work, since they re a bit complex for me to understand for some reason. I can handle normal left and inner joins just fine. First, imagine this videogame table. You have three colu",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "I made a beginner-friendly tutorial on SQL Command Types (DDL, DML, DCL & TCL). I'd love your feedback!",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vi9avw/i_made_a_beginnerfriendly_tutorial_on_sql_command/",
-   "date": "2026-08-07T18:52:30+00:00",
-   "summary": "Hi everyone! I recently started creating a free SQL course for beginners, and I just published a new lesson covering the four main types of SQL commands: - DDL (CREATE, ALTER, DROP, TRUNCATE) - DML (SELECT, INSERT, UPDATE, DELETE) - DCL (GR",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "I want to get better for Data Engineer / Data Scientist positions",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vi4a1d/i_want_to_get_better_for_data_engineer_data/",
-   "date": "2026-08-07T15:47:41+00:00",
-   "summary": "submitted by /u/ResponsibleBag785 [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "What is the transition from learning SQL to using a db management system like PostgreSQL?",
-   "url": "https://www.reddit.com/r/learnSQL/comments/1vhch2m/what_is_the_transition_from_learning_sql_to_using/",
-   "date": "2026-08-06T18:27:43+00:00",
-   "summary": "I want to learn the proper way of learning sql to design dbs for my projects. submitted by /u/TurtleSlowRabbitFast [link] [التعليقات]",
-   "tech": "sql",
-   "sourceId": "reddit",
-   "source": "r/learnSQL",
-   "lang": "en"
-  },
-  {
-   "title": "K-Manojkumar-4/PrimeViz-ECommence-Sales-Analysis",
-   "url": "https://github.com/K-Manojkumar-4/PrimeViz-ECommence-Sales-Analysis",
-   "date": "2026-08-05T10:38:09+00:00",
-   "summary": "MySQL + Power BI e-commerce sales analytics project. 250 orders, $243K revenue, advanced SQL (window functions, CTEs), 4-page dashboard, full documentation & business insights.",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "K-Manojkumar-4/Amazon-Shopverse-Records",
-   "url": "https://github.com/K-Manojkumar-4/Amazon-Shopverse-Records",
-   "date": "2026-08-05T10:37:34+00:00",
-   "summary": "Professional SQL Data Analysis of Amazon Shopverse E-commerce Records — Advanced MySQL queries refined with the help of AI covering revenue analysis, customer behavior, time-series trends, retention, and business intelligence using window functions and CTEs.",
-   "points": 2,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: MCP for building secured apps on SQL databases",
-   "url": "https://www.dronahq.com/mcp-server/",
-   "date": "2026-08-05T02:36:20+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "tacohirosystems/remotehiro",
-   "url": "https://github.com/tacohirosystems/remotehiro",
-   "date": "2026-08-05T00:17:23+00:00",
-   "summary": "find work, anywhere",
-   "points": 11,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "GiulianoGMS/DQL-Oracle",
-   "url": "https://github.com/GiulianoGMS/DQL-Oracle",
-   "date": "2026-08-04T15:37:09+00:00",
-   "summary": "Data Query Language - Scriptadas para o ERP | Consinco",
-   "points": 5,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Youssef-Yaser/BTS_Flight_Analytics",
-   "url": "https://github.com/Youssef-Yaser/BTS_Flight_Analytics",
-   "date": "2026-08-03T11:37:59+00:00",
-   "summary": "Modern Automated Cloud ELT Pipeline for US Airline Data using Snowflake, dbt, Airflow, Backblaze B2, Docker, and Power BI.  |   DEPI Graduation Project",
-   "points": 2,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "redfords/databases",
-   "url": "https://github.com/redfords/databases",
-   "date": "2026-08-03T04:50:58+00:00",
-   "summary": "HackerRank and LeetCode practice",
-   "points": 3,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "FoxSchema: Compare and migrate SQL database schemas across 10 dialects",
-   "url": "https://foxschema.com/",
-   "date": "2026-07-31T22:55:47+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Penca – branchable, versioned OLTP+OLAP on one open copy of your data",
-   "url": "https://github.com/penca-io/penca",
-   "date": "2026-07-31T21:11:05+00:00",
-   "summary": "Hi HN! This is an early proof of concept of a branchable, versioned OLTP + OLAP database that runs on a single, open copy of your data in object storage. If you are familiar with Databricks&#x27; LTAP",
-   "points": 14,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Parthnagar24/ShopSphere-SQL-Analytics",
-   "url": "https://github.com/Parthnagar24/ShopSphere-SQL-Analytics",
-   "date": "2026-07-31T14:58:02+00:00",
-   "summary": "A real-world Data Analytics portfolio project built using SQL Server that demonstrates database design, business problem solving, advanced SQL analytics, and analytical thinking.",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: Widen – Open-source Mac Postgres GUI with local or cloud text-to-SQL",
-   "url": "https://widen.dev/",
-   "date": "2026-07-31T01:21:42+00:00",
-   "summary": "Github: https:&#x2F;&#x2F;github.com&#x2F;betocmn&#x2F;widen I was paying for DataGrip for several years as my desktop database GUI but if I wanted text-to-SQL with LLMs I&#x27;d have to pay even more",
-   "points": 7,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "theammarngp-makes/olist-sales-analysis",
-   "url": "https://github.com/theammarngp-makes/olist-sales-analysis",
-   "date": "2026-07-30T18:43:13+00:00",
-   "summary": "Analyzed Olist e-commerce data using SQL and built a Tableau dashboard to identify revenue trends, top categories, and regional sales performance.",
-   "points": 5,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "theammarngp-makes/ecommerce-rfm-customer-segmentation",
-   "url": "https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation",
-   "date": "2026-07-30T18:34:17+00:00",
-   "summary": "RFM (Recency, Frequency, Monetary) analysis using SQL to segment customers and identify high-value, loyal, and at-risk users in an e-commerce dataset",
-   "points": 6,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "maf345/sql-hands-on",
-   "url": "https://github.com/maf345/sql-hands-on",
-   "date": "2026-07-29T17:21:29+00:00",
-   "summary": "This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc.",
-   "points": 50,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Ask HN: How would you learn AI-assisted development from the ground up?",
-   "url": "https://news.ycombinator.com/item?id=49098829",
-   "date": "2026-07-29T15:31:35+00:00",
-   "summary": "I&#x27;m a director&#x2F;exec, not a software engineer. Background&#x27;s mostly data analytics, SQL and Excel day to day, some R and PostgreSQL. Years ago I could hack together basic HTML&#x2F;CSS&#x",
-   "points": 6,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Isanagui1818/iberia-marketshare",
-   "url": "https://github.com/Isanagui1818/iberia-marketshare",
-   "date": "2026-07-29T06:03:31+00:00",
-   "summary": "End-to-end data warehouse for multi-country market-share analytics (FMCG / nutrition) across two markets — Spain (ES) and Portugal (PT) — built on a medallion architecture in Snowflake, feeding Power BI dashboards.",
-   "points": 3,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: Otlet – Local LLM inference \"inside\" Postgres",
-   "url": "https://github.com/joshmeek/otlet",
-   "date": "2026-07-27T14:56:34+00:00",
-   "summary": "I’ve been working on Otlet, a Postgres extension for running local LLM inference “inside” Postgres (inference runs in a background worker, while Postgres stores the jobs, inputs, outputs, and receipts",
-   "points": 2,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: QueryTuner – SQL diagnostics across 5 DBs, no database connection",
-   "url": "https://www.querytuner.com/",
-   "date": "2026-07-26T12:05:51+00:00",
-   "summary": "",
-   "points": 8,
-   "tech": "sql",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1250,6 +563,16 @@
    "thumb": "https://i4.ytimg.com/vi/wKQG3jvwEKw/hqdefault.jpg"
   },
   {
+   "title": "SQL Full Course 2026 [FREE] | Advanced SQL Course 2026 | SQL Tutorial For Beginners | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xSnRzczhCdnBMN0Nwbl9VTE1pTjBlZFh6LTdNbFpDU3o1OTdDbHZiSjlnUm41ODM2dkR0bFZQSFVycHkxMVA0RzJoVHo0b0Y4S0hKazR3?oc=5",
+   "date": "2026-04-21T01:22:13+00:00",
+   "summary": "SQL Full Course 2026 [FREE] | Advanced SQL Course 2026 | SQL Tutorial For Beginners | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Get Skilled in Database - Part 1",
    "url": "https://www.youtube.com/watch?v=MZusPs4X3Ew",
    "date": "2026-04-20T01:02:48+00:00",
@@ -1284,6 +607,46 @@
    "lang": "en"
   },
   {
+   "title": "دليلك الشامل لتعلم الـ SQL Joins | دمج الجداول بكافة أنواعها (Inner, Left, Right, Self Join)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tNmpHUlpDZ3lZNzVHLUZjSV9Fc0VMYk9URnFxYVA5c2lyczRJOGR3RTBvbGJUNHgtcndfR0ZKNUM0S0xMVGpBd0UzdXl1bjFKMEF2bVhn?oc=5",
+   "date": "2026-03-24T18:00:06+00:00",
+   "summary": "دليلك الشامل لتعلم الـ SQL Joins | دمج الجداول بكافة أنواعها (Inner, Left, Right, Self Join) YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس SQL و PostgreSQL كامل للمبتدئين | تعلم قواعد البيانات من الصفر بدون خبرة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzdGNvMHBlUEhYM2tEeVJEeFB5Xy1vU3JyU002WnB2NnJNQkRNcXhJYWpReTRoUHJZdXRpaHMwTHdKbjN1a2t0UTdqd1k2ODgtdU9VOE1n?oc=5",
+   "date": "2026-03-13T18:00:06+00:00",
+   "summary": "كورس SQL و PostgreSQL كامل للمبتدئين | تعلم قواعد البيانات من الصفر بدون خبرة YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Free SQL Course With Certificate 2026 | SQL Course For Beginners With Certificate | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNEZhUHNTRXhJUE92UjJlM0k2Unc1RE5OT3NUTXJSSHZJUXFDR0w4WE1DUEs2QUJPNXRKQjlfNFFRWXVSa0JaUVBnR2ppOE9JdjFrUkdR?oc=5",
+   "date": "2026-03-13T14:30:37+00:00",
+   "summary": "Free SQL Course With Certificate 2026 | SQL Course For Beginners With Certificate | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تعلم SQL Server من الصفر: إتقان أوامر الـ DDL في فيديو واحد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jblFWQTNxRGdOYmhvbkhrMC1ldXNvMVlYc1JUZFduWU4xWW5Pd1FrNzdUalpqdlZlMG5zQXBkaXhzVEIxNjdQWWdNTU11T1U1eXF2MEFB?oc=5",
+   "date": "2026-03-07T07:00:37+00:00",
+   "summary": "تعلم SQL Server من الصفر: إتقان أوامر الـ DDL في فيديو واحد YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "ربط قاعدة بيانات SQL Server بالاكسل بدون تعقيد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRzZNMjdnYmF4S0lYc0lPS0xjQ29NR1FGN0tnWkUxMHE3TXBwVkh4QThFQlVPVlppN0VDNHRmWjFiV01yZUpCd3Y4S2ZrdEIyejRhOXNR?oc=5",
    "date": "2026-03-05T19:30:16+00:00",
@@ -1292,6 +655,106 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "SQL Full Course 2026 | SQL Tutorial For Beginners | SQL Data Manipulation Tutorial | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Q21UVzBkRjZ6ZVJpT3c3cXctbnB6bXRsQ19Xem9aRjZ6NEZ6bDIzaGJ3ajE5VnBqMlVVSUtpRlN6REhhTlVRY1N1cEZsS21fb1JzVHNB?oc=5",
+   "date": "2026-03-03T22:01:04+00:00",
+   "summary": "SQL Full Course 2026 | SQL Tutorial For Beginners | SQL Data Manipulation Tutorial | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn SQL For Free | SQL Tutorial For Beginners | SQL Training | #Shorts | #Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNQWgyalBFYkhOQjJEWDdXaEwxQ1c4V1FIVVctNlhtay1KUHhXQXNoOFNHdktvVGRfakUxb1BvUnZCd3UwSy1TWmpYZW9kZ1BoT08zbw?oc=5",
+   "date": "2026-02-24T15:45:11+00:00",
+   "summary": "Learn SQL For Free | SQL Tutorial For Beginners | SQL Training | #Shorts | #Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "كورس أساسيات لغة SQL / محاضرة 9 / \"Postgre SQL\"",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOaUh4alRiR1RFQU5UT3FKbUZ2WU5ZdmJ2TWNMdTFuZWNRU0tKdkpXdnJnM0FRWi1wYU0xWjdhbzB5VzJYWC1RWWZidE9xRVNaWGpmTm5n?oc=5",
+   "date": "2026-02-17T16:32:11+00:00",
+   "summary": "كورس أساسيات لغة SQL / محاضرة 9 / \"Postgre SQL\" YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس أساسيات لغة SQL / محاضرة 8 / \"إدخال البيانات والاستعلام باستخدام MYSQL\"",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZQlM2ZngwVVg5SDZBLVgxMlVSc0VyS3k2T29wb0J0YndYWmg3cENJN0s3MU5SanZuTkZvMU0xQkJGZ2E1UmNWTDZ6OTI0VVBBa2N6S2tB?oc=5",
+   "date": "2026-02-13T17:15:38+00:00",
+   "summary": "كورس أساسيات لغة SQL / محاضرة 8 / \"إدخال البيانات والاستعلام باستخدام MYSQL\" YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "SQL for Data Engineering - Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYnd3TmRESW44OG96RG1qRGtzWjhTZUY1Y2d1MThfOFNfUHVjajdVRlVSZkRjemczYUJ0Mzc2c2k0RDVzXzBTWHZYdlpzQlVMX2I5N1JB?oc=5",
+   "date": "2026-02-11T13:00:57+00:00",
+   "summary": "SQL for Data Engineering - Full Course for Beginners YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تحميل لغة SQL على الويندوز MySQL و WorkBench Windows | أساسيات قواعد بيانات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LY3JfVlVrT1ZVdEY5Y2FmeWJrNTlWZUdfNmNDOWNMcmJ3TmNabnV3Nm9WQVB1X0ZqdERjTHNRNUI3TENCZzI5aTBYaXlFR2dtTGRVNWF3?oc=5",
+   "date": "2026-01-31T15:22:33+00:00",
+   "summary": "تحميل لغة SQL على الويندوز MySQL و WorkBench Windows | أساسيات قواعد بيانات YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحميل لغة SQL على الماك MySQL و WorkBench MacOS | أساسيات قواعد بيانات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55amdvSVlLUHVzWUNZQUgzSkswWmUwZEhsWjVrSG5YSHVxWENaUnhkR01WSDR0bGJsOHJoZVhlbFloR0Q0NXpfLVB6dEFaeW1ZLTQwejVB?oc=5",
+   "date": "2026-01-30T19:15:15+00:00",
+   "summary": "تحميل لغة SQL على الماك MySQL و WorkBench MacOS | أساسيات قواعد بيانات YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحميل لغة SQL على الويندوز والماك phpMyAdmin XAMPP | أساسيات قواعد بيانات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HNG1ucERua250X3Q4Y25nQUZWMHNrOGcySnRpMkRKQS1xQlhaNHA5cUlVUVg2Wko0aEMxWFI4c3hES3lBRTFodDE1UU1pS19nMmNzdFBR?oc=5",
+   "date": "2026-01-29T19:30:14+00:00",
+   "summary": "تحميل لغة SQL على الويندوز والماك phpMyAdmin XAMPP | أساسيات قواعد بيانات YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس أساسيات لغة SQL / محاضرة 5 / \"مميزات لغة SQL\"",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jN0tsVlNzV1dTSmJkME9OM25BMGZOMTZMZ1dGUTJZQjZhUVBfcHBjSVZ5ZTFXSk5zU0ZDbEZYNXJBdFdjd3U1ajd3SWxnTF9Ec2NDTGpn?oc=5",
+   "date": "2026-01-28T13:54:56+00:00",
+   "summary": "كورس أساسيات لغة SQL / محاضرة 5 / \"مميزات لغة SQL\" YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "SQL Full Course 2026 [FREE] | SQL Tutorial for Beginners | Full SQL Course 2026 | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fTlBxNXVhblVUZmdQYlk2eVROc2xqdGl1VnRjS3BCeTZkTUl0c3ktRmZ1aXY1eXFKYUNSTWdsRFBpMjlGcjhsZ3VFQ3I1MmI0UGtCVWJn?oc=5",
+   "date": "2026-01-22T23:32:20+00:00",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial for Beginners | Full SQL Course 2026 | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "#1.2 DataBase Design Course | كورس تصميم قواعد البيانات",
@@ -1304,10 +767,30 @@
    "lang": "ar"
   },
   {
+   "title": "SQL Full Course 2026 [Free] | SQL Tutorial for Beginners | SQL for Data Analytics | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRnVtX0xVVTh6NFFFdzQwSm55LUY4Zkx0LUpBb2hMXy1PWjhBaTliYVA3d0h0XzZ5WDN3UDlYaXdlV1pxVE1aazROM3hDTUhhWDFKU0Vn?oc=5",
+   "date": "2026-01-14T16:30:17+00:00",
+   "summary": "SQL Full Course 2026 [Free] | SQL Tutorial for Beginners | SQL for Data Analytics | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تعلم قواعد البيانات MS SQL 2022 في ساعتين كورس كامل بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56cUpyYWlOTkRvZXdmMWl3eFpBaGlHaV9ERHJkQXVHdXBrMmVVckVhOGYtYkNienZhZG5aUW5wMjdWTlY3MHBuT0lRYUJTZkxWOHpjdl9R?oc=5",
    "date": "2025-12-14T18:00:21+00:00",
    "summary": "تعلم قواعد البيانات MS SQL 2022 في ساعتين كورس كامل بالعربي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ما هي لغة SQL؟ أبسط شرح لفهم أساسيات قواعد البيانات!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GbDZyVHZINE9CbHhWRVR5eDAySlBvc3hWLVQ3OGozRVVnMFB1WEZKRnFpOEZhNEk0eldMQmRtd2lXdFR5WlphMEhub2pEYWpacnk2N2NB?oc=5",
+   "date": "2025-12-10T19:56:19+00:00",
+   "summary": "ما هي لغة SQL؟ أبسط شرح لفهم أساسيات قواعد البيانات! YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1354,6 +837,26 @@
    "lang": "en"
   },
   {
+   "title": "1-كورس SQL - باستخدام PostgreSQL | مقدمة و تحميل وتثبيت PostgreSQL و pgAdmin",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HZ3NQUXFWTThoRzhhd1k5eF9oTC1KZmFwZHYzRGRRanBvVzVBalNpNmlPZEdsRXdnVWdLRmVPbjBBY3MyeHY5RTlPb19iMGRWdUFhYWRB?oc=5",
+   "date": "2025-09-11T22:08:13+00:00",
+   "summary": "1-كورس SQL - باستخدام PostgreSQL | مقدمة و تحميل وتثبيت PostgreSQL و pgAdmin YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "SQL Tutorial for Beginners 2026 | SQL Beginner to Advanced Training | SQL Full Course | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WVHFsUnJYMjBVVzFwRG5FeFZ0MU9jb0J2QWhSNnhuaGVxWHFVQngtOHhwaVk5ZUpDYU1rREx5TTVrNXdkRFU2bzVCcUMzVEhoODJsZ1FB?oc=5",
+   "date": "2025-09-02T04:30:20+00:00",
+   "summary": "SQL Tutorial for Beginners 2026 | SQL Beginner to Advanced Training | SQL Full Course | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "SQL vs NoSQL Explained | شرح مبسط | الدرس الاول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MeloyaUlTRWl6a2xvZ3FUSmhzYzNKdnNKQzFKOGktcHFtZWVLdXV2aHdrOWJrMU1IZDQ5WW5aY2VRVnpEejBVN21lc1ZRdEMxY0RVbGJ3?oc=5",
    "date": "2025-08-19T17:16:06+00:00",
@@ -1362,6 +865,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "SQL Full Course (2025) | SQL Course (The Only SQL Tutorial You’ll Ever Need!) | Intellipaat",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TaHVDVVUycWlWY01FcS1ELXU2RFZKaHoyOC15VnhPY0lEWlhjeG9nN3E3TWRWbkloZUpKNXFWLUdWRGxXcG42d3VQcXNrTFNMRVpGejB3?oc=5",
+   "date": "2025-08-15T13:01:40+00:00",
+   "summary": "SQL Full Course (2025) | SQL Course (The Only SQL Tutorial You’ll Ever Need!) | Intellipaat YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "SQL Functions in Fabric SQL DB | T-SQL Tutorial for Strings, Dates, Math & NULLs [Beginner Level]",
@@ -1374,10 +887,30 @@
    "lang": "en"
   },
   {
+   "title": "SQL Full Course 2026 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MMkgxWi1TOUdCVFhEVG1rWG9BdzlBem5oYWN3b0owWFVzZXZlZTRRY3hNVG1oRUZHVGxRNmhjelV2TjVYRE5FVDZyWHBYTnUwUGhzZU5n?oc=5",
+   "date": "2025-07-21T18:43:41+00:00",
+   "summary": "SQL Full Course 2026 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "SQL Tutorial for Beginners (Complete Course using MySQL)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vMGpuWWF0V3U1c0xyY1RMeUhrcVhJcUFTaHJ1Y1psOGpfeUFyUzBNTG82NmVsbUJpT3FtaTRLMTdpMlJKc196T3dDVFZkTnkyLVhJVkx3?oc=5",
    "date": "2025-07-13T15:48:18+00:00",
    "summary": "SQL Tutorial for Beginners (Complete Course using MySQL) YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Full Course 2025 | SQL Tutorial | Complete SQL Course For Beginners | Edureka",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qaVhDM2l3YVpHbTRibjhuM3FOOEtJbkJEZldFTnBsNkdVWEN6ZjZlNUFJWXNra1FzekdScHFFekpwa3RxVnBMM1pzUXNMUXZKZzlZeG93?oc=5",
+   "date": "2025-06-30T16:52:43+00:00",
+   "summary": "SQL Full Course 2025 | SQL Tutorial | Complete SQL Course For Beginners | Edureka YouTube",
    "tech": "sql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1404,6 +937,16 @@
    "lang": "ar"
   },
   {
+   "title": "SQL Full Course 2025 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zeGNncEJubV9raVk1QkFOYlpxN1JaZlRmaW5ZVEozSVZ3SFJiWV9YTnVjdFVseFN3VVB3NzNoQko4LWRuMUZ4MFh3cUpwUlVXeXA1RjBn?oc=5",
+   "date": "2025-04-24T21:26:15+00:00",
+   "summary": "SQL Full Course 2025 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "01 - ما لا تعرفه عن قواعد البيانات | أهم محاضرة لشرح Databases",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dV9UOVpRcGNCN2FtTXppUkc1ekFJM0gxWVU3X21RZUNyckt2Vi15c1hnSkljNDMzNVp0anRfR3ZyRGRoOS15bVR2NGxwUkxCcUVwR2h3?oc=5",
    "date": "2025-04-11T11:11:51+00:00",
@@ -1412,6 +955,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeGRFWWdoRkFaZDhQVGNoOXExeDUxcXBORjBMT3JlME9QbUlULUI3NWlrU29hT3JGRG55MkNpdl8zWUtJMWp6SjVieEhKajlpTmlWWWFR?oc=5",
+   "date": "2025-04-07T19:15:10+00:00",
+   "summary": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "مدخل إلى قواعد البيانات | الاساسيات مع SQL SERVER | فيديو واحد",
@@ -1454,10 +1007,70 @@
    "lang": "en"
   },
   {
+   "title": "Announcing Master SQL - Our First Premium SQL Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9odmdKekpEanNZaHlSdkc3Z1BBYW4zblF4TWUxSDZobDZTNlFvT3A2Qk9yYTBmWTNvMUpUOTVUX091UzdRVzVNdTFCSG1rVXVUTjF3bXRB?oc=5",
+   "date": "2025-02-18T18:25:21+00:00",
+   "summary": "Announcing Master SQL - Our First Premium SQL Course YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "شرح ثغرة SQL injection بالتفصيل للمبتدئين 💉",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCU01SSDBtZUxpNzV2UHlDcjZkMHdHbHRnSzdRaGdVcTNTR0RYcFg5SWx2RFpoU2hZb1M3Z2dnX3JiRnlzTEtXWmR1NTJybzl1RjVxN3lR?oc=5",
+   "date": "2025-01-25T19:00:06+00:00",
+   "summary": "شرح ثغرة SQL injection بالتفصيل للمبتدئين 💉 YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح SQL باستخدام MySQL Workbench | شابتر 4 - الجزء الأول | الطالب المتميز يوسف الشواورة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81Z0RWM0xqTGJVRDV6V0NfRjBSLTF6SFVpR0k2MmZNS0pkV0tITWhyd3JuSTZ0amNfWnd5bUNfM1N0UW5DZjYyV3JhbTV1ZGVNUGJHSXNB?oc=5",
+   "date": "2025-01-25T13:20:55+00:00",
+   "summary": "شرح SQL باستخدام MySQL Workbench | شابتر 4 - الجزء الأول | الطالب المتميز يوسف الشواورة YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "SQL Tutorial from Basic to Advanced | 30 Days SQL learning Challenge",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FOWViZUo2Z1FDVW9weFk0SHZUdno3R1F0NEc2Xy00Mlc3bERzODFUUEI5ZGk0OW9BVjducXdxY0NTYVFpbmFjN19TaDgyQXUtbjZuRHVR?oc=5",
+   "date": "2025-01-01T14:30:07+00:00",
+   "summary": "SQL Tutorial from Basic to Advanced | 30 Days SQL learning Challenge YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "\"SQL ببساطة! 🔍✨ تعلّم لغة قواعد البيانات في 10 دقائق!\" 🤔💻 أسرار قواعد البيانات للمبتدئين!\"",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpVER1NGVZYkxfbEdDcWRCRkpYQXV3VzFYMzJmTHczVnVXWEloQ2o1Z0JoT1d3NTZCSDBQd3ROYVVwLVZMZkxrUEw4dXFWWmdpV0FjdUpR?oc=5",
+   "date": "2024-12-30T17:36:41+00:00",
+   "summary": "\"SQL ببساطة! 🔍✨ تعلّم لغة قواعد البيانات في 10 دقائق!\" 🤔💻 أسرار قواعد البيانات للمبتدئين!\" YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الدرس الحادي عشر: شرح الـ Indexes في SQL Server | تسريع الاستعلامات وتحسين أداء قواعد البيانات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVU4yM0N0Mk5WZE10MmNsU01EcW5uc09DWkJYUThmRXpNbW84WnJhLVRBTFBPaV9NT3FmMkwydWZTclJUbDRuRmE0V09aelFqWi1zVEJn?oc=5",
    "date": "2024-12-27T06:14:25+00:00",
    "summary": "الدرس الحادي عشر: شرح الـ Indexes في SQL Server | تسريع الاستعلامات وتحسين أداء قواعد البيانات YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "بناء قاعده بيانات من الصفر بلغه SQL بمشروع عملي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40MW1zZk1TTmpKTzU5a180bkFSS05DOF8tYzVRb2RzcVlDWk9DMjVsUDQtQWFibk10U0ZwVk5ZM3dYNFFQQVBkREVaaVN5RFZET1VsVUtB?oc=5",
+   "date": "2024-12-03T01:28:18+00:00",
+   "summary": "بناء قاعده بيانات من الصفر بلغه SQL بمشروع عملي YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1514,6 +1127,56 @@
    "lang": "ar"
   },
   {
+   "title": "لغة SQL الدليل الشامل الأول - 5- التمرين 304",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYMVd4Zzl6eGU5aGtsNEVPdHA5TUpLRzNTUTM5c1VpNzdod1BjZGtUUHp0cnI3VUtTN2FLdDljbE4zc2F3bDRhLXBqeE9rUFhNVmcyX0VR?oc=5",
+   "date": "2024-07-14T14:00:17+00:00",
+   "summary": "لغة SQL الدليل الشامل الأول - 5- التمرين 304 YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "لغة SQL الدليل الشامل الأول - 1- مقدمة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ja1FHOTJFbHhQT3NwTWpkTWFCYUk2bGFDeTNNSERxZkdPdHJlR2t6bjlWaEIyOFJRVnkyd21rSmZfS3Y5V2lRWXJaSVZTSXlRaGhzZnFR?oc=5",
+   "date": "2024-06-13T14:00:17+00:00",
+   "summary": "لغة SQL الدليل الشامل الأول - 1- مقدمة YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Views in SQL , types of view in SQL بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WMTVqS2pOQ0pQQmhOVXVaSXBZV1V6MDFrblNuUURncV9pdEVlSlJNSmMxTjNXNGFaY21ISnhqWGU1SXBNZUVKX1VpYW9NUDg4S2ZZZzln?oc=5",
+   "date": "2024-03-14T16:47:13+00:00",
+   "summary": "Views in SQL , types of view in SQL بالعربي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كل ما تحتاج معرفته عن قواعد البيانات في 8 دقائق | SQL | Data Base",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tVXBpeVo2SE1XbmFCVUVJOGI1WkM4SUdLTXBjbEp4RFFzaUxWbEgtSWlpUThLRldVemhiMUpodmh4dWo1Ty11SzIzM1UzQkhvYkdHNlhn?oc=5",
+   "date": "2024-03-07T18:32:49+00:00",
+   "summary": "كل ما تحتاج معرفته عن قواعد البيانات في 8 دقائق | SQL | Data Base YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحليل البيانات باستخدام لغة || SQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IYlVNSkd4dDdLVktidTJZRlJHMHVNRWtSUkgtdThyR0ZtenIxUlVBTzdCQ3hxa2hhakRLR1Q4WEpiOFpIYUNGNHFrT0pnQzh4S0htamhR?oc=5",
+   "date": "2024-02-23T13:43:03+00:00",
+   "summary": "تحليل البيانات باستخدام لغة || SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الفرق بين SQL و MySQL | ما هي قاعدة البيانات و كيفية التعامل معها؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cElKVHc2QW1HRnZmTXlrT0hnSDh0NHBBLThsalVjYXFVMDRyNzZCaGhEMnc5RzlLWmpDZ0pNVVZTYmxlR1M4TTU0SHZsdkgyaVlDY2Nn?oc=5",
    "date": "2024-01-03T08:51:12+00:00",
@@ -1548,6 +1211,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fMi1DWHBHMnRtRXBWU3dhYm5CQkxZUFdJWkdFU0VuWV9KQzlCb1J2bEQ3cUxSaGFzaU5DTERsZXhhWjVILTJ4N0JNU1dneDV1N1RSaWFn?oc=5",
    "date": "2023-11-04T13:54:49+00:00",
    "summary": "الدرس السابع والستون:شرح طريقة استعادة البيانات عند فتره زمنيه محدده لقواعد بيانات SQL Server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "01-Oracle SQL (Introduction Part 1) By Eng-Helal Ahmed | Arabic",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pVjl2NnVmTUdOZWtQTUROdFlrUlRMOGlwX3EzOEdOMkIxSmJsc1ZWLTVOcHFmbXZPOHNGU1RIN1c2WXE0a0RfV0pqMmtkQWZNWHpfWl9B?oc=5",
+   "date": "2023-10-14T18:16:39+00:00",
+   "summary": "01-Oracle SQL (Introduction Part 1) By Eng-Helal Ahmed | Arabic YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "شرح أومر #Sql لجميع قواعد البيانات (insert , Delete , Update , Select)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sR01IUnoxYmxwVlJET2ZoNFpLc0pnN0d3SGdZaXUzX3dsLXBFUTdiLWo2TTJCaHN5MHBkYVI0TjZZVEc3TC0zTEoxQWlsbGxmWW1hRHV3?oc=5",
+   "date": "2023-09-30T05:50:24+00:00",
+   "summary": "شرح أومر #Sql لجميع قواعد البيانات (insert , Delete , Update , Select) YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1594,10 +1277,70 @@
    "lang": "ar"
   },
   {
+   "title": "طريقة عمل خطة صيانة قاعدة البيانات Data Maintinance Plan In Sql Server",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54OXlNYjV4dHlucHlkRGNGWm51TzUwaTlvbWdqY0lwOEdUWmYtTzNreFM4R2tTeEN4Yk03SnVWTUY4b0xWZC1BQThIdjVXZE1OdjRITld3?oc=5",
+   "date": "2023-07-25T22:49:03+00:00",
+   "summary": "طريقة عمل خطة صيانة قاعدة البيانات Data Maintinance Plan In Sql Server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "2- تعلم أوامر إنشاء، حذف، وتغيير قواعد البيانات باستخدام MySQL - دورة SQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDM2VkTy0xTUtyRExHcndxT2RxclpxZXV6am5NSjUxVFlYZEZuemRfY0NGZGd5bm8tVkVrbGJ0QzJvY013aENFdUM2dUFwYlNnZnZldkZ3?oc=5",
+   "date": "2023-05-12T17:02:18+00:00",
+   "summary": "2- تعلم أوامر إنشاء، حذف، وتغيير قواعد البيانات باستخدام MySQL - دورة SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#1 قواعد البيانات SQL جملة الإستعلام SELECT",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mVjJZSDhuSDBxQXFZNl9pRmtVX2dwT3ZTN3pLMGJWZ1IxRWFtS2VxRXNuR2Y4a3hfRDlQdG5HR2NIOWNnNFl1VjJqUDdDUHN5b3dOdmhn?oc=5",
+   "date": "2023-05-08T10:08:24+00:00",
+   "summary": "#1 قواعد البيانات SQL جملة الإستعلام SELECT YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "01 - #SQL - Plan de formation | #Darija #SGBD",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3YVRxMjZGZ3NqdTctVTItLVN1NHM0UVFoQ3NWbW5aRHhYdU54TUoweklhY1hGUjlEcExxcXZKc21IbGxNREtnNUhDWkJuc2hYSUpWQjRn?oc=5",
+   "date": "2023-05-06T11:41:48+00:00",
+   "summary": "01 - #SQL - Plan de formation | #Darija #SGBD YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "اساسيات عن تصميم واجهة مشروع وربطها مع SQL",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDV3ZRbDlKekRudFpKNUxOMGhBOXRUc2VIcFlPZkM1OWJFVmxKZ0k0Rmw2ekZsdDhKbzFGeWt6OG5HQ3ptLXdUZXNFVUZoek5tWnN5UVpR?oc=5",
    "date": "2023-04-18T06:17:40+00:00",
    "summary": "اساسيات عن تصميم واجهة مشروع وربطها مع SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الدرس الاول : شرح مفهوم وانواع الـ Triggers in SQL Server",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tMkZpUjNCdTVjS2doWlRER0tSTTBybHFWQTFLclpKTjRNWWV4YjhsT2xwTF92ZHdKVU1leWlRTE9VMUZONVJwNXkwcXFlbmpMV01KenlB?oc=5",
+   "date": "2023-03-29T20:21:31+00:00",
+   "summary": "الدرس الاول : شرح مفهوم وانواع الـ Triggers in SQL Server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "12 - استخراج البيانات من أكثر من جدول INNER JOIN in SQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1scXRDb1R1WFVYcXNYbXEtYnFGWEFkWFpRTTB3SmQwQ1pQbDJSdExXeUpfelBtYUhuVWNfT1I5LXM0NUN6ai1tMW15Q0VKRDc1Mkc2SUZ3?oc=5",
+   "date": "2023-03-26T19:34:36+00:00",
+   "summary": "12 - استخراج البيانات من أكثر من جدول INNER JOIN in SQL YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1614,13 +1357,13 @@
    "lang": "ar"
   },
   {
-   "title": "العلوم والتكنولوجيا تقيم دورة عن تصميم وحماية قواعد البيانات البرمجية",
-   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNQmU2cFU3b2xRRjczX1M3emxJVlB1TklmcFhDd0MzSVhhY3A0TkdyMWtoSGJFRG1IcllwRjVISlZJQnBGTkNtM1dYOHNudjh5RkdhY05DNWFGUnQ4b3dPblJ5Z3BHM193OFdDc1RtYVdETElOemZKNUNibXhtYUxnSWVJY0ZHMkJqbVZGUVJKcnZoTTZQdUhKZFk4c3JYMzNPbFBWUndJMlVhRUlnRTlsRklNdEp2aURrYzhUMG1xbER3aHhwbTRzMy1VX1ZfbTA2eWxzbzQzQ1loRGhOZmU1aFZ2d0JiNjB5dy16blVnUFRLVW1IQXBBUHRNMXJrZHRaUW9Oc0J1bjg0UjFSQTlJaFN2SjVoMXl6cjBtZndLb0cwU2tnbDgyYWQ4QW92ejFWMHBzbzlIQi01QUJXSFB0bmlDQm5pM1BSMEMw?oc=5",
-   "date": "2023-03-17T07:06:33+00:00",
-   "summary": "العلوم والتكنولوجيا تقيم دورة عن تصميم وحماية قواعد البيانات البرمجية وزارة التعليم العالي والبحث العلمي",
+   "title": "08 - أسهل طريقة لاستيراد البيانات من الإكسل إلى SQL مش هتاخد منك دقيقتين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PcHhEb2NsamFNaXlTdUhneWk2bTlmSmw2TVZwSEhDczd1ZzlCd1ZvdEpJbHdiNkhYTDFVOTYtMzlPN2RoZVVxYngwRGw1MWZjQkJLNlpn?oc=5",
+   "date": "2023-03-17T16:26:26+00:00",
+   "summary": "08 - أسهل طريقة لاستيراد البيانات من الإكسل إلى SQL مش هتاخد منك دقيقتين YouTube",
    "tech": "sql",
-   "sourceId": "ar-news",
-   "source": "وزارة التعليم العالي والبحث العلمي",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1632,6 +1375,36 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "المحاضرة الثامنة SQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJdXNBaWpVOW9acC02a1g5aGFsdndxN1FmNmpmSFEtQjJHWUo5NVFvdkFsQ2E2LUxoU3IzUFR2Nk4wZ1hTTFRRSDdRTnF3VUZoY1czeDdB?oc=5",
+   "date": "2023-03-06T22:22:24+00:00",
+   "summary": "المحاضرة الثامنة SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "| SQL Server - 2nd Course | - | 2nd SQL Server Course |- | Introduction |",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZ3lISEdsMXNGazZYbXgwR0Q4Wmd2RU1zZTBoRzJFOXlxS0FuNE44WHlmV0VjcWRfOTVDTXlvamdFcWlFV0xpTmFoN1MyNGhlUzFKdUJ3?oc=5",
+   "date": "2023-03-05T18:19:11+00:00",
+   "summary": "| SQL Server - 2nd Course | - | 2nd SQL Server Course |- | Introduction | YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "| Database Course | - | Revision on Basic SQL Select Statements | - Full Video",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYbDhPVFpFR2RvbjhqZEhGY25zckt3bWp4QTJZWEpSTGp0OVFKY0tHSW1sZkFrcURHRllUSUxoYkhza1VUS2F2SW9helJ6QjBfajJ5QVl3?oc=5",
+   "date": "2023-03-04T09:53:24+00:00",
+   "summary": "| Database Course | - | Revision on Basic SQL Select Statements | - Full Video YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "🔥دورة MySQL دورة كاملة في 6 ساعات فقط🔥",
@@ -1664,6 +1437,16 @@
    "lang": "ar"
   },
   {
+   "title": "Lesson 7 - SQL Server - Select Statement - Part 1 استرجاع بيانات من قاعدة البيانات الأول",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Lc3E0M2x4WURUS25WMlBkOXBsbHNTc2k3OEJsU2tqb0U3czhjc1hhN1kwNjFxVmQyTUl0b280VlMtdW5Cdmt2aGwwM1hQYzBUaVV6NVVR?oc=5",
+   "date": "2023-01-14T22:43:53+00:00",
+   "summary": "Lesson 7 - SQL Server - Select Statement - Part 1 استرجاع بيانات من قاعدة البيانات الأول YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "27 قواعد بيانات MySql بالعربي | الاتصال بقاعدة البيانات عن بعد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xYnc3TnBSM0VTenFLMm9TR1RtRThKdGZ0MHVzSXdsdkxDMWpYTm1DTEhPb3dVZHU2MjFMRWxuNXJlMTB4RUVDaHd0MnpkcVZhb1A5cEhn?oc=5",
    "date": "2022-11-25T17:34:57+00:00",
@@ -1684,10 +1467,40 @@
    "lang": "ar"
   },
   {
+   "title": "2 انشاء قاعدة بيانات Create a database in SQL server",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oT282el85cnJVTmVBUU9OVlN2bzlqY1RyQ1dFTGpHNlRvdmpHOXN3eWZOMnZOMXZ2VHB6djktWW1iMGtZcUExTTFjeUpuMkpWSXZuMXRR?oc=5",
+   "date": "2022-11-18T12:50:14+00:00",
+   "summary": "2 انشاء قاعدة بيانات Create a database in SQL server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم قواعد البيانات بكفاءة عالية واحترافية | sql tutorial course DataBase",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8teDM0enhVYm1BeDRJSzRzRDg5WUdkWlpMcDl0QUc2UFZYMXpOaHBSenFYVlpmalRTajRfSDRRRTVhc29RTnRUV3V3bk1IS1dWcTVPa1Fn?oc=5",
    "date": "2022-10-30T15:01:28+00:00",
    "summary": "تعلم قواعد البيانات بكفاءة عالية واحترافية | sql tutorial course DataBase YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#4 Relationships -العلاقات بين الجداول في لغة SQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nakpFRUx1QldQOFRCbTV4MW1hRGxYSk5OdEV0QkhyYnBSNUpDbm4zUzVKU0ZuaEdPUVFxZVcwX2wtay1aek11RzBJY09YUWxiZ3EySGh3?oc=5",
+   "date": "2022-10-08T08:43:23+00:00",
+   "summary": "#4 Relationships -العلاقات بين الجداول في لغة SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "007 جملة SELECT في ال SQL Database",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfbVMyQ1F1X19ncVVhNTZFckYyaVBETE11MDBIV281SXNhOFFieWxXN3o3WkhWTHRqLTBVMVkyd3JPWWxIMnFKTUNWYXk4MkhZVEc4SC1B?oc=5",
+   "date": "2022-09-26T14:46:01+00:00",
+   "summary": "007 جملة SELECT في ال SQL Database YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1708,6 +1521,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVzBzXzRrY1N3M0wtUVFFRGxDOHFwQk56SW01YXlfZVc5bGFOWHhRZmpud0RHakFRVl9panFWUVRqQTlmYllyQXg4aGJIMnQ1QTlMWGJR?oc=5",
    "date": "2022-09-03T13:00:12+00:00",
    "summary": "تعلم أوامر SQL بالتمرين - نسخة محدثة- YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#3 ERD In SQL Language - شرح مخطط العلاقات للكيانات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13aW9mVlN0TVZBMVBoa3l3UXl5S3ROby0zU2Z5cTVuX1hKd0dMQ3ViajBoeU9xbTRpMEhPUUdJOU9aS04zaF9idFdxZVhMYjBOZTBybTlB?oc=5",
+   "date": "2022-08-24T13:19:23+00:00",
+   "summary": "#3 ERD In SQL Language - شرح مخطط العلاقات للكيانات YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1784,10 +1607,70 @@
    "lang": "ar"
   },
   {
+   "title": "شرح الدرس الثاني (الاستعلامات ولغة SQL)من الوحدة 1دورة ZOOM 2022 تكنولوجيا #توجيهي علمي وصناعي 2022",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGNUhqOEJjMzk2eGN0Y2VuWm1pV2xFbUFmTVQ5WDZPZXA3TnN2aHVOLXRRbkFKbEh6LXZZZzBHV01CaU1XQnIwSWdBNWdQN01GeU5DWi13?oc=5",
+   "date": "2022-02-10T16:40:03+00:00",
+   "summary": "شرح الدرس الثاني (الاستعلامات ولغة SQL)من الوحدة 1دورة ZOOM 2022 تكنولوجيا #توجيهي علمي وصناعي 2022 YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "طريقة جعل عامود كا Foreign Key او حذفها عبر SQL | دورة تعلم SQL و MySQL كاملة 18",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44cmVXNHl5ZFJ2UU15aWtEczl1LTlCcTlCa2hpQzE0OUtnc01FRXc3dXh6X19LU0dPamhLa29sOHVqVUNxcE1vZlZHWG9vQlpKUlY4MU13?oc=5",
    "date": "2022-01-21T16:04:25+00:00",
    "summary": "طريقة جعل عامود كا Foreign Key او حذفها عبر SQL | دورة تعلم SQL و MySQL كاملة 18 YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية اضافة عمود جديد لجدول اكسس بلغة SQL : ادارة قواعد البيانات: SQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KRjZaZ1JxX1JkbEx1MWU1clZRVUg2aGtidXJJNXRpN2VrRzBxMWdMWVMwWi0yODJVb0psUXhQaDduRkdnckRVQnNLRVBOMmRobHhaRlBR?oc=5",
+   "date": "2022-01-14T19:18:47+00:00",
+   "summary": "كيفية اضافة عمود جديد لجدول اكسس بلغة SQL : ادارة قواعد البيانات: SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "020 قواعد بيانات MySql بالعربي | إضافة سجلات إلى جدول INSERT INTO",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00bnVwMnRjZDhBQmE4ZTZuUDRrY3NHbjlITWRQZnl6SEcxcHoyM2pFYnBMc1Bna2k5NlJnOXRhUGktUHI2NVcwVXBWeFgyVk1WYm52TVhR?oc=5",
+   "date": "2022-01-14T09:00:34+00:00",
+   "summary": "020 قواعد بيانات MySql بالعربي | إضافة سجلات إلى جدول INSERT INTO YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "SQL Server Search for Column or Table | كيف تبحث عن عمود او جدول في سكويل سيرفر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsYXFnazZUVnBjWmZGYmFnQnBZQjNtb1Jhc2Mxbi1uNDdHVXNIQmNFMlNaVzF0MEZmU21CNWsxMVVDMHN3eUd1ZU9PUy0yMTRCaUN3UHdn?oc=5",
+   "date": "2021-12-30T22:26:01+00:00",
+   "summary": "SQL Server Search for Column or Table | كيف تبحث عن عمود او جدول في سكويل سيرفر YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح درس الاستعلامات ولغة SQL || الجزء الأول || توجيهي || علمي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhX0RiUkIwZ284RUQ5Mldya3Z5R3hhY3A4eUZxd3RabFppdnBpQXNCaVZYM1MwbkV2eEZfV2IwUFY1M0tHLVVNWFVtXzc4TjdicjJaaWRR?oc=5",
+   "date": "2021-12-11T20:15:06+00:00",
+   "summary": "شرح درس الاستعلامات ولغة SQL || الجزء الأول || توجيهي || علمي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1. كتابة جمل SQL بسيطة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oNGxTUENuLXJSaVNCTm12ODlDd0NBenN0MXJFcWFVbHBEN3dCV3FyeU5sajNKbG80UnI4UTZaaDZsMXM4RG5YR0xEZlZ2T0hRMmlmc0d3?oc=5",
+   "date": "2021-10-28T11:48:36+00:00",
+   "summary": "1. كتابة جمل SQL بسيطة YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1814,6 +1697,16 @@
    "lang": "ar"
   },
   {
+   "title": "#001 Introduction To Database [ شرح بالعربي ] #dml #sqlserver #sql #jumpstart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMmF1d1NGdWE1SXBRT3lENmV6VE5BVzJzMXVwMlh5a1JZMk9Ib3B6Q0VkTi0zdi12M0k5LVZIOXM3NWhaNGdyVTRyVDZPa1BHM3A4aDd3?oc=5",
+   "date": "2021-08-27T05:39:42+00:00",
+   "summary": "#001 Introduction To Database [ شرح بالعربي ] #dml #sqlserver #sql #jumpstart YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح SQL JOIN - طريقة تحديد بيانات اكثر من جدول في نفس الوقت | دورة تعلم SQL و MySQL كاملة 33",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HUTNjZTh6NTVpZDlrZ181emhfdkRKV3Jvdkk3RU5OMWRMc1ZHMUxFRnhZNXBTTlZKdVQtNEd4ZDltNGVGWS1scVBrWklWSXlZWFBKOHRR?oc=5",
    "date": "2021-08-21T10:26:19+00:00",
@@ -1824,10 +1717,50 @@
    "lang": "ar"
   },
   {
+   "title": "04 - | MS SQL Server For Beginners | - | Create Database & Drop Database commands |",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12S2JkX1lBT2RQVTFBYmhfMUdBejM2V2pXX0J1RFBwUXY2SDZQYlI1b1lOZmhjaTFucHBUN2JzS1hNTzZ1eEp4QnNvQ3pMTnhXOWU2OThR?oc=5",
+   "date": "2021-08-05T15:28:38+00:00",
+   "summary": "04 - | MS SQL Server For Beginners | - | Create Database & Drop Database commands | YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "02 - | MS SQL Server For Beginners | - | System Databases - Create Your First Database |",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWHE4d1RDdlhLZ1FXLVJNWFVac2hxZ0syWVFSZkREVDliV01RY1VoV2NrbTFlUkRCbDlZZmNhUGZUbGRkbmJ1TlpUTXBpa0ZCVGhsLW93?oc=5",
+   "date": "2021-08-03T22:05:00+00:00",
+   "summary": "02 - | MS SQL Server For Beginners | - | System Databases - Create Your First Database | YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OS0VfQmtoWGE3SV8tMFlkUHY3Y1dtRWJiSGFad3F1MkJxX3FpRE9CV3hSTDhOaDM4RF9jYkZFejYtcUgzVjB6Z1ppUmdDb3A5N3BJY2ZR?oc=5",
+   "date": "2021-08-02T12:07:38+00:00",
+   "summary": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "حل اسئلة الامتحان العملي لمادة تصميم قواعد بيانات SQL",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43S08zUkluaXRVLTdQQWlEUnowclhBRGxIX1Rma1FBakQ3cnVCOUc4cjVfSjlNakkwVnQ1WnVhUWdRQTNQOWc4Q2p4X2dXSW51Nkhpb19R?oc=5",
    "date": "2021-07-02T13:07:58+00:00",
    "summary": "حل اسئلة الامتحان العملي لمادة تصميم قواعد بيانات SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية حذف قاعدة بيانات وبالكود في سيكوالsql server",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zNERRRFA1dVk5djUwUWo0QUNZSGVGSks0QWpGZGpVS2JOVEtxRTNTamx5TnlwTVRoSS00SmE1bUk0Rkh5bGRuYWRtWWU3aS1UdkxUODZB?oc=5",
+   "date": "2021-06-07T19:15:29+00:00",
+   "summary": "كيفية حذف قاعدة بيانات وبالكود في سيكوالsql server YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1984,6 +1917,26 @@
    "lang": "ar"
   },
   {
+   "title": "كيفية ادخال بيانات في table بلغة SQL في برنامج Microsoft access",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DRi1kb21uand2RklRZ2pJSVRWZGlRYW1fZ1FQbjlVWGFXd3V3ZHppaXdwZVNYZkdZaDUwWGhYZU1KRVRIVS0tXzVJdHRPeDI5bTlDaTd3?oc=5",
+   "date": "2020-11-27T16:02:31+00:00",
+   "summary": "كيفية ادخال بيانات في table بلغة SQL في برنامج Microsoft access YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية انشاء table بلغة SQL في برنامج microsoft access",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vLWJqSndPRldDLVlZQ2h6QmV4QjFjajhhaUFaUkhEZnlxR244Rmk5QkVkV1JaQ1kwWDlFV1hnTVJ2QURZSWhTcVhWaWQwcU5LUnc0Nzd3?oc=5",
+   "date": "2020-11-27T15:57:34+00:00",
+   "summary": "كيفية انشاء table بلغة SQL في برنامج microsoft access YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح ORDER BY و الفرق بين ASC و DESC & طريقة ترتيب نتائج البيانات | دورة تعلم SQL و MySQL كاملة 20",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4b3AzanhoOFViU3YtekhtMlJjTW9oS3J0YmFuekJISEZpbTJGNTBCczk5a2ROa2FzN3ZfOXMzNTBVaFJNLXdGWUVaRXF6cGt3R09TRXdB?oc=5",
    "date": "2020-11-20T14:11:51+00:00",
@@ -1998,6 +1951,86 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SVjluekYtSnlKNW9pX2IwVG04Z2JSODE1WW5KaG1kV1JzZjFUOHNMeUJacWtuZHZNb3IwVGl0MW9nMWdxRXk4VjFuTnlfUzJ0SDdZYXZR?oc=5",
    "date": "2020-11-18T16:32:22+00:00",
    "summary": "شرح INNER JOIN - طريقة جلب بيانات من اكثر من جدول | دورة تعلم SQL و MySQL كاملة 19 YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استعلام الالحاق Insert باستخدام لغة SQL - توجيهي علمي وصناعي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zZkRwcmJPZ2pncXdDc0lMSjVTSF9KSVpGZm1OVmd4SVBBN1oybllVUkxaMHlDT3I1RnFWdFMzX1oxQmtrVTJQaHJMY1hnRXlWY3BSeFZB?oc=5",
+   "date": "2020-10-09T14:15:01+00:00",
+   "summary": "استعلام الالحاق Insert باستخدام لغة SQL - توجيهي علمي وصناعي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استعلام الحذف Delete باستخدام لغة SQL - توجيهي علمي وصناعي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jQTk5N2N3US1VVGtBSnQ1ZldPa210ck55QzQ4Z3ZWSllZYWVaREtfcmJEYTY5cEcwNEliVDZmVnFpc2NvMW54aDJlYnpkOXFGT1RCcmZR?oc=5",
+   "date": "2020-10-09T10:00:04+00:00",
+   "summary": "استعلام الحذف Delete باستخدام لغة SQL - توجيهي علمي وصناعي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استعلام التحديث Update باستخدام لغة SQL - توجيهي علمي وصناعي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mVXZFb3hxN1NuR1RQZmM3bkZSWl9QalMtVzJlaW4xZEtuN3p0eUgyMTFCV1RyY3E4RFRVeDlfVVJoeFE1Y0lJR0RONXVDQ2lzbGhJcDZB?oc=5",
+   "date": "2020-10-09T01:58:52+00:00",
+   "summary": "استعلام التحديث Update باستخدام لغة SQL - توجيهي علمي وصناعي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استعلام الاختيار (التحديد) SELECT QUERY باستخدام لغة SQL ( الجزء الثالث [الفرز])- توجيهي علمي وصناعي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lN1JjVDhndEgwU2tWZFFPTnhVUlBNblZDM1NzbG1vdjlJX3UxS2U4RGstY1UwcTl1T2wtMWtZZFRtVzU3T0dhWnFOX3FrMk5XX3QtMmtB?oc=5",
+   "date": "2020-10-05T17:00:01+00:00",
+   "summary": "استعلام الاختيار (التحديد) SELECT QUERY باستخدام لغة SQL ( الجزء الثالث [الفرز])- توجيهي علمي وصناعي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الثاني ) - توجيهي علمي وصناعي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZVlHTGZ1ZWNzRjdDZEZOallQX0g2Xy1CWGdqdElKMV9YNnVKdkc4MUlUdy1JQkRlYXlGQUk1ZU1MRW9zdlpmdVlENXQzb3FJRFJ5bTB3?oc=5",
+   "date": "2020-10-05T12:30:01+00:00",
+   "summary": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الثاني ) - توجيهي علمي وصناعي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الاول ) - توجيهي علمي وصناعي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ER0FhSFBmMFZQUmlpMlg2aFlDV2pfODFkVUd3ME5PdUg0ZVN1VTV2LUVLTDJJSkpwZkRkUlJEbkI5ZW5rcHhiQWhPX0U3VFZGUEN2VVFn?oc=5",
+   "date": "2020-10-05T08:00:17+00:00",
+   "summary": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الاول ) - توجيهي علمي وصناعي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الاستعلامات ولغة SQL ( مقدمة ) - توجيهي علمي وصناعي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdUphYzFNSjh6MzA0TU90MF94VEo5dEpHSmNKSjBoNkJyWXlzVk94QWlsV09sbXJBeGJ0eUVScE5RaVdjUUcwSTZveXUxNjd3RWVDTEdn?oc=5",
+   "date": "2020-10-05T02:21:32+00:00",
+   "summary": "الاستعلامات ولغة SQL ( مقدمة ) - توجيهي علمي وصناعي YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تنزيل وتثبيت install sql server 2019 بالتفصيل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96eEk2eHl3ejNCSXNtSjdybmlQc21JU2Y1NTR2QjBPRFBqOUpITm5uX1RDbmloTHJJeWNqN2YwTkhaSXh4LUdSbDN1ZEJmQl9pX1FSVFpR?oc=5",
+   "date": "2020-09-22T21:24:41+00:00",
+   "summary": "تنزيل وتثبيت install sql server 2019 بالتفصيل YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2038,286 +2071,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55OE8wZ2JMQXRLV3FqaW5TWjJRUUtrXzdBSkVBMHRXR2VmX09nMEVTVWZmZ1VndExkUGJoMDdLLWRWZWY2T0hmek5YNnpkMlI5aWZGc3Z3?oc=5",
    "date": "2020-08-06T17:59:19+00:00",
    "summary": "شرح كيفية انشاء قاعدة بيانات على سيرفر محلي & شرح phpMyAdmin | دورة تعلم SQL و MySQL كاملة 2 YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "SQL-MYSQL -1- :Database SGBD مقدمة حول أنظمة إدارة قواعد البيانات",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rQWw4WC1ub0s3S3BHMUNvZ2R1ekpkMjNfLTNaZ1hrZkV0cXhFb2JMSkg2NFlEZGRCNlkwM29SMG1xbjlMWTNhNWVheVFwSTBXWmgyNW53?oc=5",
-   "date": "2020-06-08T15:27:55+00:00",
-   "summary": "SQL-MYSQL -1- :Database SGBD مقدمة حول أنظمة إدارة قواعد البيانات YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اوامر ال SQL قواعد بيانات 2 الجزء الاول - SQL Commands Database",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOSnRMRVRCQWxvUS00ZWFkVFdIdnBCUFZjcjVDRUJVZHU1NlNmU2VOQjJxYlFZeDlQV2czRU1SUklCV2NMc1ZxdFVhUDlfTlFqbVdQdEJR?oc=5",
-   "date": "2020-01-08T19:26:34+00:00",
-   "summary": "اوامر ال SQL قواعد بيانات 2 الجزء الاول - SQL Commands Database YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة تعلم sql server للمبتدئين حتى الاحتراف - كورس تعليم sql server 2014",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BclloNHN0X1hNN1VfemQ4dkE2RXBwV2dqYjRuQzhYZDc4QkR3TkNHS1VrTWtXRldGQVhKZEUtRHppMlFPQno5Nnh1Um0zVGFDV0xQMHh3?oc=5",
-   "date": "2019-09-10T19:18:12+00:00",
-   "summary": "دورة تعلم sql server للمبتدئين حتى الاحتراف - كورس تعليم sql server 2014 YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Sql Server 2019 Query Course-كورس قواعد بيانات من البدايه -سيكوال كويرى-كورس تعلم سيكوال سيرفر من البدايه",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BQkluMlA0ZldaSHEyOW1pQnVqMTBzdkRTcldZUVlCdnRicktLdjdrZUY5Sk5NUk5RaWtLaW9DNmtmejVvLTdXTkNfRm5hMmQtUG5ITldzdFpDd0stQzNOamhzNnVDYkRiMFBmTUUxVngybXVrd0d1WGZYQU0?oc=5",
-   "date": "2019-07-03T03:14:16+00:00",
-   "summary": "Sql Server 2019 Query Course-كورس قواعد بيانات من البدايه -سيكوال كويرى-كورس تعلم سيكوال سيرفر من البدايه YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "40 حذف البيانات من الجداول في قواعد البيانات Deleting Data In SQL Server",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vUGUtUEVIV05Wd21XaGVvZVhjUzEwVnphTFlocUVEZVNRN1psMUdqSjhWUmIydzlTWkM5R25xZkZhVHRWWldheGp6Y1RhMVdBc0pGemN3?oc=5",
-   "date": "2019-04-13T14:07:53+00:00",
-   "summary": "40 حذف البيانات من الجداول في قواعد البيانات Deleting Data In SQL Server YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تثبيت وإعداد قاعدة البيانات MySQL",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jS0RSSzhjckNpTXBuOFZ2NXJudXdzaWg0LXIzYlFGTXh4aGdHaktxb1ItWnNmRkY0dkpIdGc4TWlPTkhqVmgzZFdMWlFfMHdBU2RhckVR?oc=5",
-   "date": "2019-03-09T12:36:35+00:00",
-   "summary": "تثبيت وإعداد قاعدة البيانات MySQL YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "15 شرح العمل مع دوال التوقيت و التواريخ في قواعد البيانات Date/Time Functions In SQL Server",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZb21oY0RDM3JsZVVoZUR6ekJQMmh5V0lYSWJhY0liVjNDaG03RDR3c1NsUzV2RWtZaWtaZkJCdUdXTm41Vk8tSkgxNTQ1bXFQckRZZTdB?oc=5",
-   "date": "2019-03-08T13:11:03+00:00",
-   "summary": "15 شرح العمل مع دوال التوقيت و التواريخ في قواعد البيانات Date/Time Functions In SQL Server YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "8 شرح العلاقات بين الجداول في قواعد بيانات أس كيو آل سيرفر relationships in database",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvdGV6dXNTZkQ4MDRXQ2ROOVM1dURFZ0FTSXg2d0dFTVozenNKb0MtTGdjeE0wWjJyQUN6eUZBQWV3ZW51UEpmbVdhTEQ2cW5YTUNVX05n?oc=5",
-   "date": "2019-02-28T15:52:25+00:00",
-   "summary": "8 شرح العلاقات بين الجداول في قواعد بيانات أس كيو آل سيرفر relationships in database YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "5 طريقك لإحتراف قواعد البيانات - تنصيب بعض النماذج الجاهزة لقواعد البيانات Databases samples",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4VHhTTnhOZGI5N2tpcTJLMTNJTmJlMzNwQWtDTUxGbUNyNF9IYmloOHZXOFpFaWR4amgyQTViZTZqcTllc3dfNVZEUG10eU1NY1dVRGtB?oc=5",
-   "date": "2019-02-26T09:52:52+00:00",
-   "summary": "5 طريقك لإحتراف قواعد البيانات - تنصيب بعض النماذج الجاهزة لقواعد البيانات Databases samples YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس برمجة قواعد البيانات بإستخدام سيكول سيرفر Database with SQL Server",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91WEp6WW02ZHhCNUpwdDZRb1FhUWlFU2liU0RuZUlfRDV1bWMtSWRoRDZkbWk3RzB3N1hRaVhrMjFadFFlRmprS1ZGT2JEXzQzVXR5OEZR?oc=5",
-   "date": "2019-02-09T14:45:44+00:00",
-   "summary": "كورس برمجة قواعد البيانات بإستخدام سيكول سيرفر Database with SQL Server YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم SQL كل يوم لمدة 5 دقائق: SQL INDEX Statement",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1faThFZmZja0RrSl9PVGI4cWY0dmJSd0MzNjhzRDhRN3JCN0JYS3lsbDZUdmtzRl8tbVRJTU5Gakx0cmRjcVJhaHkzQVdfMjk2aEk3TWV3?oc=5",
-   "date": "2018-10-14T15:00:03+00:00",
-   "summary": "تعلم SQL كل يوم لمدة 5 دقائق: SQL INDEX Statement YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم SQL كل يوم لمدة 5 دقائق: SQL HAVING Clause",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NTHJwYU83THAxMm5Pek9nd3pCUFpELThreTlrNUd3Z1NVZ2pzM0t2R3JSam4zQUZoZ3VYWlJjQU41WldGbU1yaDFhczJVeWZoQ0dFT0Z3?oc=5",
-   "date": "2018-09-23T15:00:01+00:00",
-   "summary": "تعلم SQL كل يوم لمدة 5 دقائق: SQL HAVING Clause YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم SQL كل يوم لمدة 5 دقائق: SQL GROUP BY",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yZGZCY2NoUWVZS0k1bkVnNDlpd1p4akpDRkJYNGhhZU51OTNEMzNhajJXOVVVRThkeUpQTkViTDNWdk5OWElEemRFb1NwV01KemZrWFRB?oc=5",
-   "date": "2018-09-22T15:00:06+00:00",
-   "summary": "تعلم SQL كل يوم لمدة 5 دقائق: SQL GROUP BY YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم SQL كل يوم لمدة 5 دقائق: SQL SELF JOIN",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xelhSX21aaE9mZUYybXVtNnlxUFNvT1BhWEdwMkJrRzdJWFM0dTlYck9JNm8tSWVwcTJXSVdtU0k0R04wSW8wd0RVa1paemdoSUlKaDhR?oc=5",
-   "date": "2018-09-20T15:00:02+00:00",
-   "summary": "تعلم SQL كل يوم لمدة 5 دقائق: SQL SELF JOIN YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم SQL كل يوم لمدة 5 دقائق: SQL DISTINCT SELECT",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YcVFneDZNRWdHZzh3bUFPOXFCN0dGVDdBcU9rYm5HMF90NGVMT2xuVV9GQlJvcWpweXlhQU5wbmVlcmJaWFpNbVlmVlhXeV9yX0FaamFR?oc=5",
-   "date": "2018-08-26T15:00:03+00:00",
-   "summary": "تعلم SQL كل يوم لمدة 5 دقائق: SQL DISTINCT SELECT YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم معي أوامر SQL لمدة 30 دقيقة -الجزء الأول-",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MDZORlpDeDJrZ1NpTk1pSnE2VWFtcUhoajJQeXlmdXM3VlQyRUVrWXp2ODR1UEZBVXZ2RVZYWVdkTEdfc3EzQW1pYzlrQkh2RkZXTlFn?oc=5",
-   "date": "2018-08-04T15:00:05+00:00",
-   "summary": "تعلم معي أوامر SQL لمدة 30 دقيقة -الجزء الأول- YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح لغة استعلام قواعد البيانات SQL بالأمثلة العملية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SM2ZuaW9pSjA2bV9ORU5Tak1mWDZUYWhyM28xNFp5a1NFNUlOa0tPZTVBc0lncVlJLVl5QUJMMFJuTWFSeXJvVDVkdlgxYVNkYnFPSjJ3?oc=5",
-   "date": "2018-05-22T14:33:35+00:00",
-   "summary": "شرح لغة استعلام قواعد البيانات SQL بالأمثلة العملية YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح أوامر SQL الأساسية بالأمثلة والتمارين",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FRmpQYy14eGlOd1RCdXdlNWEtTW0wQlVEV2poM0V0MW1GYU9OUWRBNEhzWFctdDdRMlU1Uy1kZVBUQzc2ZF9CeHBTUnRJX2VjdjQxeFNB?oc=5",
-   "date": "2018-02-16T16:00:03+00:00",
-   "summary": "شرح أوامر SQL الأساسية بالأمثلة والتمارين YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلّم معي أوامر SQL بالتمرين لمدة 45 دقيقة -الجزء الأول-",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84ZjlaUzB6WHV2TVRBam1kWGR0dWJ6dUs1NEVTb1VkaEFSaEpyMXdTWlpDcDJyV3d2al9vWW04TWpFM004Y3l4X2ZXRXhiNjFrVlUtQUFn?oc=5",
-   "date": "2018-01-22T16:00:04+00:00",
-   "summary": "تعلّم معي أوامر SQL بالتمرين لمدة 45 دقيقة -الجزء الأول- YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "07 الإجراءات المخزنة stored procedure في قواعد البيانات الـ sql",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BTWdQWHNNZVpVNUNlZWZ6U3RzOUpQVk9UNzREUFdmejZZVUlxd1ZQWDJCUUFJcmlPVEhTVXVOcXB5eGNzUDZPN0N2SXVBX0huenE0Qy1R?oc=5",
-   "date": "2017-09-17T10:12:13+00:00",
-   "summary": "07 الإجراءات المخزنة stored procedure في قواعد البيانات الـ sql YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "06 التعديل على البيانات وحذف البيانات من جدول أو أكثر في قواعد البيانات sql",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yVUhDaG5zemVzMUsxUFFPX19JZ19UYWZTWDFJajVPYjZSdE10ZlNPb2NVam5xTWFkalRFRTdZdmpOSkI5dXRWNHB5NmhlYkJPd1gwcFZn?oc=5",
-   "date": "2017-09-15T00:58:32+00:00",
-   "summary": "06 التعديل على البيانات وحذف البيانات من جدول أو أكثر في قواعد البيانات sql YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس قواعد البيانات : الدرس الأول ربط #C مع Sql Server وإظهار البيانات في النموذج",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52TnlTeFFRQVNIdVFTSGFuSXc3UHllQ2tud1NhMXBBQmEyUjFJVlpvX0dKci1mMU9kUEEwTVpuc3M5cmZEZWRfeldYdHBXeGExakR3RC1n?oc=5",
-   "date": "2017-09-13T15:45:23+00:00",
-   "summary": "كورس قواعد البيانات : الدرس الأول ربط #C مع Sql Server وإظهار البيانات في النموذج YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم قواعد البيانات اوراكل دون تنصيب اي شيء على جهازك",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2aVZYYkxMTi0ybHZJOURLUFpiTFQzWmZBbTNGUEE3UHpxS1BWa19DS0lxMVVHZFFQNTRyVncxSGdyS00tWjdBR1lfd2c0ZUxkcjhJbG13?oc=5",
-   "date": "2017-05-03T04:47:52+00:00",
-   "summary": "تعلم قواعد البيانات اوراكل دون تنصيب اي شيء على جهازك YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "01- Oracle PL/SQL Arabic Course – Introduction مقدمة فى شرح PL/SQL",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSVUxaDl3QlVEODJqQnMtTlVuenEwM1VSeXdEYUo4UF9YWWxweFZHdjNLUy1jZ0xFMG9TRWNTLUswUzBjUWZRWXBwN1BZWURtTC1IY1pB?oc=5",
-   "date": "2017-01-31T16:22:29+00:00",
-   "summary": "01- Oracle PL/SQL Arabic Course – Introduction مقدمة فى شرح PL/SQL YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "4. إنشاء الجداول في قواعد البيانات Create Tables",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wTjRqSG1Xd01rOThaQXNoMGd5ekw5cF9ZSDhEVk5BbnZOZUNQak9JMTVDLVRzZU9PUVZpUHJVd01nb2VUSHVuR1JXYjFzSG1PSU5WZWR3?oc=5",
-   "date": "2016-12-25T13:37:51+00:00",
-   "summary": "4. إنشاء الجداول في قواعد البيانات Create Tables YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": ".3 إنشاء قاعدة البيانات على برنامج SQL Server",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03TkpGdzFPcFpVRGF0bDBrV2c5TnlMekVsWm01Y09tYjd1Tm42VF9mQlZCcktsSV9NQzNqNFZCSm9VZDVMQ0kzYnJvN0hHcUhNZlVyUFRR?oc=5",
-   "date": "2016-12-25T13:37:09+00:00",
-   "summary": ".3 إنشاء قاعدة البيانات على برنامج SQL Server YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Database 1- المقرر العملى - Learn SQL In Arabic",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1ZTRodTBuVkFvOHAxcDMzYTloQm12Y21RWTNteHZ0aWM1a2h2YUZiaE4tUUEySWdwdVNMRFhQV1RlVEZsS3R3dkY5UDVPN3p0S2dVa1NFaWttdUp2djctczJ6b0U2Tk0?oc=5",
-   "date": "2013-07-30T22:30:21+00:00",
-   "summary": "Database 1- المقرر العملى - Learn SQL In Arabic YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "1- An Introduction to Oracle SQL. مقدمة السلسة تعليم أوراكل",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40WUplU1Q3WGZiNmpkWTJ4bk5JQmxYMnZwbkJyZXZrWGlQRTE3M2RMOHAtaEkxQ0RXVFB6R3E1R2tGMDlRM2s3YnVWMU93d241czJlbi1R?oc=5",
-   "date": "2012-02-15T22:26:48+00:00",
-   "summary": "1- An Introduction to Oracle SQL. مقدمة السلسة تعليم أوراكل YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

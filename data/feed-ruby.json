@@ -1,164 +1,8 @@
 {
- "generated": "2026-08-14T20:08:09.571289+00:00",
+ "generated": "2026-08-14T20:44:25.477700+00:00",
  "tech": "ruby",
- "count": 97,
+ "count": 68,
  "items": [
-  {
-   "title": "Homebrew/homebrew-cask",
-   "url": "https://github.com/Homebrew/homebrew-cask",
-   "date": "2026-08-14T20:07:23+00:00",
-   "summary": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
-   "points": 22165,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Homebrew/homebrew-core",
-   "url": "https://github.com/Homebrew/homebrew-core",
-   "date": "2026-08-14T20:07:15+00:00",
-   "summary": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
-   "points": 15500,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "discourse/discourse",
-   "url": "https://github.com/discourse/discourse",
-   "date": "2026-08-14T20:06:47+00:00",
-   "summary": "A platform for community discussion. Free, open, simple.",
-   "points": 47651,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Homebrew/brew",
-   "url": "https://github.com/Homebrew/brew",
-   "date": "2026-08-14T19:56:20+00:00",
-   "summary": "🍺 The Package Manager for Everywhere",
-   "points": 49156,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "spree/spree",
-   "url": "https://github.com/spree/spree",
-   "date": "2026-08-14T19:49:16+00:00",
-   "summary": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
-   "points": 15620,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "opf/openproject",
-   "url": "https://github.com/opf/openproject",
-   "date": "2026-08-14T19:16:36+00:00",
-   "summary": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
-   "points": 15848,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "ruby/ruby",
-   "url": "https://github.com/ruby/ruby",
-   "date": "2026-08-14T19:06:08+00:00",
-   "summary": "The Ruby Programming Language",
-   "points": 23676,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "forem/forem",
-   "url": "https://github.com/forem/forem",
-   "date": "2026-08-14T19:04:18+00:00",
-   "summary": "For empowering community 🌱",
-   "points": 22764,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "freeCodeCamp/devdocs",
-   "url": "https://github.com/freeCodeCamp/devdocs",
-   "date": "2026-08-14T18:52:41+00:00",
-   "summary": "API Documentation Browser",
-   "points": 39289,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "gitlabhq/gitlabhq",
-   "url": "https://github.com/gitlabhq/gitlabhq",
-   "date": "2026-08-14T18:08:26+00:00",
-   "summary": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
-   "points": 24530,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "fastlane/fastlane",
-   "url": "https://github.com/fastlane/fastlane",
-   "date": "2026-08-14T17:53:21+00:00",
-   "summary": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-   "points": 41992,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "mastodon/mastodon",
-   "url": "https://github.com/mastodon/mastodon",
-   "date": "2026-08-14T16:18:53+00:00",
-   "summary": "Your self-hosted, globally interconnected microblogging community",
-   "points": 50204,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "rails/rails",
-   "url": "https://github.com/rails/rails",
-   "date": "2026-08-14T16:09:46+00:00",
-   "summary": "Ruby on Rails",
-   "points": 58688,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "Picking the model that's already the right shape",
    "url": "https://dev.to/johnbuilds/picking-the-model-thats-already-the-right-shape-35bi",
@@ -179,18 +23,6 @@
    "sourceId": "medium",
    "source": "Medium",
    "lang": "en"
-  },
-  {
-   "title": "chatwoot/chatwoot",
-   "url": "https://github.com/chatwoot/chatwoot",
-   "date": "2026-08-14T12:33:45+00:00",
-   "summary": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-   "points": 35871,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "When a String Assumption Broke Newsletter Tag Filtering in Ruby",
@@ -236,18 +68,6 @@
    "lang": "en"
   },
   {
-   "title": "rapid7/metasploit-framework",
-   "url": "https://github.com/rapid7/metasploit-framework",
-   "date": "2026-08-13T17:54:27+00:00",
-   "summary": "Metasploit Framework",
-   "points": 38807,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Building a Production-Ready Audit Logging System in Ruby on Rails",
    "url": "https://medium.com/@raviskit2012/building-a-production-ready-audit-logging-system-in-ruby-on-rails-886199a249e3?source=rss------ruby-5",
    "date": "2026-08-13T17:09:59+00:00",
@@ -268,42 +88,6 @@
    "lang": "en"
   },
   {
-   "title": "fluent/fluentd",
-   "url": "https://github.com/fluent/fluentd",
-   "date": "2026-08-13T08:45:41+00:00",
-   "summary": "Fluentd: Unified Logging Layer (project under CNCF)",
-   "points": 13578,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "huginn/huginn",
-   "url": "https://github.com/huginn/huginn",
-   "date": "2026-08-13T04:50:50+00:00",
-   "summary": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
-   "points": 49789,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "github-linguist/linguist",
-   "url": "https://github.com/github-linguist/linguist",
-   "date": "2026-08-12T16:55:40+00:00",
-   "summary": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
-   "points": 13641,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Zero-Downtime Deployment Strategies for Ruby on Rails Applications",
    "url": "https://medium.com/@raviskit2012/zero-downtime-deployment-strategies-for-ruby-on-rails-applications-421d8b28e4e6?source=rss------ruby-5",
    "date": "2026-08-12T14:06:44+00:00",
@@ -312,18 +96,6 @@
    "sourceId": "medium",
    "source": "Medium",
    "lang": "en"
-  },
-  {
-   "title": "basecamp/kamal",
-   "url": "https://github.com/basecamp/kamal",
-   "date": "2026-08-12T09:22:20+00:00",
-   "summary": "Deploy web apps anywhere.",
-   "points": 14507,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Self-Evolving Apps: Not Vibe, Live-Coding in Ruby with LLMs and Metaprogramming",
@@ -348,17 +120,6 @@
    "lang": "en"
   },
   {
-   "title": "How to make a guest connection in Action Cable?",
-   "url": "https://stackoverflow.com/questions/79992310/how-to-make-a-guest-connection-in-action-cable",
-   "date": "2026-08-11T18:38:24+00:00",
-   "summary": "ruby-on-rails، ruby، security، websocket، actioncable",
-   "points": 0,
-   "tech": "ruby",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "Building Autofatturala: Italian Self-Invoicing Is Crazy, Rails + RubyLLM Made It Simple",
    "url": "https://dev.to/giovapanasiti/building-autofatturala-italian-self-invoicing-is-crazy-rails-rubyllm-made-it-simple-503p",
    "date": "2026-08-11T18:16:09+00:00",
@@ -370,18 +131,6 @@
    "lang": "en"
   },
   {
-   "title": "docusealco/docuseal",
-   "url": "https://github.com/docusealco/docuseal",
-   "date": "2026-08-11T15:09:36+00:00",
-   "summary": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-   "points": 18255,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Rails vs Go for SaaS: What Convention Gets You (and What It Costs You)",
    "url": "https://dev.to/doolay/rails-vs-go-for-saas-what-convention-gets-you-and-what-it-costs-you-43nl",
    "date": "2026-08-11T15:06:49+00:00",
@@ -390,17 +139,6 @@
    "tech": "ruby",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "GPU AI workloads with a Ruby on Rails monolith",
-   "url": "https://www.docuseal.com/blog/gpu-ai-workloads-with-a-ruby-on-rails-monolith",
-   "date": "2026-08-11T12:08:58+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "ruby",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -589,107 +327,13 @@
    "lang": "en"
   },
   {
-   "title": "postalserver/postal",
-   "url": "https://github.com/postalserver/postal",
-   "date": "2026-08-05T02:17:11+00:00",
-   "summary": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
-   "points": 16732,
+   "title": "Ruby Course 2026 | Complete Ruby Programming for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5naEVfRURyLTQ2RXZtZ1FaRURLdGs1QUIwMHlWWnM2bzN2SmVReFp0d3NVWWRweTJiRWRqYnR6c0I4eEY2dE9FYWhxYXcwNEk0UG04Zkdn?oc=5",
+   "date": "2026-07-27T13:15:22+00:00",
+   "summary": "Ruby Course 2026 | Complete Ruby Programming for Beginners YouTube",
    "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "jekyll/jekyll",
-   "url": "https://github.com/jekyll/jekyll",
-   "date": "2026-08-03T17:55:37+00:00",
-   "summary": ":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby",
-   "points": 51635,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "matteocrippa/awesome-swift",
-   "url": "https://github.com/matteocrippa/awesome-swift",
-   "date": "2026-08-03T13:15:16+00:00",
-   "summary": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
-   "points": 26203,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "hashicorp/vagrant",
-   "url": "https://github.com/hashicorp/vagrant",
-   "date": "2026-08-03T08:01:11+00:00",
-   "summary": "Vagrant is a tool for building and distributing development environments.",
-   "points": 27202,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: Rails Agent – Build Autonomous AI Agents Natively in Ruby on Rails",
-   "url": "https://rails-agent.com",
-   "date": "2026-08-02T14:25:01+00:00",
-   "summary": "Rails Agent - The Fullstack Agentic Development Platform For Ruby on Rails. Build, Test, Deploy Monitor in one single dashboard. Advanced alternative for RubyLLM and Active Agent",
-   "points": 1,
-   "tech": "ruby",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Ruby on Rails RCE",
-   "url": "https://github.com/rails/rails/security/advisories/GHSA-xr9x-r78c-5hrm",
-   "date": "2026-08-01T17:14:45+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "ruby",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: An LSP for agent skills–rename, references, completion, and diagnostics",
-   "url": "https://github.com/CyrusNuevoDia/skill-language-server",
-   "date": "2026-07-31T21:32:08+00:00",
-   "summary": "I was quite surprised to find no one had built an LSP for agent skills — one where you can go-to-definition, get skill-completions, refactor (and it renames the folder and the name:), so I went ahead ",
-   "points": 1,
-   "tech": "ruby",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "diaspora/diaspora",
-   "url": "https://github.com/diaspora/diaspora",
-   "date": "2026-07-28T20:36:26+00:00",
-   "summary": "A privacy-aware, distributed, open source social network.",
-   "points": 13658,
-   "tech": "ruby",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "At AI-Heavy Ruby on Rails Companies, Is QA-Ing and Debugging Agents the Future?",
-   "url": "https://old.reddit.com/r/rails/comments/1v91qv2/at_aiheavy_companies_the_engineers_left_are/",
-   "date": "2026-07-28T16:27:06+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "ruby",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -723,10 +367,40 @@
    "lang": "en"
   },
   {
+   "title": "The Inevitable End of Ruby Programming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdXAwQlRJb2RjSVBVWngtWWNpZDFnakFVWDJxQllvbG5YVFl2cHAzeWE1TzV1MUxfQUFKTlRUcjg0MEJ1RUNmNVAtTWltUkVYUEdtRVhR?oc=5",
+   "date": "2025-12-02T18:17:46+00:00",
+   "summary": "The Inevitable End of Ruby Programming YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Why I Stopped Making Ruby on Rails Tutorials",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ScW12UjMwM0JjMFRsNlRUdE9RRFNtczNseTRKM1hoZGpBRVJBUnZMa1BWZXZ0ZENQTkdoemlwdWRiTmUtOFVvMkFONHNjT1dEMy1ONDN3?oc=5",
    "date": "2025-10-06T12:00:18+00:00",
    "summary": "Why I Stopped Making Ruby on Rails Tutorials YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Ruby on Rails 8 Fast – Create a Real Web App in 1 Hour",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xRDYtMVhQMjl1Zjh2XzF5VlVZYzZnT3c0UGdhUzk0M2RkWTFXTlF2bHpKQ1F4OG04ZzQ1WFF5ejlyRDg4bWtRV2I4OTBmU2lCb1hkeElR?oc=5",
+   "date": "2025-08-08T18:33:36+00:00",
+   "summary": "Learn Ruby on Rails 8 Fast – Create a Real Web App in 1 Hour YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "The FASTEST Way to Learn Ruby on Rails",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hZVpJUFo2czdYWFI1YjBNbmdudzFXb1hWU3ktbG1lTk5tOWlsN1BGaTQyMmEyYWluQ2pMbC1hU0VhRmQ0UlhwLUJPeFhqdTZOdFNpUXpB?oc=5",
+   "date": "2025-08-03T12:49:47+00:00",
+   "summary": "The FASTEST Way to Learn Ruby on Rails YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -803,6 +477,16 @@
    "lang": "en"
   },
   {
+   "title": "The Ultimate Beginner Ruby on Rails Course | Build a Blog App with Rails Defaults",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNTh3cUwydk9PZXhIZ1B4ZnRiTWhJZ0RkcktHWU5kUHA4OW1KSGVBVHBDYWJmODVBX2ZNZldBNDdnQjVlcW11cDBuZG1YdDE3amN1LWF3?oc=5",
+   "date": "2025-03-02T10:58:54+00:00",
+   "summary": "The Ultimate Beginner Ruby on Rails Course | Build a Blog App with Rails Defaults YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "مجالات العمل باستخدام لغة روبي Ruby",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zby1KTDVHd21aWFkxUE1ZOUlNMzJ3WUlVOUJVTmlFY2hkeXNBYzkzeGwzS3h0U2g1cmRUM3dVaXpaUklucy1sV1k2RkQ0MkNlb3VDN1F3?oc=5",
    "date": "2025-02-04T14:00:51+00:00",
@@ -813,10 +497,70 @@
    "lang": "ar"
   },
   {
+   "title": "Rails 8 Course - Beginner to Intermediate",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uMGxObzcteU1IbXFfZ2FtVGhCT2NkS05LTW0xbGNVY29hVEJNWUtOZXE0YkZDdmRfVjlUcWpBQmw4QW1IMVBiaEhDZ3JIZHlOQmNyckln?oc=5",
+   "date": "2025-01-18T10:40:42+00:00",
+   "summary": "Rails 8 Course - Beginner to Intermediate YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Rails 8: The Demo",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50UjFxOWhiMlVmdUxPTUZ1Wmg1ZWFBS1p4UmNvaGVWOTI4ZTdrVnVjSjQ4azlDN09EMzRqczk5RVVfellMRlRkUDBkXzJQUG5OZTJWRXhR?oc=5",
    "date": "2024-11-14T21:44:45+00:00",
    "summary": "Rails 8: The Demo YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Intro to Ruby on Rails 7 Full stack Tutorial | Rails for Beginners Part 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzZnVaUjNvOG5UQmZjeVJNOUI1REZYY2xhZXVnb1B3V3VNUzZtOHR5bmxZMzRPWWtVbTkwdHhQZXA2c3ZRZUt6aDZNWW5NVjRGbkxWc01n?oc=5",
+   "date": "2024-10-27T17:25:49+00:00",
+   "summary": "Intro to Ruby on Rails 7 Full stack Tutorial | Rails for Beginners Part 1 YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Live Ruby laser software training",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tblI4U3lUNUtmTG5SNFhKNGhuR1RSTWxpOEphdzhEbEpCLUY4NTFGV0U0bktfTGlDaV96b1ByTlR5TWM3RHo2NWtiRllhWlc2TnRMUEFn?oc=5",
+   "date": "2024-10-14T22:44:11+00:00",
+   "summary": "Live Ruby laser software training YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "🔴 Ruby on Rails Crash Course in Hindi: With Link Tree Clone Project | From Beginner to Pro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2bUNlQ2lGaVJuaDZDVTRlU2JmNmQ4ak5aSENpVzJrQXhnXzQwSUxNeXFWZXJ2cUFCZVJ5UWF5dC1SS2Vra2RUNUYzbm12S0pwR3laaHRR?oc=5",
+   "date": "2024-09-08T04:45:03+00:00",
+   "summary": "🔴 Ruby on Rails Crash Course in Hindi: With Link Tree Clone Project | From Beginner to Pro YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "ViewComponent Crash Course with Ruby on Rails",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSDBoODdvRmFPb01DOE10cUlKVGdtU20wZk9kTEN3Nmd4ZmJlVHV0alpUaE1jUzdsNTA2aVdqZGxJTjFWQmEyZWZodjZQTVJuQTR3c2hB?oc=5",
+   "date": "2024-07-31T22:19:12+00:00",
+   "summary": "ViewComponent Crash Course with Ruby on Rails YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "AI CODING 'Copilot' (Assistant) for Ruby in SketchUp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12U01Ob25NM1BibE9UcDA1WVc1N3FrWGI3UFpSTlRCRTBsdnBWQnBYQmRnbXYxS3JpUUJGT2JwOVNIUTh6NVhxWUFia2RWUkxneXRZbUNn?oc=5",
+   "date": "2024-05-30T17:59:49+00:00",
+   "summary": "AI CODING 'Copilot' (Assistant) for Ruby in SketchUp YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -833,6 +577,36 @@
    "lang": "en"
   },
   {
+   "title": "[2024] Ruby Programming Crash Course - Complete tutorial under 2 hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5faTZoREIxYlhSTXF2NlN5SXhDQmN5RDFxd3pzbllKUGZyMXdjM3YtRnd2el9XLXpjSUlvRlJFakkwWEZXZnRyUjF5alc3TE9DbDlhRFdR?oc=5",
+   "date": "2024-04-12T15:00:08+00:00",
+   "summary": "[2024] Ruby Programming Crash Course - Complete tutorial under 2 hours YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Reddit Clone with Ruby on Rails 7 - Full Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OYldPcTRIeXFVbndxaUhDTmVvcThOU0VjMmo1X1VIMGx1VkctYjV4RW15b0dacUl1NF85S1FYVVRFQWU4ak0wNnFMdjN4bmszUEtCVHRB?oc=5",
+   "date": "2024-04-08T16:15:09+00:00",
+   "summary": "Reddit Clone with Ruby on Rails 7 - Full Course YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Fullstack LMS: Ruby on Rails 7, Hotwire, Tailwind, Stripe, PostgreSQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVUtMcERELXlkZU5xdUxTRnRybWhBTWNjcW1kME1RaGlXTjcwOENZNm5iWnlfbGdSVWJJOEdMdER4Tnp5c0FTVW1LaGwtTEs4MzBkRUF3?oc=5",
+   "date": "2024-02-06T07:00:07+00:00",
+   "summary": "Fullstack LMS: Ruby on Rails 7, Hotwire, Tailwind, Stripe, PostgreSQL YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Get started with Ruby on Rails and Postgres using Supabase.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPRXd4NGxEVTlSMnFYN1pKcjlkc3VkZHN0LUpHaHBVZGs3SVA1RVlaZFVIbkdfWEN4Z3V0NjBJakJySm5ZWnpSUElBTGtrc3FIN0RhdGpR?oc=5",
    "date": "2024-01-24T14:00:41+00:00",
@@ -843,110 +617,20 @@
    "lang": "en"
   },
   {
-   "title": "Ruby Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvbFJncEwzSzRIbmdBMlg1NExEUTNxVmdCcTdZbmFiMzh0eG9ZYWpwU0l6MUtWc1Vab1Z2OWRkMDFsMjBMMkZJZldocUZncW1XU2pRaGtn?oc=5",
-   "date": "2023-10-16T02:00:09+00:00",
-   "summary": "Ruby Tutorial for Beginners YouTube",
+   "title": "Learn Ruby on Rails 7 - Full Course (CREATE LINKTREE)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VmRfc2xndEdZdWRhV2ZjOTZDVHZmSGFHNU9fRXlVVklrZGFzYWJCRlFWQkpYZ0hyZWRtcWtKd296aWxSVzF6RVNsRUJ3NnNJZGRJdjBR?oc=5",
+   "date": "2024-01-16T17:36:07+00:00",
+   "summary": "Learn Ruby on Rails 7 - Full Course (CREATE LINKTREE) YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Ruby on Rails",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWFpOU2dUUjRBQmlMUlE5MGNRbjl5ZjlWcmVLMnRWUGlkWnhWYVNqMkt3N3dYdmxtdmhBS1R6NHJ1U1J4bEo1bkgwQnlYWTA?oc=5",
-   "date": "2023-10-07T20:09:59+00:00",
-   "summary": "Ruby on Rails YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Persistent User Preferences with Cookies & Devise | Ruby on Rails 7 Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sbzZrb216Z0xIRmttcWlIM3NvcktiX0p0QWNsZVhaRTBMTkJJLVFBNGFwWVBoOE94NXIycjAwMjNOQWY0VkIxNkFlQ1V0Vno4b2hKNnpR?oc=5",
-   "date": "2023-07-26T06:15:10+00:00",
-   "summary": "Persistent User Preferences with Cookies & Devise | Ruby on Rails 7 Tutorial YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Webhooks in Ruby on Rails 7 Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85a1JXYjMweF9OV2pVd1JTeDNkdkZHRmFZX0dJZHRGcGRsdXF5Q1p1cV9XVkNGNXVQZ1FWRjRkVm44b2tKcFljcDdhQkRFeFQzMkhuWGFB?oc=5",
-   "date": "2023-07-13T07:00:07+00:00",
-   "summary": "Webhooks in Ruby on Rails 7 Tutorial YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Move Your Postgres Database with PG Dump | Ruby on Rails Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lcHZSa01aRDdLdTJFeUFXNldYNVBMYUd3Z2QtNEcyTWZmREhlbUhhZDZUTTR1bDZNc0dHMVU0ZmttNnB4SEFwY0dDZmlSNHhSbjRaNEd3?oc=5",
-   "date": "2023-07-12T08:16:13+00:00",
-   "summary": "Move Your Postgres Database with PG Dump | Ruby on Rails Tutorial YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Devise Admin and Users with Different Models | Ruby on Rails 7 Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ma2lhaU1lN0Rpd01QTGtCb0MwV00xU2dTU1FMQnYtLTdpbFJxQ1MyS19veDRrUjY0R050WnFEMG9Kekdtd21VQmhHOVlpQXlXX3hyRXln?oc=5",
-   "date": "2023-07-04T07:15:10+00:00",
-   "summary": "Devise Admin and Users with Different Models | Ruby on Rails 7 Tutorial YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Notifications API with Action Cable | Ruby on Rails 7 Realtime Alerts Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6VWpGSjlkajE4bU9oaEFBZUpUVENEc0I3LTd4NDhyaXAxVXFEY1RfSTdNRmNpanJUOVRfU3pfc3IwTlRIcmZiR2ZTUXN4Wi1QRm0wQWVn?oc=5",
-   "date": "2023-06-28T06:30:09+00:00",
-   "summary": "Notifications API with Action Cable | Ruby on Rails 7 Realtime Alerts Tutorial YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Speedrun a Realtime Chat App with Ruby on Rails 7",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEaDNNNHRoczRUX0lPY0xpZXMybDVYLUlyT25INF8wOXpxRGh1N1lZcjVMTnllemtQTGF0aDVlWEtIWUgxcnhSS0NDUDFial9ZVXUxR2Rn?oc=5",
-   "date": "2023-06-27T05:30:10+00:00",
-   "summary": "Speedrun a Realtime Chat App with Ruby on Rails 7 YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Factory Bot Testing with Active Storage and Devise | Ruby on Rails 7 Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zbXNmSDY5VFI3ZFV0Z1lTTV9PX3hwUXNJa3RrTnB2RDhKRlU0dWVOTFo0cndTaWhHZFJnTC1ENlYxMFM1eWw0SE0zWV9PLTB6bFI1eFlR?oc=5",
-   "date": "2023-06-23T08:00:11+00:00",
-   "summary": "Factory Bot Testing with Active Storage and Devise | Ruby on Rails 7 Tutorial YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Your First Rails Engine | Ruby on Rails 7 Gem Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYm9DdWlzWWk2U1k4NDRjZWliT2YxSW81SThjd1NZNGtvZmt0TGg0TU9UWURxN1pCOVpXbWh4ZmFGdmM3bkI0ek1iWTVpN2swbEFjY0hn?oc=5",
-   "date": "2023-06-15T07:00:11+00:00",
-   "summary": "Your First Rails Engine | Ruby on Rails 7 Gem Tutorial YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Thredded Gem for Forums (Reddit Clone) | Ruby on Rails 7 Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ESHBpZFg5VHgyaTRUSDVxNDhTMmw3cTlSMHFORm5CUUlXQjlIaVhHZGlJVFpWY25iSmkyYkpkMU1JRUV4MFM5Z1ZwdGFHclN2ajhsX3BR?oc=5",
-   "date": "2023-06-12T20:00:10+00:00",
-   "summary": "Thredded Gem for Forums (Reddit Clone) | Ruby on Rails 7 Tutorial YouTube",
+   "title": "Coding your First SketchUp Extension (with Ruby)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZNW53bFhnNFpHVzdyNEpFNVl1MER1MWJ1ZnVQdkxabHdhS1dnelYxa0pfZlNKdWMxZ1dVVGp3TFpDb1llNktCblBmQlRELUViY2dOT2tR?oc=5",
+   "date": "2023-12-20T13:00:36+00:00",
+   "summary": "Coding your First SketchUp Extension (with Ruby) YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -990,36 +674,6 @@
    "tech": "ruby",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "قُم بشراء Ruby Coin (RBC): أفضل خيارات الشراء والبدائل الممكنة",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiX2NrVzlDcmdjN2U5MTFlc09paFpPRV8ya2NzbEFfQWN4ZTA5MkhlSTdWaGk2cDBFYVkzYVhJQWlSb2QzSWExdHR5OUwwdlp1TENUcjBra1BuaFpYQ3R2VQ?oc=5",
-   "date": "2022-05-31T22:47:48+00:00",
-   "summary": "قُم بشراء Ruby Coin (RBC): أفضل خيارات الشراء والبدائل الممكنة Binance",
-   "tech": "ruby",
-   "sourceId": "ar-news",
-   "source": "Binance",
-   "lang": "ar"
-  },
-  {
-   "title": "سعر Ruby Play Network اليوم",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yem9UVGNJekh3R1dDZ0x4N1ZwNXZ1SlVhUjZEeW5sQXhPalhxekVYT3BQOVFMZWZxdDdmN1A1LTF5NXJkdEh2OFNZU21uV3lQREhhRmxoT0VzWXNJbW13?oc=5",
-   "date": "2022-03-17T08:48:10+00:00",
-   "summary": "سعر Ruby Play Network اليوم Binance",
-   "tech": "ruby",
-   "sourceId": "ar-news",
-   "source": "Binance",
-   "lang": "ar"
-  },
-  {
-   "title": "سعر Ruby Coin اليوم",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ua1dKNklqQXV2OGZNdHU4MXJ5elpWUFd1LXh2VGN0VWU3Y0FiYnFueFg2SmVOSWVVUU9GczE0MHY3LWxkaU1YOXhjN3lvMEhUYXJsSnA1RzU1UQ?oc=5",
-   "date": "2022-01-07T10:57:19+00:00",
-   "summary": "سعر Ruby Coin اليوم Binance",
-   "tech": "ruby",
-   "sourceId": "ar-news",
-   "source": "Binance",
    "lang": "ar"
   },
   {

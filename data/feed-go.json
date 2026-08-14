@@ -1,180 +1,8 @@
 {
- "generated": "2026-08-14T20:05:48.583464+00:00",
+ "generated": "2026-08-14T20:43:28.166701+00:00",
  "tech": "go",
- "count": 117,
+ "count": 53,
  "items": [
-  {
-   "title": "go-gitea/gitea",
-   "url": "https://github.com/go-gitea/gitea",
-   "date": "2026-08-14T19:50:27+00:00",
-   "summary": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-   "points": 57373,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "moby/moby",
-   "url": "https://github.com/moby/moby",
-   "date": "2026-08-14T19:01:32+00:00",
-   "summary": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-   "points": 72020,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "netdata/netdata",
-   "url": "https://github.com/netdata/netdata",
-   "date": "2026-08-14T18:47:54+00:00",
-   "summary": "The fastest path to AI-powered full stack observability, even for lean teams.",
-   "points": 80199,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "ollama/ollama",
-   "url": "https://github.com/ollama/ollama",
-   "date": "2026-08-14T18:32:22+00:00",
-   "summary": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "points": 178549,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "rclone/rclone",
-   "url": "https://github.com/rclone/rclone",
-   "date": "2026-08-14T18:18:36+00:00",
-   "summary": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-   "points": 59147,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "golang/go",
-   "url": "https://github.com/golang/go",
-   "date": "2026-08-14T17:22:12+00:00",
-   "summary": "The Go programming language",
-   "points": 135774,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "prometheus/prometheus",
-   "url": "https://github.com/prometheus/prometheus",
-   "date": "2026-08-14T15:39:48+00:00",
-   "summary": "The Prometheus monitoring system and time series database.",
-   "points": 65738,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "infiniflow/ragflow",
-   "url": "https://github.com/infiniflow/ragflow",
-   "date": "2026-08-14T14:26:58+00:00",
-   "summary": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-   "points": 88370,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Ever had go vet miss something? Going through some common cases live",
-   "url": "https://www.reddit.com/r/golang/comments/1vo7j3k/ever_had_go_vet_miss_something_going_through_some/",
-   "date": "2026-08-14T13:37:28+00:00",
-   "summary": "We went through over 1,000 open source Go repos looking for bugs that go vet doesn t catch. Found a fair amount, and most of them are simple, common mistakes that still made it into production. Hosting an online event on August 27 to go thr",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "syncthing/syncthing",
-   "url": "https://github.com/syncthing/syncthing",
-   "date": "2026-08-14T11:42:15+00:00",
-   "summary": "Open Source Continuous File Synchronization",
-   "points": 87674,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "GopherCon UK 2026",
-   "url": "https://www.reddit.com/r/golang/comments/1vo41gh/gophercon_uk_2026/",
-   "date": "2026-08-14T10:57:06+00:00",
-   "summary": "submitted by /u/jamietanna [link] [التعليقات]",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "junegunn/fzf",
-   "url": "https://github.com/junegunn/fzf",
-   "date": "2026-08-14T10:16:53+00:00",
-   "summary": ":cherry_blossom: A command-line fuzzy finder",
-   "points": 82575,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Google Open Source broken outside of Chrome?",
-   "url": "https://www.reddit.com/r/golang/comments/1vo2mpw/google_open_source_broken_outside_of_chrome/",
-   "date": "2026-08-14T09:37:09+00:00",
-   "summary": "Something I ve noticed recently is all source links for the standard library and x packages on pkg.go.dev are broken. They link specifically to cs.opensource.google , which has worked up until now. Now I am greeted by a blank page, and look",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Go Vulnerabilities",
-   "url": "https://www.reddit.com/r/golang/comments/1vo2kf1/go_vulnerabilities/",
-   "date": "2026-08-14T09:33:18+00:00",
-   "summary": "Considering switching to Go since in theory to me it should have fewer vulnerabilities than other frameworks since so much is built into the stdlib and you don’t need to pull in dozens upon dozens of dependencies and transitive dependencies",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "gohugoio/hugo",
-   "url": "https://github.com/gohugoio/hugo",
-   "date": "2026-08-14T08:25:20+00:00",
-   "summary": "The world’s fastest framework for building websites.",
-   "points": 89449,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "A New Way to Query HTTP APIs with a Body",
    "url": "https://dev.to/abgeo/a-new-way-to-query-http-apis-with-a-body-5923",
@@ -187,42 +15,6 @@
    "lang": "en"
   },
   {
-   "title": "jesseduffield/lazygit",
-   "url": "https://github.com/jesseduffield/lazygit",
-   "date": "2026-08-14T06:32:05+00:00",
-   "summary": "simple terminal UI for git commands",
-   "points": 81351,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "fatedier/frp",
-   "url": "https://github.com/fatedier/frp",
-   "date": "2026-08-14T06:21:57+00:00",
-   "summary": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-   "points": 108808,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "pocketbase/pocketbase",
-   "url": "https://github.com/pocketbase/pocketbase",
-   "date": "2026-08-14T04:24:50+00:00",
-   "summary": "Open Source realtime backend in 1 file",
-   "points": 60674,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Go Report Triage — 3 Fallback Models Through One Chatbot API Key",
    "url": "https://dev.to/mitchellcross2134/go-report-triage-3-fallback-models-through-one-chatbot-api-key-3bm8",
    "date": "2026-08-14T03:50:31+00:00",
@@ -232,18 +24,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "kubernetes/kubernetes",
-   "url": "https://github.com/kubernetes/kubernetes",
-   "date": "2026-08-14T00:41:27+00:00",
-   "summary": "Production-Grade Container Scheduling and Management",
-   "points": 124519,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "machin v0.133.0: select on Windows, concurrency CI runs there",
@@ -268,18 +48,6 @@
    "lang": "en"
   },
   {
-   "title": "ethereum/go-ethereum",
-   "url": "https://github.com/ethereum/go-ethereum",
-   "date": "2026-08-13T23:17:01+00:00",
-   "summary": "Go implementation of the Ethereum protocol",
-   "points": 51283,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "TestFleet: A self-hosted, multi-step API testing tool",
    "url": "https://dev.to/raghiba/testfleet-a-self-hosted-multi-step-api-testing-tool-3ikk",
    "date": "2026-08-13T20:48:37+00:00",
@@ -302,16 +70,6 @@
    "lang": "en"
   },
   {
-   "title": "Go 1.26.6 and Go 1.25.13 are released",
-   "url": "https://www.reddit.com/r/golang/comments/1vnkog5/go_1266_and_go_12513_are_released/",
-   "date": "2026-08-13T19:26:41+00:00",
-   "summary": "submitted by /u/PerkyPangolin [link] [التعليقات]",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
    "title": "Sales Call Automation: Testing In-App Chatbot API Context and JSON Mode",
    "url": "https://dev.to/sterlingvance2196/sales-call-automation-testing-in-app-chatbot-api-context-and-json-mode-14lg",
    "date": "2026-08-13T18:22:33+00:00",
@@ -321,52 +79,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "etcd-io/etcd",
-   "url": "https://github.com/etcd-io/etcd",
-   "date": "2026-08-13T17:35:40+00:00",
-   "summary": "Distributed reliable key-value store for the most critical data of a distributed system",
-   "points": 52127,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "usememos/memos",
-   "url": "https://github.com/usememos/memos",
-   "date": "2026-08-13T16:10:23+00:00",
-   "summary": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
-   "points": 62238,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Robust, fast and configurable LSP for go templates",
-   "url": "https://www.reddit.com/r/golang/comments/1vneyig/robust_fast_and_configurable_lsp_for_go_templates/",
-   "date": "2026-08-13T16:04:50+00:00",
-   "summary": "If you are like me, you admire the simplicity and speed of go and go templates. The only down side has been the lack of type-safety when working inside the templates. I have been working on this vscode extension to change that. Give it a tr",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "JuliusBrussee/caveman",
-   "url": "https://github.com/JuliusBrussee/caveman",
-   "date": "2026-08-13T15:28:01+00:00",
-   "summary": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-   "points": 98219,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "5 Advanced CLI Engineering Patterns in Node.js & Go (Building Production Tools)",
@@ -380,18 +92,6 @@
    "lang": "en"
   },
   {
-   "title": "avelino/awesome-go",
-   "url": "https://github.com/avelino/awesome-go",
-   "date": "2026-08-13T13:50:42+00:00",
-   "summary": "A curated list of awesome Go frameworks, libraries and software",
-   "points": 181073,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Concurrent Resource Scheduler v1.2.3: Sharded Priority Heaps Under Concurrent Load",
    "url": "https://dev.to/phero20/concurrent-resource-scheduler-v123-sharded-priority-heaps-under-concurrent-load-bpk",
    "date": "2026-08-13T13:09:03+00:00",
@@ -400,38 +100,6 @@
    "tech": "go",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "traefik/traefik",
-   "url": "https://github.com/traefik/traefik",
-   "date": "2026-08-13T12:24:06+00:00",
-   "summary": "The Cloud Native Application Proxy",
-   "points": 64471,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Is there a lib in golang that can generate ePub？",
-   "url": "https://www.reddit.com/r/golang/comments/1vn7xfo/is_there_a_lib_in_golang_that_can_generate_epub/",
-   "date": "2026-08-13T11:22:14+00:00",
-   "summary": "I know python has a lib named ebooklib.but i don t know that similar lib in Golang. Do you have any recommendations? submitted by /u/No-Bandicoot-7587 [link] [التعليقات]",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Which minimal Docker images work best for Go applications?",
-   "url": "https://www.reddit.com/r/golang/comments/1vn7cas/which_minimal_docker_images_work_best_for_go/",
-   "date": "2026-08-13T10:51:14+00:00",
-   "summary": "Go s static binaries make it a pretty natural fit for minimal or distroless style images, so I ve been comparing options beyond the usual scratch or distroless base. There are a few Go focused minimal image providers now that get rebuilt co",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
    "lang": "en"
   },
   {
@@ -468,60 +136,6 @@
    "lang": "en"
   },
   {
-   "title": "What could be best stack in Golang to build long running AI agents?",
-   "url": "https://www.reddit.com/r/golang/comments/1vn38v2/what_could_be_best_stack_in_golang_to_build_long/",
-   "date": "2026-08-13T06:52:56+00:00",
-   "summary": "I can see many good projects in Python doing this. But are there any good ones in Golang? I can see there are ADK Go and DsPy Go. What else can we use? submitted by /u/AgentumCloud [link] [التعليقات]",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Sandwich Hime v1.0.0-beta.2: HTML-first, ahead-of-time templates for Go",
-   "url": "https://www.reddit.com/r/golang/comments/1vn1glk/sandwich_hime_v100beta2_htmlfirst_aheadoftime/",
-   "date": "2026-08-13T05:13:38+00:00",
-   "summary": "I m publishing Sandwich Hime for early classroom, prototype, and evaluation use--not requesting a code review or claiming final-v1 stability. I ve personally used earlier iterations in production since I began building it in November 2025, ",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "caddyserver/caddy",
-   "url": "https://github.com/caddyserver/caddy",
-   "date": "2026-08-13T04:59:32+00:00",
-   "summary": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-   "points": 74951,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Schema - new language for serialized data in C++/C#/Golang and Rust",
-   "url": "https://github.com/mas-bandwidth/schema/blob/main/README.md",
-   "date": "2026-08-13T01:10:36+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "AI Course for Golang incorrectly generates content about the Go board game",
-   "url": "https://github.com/nilbuild/developer-roadmap/issues/10226",
-   "date": "2026-08-12T21:38:34+00:00",
-   "summary": "",
-   "points": 5,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Implementing Invoice Speech to Text: One API Key Across Multiple Models",
    "url": "https://dev.to/frosty45/implementing-invoice-speech-to-text-one-api-key-across-multiple-models-3bda",
    "date": "2026-08-12T20:54:15+00:00",
@@ -530,26 +144,6 @@
    "tech": "go",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "It seems TinyGo is totally broken on XIAO ESP32C3",
-   "url": "https://www.reddit.com/r/golang/comments/1vmlzn4/it_seems_tinygo_is_totally_broken_on_xiao_esp32c3/",
-   "date": "2026-08-12T18:13:28+00:00",
-   "summary": "Hello, sorry not sure if I should put it on this subreddit or not. I am currently trying a TinyGo project with XIAOESP32C3. The posts here indicate that this board is supported by TinyGo: - https://tinygo.org/docs/reference/microcontrollers",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Key-Value Database on S3 in Go",
-   "url": "https://www.reddit.com/r/golang/comments/1vmlf90/building_a_keyvalue_database_on_s3_in_go/",
-   "date": "2026-08-12T17:53:33+00:00",
-   "summary": "Isledb is an embedded Go key-value database library on S3 using LSM trees. Writes are batched in the memtable and then flused into SST which gets uploaded to object store. A CAS conditional(e-tag) commits of Current Manifest is made with fe",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
    "lang": "en"
   },
   {
@@ -564,26 +158,6 @@
    "lang": "en"
   },
   {
-   "title": "A tree-sitter call graph that gopls fills in where syntax alone can't tell. (open-source)",
-   "url": "https://www.reddit.com/r/golang/comments/1vmhwh5/a_treesitter_call_graph_that_gopls_fills_in_where/",
-   "date": "2026-08-12T15:48:49+00:00",
-   "summary": "Graft builds a structural map of a codebase. Tree-sitter for the base parse, no LLM, no key. It writes the result into the repo as markdown, so a coding agent reads it instead of re-exploring the same files every session. Go s interfaces ma",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "agentic code review mostly catches my agent writing java in go",
-   "url": "https://www.reddit.com/r/golang/comments/1vmgzez/agentic_code_review_mostly_catches_my_agent/",
-   "date": "2026-08-12T15:15:16+00:00",
-   "summary": "I ve been running agents on a mid size Go service for about four months. The code compiles, the tests pass, and it is consistently not Go. The same things keep turning up. A mutex wrapped around something that wanted a channel. Interfaces d",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
    "title": "What Happens When a Backend Service Makes 10,000 Concurrent Network Requests?",
    "url": "https://dev.to/abhirami_rajeev_d5bf9d241/what-happens-when-a-backend-service-makes-10000-concurrent-network-requests-4em5",
    "date": "2026-08-12T15:14:50+00:00",
@@ -595,291 +169,6 @@
    "lang": "en"
   },
   {
-   "title": "Accept interfaces return concrete types. But what about returning Type vs *Type?",
-   "url": "https://www.reddit.com/r/golang/comments/1vmdowh/accept_interfaces_return_concrete_types_but_what/",
-   "date": "2026-08-12T13:08:52+00:00",
-   "summary": "I know about the idiom of accepting interfaces and returning types, but I am struggling to find information about how to return type. Example I have this type type MyTest struct { Value: string Label: string } func (test *MyTest) String() s",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Google says Go is ideal for AI-assisted engineering. Are you using it in production ML/AI?",
-   "url": "https://www.reddit.com/r/golang/comments/1vlv8vh/google_says_go_is_ideal_for_aiassisted/",
-   "date": "2026-08-11T21:53:03+00:00",
-   "summary": "I recently read Google’s post arguing that Go may be an ideal language for AI-assisted software engineering: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Their argument is that as codin",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Built a full authentication stack for Go apps (MFA, email verification, multi-device logout, lockout, events)",
-   "url": "https://www.reddit.com/r/golang/comments/1vluinu/built_a_full_authentication_stack_for_go_apps_mfa/",
-   "date": "2026-08-11T21:24:24+00:00",
-   "summary": "I’ve been building ZATRANO , a Go web framework, and one thing I wanted from day one was a production-ready auth system out of the box . Most Go examples stop at “login + JWT”. ZATRANO ships a much more complete identity layer: Register / l",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "[Google blog] why Go is an Ideal Language for AI-Assisted Software Engineering",
-   "url": "https://www.reddit.com/r/golang/comments/1vls8wm/google_blog_why_go_is_an_ideal_language_for/",
-   "date": "2026-08-11T19:59:50+00:00",
-   "summary": "While this is a tad bit preaching to the choir, among all the AI noise, I enjoyed reading this grounded take. An excerpt: Historically, developers measured the productivity of a programming language largely by how easy it is to write. But w",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "I spent the last two months building an interactive Go learning platform",
-   "url": "https://www.reddit.com/r/golang/comments/1vlr877/i_spent_the_last_two_months_building_an/",
-   "date": "2026-08-11T19:22:42+00:00",
-   "summary": "I ve been learning Go and backend engineering for a while, and I wanted something more structured than jumping between blog posts, videos and documentation. So I started building a small learning platform for myself. It started as a Markdow",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "What VSCode config do you use",
-   "url": "https://www.reddit.com/r/golang/comments/1vlj2h4/what_vscode_config_do_you_use/",
-   "date": "2026-08-11T14:30:10+00:00",
-   "summary": "I have to switch from Goland to VsCodium, what are the settings/plugins you use to make the experience similar? (No paying tools no AI tools, please) submitted by /u/Orange_Lux [link] [التعليقات]",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Small Projects",
-   "url": "https://www.reddit.com/r/golang/comments/1vktzpa/small_projects/",
-   "date": "2026-08-10T19:01:44+00:00",
-   "summary": "This is the weekly thread for Small Projects. The point of this thread is to have looser posting standards than the main board. As such, projects are pretty much only removed from here by the mods for being completely unrelated to Go. Howev",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Why people promote domain driven design while Go support these all?",
-   "url": "https://www.reddit.com/r/golang/comments/1vktdlh/why_people_promote_domain_driven_design_while_go/",
-   "date": "2026-08-10T18:39:29+00:00",
-   "summary": "Go officially support, Thin handlers that can directly attached to a struct created in application start, with relevant dependencies(without additional controller- service layer) guarantee at compile-time. multi-module workspaces that suppo",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Assign value to struct instead of copy of struct",
-   "url": "https://www.reddit.com/r/golang/comments/1vknrkz/assign_value_to_struct_instead_of_copy_of_struct/",
-   "date": "2026-08-10T15:18:28+00:00",
-   "summary": "I m looping through a slice of Server structs , and I want to assign a value to one of their properties. However the assignment goes to a copy and not the actual struct. the default of none value of the property is false. For some of them, ",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Go Concurrency Visualization",
-   "url": "https://www.reddit.com/r/golang/comments/1vkffko/go_concurrency_visualization/",
-   "date": "2026-08-10T08:53:53+00:00",
-   "summary": "I’ve been playing around with a little project about bad use cases when using goroutine. I ve put together some examples with simple visualizations showing how seemingly reasonable design decisions can turn into problems as a system grows: ",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Go 18 to 25 performance benchmark",
-   "url": "https://www.reddit.com/r/golang/comments/1vkdjmh/go_18_to_25_performance_benchmark/",
-   "date": "2026-08-10T06:59:07+00:00",
-   "summary": "Hi everyone, I just published a benchmark comparing Go 1.19 through Go 1.26. After sharing a few benchmarks for other runtimes, Go kept coming up in the requests. So I continued with the same approach as the last benchmark, using both micro",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Profile-guided optimization in Go",
-   "url": "https://www.reddit.com/r/golang/comments/1vkcyhr/profileguided_optimization_in_go/",
-   "date": "2026-08-10T06:24:21+00:00",
-   "summary": "Nice and short intro to PGO with Go submitted by /u/_a4z [link] [التعليقات]",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Streaming tshark output into Go: how I cut a 2.5 GB PCAP job from 6-7 hours to 70 minutes",
-   "url": "https://www.reddit.com/r/golang/comments/1vkak5b/streaming_tshark_output_into_go_how_i_cut_a_25_gb/",
-   "date": "2026-08-10T04:11:03+00:00",
-   "summary": "I had a Go CLI that wrapped tshark for PCAP analysis. Worked fine until I hit a 2.5 GB file — 1.9 million packets, 6-7 hours, then OOM crashes. Two problems, found in sequence. First, I was running three separate tshark queries against the ",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "I adore go outside of go's idiomatic naming conventions. Is this something strictly upheld at most places?",
-   "url": "https://www.reddit.com/r/golang/comments/1vk7ts7/i_adore_go_outside_of_gos_idiomatic_naming/",
-   "date": "2026-08-10T01:56:28+00:00",
-   "summary": "I absolutely love go, but coming from other languages I just find this so irritating to read after months: func (l *LinkedList) Push(...) {...} func (n *Node) Value(...) {...} func (s *Server) Start(...) {...} Instead of func (list *LinkedL",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "nektos/act",
-   "url": "https://github.com/nektos/act",
-   "date": "2026-08-09T22:50:11+00:00",
-   "summary": "Run your GitHub Actions locally 🚀",
-   "points": 71509,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Ask HN: What part of modern Git hosting system is the most crucial one for you",
-   "url": "https://news.ycombinator.com/item?id=49229980",
-   "date": "2026-08-09T09:58:08+00:00",
-   "summary": "Hey, I am writing gitlab&#x2F;gitea alternative , what part of modern git hosting system is the most crucial one for you ? I use #dsci #rakulang #golang #bulma 1) CICD 2) Merge requests 3) Collaborati",
-   "points": 1,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Go core team: a more robust proposal process",
-   "url": "https://github.com/golang/go/discussions/80580",
-   "date": "2026-08-08T00:47:15+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Detecting breaking API changes in Go with golang.org/x/exp/cmd/apidiff",
-   "url": "https://medium.com/dev-genius/detecting-breaking-api-changes-in-go-with-apidiff-bd608bbc7996",
-   "date": "2026-08-07T22:36:18+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Go: A more robust proposal process",
-   "url": "https://github.com/golang/go/discussions/80580",
-   "date": "2026-08-05T20:03:10+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "AlistGo/alist",
-   "url": "https://github.com/AlistGo/alist",
-   "date": "2026-08-05T08:04:29+00:00",
-   "summary": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
-   "points": 50039,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "gin-gonic/gin",
-   "url": "https://github.com/gin-gonic/gin",
-   "date": "2026-08-04T22:34:04+00:00",
-   "summary": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-   "points": 89110,
-   "tech": "go",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: Jargo, Voice AI for Golang",
-   "url": "https://github.com/gojargo/jargo",
-   "date": "2026-08-04T20:28:47+00:00",
-   "summary": "Work in progress !",
-   "points": 3,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Soppo: Golang with the Features It's Missing",
-   "url": "https://soppolang.dev/",
-   "date": "2026-08-04T17:42:04+00:00",
-   "summary": "",
-   "points": 5,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: I made a private self-destructing image hosting site in Golang",
-   "url": "https://picburn.xyz/",
-   "date": "2026-08-04T08:39:12+00:00",
-   "summary": "So I&#x27;m a junior Go dev and I made a small site that allows me to share images with someone privately and securely, and give me control over how many times the private link can be shared and how l",
-   "points": 15,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Who's Hiring",
-   "url": "https://www.reddit.com/r/golang/comments/1vcmusx/whos_hiring/",
-   "date": "2026-08-01T13:02:09+00:00",
-   "summary": "This is a monthly recurring post. Clicking the flair will allow you to see all previous posts . Please adhere to the following rules when posting: Rules for individuals: Don t create top-level comments; those are for employers. Feel free to",
-   "tech": "go",
-   "sourceId": "reddit",
-   "source": "r/golang",
-   "lang": "en"
-  },
-  {
-   "title": "Golang proposal: container/: generic collection types",
-   "url": "https://github.com/golang/go/issues/80590",
-   "date": "2026-07-31T18:39:47+00:00",
-   "summary": "",
-   "points": 185,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "The Mistake That Cost Me a Year",
-   "url": "https://news.ycombinator.com/item?id=49124280",
-   "date": "2026-07-31T15:23:28+00:00",
-   "summary": "last year i was randomly visiting a website and couldnt download a video in hd quality. as a dev, when smoething doesnt work, you think let&#x27;s build it. so i started researching and found like 0.2",
-   "points": 7,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Go Tutorial Series 2026 | Learn Golang From Scratch",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxYXRwS1lJX2NidVgwYnBiQms3bFRya1FvRVdGMzd3R1ZCNkJfUldHZUtEMENESmtfV19WTEdsWUk1dzNPdzY4WWdneWtzdlFlVWl6Tkp3?oc=5",
    "date": "2026-07-31T13:15:07+00:00",
@@ -887,39 +176,6 @@
    "tech": "go",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "A more robust [Go] proposal process",
-   "url": "https://github.com/golang/go/discussions/80580",
-   "date": "2026-07-28T09:17:13+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Go Analysis Framework: modular static analysis by go team",
-   "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-   "date": "2026-07-26T12:21:26+00:00",
-   "summary": "",
-   "points": 220,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Golang Maps: how Swiss Tables replaced the old bucket design",
-   "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
-   "date": "2026-07-24T18:12:00+00:00",
-   "summary": "",
-   "points": 33,
-   "tech": "go",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -943,10 +199,30 @@
    "lang": "en"
   },
   {
+   "title": "Go Programming For Beginners 2026 | GoLang Crash Course 2026 | Go Programming Tutorial | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zZ1NuN0Y0TGs5YVVmcWdlNFppT1ZCbGlIbVFpdGdPXzlxc1VnbGs4OENOV2ViYWV2VDdFSkRxZG12T011RDBhWVVUMmpzTGExcHRKSVd3?oc=5",
+   "date": "2025-05-11T15:30:01+00:00",
+   "summary": "Go Programming For Beginners 2026 | GoLang Crash Course 2026 | Go Programming Tutorial | Simplilearn YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Golang Programming Full Course | Learn in 2025 | #golang #golangtutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ScGg3ZlJHOUUyX1h1djhTNTMwMnJUUllpQ1pmd1pnWVlkTWZaaUFpcVRXUl9GTkJLNlVRMmNEUmJwamVUMklTOVNwamZtZmhZQUdzdG1n?oc=5",
    "date": "2025-03-27T19:06:25+00:00",
    "summary": "Golang Programming Full Course | Learn in 2025 | #golang #golangtutorial YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Full Golang Tutorial - Learn Go by Building a TodoList App",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IdTg1bFJLY1BMMjJyZGk4dTh6SE9iMnpFV0drZ3Y2UVM4YkpQWGk2MHJPd2pHUjlzT3FUREZfRTdYaVN2TGdOR2dZTC1Wek51LWhaMDNn?oc=5",
+   "date": "2024-10-14T13:22:24+00:00",
+   "summary": "Full Golang Tutorial - Learn Go by Building a TodoList App YouTube",
    "tech": "go",
    "sourceId": "yt",
    "source": "YouTube",
@@ -983,10 +259,50 @@
    "lang": "en"
   },
   {
+   "title": "Complete Golang and gRPC Microservices (Project Course)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UbWN5ZmJfSzFjYnhCTHV2SmFWX0tHNFdjb1JwbkdaWDJQWUZUNE9WYXdmVlZDbG5mR09FczJOMFlaYXpDQ2R6dzdreEU5WGlkM29DV3Rn?oc=5",
+   "date": "2024-04-11T15:17:30+00:00",
+   "summary": "Complete Golang and gRPC Microservices (Project Course) YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Using RabbitMQ With GO #rabbitmq #golang #programming #tutorial #queues #coding #rabbitmqwithgolang",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rMVN2Znd1dVZicmFfSlBSRTBCLTV0WnF2a2NYblExUnNVam9MNVJkZGd0NDhfb0dvMUVRVUlycE5WVWZ4N3NSdkJ4OWMzVTJtdUEySVhR?oc=5",
    "date": "2024-03-25T14:00:07+00:00",
    "summary": "Using RabbitMQ With GO #rabbitmq #golang #programming #tutorial #queues #coding #rabbitmqwithgolang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "GoLang Essentials 2024: Beginner to Pro with Real-World Projects | Full Go Programming Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIR05VMHl3V1JQQ2x3VjVzWUxVYy12bUYwWV9NWEFjT1VzanNhUlNSTS1ZdTVLWlMwamhnWW8tTmdocDM2cE1IaGxzdXVEdlU3ZUEzeEpn?oc=5",
+   "date": "2024-03-18T08:17:12+00:00",
+   "summary": "GoLang Essentials 2024: Beginner to Pro with Real-World Projects | Full Go Programming Course YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "FULL Introduction To HTMX Using Golang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JTkEyX2tfU1h2Tkx3NGF6bU1EcGxqTkhOSXl0eGRleVk3SC1OSHBJcGNneHVXUWVQcUE3VTJlUFZrVGlqSndYUURiek1DbXlzeDVwRk9n?oc=5",
+   "date": "2024-03-13T23:13:54+00:00",
+   "summary": "FULL Introduction To HTMX Using Golang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Golang 101 Crash Course: Learn Go Programming Fundamentals!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlM1FQaEtDSlBuX1IyYllyazN4NjNzWlJ5OWN3ME5kb2dsVlYzbURucE9SdjU5TXVyUWJqYlV5UGl4TXR4Zkd3b28zNUpjMko4NkF6QUNR?oc=5",
+   "date": "2023-08-04T14:40:11+00:00",
+   "summary": "Golang 101 Crash Course: Learn Go Programming Fundamentals! YouTube",
    "tech": "go",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1023,6 +339,16 @@
    "lang": "en"
   },
   {
+   "title": "Go Programming – Golang Course with Bonus Projects",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnRjRFT1hoQU8tZlBvSDh0Wk9IZXBjSXpILVJIVGN6YnZZdVp4X01pN1VEUW5tdHJHaXpEMHFraGVhMEdVRlZqaF9oZ0dSSTNPR0U2VG5R?oc=5",
+   "date": "2023-05-11T13:41:01+00:00",
+   "summary": "Go Programming – Golang Course with Bonus Projects YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Learn Golang In Arabic - #3 Syntax & How to start coding?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10MG11LVg2ci0tTDdENEVPNG9RMUJ1elpGSUM5QXZYOGxwcUtkNF9tLW9jdU8wWHAzbW5GbzVzdEluY1NFaUh2ME1DSjd0enpYZFQ1QWNB?oc=5",
    "date": "2023-03-24T17:30:01+00:00",
@@ -1043,10 +369,70 @@
    "lang": "en"
   },
   {
+   "title": "Matrix in Golang - Lesson 21 | Go | Full Course | CloudNative | Go Tutorial | Golang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90TTFocUN0VndPS1oxSlR5Nlpyc09KYjNXVkVwQXM2b3hZWHNCM29rdHhTdjhDaFpqU2hTUGMzcEhBRWw0c2hCcjVjRzZzSUhhUE9tRjNB?oc=5",
+   "date": "2023-02-27T15:15:00+00:00",
+   "summary": "Matrix in Golang - Lesson 21 | Go | Full Course | CloudNative | Go Tutorial | Golang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "While Loop - Lesson 11 | Go | Full Course | CloudNative | Go Tutorial | Golang",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rV1J3cGU3RXRFb0UtRnhjSHRIdC1YVXY0U1RjOVAyQV9MZ282d1BaVlVBYWFSNkQ1QTVaN3UzOENVTmdwM1VfYVZMZm9kUkNXTHBmZXNB?oc=5",
    "date": "2023-01-19T14:10:00+00:00",
    "summary": "While Loop - Lesson 11 | Go | Full Course | CloudNative | Go Tutorial | Golang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Infinte Loop - Lesson 09 | Go | Full Course | CloudNative | Go Tutorial | Golang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KVzN6bGFReDgtZDd3TmhOSDRyS1ByYXl3RFZzTHZteG56aF9XWjVXbWQ3bUdZWHo1RFNqUnpOa1lYMkgxU25TSGF2YlZzemxOSUNkblhB?oc=5",
+   "date": "2023-01-12T12:30:10+00:00",
+   "summary": "Infinte Loop - Lesson 09 | Go | Full Course | CloudNative | Go Tutorial | Golang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "For Loop - Lesson 08 | Go | Full Course | CloudNative | Go Tutorial | Golang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Nkk1X3plcVAydUhTZHVuVnBveEVXTEVGa3JtVlpUVlB3cUJtUTNyNXlLX1UyaldLRmN1eFV0OGtrSzJaUDZrX2E4VXo4SC1Yd0VPT0FB?oc=5",
+   "date": "2023-01-09T17:05:09+00:00",
+   "summary": "For Loop - Lesson 08 | Go | Full Course | CloudNative | Go Tutorial | Golang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Go (Golang) Full Course | Golang Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNcjI0YVVSN3R6RXQ3aTV1U21scXZzaUtkVU5lMVRTVF9DWjdEYm1DRkxCZUpFcU1OVlFTYUZvWXdvY3ZnV18tWkpRcGMwRlQyVFhxaExxbnhGYmpOUVlHZTlHYlhYV0EtSEdoT0x6aXU2V1lKRVlDM1lkS2c?oc=5",
+   "date": "2022-11-19T17:37:20+00:00",
+   "summary": "Go (Golang) Full Course | Golang Tutorial YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to Go (Golang) - Lesson 01 | Go | Full Course | CloudNative | Golang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GeGVLZnZ5bThLQ1RuYUlncGJ0YkYyQU5TdnJsS0xmYTNoSS1WNWJWRTlrNTZEVzRzYlpGV0dNVzVmbTdzaDlwVWh5NE0xejBkWUtuTnFn?oc=5",
+   "date": "2022-11-07T17:05:10+00:00",
+   "summary": "Introduction to Go (Golang) - Lesson 01 | Go | Full Course | CloudNative | Golang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Golang Tutorial : Go Full Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PSDItWmtJdmF0dTM4dDMxZFhrcElPOHNfTEl1LWhiQkVrclN5aGJDdGFtUFRFa05sblczcjNuby1DMzJVMzBKOTFrLXBlYTlNWVNocXdB?oc=5",
+   "date": "2022-08-12T14:03:27+00:00",
+   "summary": "Golang Tutorial : Go Full Course YouTube",
    "tech": "go",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1073,6 +459,16 @@
    "lang": "en"
   },
   {
+   "title": "Golang Fiber Web Framework / Full Course / CRUD JSON API",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05LUNJX1FNX2dZR3RzSS1pOGhuaDRmWGdOUFRJSktRNnBiTnZfOTQtNmo2bmM1OF9KX3BiY3o0cXZ1UXY4RTI3VTRyUGRHQm56U0dlTEtB?oc=5",
+   "date": "2022-02-20T09:12:14+00:00",
+   "summary": "Golang Fiber Web Framework / Full Course / CRUD JSON API YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "02 تهيئة بية العمل للغة جو install and setup golang",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iUkcwek9KZXhpR3Zmdmp1a19aOEZvN2g5U0pxU3JrWHN5Z1ZSVGJtRVhISTE1Zkg4bURzaXowNmtzbnVpYndKMnlnMzBNXzlsNUhQanN3?oc=5",
    "date": "2022-01-10T08:00:05+00:00",
@@ -1081,6 +477,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Golang Tutorial for Beginners | Full Go Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWi1XOHlRX2FpM1R2Qk5zZWhZa05OYzE2YmZtd1M5aDVIWUUwSlpzTWFtU0hEMVlmYWNCWkMwZjA0VjZoVDc1YWRJX2oxcGZpT2xsVURB?oc=5",
+   "date": "2021-12-20T15:05:11+00:00",
+   "summary": "Golang Tutorial for Beginners | Full Go Course YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Golang Training | Golang Certification Course Online | Golang Tutorial For Beginners | MindMajix",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRXZ3VVNqTjlHSUNYX2N4ZjhFY1dmQ0JGQUFtR0xmOFBnaW1UVW01ZDlTdmV5WVY5cE1MMmZiYXJoOEZPamxUUHRYUXhFUGVfanNSb2Rn?oc=5",
+   "date": "2021-10-23T13:14:06+00:00",
+   "summary": "Golang Training | Golang Certification Course Online | Golang Tutorial For Beginners | MindMajix YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Golang Tutorial - Learn Go Programming Language",
@@ -1123,116 +539,6 @@
    "lang": "en"
   },
   {
-   "title": "Go (Golang) Tutorial #12 - Maps",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6NjlFY1FnNXd3ZDdFNlQ1Q2lMU215RklHckhKNHlEZUhXaV90WGVVNTZ5Y2ZlblJMaVM2T0RnN1o1TEFKby0zVEdkMW1qTjhoU2ZrUG5B?oc=5",
-   "date": "2021-06-01T09:38:01+00:00",
-   "summary": "Go (Golang) Tutorial #12 - Maps YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Go (Golang) Tutorial #10 - Multiple Return Values",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MnUyLXE4ZWZIWnNRNGVjX2hzSDFrUEVRckRHdmc3SkptQl9OUlNvLU9hTFpsZ1d0d1BoUFVkN2NJaURkSHNjYzJXZWszOWtqYVlDbFJR?oc=5",
-   "date": "2021-05-28T09:08:46+00:00",
-   "summary": "Go (Golang) Tutorial #10 - Multiple Return Values YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Go (Golang) Tutorial #9 - Using Functions",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODNjYzZDVldaaVRRU09lQ1dWbHQ5LUN3bkZoWVhIQWJEQlgya09qdzhRek5hbXpSaFhLejlDajNkalpZMmxpM1QzdHN5UHFVTkVranNR?oc=5",
-   "date": "2021-05-27T08:20:06+00:00",
-   "summary": "Go (Golang) Tutorial #9 - Using Functions YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Go (Golang) Tutorial #6 - The Standard Library",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdlZfSWUtZVhsbzQ5anFMV2tKQk5LSjBhY3hEMkdTa25FZEszOEtnU1VQWVRPTGJEQzY4X01naWotVzA2UHJCOEdtWlk2NFhzbGNEUGp3?oc=5",
-   "date": "2021-05-25T08:39:46+00:00",
-   "summary": "Go (Golang) Tutorial #6 - The Standard Library YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Go Tutorial (Golang) for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aaGw1NnRDdVJSNnM4OXh3SzVvOVcxT2RWTkRPandaSnNoZ1Z5MEhPbHZmdFJEY05LLWlmRDZFNkxvUG5SdDB4Wk5oeUVZVTJSZ0lMR2M0bDhiNHFlT1hGLW44bVE2OWJLUHBzVkt1ZTBod2F0THRfSDd2ano?oc=5",
-   "date": "2021-05-19T15:50:57+00:00",
-   "summary": "Go Tutorial (Golang) for Beginners YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Go (Golang) Tutorial #1 - Introduction & Setup",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BbVQxclNBX0Q3QVIxLUpCUHhXQk9WbFMxd3l5LUtsNHVzOEtkeWlSSWE5VjdQZkhJTXBEei01RlhKRGRmWTBkaEJFLWJBSUFzQVVPREpn?oc=5",
-   "date": "2021-05-19T09:24:37+00:00",
-   "summary": "Go (Golang) Tutorial #1 - Introduction & Setup YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Go Tutorial (Golang) 19 - Basic Control Flows | Golang If...Else...Else If Statements",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sdnpJRHlxeXdLNEhVR2hxb04yeldwcGZNaHZoRllNVVZaVF82eU1PZ2VuZzgxclNrOEFVclBMMjVKUXYybUNDU0xHaGNfelRlX0NaTWNB?oc=5",
-   "date": "2020-08-04T09:41:20+00:00",
-   "summary": "Go Tutorial (Golang) 19 - Basic Control Flows | Golang If...Else...Else If Statements YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Golang Tutorial #17 - Advanced Function Concepts & Function Closures",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMk5OaTFZZWhmSmNVRUN5Z3dVeHY1bGVOeWI3UnlZWXRaSHBBWVdxR2hjYW0tbE4tZHl0bmpmSllHdnJFZ1dQQnFmUHRKYm5ZYnFrVWhR?oc=5",
-   "date": "2020-05-31T20:00:08+00:00",
-   "summary": "Golang Tutorial #17 - Advanced Function Concepts & Function Closures YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Golang Tutorial #13 - Slices",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hX0ZLZXZCVGhOdUhjMlhuRHY2ZWhMVWRFcTNrMlo2Mk9JR1BtQ1hLMl96OFMxMjJwS1Exd3JsQWxHbENNZHJPY0JIMjViQ2k1WnJ3QkVn?oc=5",
-   "date": "2020-05-28T20:00:05+00:00",
-   "summary": "Golang Tutorial #13 - Slices YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Golang Tutorial #11 - Switch Statement",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xcjBPZkpzWGlqLS1tenZHRGcyaE5wQ2t1ampIVDNfVm5iQTlLbjNvOS1Vcmh2eWxlWXdfaGRNZUJBQ21TdnNZUWV0bHNjaEhmeGRNcjVB?oc=5",
-   "date": "2020-05-27T20:00:12+00:00",
-   "summary": "Golang Tutorial #11 - Switch Statement YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Golang Tutorial #4 - Printing to Console & fmt",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oWldzZ3FpUTg3SkR6QlY0RXFrTG5XYU9HbS00WTBZaVFJRTNDMTJkRjFqUEF0blVVaDBCbW9pTGxzTGNNVkVDX3dtUldLMkN4VHBXMTRB?oc=5",
-   "date": "2020-05-21T12:37:16+00:00",
-   "summary": "Golang Tutorial #4 - Printing to Console & fmt YouTube",
-   "tech": "go",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "لغة جو شرح عربي 1- مقدمة حول اللغة Go Programming",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xUUtueXYxUnFDZGtWNkRjRFdQQ1R3bnI0bV9jQWhrd1JNd2JkQ2xXQ1kxc1hrcEs5WWx0M3dVcU9mMnFEZy1sV0lDb1VXaC1PZkV2LWV3?oc=5",
    "date": "2018-10-23T14:13:15+00:00",
@@ -1240,16 +546,6 @@
    "tech": "go",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم لغة Go بسهولة",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15dk5OeUJGZ3RUNWdCOUtYaURYLWdBV3Vya1J1SmZOTXNTSUhmSVhucGpzNEJiQXdrQXVfeE93MGJWNXp1RGFnU2FB?oc=5",
-   "date": "2018-03-10T08:00:00+00:00",
-   "summary": "تعلم لغة Go بسهولة وادي التقنية",
-   "tech": "go",
-   "sourceId": "ar-news",
-   "source": "وادي التقنية",
    "lang": "ar"
   }
  ]

@@ -1,44 +1,8 @@
 {
- "generated": "2026-08-14T20:08:36.984094+00:00",
+ "generated": "2026-08-14T20:44:35.483823+00:00",
  "tech": "swift",
- "count": 187,
+ "count": 117,
  "items": [
-  {
-   "title": "steipete/CodexBar",
-   "url": "https://github.com/steipete/CodexBar",
-   "date": "2026-08-14T20:01:17+00:00",
-   "summary": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-   "points": 20105,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "manaflow-ai/cmux",
-   "url": "https://github.com/manaflow-ai/cmux",
-   "date": "2026-08-14T20:00:49+00:00",
-   "summary": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-   "points": 26065,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "swiftlang/swift",
-   "url": "https://github.com/swiftlang/swift",
-   "date": "2026-08-14T19:14:00+00:00",
-   "summary": "The Swift Programming Language",
-   "points": 70253,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "Getting to Know Server-Sent Events (and Actually Implementing It on iOS)",
    "url": "https://medium.com/@prammmoe/getting-to-know-server-sent-events-and-actually-implementing-it-on-ios-a5cd22b1daf8?source=rss------ios_app_development-5",
@@ -48,18 +12,6 @@
    "sourceId": "medium",
    "source": "Medium",
    "lang": "en"
-  },
-  {
-   "title": "palmier-io/palmier-pro",
-   "url": "https://github.com/palmier-io/palmier-pro",
-   "date": "2026-08-14T18:14:31+00:00",
-   "summary": "macOS video editor built for AI",
-   "points": 13547,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Automating iOS Builds from Command Line with xcodebuild",
@@ -94,16 +46,6 @@
    "lang": "en"
   },
   {
-   "title": "Best cloud Macs?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vodv0x/best_cloud_macs/",
-   "date": "2026-08-14T17:35:21+00:00",
-   "summary": "I had been working off my outdated (stuck on Monterey) Mac for a while until broke. I have a modern iPad but obviously it isn’t very useful for development work. For a moment I had a modern Apple Silicon Mac but had to sell it off. I’m not ",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
    "title": "保护 API Key 和其他应用密钥",
    "url": "https://dev.to/yo1995/bao-hu-api-key-he-qi-ta-ying-yong-mi-yao-45hp",
    "date": "2026-08-14T17:22:45+00:00",
@@ -125,16 +67,6 @@
    "lang": "en"
   },
   {
-   "title": "Upset reviewers about paywall can drop 1star bombs before theyve ever opened the app.",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1voc7wf/upset_reviewers_about_paywall_can_drop_1star/",
-   "date": "2026-08-14T16:35:05+00:00",
-   "summary": "After a lot of trial and error, free tiers and late onboarding etc I finally just went with a hard paywall as the others were not converting at all, users were content to just have 5% of the features. So anyway, I had no idea users could NO",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
    "title": "Como Funcionam as Requisições HTTP no Swift? Entendendo URL, URLRequest e URLSession",
    "url": "https://dev.to/henriquepablo/como-funcionam-as-requisicoes-http-no-swift-entendendo-url-urlrequest-e-urlsession-1jlp",
    "date": "2026-08-14T16:21:37+00:00",
@@ -143,16 +75,6 @@
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Swipe to dismiss help needed",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1voacmi/swipe_to_dismiss_help_needed/",
-   "date": "2026-08-14T15:26:44+00:00",
-   "summary": "Having an absolute nightmare with an info cards swipe to dismiss… I can get the card to appear above a map, all info appears on the card but when I swipe to dismiss it just bounces back up 🙃 Anyone else had this happen or know of any workar",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
    "lang": "en"
   },
   {
@@ -167,16 +89,6 @@
    "lang": "en"
   },
   {
-   "title": "Apple rejected. Do you think i can salvage this idea?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vo9jtn/apple_rejected_do_you_think_i_can_salvage_this/",
-   "date": "2026-08-14T14:56:54+00:00",
-   "summary": "Hey folk, I ve been working on an app that got completely shutdown by Apple. The app is not released and i m not sure if I ll be able to release it ever. The app is a screen time blocker that cannot be disabled. The idea is quite simple: Yo",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
    "title": "Swift Mastery Series — Part 8: Swift Structs: Why Apple Chooses Value Types Over Classes",
    "url": "https://dev.to/divyesh_vekariya/swift-mastery-series-part-8-swift-structs-why-apple-chooses-value-types-over-classes-47m1",
    "date": "2026-08-14T14:45:00+00:00",
@@ -185,16 +97,6 @@
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Ship an iOS App From My Phone",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vo8si5/i_ship_an_ios_app_from_my_phone/",
-   "date": "2026-08-14T14:27:29+00:00",
-   "summary": "I’ve been building and shipping an iOS game from my iPhone using Claude Code, GitHub Actions and TestFlight. The ongoing loop is entirely phone-based: code → review/merge → CI build → TestFlight → test. There is one important caveat: initia",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
    "lang": "en"
   },
   {
@@ -209,18 +111,6 @@
    "lang": "en"
   },
   {
-   "title": "ReactiveX/RxSwift",
-   "url": "https://github.com/ReactiveX/RxSwift",
-   "date": "2026-08-14T13:20:36+00:00",
-   "summary": "Reactive Programming in Swift",
-   "points": 24647,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Splitting a Swift monorepo shouldn't require git-subtree tricks (so I built a free registry)",
    "url": "https://dev.to/another1dd/splitting-a-swift-monorepo-shouldnt-require-git-subtree-tricks-so-i-built-a-free-registry-19i6",
    "date": "2026-08-14T13:08:52+00:00",
@@ -229,16 +119,6 @@
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The iOS Weekly Brief – Issue #73, everything you need to know about iOS updates this week",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vo6eby/the_ios_weekly_brief_issue_73_everything_you_need/",
-   "date": "2026-08-14T12:49:48+00:00",
-   "summary": "submitted by /u/IllBreadfruit3087 [link] [التعليقات]",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
    "lang": "en"
   },
   {
@@ -264,18 +144,6 @@
    "lang": "en"
   },
   {
-   "title": "jaywcjlove/awesome-mac",
-   "url": "https://github.com/jaywcjlove/awesome-mac",
-   "date": "2026-08-14T12:09:24+00:00",
-   "summary": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-   "points": 111004,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Zoom Zero‑Day Exploit: Remote Takeover of iPhone & Mac",
    "url": "https://dev.to/luckytaorem/zoom-zero-day-exploit-remote-takeover-of-iphone-mac-185h",
    "date": "2026-08-14T10:21:41+00:00",
@@ -287,28 +155,6 @@
    "lang": "en"
   },
   {
-   "title": "iOS devs who conduct interviews - drop your fav go-to questions that trips up candidates",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vo3dz5/ios_devs_who_conduct_interviews_drop_your_fav/",
-   "date": "2026-08-14T10:20:56+00:00",
-   "summary": "I m at 5 YoE and prepping for senior roles, and I realized the best learning comes from real questions that actually catch experienced candidates off-guard. Not the implement LRU cache kind (everyone preps those), but the nuanced, wait... a",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "iina/iina",
-   "url": "https://github.com/iina/iina",
-   "date": "2026-08-14T09:59:52+00:00",
-   "summary": "The modern video player for macOS.",
-   "points": 45955,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Introduction to App Clips for iOS Developers",
    "url": "https://dev.to/rahul_bandal_afe623cbf2e2/introduction-to-app-clips-for-ios-developers-4f0m",
    "date": "2026-08-14T09:56:31+00:00",
@@ -317,38 +163,6 @@
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stop dealing with App Store review for personal apps — deploy a PWA to the Home Screen instead",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vo2xfu/stop_dealing_with_app_store_review_for_personal/",
-   "date": "2026-08-14T09:55:05+00:00",
-   "summary": "I frequently see posts from developers (or beginners) asking how to publish a simple app they built for personal use. A lot of people default to the standard Apple workflow and immediately hit a wall. If you’re building something strictly p",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "exelban/stats",
-   "url": "https://github.com/exelban/stats",
-   "date": "2026-08-14T09:19:36+00:00",
-   "summary": "macOS system monitor in your menu bar",
-   "points": 41193,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "After 5 years of solo dev (AdMob, listings, etc.), I’m finally diving deep into ASO. Looking for advice on data analysis + keyword placement, and created a free tool to help!",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vo15u1/after_5_years_of_solo_dev_admob_listings_etc_im/",
-   "date": "2026-08-14T08:09:35+00:00",
-   "summary": "Hey everyone, I’ve been developing mobile apps for the last 5 years. Over this time, I’ve learned a ton about the overall development process, setting up store listings, implementing AdMob, and experimenting with different growth strategies",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
    "lang": "en"
   },
   {
@@ -372,50 +186,6 @@
    "lang": "en"
   },
   {
-   "title": "Has it always been this bad?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vo0pc7/has_it_always_been_this_bad/",
-   "date": "2026-08-14T07:42:25+00:00",
-   "summary": "App store review is turning into a very frustrating process. I assume this is a reflection of the sheer volume of AI-built apps but the humans reviewing my app seem to be on auto-reject mode. First rejection: spam: we have enough dating app",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "iOS 26: DataDetector",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vnxb02/ios_26_datadetector/",
-   "date": "2026-08-14T04:32:02+00:00",
-   "summary": "submitted by /u/lanserxt [link] [التعليقات]",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "apple/container",
-   "url": "https://github.com/apple/container",
-   "date": "2026-08-14T03:03:12+00:00",
-   "summary": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
-   "points": 48952,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "rxhanson/Rectangle",
-   "url": "https://github.com/rxhanson/Rectangle",
-   "date": "2026-08-14T01:54:12+00:00",
-   "summary": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
-   "points": 29693,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "I Rebuilt My PWA as a Native iOS and Mac App with an AI Agent. The Architecture Was the Hard Part.",
    "url": "https://dev.to/vscarpenter/i-rebuilt-my-pwa-as-a-native-ios-and-mac-app-with-an-ai-agent-the-architecture-was-the-hard-part-186d",
    "date": "2026-08-14T01:30:19+00:00",
@@ -424,17 +194,6 @@
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "StoreKit 2 Sandbox: transaction.finish() logs requestEncodeFailed and replays subscription renewals on every launch",
-   "url": "https://stackoverflow.com/questions/79993964/storekit-2-sandbox-transaction-finish-logs-requestencodefailed-and-replays-su",
-   "date": "2026-08-14T01:00:52+00:00",
-   "summary": "swift، xcode، swiftui، storekit",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -449,17 +208,6 @@
    "lang": "en"
   },
   {
-   "title": "Is there a way to set the userInterfaceStyle of menus displayed by UIMainMenuSystem?",
-   "url": "https://stackoverflow.com/questions/79993931/is-there-a-way-to-set-the-userinterfacestyle-of-menus-displayed-by-uimainmenusys",
-   "date": "2026-08-13T20:16:29+00:00",
-   "summary": "swift، uikit، uimenucontroller، uimenu",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "A Photo Vault Is Not a Lock Screen",
    "url": "https://dev.to/arkwarden/a-photo-vault-is-not-a-lock-screen-1bdo",
    "date": "2026-08-13T19:16:22+00:00",
@@ -468,58 +216,6 @@
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ask not what Siri can do for you",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vnk1q6/ask_not_what_siri_can_do_for_you/",
-   "date": "2026-08-13T19:04:29+00:00",
-   "summary": "Wrote a blog post on how to get rid of iOS 27 s Ask Siri context menu entries. submitted by /u/timonus [link] [التعليقات]",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "Can you select all text in a SwiftUI TextField populated with a NumberFormatter on entering it?",
-   "url": "https://stackoverflow.com/questions/79993911/can-you-select-all-text-in-a-swiftui-textfield-populated-with-a-numberformatter",
-   "date": "2026-08-13T18:43:14+00:00",
-   "summary": "swift، swiftui، textfield، nsnumberformatter",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: My first app got 97% on MacSources",
-   "url": "https://bitvibelabs.com/tickernotch/",
-   "date": "2026-08-13T17:24:33+00:00",
-   "summary": "Review Link: https:&#x2F;&#x2F;macsources.com&#x2F;tickernotch-macos-app-review&#x2F; Background of my launch: I trade as a side hustle. I used to keep browser tabs or use paid software (e.g. TradingV",
-   "points": 3,
-   "tech": "swift",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Wristcam SDK Program: Any watchOS devs here have any experience with them?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vnguo8/wristcam_sdk_program_any_watchos_devs_here_have/",
-   "date": "2026-08-13T17:12:32+00:00",
-   "summary": "Was recently thinking about the possibility of adding Wristcam support to one of my watch apps. Not sure if theres much users of the hardware out there but thought it could be a cool addition. I ve filled the form at https://wristcam.com/pa",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "Headless Xcode: From Prompt to Simulator with MCP",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vnfzpu/headless_xcode_from_prompt_to_simulator_with_mcp/",
-   "date": "2026-08-13T16:41:23+00:00",
-   "summary": "submitted by /u/artemnovichkov [link] [التعليقات]",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
    "lang": "en"
   },
   {
@@ -534,98 +230,6 @@
    "lang": "en"
   },
   {
-   "title": "Your StoreKit 2 entitlement check probably locks out subscribers during Apple's billing grace period",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vnele1/your_storekit_2_entitlement_check_probably_locks/",
-   "date": "2026-08-13T15:52:06+00:00",
-   "summary": "I audited our subscription code before a release and found five separate ways it was biased toward downgrading a paying customer. Sharing because this was painful and some of you might have it lurking in your own code without knowing it. Th",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "After months of building, my app hit 80 ratings. Here is what actually worked to get reviews without being annoying",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vndurc/after_months_of_building_my_app_hit_80_ratings/",
-   "date": "2026-08-13T15:25:38+00:00",
-   "summary": "Hey everyone! One of my most popular apps just crossed 80 ratings on the App Store with a 4.8 average. Small win, but I m really excited to hit the 100 milestone soon! For context, it s a educational app. Wanted to share what actually helpe",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "Hey anyone developing ios app using cloud mac??",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vna8hd/hey_anyone_developing_ios_app_using_cloud_mac/",
-   "date": "2026-08-13T13:07:53+00:00",
-   "summary": "It s too expensive for me to get a new mac. And i heard cloud mac is way too cheap for ios dev but don t know it ll work or not. Anyone with experience with it share some feedback 🥺 submitted by /u/begin7780 [link] [التعليقات]",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "Want to publish an app as a solo developer, but I have a question",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vn8dme/want_to_publish_an_app_as_a_solo_developer_but_i/",
-   "date": "2026-08-13T11:44:40+00:00",
-   "summary": "Should I open a company and such to submit to apple or it it ok to publish as a solo developer? Can I be sued for an app I have uploaded as a solo developer, as i am not protected as a proprietary limited company? Help would be appreciated ",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "Is anyone know how to add Search Results image in AppStore?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vn6dqw/is_anyone_know_how_to_add_search_results_image_in/",
-   "date": "2026-08-13T09:57:42+00:00",
-   "summary": "I found this on Apple documentation but didn t find how to add those images App Store Asset Best Practices and Resources - App Store - Apple Developer submitted by /u/ChoiceTwist7237 [link] [التعليقات]",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "What’s one thing you wish you knew before launching your app?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vn5l3m/whats_one_thing_you_wish_you_knew_before/",
-   "date": "2026-08-13T09:10:40+00:00",
-   "summary": "I’ve been looking at a lot of app launches lately, and it’s interesting how often the problem isn’t the product itself, it’s getting the right people to discover it and understand the value quickly. For me, ASO is one of those things that’s",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "Is there any way to create a system-wide “soft focus” filter on iOS?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vn4y1v/is_there_any_way_to_create_a_systemwide_soft/",
-   "date": "2026-08-13T08:32:26+00:00",
-   "summary": "Accidentally discovered a visual effect on my iPhone that I really like for reading at night. When you start pulling down Control Center, there’s a brief moment where the content underneath gets a very subtle blur. Not enough to make anythi",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "I shipped an iOS app rendered with Skia instead of UIKit. Here's what it actually cost",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vn004f/i_shipped_an_ios_app_rendered_with_skia_instead/",
-   "date": "2026-08-13T03:57:11+00:00",
-   "summary": "The app is Kotlin Multiplatform with Compose for the UI, which means the iOS screens are drawn by Skia into a single view rather than composed from UIKit. It s on the App Store. I want to write down what that decision costs on the iOS side ",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "p0deje/Maccy",
-   "url": "https://github.com/p0deje/Maccy",
-   "date": "2026-08-13T00:05:03+00:00",
-   "summary": "Lightweight clipboard manager for macOS",
-   "points": 21159,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Apple Music Consolidator: merge and dedupe hundreds of Apple Music playlists, safely",
    "url": "https://dev.to/sergio_farfn_b071cafc7ed/apple-music-consolidator-merge-and-dedupe-hundreds-of-apple-music-playlists-safely-18nm",
    "date": "2026-08-12T19:32:57+00:00",
@@ -634,60 +238,6 @@
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "tisfeng/Easydict",
-   "url": "https://github.com/tisfeng/Easydict",
-   "date": "2026-08-12T15:58:34+00:00",
-   "summary": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ",
-   "points": 14219,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "vapor/vapor",
-   "url": "https://github.com/vapor/vapor",
-   "date": "2026-08-12T15:25:11+00:00",
-   "summary": "💧 A server-side Swift HTTP web framework.",
-   "points": 26189,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "App keeps getting rejected due to Guideline 4",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vmeqyq/app_keeps_getting_rejected_due_to_guideline_4/",
-   "date": "2026-08-12T13:51:27+00:00",
-   "summary": "Hello. I need your help: My app keeps getting rejected by apple for the same reason but I can’t see why. Also, I did search the reddit but didn’t find anything that helped much. The reason is this, together with the above screenshot. Is it ",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "Can I Pay for the Apple Developer Program With a Virtual Card From Another Country?",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vmdy8e/can_i_pay_for_the_apple_developer_program_with_a/",
-   "date": "2026-08-12T13:19:37+00:00",
-   "summary": "Has anyone successfully paid for the Apple Developer Program using a virtual card from a different country? The card is in my exact name It’s a virtual card, called Grey The card is not issued in the same country as my Apple ID Did Apple ac",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
-   "lang": "en"
-  },
-  {
-   "title": "swift-markdown-engine: An open source Markdown parsing and rendering engine for Swift, built on TextKit 2.",
-   "url": "https://www.reddit.com/r/iOSProgramming/comments/1vmdoak/swiftmarkdownengine_an_open_source_markdown/",
-   "date": "2026-08-12T13:08:12+00:00",
-   "summary": "A couple of months ago I open-sourced swift-markdown-engine here, the native Markdown engine I built for my macOS app Nodes. The feedback, issues, and PRs that came back were a huge help, a lot of what I changed since then came from that. W",
-   "tech": "swift",
-   "sourceId": "reddit",
-   "source": "r/iOSProgramming",
    "lang": "en"
   },
   {
@@ -700,65 +250,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Not all line labels are shown / maplibre-native-distribution / iOS app",
-   "url": "https://stackoverflow.com/questions/79992259/not-all-line-labels-are-shown-maplibre-native-distribution-ios-app",
-   "date": "2026-08-11T14:26:32+00:00",
-   "summary": "advice، swift، maplibre-gl",
-   "points": -1,
-   "tech": "swift",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "MonitorControl/MonitorControl",
-   "url": "https://github.com/MonitorControl/MonitorControl",
-   "date": "2026-08-11T12:43:28+00:00",
-   "summary": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
-   "points": 33964,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "permissionlesstech/bitchat",
-   "url": "https://github.com/permissionlesstech/bitchat",
-   "date": "2026-08-11T09:09:54+00:00",
-   "summary": "bluetooth mesh chat, IRC vibes",
-   "points": 35337,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "ianyh/Amethyst",
-   "url": "https://github.com/ianyh/Amethyst",
-   "date": "2026-08-11T00:32:39+00:00",
-   "summary": "Automatic tiling window manager for macOS à la xmonad.",
-   "points": 16218,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "nikitabobko/AeroSpace",
-   "url": "https://github.com/nikitabobko/AeroSpace",
-   "date": "2026-08-10T16:54:22+00:00",
-   "summary": "AeroSpace is an i3-like tiling window manager for macOS",
-   "points": 22401,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Controlling a treadmill from an iPhone over Bluetooth LE",
@@ -794,49 +285,6 @@
    "lang": "en"
   },
   {
-   "title": "انطلاق أولمبياد المعلوماتية الدولي 2026 في أوزبكستان بمشاركة المنتخب السعودي",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CVmtOSlh5VUIycFR2SEpqMThPSzNWdEJ6N3lmajFoYVpmOWllN0RyMzFJeHF3cHl4Zl9qNXRmOC1CN216amdhRXJRWVFRZw?oc=5",
-   "date": "2026-08-10T15:23:06+00:00",
-   "summary": "انطلاق أولمبياد المعلوماتية الدولي 2026 في أوزبكستان بمشاركة المنتخب السعودي صحيفة سويفت نيوز",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "صحيفة سويفت نيوز",
-   "lang": "ar"
-  },
-  {
-   "title": "Show HN: 100% native Swift harness (NOT Electron)",
-   "url": "https://github.com/Lore-Hex/QuillCode",
-   "date": "2026-08-10T13:26:19+00:00",
-   "summary": "hi everybody, I’ve been working on this harness that is all native Swift for macOS. It’s fully featured with every feature i could find in cline, codex, and claude code. There is all swift command lin",
-   "points": 15,
-   "tech": "swift",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "متحف البحر الأحمر يحوّل المعرفة إلى تجارب للاكتشاف والإبداع",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02a1VjVTNqeWdrLVNyVUNvamIzcmc3eE1FZ255b1Zsd0JockIzaTFBRmRiMElOSF9keF9McE4xVUZaTVpJNmNvSVJObnhuQQ?oc=5",
-   "date": "2026-08-10T12:01:08+00:00",
-   "summary": "متحف البحر الأحمر يحوّل المعرفة إلى تجارب للاكتشاف والإبداع صحيفة سويفت نيوز",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "صحيفة سويفت نيوز",
-   "lang": "ar"
-  },
-  {
-   "title": "onevcat/Kingfisher",
-   "url": "https://github.com/onevcat/Kingfisher",
-   "date": "2026-08-10T11:28:14+00:00",
-   "summary": "A lightweight, pure-Swift library for downloading and caching images from the web.",
-   "points": 24390,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "The three engineering constraints that define overnight audio on iOS",
    "url": "https://dev.to/sleeptrace/the-three-engineering-constraints-that-define-overnight-audio-on-ios-56il",
    "date": "2026-08-10T00:39:02+00:00",
@@ -870,51 +318,6 @@
    "lang": "en"
   },
   {
-   "title": "Timer.TimerPublisher behavior in Combine",
-   "url": "https://stackoverflow.com/questions/79991765/timer-timerpublisher-behavior-in-combine",
-   "date": "2026-08-09T19:43:36+00:00",
-   "summary": "ios، swift، timer، combine",
-   "points": 1,
-   "tech": "swift",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "realm/SwiftLint",
-   "url": "https://github.com/realm/SwiftLint",
-   "date": "2026-08-09T16:37:39+00:00",
-   "summary": "A tool to enforce Swift style and conventions.",
-   "points": 19702,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "\"أبل\" تختبر تحديث iOS 26.6.1 لإصلاح خلل جديد في آيفون",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MSmNyeE5xNTZYYmRJZjg0NS1xQTBqYlMyY2lxeGlTSWhvWkNRQnJfanhNeVdGbG5DTXpMcWdHUm1DRnVNcEZGUWpaZFVKOHV5ZUww?oc=5",
-   "date": "2026-08-09T13:59:05+00:00",
-   "summary": "\"أبل\" تختبر تحديث iOS 26.6.1 لإصلاح خلل جديد في آيفون وكالة عمون الاخبارية",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "وكالة عمون الاخبارية",
-   "lang": "ar"
-  },
-  {
-   "title": "SwifterSwift/SwifterSwift",
-   "url": "https://github.com/SwifterSwift/SwifterSwift",
-   "date": "2026-08-09T05:41:29+00:00",
-   "summary": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
-   "points": 15164,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "the forgotten engine and the error message that taught a betrayal",
    "url": "https://dev.to/turgaysavaci/the-forgotten-engine-and-the-error-message-that-taught-a-betrayal-57i4",
    "date": "2026-08-08T16:40:47+00:00",
@@ -926,238 +329,84 @@
    "lang": "en"
   },
   {
-   "title": "“صيف جدة التاريخية”.. تجارب تجمع التراث والفنون والمعرفة",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44QmlEdzEtWnlvSW9EUFVEdFNFVUUtMm16QklKXzlMNmVXTWo0VFFWdFNrYkNoYXF6VHVQS2VYd293WHkzVnlZdi1OUjBmZw?oc=5",
-   "date": "2026-08-08T14:06:11+00:00",
-   "summary": "“صيف جدة التاريخية”.. تجارب تجمع التراث والفنون والمعرفة صحيفة سويفت نيوز",
+   "title": "SwiftUI Full Course 2026 — Build & Ship a Real iOS App (iOS 26)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUUDB6X0FFb3RySFFzN1A0N3BDSncwUm9wa0M3Y2lDQTZxbGhtV19VZDN0MlBiOWNNYzM4R3Q3QkRqTmxsejBQcXJCWjFENS01d0pwNFln?oc=5",
+   "date": "2026-06-19T13:00:38+00:00",
+   "summary": "SwiftUI Full Course 2026 — Build & Ship a Real iOS App (iOS 26) YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "صحيفة سويفت نيوز",
-   "lang": "ar"
-  },
-  {
-   "title": "lwouis/alt-tab-macos",
-   "url": "https://github.com/lwouis/alt-tab-macos",
-   "date": "2026-08-06T08:40:13+00:00",
-   "summary": "Windows alt-tab on macOS ",
-   "points": 16172,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: TickerNotch: Live tickers and news in the MacBook notch",
-   "url": "https://bitvibelabs.com/tickernotch/",
-   "date": "2026-08-05T09:36:29+00:00",
-   "summary": "I trade as a side hustle. I used to keep browser tabs or paid software open just to check charts and news, and ending up spending countless hours just staring at charts and falling into news rabbit ho",
-   "points": 3,
-   "tech": "swift",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "utmapp/UTM",
-   "url": "https://github.com/utmapp/UTM",
-   "date": "2026-08-05T07:54:18+00:00",
-   "summary": "Virtual machines for iOS and macOS",
-   "points": 35002,
+   "title": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FeFpodWJWUGYtLWZhd2tocHVQaTl6aU43dGZicWxCMUo1LXhoaXZZanRUekYtZE5obm1qYlljUEozWUZUMS1SSHNKTGFJUk1uU25UaUpn?oc=5",
+   "date": "2026-05-04T18:00:43+00:00",
+   "summary": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS YouTube",
    "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
-   "title": "CodeEditApp/CodeEdit",
-   "url": "https://github.com/CodeEditApp/CodeEdit",
-   "date": "2026-08-04T20:03:00+00:00",
-   "summary": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
-   "points": 22981,
+   "title": "Learn Swift for Beginners 2026 Course",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uTE9NeGJXNHFvWnRSSFd6MW56eDRkZGlrU3ZEcG83RGhVWTkxU2UtZnZGeURBRXNLaGNtTDlPU3dnczVfR01HU3BrVTlqTXllSnMtbXF6cHAwZkpsRGxXLU5uZzN5UGdsMXBNUkg0a1h0SmwyUF9iNmxkems?oc=5",
+   "date": "2026-04-09T22:40:26+00:00",
+   "summary": "Learn Swift for Beginners 2026 Course YouTube",
    "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Caldis/Mos",
-   "url": "https://github.com/Caldis/Mos",
-   "date": "2026-08-04T16:20:49+00:00",
-   "summary": "一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS",
-   "points": 21157,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Alamofire/Alamofire",
-   "url": "https://github.com/Alamofire/Alamofire",
-   "date": "2026-08-03T01:00:57+00:00",
-   "summary": "Elegant HTTP Networking in Swift",
-   "points": 42417,
-   "tech": "swift",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Link rescue mission for NASA Swift Telescope suffers critical malfunction",
-   "url": "https://www.scientificamerican.com/article/rescue-mission-to-save-nasas-swift-space-telescope-is-imperiled-in-orbit/",
-   "date": "2026-07-29T17:35:47+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "swift",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "أصدرت شركة آبل رسميًا تحديث iOS 26.6، الذي يعمل على تحسين أداء النظام وأمانه.",
-   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQRjZUWTRhYjhPcHB2NG5kTkNocFpnZWVLbGVBQURabklReHVhZExmTVBKQUNycDJJR19aS1FPQkc1ek5ab2J1aE9jdng5bVV2M05walA3WlZIcjFSaWJwTUVldnJXZTNlMzN6STduS2hUUDhFZU1kX29WS3VpZXRCNDN6QXh1SGxGaFdzcEpwdlFzejFwS29DYTBRVEZPR3BYVF9PVV80MjdraEJqZ3RQOXdJdERPZFZpVzB1SGF2RW5RU0tEOHdkN1pySVNKTEdpMTdNdHRESzk2NzFjSTFyRFBOdzdsU3MzTUx1V19pUS1NbXBmSGV2ZXZuV2FHY0JTNlRjbjhmZ1pmeFY5MGhnRXJua1ZJVElWMUZnZm5lM3BTX3p0b0VrV3VaVlVoQjRIbDJ6Ykg1UlBpRkdrR0taWVRVSXU?oc=5",
-   "date": "2026-07-28T00:41:28+00:00",
-   "summary": "أصدرت شركة آبل رسميًا تحديث iOS 26.6، الذي يعمل على تحسين أداء النظام وأمانه. بوابة الزهراء",
+   "title": "Learn Swift for Beginners 2026 - Lesson 1 - Intro to Swift",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qQjJfV1BGcDlCS0ZpeDlOVjExbElKTWxENlpwRDlDTWlUQTFzZEVSY2lob3BwMkVoaV9abkg0QXVuaDVibDVMWHlCbi1WYUpSOU5EbDJn?oc=5",
+   "date": "2026-04-07T18:16:51+00:00",
+   "summary": "Learn Swift for Beginners 2026 - Lesson 1 - Intro to Swift YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "بوابة الزهراء",
-   "lang": "ar"
-  },
-  {
-   "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-   "url": "https://github.com/FrigadeHQ/yap",
-   "date": "2026-07-27T18:36:02+00:00",
-   "summary": "Hey HN! I wanted to share this OSS project I&#x27;ve been working on. It&#x27;s called Yap and its a small menu-bar app for macOS that does voice to text for any input. You&#x27;ll set a hotkey, press",
-   "points": 104,
-   "tech": "swift",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Show HN: macOS-first Markdown editor with inline live preview (100% Swift)",
-   "url": "https://github.com/I7T5/Edmund",
-   "date": "2026-07-27T14:13:17+00:00",
-   "summary": "Hi all, I made (yet another) Markdown editor because I couldn&#x27;t find a native, macOS-first, file-based (i.e., not folder&#x2F;vault-based) WYSIWYG Markdown editor &#x2F; Typora alternative that f",
-   "points": 3,
+   "title": "أخيرًا لعبة مصاصي دماء🧛 حقيقية على الموبايل👹🔥 Vampir Heir of Blood شرح كامل للعبة على ANDROID/iOS",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAza0JtLXp0WnNwc3dDWEhURTQzLTF1dkhOdmZuSXZpSDJYZ3U2RU5YNWhnZTU0cFMxN2hRWGQtR2p5bl84RDgyaVVMRElQOWNCWmFCSXBn?oc=5",
+   "date": "2026-03-18T15:29:54+00:00",
+   "summary": "أخيرًا لعبة مصاصي دماء🧛 حقيقية على الموبايل👹🔥 Vampir Heir of Blood شرح كامل للعبة على ANDROID/iOS YouTube",
    "tech": "swift",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الدليل الشامل لرفع تطبيقات فلاتر على متجر أبل (App Store) وتجنب الرفض!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56T2t5RXJmZmZleXBJUnF1VGNZTnFVc3o4VW96M0tDeXdlUm1Dc3BYcWYtOHQyWTNPZFBMNmNheUdnc0VYWUNmZFVIZ1Y3Ull6UWd5ZEd3?oc=5",
+   "date": "2026-03-13T11:14:39+00:00",
+   "summary": "الدليل الشامل لرفع تطبيقات فلاتر على متجر أبل (App Store) وتجنب الرفض! YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "(@AhmedMenaiim iOS حوار مع خبير - أحمد منعم ( خبيرفي تطوير تطبيقات الجوال",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jVXhreVRvV2ZueGRmUDJDR2UxT2tweEpxbGh6eHBaMFd1YUlGUU5NSms3akV4NUpDVk1uekZfVmFYbVJLWXJDS3FzcnRINmZFYmI5d3JB?oc=5",
+   "date": "2026-03-05T10:45:31+00:00",
+   "summary": "(@AhmedMenaiim iOS حوار مع خبير - أحمد منعم ( خبيرفي تطوير تطبيقات الجوال YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Getting started with SwiftUI with Xcode 26 for beginners (2026)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlTm1vaU1tZXAtWUM2ZEtfOVlkemZBa2xNNTA0RkJjNGFXT1c4SVRTcXhfU2Q3ajl2T0E1Z2JvM1ZNY0FsU1F4ZTMyU1N3czF2SWM5ZkZB?oc=5",
+   "date": "2026-01-04T15:00:12+00:00",
+   "summary": "Getting started with SwiftUI with Xcode 26 for beginners (2026) YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
-  },
-  {
-   "title": "“ميتا” تدرس فرض سقف لاستخدام الذكاء الاصطناعي لمهندسيها بسبب التكلفة",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ubmc2ZDQ4c19leUdObjEtZEdkUWRUNFhOQTNuekNpTjluVWNIVnhGMVpycVl6eGx2UEVhNENRS25reW4zcnc0X0RYRk0zUQ?oc=5",
-   "date": "2026-07-16T07:30:41+00:00",
-   "summary": "“ميتا” تدرس فرض سقف لاستخدام الذكاء الاصطناعي لمهندسيها بسبب التكلفة صحيفة سويفت نيوز",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "صحيفة سويفت نيوز",
-   "lang": "ar"
-  },
-  {
-   "title": "“شات جي بي تي” يعود إلى “واتساب” من جديد",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90aXNRUTBSWVVzVmNDVlA2VVFQODhocjI1b1VhRkVLN05uSTNvWXQ1eXJ1NEdHd2JCT08zYUliSTlTVDlnbmxPWTZnQjkxQQ?oc=5",
-   "date": "2026-07-14T15:38:00+00:00",
-   "summary": "“شات جي بي تي” يعود إلى “واتساب” من جديد صحيفة سويفت نيوز",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "صحيفة سويفت نيوز",
-   "lang": "ar"
-  },
-  {
-   "title": "أخبار البلوكشين: «سويفت» تتبنى تقنية البلوكشين وتكشف النقاب عن دفتر أستاذ جديد للبنوك العالمية",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPbnUyR1psMzFOTzhBR1BmaEUxUklZaDB3WkUwbzNCVmZHbFViSFdNOUtndzVHTWdsdGxPNndQT0gxb3I2OGVpZ3lDMFVtdTFJaUlQY09aMXVPN0wxOU10TVE1YWVVclpyWUhDdHVGc1dWYkZUWTVGZjdicXBuekQtR2pUc2lqbTN6Zmp6cGJXM1ctZEkwUFB4b2Vsd1NsdlAwdHVZdXNBNFJ3Z3ZldHBwMXNubVEwQW50WHhkVnFkblNvZm9sSUtOeE9WM2FuMENVbHdjXzhTbkdvb1RBX3dPdlhUX21HRHpNMjlvUHZYN1hGSGhSVmo1cWZQQWZ4UWpTWTV0RG1JanBzbWxHVksxTDRTRGRqQXppWHFKZFdWdDdLWDVreHRTSC04NkZnVVkyODlEY3hka1g2YVRfTGN6bS12UG9Qa1ZwTERnMW1LUDBOUdIB1wJBVV95cUxPNWZmTUtBNnFIckMwOEhnVmhOSkVlaWlMY3VTdWRiUW9nYkpzZXU3eW9sbFdYNnByT0pjeTVCdmhQMGIxTzJ0d3BKMXl6NG91X1FHTHlUSWVhekppc085eTVsRXp3cFJuV0ItamhRQzEwOVluTjRCM0VOekhta29OZjFuZ3RVSjF1alpPaUQySkFMd2RKdWZlOW9iY2NnWjJCV0ZoVUZiTGNjdXNsS2JJck5veWdtcFAxaHc3X3Z5VjFESGVwQXk2YnVKTnZJMEZtR2o2dHRRUFQweDZBcmNJU2Fod1RvWjd5NmVURFJkWlNKeWdlZ1h3VXBBdU9LMGU5SUZKTENlUkRtYmFsb3c0WmxuTll6RDdqUl9BRHN6ek1YQy1SSi1QVC15NnVzMjlQTTJ4ZHUwNW1McTZWZFpYTHlKUTlBYzIxNHVCa1FwbGNRcm9xUHhR?oc=5",
-   "date": "2026-07-10T07:00:00+00:00",
-   "summary": "أخبار البلوكشين: «سويفت» تتبنى تقنية البلوكشين وتكشف النقاب عن دفتر أستاذ جديد للبنوك العالمية The Coin Republic",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "The Coin Republic",
-   "lang": "ar"
-  },
-  {
-   "title": "iOS 27 التجريبي يضم ميزة \"الكتابة باستخدام Siri\".. أدوات كتابة ذكية من أبل",
-   "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOYnMwUnNTYU5RYjh5eDc4SHN1bE1aYTljRUhTMEsyaVIyQV9FUmlwYU5PTGZ4RGpLZ1FHNHVNdE9OU0RidFN4UTlZSlprMEdNaEpSUlhpdWZXZWJxOGx0bWlaMFFFazhsVXZyS0xhUGpMNFZqaUI1dFdkNHFKU2pial9MbkVoX0FEOWtiX19BMVU1S3lrbWhKZ0NwRUFUejlLQXF6ZVhLbl9wSkpiVmJodGFCcGpfVVJCakxEXzJyT2hkMmU5UjZzU3lRVjU3cmgzU0VsdGdPSEctV193MUJ1aHctaDNpWXpDV2Z6dzNfUXR6MjRETVlobi1sS0thUjRRNkEwc2tFdmxGWllFa00ycDJZdnlxd2FoNDFHbzFYcThRcFREemhZWHVYd3VPUkpqemkwRFpQX2h3QVdGZ3dQektDaVZGOG5aQXdzOXV2ZG94TFF3X1dPV2x1QlV1ZDAzNWEwaThOcTFJOTJ5aFp0cUowUVNFOXdxeldJcmZFYktUZnVQZUpwZGlYcnY0Uk5BaHJLeUhwR1JRWWFnN3J5eWdCY0RnTWVjV2dkYURwcERHd9IBrANBVV95cUxQb0tQZjBMQ2lNSkstNHp6N3JDdVFFQzhtZmRJLS1pN2NQdHZNTjJZcElEdDZzRTJBSEZJU09XY3d6Z01SSF9XRERHanpEbEktSkZQNjhJaFRfSE5OVllCVU50Umd4eFJIRDl0SlJ4aEcwdV9XM18yMmZTdGpfYTlaSmJIRUszeDhScTNndnJrU1FsUHlvN3pxRWVBUjdkV3hRdVhHYUlhUm1yN2llOEJSYjViOTJYcTJkZ20yd0JEbzdRd3pKTlJWRkFjNWhOS0N1WVNfczBwNmJMRjRRZ0dJLXlLOUpCZU02YlpSdDhsb004LUg2SC1HWHMyMm1BbjJIN2NLa0dwZzZYQ0dBaDZacHdTRFNYNnItVUptaUhvMG0wTk10MUlqWG84RFoySVNzZndNWG93RGhoNHcxZG9iLW9wQnE0MXVWYncwdzVTQmVKU3ktMktyYjUzeDFZOXRqZmRzbVctay04bGRSaWpmb3M3Z1Y3N1RYaVVGajNqQ09TTExTQ0d1M1FveFFXQ0lXelhYa0hVMTN3d1BQb3p6dk1VTHpfbi1CSWpJWQ?oc=5",
-   "date": "2026-06-24T07:00:00+00:00",
-   "summary": "iOS 27 التجريبي يضم ميزة \"الكتابة باستخدام Siri\".. أدوات كتابة ذكية من أبل اليوم السابع",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
-   "lang": "ar"
-  },
-  {
-   "title": "انسَ أمر نظام التشغيل iOS 27، One UI 9 beta 3 للسلسلة Galaxy S26 بات الأمر وشيكاً. وقد كشفت سامسونج عن التاريخ.",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb0NnUmNEeHF3alhTcXp1TXBIdVFCSFlKakl1NENjWGs3U0FVMGxqd3FxTWhKV19PMm1xdXJvRG9jWWQ0cWlxc1BSTUFjeE0xbWNiM05kLWdnUXlsc2dCUFR0V0pPT3VaUE5rb3VIcGZXSGRBbG1vcTQ3eTdYa3E4TERsSGpxcUtZYmNJWFludTY1N2FTWWZTSk9HQTBtS0Q0M0ZsNnpVZXlUMl9oMDBxTTJnTS1vR1JEcE1FUjZfWkVJd25FaHBObWNMMFotUnh2Vnc0?oc=5",
-   "date": "2026-06-09T07:00:00+00:00",
-   "summary": "انسَ أمر نظام التشغيل iOS 27، One UI 9 beta 3 للسلسلة Galaxy S26 بات الأمر وشيكاً. وقد كشفت سامسونج عن التاريخ. Samsung magazín",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "Samsung magazín",
-   "lang": "ar"
-  },
-  {
-   "title": "تحديث نظام iOS 27.. كل ما تريد معرفته عن التحول الكبير في تاريخ أبل",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uWTFsMC00QU85eUhNY25zLUg0NXVTZElRMGVtOHZtNjNMc242OEZxLWhES1VFeEw5WE00ZllBLWdMMXJWUW9wNzc3VFBmSDUwYmc?oc=5",
-   "date": "2026-06-08T07:00:00+00:00",
-   "summary": "تحديث نظام iOS 27.. كل ما تريد معرفته عن التحول الكبير في تاريخ أبل العين الإخبارية",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "العين الإخبارية",
-   "lang": "ar"
-  },
-  {
-   "title": "Apple توسّع إمكانات App Store لمساعدة المطورين على النمو واستقطاب مستخدمين جدد",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmVNcUt3R082bHJ2STFMT2FueEpnSGJ5QTNDRnpaLWhaMUplOXljZmZ5OWpzcDV0WTRtNi11d2ZrMUVKSGl3Y0xXeWtlWGlsUUItUHZvWDFwMFVXNTMtQUNaVVVaWnViaHFVTnJUdHYxTENueVRieWtSbnRuVTVrSGcwVURxWDVORUZ4ZTdxT1B2ZHZjYUVuMjRrc3FoblcwTVpsOUtMVFNMQmJDdTRraGxQUW45WUhjeDJ5MGFiNTVYcmt3?oc=5",
-   "date": "2026-06-08T07:00:00+00:00",
-   "summary": "Apple توسّع إمكانات App Store لمساعدة المطورين على النمو واستقطاب مستخدمين جدد Apple",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "Apple",
-   "lang": "ar"
-  },
-  {
-   "title": "تسريبات iOS 27: ثورة في التطبيقات وتجهيز للآي-فون القابل للطي - آي-فون إسلام",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZGxxSFhocnpteGFCVzBNeDNpYWN4OUg4WDFRMW9obnNwV0F5elNxN2Rod2l4NFZ0V19mT1JzMS1nVmtTSUxnYTV0ZzJkUVR3SGxqT0drRUl3b2hQNUdTczZUNXVvVnAzcEVTX2JCRDMyUUs1SGZid1l0SWM0ZGxmZ01yRFdBeDRzc0V6am5uNGd2V01scGc4TFZB?oc=5",
-   "date": "2026-06-06T07:00:00+00:00",
-   "summary": "تسريبات iOS 27: ثورة في التطبيقات وتجهيز للآي-فون القابل للطي آي-فون إسلام",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
-  },
-  {
-   "title": "\"واتساب\" يطرح اشتراك \"بلس\" المدفوع لعدد محدود من مستخدمي iOS",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRVJqUGZfb0dDSkxnNTRMQ0FXS2ZkTW0xSjZCWmJ2R2VhMmZLLVpwb2Z5cWFtV3o1REUzbjduY2t0UHEzYlZJWnR0blZpUkVvT0E?oc=5",
-   "date": "2026-05-09T10:05:02+00:00",
-   "summary": "\"واتساب\" يطرح اشتراك \"بلس\" المدفوع لعدد محدود من مستخدمي iOS وكالة عمون الاخبارية",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "وكالة عمون الاخبارية",
-   "lang": "ar"
-  },
-  {
-   "title": "أبل تطلق نسخة iOS 26.5 التجريبية.. تعرف على مزاياها",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtTWdqMHJ6aXVneGg1OGlOZTl3ZjAyTTFYU0hGZGMxTjNuWnZKRWZwejV6cE11aGZzMDk1V1l6bU12LWsyQXJ0MUI3Yk9mV1UwbTB1T2tUWmpDelFtRTc1Y0plQV9hSWxaSkE?oc=5",
-   "date": "2026-04-02T07:00:00+00:00",
-   "summary": "أبل تطلق نسخة iOS 26.5 التجريبية.. تعرف على مزاياها الأيام البحرينية",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "الأيام البحرينية",
-   "lang": "ar"
-  },
-  {
-   "title": "بعد iOS ، أطلقت Duolingo وضع PvP للشطرنج على تطبيق Android",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rTzI1R1dWWUc2Ni1Ba0NJNTVDaEczLXhsaWdqVVdSRl9RNWRBbThJV2VheE13U05laFBmMjZPOC1MNVQ4Nmx6OGR30gFCQVVfeXFMTlkxc1A4WUotcnhiZW1KbmtFdnhhc1otbnhLbXU1MGdoYmc5SmkzTTZfX3VoWVlRejhVTGZTRkEwNGN3?oc=5",
-   "date": "2026-02-12T12:57:24+00:00",
-   "summary": "بعد iOS ، أطلقت Duolingo وضع PvP للشطرنج على تطبيق Android voi.id",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "voi.id",
-   "lang": "ar"
   },
   {
    "title": "How to Make an App (Xcode 26) FULL TUTORIAL",
@@ -1168,6 +417,26 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "اقوى 10 العاب فيها [ عالم مفتوح ضخم ] للاندرويد والايفون 2025 - 2026 🔥🔥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTnBBVU42ZkFzV3NQSVJhZEItYWhHUV9nQl9mQ1JwX3NIbk9hWnVJVHFwQnFRX1ZGN0treURNb1FTeGxIYkZvd0pRM2hVNmoybFkzZk5R?oc=5",
+   "date": "2025-12-08T16:40:48+00:00",
+   "summary": "اقوى 10 العاب فيها [ عالم مفتوح ضخم ] للاندرويد والايفون 2025 - 2026 🔥🔥 YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "رسمياً تحديث الايفون iOS 26.1 وصل للجميع | اخيرا النسخة الافضل من iOS 26 !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzVGVmTjBsclBMZUlyUmdlY3lvMTVDMlFQQldnOWRxR0FnekgwNV9zZU5qdTdhcl9PbWhOcjRrdTlSUDJHR1lZQ3lMQWJiRnQzNHl1TGx3?oc=5",
+   "date": "2025-11-03T21:19:12+00:00",
+   "summary": "رسمياً تحديث الايفون iOS 26.1 وصل للجميع | اخيرا النسخة الافضل من iOS 26 ! YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Building an iOS Ghibli App with SwiftUI, MVVM, and Swift Concurrency",
@@ -1200,6 +469,26 @@
    "lang": "en"
   },
   {
+   "title": "Build a Machine Learning App with SwiftUI",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ORExMQzRnMG9MN0Q1QVkzZXVhaHlPc3ktOUZDbF8wNW0wUGRxTXFQZmpMTkstck9Tb3F3WjhCLUtEeTljSXNEcXVpcG80RmVVUnZIU29n?oc=5",
+   "date": "2025-10-14T18:48:28+00:00",
+   "summary": "Build a Machine Learning App with SwiftUI YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93VjJNU0E1RzE1MEtwRW1xZjF1XzBuWUNSWkkwa0R4NHY5N0dMYUc2cS15THdhM3dUd3h4cHhXdmp1OTVoVlNVSDZBcGF1dDhFdDJYZlZR?oc=5",
+   "date": "2025-10-11T15:01:35+00:00",
+   "summary": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨ YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Xcode 26 Tutorial for Beginners (Day 2)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OTFVkYnVBRGczZGNnOTN2MXduS2l5dFBWVjJhMmZwaXI1aVB0QWNpQWJ5czZDM2pzajJhOTd4V2VlZW40OE0tWTFjRE5NdEtoWkRSRWl3?oc=5",
    "date": "2025-10-09T13:30:41+00:00",
@@ -1220,13 +509,23 @@
    "lang": "en"
   },
   {
-   "title": "أخبار العملات الرقمية SWIFT تعقد شراكة مع إيثيريوم لاير-2 لينيا مع ارتفاع التوكن بنسبة 15%",
-   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxObF9XRWw3RnljeTJfSEJkdWphTnc0OGJlRVN3YWRGT24ydmhOVDJ1Qlo5eVd1eDlHWTVNMlZYek1QQVRGb2FzWjRkRHlZbFVEcnBPcG9BTThpeVRrME9pX2dzb3UzeHdidnc4cVpGU2ZFSU13WDNrYmJXbXhKOHAzSVBteGtpRlpYY3BiZFBVeXA5UlUyNE1sXzBZN3R3V242ajBvbzJSX2l1bTVqSHlfTC1MYm1xdVptaWM2QmJUeWRQdXpyeFFCZzg4T1lJLXBsUXRYSFVwNlRXeFBjcEJxNEpyOFFQQ2VhMF95Y3lrTEdoVU1oM2Y3TXY4LVJWRnB6WWdNYW1VQjB5dnUzeGZ4QV9vX0E0NmM0OFhHa24yWjN5a0IwdlhIY3R1NWRfTWphckVoUWxIQXNlZDdPV0d2eENfRWkxNGxPYTF0X2xhWHZrQ2lwYmU5bUMyUzVla0otdVJZ0gHoAkFVX3lxTE5KZGxjZi1Cbm4zMldHbGpUaWVyV1FHRTNYUUZVbmtLX3FudWNKS1ZEc1RLbGc2b2pNUG1LOEJxWElqb1dfd2pXT2ltaVQ4UXJ0eVlRbk84dm5aV3RSbEpRTmU0VWNhcjdHRDh5ZW1sVjJBUEdVZ25aNm1UWVRmUGVoZkFPNDhMRU5oSlhUZ3IwWkpKRWlVYUpHWTlqRXRtMXY5enZRYVRwSHA4NnZnZXBVek1NWGNDV3lQTHBoUjk0aTEwdHZlSF9kV1ZDYWRFR1lOMzdLUUl6UmtFaHlxQXgxQURlWjdoTG9tbkxrR0lFRUZhVTdRSVpfZm9MXzEtQmQyUXJGVGJqcTRQWTlaS090N2I4QjlmR1ZNNVQybGtHMU1RTmN2UF9hUGwyZUdIX2o1LVdhUThGX0c5RUJabDE3OUZSdEtaaC0yYkJWSndfLXZtSGI5dzRGWEVaRnNpOEwwRUJVZlU3Yw?oc=5",
-   "date": "2025-09-26T07:00:00+00:00",
-   "summary": "أخبار العملات الرقمية SWIFT تعقد شراكة مع إيثيريوم لاير-2 لينيا مع ارتفاع التوكن بنسبة 15% The Coin Republic",
+   "title": "دليلك للتعامل مع iOS 26 | اضخم تحديث في تاريخ آبل اللي غير كل حاجة !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hN194TzVMbHIxWjJuS0hNeEZnRnlrdkcydXdhSWhpNm9zVlVLbTM4YVpnV1VxNUFiMVp3eWZVRmJKenloei1EVkNQMkMwT2xrXzlpTXFR?oc=5",
+   "date": "2025-09-15T17:06:12+00:00",
+   "summary": "دليلك للتعامل مع iOS 26 | اضخم تحديث في تاريخ آبل اللي غير كل حاجة ! YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "The Coin Republic",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NYW5XOTZ6VTVJSjN4d1I4YVNCNlZOc2Q2SjZVRkVVS2JJTnU2N3MyQ0VkNUo0bG1GeEFoNmtsTXRRUDdyeFBNNHV2NjJ4UmNMY2t6M0hR?oc=5",
+   "date": "2025-09-01T13:00:06+00:00",
+   "summary": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1240,13 +539,13 @@
    "lang": "en"
   },
   {
-   "title": "تحديث iOS 26 Beta 6 لأجهزة آيفون: تحسينات صغيرة قبل الإطلاق الكبير",
-   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNWHp3SmR1b0pYTjBzNVF0SXZWM2hKUE1KUWgyaW5mVFJMTzdRRG1nZGM1YXFyNHdkdEJRWlIyYmd4eXZseGNqMjdmSHgzVWgwaFJ3T3ZaRHZPZ1B4QmdvUW5fZEpENzAtaE5FVU9ISjFOVktNV244WTBTMVlsaE5hOUxkSUtrYllBQ2ZTMlJwNE0wMGpUZ0pZV2RxQXhsWEhGWjZHMElXcVpoLXRvSzlXTW9wZm9OMi1sVjItWTJvdDdUTHZmUV9fYmNjNDlxZURSUmxXb0ZtNlVVSmNZNjc3UzQtWmpESVhRRldsWmdEMFc0dUR2aWkyWkc4RnRFQ3UyNUNQc0F6eUFkMExVOFZ1NUoyd1RFeVFlX1FfV3M4dkkycVdMN1pfVkxrZnFCUjZWTWxMNGUwbHFfUDQ1ZEpwc0ZrQmJBaTdNUk8yWXNqUUk3LVN4QkMwZzZtOVpGNkhadmoyN0JtbHkxTm_SAeYCQVVfeXFMTkxQUFNzOUppN2Njb3BtX1R2Nkc1YjQ0eVZqNmk0T0lEVm1INGN2T2lTS2xPV1RzOHlISGRYbnV3WnJRX1JudE9PSGtDQlJQRWdNakx2VVhmSjZuMXE1QkRmUGVPS05FbEFPUUNBWmM2QTM2RElLS2Z0RW1QUTJYVThJbm9mV3dpaER4MzVTUnBqT2xhUFhieDlDTjR1OS1MTl9aQXhIQ1dEZUxoMDdya2pmZzNtbUhPMmNONlJmU19vUy1URlFBdkRGNVd0dV80REd2WWNNZnhnQUVWM1RoRzlhUzZZNGRYemdVOU9UUEJkNGpBQkZZQlBGUmRUbmtCSTVNMExRNVg5OWJFUlVSdVAxc0lhMDFfOGpsZVhlVUVDYndSZlRfdE9tYUpIdXNnLWRPN3J5Z2k3QlFzTGp2RjlGWUw3d09fdjZsMzI0bWlpOGxDY2NJcGlZRXJiMk0xVnI0ejhBUQ?oc=5",
-   "date": "2025-08-16T07:00:00+00:00",
-   "summary": "تحديث iOS 26 Beta 6 لأجهزة آيفون: تحسينات صغيرة قبل الإطلاق الكبير اليوم السابع",
+   "title": "تحديث الايفون iOS 18.6 | التحديث الاخير و اكتر من ٢٠ ثغرة امنية! 🤯",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MaHlJZEF2SmRCc1lDLWdiLVhleEZXRk0yR0FpelczSnBOcHlpVVpBaG5NeWhGR2RneG1xOWlHSGtHbXoxNHJEcDhrWE1sbUllVVdqeXBn?oc=5",
+   "date": "2025-07-30T12:30:14+00:00",
+   "summary": "تحديث الايفون iOS 18.6 | التحديث الاخير و اكتر من ٢٠ ثغرة امنية! 🤯 YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1260,13 +559,13 @@
    "lang": "en"
   },
   {
-   "title": "أنظمة التشغيل - iOS 27",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KNFBhTFJvdXV1bmNsZUZ5eU44SVZtRjZKTDl2cTROcVlEMmwyaExzLVpSSFZkNldPaUpqNUhWVlBxS2VNUjB5bTA0aw?oc=5",
-   "date": "2025-06-30T14:31:35+00:00",
-   "summary": "أنظمة التشغيل - iOS 27 Apple",
+   "title": "كيف تصنع تطبيق ios بالذكاء الاصطناعي مجاناً؟",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1veDhhOG9nTXlFOVdVV1EtRkZXejZ4dEkwc0dzdkkxQUxfMFNfd0l5aFR4cmlMWERCdUxSY1BNdmVkdXp2QXBnNnVDWFdEUEJWbHBIeDdn?oc=5",
+   "date": "2025-06-27T10:54:40+00:00",
+   "summary": "كيف تصنع تطبيق ios بالذكاء الاصطناعي مجاناً؟ YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "Apple",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1280,34 +579,34 @@
    "lang": "ar"
   },
   {
-   "title": "اكتسحت تايلور سويفت.. لوسي غو تصبح أصغر مليارديرة عصامية في العالم",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xZWtaVVRlU1JEanVKdjZiZ21vc2pNZEMzSk13djdPQUZKQ292bC1ldDdVRWR0ZHFLbVN0aUJKX3Y0VlZZbS1rWkFYN24?oc=5",
-   "date": "2025-06-09T01:43:11+00:00",
-   "summary": "اكتسحت تايلور سويفت.. لوسي غو تصبح أصغر مليارديرة عصامية في العالم جراءة نيوز",
+   "title": "Plan Swift Complete Course | Plan Swift Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LSGRUTHJ5elAyTklCMlJCYVRyQmhBbEVncUVxU0t0Z01JTHJ3d3pkQ1Npb1lWSEp5UWwtaXc2VjNrQmZaeGtkYzRzNE1DengtUmVDZHpR?oc=5",
+   "date": "2025-06-03T13:30:42+00:00",
+   "summary": "Plan Swift Complete Course | Plan Swift Tutorial for Beginners YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "جراءة نيوز",
-   "lang": "ar"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
-   "title": "إنجازان جديدان لطالبات أكاديمية آبل طويق في تحدي \"سويفت\" العالمي",
-   "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPalFmRHJrMG4xa2JPUE41QXlHU3ZlclZaTmxYQ2NIdTZRaFlkZFpiSHl1Q0FsakkwTGc4MS1YVXVjV0V0V2loNEwyVG5sZ3l0WXF4S3k2RC1mNXVUSnRYa1IzdzJxOUthdzNxdG5uMF9JckNfcHcxclBjX2FGZ1FqODcxYWpCWmQ0Snc0T3FuLXY2ekk1OWtoMmdWYko0eEg4cUFhbzZYbUVhbEU5cE5LU0ZmSzJvWnZsTGNwbVMzY0ExbWpWVFRfSHhoQzlRTEhHVWpSNXA1QTU5VXI1aGg3cDZBMV84b2VaRm5ZS2xxMFhIcE1JeXJGa3kwMVE5Y0pyS0lkRTNVWTZ6SFpDQXRIT21TeXptdm1zU1V4V0QtdThTYmJXSjVDSjdNNWhWMW1aRUxXVXQ3QmpGdmljU21VeVQ0LUhWTVRNd1Jyem44dC1qTmpSdWI5UEUxWVVQWGdyakdELU95NG5wQy1rbnFsMy1QWVdISFY3dGV6ZGVDMjBZdkszaG5ZeXNRaWg2VjZGcjltbzJTdTFsRno4RV9xX2FBclFHTkFlclJwLXg4b2RzcVJPZUc4bloxTQ?oc=5",
-   "date": "2025-05-24T07:00:00+00:00",
-   "summary": "إنجازان جديدان لطالبات أكاديمية آبل طويق في تحدي \"سويفت\" العالمي مجلة سيدتي",
+   "title": " Beginner Swift Tutorial • iOS App Development",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sVXNQN0pOYmZPSDNsTUgwOE5KbXpqVmM3eEVzdzdNX1NfTmJveG00cUdWd1dEZ2hBa18ySVRZRDZRaEloUnl4TUowZ0VuMFIzbDNuT1RR?oc=5",
+   "date": "2025-05-23T10:44:21+00:00",
+   "summary": " Beginner Swift Tutorial • iOS App Development YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مجلة سيدتي",
-   "lang": "ar"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
-   "title": "صندوق الوطن يحتفل بتخريج 230 مشاركا من برنامج “سويفت”",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YS2c1NGYtRFdNUWYtNUVtZFFfRktnbmZMUDZoUFpuLXMxU1RiVU4zY2tVMnhNYk9DMlRXMm5XTzZuLUlLek00?oc=5",
-   "date": "2025-02-26T08:00:00+00:00",
-   "summary": "صندوق الوطن يحتفل بتخريج 230 مشاركا من برنامج “سويفت” alwatan.ae",
+   "title": "Swift Programming For Beginners 2025 | Swift Crash Course 2025 | Swift Tutorial | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOXzNYcjcyLWVWUkFFVmV0YnNOZkg3UUdobnRlZUZyRmE5QVFiNVQzMlpOOHFBQXpPNnBkS3IyWlhyREFFeGxoQjhDUGZTLUIySFFuVTln?oc=5",
+   "date": "2025-05-09T14:30:11+00:00",
+   "summary": "Swift Programming For Beginners 2025 | Swift Crash Course 2025 | Swift Tutorial | Simplilearn YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "alwatan.ae",
-   "lang": "ar"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Learn SwiftUI In Arabic - @Environment Property Wrapper #67",
@@ -1330,6 +629,16 @@
    "lang": "en"
   },
   {
+   "title": "Ch. 1.8 An Into to Types in Swift - SwiftUI course (2025)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0aVJNdXNOZy11SlBsSDZaa0J4Y3dkQ1hFWjh5UDlFMkMycEF1NmFwdE9zQVJDQmwtNzBtbkpodFFPS2J2d2l4WUZSMG95eENhV2hvQVln?oc=5",
+   "date": "2025-01-17T20:25:59+00:00",
+   "summary": "Ch. 1.8 An Into to Types in Swift - SwiftUI course (2025) YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Learn SwiftUI from beginner to professional developer free online courses",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03QzM2ZUstZW5UeUVySzdMdE1Hdy1fLVhocnJYbExacGhscDdJSnQySWRUX0JuemlhcUJEVjZtaDhGRkNXcE4zMlVLNGFVTlI0b3NwNGp3?oc=5",
    "date": "2025-01-06T14:00:42+00:00",
@@ -1340,13 +649,33 @@
    "lang": "en"
   },
   {
-   "title": "أكاديمية طويق تطلق 150 معسكرًا وبرنامجًا تقنيًا جديدًا لعام 2025",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqMk5Gbmd5Z0pkUE5LOFdwZXNmMUhpUUg3WU9QUXdLMGE1ZWlvbjBvaXlFRlV2bU8wUWtiRUNnUy1sQ09Yc0p6elljY25tdw?oc=5",
-   "date": "2024-12-03T08:00:00+00:00",
-   "summary": "أكاديمية طويق تطلق 150 معسكرًا وبرنامجًا تقنيًا جديدًا لعام 2025 صحيفة سويفت نيوز",
+   "title": "خطة شاملة لتصبح مطور تطبيقات iOS محترف | دليل Roadmap شامل.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PSTFOX2ppclFYVm9SRU5Odlk2OXQ5Q0tyWnpMcnhnN2dVd2paNGZoRXA3RU9XcGlYeUw1SFhXc2FsYkVmX0g2VXI4RmpTQjNDcjRySVJn?oc=5",
+   "date": "2024-12-29T08:00:00+00:00",
+   "summary": "خطة شاملة لتصبح مطور تطبيقات iOS محترف | دليل Roadmap شامل. YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "صحيفة سويفت نيوز",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Swift Language Fundamentals - The Complete Beginner's Guide",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUUlpxcjFMY25MeHlxYXp2WUp3T3BqS3l2aldFcU1PRWtTVGM2NEpxRmkzOE5sNGg5SWhCWkVYZmZvTF9BUFRLUThpVDA2dWZPeVljR0t3?oc=5",
+   "date": "2024-10-02T16:07:15+00:00",
+   "summary": "Swift Language Fundamentals - The Complete Beginner's Guide YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تحديث الايفون الجديد iOS 18: نصائح مهمة قبل وبعد التحديث",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0VVFqOEp4dmFIVEhoa3Z4UXNzdUlsT1JSTW1QblNXdEVOcUtCREtqdXllcmdaNjExMDA3RDBYY2YzeDM1cjUxb2NCd0pJLUdUZHEtLW9R?oc=5",
+   "date": "2024-09-16T17:09:06+00:00",
+   "summary": "تحديث الايفون الجديد iOS 18: نصائح مهمة قبل وبعد التحديث YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1370,13 +699,23 @@
    "lang": "en"
   },
   {
-   "title": "أفضل 4 طرق لتحميل التطبيقات من خارج Apple App Store",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzBnLXpuZmJiSU85Sm8tNHNWaEJpVmdXQWhwQTA2YUJMU3hpUVVod3RtX0hrMWZFSG9uM3hLR3lUYVJNa2EwMVBRUDlCWHd5TkxIaVdHZ0VxemIySXEzbEJGMVVHNlVYVzlySWFXSDdIb1Q3ZE9QLWVSZWpuMWZQdWVhYw?oc=5",
-   "date": "2024-08-27T07:00:00+00:00",
-   "summary": "أفضل 4 طرق لتحميل التطبيقات من خارج Apple App Store Arabhardware",
+   "title": "تعلم إنشاء تطبيقات iOS خطوة بخطوة #برمجة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2SUpIcmszcmF6YklQQndkLS13US1jRXkzQkJzcndmRGJhQjBOeUpvQWg5b2FYMjBUQXEwMURTcDh5Qm5GREI2dmxuUTFEOWR5YnlJSGpB?oc=5",
+   "date": "2024-08-03T16:53:56+00:00",
+   "summary": "تعلم إنشاء تطبيقات iOS خطوة بخطوة #برمجة YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "Arabhardware",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "طريقة تنزيل نظام iOS18 مجانا للايفون || حل مشكلة تحديث iOS 18 لا يظهر 🔥💥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SGpDQ012cE5PZmlCWVdHZHF1Ni1xeGlNMld6RFgzQnpoTG9udnJGeGVNSlc1dXJZUHR0Q0hhMGU1cFB6bjlFaTNkYndmdWJwVGoxWkt3?oc=5",
+   "date": "2024-07-02T15:04:56+00:00",
+   "summary": "طريقة تنزيل نظام iOS18 مجانا للايفون || حل مشكلة تحديث iOS 18 لا يظهر 🔥💥 YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1390,13 +729,33 @@
    "lang": "en"
   },
   {
-   "title": "تحميل ثيم iOS Pro ايفون 16 لهواتف شاومي بنظام MIUI/HyperOS مع شرح التثبيت",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xdVRPUGJTWDkxZzNjQjhmZlRtaHF0OVFPZGU4MzNHR1FnZEJrbXh4NFFXNnBMSU1BNVNqMWoydHgwbVhueGFleFdQVEtzemNIb0xTSlA3bHN4YkRaYWJNU28tQWxPZlUwWWdyVWoxNVk?oc=5",
-   "date": "2024-05-19T07:00:00+00:00",
-   "summary": "تحميل ثيم iOS Pro ايفون 16 لهواتف شاومي بنظام MIUI/HyperOS مع شرح التثبيت mohamedovic.com",
+   "title": "ميزة مخفية لتسريع الألعاب في هواتف الايفون و الايباد 😈 فعلها بسرعة 🔥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hNDJCZ1k2R2pKZXVraVJ4TFZTRERxWVkteXBKbTZvcHdXaDRaMmQ0OWU2Wmk0N1VBU1h5VHFUTEdtWk5fWUJZMG95YlNEVXFRSlpNNnFn?oc=5",
+   "date": "2024-06-13T13:00:42+00:00",
+   "summary": "ميزة مخفية لتسريع الألعاب في هواتف الايفون و الايباد 😈 فعلها بسرعة 🔥 YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "mohamedovic.com",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Learn how to develop iOS apps with Xcode, Swift and SwiftUI 📱 (FREE beginner tutorial)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QX3p0YjFFd1lJRW5ENktna3NDS0ZZSTBreGJrWmdmRTJlUzVMNjJVbzBURFY3Q2lJaU53dUhZNXhuYWowMFlhMEFfZnZrRXJiU0dESHR3?oc=5",
+   "date": "2024-06-08T00:51:40+00:00",
+   "summary": "Learn how to develop iOS apps with Xcode, Swift and SwiftUI 📱 (FREE beginner tutorial) YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تحويل ايموجي اندرويد الى ايفون iOS 2024",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzNUktX3diTXpFcWp3eVlnVGRKQ0lCLXhVTjJja0Q2cTFvbDVRWlBOWVhtdnhTWTQwRnhXWUhYSjJ6T3dOS1RfNGFiUDB1cW1JTWFCbkhR?oc=5",
+   "date": "2024-06-03T15:45:03+00:00",
+   "summary": "تحويل ايموجي اندرويد الى ايفون iOS 2024 YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1470,83 +829,13 @@
    "lang": "en"
   },
   {
-   "title": "How layout works in SwiftUI – Layout and Geometry SwiftUI Tutorial 1/8",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BSGdjVERERUpVazZ1Yy1LdXA1MW9YdlNGSU9ac0h0dU9qd2ZrdGwwdFphSVVoZlVwaVBfTUdQWmljTGtCbzE1MmFXZFdhcTBSeThWX2J3?oc=5",
-   "date": "2024-02-22T18:26:12+00:00",
-   "summary": "How layout works in SwiftUI – Layout and Geometry SwiftUI Tutorial 1/8 YouTube",
+   "title": "رسميًا تحديث الايفون iOS 17 | المميزات الجديدة || الكثير و الكثير من الملل !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoWE0yVHg0NmpKYm1sbnB2c0d3VGZZZFJBVnR0eDZZMHNtaTM0d0s0bHhhZmI2eFFjdmZyTGFEMlU0M2h3NjVCQW9EdzdzaG9VQk1KN3RB?oc=5",
+   "date": "2023-06-05T23:50:56+00:00",
+   "summary": "رسميًا تحديث الايفون iOS 17 | المميزات الجديدة || الكثير و الكثير من الملل ! YouTube",
    "tech": "swift",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SwiftUI Image Basics (2024)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZkNHeXFPYWRUM2xtLV9ZcFhwUkpkZ2RfcXZfLTdZREdEUmhBSC1ya0tpalJkSVdWNjBsMkZWQzJEOW9veHRaVU5hOFRWSVlTQmJ2dm9B?oc=5",
-   "date": "2024-02-08T17:00:50+00:00",
-   "summary": "SwiftUI Image Basics (2024) YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SwiftUI Button Basics (2024)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qQTFvN1hDVDdPejBmT1hpcnVEU0d0YTNxYVNzbHVxN291OURCcDZiRDgyQ0RaQ2xaMlJnUWVZekw3LXZvZEZZSWpCdDB3d1BTOGw2Q293?oc=5",
-   "date": "2024-01-26T17:00:18+00:00",
-   "summary": "SwiftUI Button Basics (2024) YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Handling voice input in SwiftUI – Accessibility SwiftUI Tutorial 4/7",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iTGlZb1YwNlREZVFYMG9HN1M5aVV2aUdHSnhqazgyQWpQNjkzUVJQcDNIVy1oODluTlhsVDE2NHVaamwycUFCN3V5Z01IeHB4WnVoVFZ3?oc=5",
-   "date": "2024-01-19T09:58:04+00:00",
-   "summary": "Handling voice input in SwiftUI – Accessibility SwiftUI Tutorial 4/7 YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "ما هو أفضل متجر تطبيقات مجانية للايفون بديل App Store؟ هناك 10 اختيارات!",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iU0FHRHlrOWwwRy00Sjlhc3VVRnBoNjFfeUVHTlprdHBJaV9rSGgtZTJvR3hCRXlhRlVTR3RWbUpWb3RQY0ZFdkJFdjJRNGRXV2x4YTRURVpsNEdLbkNWWU5B?oc=5",
-   "date": "2024-01-19T08:00:00+00:00",
-   "summary": "ما هو أفضل متجر تطبيقات مجانية للايفون بديل App Store؟ هناك 10 اختيارات! mohamedovic.com",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "mohamedovic.com",
-   "lang": "ar"
-  },
-  {
-   "title": "Locking our UI behind Face ID – Bucket List SwiftUI Tutorial 12/12",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rQWVVQXB0ekxBOTFrTGxFUnpIeVlILVYyelprekE0a09pMU41SFJFVmdiY056V184Vm50UFA2N1hZdjlFQ2hEWUZwYnJ0R1ByakIzYWd3?oc=5",
-   "date": "2024-01-08T23:26:27+00:00",
-   "summary": "Locking our UI behind Face ID – Bucket List SwiftUI Tutorial 12/12 YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Using Touch ID and Face ID with SwiftUI – Bucket List SwiftUI Tutorial 5/12",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTN29YWlFJRnNVdVp0YldwbWZwcnBFRGlGYjM0ZmxKNURwWGs1azA4OV9sSmZNczhMX21YbmQwRU5WYkpZVXoySlFqSkFZRVNvQWJ6Ry13?oc=5",
-   "date": "2023-12-23T22:44:06+00:00",
-   "summary": "Using Touch ID and Face ID with SwiftUI – Bucket List SwiftUI Tutorial 5/12 YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "آبل توفر أكبر تحديث لأجهزة آيفون منذ سنوات عبر iOS 18",
-   "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQcmZ4d0RSVHBqam1uLXIwbzdlSGFLX210aDNYT20wQVZDT2JEUmoxRERKcFBfakZtYkxORXJmVkE4Vk9BRFpqRjFNYlNfTU9FbW96bWgwdVE4VThYV2tSaS03dHZJbmp0d3NkY2dscFRUNk9xNmZJaHczV3pQYVUzNkYwS1RiZTVROXo3Y2NyamJvUTRXOHN4UlhXcVFqcEhoSDhKX0JaNmJHSVN0X2hWZ294TFE4RlpuYmZ2RE5nX0tRTkFlVWdyRWlXZmplaFl6em0zcm40a3pJVWZYUkJWSHFVcXNkMHNrZk5TS3VfeUhfeVNyVC1sUkFvTl9RaWt0bjRuNVhwcmx0dHRWSjZNMDZ3T3NPMHE2a3lnQUs3NVBfWDBNcmRQNzhzRnpPcGdLQkg1SmhXdVVaTXQwTmNLODZ2WnJwQ2ZxQmtCZTBrVVBuYmJkZ0xiUmk5TWdtaUJ0VGJXN01wUldLNDdjZlNMQ3dSRnJtNmJEWFp4ekhacFhZbEJpa0xuQnBQNUZrXzFyeDRkanpCcVFzbDTSAZYDQVVfeXFMTWZGQVFJMVBlNk1kUUY0bGZqc2pqVE8tV0phSzZPUzN1Yzd6OHRnVHBUcV9HcEtsWWxFcWN5SDA4MlhDZnVZMzBPTFdzVWZwWlJOaHBsYzg5OHlicEJTczdrcWJpdnJBVmlTNGJVQWFXMDdDX29vOVJFWTRJejBabmlxNW04QWJoNVhQRGpjN0h1czl6TzVfaUhqMEJwTXBGRUREMWlTa3RWVUcxeUs3NVVSZnNGNWxhLXU4VFlaWHBvaFBMMlpxb1lpNDZDaWUzNjlxQ2g5LVF1LWtXTzRxTHFqSUhMUFFCbWhjTE9aZHdIMV8tRWFYWTMwcm9wTUpka2w3czA3eUhrdHV2SkJqank4c1JJZkxzUU5kaGV4NkNkS01BbVBDQnp5QzkwTDdMWjFLMXJXU2tmZ0VkQ05pc2VnQnNZWHhmMFJTN0xCQllfMjJoWUlmakttU3lJUlVUYVB4SE04dFdTbWxYWkdYNU9WS1ctQjRpdmNsX2kyV25PWUpIOUxRZ243Rmh5cVBQWU9adGJ3Zw?oc=5",
-   "date": "2023-11-13T08:00:00+00:00",
-   "summary": "آبل توفر أكبر تحديث لأجهزة آيفون منذ سنوات عبر iOS 18 اليوم السابع",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
    "lang": "ar"
   },
   {
@@ -1570,23 +859,33 @@
    "lang": "ar"
   },
   {
-   "title": "تايلور سويفت بفستان مرصع بالجواهر فى حفل جائزة MTV Video Music Awards",
-   "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOOVJVUmI3UGRKTmJsTjBvUnJlcHJqbU0wMy1JT2xHdmgxVzZiM21sOVVYSUlRUEU0Uk95a2QwTnRsS0Racmg1cFRYSGVWWWxlTlZuN3NXRDc5Q2hKSVhQYnBUZWx3T0cyMXVhVDBkY0czeVBCc2FValBBMHNxeFVlZlFsWTFnOFVwQlpaMWZsUjVaaFFnbGhMejFHMDN4M21YRzRhdHBTaEFleGtlQUhKa2dqbFZLTlpHNV9ELWV1dU10WWs0MVJ4eGFteXRYOVZIeU5Oby1Ja0pnVThHNWtWWk50ajAyM3hENmROSmh0X2xWdktUSHJQRS1NLUh6WG5CYnJXdEFSRHFtZ3ZLdXdIbG94VzBiWHBGME03dmI5a3RzUUM3Sl92V2RwT21seG9ic0dld3NxNGpZU3FQTDh0YnhNTnhnM19LT29kN29JSEJqN3FKU0RXU1pvdXZEOXhjcVBMUThYYS02WkF6UTRhWVNrV2dGWEpsVTNpdTF6R0lUM0s3SmhBSlFOeEdNeGpfWlVQZktIekJ6bnRWcnk1M2ZSdTNpSXF30gGjA0FVX3lxTFBicWV2THNSVGZhdThUdXlMcVJfUnRRNFNuaXNOSDNCbDR1WDFwMnRoVnJDSi1VS1M4UFRveHA2UHpTWEhuMERhbnk0RTU0Y3JpOWVHRF9yNS1Lbkp1MDdJdzZBbzZ4dDh4a2dJRm1PN3pUWFI2Rzktc3lFWUdvak45TzFZendlYXZoUWc3akpaR0dMMG9rTVh6Y1FTM19sZ1BGNW5vRS1GX205cGNqWVZxdVRQY1BrMDQ0bXd6RUhpanhUNmhCOUZVU0s2amJ4Ri1nQ3FEb1M5WV9nWXlmQnNfSWhwQ1hoQmloME1MZGh3cjI1aVJNX1VVaFZYbVdRLUx4YWR0QlIwZzkxMnpvMFVSNklMZEphOFJzS0p5YVE0eEVSTi10eWlCMFR1N19QS1hYb3lGa09oNlBBWXVLMHZJSzV5TU51MGw2RlNkdjdVVjFWUV8xbUl1SS0xaXdocjhkeGdMQkl2Znp5ZmF5R2lsSVp6MEpVLUJ2V2xOUnE4a21vZzNYWWhSNlM1djZHSnA5UnNDOTFna1A4WlVkMVM0UEZZ?oc=5",
-   "date": "2022-08-29T07:00:00+00:00",
-   "summary": "تايلور سويفت بفستان مرصع بالجواهر فى حفل جائزة MTV Video Music Awards اليوم السابع",
+   "title": "طريقة تثبيت تحديث iOS 16 على آيفون 6 بدون كمبيوتر (خطوة بخطوة) - الحل الوحيد والمضمون !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ydERqU1hzTTRQZ2RpQ2JwZmw1ZXVzamFBeHNReXNjS3pwdWZ5N3VMOEl2MHBZN3J5d2NHOHB5UksteUJaXzAyTGlkdlZFWXlHbjQzM0ln?oc=5",
+   "date": "2023-02-17T17:48:14+00:00",
+   "summary": "طريقة تثبيت تحديث iOS 16 على آيفون 6 بدون كمبيوتر (خطوة بخطوة) - الحل الوحيد والمضمون ! YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "قصص 13 ليلة بلا نوم.. تايلور سويفت تكشف موعد طرح ألبومها الجديد \"Midnights\"",
-   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNR21YdnByZnhFVGVDOHdLYUQ2ZkFiUjU1M3ByN2RtcVZ1Qy1nQUR0Nl81Z2JFVUNfMzdidUk0bWlLMU5HZmNOMzcxWEhjckFydWZuLXZWd1pnX2EwWDQ1Wi1IcmQtVGt0R2tyal96ODBVejdMMTlLRTRnM1pFMVVEa0lKRXRIZjNDZWJqdWNick5JRDRxOXVuR1NvYzhxSmt1ZUlpSFdtdUNmOTF5NzR5dVl6aHRaWEM4NUhsOXE4WGNaRXMyZzJ4NzJOM2VOc25hT3kxV2lwYlVYVVZTb0tubXZnTkJqSmpnVWNEMkoxRXFzU2ZjTTRfWTBUcXN1VXBIYmczVzZZS0RVRHk1YnBUSXQtYmpfN1FxYXgtVXo5ekZvUUZRU05KNlFBMGotbm9LVjJCbV9DOHR2cDd1YzZVMjBEc1Mwc25WMWhLdFJrb0kyVFBrVVk0OENWQTdYa2Nnd29nZ1o4em9jRkFxWDd1VzZUZF8zaXlFVEk4ZFJpTGjSAfsCQVVfeXFMUEtudTNPQ3hBRzVkakI3WEhLcV9IMnQwaXRmWWJyU2hMeEhPSWI5ampiQV9CeUNaRjZhaGhlbXZFSExXcy00d1hmcmdJVDcxYnlIeGNiejNmRklpYnEyWDdCSjh2X21zQVJyYzUtbng0X2tkeG9vNC1Fd0t3TmdEbVZDeFpHa2FFWHZpckZ4YVhHcGh2Qnp4VHRFdGtxQXRLc1JaWDFEX0dWVGxvYjE5cEhLbEdWXzJzSHdXUlZXWkRDVG5NRUNjMFhNYjVkTGhmaXRYMEN2ZTVmanhkSlMzc1FZd0Mwbjc5Mm52bU50U1I0TGtobWg4RVVYb3J1LVBGR1YxcjZmQ2JyRUJVR3RmOWYxVnA5bVlPeUxtOVI4Wk5uTjJyY1NMSkdkM0dRX0ZYdm1SbjVGYVBZNEhzV0h3S0tnUDQ5Q3loSE1UckVIQTJIYXBxdUs1MHhDcTBYRzhyOTlESGVUVUptaWdnM3JfRklzMERIdUdiUzZLNA?oc=5",
-   "date": "2022-08-29T07:00:00+00:00",
-   "summary": "قصص 13 ليلة بلا نوم.. تايلور سويفت تكشف موعد طرح ألبومها الجديد \"Midnights\" اليوم السابع",
+   "title": "وأخيراً 💥 تثبيت ثيمات الايفون على هواتف شاومي بعد حظرها | الثالث أسطوري 👌",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZTDN5ZGtsWXp6bHNjQ011VTBZZ3MxQTg4LU9vbjhFNUNLMmR5X3RhZWdOUGExV19IMVpMMlZIWHRKOUFsemdUa0xxVElNN04tSXpsMnpR?oc=5",
+   "date": "2022-12-08T16:03:37+00:00",
+   "summary": "وأخيراً 💥 تثبيت ثيمات الايفون على هواتف شاومي بعد حظرها | الثالث أسطوري 👌 YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيف تلعبون العاب الاكس بوكس على الايفون والاندرويد",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXbDhIbTZRbmRUY3VHUzZtc1NXWkFpaTJ4dTB6RF9Gb2UzNnRRSUY5eXBOT1o1LXdJRm1yS1BBdGpiVjBvdDNJVExmQU5tNC1vNXc?oc=5",
+   "date": "2022-09-04T07:00:00+00:00",
+   "summary": "كيف تلعبون العاب الاكس بوكس على الايفون والاندرويد YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1600,23 +899,33 @@
    "lang": "en"
   },
   {
-   "title": "13 ميزة حول الشاشة الرئيسية في تحديث iOS 16 عليك معرفتها - آي-فون إسلام",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1OVl1UEtiRlE3M0hFZTctaU8taHM1cmJveXVEMkxfSV9IWmxiZ1Q1TV8xSDI0b1B3QWdYR3JfY1FkNFNQLWh6Y1VSaDdpd0xNbHR1elFwSDdxQkcxVjBkTU9IYUlBOG1XSjd3dUstUzBjSjQ?oc=5",
-   "date": "2022-06-17T07:00:00+00:00",
-   "summary": "13 ميزة حول الشاشة الرئيسية في تحديث iOS 16 عليك معرفتها آي-فون إسلام",
+   "title": "هل يمكن تطوير الالعاب من خلال الايفون؟ وهل تستطيع تشغيل max2d على الايفون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LMU9NSFBLdzNNaVI3UDRLUlVfcW5wdFczT0tLWFVqa0xBem4yTUhpWU92dW95eTl3MFVIYXlvb1JXN0FQQnhDYXQ1UGFhM3JsNlJ3NkVn?oc=5",
+   "date": "2022-08-11T21:00:13+00:00",
+   "summary": "هل يمكن تطوير الالعاب من خلال الايفون؟ وهل تستطيع تشغيل max2d على الايفون YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "تعلم تطوير تطبيقات الآي-فون مع التطبيق العربي الأول لتعلّم لغة سويفت - آي-فون إسلام",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT015VWJrdzNlMk4xYTl1NWpMU0Y4ZjZjWmxSN2VUQmVPS0oyY29RQ1otcm9rQjNTeDNBNXZQT1V0cUlTUndHamdsQktYQmtuYWRZU1ZaZklYTXk0Zm02bGdrcTBpNHVHY2F4Qm02NnltYjJMZUxqbVkyekZ2Z01CVXM0bGdXeFdGRnEzcEZ5YWt0aXNBMWF3VGJ2S1U4WEFLU01WZWFSaEVQN2d2ajZVZkk0U0phOEFTc3lrdzZwMURNX0V2UXR6TVA2bU84YlNXcTQ4?oc=5",
-   "date": "2022-05-04T07:00:00+00:00",
-   "summary": "تعلم تطوير تطبيقات الآي-فون مع التطبيق العربي الأول لتعلّم لغة سويفت آي-فون إسلام",
+   "title": "نقل محادثات الواتساب من الاندرويد الى الايفون | MobileTrans",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQWkRHdXRKaXROdVhnT0VsLWR3NmVSMHU5OVM0SG1ab3FtWEtoSTE5VDFtNkV1VFZxOW1FckZSR3F1MzdYck1BdXNFOHVvRUNtQTZwaHpn?oc=5",
+   "date": "2022-07-02T14:00:02+00:00",
+   "summary": "نقل محادثات الواتساب من الاندرويد الى الايفون | MobileTrans YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح نمط المطور في iOS 16 | السماح للبرامج من خارج ابل ستور",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0VjFUU0VNS2pjTzNxTHlwdlFTV09MbGZ3LWVvd1RJWDMyaXI0RW5WcGQ2YUpfRDZkWjFac0FKbW9hZWhSeDl0QUpXMzlWRk9OaGc1Sm1R?oc=5",
+   "date": "2022-06-11T17:10:09+00:00",
+   "summary": "شرح نمط المطور في iOS 16 | السماح للبرامج من خارج ابل ستور YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1650,13 +959,13 @@
    "lang": "ar"
   },
   {
-   "title": "الاستهداف المضاعف لجهاز الآيفون الخاص بمعارض يكشف عن برنامج التجسس المأجور من Cytrox",
-   "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOMm41c1F5NGNTNVZaQnJJS05VYUdzQkFydE1uS2lCQkx5Ung0WnNkLTNvdkZlU2lCOVRLbzVzTkxhMHNuRDVZYU5sY0JqRDdHQUtuTzc4RmNaaDUtWTM5SWQwMzkwYzZacVlKcXJzQzVicjU2RkJ6YzNXWDNsdWdieTFDbVJ1aE1WSE93MkFOM080bkhfN1B3TzAtajhxU01UR3MyX0dnVGRybnMwZG5OOS1KQUIyUEh2dDZmUU5JY25xSXNTeVlmeWswanpYcW1PeEU1QTNLOE5pVy1JUFhGU0Q1MzY5bTg0V255aHRNRHNZd0xOTTFjNklkeUs3YVhFVnNENnlleDBTaDcwb3ZzRThGQmxrZmtsZDJFQmpmRENXVDcwOGh0OUo2aXFwR20xclhOVVJ2eDQ2RUZPMVlkR1cxZGtJUTN5dEdULVQxaWN4VmxGZVZubjJzZTU3dlIxV2c5WWZYZW1rXzhWRnB3azJJVjZEWDdZQ3NyemRPcnJYQlEwOGhBdWFTME5lZFpCYXQwUDV5ZXhubE9JNWJjSml3NndLSUtOU0Y4ZEZNcWpYNzl0LVFKMF9xanBjT2M?oc=5",
-   "date": "2021-12-16T08:00:00+00:00",
-   "summary": "الاستهداف المضاعف لجهاز الآيفون الخاص بمعارض يكشف عن برنامج التجسس المأجور من Cytrox The Citizen Lab",
+   "title": "تسريع الايفون بدون برامج | اعدادات ايفون يجب تغيرها",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00c1JYWjBEY1h4Y0pKVDV3czRBV2tNbWR3VFlBR3U4YmQ5TXNDN2RyTk4wWTBweVE1ZWVRX3dENjZiLVlteG5XbnFxM0l6c2tUUUx3a1ZB?oc=5",
+   "date": "2022-01-02T14:00:09+00:00",
+   "summary": "تسريع الايفون بدون برامج | اعدادات ايفون يجب تغيرها YouTube",
    "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "The Citizen Lab",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1730,30 +1039,20 @@
    "lang": "ar"
   },
   {
-   "title": "بعد تراجع أسعارها.. هل تنافس سوزوكي سويفت ديزاير 2021 هذه السيارات؟",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmNlSm9CbzBBbHIyTWxIVWlFZ25ZbWNjQV9NcDE5ZWI4OExaUm5UbmI1MUd0RTZwWklVNjNjT0tHR21IeWlmcGh6NV9jbDk2Q0JLMFlWbW9MMElEbnRybG1zZURuNnJ5cVNkVHdSMGtYM01XRXhXU3BtbjNkSWtEZtIBoARBVV95cUxPLTU0QzV5ODNDMk1Rb3VHdEthYlhpdTN1ZWhaRm9Sa3d3aHp4VFcxUDN4OExNUmtodUN3dU5mQ3ZFYldOamUxWlRRYUcwNXZDa3JGRUVDWjRKa1gxR3BWVHppakxFS0NBeVNZZEQ4dWhTLUNUM3VUZ0FBR25kR0szYmxRYWkzS3U3TWxUam1lZ3R5djI1d25pUlFQU3J0RTZfSUt1WEFDVjdvNXJBYWg4ZVJWUDNkNmxpQVFQRTdTMllncFhmMm9FVHZnZC1IUzZJVjhWNFhjaWI2VnhUQ1pSQ1FNVlRHLVVVejU4MUFyY1JSRXJTNjhTU0g4MkVKQmE3WUVJVVRYNDlrRGNDckhCMXNHY2V2MXFOalhGb1lfQ2Y3aE8tSGh0c0tkekIyNHFNZEQ0OXJNVlhYSFItZmdsQVhGNjRkWkVfMEVyWF9Gc3dZVGZpSWVnSFFkeHpaQnNvNmxOLUppaUNzOWtSZ2tnblVHQjZncVU2WGlRSUxvR3hjSUlNMkNVd19ZMmFRbGlGSjB0OGlSU0F4bmVIX2ZVM29QY2daRVBWZ3ZXLWxBaHU0X3ZLWnVwVldkSmRwc2w3bVlLY0VQZmJ4VnAwMGFRUktPeHpYZmNmVDhMZ1JPOVgwQ0dWQ1A0ZDJWWTkzZlg3dFBvblp4Y3VPZHlnempwZjdFM3Y1OG52WGJiM3d1MVBubC1hakZONDFKQ1pMcWth?oc=5",
-   "date": "2020-11-28T08:00:00+00:00",
-   "summary": "بعد تراجع أسعارها.. هل تنافس سوزوكي سويفت ديزاير 2021 هذه السيارات؟ Masrawy",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "Masrawy",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية استخدام تطبيق ترجمة أبل في iOS 14 - آي-فون إسلام",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BTnFJTFNNWG1HazE1Z3N4Rk5LU3FwQ1ExQjdWZlBtemxWTGN6TGZ5Tm9uX2syY2FobERWcE8xUEIzM0NqNjhHSUFFMDZTY1o3di1fQXV3S3lFckJ5dmZXTFNlNHo3MDc2cHNGNmoyTXUzeklLQXc4dQ?oc=5",
-   "date": "2020-09-26T07:00:00+00:00",
-   "summary": "كيفية استخدام تطبيق ترجمة أبل في iOS 14 آي-فون إسلام",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
-  },
-  {
    "title": "ناقل الحركة | Suzuki Swift سوزوكي سويفت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lZEZOX0lOVXZGSGVFc3plbVV4TTE0bzMxODlQb24tOVNfM3FwWnJXRG5rTUJpb09MeG14ZzBScFVvaFpWNEtPbXFhOGF4RHB3ZjlpWVN3?oc=5",
    "date": "2020-09-20T13:20:04+00:00",
    "summary": "ناقل الحركة | Suzuki Swift سوزوكي سويفت YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح خطوات تحديث الايفون IOS 14",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yaDYzTG9kQTRBMllTZFpjR3JzRnZHN1ZLMHNzc1dpLThwZlFSR2FvOEF4TU1nTnh6cng1RTZ5UVBnUU1UenNaTDdkbUhNdE5PTlBkeS1B?oc=5",
+   "date": "2020-09-09T06:30:01+00:00",
+   "summary": "شرح خطوات تحديث الايفون IOS 14 YouTube",
    "tech": "swift",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1830,16 +1129,6 @@
    "lang": "ar"
   },
   {
-   "title": "مميزات وتحديثات جديدة في iOS 12 – الجزء الثاني - آي-فون إسلام",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GRkFZWTdTTkRadHFHUF90bGVvQ2tEWFRVdXBPMG96MTlEOGs5TVdPR09VYTVzVEhzalA4ZlNKSDVIVXN6VWt4VjdBT05xMG1XQ1VDNXNKdUdOMDZENUczcHZVR3JjNjZJd2psY3Y1MA?oc=5",
-   "date": "2018-06-24T07:00:00+00:00",
-   "summary": "مميزات وتحديثات جديدة في iOS 12 – الجزء الثاني آي-فون إسلام",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
-  },
-  {
    "title": "قم بتحميل Xcode 8 للبرمجة بلغة سويفت لتطوير تطبيقات الايفون Swift",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QeHc3VW9Qb1BQaHBrOElJaXhrTVBMTkFlVG5TTmNnUFZpWnFMVTVzeGxEZERkM1M3U0pMNXRuSG43c3R4QnNrTHFiTUNpOEVKSjFtOXdB?oc=5",
    "date": "2018-02-20T12:31:41+00:00",
@@ -1850,30 +1139,20 @@
    "lang": "ar"
   },
   {
-   "title": "ماذا سأجد بعد الترقية إلى iOS 11 الجديد؟ - آي-فون إسلام",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnl6V0VrNHhoYm9kcEZ0Uk1kTTJDNm5QSHUxTzltZ21ZQWhMWmtuQnZDM2VhSF8tT3JlTkUtU2pSNUlCb0F0T0NtaWxNblp4VE11dXBJbHVFMzZaR2ZGaW15aXlMdjBXQmFhYkRUR3lUWEFDTEhNd19zdEhWSTA3cg?oc=5",
-   "date": "2017-09-30T07:00:00+00:00",
-   "summary": "ماذا سأجد بعد الترقية إلى iOS 11 الجديد؟ آي-فون إسلام",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
-  },
-  {
-   "title": "iOS 9 Feature Availability | مزايا آي أو إس 9 المتاحة لكل جهاز أو منطقة - آي-فون إسلام",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IQjNFcmpXWlgxMG9VWDN0X05Sb1ZweTdPNEZ3Zy12SVVhb1hBVFBuOFVPbnNBRGFjYWlvZXdlUmNJRDZucnZPeUtUaWVkREVEcDZaQl9aUU5pVWNLU2tIUWRpVl8xUWJHb3c3M3dhdnJHZw?oc=5",
-   "date": "2017-06-19T20:15:40+00:00",
-   "summary": "iOS 9 Feature Availability | مزايا آي أو إس 9 المتاحة لكل جهاز أو منطقة آي-فون إسلام",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
-  },
-  {
    "title": "الدورة الشاملة لبرمجة تطبيقات الايفون سويفت 3 iOS10, Swift3",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44eUNGXzBneldZeVJZM3Z5VmQ2TEdBQy1DUC1nSE1CWHU5RFJKXy1Tc3pqVGNFT040Sl8xUzR5eURKRTZXdDBCczVPV1lNTVRYUUZlbEpLQjB3M0VvdU5WcjRaUm02Q011REVRN0E1QXVyRTI2a3dDWUNUQ3o?oc=5",
    "date": "2016-10-02T04:06:50+00:00",
    "summary": "الدورة الشاملة لبرمجة تطبيقات الايفون سويفت 3 iOS10, Swift3 YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيف ترفع تطبيقك لمتجر ابل ستور في 21 خطوة App Store",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUnJxUno2RlFzSmNrRVQyYVlieUFsSkFfbjRTY3BXU2VVN0ljb3BUTmtWMGtmQ292TjZmSU5LVVI4UERrc0lMb3BUYUFFM09NampHbld3?oc=5",
+   "date": "2016-09-23T16:52:16+00:00",
+   "summary": "كيف ترفع تطبيقك لمتجر ابل ستور في 21 خطوة App Store YouTube",
    "tech": "swift",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1907,46 +1186,6 @@
    "tech": "swift",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طفل يمني أصغر مصمم لتطبيقات \"الآيفون\" في الوطن العربي",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Hek1LSUJKNWxZcFc5VUdsLXhrekFydnlxYnkyQmxHdDVCRHZDVFY2bnhIaThPY25VMEgwNUJGVHd4QklSY1h2NWIzdXNmRUk?oc=5",
-   "date": "2016-05-07T07:00:00+00:00",
-   "summary": "طفل يمني أصغر مصمم لتطبيقات \"الآيفون\" في الوطن العربي يمن برس",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "يمن برس",
-   "lang": "ar"
-  },
-  {
-   "title": "آبل تجعل لغة سويفت Swift مفتوحة المصدر وتُطلق موقع Swift.org",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QYnJjd3FaSWdIQXBQLVRnbFB6MW9mX1NhbVA4cUJuZWRBOHhBMWtWM0plRVVrMkg0YTVEbEN0aFBINFpiZXpUd3JMTm0?oc=5",
-   "date": "2015-12-04T08:00:00+00:00",
-   "summary": "آبل تجعل لغة سويفت Swift مفتوحة المصدر وتُطلق موقع Swift.org شبكة راية الإعلامية",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "شبكة راية الإعلامية",
-   "lang": "ar"
-  },
-  {
-   "title": "آبل تقدم تطبيق Swift Playgrounds لتسهيل تعلم البرمجة - وكالة الرأي الفلسطينية -",
-   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNRjQ0WC1rQXZoUnd1SU93Qk95LVZCellfQWxlbFJyVWFGSWlyRVZfb01PaGcyU0xzWDUwa1k3WG80NTVTOGpRVjdnc0plSGtHdnZSQThLUUpTZXd0SVQ4dEpxVl9lcHY5dzBHR3pjMFFkQnJJZDY0UEhGQkN4VUc2WVUxdWxTZV9tOGZUMzViSHJxMDlHYlFTODJhbVdza1JwMU13b3VndldwaDFTYUhNQnRnckhERnlMUWpTRWhRamROazZSajlkZUlpS0ltZVY5aEJOQ0RzNF8xajZKRkJweDRJX1I0UW9UVllnOG5ta0k1WThGOUVyU1hjbzZVN2dHOHczMUtmeVlLa1ZGOG84YnZzSWVBenNzcVllR3QzVDM1ZDVfUk1FWTJOZXRZWDBuQkUwaGxKVTVrMC1QWlkxWVpJbHdLZWxEbXBYRzVn?oc=5",
-   "date": "2015-08-14T07:00:00+00:00",
-   "summary": "آبل تقدم تطبيق Swift Playgrounds لتسهيل تعلم البرمجة وكالة الرأي الفلسطينية -",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
-  },
-  {
-   "title": "سويفت.. شفرة تحويل الأموال",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNUh2WVJEQUNfVVI5TW5wZzhNbEprSUxlaEdiSFl6dFZoX2REQXFNNjI2N1BnRE5YV054WENVZ0FuTVVlYy1jRXZmblRWS1dGQUJ5Mk1QUjZVWEl0UVY1UkZVZVptaVVVaTZuQ25yMUxwd1dUUkt0R1YyN2dWcENRcHlKTnRQdjE3aXJUN0pLMURfS2h4b212Q0NtSWo2NlNpSHJVcktuZDlLTk9iMXc5VVBSU2F4TVBwU1pwUlZJR3ZDaWdCeTdNTU96QW1aREY0Sm1FR1Noam1qdWpOTXRNbnJta3M5VWVUa1k5aFZFS19EN2NEanZSUVVldFJIWjNYemhueHltVTZrQdIBjwJBVV95cUxONmJPS0JQZHBhc2xjb3RwLThObTlaSGVVcUMzSnRNSjdkbUpuZjBxeVBLM2g0alhqeExzYjBYUUNfNEpjb1dKN2VtQmxsZ0xfbndURUIxMldQb2ZZczVZYTYyU1pqeFlPcnhCNWJFWXU3SUl6OWlfVjJ3bTRhU1pwRDhlQ3R4aUpMR2l3dGM2MVM4d0N0bEthQ1pscFhpN2pWMFFyaE52YVlDRkhPSnFBMi0xblBreVUwU2RfakFpM1ZFYTlsVERGNWdNOWVyWUM3WUZlWDBPeGhYOVd3MDlDb3owWU1IcG8yelRYZHVjUGNVenBTZzQtWkdhaUNDY3dtUDFSZTV1dnB5YUJ1dlpr?oc=5",
-   "date": "2015-06-29T07:00:00+00:00",
-   "summary": "سويفت.. شفرة تحويل الأموال الجزيرة نت",
-   "tech": "swift",
-   "sourceId": "ar-news",
-   "source": "الجزيرة نت",
    "lang": "ar"
   },
   {

@@ -1,103 +1,8 @@
 {
- "generated": "2026-08-14T20:04:40.034172+00:00",
+ "generated": "2026-08-14T20:43:11.618041+00:00",
  "tech": "cpp",
- "count": 218,
+ "count": 105,
  "items": [
-  {
-   "title": "ClickHouse/ClickHouse",
-   "url": "https://github.com/ClickHouse/ClickHouse",
-   "date": "2026-08-14T20:03:56+00:00",
-   "summary": "ClickHouse® is a real-time analytics database management system",
-   "points": 49250,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "bitcoin/bitcoin",
-   "url": "https://github.com/bitcoin/bitcoin",
-   "date": "2026-08-14T20:01:48+00:00",
-   "summary": "Bitcoin Core integration/staging tree",
-   "points": 89895,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "protocolbuffers/protobuf",
-   "url": "https://github.com/protocolbuffers/protobuf",
-   "date": "2026-08-14T19:54:20+00:00",
-   "summary": "Protocol Buffers - Google's data interchange format",
-   "points": 71730,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "tensorflow/tensorflow",
-   "url": "https://github.com/tensorflow/tensorflow",
-   "date": "2026-08-14T19:52:06+00:00",
-   "summary": "An Open Source Machine Learning Framework for Everyone",
-   "points": 197027,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "LizardByte/Sunshine",
-   "url": "https://github.com/LizardByte/Sunshine",
-   "date": "2026-08-14T19:47:05+00:00",
-   "summary": "Self-hosted game stream host for Moonlight.",
-   "points": 40165,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Has a lazy-initialization vocabulary type been proposed for C++?",
-   "url": "https://stackoverflow.com/questions/79995192/has-a-lazy-initialization-vocabulary-type-been-proposed-for-c",
-   "date": "2026-08-14T19:41:53+00:00",
-   "summary": "c++، std، lazy-initialization، standardization",
-   "points": -1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "ggml-org/llama.cpp",
-   "url": "https://github.com/ggml-org/llama.cpp",
-   "date": "2026-08-14T19:22:14+00:00",
-   "summary": "LLM inference in C/C++",
-   "points": 123928,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "ggml-org/whisper.cpp",
-   "url": "https://github.com/ggml-org/whisper.cpp",
-   "date": "2026-08-14T19:16:10+00:00",
-   "summary": "Port of OpenAI's Whisper model in C/C++",
-   "points": 52892,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "Kotlin Native Interop: Calling C and C++ from Android",
    "url": "https://dev.to/vmodal_ai/kotlin-native-interop-calling-c-and-c-from-android-4jof",
@@ -107,100 +12,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "aseprite/aseprite",
-   "url": "https://github.com/aseprite/aseprite",
-   "date": "2026-08-14T18:53:53+00:00",
-   "summary": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-   "points": 38724,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "grpc/grpc",
-   "url": "https://github.com/grpc/grpc",
-   "date": "2026-08-14T18:41:29+00:00",
-   "summary": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-   "points": 45283,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Credentio: Open-Source C++ Library for C2PA Content Credentials from Google",
-   "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-   "date": "2026-08-14T18:33:03+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "electron/electron",
-   "url": "https://github.com/electron/electron",
-   "date": "2026-08-14T18:26:04+00:00",
-   "summary": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-   "points": 122494,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "godotengine/godot",
-   "url": "https://github.com/godotengine/godot",
-   "date": "2026-08-14T18:19:18+00:00",
-   "summary": "Godot Engine – Multi-platform 2D and 3D game engine",
-   "points": 115712,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "LadybirdBrowser/ladybird",
-   "url": "https://github.com/LadybirdBrowser/ladybird",
-   "date": "2026-08-14T18:16:54+00:00",
-   "summary": "Truly independent web browser",
-   "points": 65613,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "tesseract-ocr/tesseract",
-   "url": "https://github.com/tesseract-ocr/tesseract",
-   "date": "2026-08-14T18:14:53+00:00",
-   "summary": "Tesseract Open Source OCR Engine (main repository)",
-   "points": 75917,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "unreal engine crashes when try to call a function on another class?",
-   "url": "https://stackoverflow.com/questions/79995171/unreal-engine-crashes-when-try-to-call-a-function-on-another-class",
-   "date": "2026-08-14T18:03:42+00:00",
-   "summary": "c++، unreal-engine5، unreal",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -215,17 +26,6 @@
    "lang": "en"
   },
   {
-   "title": "How Not To Program in C++ (2003) [pdf]",
-   "url": "http://www.uml.org.cn/c%2B%2B/pdf/HowNottoPrograinC%2B%2B.pdf",
-   "date": "2026-08-14T16:54:46+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "How Buffer Overflows Actually Hijack Program Execution",
    "url": "https://dev.to/sakramen/how-buffer-overflows-actually-hijack-program-execution-29op",
    "date": "2026-08-14T16:43:02+00:00",
@@ -234,52 +34,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "WerWolv/ImHex",
-   "url": "https://github.com/WerWolv/ImHex",
-   "date": "2026-08-14T15:37:46+00:00",
-   "summary": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-   "points": 54459,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "duckdb/duckdb",
-   "url": "https://github.com/duckdb/duckdb",
-   "date": "2026-08-14T15:37:29+00:00",
-   "summary": "DuckDB is an analytical in-process SQL database management system",
-   "points": 40236,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "I m trying to implement compile-time recursive function calls using if constexpr",
-   "url": "https://stackoverflow.com/questions/79995122/im-trying-to-implement-compile-time-recursive-function-calls-using-if-constexpr",
-   "date": "2026-08-14T15:22:59+00:00",
-   "summary": "c++، recursion، compile-time، c++-templates",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How fast is C++26's std:hive?",
-   "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
-   "date": "2026-08-14T15:20:36+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -294,18 +48,6 @@
    "lang": "en"
   },
   {
-   "title": "react/react-native",
-   "url": "https://github.com/react/react-native",
-   "date": "2026-08-14T14:57:00+00:00",
-   "summary": "A framework for building native applications using React",
-   "points": 126347,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Testing AI C++ Race Fixes: TSan Harness",
    "url": "https://dev.to/devcpp_268/testing-ai-c-race-fixes-tsan-harness-47nh",
    "date": "2026-08-14T14:04:14+00:00",
@@ -315,28 +57,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "What is going on here?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vo5s1k/what_is_going_on_here/",
-   "date": "2026-08-14T12:22:24+00:00",
-   "summary": "#include stdio.h int print_sum(a, b) int a; int b; { printf( %d , a + b); return a + b; } int main(void) { return print_sum(1.5, 0.5); } This has a random output every time: Compiler stderr source : In function print_sum : source :2:5: warn",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "opencv/opencv",
-   "url": "https://github.com/opencv/opencv",
-   "date": "2026-08-14T12:07:53+00:00",
-   "summary": "Open Source Computer Vision Library",
-   "points": 90432,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "One Weak Symbol, Two Definitions: A C++ ODR Bug and a Two-Stage Free Triage",
@@ -361,16 +81,6 @@
    "lang": "en"
   },
   {
-   "title": "What are some Rules of Thumb you use when writing programs in C?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vo4e7m/what_are_some_rules_of_thumb_you_use_when_writing/",
-   "date": "2026-08-14T11:15:51+00:00",
-   "summary": "I ve been writing some nasty code lately and I ve since learned to use fsanitize, Wall, Werror, etc. None of those have really changed HOW I write code, just helps me find out I goofed up sooner. I ve been trying to follow some guidelines l",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
    "title": "A Clean-Room Evaluation Loop for a Newly Released Model Like Minimax H3",
    "url": "https://dev.to/datacpp_3670/a-clean-room-evaluation-loop-for-a-newly-released-model-like-minimax-h3-385d",
    "date": "2026-08-14T11:13:20+00:00",
@@ -379,27 +89,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "32-bit I2S communication failing to cause response on DAC",
-   "url": "https://stackoverflow.com/questions/79995057/32-bit-i2s-communication-failing-to-cause-response-on-dac",
-   "date": "2026-08-14T11:01:08+00:00",
-   "summary": "c++، stm32، hal، dac، i2s",
-   "points": -1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How to start a new project?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vo296v/how_to_start_a_new_project/",
-   "date": "2026-08-14T09:15:23+00:00",
-   "summary": "Basically, this Is the part where I get stuck on the most, for example, say I’m building a compiler, but when it comes to building a lexer I go completely blank. I know what a lexer is, but when it comes to coding, I go completely empty, wh",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -425,48 +114,6 @@
    "lang": "en"
   },
   {
-   "title": "microsoft/terminal",
-   "url": "https://github.com/microsoft/terminal",
-   "date": "2026-08-13T22:57:47+00:00",
-   "summary": "The new Windows Terminal and the original Windows console host, all in the same place!",
-   "points": 104604,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "C++26: std::indirect",
-   "url": "https://www.reddit.com/r/cpp/comments/1vnp8dk/c26_stdindirect/",
-   "date": "2026-08-13T22:20:44+00:00",
-   "summary": "submitted by /u/User_Deprecated [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "We Should Use Instrumented Profiling Scopes More · Mathieu Ropert",
-   "url": "https://www.reddit.com/r/cpp/comments/1vnp7b6/we_should_use_instrumented_profiling_scopes_more/",
-   "date": "2026-08-13T22:19:31+00:00",
-   "summary": "submitted by /u/mropert [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "Should you worry about struct member order in C?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vnoenu/should_you_worry_about_struct_member_order_in_c/",
-   "date": "2026-08-13T21:47:54+00:00",
-   "summary": "Small technical blogpost about low-effort microoptimizations in C language. Will be glad to get some feedback or have a discussion on the topic :) submitted by /u/krikkitskig [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
    "title": "What Building a C++ Benchmarking Suite Taught Me About \"Simple\" Data Structures",
    "url": "https://dev.to/mendolatech/what-building-a-c-benchmarking-suite-taught-me-about-simple-data-structures-5a94",
    "date": "2026-08-13T21:38:12+00:00",
@@ -475,16 +122,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "GUI for a file manager (I have no idea what I am doing)",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vno4it/gui_for_a_file_manager_i_have_no_idea_what_i_am/",
-   "date": "2026-08-13T21:36:40+00:00",
-   "summary": "I have been learning C for quite a while and only recently can I say that I know it on a beginner level. I m looking for a lightweight library for making GUI programs. I plan on making a program with a 90 s style interface for a simple file",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -499,84 +136,6 @@
    "lang": "en"
   },
   {
-   "title": "How to do a tls handshake with api.steampowered.com using boost asio?",
-   "url": "https://stackoverflow.com/questions/79993932/how-to-do-a-tls-handshake-with-api-steampowered-com-using-boost-asio",
-   "date": "2026-08-13T20:19:43+00:00",
-   "summary": "c++، ssl، boost، steamworks-api",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "google/googletest",
-   "url": "https://github.com/google/googletest",
-   "date": "2026-08-13T19:45:03+00:00",
-   "summary": "GoogleTest - Google Testing and Mocking Framework",
-   "points": 38927,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Initialization of all elements of a multidimensional std::array to one default value",
-   "url": "https://stackoverflow.com/questions/79993900/initialization-of-all-elements-of-a-multidimensional-stdarray-to-one-default-v",
-   "date": "2026-08-13T17:49:54+00:00",
-   "summary": "c++، multidimensional-array، simplify، c++23، stdarray",
-   "points": 4,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "A Little Introduction to Control Flow Integrity - James McNellis - C++Now 2026",
-   "url": "https://www.youtube.com/watch?v=FNHMwi_0psQ",
-   "date": "2026-08-13T17:44:47+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "nlohmann/json",
-   "url": "https://github.com/nlohmann/json",
-   "date": "2026-08-13T15:48:13+00:00",
-   "summary": "JSON for Modern C++",
-   "points": 50372,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "well-partitioned hash-tries",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vnefkn/wellpartitioned_hashtries/",
-   "date": "2026-08-13T15:46:21+00:00",
-   "summary": "submitted by /u/skeeto [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "Markdown editor with live preview built in C++",
-   "url": "https://github.com/MinottiAlessandro/Emerald",
-   "date": "2026-08-13T15:36:14+00:00",
-   "summary": "",
-   "points": 10,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Free Model Endpoints Make Good Fuzz Generators and Bad Oracles",
    "url": "https://dev.to/datacpp_8185/free-model-endpoints-make-good-fuzz-generators-and-bad-oracles-4m8e",
    "date": "2026-08-13T15:18:58+00:00",
@@ -585,27 +144,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "MSVC Build Tools Preview updates - August 2026",
-   "url": "https://www.reddit.com/r/cpp/comments/1vnda9q/msvc_build_tools_preview_updates_august_2026/",
-   "date": "2026-08-13T15:04:38+00:00",
-   "summary": "Hi, one of the MSVC dev leads here. The post covers what s new in the MSVC Build Tools Preview (version 14.52) since mid-July. Instructions to install use the latest preview bits are at https://aka.ms/msvc/preview . Like last month, there s",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "What is the best practice to require functionality in a C++ template class?",
-   "url": "https://stackoverflow.com/questions/79993853/what-is-the-best-practice-to-require-functionality-in-a-c-template-class",
-   "date": "2026-08-13T15:01:37+00:00",
-   "summary": "best-practices، c++، templates",
-   "points": -3,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -620,38 +158,6 @@
    "lang": "en"
   },
   {
-   "title": "Creating macros with parameters outside of parenthesis",
-   "url": "https://stackoverflow.com/questions/79993815/creating-macros-with-parameters-outside-of-parenthesis",
-   "date": "2026-08-13T12:56:09+00:00",
-   "summary": "c++، c-preprocessor، unreal",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How to progress after basic ..?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vn7g20/how_to_progress_after_basic/",
-   "date": "2026-08-13T10:56:59+00:00",
-   "summary": "I have learnt majority of the header, and built 10+ small or mini projects before. learnt abit of pointers, mallocs , callocs etc with myself and abit help of AI. but now while i was working on the Cipher project.. and trying to build a zig",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "Upscal – A native C++/Vulkan image upscaler for Windows",
-   "url": "https://upscal.app",
-   "date": "2026-08-13T08:32:50+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "I thought porting TinyExpr to Rust would be easy. Then the tests started disagreeing.",
    "url": "https://dev.to/kausalya_s_0f6addb958c160/i-thought-porting-tinyexpr-to-rust-would-be-easy-then-the-tests-started-disagreeing-g3o",
    "date": "2026-08-13T06:07:15+00:00",
@@ -660,40 +166,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Schema - new language for serialized data in C++/C#/Golang and Rust",
-   "url": "https://github.com/mas-bandwidth/schema/blob/main/README.md",
-   "date": "2026-08-13T01:10:36+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "facebookresearch/faiss",
-   "url": "https://github.com/facebookresearch/faiss",
-   "date": "2026-08-13T00:46:03+00:00",
-   "summary": "A library for efficient similarity search and clustering of dense vectors.",
-   "points": 40741,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Unless nderstanding std:counting_semaphore and std:binary_semaphore from C++20",
-   "url": "https://www.cppstories.com/2026/semaphore/",
-   "date": "2026-08-12T21:10:41+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -719,152 +191,6 @@
    "lang": "en"
   },
   {
-   "title": "Learning C weekly megapost for 2026-08-12",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vmo4zi/learning_c_weekly_megapost_for_20260812/",
-   "date": "2026-08-12T19:31:37+00:00",
-   "summary": "If you have questions about how to learn C: which books are best? which videos are best? which classes are best? which websites are best? is there a roadmap ? what projects can I do? then this is the thread for you. Add your question here. ",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "qbittorrent/qBittorrent",
-   "url": "https://github.com/qbittorrent/qBittorrent",
-   "date": "2026-08-12T18:18:48+00:00",
-   "summary": "qBittorrent BitTorrent client",
-   "points": 39467,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Boost 1.92.0 released",
-   "url": "https://www.reddit.com/r/cpp/comments/1vmi7ny/boost_1920_released/",
-   "date": "2026-08-12T16:00:11+00:00",
-   "summary": "Boost 1.92.0 is out. Highlights from this release: GPU / CUDA Charconv: to_chars and from_chars for integers are now usable inside CUDA kernels. Decimal: decimal32_t , decimal64_t , and decimal128_t are now usable in CUDA kernels. Math: fix",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "When exactly does endianness conversion happen?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vmi1p4/when_exactly_does_endianness_conversion_happen/",
-   "date": "2026-08-12T15:54:01+00:00",
-   "summary": "For example if I have uint8_t arr[] = {192, 94}; since these are individual bytes, they get stored in memory as they appear in the code: 0xc0, 0x5e , right? But if I were then to grab these two bytes as if they were a single uint16_t: uint1",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "Do you use autocomplete/intellisense?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vmhqq5/do_you_use_autocompleteintellisense/",
-   "date": "2026-08-12T15:43:05+00:00",
-   "summary": "There are times where I feel autocomplete isn t that helpful. But most of the time I find it indispensable. I m curious about how others use or don t use it. submitted by /u/AxeForge [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "Built a tiny graphics rendering engine in C.",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vmg8me/built_a_tiny_graphics_rendering_engine_in_c/",
-   "date": "2026-08-12T14:48:11+00:00",
-   "summary": "Hi everybody, It was a hard decision choosing between a language to build this project, but after not-so-long of a thought, I ended up going with building it with C. I ve built a little graphics engine or a CPU rasterizer to be exact. Curre",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "Generic hash table with optional ordering",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vmew98/generic_hash_table_with_optional_ordering/",
-   "date": "2026-08-12T13:57:31+00:00",
-   "summary": "Hi. For the past few weeks I ve been crafting my generic hash table implementation: https://github.com/andrzejs-gh/ghtable I realize it s not the fastest out there and isn t the most cache friendly, but that was never my priority as I prior",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "Why does modifying a const int through a cast appear to change *p but not a?",
-   "url": "https://stackoverflow.com/questions/79993500/why-does-modifying-a-const-int-through-a-cast-appear-to-change-p-but-not-a",
-   "date": "2026-08-12T12:32:40+00:00",
-   "summary": "c++، constants، language-lawyer",
-   "points": -3,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "OpenGL Viewport display issue on a laptop",
-   "url": "https://stackoverflow.com/questions/79993440/opengl-viewport-display-issue-on-a-laptop",
-   "date": "2026-08-12T09:19:36+00:00",
-   "summary": "c++، qt، opengl، graphics، viewport",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "[CPP Epiphany Rant] - Programming is no joke",
-   "url": "https://www.reddit.com/r/cpp/comments/1vm6g7m/cpp_epiphany_rant_programming_is_no_joke/",
-   "date": "2026-08-12T06:43:10+00:00",
-   "summary": "Hi CPP Community, This is just a rant. I m a 24 yr old data analytics in telecommunication trying to pivot into C++ development for finance. I m 1 month into C++ and I have come to conclusion C++ is a behemoth. I m enrolled in Baruch Colleg",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "Can compiler ignore ill formed parts of the template body that are never used",
-   "url": "https://stackoverflow.com/questions/79993403/can-compiler-ignore-ill-formed-parts-of-the-template-body-that-are-never-used",
-   "date": "2026-08-12T06:33:03+00:00",
-   "summary": "c++، templates، language-lawyer",
-   "points": 6,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Tiobe Index for August 2026: Java Nears C++ as Rust Holds No. 10",
-   "url": "https://www.techrepublic.com/article/news-tiobe-august-2026-java-nears-c-plus-plus/",
-   "date": "2026-08-12T06:01:21+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Another C++26 reflection based dependency inverter",
-   "url": "https://www.reddit.com/r/cpp/comments/1vm5dfn/another_c26_reflection_based_dependency_inverter/",
-   "date": "2026-08-12T05:41:57+00:00",
-   "summary": "Someone else did a similar thing a few months ago, but I wanted to see if it could be done with templates. I ended up writing a dependency inverter/injector that can reflect on the concepts restricting unfilled template types and substitute",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "A C iterator pattern using VLAs for automatic cleanup",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vm4hfh/a_c_iterator_pattern_using_vlas_for_automatic/",
-   "date": "2026-08-12T04:53:38+00:00",
-   "summary": "I was thinking about how to approach iteration in C, such as traversing a binary tree or going through all the permutations of an array. One possibility is the Visitor pattern, where you supply a function to call at each point in the traver",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
    "title": "Introducing Jaithon 3 (the perfect programing language)",
    "url": "https://dev.to/abhiramasonny/introducing-jaithon-3-the-perfect-programing-language-2o75",
    "date": "2026-08-12T03:52:57+00:00",
@@ -887,36 +213,6 @@
    "lang": "en"
   },
   {
-   "title": "Estimating branch probabilities",
-   "url": "https://www.reddit.com/r/cpp/comments/1vlwztv/estimating_branch_probabilities/",
-   "date": "2026-08-11T23:02:59+00:00",
-   "summary": "submitted by /u/User_Deprecated [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "I wrote the emudev hello world to learn C",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vlvj63/i_wrote_the_emudev_hello_world_to_learn_c/",
-   "date": "2026-08-11T22:04:15+00:00",
-   "summary": "Yep, just another CHIP-8 emulator. But for me, as someone who has never written anything this low level and never touched C before, it was quite the challenge at first. But after writing the first few instructions (drawing especially), it s",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "How to store functions in a file?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vlvf0x/how_to_store_functions_in_a_file/",
-   "date": "2026-08-11T21:59:55+00:00",
-   "summary": "I m building an ML library in C. I were trying to store the models and loading it with all the needed information embedded into the file itself so that the loader doesn t need to know about the number of layers, neurons, etc beforehand. The",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
    "title": "DFlash Changes What Tokens per Second Means",
    "url": "https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493",
    "date": "2026-08-11T20:28:31+00:00",
@@ -925,48 +221,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-   "url": "https://github.com/therepanic/openleetcode",
-   "date": "2026-08-11T19:54:48+00:00",
-   "summary": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result. It curren",
-   "points": 5,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Latest News From Upcoming C++ Conferences (2026-08-11)",
-   "url": "https://www.reddit.com/r/cpp/comments/1vlrrja/latest_news_from_upcoming_c_conferences_20260811/",
-   "date": "2026-08-11T19:42:11+00:00",
-   "summary": "TICKETS AVAILABLE TO PURCHASE The following conferences currently have tickets available to purchase CppCon (12th - 18th September) - You can buy standard tickets until August 29th at https://cppcon.org/registration/ C++ Under The Sea (14th",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "What Irregularity Costs: CUDA C++, Rust, and Triton",
-   "url": "https://arxiv.org/abs/2608.08287",
-   "date": "2026-08-11T19:23:03+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "package manager i wrote as a learning challenge",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vlr8bs/package_manager_i_wrote_as_a_learning_challenge/",
-   "date": "2026-08-11T19:22:50+00:00",
-   "summary": "https://github.com/mohennaceur/spdr/tree/main dont worry, it runs fast. i just gotta use turkish hotel wifi. the repo is tiny because its just a learning project, be nice pls (: it utilizes curl and tarballs to be fa(s)t listen i can explai",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
    "lang": "en"
   },
   {
@@ -981,49 +235,6 @@
    "lang": "en"
   },
   {
-   "title": "Show HN: Cjson.cpp, the new fastest-ever (constexpr) JSON parser",
-   "url": "https://github.com/rfgplk/cjson.cpp",
-   "date": "2026-08-11T17:48:36+00:00",
-   "summary": "Howdy. This is a fully constexpr (mostly, the mapping + vector marshalling code isn&#x27;t) JSON parsing library for C++23&#x2F;26. Based off of my preliminary benchmarks it&#x27;s around 30-80% faste",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: I used an expiring Codex reset to port QtScript to Qt6",
-   "url": "https://github.com/JulienMaille/qtscript-qt6",
-   "date": "2026-08-11T16:26:24+00:00",
-   "summary": "Hey HN, here is a short story that might be worth sharing. I have an application that has been scriptable with QtScript for years. I can automate and extend it through js, with access to QObjects, sig",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Chain – A Python-like language with native inline C++",
-   "url": "https://github.com/Nebania/chain-lang",
-   "date": "2026-08-11T15:18:28+00:00",
-   "summary": "Chain (Formerly Link-Lang) is a Python-syntax scripting language that was built from scratch in C++, with one feature I haven&#x27;t noticed elsewhere: an &#x27;extern c { }&#x27; block where you can ",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "[Tool/Writeup] ALPC-Enumerator: A dynamic, userland C++ tool to enumerate ALPC ports and detect ALPC spoofing",
-   "url": "https://www.reddit.com/r/cpp/comments/1vlk56w/toolwriteup_alpcenumerator_a_dynamic_userland_c/",
-   "date": "2026-08-11T15:10:05+00:00",
-   "summary": "Hey everyone For some time now, I ve been digging into ALPC, it s a fascinating and deliberately under documented corner of Windows internals. I originally built this userland enumerator to mitigate userland restrictions, but it’s structure",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "We ported JSBI to C++ — and the benchmark taught us more than the port did",
    "url": "https://dev.to/devanshkant/we-ported-jsbi-to-c-and-the-benchmark-taught-us-more-than-the-port-did-14c",
    "date": "2026-08-11T13:40:46+00:00",
@@ -1032,38 +243,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ASIO dispatch and post default executor",
-   "url": "https://stackoverflow.com/questions/79992241/asio-dispatch-and-post-default-executor",
-   "date": "2026-08-11T12:40:27+00:00",
-   "summary": "advice، c++، asynchronous، boost-asio، asio",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Easening memory management by simply declaring ownership?",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vlfuo9/easening_memory_management_by_simply_declaring/",
-   "date": "2026-08-11T12:18:52+00:00",
-   "summary": "After a half-year-long Java project I m writing something in C and the lack of a garbage collector can be positively felt in terms of performance but at the same time managing all the pointers can get messy. There s a whole nother language ",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "Can RegisterApplicationRestart relaunch an MSIX app after ExitProcess(0) following a StoreContext update?",
-   "url": "https://stackoverflow.com/questions/79992198/can-registerapplicationrestart-relaunch-an-msix-app-after-exitprocess0-followi",
-   "date": "2026-08-11T10:16:41+00:00",
-   "summary": "c++، flutter، winapi، windows-store، msix",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -1089,16 +268,6 @@
    "lang": "en"
   },
   {
-   "title": "Extending `[[clang::lifetimebound]]` to take a condition",
-   "url": "https://www.reddit.com/r/cpp/comments/1vlaqse/extending_clanglifetimebound_to_take_a_condition/",
-   "date": "2026-08-11T07:37:54+00:00",
-   "summary": "submitted by /u/ContDiArco [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
    "title": "I Ported QOI to Rust. Here's What Almost Broke It.",
    "url": "https://dev.to/anish_prakash1/i-ported-qoi-to-rust-heres-what-almost-broke-it-2g0",
    "date": "2026-08-11T06:50:49+00:00",
@@ -1110,102 +279,6 @@
    "lang": "en"
   },
   {
-   "title": "ACCU Overload Journal 194 - August 2026",
-   "url": "https://www.reddit.com/r/cpp/comments/1vl920n/accu_overload_journal_194_august_2026/",
-   "date": "2026-08-11T06:00:18+00:00",
-   "summary": "submitted by /u/pavel_v [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "Defining implementation in global code of module extern declared function in Clang 20 gives declaration follows declaration unlike MSVC",
-   "url": "https://stackoverflow.com/questions/79992105/defining-implementation-in-global-code-of-module-extern-declared-function-in-cla",
-   "date": "2026-08-11T03:49:55+00:00",
-   "summary": "c++، visual-c++، clang++، c++23، c++-modules",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "A C++ toolchain from 357 bytes, in Bazel",
-   "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
-   "date": "2026-08-11T02:16:54+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "How to delete all constructors of a class and prevent aggregate initialization?",
-   "url": "https://stackoverflow.com/questions/79992088/how-to-delete-all-constructors-of-a-class-and-prevent-aggregate-initialization",
-   "date": "2026-08-11T01:38:10+00:00",
-   "summary": "c++، lambda، constructor، aggregate-initialization",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "I wrote a small turing tape FFI",
-   "url": "https://www.reddit.com/r/C_Programming/comments/1vl3cee/i_wrote_a_small_turing_tape_ffi/",
-   "date": "2026-08-11T01:15:35+00:00",
-   "summary": "Not much else to it. It is inside a single header and features a few simple commands. It manipulates a kilobyte-size turing tape and is designed for small/embedded systems. submitted by /u/StrikingClub3866 [link] [التعليقات]",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/C_Programming",
-   "lang": "en"
-  },
-  {
-   "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
-   "url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
-   "date": "2026-08-10T23:29:57+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "GCC Build Experience",
-   "url": "https://www.reddit.com/r/cpp/comments/1vkz4r4/gcc_build_experience/",
-   "date": "2026-08-10T22:14:56+00:00",
-   "summary": "Firstly, you need a native installation of g++ and binutils via your package manager, then you need sysroots for your target platforms(probably x64 glibc linux and arm64 glibc linux). The workflow goes like this, to cross compile GCC itself",
-   "tech": "cpp",
-   "sourceId": "reddit",
-   "source": "r/cpp",
-   "lang": "en"
-  },
-  {
-   "title": "During overload resolution for list-initialization of an aggregate, why is the second standard conversion sequence an identity conversion?",
-   "url": "https://stackoverflow.com/questions/79992052/during-overload-resolution-for-list-initialization-of-an-aggregate-why-is-the-s",
-   "date": "2026-08-10T20:39:15+00:00",
-   "summary": "c++، language-lawyer، overload-resolution، list-initialization",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Does std::format modify or move from its arguments?",
-   "url": "https://stackoverflow.com/questions/79992027/does-stdformat-modify-or-move-from-its-arguments",
-   "date": "2026-08-10T19:05:40+00:00",
-   "summary": "c++، perfect-forwarding، forwarding-reference، stdformat",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "8051 What does SDCC do part 1 ?",
    "url": "https://dev.to/ddupard/8051-what-does-sdcc-do-part-1--2d1d",
    "date": "2026-08-10T18:53:59+00:00",
@@ -1214,50 +287,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Invalid operands to binary expression ( const TNationalAssociation and const TNationalAssociation )",
-   "url": "https://stackoverflow.com/questions/79992023/invalid-operands-to-binary-expression-const-tnationalassociation-and-const-t",
-   "date": "2026-08-10T18:33:11+00:00",
-   "summary": "c++، equality-operator",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Hybrid relocatable/fixed arm gcc link output",
-   "url": "https://stackoverflow.com/questions/79991987/hybrid-relocatable-fixed-arm-gcc-link-output",
-   "date": "2026-08-10T16:14:11+00:00",
-   "summary": "c++، gcc، linker، arm",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Best way to iterate in a triangular fashion over a self-crossproduct of a container",
-   "url": "https://stackoverflow.com/questions/79991958/best-way-to-iterate-in-a-triangular-fashion-over-a-self-crossproduct-of-a-contai",
-   "date": "2026-08-10T14:30:10+00:00",
-   "summary": "best-practices، c++، c++23",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "HLSmith: An Expert-Guided Agentic Framework for C/C++-to-HLS Translation",
-   "url": "https://arxiv.org/abs/2608.06791",
-   "date": "2026-08-10T13:52:10+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1280,17 +309,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Game Engine with its own IDE and scripting language",
-   "url": "https://news.ycombinator.com/item?id=49242000",
-   "date": "2026-08-10T10:50:07+00:00",
-   "summary": "GitHub repo: https:&#x2F;&#x2F;github.com&#x2F;ArcadeMakerSources&#x2F;ArcadeMaker (first of all, i want to say that I made this project for fun and challenge. I always wanted to create my own languag",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1338,62 +356,6 @@
    "lang": "en"
   },
   {
-   "title": "c++20 concepts: how to requires a class with specific name of static function",
-   "url": "https://stackoverflow.com/questions/79991858/c20-concepts-how-to-requires-a-class-with-specific-name-of-static-function",
-   "date": "2026-08-10T07:52:27+00:00",
-   "summary": "c++، static-methods، c++-concepts",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Albedo – single-file listenable document database in Zig",
-   "url": "https://github.com/klirix/albedo",
-   "date": "2026-08-09T23:03:40+00:00",
-   "summary": "It&#x27;s literally an indexable BSON array with query listening, replication and basic crash recovery. While working on my little projects I always felt a need for some sort of simple storage, where ",
-   "points": 4,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Understanding a mingw32 arrays of functions are not meaningful error",
-   "url": "https://stackoverflow.com/questions/79991788/understanding-a-mingw32-arrays-of-functions-are-not-meaningful-error",
-   "date": "2026-08-09T22:12:37+00:00",
-   "summary": "c++، cross-compiling، mingw32",
-   "points": -4,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Remaking Unreal engine in Rust for coding agents",
-   "url": "https://machinesatplay.com",
-   "date": "2026-08-09T19:28:52+00:00",
-   "summary": "Hi HN! I&#x27;m kevin, cofounder of https:&#x2F;&#x2F;machinesatplay.com , a multiplayer 3d gaming engine for codex&#x2F;claude code. TLDR: we&#x27;re rebuilding unreal engine without the editor in ru",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "x64dbg/x64dbg",
-   "url": "https://github.com/x64dbg/x64dbg",
-   "date": "2026-08-09T19:10:42+00:00",
-   "summary": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.",
-   "points": 49161,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Stream FreeSWITCH call audio to a WebSocket for real-time ASR (mod_ws_media)",
    "url": "https://dev.to/luoyumin/stream-freeswitch-call-audio-to-a-websocket-for-real-time-asr-modwsmedia-32o2",
    "date": "2026-08-09T13:09:02+00:00",
@@ -1402,17 +364,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Understanding std:counting_semaphore and std:binary_semaphore from C++20",
-   "url": "https://www.cppstories.com/2026/semaphore/",
-   "date": "2026-08-09T08:30:20+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1427,72 +378,6 @@
    "lang": "en"
   },
   {
-   "title": "Why is my custom operator overload not being considered when used with std::formatter?",
-   "url": "https://stackoverflow.com/questions/79991648/why-is-my-custom-operator-overload-not-being-considered-when-used-with-stdfo",
-   "date": "2026-08-09T00:32:34+00:00",
-   "summary": "c++",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "High-frequency trading firm just hired Bjarne Stroustrup (creator of C++)",
-   "url": "https://www.efinancialcareers.com/news/a-high-frequency-trading-firm-just-hired-bjarne-stroustrup-creator-of-c",
-   "date": "2026-08-08T22:21:29+00:00",
-   "summary": "",
-   "points": 5,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Initialize multiple static data members via a function",
-   "url": "https://stackoverflow.com/questions/79991630/initialize-multiple-static-data-members-via-a-function",
-   "date": "2026-08-08T22:19:33+00:00",
-   "summary": "c++",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Why does std::vector sometimes reallocate even when I know how many elements I’ll add?",
-   "url": "https://stackoverflow.com/questions/79991614/why-does-stdvector-sometimes-reallocate-even-when-i-know-how-many-elements-i-l",
-   "date": "2026-08-08T19:49:25+00:00",
-   "summary": "c++، memory-management، stdvector",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Clang accepts explicit call to overloaded conversion function while GCC and MSVC rejects",
-   "url": "https://stackoverflow.com/questions/79991593/clang-accepts-explicit-call-to-overloaded-conversion-function-while-gcc-and-msvc",
-   "date": "2026-08-08T17:58:29+00:00",
-   "summary": "c++، language-lawyer، c++23، compiler-bug، conversion-operator",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Using std::valarray, access elements by their index value with the end function",
-   "url": "https://stackoverflow.com/questions/79991591/using-stdvalarray-access-elements-by-their-index-value-with-the-end-function",
-   "date": "2026-08-08T17:49:47+00:00",
-   "summary": "c++، arrays، c++23، valarray",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "# Why I’m Rewriting a PHP Extension in C23, Not C++",
    "url": "https://dev.to/malusev998/why-i-use-c-instead-of-c-for-php-extensions-6g8",
    "date": "2026-08-08T15:28:31+00:00",
@@ -1501,106 +386,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Gram, a vector search engine I built in C++",
-   "url": "https://github.com/sverp/gram",
-   "date": "2026-08-08T14:31:38+00:00",
-   "summary": "I am building Gram, a vector search engine in C++. I am also learning C++ and have an interest in search engines, so I started building it to learn by doing. It uses IVFPQ and AVX2 SIMD for CPU search",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Why does std::vector::erase remain O(n) even though pop_back() is O(1)?",
-   "url": "https://stackoverflow.com/questions/79991511/why-does-stdvectorerase-remain-on-even-though-pop-back-is-o1",
-   "date": "2026-08-08T08:32:14+00:00",
-   "summary": "c++، vector، time-complexity",
-   "points": -2,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "cmake error `No integer type of size 8 was found.` when trying to compile `sundials`",
-   "url": "https://stackoverflow.com/questions/79991510/cmake-error-no-integer-type-of-size-8-was-found-when-trying-to-compile-sundi",
-   "date": "2026-08-08T08:19:36+00:00",
-   "summary": "c++، cmake، sundials",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Modern C++ Build Tools for Module Feature",
-   "url": "https://github.com/mcpp-community/mcpp",
-   "date": "2026-08-08T00:30:52+00:00",
-   "summary": "Anyone like C++&#x27;s module features? Feel free to try MCPP and talk with me.",
-   "points": 8,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578",
-   "date": "2026-08-07T20:20:43+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "ocornut/imgui",
-   "url": "https://github.com/ocornut/imgui",
-   "date": "2026-08-07T16:43:39+00:00",
-   "summary": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-   "points": 75650,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "A Deep Dive into C++26 Std:Hive: The Ultimate Container for Active Data",
-   "url": "https://towardsdev.com/cpp26-std-hive-deep-dive-tutorial-5bdaa44f4d94",
-   "date": "2026-08-07T14:59:47+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Linkage woes; source built libcrypto is not being pulled as a dependency when linking against its libssl counterpart",
-   "url": "https://stackoverflow.com/questions/79991370/linkage-woes-source-built-libcrypto-is-not-being-pulled-as-a-dependency-when-li",
-   "date": "2026-08-07T14:53:01+00:00",
-   "summary": "c++، cmake، openssl، ld",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Crubit: C++/Rust Bidirectional Interop Tool Rust Workflow",
-   "url": "https://crubit.rs/",
-   "date": "2026-08-07T10:38:53+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1615,50 +400,6 @@
    "lang": "en"
   },
   {
-   "title": "Show HN: BlazeRules – YAML rule engine for streaming data, upto 5M records/SEC",
-   "url": "https://news.ycombinator.com/item?id=49204650",
-   "date": "2026-08-07T00:55:02+00:00",
-   "summary": "https:&#x2F;&#x2F;github.com&#x2F;purijs&#x2F;blazerules I initially wanted to make a sub-millisecond log parser in C++ but that blew into a embeddable decision engine, that can run YAML defined rules",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "C++ Version of vLLM",
-   "url": "https://github.com/mudler/vllm.cpp",
-   "date": "2026-08-06T17:42:08+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Cppdashboard.dev – The aggregator of what matters in C++",
-   "url": "https://mariusbancila.ro/blog/2026/08/04/cppdashboard-dev-the-aggregator-of-what-matters-in-cpp-right-now/",
-   "date": "2026-08-06T16:02:12+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "C++26: Embed",
-   "url": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
-   "date": "2026-08-06T15:59:02+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Building My Own 64-Bit Operating System Kernel from Scratch",
    "url": "https://dev.to/amit_kumar_a492107f6dd6cf/building-my-own-64-bit-operating-system-kernel-from-scratch-49p2",
    "date": "2026-08-06T12:16:28+00:00",
@@ -1667,39 +408,6 @@
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "C++Now 2026: A Path to Pratically Safe C++ talk by Google's C++ Safety Team",
-   "url": "https://www.youtube.com/watch?v=fi6csDXvve0",
-   "date": "2026-08-05T18:53:40+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: LLM control of deterministic coder – Sif 1.0 – LLMs as vibe coders",
-   "url": "https://github.com/Mac-at-SifSys/Sif-1.0",
-   "date": "2026-08-05T15:09:35+00:00",
-   "summary": "Was looking to speed up coding and reduce token usage. Theory is an LLM can provide a plan to a deterministic local coder faster and with less token use than writing the code itself, and so far that&#",
-   "points": 4,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "I Spent 2B Tokens Writing a C++ Compiler So You Don't Have To",
-   "url": "https://medium.com/@vishvananda/i-spent-2-billion-tokens-writing-a-c-compiler-so-you-dont-have-to-d3e4eec4781e",
-   "date": "2026-08-04T11:31:45+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1714,17 +422,6 @@
    "lang": "en"
   },
   {
-   "title": "C++ Impact Physics and Terminal Ballistics Penetration Simulator v3.0",
-   "url": "https://github.com/omid2007hope/MOP-Simulator",
-   "date": "2026-08-03T17:44:11+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "cpp",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Multiple Inheritance in C++ | CPP Tutorial - 59 | OOPs Private, Protected and Public",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiQnEyWWt3MVVyTTVfM2pJbHVXM1YzNVMyRUlsVkxDNWVzRThtQ3g5T0JTN09FaFBma3FzaWxfZU1BWGV1TUJLQWJNbUtBYkJobG1aUnJn?oc=5",
    "date": "2026-07-29T15:45:52+00:00",
@@ -1733,18 +430,6 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
-  },
-  {
-   "title": "microsoft/BitNet",
-   "url": "https://github.com/microsoft/BitNet",
-   "date": "2026-07-27T05:52:06+00:00",
-   "summary": "Official inference framework for 1-bit LLMs",
-   "points": 40080,
-   "tech": "cpp",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "الدرس الثاني | العمليات الحسابية والمنطقية في سي بلس بلس",
@@ -1957,6 +642,16 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم لغة البرمجة ++c للمبتدئين: vectors | vectors in cpp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaFRsY05aT09WaDdfc25ZNVBzNDJ0TUwyZVdXMmc4TkoySm9CX0x0V0RxYUxfTkthdHp2TEJpd2dWY2FOSFRwUEsta2tLeVA1cTVnVGln?oc=5",
+   "date": "2023-09-13T13:00:11+00:00",
+   "summary": "تعلم لغة البرمجة ++c للمبتدئين: vectors | vectors in cpp YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "كتاب لغه سي بلس بلس | ++book C",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2ZE1keFIwbHRKTnYtWW1lU05ObHZlamZxQWF4WUZUWUhTcDZ6UjdZT3B3N0pIYW9ZZFh0MlUxWnhFZWtGV01aQ3JhSTZvNGpQVmVyWVJ3?oc=5",
    "date": "2023-08-12T17:15:47+00:00",
@@ -1987,6 +682,16 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم c++ - تعلم المؤشرات فى فيديو واحد | pointers in cpp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94QkxGcTJ1V3R5MEtUYmxDRkZwUGhGZ0o5dFRIWlNYSWdjY045QWdTX0ROVEhZeUtNVG9qTllocTRPYkJtLVRuLUhuWkxVUEJESk0yeWxn?oc=5",
+   "date": "2023-07-21T14:00:20+00:00",
+   "summary": "تعلم c++ - تعلم المؤشرات فى فيديو واحد | pointers in cpp YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "C++ .. مستقبل لغة السي بلس بلس 🚀",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVlI3NU9wcm1Fb0taUzdvcWUySUc1WTB1T2ZYbGhVZ2Z4Zk9HclU2Rmh3MldKRl9YQktGME5Lbmo1THhKWWhibGtjbl9JemhwSERQMg?oc=5",
    "date": "2023-07-17T13:14:06+00:00",
@@ -2001,6 +706,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TUVRpaF9xOVllTHJDeHB3TzlLRkJlcC1WOTc4TXA0UUwyY01MU1NWQ0g0eThiOGJTOFRIeUYzVFgzTDF6bWtsWnMtb0Q1UDZhcUtGWXJn?oc=5",
    "date": "2023-07-15T17:36:14+00:00",
    "summary": "تعلم جميع أساسيات لغة البرمجة سي بلس بلس .. (في 45 دقيقة فقط) | C++ YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم c++ - تعلم المراجع فى فيديو واحد | references in cpp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kXzlfaTlkZm1UVEdnSlBSWG40SV9jZC1RVDJnZ2VfUFBsbVQ2Sk9ETDg4VjUtY19XSm9ubDJlYm5FSUhHUzNGeWtFajVZMmYxb3F2SGdn?oc=5",
+   "date": "2023-07-14T14:00:19+00:00",
+   "summary": "تعلم c++ - تعلم المراجع فى فيديو واحد | references in cpp YouTube",
    "tech": "cpp",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2051,6 +766,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVcnZEODhQOW5MSVE0Q1lFem1DYnJRRlVhQWdhUmtzb1N6MkdJZmhPQXBaSF9xWGpEM2NGMUdOMXA5TWQ3eTBnNlhQUlR4SUtITkRTa1JR?oc=5",
    "date": "2023-01-29T17:16:28+00:00",
    "summary": "#4 .1- Learn C++ -if statement | الجمل الشرطيه في لغة السي بلس بلس YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#3 - Learn C++ - cout and cin | جمل الإدخال والإخراج في لغة السي بلس بلس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McWxYeF9QYUNyOGowUElDay1wTEx1U2FpXzE4UjVJOU1HNzdoU01hOGpQQ3RKR0NZei03dFN1NHEzYXRiZVlMUVBzMHNyNjdJWHhnUTFB?oc=5",
+   "date": "2023-01-29T17:14:45+00:00",
+   "summary": "#3 - Learn C++ - cout and cin | جمل الإدخال والإخراج في لغة السي بلس بلس YouTube",
    "tech": "cpp",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2207,6 +932,16 @@
    "lang": "ar"
   },
   {
+   "title": "Beginning C++ Programming Course on Udemy - Learn Modern C++ with C++14, C++17, & C++20 - Official",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45VFBQUnRpaF9qaXBaNFZqa2d1Y0tPaHhSSjJ5SlM1VUg5X3NkSGFxQkZYMGh0aWdSRi1TOGZOdFVHdmVmQmhONmo2dkFMRF83eW9qVTJB?oc=5",
+   "date": "2021-07-15T15:30:06+00:00",
+   "summary": "Beginning C++ Programming Course on Udemy - Learn Modern C++ with C++14, C++17, & C++20 - Official YouTube",
+   "tech": "cpp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "مقدمة الدورة الكاملة لتعلم لغة سي بلاس بلاس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kUU93Tzk0TXBvRWZ6eGhwOVdUc1dBV29zcGYyeHFfd0hja0wybFhMMGRFVUdRYWdsOC1NbjRHemY1TVdKU3ctU3JJWGxSU2NVSTF4XzZR?oc=5",
    "date": "2021-03-26T14:11:31+00:00",
@@ -2224,16 +959,6 @@
    "tech": "cpp",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "«سي بلس بلس».. أسرع لغات البرمجة نمواً خلال سبتمبر",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZUxJSk4zUUljSWh1OFY2RldJOElvZWZCM0tEZjNmUWJjUW41UFkwM2xkZ2xUb3BrLTZKREtQSlZISkRBbk1TalE1b1R5a3hLOV9ybGRZYjU1UU81Z3dGUXVmRzYxSWlPU242cNIBhwFBVV95cUxOUE9aNlZYRUQ5TG1GZERuLTlQbXByWG14enMwcThZU1BaLWY5WUtXRDV6WVd6am4tSTFmX191Tjc3dmllWE9iOFVTN2ZBMEg0eG96MHg0NVFaenpYSW13ZWRBM2x6aWppZ3NzTkRhQ3BYRzQxem90MFNYUUJfWV9sTjRpUHZvSzA?oc=5",
-   "date": "2020-09-14T07:00:00+00:00",
-   "summary": "«سي بلس بلس».. أسرع لغات البرمجة نمواً خلال سبتمبر الإمارات اليوم",
-   "tech": "cpp",
-   "sourceId": "ar-news",
-   "source": "الإمارات اليوم",
    "lang": "ar"
   },
   {
@@ -2331,6 +1056,36 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93V1Zjd2czUWt3Zmh2bkc2MGFkNDFvMWgxYkE3ZmJsQmNVZnJKYTEzTEN1Z2JEZWJkaUd2UGhvcXJxbEt0T1czd2xLOVN4cVdXQ2Q3em9B?oc=5",
    "date": "2016-08-23T21:46:09+00:00",
    "summary": "نقل بيانات من فورم نشط الى أخر بإستخدام لغة سي شارب YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "2-2 شرح الكود بلوكس كومبيلر Code::Blocks للغة سي وسي++",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yMFNJbUE0ZVk5SmRXaHFtZlh5MXRkMGtEY29rN0Z5Q2RtVWlxTFFDX1BIN1Z2cU56aG1idkpjR182Q3ZRLWNYUkRTMmRjbHR6aWVKMEpn?oc=5",
+   "date": "2015-12-11T15:39:03+00:00",
+   "summary": "2-2 شرح الكود بلوكس كومبيلر Code::Blocks للغة سي وسي++ YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "[C++] 1-3 Data Types in C++ | أنواع البيانات في لغة سي بلس بلس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIYzJVZXE2U3dOVnVnQ2ZjNG5DaTJ5aUtHcnNuMDhEUkRNbkx0dXBkQXp3Z1RKeHpya0RvbGpNQ09PQ1h2bmFGaHBBZkpDb0J6SnpCOXln?oc=5",
+   "date": "2014-03-12T19:29:49+00:00",
+   "summary": "[C++] 1-3 Data Types in C++ | أنواع البيانات في لغة سي بلس بلس YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "[C++] 1-1 Your First Program in C++ | الصيغة العامة لكتابة برنامج بلغة سي بلس بلس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCMkd5ZGFlNzA4R1JYOE5IUGljbktwTlBERXFRSnJUOGZjMVdKMlhONjl2MzJyMG50Xy13VmJ5TzhHMHBwTU1PMW9QSXpxQm56U0VJS2J3?oc=5",
+   "date": "2014-03-10T21:02:17+00:00",
+   "summary": "[C++] 1-1 Your First Program in C++ | الصيغة العامة لكتابة برنامج بلغة سي بلس بلس YouTube",
    "tech": "cpp",
    "sourceId": "ar-yt",
    "source": "YouTube",

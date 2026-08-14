@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T20:09:57.919853+00:00",
+ "generated": "2026-08-14T20:45:17.019738+00:00",
  "tech": "linux",
- "count": 205,
+ "count": 192,
  "items": [
   {
    "title": "Day 05 of My DevOps Journey: Disk Space and Resource Monitoring",
@@ -121,17 +121,6 @@
    "lang": "en"
   },
   {
-   "title": "POP_OS 24.02 Nvidia-smi has failed it couldnt communicate with NVIDA drive",
-   "url": "https://stackoverflow.com/questions/79993739/pop-os-24-02-nvidia-smi-has-failed-it-couldnt-communicate-with-nvida-drive",
-   "date": "2026-08-13T08:25:36+00:00",
-   "summary": "linux، nvidia، pop-os",
-   "points": -3,
-   "tech": "linux",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "My Linux Journey",
    "url": "https://dev.to/mrfoshi/my-linux-journey-5hbp",
    "date": "2026-08-13T07:23:54+00:00",
@@ -209,17 +198,6 @@
    "lang": "en"
   },
   {
-   "title": "How can I block syscalls for a specific thread on Linux and macOS?",
-   "url": "https://stackoverflow.com/questions/79993575/how-can-i-block-syscalls-for-a-specific-thread-on-linux-and-macos",
-   "date": "2026-08-12T17:15:40+00:00",
-   "summary": "linux، macos، system-calls، sandbox، seccomp",
-   "points": 2,
-   "tech": "linux",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "8 Linux Myths Even Senior Engineers Still Fall For (And How They Hurt Production)",
    "url": "https://dev.to/asepsayyad007/8-linux-myths-even-senior-engineers-still-fall-for-and-how-they-hurt-production-1o01",
    "date": "2026-08-12T16:39:23+00:00",
@@ -272,17 +250,6 @@
    "tech": "linux",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Writing just one line to fifo",
-   "url": "https://stackoverflow.com/questions/79992335/writing-just-one-line-to-fifo",
-   "date": "2026-08-11T20:29:07+00:00",
-   "summary": "linux، rust",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -416,6 +383,16 @@
    "lang": "en"
   },
   {
+   "title": "Day 7 | Linux Training | FREE SQL & Linux Training",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OMFduSkVWbVBwQ3F4WU9MeVdHV25qUE1zdThIWXVFbExtQ1JCMm92ZTFQMGZ3T0lzSFh0UEpWeHFHUng4c0d4SnlEaldnQ0x1S1RjOWRn?oc=5",
+   "date": "2026-07-29T02:09:30+00:00",
+   "summary": "Day 7 | Linux Training | FREE SQL & Linux Training YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How to Install Arch Linux: Step-by-Step Guide for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOOUNLbWE5WmNRT0ZhS05IOGVoNTEwaTh2LTVwZzVfM2NDN1lDdGJqTDk5eXFBR19kVEF1OHB2TG1xYVhleVBYdGc1YnI2aVV5cGViaUJR?oc=5",
    "date": "2026-07-08T14:32:42+00:00",
@@ -440,6 +417,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yRWpRcGx4MFB3RDQzVFAzYm1rTzVER1dXWF9Sd0VIV0tNUHNOM05Pa3VDQmNVSHEtLXRDRWw4QUhnSFk4c2swMVdrb2NYT2pkQlRxOGpB?oc=5",
    "date": "2026-05-30T17:15:04+00:00",
    "summary": "Ubuntu 26.04 | خطوات هامة بعد تنصيب أوبونتو YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Ubuntu 26.04 | تنصيب أوبونتو خطوة بخطوة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yTTgzb1E4ZmN5akpxa1hEMHE5cXpGcmphM3NSR21qekFUSEhLUXhJbjJ0T0tkelR2aHhLMmZFVGdiX25ibGFoaW1aZWw5eXM1RV9ac0ZB?oc=5",
+   "date": "2026-05-28T17:15:27+00:00",
+   "summary": "Ubuntu 26.04 | تنصيب أوبونتو خطوة بخطوة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -496,6 +483,16 @@
    "lang": "ar"
   },
   {
+   "title": "Ubuntu 26.04 LTS Review شرح كيفية تحميل وتثبيت توزيعة أوبونتو لينكس للمبتدئين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpMTRocmxKd0hSYmhwLTBtZ2ZVRnJyTDlrY181eTlvZHdON0pOVWdBZWRaX1JBd1hIaXp2NXJKWURzRDFiaWhiVFppSnk5QkxUNC1ITUJR?oc=5",
+   "date": "2026-05-02T16:32:52+00:00",
+   "summary": "Ubuntu 26.04 LTS Review شرح كيفية تحميل وتثبيت توزيعة أوبونتو لينكس للمبتدئين YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "This Linux Distro Doesn't Use Ubuntu or Arch - Here's Why",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcVpwUFJreFBuOHkxMXpUUFFmYzZDYjZuYVQxODNMUlRleUp4QWRLempuZ01CWHlSX3BKV1ZGNnE1dG9qWkZlRVpPRjQtR3JCRnhQNC1R?oc=5",
    "date": "2026-05-02T14:01:02+00:00",
@@ -523,26 +520,6 @@
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "يُطلق الإصدار Deepin 25.1.0 تحكمًا كاملًا بالذكاء الاصطناعي وتحديثات لنواة لينكس 6.18",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOT2RWXy1RWjFjMGVtMmlSNEktZ1NibGYta0VucmhPak1FZDNSbmlUV3NETlFJZVpiS213TGJ2NjBvY05rTWZWbGo0Y3ZqR0NmTURHRHRHWUl3TE50blBKQVB4MnE5bFE3RUdFSVBJX1p5MFJMaVhCaTl5TzN4dVhjWUloZW9IeU1vTkZuN1MxZGRRVjFOREcyaTlQeWtWc2JBSTh0eWdlbnpkX0I0Y3NsaGhCcUx0ZmRfeHJPbUkzcFhMeGx2Tjgxb0FzRy03Tnc5NVFkc3R3R2VoQk00SXFTelEwaWVFeGYyT0xVZjE1cWxQX3drQXVTaTVfQVltYU1XQXpSak90Z0h5SWV0VVQzSTV0RjMwTEVFZ2dMSEdlS3RwZE9XdE5YU1BIZWpNT0Frb1UyMVlfZkFWR3NfR1lDYWhMVzZNdzdqMm9abGRrVHVzZw?oc=5",
-   "date": "2026-04-14T07:00:00+00:00",
-   "summary": "يُطلق الإصدار Deepin 25.1.0 تحكمًا كاملًا بالذكاء الاصطناعي وتحديثات لنواة لينكس 6.18 Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "لماذا تحولت فرنسا من نظام \"ويندوز\" إلى \"لينكس\" مفتوح المصدر؟",
-   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNX3J3NEhNN0I0cjNWSGZyY0FaNnhYVXpJbWVKRFJLdnJoczRYV3Awa2p3Qkp1bE5tR2JmUVpvaVRCNkJBM0U3NHVFbW1zTU9Wd2ltTy1OUnpiT2E2bmZYUS1wVGF3OC1EVlpfQmZDbm1jRzZGYjJBS0k3X3JReWF1MGs3MnJNd3FCcncyZjZhWGNtd3lvRS1ldU4zQ29RMF9wanRYSlp1SmRUVUM3R2NxZFQzRHByS2lickFlUC1LLU0zNTlaMFAwMnZwX1lCU3lNb1hrX2pwQVNvbU16ZG5ISXRQWDRYcUVjYWhJbmk2ck5Nb193LWtJSlJuYzhncU5JVFBGWDYyb0hOdGxUVzdwQkhUTlZFMm1FWWJPM1lodDBiMWd6MG50M0RGcUcteXJPUHRXTUppUTZaZTNwMjB3SnlEZEVlWXN2YTdN0gHQAkFVX3lxTFAtVEtob1pLVjJiVmttTzlEdWk2UGVuTWMtbk9WVG5PenpUc0VZRzlHUWZxNW1YakwtMjZaV3VDSTJqcmZ5RzdiVS0wYkw0NUNLY3p3My0zMHJUdlIzOUlSNUxGTFBMbl9HZ3g1U2k5QjQwRTVROXNoLUxpOVFNWHJxLXF5Y1pxT2Y1bHV2dUg3WHluYkI4NS1NYVRIbXE3N29UQmVEaVdKSTFxMUc2bEZJZ0FtUFFuMnJELXdnU0VtY2RqQ1V4RXJWSnEwa0phVkhIQmxrNjROaWxaSUw1NTJzMkdZaUs3dzl5XzFQY1lxVHNiaG50X3lvYzdLbEtPM0lmRFh4eml4QlJhbjFXMjllYWFESF84UWw5dFVHemgtSzQxdVVzV0luUFNmRWlQb05KQktISjJLajRjZUxJdmt4cmdIcWFYOV9Cb2h6dXRjSw?oc=5",
-   "date": "2026-04-13T07:00:00+00:00",
-   "summary": "لماذا تحولت فرنسا من نظام \"ويندوز\" إلى \"لينكس\" مفتوح المصدر؟ الجزيرة نت",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "الجزيرة نت",
    "lang": "ar"
   },
   {
@@ -576,14 +553,14 @@
    "lang": "en"
   },
   {
-   "title": "【كالي لينكس】 ما هو؟ + الميزات والاستخدامات ▷ 2026",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTk5OHR6YTRYMXFpQkxJMXRRcHdaMEF6dWFEY3lNS3E2Nk9kZnQ4VWxYX3VrUnIwS0k3NDZUc1JyZ3VPNjc2ZWFXWkpCamFiamFmS2RIbDBHTmYzem9RVENoSGVscTBHNy0zbmVYQlFGWVVaQ3p0RWh2YXFBT2hBSl9RQnFtUVdVMEQtbFpMSUJqdmM?oc=5",
-   "date": "2026-03-23T23:56:27+00:00",
-   "summary": "【كالي لينكس】 ما هو؟ + الميزات والاستخدامات ▷ 2026 Internet Paso a Paso",
+   "title": "Linux Full Course for Beginners | Learn Linux System Administration",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uRGlPUl9ZZmVwLU55ZmtlbzV6amRGN251a2xOTlg5cDNmTndwcGY1X0lydWN6ZXgwS1RncmJ4aWp5X0psWkhsVGVPSHpFbUM0cEpoYVpB?oc=5",
+   "date": "2026-03-16T14:00:00+00:00",
+   "summary": "Linux Full Course for Beginners | Learn Linux System Administration YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Internet Paso a Paso",
-   "lang": "ar"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "How To Install Arch Linux In 2026 -- Complete Beginner's Guide",
@@ -594,6 +571,26 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "[ಕನ್ನಡ] Linux Full Course with Shell Scripting 2026 | Linux Tutorial in One-Shot | Microdegree",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzhMdnlHdEIyWkdsS1VpYWxBNjZaTmtqRUFZYkFUcUJFYk1oVWFVejBkTTNXNEFub1ZLV0Z3VVRsSGE1ang4YlYtRTFnMTdqcC1CdGln?oc=5",
+   "date": "2026-03-11T12:30:28+00:00",
+   "summary": "[ಕನ್ನಡ] Linux Full Course with Shell Scripting 2026 | Linux Tutorial in One-Shot | Microdegree YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "بايثون في ديبيان 13 !!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wS3lWVEpGSTNNbWxYTWpXVVFMRVg5bHFETXYwSGcwaEprWnhfSWhWWjlOZGl6c0ltYnZRZ2VDaTVnRG1seUlVblUxdkQtSlpqUEVyWHF3?oc=5",
+   "date": "2026-03-10T19:56:29+00:00",
+   "summary": "بايثون في ديبيان 13 !! YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Every Linux Distro Explained in 17 Minutes",
@@ -636,6 +633,16 @@
    "lang": "en"
   },
   {
+   "title": "أول 9 تطبيقات أُثبّتها على أي نظام لينكس (سيرفر أو جهاز مكتبي)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ub055YnhZcjRxa29SX2h3Q3RsOFltd0dYSklBb1N4ZW5vRWxvMmktcElxV3k4Rk95YkRXM0ZKdkRYRlZMQXVhaEpQS0lWYkhTWU5kSVNR?oc=5",
+   "date": "2026-02-19T18:00:01+00:00",
+   "summary": "أول 9 تطبيقات أُثبّتها على أي نظام لينكس (سيرفر أو جهاز مكتبي) YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Linux Mint | دليلك الكامل لتنصيب وإعداد التوزيعة بشكل متقدم خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HMnkwX3BtblNpZWpYYXFsdnZpLVk3aTRka2gzSHpfazhERUFFTmpWZGxYQjZlOHRZSGVJMzZIbFZzVDZrQXVXdktMT1d4SmMzRWFJR05R?oc=5",
    "date": "2026-01-26T17:01:24+00:00",
@@ -676,14 +683,24 @@
    "lang": "en"
   },
   {
-   "title": "أفضل 10 توزيعات لينكس لعام 2026",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43dnNkZGJNWUVlemdETEFyYmtSdWdtOUZFRDhkUENTbFlMT19XeHdBLXdHQ1UtTU13ckt5aFFJQVVpVml0dkdMc0RsTUU4TDE3QUI3Y0dqS01HWXJhRV9uM3lLRkRhMkxk?oc=5",
-   "date": "2026-01-13T08:00:00+00:00",
-   "summary": "أفضل 10 توزيعات لينكس لعام 2026 Hostinger",
+   "title": "Linux Full Course in Tamil (3+ Hours) தமிழில் | Learn Linux for DevOps, Cloud, AI & ML",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZzQ4U3IxajFUc1FKeHpLTVRoRmpQV1pOdE41aEptMkdtTXUtOXE0RXpkcjktYThHY3d0dlNrd0dmamtTVS1vXzNXX080b2otSkRIVVhKMnZYeGdlTU81Vmg2dDNoREVrVC13TmQ1NlYzWkpUeTJROE5Vc1c?oc=5",
+   "date": "2026-01-10T15:28:47+00:00",
+   "summary": "Linux Full Course in Tamil (3+ Hours) தமிழில் | Learn Linux for DevOps, Cloud, AI & ML YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Hostinger",
-   "lang": "ar"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Essentials for DevOps and Cloud | One-Shot Linux Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxMmd2eDZzVkdUamtYOUlnQWl0aGFkTThHRkdXNVFZWnhNOGZxSzBPWUtnUi1jSERRei1SWVBOTzZxZTBOdVcyVXZ0WTFVdWwyNFVvTnhB?oc=5",
+   "date": "2026-01-07T05:35:49+00:00",
+   "summary": "Linux Essentials for DevOps and Cloud | One-Shot Linux Tutorial YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Easily Install CLIP STUDIO PAINT on Linux (CachyOS/Arch)",
@@ -696,10 +713,40 @@
    "lang": "en"
   },
   {
+   "title": "أحدث إصدار من توزيعة ubuntu شرح طريقة التحميل والتثبيت بجانب ويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOU3VHUmZ0UDRJcnlBSXdyb21pcG5ESjRQcDYyVk1ad0UxRGZDZHo5SlZmWHVZeG94R3RhNnhTVnp4TDV1TlpwcjlKX0g2aWd1M0VWUW93?oc=5",
+   "date": "2025-12-30T10:20:00+00:00",
+   "summary": "أحدث إصدار من توزيعة ubuntu شرح طريقة التحميل والتثبيت بجانب ويندوز YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "How to Dual Boot Arch Linux and Windows 11 // USING ARCH INSTALL SystemD & UKI",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RRzNkQlB3ZmtkZjYwQTZhSXA1UEs1dElETnM4Z2d2cERQNm9ibzFHWWJnUGV5MlV2UGpBYzZvV0pQbnpUczBGSFp0S0g0c1hEemlKTUJB?oc=5",
    "date": "2025-12-28T14:01:44+00:00",
    "summary": "How to Dual Boot Arch Linux and Windows 11 // USING ARCH INSTALL SystemD & UKI YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تثبيت أوبونتو بجانب Windows بدون فلاشة USB أو هارد خارجي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQ3NVRTlGSy04bWlUa1BySzVLUDdpVldzcUpQT3Bqa2w4U0RieDVYSVBuMmRHa294ZVF4ZnJkM1RhVXJrVFF0QkZ0R0tlb3Nrb1MyQ0pn?oc=5",
+   "date": "2025-12-27T16:01:27+00:00",
+   "summary": "تثبيت أوبونتو بجانب Windows بدون فلاشة USB أو هارد خارجي YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Linux Terminal Crash Course - For Absolute Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kbmFDbnIxQkxGNFliak1UUXlmVjhiUk55eURNOHhTck1sYlFCZHVWR1ZDaTAzRGNzYVJlVV82cWljeU16NmtVR3JCbU50cU1aQ2dCTWhn?oc=5",
+   "date": "2025-12-22T17:01:24+00:00",
+   "summary": "Linux Terminal Crash Course - For Absolute Beginners YouTube",
    "tech": "linux",
    "sourceId": "yt",
    "source": "YouTube",
@@ -724,6 +771,26 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "Linux Mint | تنصيب واعداد الإصدار المبني على ديبيان مباشرة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZHBnb3hUS09INnZXZ2huRFZ5TkE0RzVNZmt6bjNQMU5mZTRkVTc0dDJlU20xQVpHMEg1TG5kRGxLMmtwZWFpSXMzY3lVbmZNeTBSQ213?oc=5",
+   "date": "2025-12-11T17:00:18+00:00",
+   "summary": "Linux Mint | تنصيب واعداد الإصدار المبني على ديبيان مباشرة YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ISO Ubuntu - كيفية تنزيل ملف لينكس أوبونتو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yVGN3Z0pDTHRBb1lqX1lWUXZuRk1OdVQ3MXZqaU9Ua2xkQ0c3eHd6VFZaZDZPbEZ0UEU3aWRKdDlOVVV3bXhFWFpNOU8xbEVwV1NQYzln?oc=5",
+   "date": "2025-12-01T16:24:43+00:00",
+   "summary": "ISO Ubuntu - كيفية تنزيل ملف لينكس أوبونتو YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "How to install Linux on iPhone & iPad | Install Arch on iPad or IPhone",
@@ -766,14 +833,14 @@
    "lang": "en"
   },
   {
-   "title": "IncusOS: توزيع Linux الجديد غير القابل للتغيير والآمن للخوادم المستندة إلى Incus",
-   "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOSy1fdDNfbEh1MW8xQUdzTkpvVTF2YVFVbnVPcnFfTXRFd2xsNkFhbzE5V0xyV2JEbjV0Uk5FYi1JSWlqdk42Q3VKOVlKTW1FV0RtVGgyaFlyTGNYTlo3M3Q1aTE0eXdSa1BIYWpWVzNWbzJkSFBaSU5PQ1ROaEFHVzNZTF9LWGQza0hOU1lfbl9MSmZ6cTc5dG1FRGJoRlQ3aWVHSnJ6bUFWTVo0WHo2ODJJOXBHLXF0NFpCbVZZOHdGN09YLVFseEJJblg4blZBT3RpQmVlR0J0ZHlnWmI5M2hIeHBJd1AzMkp6NVJiRXBVZ3g2MEI3NjBDZUl0RUctMlAtbkZMeWMtTFRCNE8wVW5lWEF6QzBPNEFNZHRHQjRCcXkweF8tSjJhZ05USHN6NE93UU9JbTFHb1VjTHdLMzEtS1NrUzN4cVRCZ21UUmUteDBzemx3ZDRrVzJYQkh1cDBEU0VvQWlSV1EwRlBsQg?oc=5",
-   "date": "2025-11-10T18:12:52+00:00",
-   "summary": "IncusOS: توزيع Linux الجديد غير القابل للتغيير والآمن للخوادم المستندة إلى Incus Desde Linux",
+   "title": "Kali Linux Tutorial 2026 | Kali Linux For Beginners 2025 | Kali Linux Commands | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mc1R4amRlZnNTcFYwMzRYRlYtNjlUX0I1TEJMLWpkb044Yk91ZWNCUk05dmhaYXNKOV9YZEtURGdyazFMcEtqclNCenBWSjhUTG5MYkV3?oc=5",
+   "date": "2025-11-10T14:40:26+00:00",
+   "summary": "Kali Linux Tutorial 2026 | Kali Linux For Beginners 2025 | Kali Linux Commands | Simplilearn YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "واجهات ويندوز بكل إصداراتها 🔥 على لينكس!",
@@ -803,16 +870,6 @@
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تحميل نظام لينكس برابط مباشر",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSEk5Sk9qVjVWbERKSEhLZGtQRVk0S3lOdDNyS3hZU1ZLaUp5YzJUTHFSdXE4UTkzaHMyMjlRTTdWUWQ3S2hlclZsUEdkdzkyNml6a3ZvVUFKcUpxWmpydjNhTHNPeUd5STJlcUNSTkx6SzFUcnFzXzQ1RjF2ZWJPRkVWZExvZGgyYTZuZERlSV9BcWZHVXlVOGdCWXdrWE9XcWMzWHkxTm9lWnlNYjlxM0hYb3pNQklOMWp0Sk1rNU9FLWJVcVlDUl9xbnNUSTQyWGVvWTR0Z3Z1Tzk0N0c4UHlVd25HQUNBbWt6ajJQYlRkZHpfazhXNDFGTFQzTTA?oc=5",
-   "date": "2025-10-20T19:19:11+00:00",
-   "summary": "تحميل نظام لينكس برابط مباشر مينا تك",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "مينا تك",
    "lang": "ar"
   },
   {
@@ -846,16 +903,6 @@
    "lang": "ar"
   },
   {
-   "title": "It's Easy To Learn Arch Linux, Just Do It",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnV2E0UXNwcXpQckcxd3NOMWV2UkZyWlNKeVp2SjNOd19ZNkpsYmJjRTY2TU1rNy1pWnRFV3AxNVNsLWNBMzFLRDN1aFBYZk9qV0w0c2p3?oc=5",
-   "date": "2025-09-07T17:30:03+00:00",
-   "summary": "It's Easy To Learn Arch Linux, Just Do It YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "باي باي ويندوز 🔥 وأخيراً تشغيل أفجر ألعاب ويندوز العملاقة على لينكس بسهولة وقوة رهيبة 😯 Pro Gaming",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DaDh6ekFVZmlkT2xDLUh3MkdmamhxcXlWSFdRZ09Vazk2a0ZqTnFkRUs4M2ZOUDRSLS1ORE9IazhYdXJrYVlSVnFfTFhCdHdyWWJJQ0FB?oc=5",
    "date": "2025-09-04T10:25:12+00:00",
@@ -866,14 +913,14 @@
    "lang": "ar"
   },
   {
-   "title": "Ubuntu vs Fedora: Which Linux Distro Wins in 2025?",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XOV9OZHFTV180aktSMU5JeEJfQ3NJWkJ0ZzRoUF9SMkFoejkxMnB3YkctTHRWcjlUNXNMOE9pTTl4YjE1MEk0dXJGajVrOEhlc1Etczh3?oc=5",
-   "date": "2025-08-29T18:37:51+00:00",
-   "summary": "Ubuntu vs Fedora: Which Linux Distro Wins in 2025? YouTube",
+   "title": "Debian 13 Upgrade | الترقية خطوة بخطوة وحل مشاكل الإقلاع GRUB",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11aUlwU1B5UnF2aHBLd3JwVXpDSGE4LXd3QkoyUlJObnhqdFhDcFFGRHZnSkNJaVJjcElaSkp5b1ZRNXl5ZHkyY1A3LVFtb1pzek1LY1Fn?oc=5",
+   "date": "2025-08-22T17:00:50+00:00",
+   "summary": "Debian 13 Upgrade | الترقية خطوة بخطوة وحل مشاكل الإقلاع GRUB YouTube",
    "tech": "linux",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "مقدمة سلسلة شرح لينكس من الصفر ..احمى نفسك ومعلوماتك واشتغل بإحترافية وإدرس السلسلة دى",
@@ -916,6 +963,16 @@
    "lang": "ar"
   },
   {
+   "title": "الدرس 1: شرح تثبيت لينكس Redhat وDebian بالخطوات | Linux Installation Guide",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCUThDbjZ4eE1zRWtZNUZMV3l3WlVTdmpxUF9jQVhBSFBiQm51ZFBlYkliUjJHSjlYYjJudUh4WDBhVXBCR0VuQ2JTY3RReFRXWWxHLXRR?oc=5",
+   "date": "2025-08-05T10:35:06+00:00",
+   "summary": "الدرس 1: شرح تثبيت لينكس Redhat وDebian بالخطوات | Linux Installation Guide YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "هل cachy OS التوزيعة المثالية !!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eWFqUlRyU19qdzNtYmpyM25BeWZTTjNMLWgxSGp5VUIxbHgxalpud2hVWVdTWHVLR2RqYXlGdHA4Nk85d0c0dE1GajlEMjJfS1VVUlpn?oc=5",
    "date": "2025-07-16T21:14:15+00:00",
@@ -936,13 +993,13 @@
    "lang": "ar"
   },
   {
-   "title": "أفضل توزيعات \"لينكس\" للحفاظ على سرية هويتك الرقمية",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOZGk3eHZXenU4NDRBZW9aWVB6TnNoQU9vZjJzRk9oS195SE5SWFB0RnNQbENhby1kMHg2aTd0QlNOQ2NRTGtMN3pUSGdUUWl4aUZ6a0Via2hLR2VtTElxblZwcjVqb3lCaUxLNmFVOGtHWmdYRzhZUHdWZXpEcTQ5bDZIRlJyRXU0WXNuRFVpSGZ2cVQxakdqbGdQam14RThCTHdjdmRMQWlyc1kybnYwaHlrX0xOS1JsenBGdFRrZEY0X1YxT2pHaF9KQURqdGc1by1nOXFPLW1jM21uZlBrSmNfS2JGdlp2VkJyZ09GcVBUYmNodDRSejRVenpOQ1JUQ01IVWRMUjZkTkF3MVc3RnpOT21GSWhZV195UUNtdU5rZFpxODdyZ1QwXzFSTnJuWi1zMlRUcjdid0RWMkx2VTV30gHHAkFVX3lxTFBaQlAwRlEwcGZpZGJaTHdsc2M1Q3NabThRRG9fT1dLREtiLV9XdjVQTjkybTBjZVhSNXo5ck56OVJUSk4weUJxaFFxWHNnb3A2SjhZcXNlakNONlZnTkRWZko2TlFLbjFKV3NtYTFCelU4eFRpVUx5LVZyNkc4dFpTMG1aMFBHNDh0YVBCanZ2N2l2d2NQUG1uYVBhdnVzdWJ4SFNuYjUteXpxUUtBLU1NOVlNVHpqcTRNeEFjb3ozd1d2bVhOZU5tMVVWaVItQm9GWWNPMnV0ZmgxbmZJS2hBV3dfYUpzV1VPVEh1dkUxSzkwdkJxblp2UkFYUTU4b0xHSU9UMGxDaHpWTmNxTDJTVVhpZVZOSW1yRlk1ei1Id1o5SmVBWU85OThyNFBQczQ4a2JGOFBYTjg0QlpwUWNfcjZiWndEdw?oc=5",
-   "date": "2025-06-17T07:00:00+00:00",
-   "summary": "أفضل توزيعات \"لينكس\" للحفاظ على سرية هويتك الرقمية الجزيرة نت",
+   "title": "اكتشف أفضل 3 تطبيقات في طرفية لينكس لزيادة إنتاجيتك اليومية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNEswb1YzbFNVUENZM2lTakJZaWYwZVZ6b29KZGtNc1lzU2lNRXY3OU9kcllENXBzdXdpUXg1azhpYnA1MHdCU2ZNUFFIUjhsZGh1Y0hB?oc=5",
+   "date": "2025-06-20T17:54:04+00:00",
+   "summary": "اكتشف أفضل 3 تطبيقات في طرفية لينكس لزيادة إنتاجيتك اليومية YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "الجزيرة نت",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -950,6 +1007,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04eE5PSmtpbkRzUmJJLWRSOEpKMXpLa2ttX19ueWlWdU52ekZGZExSUkdnUy14cXlpVWZUVVdhbDY3eWFFNDBBVXpHZUFDTGhRaHB2MFZn?oc=5",
    "date": "2025-06-14T11:18:13+00:00",
    "summary": "وداعًا ويندوز 🚨 Q4OS Linux النظام العتيق الذي دمر ويندوز ويعمل على 1GB RAM 🚀 بديل خارق يحتل العرش YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اماكن الديبيان في خريطة الثلج والبركان once human mobile",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ETnIzQ09TV2s0SGktaW1qYUZIajdYd2NvSlQ3WXAwMHRCVDdIcUV5QkFuODg5aWpWQ1VRMUcxbkRzcVpBMlc2aS1ZOS0yOHZ1ODhRS3F3?oc=5",
+   "date": "2025-06-12T17:08:02+00:00",
+   "summary": "اماكن الديبيان في خريطة الثلج والبركان once human mobile YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -966,10 +1033,30 @@
    "lang": "ar"
   },
   {
+   "title": "Ubuntu 25.04 | تنصيب بدعم مزدوج للأجهزة القديمة والحديثة معًا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TS1J2ZVk5cHp6a2lGUDFuTFo1TnVEaHlaVjdOeWkybDdmbWxUNmZHelpfZWJPeE90V3ZuRnoyNDZnNWdQSHk1UlViYjRPRnczT21fV0JB?oc=5",
+   "date": "2025-05-29T17:18:10+00:00",
+   "summary": "Ubuntu 25.04 | تنصيب بدعم مزدوج للأجهزة القديمة والحديثة معًا YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "linux for beginner | لينكس للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4WWo3UzUzbFptNS1pODlmdmdEZ2dxV1l6Q3dxMHZNOVZDeDFSQzN6YktEclM2Xy1ETk5GcVg3bWt0bnNBOHZqZEpxVExScS01T1VJRl93?oc=5",
    "date": "2025-05-17T10:46:12+00:00",
    "summary": "linux for beginner | لينكس للمبتدئين YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "6 أشياء أقوم بها بعد تثبيت أوبونتو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWU3VONC1LM29zTk4zV2trbnNCYmFOZG4zNzBsVmptd2JrcFdhQXlUZzhELU5QbEtsck1kNEwtYXlBRU5iUFNVMms3UkFLSWVyT0o0R19B?oc=5",
+   "date": "2025-04-22T17:19:49+00:00",
+   "summary": "6 أشياء أقوم بها بعد تثبيت أوبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1026,6 +1113,46 @@
    "lang": "ar"
   },
   {
+   "title": "070-Network Services-apache part2-Linux Course 2024",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zQ3VZWlljX2M5WXh1bkFveWtLRnI2a2xZNy02Mk9NSjFsSEdwTDM1c0ZQRmYxTHFSRjc1dXZSYU9PYXdNWG9IdzFUZ1djdFFkckgwR1hn?oc=5",
+   "date": "2025-01-13T08:00:26+00:00",
+   "summary": "070-Network Services-apache part2-Linux Course 2024 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "للمبتدئين-تحميل وتثبيت نظام Ubuntu على برنامج VrtualBox",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iT1FpbndaOTZ4RDhZTHlTX19xdjFTSE1lODBVWHB2Zzk0aEZ1Rmc0ZTRmY1V2cXItejM2NUI2bkRhZWNIT1UtQTRxcVpteFdjRnl5aXlB?oc=5",
+   "date": "2025-01-13T06:00:00+00:00",
+   "summary": "للمبتدئين-تحميل وتثبيت نظام Ubuntu على برنامج VrtualBox YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "069-Network Services-apache part1-Linux Course 2024",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VMjBRa29Tc3l6NVZYUUxyREhOeGF6c0w5amM0VWwxRzhzUUxkYUhyeW9HNnRkTXRuSEhCQmtpRTNvYkEzeE5lSHR6aG41dTh5MmdiSFFR?oc=5",
+   "date": "2025-01-08T09:00:44+00:00",
+   "summary": "069-Network Services-apache part1-Linux Course 2024 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "كيفية تثبيت البرامج على أوبونتو 24.04",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nc0tydGZuYm9nQXI3OHZXM1ZheloybVdkZWRVTVlqVVFYdTBDRHZHZFZZSjdPVElaZXJPTUFCS3pTNHlscWZPVFJ2LS02Ujc1Wjk2aXB3?oc=5",
+   "date": "2025-01-03T16:38:29+00:00",
+   "summary": "كيفية تثبيت البرامج على أوبونتو 24.04 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "ما هي أفضل توزيعة لينكس؟ لك أنت!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MbXp1dklpM3pDWEQ3WkUybUxWeDFZZlFWSlduZnhhdEVzazVDd0JPY3RPTkdMUjRYZ0s5TmdZMUZTX1FidFNrZnhTWkdpamJ1S0lKc3VR?oc=5",
    "date": "2024-12-30T17:00:11+00:00",
@@ -1046,10 +1173,30 @@
    "lang": "ar"
   },
   {
+   "title": "How To Reset Ubuntu 24 Forgotten Password on VMware طريقة تجاوز كلمة السر اوبانتو في حال نسيتها",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZMTBFLU5TYXEwQXUtVXpWNEM0QWRiZ0JQN3d5OEwyWkRRRkt0R3RzY29nS2dGZHMtZmVYSHZsNnZMazQ4T2ZWdl9YeXFod3dRRUxFcjdB?oc=5",
+   "date": "2024-11-23T18:00:31+00:00",
+   "summary": "How To Reset Ubuntu 24 Forgotten Password on VMware طريقة تجاوز كلمة السر اوبانتو في حال نسيتها YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "#سعيدة | المراتب الأولى في المسابقة الوطنية لإنشاء توزيعة لينكس الجزائرية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtYVJEcEtOOTVBMXU1eVA3MVdRNTNuMmNNSk5YY2NYZm5aNk5yOU1IY2NFMTUxTE9sTEFlMUpJNERKaUZzcXA0VnFCSloxc1owX2NzVWJ3?oc=5",
    "date": "2024-11-19T19:59:13+00:00",
    "summary": "#سعيدة | المراتب الأولى في المسابقة الوطنية لإنشاء توزيعة لينكس الجزائرية YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحسين دقة الشاشة وأداء العرض في Ubuntu 24.04",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PczltOGdhSTl2Znd1MklnUllWRlhmX2E0cWNoRG9nRlIwWTNSOUZicExpc3BuQkUwR0xKOUVMbl9oSUxtdi1rTi11TU5zS1RSSko2eTBR?oc=5",
+   "date": "2024-11-10T12:28:33+00:00",
+   "summary": "تحسين دقة الشاشة وأداء العرض في Ubuntu 24.04 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1086,6 +1233,26 @@
    "lang": "ar"
   },
   {
+   "title": "Dwonload and Install Ubuntu on VMware Workstation Player Windows",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oTW04bWlsaXBEX25Vb1I2MjlsNTY0aTV0YWpTcFZBbDBaOE82QXdGTXNKVDBfUVN3ZTg2RHp0SXJ2bDBrQmwxSFVoRDZkdU1NZlJTbUJ3?oc=5",
+   "date": "2024-10-06T21:00:35+00:00",
+   "summary": "Dwonload and Install Ubuntu on VMware Workstation Player Windows YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تثبيت أوبونتو UBUNTU على أجهزة الماك 2024 💻🔥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2aTJiX2MtdHdjUmkxanZCbEZSUGMyejZna2VlSmxvelhPVF9RbVNhd2dYS2JkMWF4X0JmRDlNRWdteTJfQV93RnFZSEdiV1dubDJ6Q0d3?oc=5",
+   "date": "2024-10-06T16:30:52+00:00",
+   "summary": "تثبيت أوبونتو UBUNTU على أجهزة الماك 2024 💻🔥 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "دورة كالي لينكس: تعلم لينكس مجانا بقيمة دورات مدفوعة في ساعة!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MjUyb00yeE9aNEx5ZWZ0dW1XV0tEMU5DYTAtR1N2Nnd4RUZwcDl5Q0E0eGNyZUREaW9YLWNXNkR6TUExS0l2cjVWWEZUbU1lWUZmNXR3?oc=5",
    "date": "2024-10-04T21:00:23+00:00",
@@ -1100,6 +1267,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVmEtTjJNWlJnTTJKczctWXRXRm9TRFFTQzY0NVU3WWxXanQ5YWxreGFVbDNBQlZOSGZ5LV81UUVBZFA2R1NpOVNOMWp5Um92azRjLTRn?oc=5",
    "date": "2024-08-31T16:01:01+00:00",
    "summary": "openSUSE Leap | تنصيب ونظرة عامة على التوزيعة YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Install Docker Engine on Ubuntu",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44OUtKZFdLQUNfYmliY3psYWQwZWhNaFF5R2YzWmZWeENxNnJISU0zTkVEcU9rMUFNVFlVTFBZcUxhSVRBTi1iWWFNZWpPQTRBWnF2cHRn?oc=5",
+   "date": "2024-08-15T04:32:59+00:00",
+   "summary": "Install Docker Engine on Ubuntu YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "شرح بنية نظام ملفات لينكس والفرق بينها وويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3V0ZUUFlBdmJqZ2g2bjR3b0s1aENKVE9mb2M1Mk0xUWluTUUtcU1iN1RLNVRMVDh4RlhFYXZ2TFlkNGlCazg5VzFvM3ZDNVBvS3pGcjF3?oc=5",
+   "date": "2024-08-10T05:32:11+00:00",
+   "summary": "شرح بنية نظام ملفات لينكس والفرق بينها وويندوز YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1126,10 +1313,80 @@
    "lang": "ar"
   },
   {
+   "title": "Ubuntu 24.04 | الانتقال الآمن من ويندوز إلى أوبونتو والحفاظ على كل ملفاتك الشخصية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQlFuWlFDVG5Jb1dfdUxHMDZrZ2dWR3ZsY1NqYmZXRzVnSE00OG9KLVE1NE85NmJXTWo5bFlUNkFRLWp3NmJETTJQRUw2OFMyR1BSR2Z3?oc=5",
+   "date": "2024-06-27T16:00:33+00:00",
+   "summary": "Ubuntu 24.04 | الانتقال الآمن من ويندوز إلى أوبونتو والحفاظ على كل ملفاتك الشخصية YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم نظام التشغيل لينكس في ٣ ساعات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05RHRkdy1Benc5VGFmekZwb2NhaTNVaXh6di1VcGFMc3pfN0VxYnVPVWF2NmdUSHJUQmlLU2VCNGJFMUhocFotMDhnc3ltV01qUHRnbzNR?oc=5",
    "date": "2024-06-11T18:41:56+00:00",
    "summary": "تعلم نظام التشغيل لينكس في ٣ ساعات YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Debian | الترقية بعد عامين من عدم الاستخدام",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wZ3JENkVpZTV6Ul84NS02cmJQaHNycEtpZzZqUnIwZFJsTHBBVldXd01xRk11c2pCZnFvOWJYaTFTclBrMFBjSjVCaXV2cUQycEtiazd3?oc=5",
+   "date": "2024-06-07T16:00:13+00:00",
+   "summary": "Debian | الترقية بعد عامين من عدم الاستخدام YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مستودعات ديبيان !!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKMy1YRjVpTTRnZU9QWGQ1TnVFcGpvUXQwWHgyWkR6bmVlU2tCb3RhWE83Yng2VnBQWFZ0REFhZk9neGlqRVNIQlVtRGp1eFhKdndaQ1F3?oc=5",
+   "date": "2024-06-06T14:00:43+00:00",
+   "summary": "مستودعات ديبيان !! YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية تثبيت Ubuntu 24.04 LTS جنبًا إلى جنب مع Windows 10 /11",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XRU9EMzlmX3NDQ0psTDM5NzVZTVZKMzZOWlJRUTVJa2ZFVnJJeU1RYUhRaExMRlpnSEVydGszV0pSQVl0aXRXVXN1dWM4ZUhCSXd1eENR?oc=5",
+   "date": "2024-06-04T09:08:50+00:00",
+   "summary": "كيفية تثبيت Ubuntu 24.04 LTS جنبًا إلى جنب مع Windows 10 /11 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "احدث نسخة من نواة لينكس على ديبيان !!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLU0NldjQzQVMzVmtCZTA1d3g3TkNFcEpUNnRfWjNFMS1fTy1Rb080aHF4RlRFMWRxX0daQl9iRC1tRlRtdGtnOGFfdGtUOHVqekJrZDdB?oc=5",
+   "date": "2024-06-03T14:00:26+00:00",
+   "summary": "احدث نسخة من نواة لينكس على ديبيان !! YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حل مشكله حجم الشاشه لنظام ابونتو على فيرشوال بوكس Make Oracle VM VirtualBox full screen for Ubuntu",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EcVFTckNvcUtHQkpsQ1FobTRrTVI1NlhXdmIza1lJUUM2MGxOSE9EUGpGSlRKWjFhUXNUUmVQaERaMExvS2dVMDVhNzB1Q0VlZEFUR21B?oc=5",
+   "date": "2024-06-02T13:14:33+00:00",
+   "summary": "حل مشكله حجم الشاشه لنظام ابونتو على فيرشوال بوكس Make Oracle VM VirtualBox full screen for Ubuntu YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تثبيت تعريف كرت شاشة نفيديا على ديبيان | Nvidia Debian",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuWG4xekg3Z0Nfc1JOb0dIaEpEY3ludEZ4dnN2NHIwMVcyTUNvQk9WSkE1S3pYbmxQS3VkMmh5dXBUT0lmZlVvZkFNbW5hOWlTWHcxX2Zn?oc=5",
+   "date": "2024-05-31T08:58:47+00:00",
+   "summary": "تثبيت تعريف كرت شاشة نفيديا على ديبيان | Nvidia Debian YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1146,13 +1403,13 @@
    "lang": "ar"
   },
   {
-   "title": "المسابقة الأولى لإنشاء توزيعة لينكس جزائرية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMjA1NkVxekdCTzllRU1TdWloNHE5S3ZHeEZ2eVhRWkRhVkY0cjNuNDVGNVNwWHFmbXdkajd0cXRGbHpXU3FIRWxXdlNjTHp3V1dZdEln?oc=5",
-   "date": "2024-05-21T07:00:00+00:00",
-   "summary": "المسابقة الأولى لإنشاء توزيعة لينكس جزائرية جامعة تلمسان",
+   "title": "Ubuntu 24.04 LTS | مراجعة وعرض لجديد أوبونتو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUGVRaHpobG5xMkxoMTRZVXdCcE1CSGZoM0wtMnRQRTdqLXNPZjl4d3RBNWw3RnQ3M0phYlJGZm5DVlV5dWp4amtWdkhZcVJkenBzODZn?oc=5",
+   "date": "2024-05-02T16:00:32+00:00",
+   "summary": "Ubuntu 24.04 LTS | مراجعة وعرض لجديد أوبونتو YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "جامعة تلمسان",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1166,16 +1423,6 @@
    "lang": "ar"
   },
   {
-   "title": "إطلاق توزيعة أوبنتو الجديدة Ubuntu 24.04 LTS",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWmViRml4cTdZM3dEdm5oVTYtQzhXOXoyOFBpd2NNajd4UlVVeU9SYXYtek1HOVF0WklxWUV1dFVZZFFYRkVDYnVWeDNfaUVnaXFwbGU5N1BDb3pyV2dGdFFJOHVsV0ozRnppTHoySE1EV1g3clZrTzVSdWVzRE9XendBRGYwbXlTVEhnbElXX3doWVBPSk96Qmk0TDZzcElPR1p5RTU0SjFneHVOMFFPR29HNmtEcFYzRVllSUZkZWlQWGp3VVh4WXY5T0NVRm02Wm5EZ0kxVEExTUNhZ0lmdXRzWXQzbHlzcWxTdTRITUhGclBoemcyX0FWaHNNdFhucDg1TEVkYzRDWVk1bUtDVmxFR2VtYkJOV045b1pzNU1YUQ?oc=5",
-   "date": "2024-04-27T07:00:00+00:00",
-   "summary": "إطلاق توزيعة أوبنتو الجديدة Ubuntu 24.04 LTS البوابة التقنية",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
-   "lang": "ar"
-  },
-  {
    "title": "Arch | أسهل طريقة لتنصيب أرش لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SRnZWdDBseHpyQ3JRUEl5ZXJRVGhoVkRfMmVTTmp4ZHV6VXIySkMyanlqajFmU0pmdFg1WkVRWUJyVkFXM1BpX1NORnAtQkw3Qkt3ampB?oc=5",
    "date": "2024-04-19T17:00:23+00:00",
@@ -1186,10 +1433,30 @@
    "lang": "ar"
   },
   {
+   "title": "Wubuntu | تنصيب ومراجعة لتوزيعة ويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Wb2VPN2daZ0NzTC03d0RxbHcwUHdGSEFNckkxTFZSMlktMVh4VTFmQ01yc0JPczJLc013R09wQmpYbWo1Z0tLTkdOdGJkNWFCTGo2UTF3?oc=5",
+   "date": "2024-03-08T15:00:18+00:00",
+   "summary": "Wubuntu | تنصيب ومراجعة لتوزيعة ويندوز YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "دورة كالي لينكس|kali linux course",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSOTB2MzRHUzBnYjZkQ3FVa19ubHMyRlc3czJXeTZETnVvcER5R3J0UVZVTFNqb3NhU1dkY2tMZTZoNGpsNnlPamsyb01OZjR0VURpZTZnTllFR0ZWeElPazd6OS16OXdXQ253VGZpWmpXaUhUMl9XbkplNlA?oc=5",
    "date": "2024-02-22T04:17:20+00:00",
    "summary": "دورة كالي لينكس|kali linux course YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "أسرع طريقة لتثبيت Arch Linux",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QVGt0QUk2dVo1RFVNbnJYNEYyZ3A4R0dKX2o4c2o0czVIT2dyamt3bGluTFRqekxvb0VNTzlGTVBpV0VXdVk3cW8xd2VKUkFZeUNob2l3?oc=5",
+   "date": "2024-02-01T14:00:16+00:00",
+   "summary": "أسرع طريقة لتثبيت Arch Linux YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1216,6 +1483,46 @@
    "lang": "ar"
   },
   {
+   "title": "تثبيت ديبيان 12 (الجزء الأول)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTSjBxTUZsT3dqRmVTQnBvcU1RYTlZQkYwN25ub0hhNGxXS1p3T0FpY3YxNU56Q1FycmNTU0gwTzBMbHVDY2RlUkZBUWk5em81Z252czdR?oc=5",
+   "date": "2024-01-08T08:40:41+00:00",
+   "summary": "تثبيت ديبيان 12 (الجزء الأول) YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "طريقة تثبيت التطبيقات فى نظام الابونتو ubuntu من المتجر المدمج بالنظام app center",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Za0dFR29NY0Fkd0JXUHdadjFvVDZtbHNxYXBGMzJWR25SQlpsQnN4Zjd5aFR3UzRsdmtBVlgxOXBMQUljajZZQ3R0WnZTVnlrNWt0ZVdB?oc=5",
+   "date": "2024-01-07T11:54:20+00:00",
+   "summary": "طريقة تثبيت التطبيقات فى نظام الابونتو ubuntu من المتجر المدمج بالنظام app center YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تثبيت أوبونتو بجانب ويندوز 10 أو 11 | شرح Dual Boot خطوة بخطوة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EaWxzQWdsRWtsVS1ZcFBoMzU4azdvTHgwTFQ3Nk5jcmg2R1Q0UURjcS1udGx0Zjh5V0tMaVBuV2VhUUlkX1VaUDVveTdWRWRTblp5LXZB?oc=5",
+   "date": "2024-01-07T10:38:18+00:00",
+   "summary": "تثبيت أوبونتو بجانب ويندوز 10 أو 11 | شرح Dual Boot خطوة بخطوة YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "001-Intro and Linux History - Linux course 2024",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01V3NKRU9DQ2FpMUFTVmVNczhDbjRvQ2JQb0M3M0ZwZFNWYUhxSHJKaXRoM3oxRWlMQzNNcTFjZDUzanF0TlQ3bjlMSDZVTGdkUnB1RHRR?oc=5",
+   "date": "2023-12-19T09:00:42+00:00",
+   "summary": "001-Intro and Linux History - Linux course 2024 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تصطيب و تشغيل بورتابل كل الانظمة من فلاشة واحدة كالي لينكس وويندوز و Kali لينكس واندرويد وهايرنز USB",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5WURYUEpoMWszNkpJVTdGUmUxSHloaEt6aHkxYnV6d0RBRE9FVk5Uand4eXZkMHFTYXRrZGRkU3dzTWxBekpxS2dpcFhsRE56V3lhLTR3?oc=5",
    "date": "2023-12-18T18:00:11+00:00",
@@ -1236,23 +1543,53 @@
    "lang": "ar"
   },
   {
-   "title": "أهم 10 مشاريع متوقفة في توزيعة GNU/Linux – الجزء الأول",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMzNLVnRrYXFwdHNNTWdpRnVtbUxyUXVPenBVZ21aZ2c4U0czbnVDVE4wdkxuTlFUMzk1ZGhmbjlKREhaS2ZheERfZkZCSnpBd01GR0NMNzhSQXJLNnFnbUY5YkE5QmI3Q2Jpc0JjVERfd2JvejZHUWptcmpfMVlsY2ZfWE1MRGhNRTV2ZHBwZm9kVUpxVExoMnZQSzh4WWNnQjlkSWJtTzRRN0p5Z1NmUDZUOV9JNGpzbXZKdjN5UFZjdFg4SXMyVlRpUTUwaGcwa3ZyQkExUlg3RlU5dzMtVE1RT09HTDVhcmJfX2NsSkNVTVhQQVQ5bE5XbElURXdLYWs4cXZlRGpvbjc5ZlB4anp3?oc=5",
-   "date": "2023-10-13T13:02:09+00:00",
-   "summary": "أهم 10 مشاريع متوقفة في توزيعة GNU/Linux – الجزء الأول Desde Linux",
+   "title": "لا تستخدم فيدورا قبل مشاهدة هذا الفيديو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vS1pnMDlBckswVHIxcmJSQ21lNHM3bWJnNEFZS2VZYnFDWEUtNHczWVYtU2JvcVowWGxhdzNuMUhuSDNheWlTVGdLVndhdXhfVnUzUGtn?oc=5",
+   "date": "2023-12-08T17:08:17+00:00",
+   "summary": "لا تستخدم فيدورا قبل مشاهدة هذا الفيديو YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "BigLinux: توزيعة GNU/Linux ممتازة تم إنشاؤها في البرازيل",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yYXZqSm5BWms1eGlKMmE4S3hYTEJKeUxhMzVkNHdZOTFGRWFBWFZxQXBaZHFkN0Z0R2ZzVDlHeDVYeUg5MHAzOUFDbFhBZWJRN3FZMUppZw?oc=5",
-   "date": "2023-10-11T01:37:09+00:00",
-   "summary": "BigLinux: توزيعة GNU/Linux ممتازة تم إنشاؤها في البرازيل Desde Linux",
+   "title": "Home Server | ترقية توزيعة ديبان 11 إلى 12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnVzh5QzdxMS1CbUdGNlhER1N2dnp4ZWlGSmpLaUVqVUoxcXNHWFNRMW1hMEsxVEwzTVJfc0NQY18xVENnWklNcEwtQnQ5cV9DOHo1Z0xn?oc=5",
+   "date": "2023-11-08T15:30:13+00:00",
+   "summary": "Home Server | ترقية توزيعة ديبان 11 إلى 12 YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الكتابة عربي 22.04.3 ubuntu | كيفية تغير الكيبورد ubuntu",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10Tk1lQTZCUmFuc09HQjhNdEt1MGk3ZkJNVlV2S0V1eTBsU3NpQlFYT09ydG9tQ1hHelJoUEZhSE54RjRsSGh6OUY1ZlljSVhubUVyd3JR?oc=5",
+   "date": "2023-11-07T17:52:18+00:00",
+   "summary": "الكتابة عربي 22.04.3 ubuntu | كيفية تغير الكيبورد ubuntu YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zSGliLUFXZnJjX1dJdHlmZEZqVFZSSE1KUWs3TXlqWEp3YTBpWHg1dG5yb0g2ZjFVaTl1UGN3ZGFBcXFxOGRDeUNFQ0lSZ2NTSTZkWnpR?oc=5",
+   "date": "2023-10-31T13:27:50+00:00",
+   "summary": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "إزالة، تنصيب وتخصيص zRAM على توزيعات فيدورا وأرش",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NYmFfZ1VYZXBiQXNfVHdaVmxHRUVhS2VRSGVLbGxxV2FLMzRVWWJ2UWQ1OGNJR041bGRVcmFXVUFfUEdZbUZaQTFKOFNhMVc2LVJFUDJ3?oc=5",
+   "date": "2023-10-06T14:00:28+00:00",
+   "summary": "إزالة، تنصيب وتخصيص zRAM على توزيعات فيدورا وأرش YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1266,13 +1603,13 @@
    "lang": "ar"
   },
   {
-   "title": "Zenwalk GNU Linux: ما هو وما الجديد؟",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JeVJLZXA4M2lEWjVDRnV0UVBNX1VjTzliTW9NTVZxVThQVUc0QW1qV1N1bHNFR1I2YnRDcWhCb21RTFhJelplT3NMcVlHMVVVQjAxXzA3SDJldng4WEE?oc=5",
-   "date": "2023-09-10T07:00:00+00:00",
-   "summary": "Zenwalk GNU Linux: ما هو وما الجديد؟ Desde Linux",
+   "title": "استبدل ويندوز بـ ديبيان وحافظ على كل ملفاتك",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sWGJ3LWpkZUZGOW8td2tYZGYyT3VmVWNsdkdUajI3MUxGT28zOFpMbVJzbXJGVXpKQWU1N0lacDRUX21ndURzZ3VRRTFnYXFZTGc3MWZR?oc=5",
+   "date": "2023-09-08T15:00:31+00:00",
+   "summary": "استبدل ويندوز بـ ديبيان وحافظ على كل ملفاتك YouTube",
    "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1290,6 +1627,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OdjA4LWpuandnc1laQ1JhaUlRbTlUOGhxdlpLNVZWbkh4cGRZMmNXUmttOHBpMXBIekd2NTdxWUdhNDl0aTBUQkl0X3l3V09jVF8xdW53?oc=5",
    "date": "2023-08-14T16:00:32+00:00",
    "summary": "Rhino Linux | توزيعة متدحرجة مبنية على أوبونتو تقدم أحدث الحِزم والأنوية بشكل دائم YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تثبيت نظام Debian 12.1 (bookworm) كنظام اساسي بجانب ويندوز 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fbndLeDhicWYzSEVKOWd0ZHI0c0VrQS1JYS1IR1FQYV9EamJUM3g3Rkt0S09jSXgwMlpiOE9vdTJSUndKVmRManBVZ1lvVjZISkY4WXZR?oc=5",
+   "date": "2023-08-08T18:12:06+00:00",
+   "summary": "تثبيت نظام Debian 12.1 (bookworm) كنظام اساسي بجانب ويندوز 10 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1316,6 +1663,46 @@
    "lang": "ar"
   },
   {
+   "title": "Debian 12 | Plasma | تنصيب أسهل وواجهة رائعة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tdWM3bHBzUzhPWVpLbURZTFh5bFhIeXNjQVV1VmhzaUhXM09NRDQ0OVd3OF84S3hneTd2eU9NQnoxdE12RG1GMWtQVUY5Z1lhWkwxN3dR?oc=5",
+   "date": "2023-06-23T16:00:14+00:00",
+   "summary": "Debian 12 | Plasma | تنصيب أسهل وواجهة رائعة YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ما هو نظام الأختراق كالي لينكس ؟ | ? what's the kali linux hack system",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OXNwZ201TjRuaWxHUjF3SjF6amJxNmdRR3hDVGlwQWZESDNRWFU5UnZvR0tlNlJYdDR3REJ3bVdKY2ZFWXdlcV9ZUkVZYnBESVVPZHVB?oc=5",
+   "date": "2023-05-24T19:57:51+00:00",
+   "summary": "ما هو نظام الأختراق كالي لينكس ؟ | ? what's the kali linux hack system YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حل مشكلة تكبير الشاشة ونقل الملفات في توزيعة أوبونتو 23 تثبيت أدوات VMware Tools",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tZzlfTldCeWVtakNjQ1pZQTZMRHNMS2huY3p3RlRieWxQdDVJRTB1THF1N2xOb2NaS1lfZjE1RHdZa0VsdmRLRm5pYTdCVG1OcmdPbE1R?oc=5",
+   "date": "2023-04-30T20:34:55+00:00",
+   "summary": "حل مشكلة تكبير الشاشة ونقل الملفات في توزيعة أوبونتو 23 تثبيت أدوات VMware Tools YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "انتقل من ويندوز إلى أوبونتو وحافظ على كل ملفاتك",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnY0lydnk0SzZMS3hDbDZzQ1NjUWhqZTR2c18tZUpmRGZwcFg1T2NsMzRrbmZqVy1EclB4MG9vZ28xblhKYUlzZVVWc2lLZGpjS3JPR2hB?oc=5",
+   "date": "2023-04-17T18:30:26+00:00",
+   "summary": "انتقل من ويندوز إلى أوبونتو وحافظ على كل ملفاتك YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Linux Lite | توزيعة خفيفة وسهلة بديلة لـ ويندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xLUFDZ2hFbXQzWUVZMXhrbjFwZTlDOVR0ZWQzSUxCVmY1NHpKQzhHWlp2MC11NkNJVkVFVnJUdzhrd2VrdFJqeWhLU0NyX1k3R0NnZU5n?oc=5",
    "date": "2023-04-13T18:30:28+00:00",
@@ -1336,36 +1723,6 @@
    "lang": "ar"
   },
   {
-   "title": "أوبونتو ومونتو وأفروتوبيا.. تعرف على 9 مفاهيم فلسفية \"صنعت في أفريقيا\"",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaU5tY29uOHBIUlYtNGxDZUZ4cVdnd1VhUWx1R0FONnc5SURNdGxTSG5BNVJVN0pLWG9VOUxOcm12ZTdjb1JXaGJKeWdXWDJYQklBdFFHcUVQM3pYWVJRZGhVOFpRSW9laE1raTRLakNmSklLc0JvcHpVSG81czllbnE2dkdWbGU2SGJKRzdSNXowdEI5QjRlXzlUTThZQnRzcDNka2pTVUxwdjFaZjdRZThXYXhSQm81dG1XeWhPaWs5UmI4eGFyb3QtRWlZYl9xQ2F1elRYWDN6Mk9CWk1XclpvblE0VTd5RTVZeUd6WXFva1ZianNSSW9HUmxnRjBqY2V2MHowVmNXaUc1VFh5VmJUOWxHOHhXNUNpNC1RU0hpTE9SOFl2SNIBrgJBVV95cUxNc0tUY3lzUzZpa3M4Zy1Ycmp4RmpHVkR4WkJhaDVvTzI1YmZMZGJXM3NuWDZ1VFM0QzlOUlhXNU9Lblp6R0F6aGZDTmhzMU9zTW40Y3RuWEN1dWZsc3o2MkxyT3N6Q3M0eXVMZWtJaE1HYi1zM2s1RUctSUFZb1JFdTJMekpKNHQyOF9YWDNERHFhSzVBYUFIQXJmanJRSXlsVXBvV2tOTjI3eXd6b3pxam5oOHB0blYybUxJTXFxRUprU3Jpc0Vydjc5OXBIaDVveTd2OUYxUEU2SlJNV1RGRlhmQVB6Q1JSZlpMMUpWRXVWU3hYUFdJRHNka0tUTTRWLWJ1d1JvR21YSGcyb2NiRkpjZEJScHVjQWhhX0ZVS3YxMXlGRHN2R2hGcUZMdw?oc=5",
-   "date": "2023-02-19T08:00:00+00:00",
-   "summary": "أوبونتو ومونتو وأفروتوبيا.. تعرف على 9 مفاهيم فلسفية \"صنعت في أفريقيا\" الجزيرة نت",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "الجزيرة نت",
-   "lang": "ar"
-  },
-  {
-   "title": "كالي لينكس أم باروت؟ مقارنة بين أقوى توزيعات لينكس للاختراق",
-   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNby1NaWhvSXdWX01KbkZhcFhwbHc5dnNBckNMS1hleVpLaHgtNVdtbk1CZU1lTFVlWXRmZFJNN2JvQ3FzWkIwZWNralR5TW9tcmFWcFgtdEI1Tm1US0VLX1otMzdxT2J1eVdqNVBxTU5XbUQ0ZnNGekpZd1pwelJXb0xwRktoUk1SOXg0N1RIZ2RlcXhlcmJxcHJVWk9BejlhSWRNZjd4ckhrV3h5RmhmUWJZYWNrWGpuT2JpR3l6dFJvQXF5bEEyQlNJbXVGX2k0Z0p1aGRkeXkzSi1Wb0ZScUNDU1pHRmFkSXM0cklQTXBSWnBQQW1rMGtRTnpFNE1aNHV4V0NDbjBwUmZwWmZqUUlDSVFtWlR3aEt2WlVZWUhxd2tLWU9NOEN4aDVvcndzSUNxbXBLczNHOHpLR01FSUFsMkVOUUU1ZEhBVA?oc=5",
-   "date": "2023-01-29T08:00:00+00:00",
-   "summary": "كالي لينكس أم باروت؟ مقارنة بين أقوى توزيعات لينكس للاختراق Arageek",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Arageek",
-   "lang": "ar"
-  },
-  {
-   "title": "تم إصدار Deepin 20.8 بالفعل وهذه هي أخبارها",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNSEI3cXlwUVR1Wlp2UVZqaTNpR3JZQ1phOWV5UWhqWmhVZEV6T2JwaDU3bENmNlp4QWxoMVc3SVdGUk9laWNYQUs2TU1qeTZ0QkhseU5oZmVCMlhISFVsN2lGVUM5UE45WGNTT0FzQk9ZVTIxM2hTcjhMS2Q3eTEtTXhTcU9NXzlkOU4zU040QWh5SVV6N19ScUZlQ01uRE9Jc0JIQ0Z6cTJIb2dIYUVBZVlWdUdrdjcyckl3STMtc2R2ejY1b1J4ajFMSXFrU1NNQlg3RVVScWpkRTZGZ2tLUnJrekZPTzBfVzBNY0J0ZmJrbV80Q0JJeklmYnY4Ml9USGw5NFo3SUE4Tmd3NXVMME9vRGdxNmwzTHBqLUVrZ0VPdFZ5VXZYbURpOVh3Zw?oc=5",
-   "date": "2023-01-04T03:27:21+00:00",
-   "summary": "تم إصدار Deepin 20.8 بالفعل وهذه هي أخبارها Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
    "title": "#شرح تثبيت Kali Linux 2022.4 على UTM للماك M1/M2 مع حل جميع المشاكل.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mcXEyN3ViNjRaTTJqN3JtUUZraHNGVnpZSlhMcVFCSFlpVm5HWmMwN3VUUkQtYktVMXZVUzZVdmRGaThVdFNFWGxGQjdHUlRBWGRnMkRn?oc=5",
    "date": "2022-12-19T15:35:42+00:00",
@@ -1376,20 +1733,20 @@
    "lang": "ar"
   },
   {
-   "title": "Puppy Linux 22.12: آخر إصدار مستقر من العام متاح",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3cwaW9wWGpVbTBEYkRiYWcwNFd6LVBKVEhpRENXVVo1QUJ5c01zVU4ybUQ4Y3ZsdGQwa05ucjEwX3hpdExVanVHaDlCcUwxeXFWazVWTl9nVE91S0xBWEl4cENYb09SWThiVDF0WTRjTEtZRnZMdkFjdTQ3UzRYQVZwV3NOUjJFUTFSSU9tZHQ?oc=5",
-   "date": "2022-12-13T09:10:35+00:00",
-   "summary": "Puppy Linux 22.12: آخر إصدار مستقر من العام متاح Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
    "title": "Kali Linux أسرع طريقة لتثبيت و تشغيل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NaFphYXhNY3diWFFyc3JXOVF0eE5HRmg5Ym9zR2ZpYkZOcVBUOXgyc0dnY2VaOWR5TzJwZkpCQzAzYml3T3RYcVRDd0VDeFUtZ1oxWU5R?oc=5",
    "date": "2022-11-29T13:00:09+00:00",
    "summary": "Kali Linux أسرع طريقة لتثبيت و تشغيل YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Ubuntu 22.10 | خطوات يجب تنفيذها بعد تنصيب أوبونتو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95SFRiek00azRFNmVMY3dmZ1pHWVQ1bzkzWUxIWnl2YlhGcWg5T0xqdVdqcGlTa1ZsNEVkWmMyOGNka1A5ZHJLNXp4UjluTTJiYUtNQW5B?oc=5",
+   "date": "2022-11-23T15:30:08+00:00",
+   "summary": "Ubuntu 22.10 | خطوات يجب تنفيذها بعد تنصيب أوبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1426,6 +1783,26 @@
    "lang": "ar"
   },
   {
+   "title": "Ubuntu | تحديث أبونتو وكل التطبيقات بكلمة واحدة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DbEVFUERrdjRnaTh1U0kwZ0VsY2QwcTdEWDR3M2NBbExLYzNxNXpERW1oa0d4bDVfMkNWOUdrVHdrWnlkclhXdWc3MDE1bDg4MUtSOGtB?oc=5",
+   "date": "2022-10-07T16:00:26+00:00",
+   "summary": "Ubuntu | تحديث أبونتو وكل التطبيقات بكلمة واحدة YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تثبيت لوحة التحكم علي السيرفر | aaPanel | انشاء سيرفر لينكس مجاني",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qQW9jazJ2VlpXRnN5NF9oWjlSNWN2YnM0T0NqT0lXcGRmc0FTVGluWV9lc0pxdFhEZ0dPY2pubWZDb3VLUjNZbGpyVHZHV0VQcFBpLWNn?oc=5",
+   "date": "2022-09-16T08:00:12+00:00",
+   "summary": "تثبيت لوحة التحكم علي السيرفر | aaPanel | انشاء سيرفر لينكس مجاني YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "MX Linux | التوزيعة رقم واحد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UGdYREV3MkVLYWJrNlVwa2RPZWFrQmh6elB6eGJsNWUtSkJDUlY2Ym54WkpYbDFfOFZwRW5ad3FuME1fVXhjVlRxSWM2b0tBRXAwd0RR?oc=5",
    "date": "2022-09-14T16:30:01+00:00",
@@ -1436,10 +1813,40 @@
    "lang": "ar"
   },
   {
+   "title": "تثبيت IP السيرفر | أوبونتو سيرفر | انشاء سيرفر لينكس مجاني",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zdHJmSTFzQnNxaW9BSmVMV0xpR09rNUhZWnl1bnlEZEN0X1ZBWmFWajFrU0NyS2JVMGxuWU5nNHpIdWp0am55VnQyUFRXYmI5YmZyMXV3?oc=5",
+   "date": "2022-09-10T11:47:14+00:00",
+   "summary": "تثبيت IP السيرفر | أوبونتو سيرفر | انشاء سيرفر لينكس مجاني YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Waydroid | تطبيقات أندرويد على لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53Zkg4aVdubGVubHF0SjIwa1NSMmE1NlF2ZUNOVVZUTHNLTTR3amJBLVBDLUhMMUxsZFJMdkRYdl9ZR2Rsa0U2MGR5WVJnY0dGLUtHUFp3?oc=5",
    "date": "2022-09-09T16:53:53+00:00",
    "summary": "Waydroid | تطبيقات أندرويد على لينكس YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "انشاء سيرفر محلي لينكس مجاني - #shorts",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EaWJlTU5qbHgtNlIxZVEwY2ItSi1MbkpaaTc2STlsVDFvMHBXd19YSHlGdC1JWVJRdFZIb0M2Q2tyNEU2WUlGTXNrYnpsQVpQV1hGWA?oc=5",
+   "date": "2022-09-05T21:07:57+00:00",
+   "summary": "انشاء سيرفر محلي لينكس مجاني - #shorts YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "انشاء سيرفر محلي لينكس مجاني | أوبونتو سيرفر | Ubuntu Server",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqaVd5OUNLWnhOOTlsMGNiZTQwNktFZEZGYUNRUmdJOC03VDFLQjhLNW1Jdi13cjhHLTh6bjE3TDBWNlJfNmV6d0dVQmp1NkF5UmZ5dTBR?oc=5",
+   "date": "2022-09-05T19:23:30+00:00",
+   "summary": "انشاء سيرفر محلي لينكس مجاني | أوبونتو سيرفر | Ubuntu Server YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1466,6 +1873,26 @@
    "lang": "ar"
   },
   {
+   "title": "Debian 11 | تنصيب ومراجعة التوزيعة الأكثر ثباتًا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EQzlkLWVMMUN5eWt0RHBfSm9kVDZTbWg2UDdzOW1iYThBX2dwTHo1c2dkT1RuLUoxZjlkbmxKNS1qaXhkSnA1MGZ3blVFUkNDdUpQbTVR?oc=5",
+   "date": "2022-08-26T16:00:20+00:00",
+   "summary": "Debian 11 | تنصيب ومراجعة التوزيعة الأكثر ثباتًا YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الطريقة الصحيحة لـ تثبيت اوبونتو Ubuntu كنظام اساسي او نظام وهمي في الويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43LW5aU041b0U5VGVvQmR0NDdFY29ha3VxUE0wSTJtR2NWYWs1elY4ZzM5bHBhOEdmZlhQcjFJRHFBRmNzcGNtWnUzQnh6MTV5VVJmU2dR?oc=5",
+   "date": "2022-08-24T14:20:32+00:00",
+   "summary": "الطريقة الصحيحة لـ تثبيت اوبونتو Ubuntu كنظام اساسي او نظام وهمي في الويندوز YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تحميل نظام Kali Linux وتثبيته على برنامج VMware | تجهيز معمل الهاكينج | (006) Ethical Hacking Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNTE3X01PaUlxSjZGOUNLQk5yeF9pc3JKMHh6SjNRaU13TXNiOXc4NFphWWotQVhUTFpsUlZYTDNEeEhvZWlKUzFzc1RUUU05cU91LU9B?oc=5",
    "date": "2022-08-24T12:40:13+00:00",
@@ -1480,6 +1907,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94NlFMLVdrVDhKazE3RldJdEUyNjZ2UWc2anJXLUdTVkNPN1JiemNxUnduYzBFcUxRN3RITFhyUVJIM0dNYW9DUGsza0FjV0RkaTg5YUJ3?oc=5",
    "date": "2022-07-25T13:36:35+00:00",
    "summary": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح اداه theHarvester YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح تثبيت نظام أوبونتو 2022 ubuntu كنظام أساسي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qS1dkdS1nUEVzbkRvdDJCR1IyTDVTMk13TVprQk9LVDgtR2NyTHpFVmdnU3ZIUXBwQm1hZmlMdTZzWmo0QTRnV1RqYzk0a3J4OTdRcXd3?oc=5",
+   "date": "2022-07-22T20:11:55+00:00",
+   "summary": "شرح تثبيت نظام أوبونتو 2022 ubuntu كنظام أساسي YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1506,583 +1943,13 @@
    "lang": "ar"
   },
   {
-   "title": "Arch | Manjaro Plasma | أحد أفضل توزيعات لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UVmZVUWpDYTZiT21Pb0V5Wi1qb3pjV2NLQ0UzcmxsWXpZUnI2VXZRWEE2NjlWMGdXeGlGUDZIa19OTU9xUlhEazdvYVNxQ08yMHhhaDZB?oc=5",
-   "date": "2022-06-27T17:30:02+00:00",
-   "summary": "Arch | Manjaro Plasma | أحد أفضل توزيعات لينكس YouTube",
+   "title": "Ubuntu 22.04 | أهم الخطوات بعد تنصيب أبونتو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MSFpIVmg0bW9IY2hvc1VaNGJnNlpNYzExR0w0cFQzS0RTblc3QURlSTN2Q2dYSEQzLWpDS2RpTW5ZMkVvbkUyODl1dWxHNkZRSklGVmlB?oc=5",
+   "date": "2022-07-07T16:00:03+00:00",
+   "summary": "Ubuntu 22.04 | أهم الخطوات بعد تنصيب أبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة تثبيت نظام لينكس على الكمبيوتر بالتفصيل Install Pop OS 22.04 LTS",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyV3NMMFF3VEsxYkZ1OGFtOG02Q2tRM1Y1dkZINHhHMTBOdDQ0WTU0TUhCNm1HaWRTLVdNbXVCTk5adXdIUVZWOUs1S2w3Q0Q2dUZkV3BB?oc=5",
-   "date": "2022-05-25T08:21:54+00:00",
-   "summary": "طريقة تثبيت نظام لينكس على الكمبيوتر بالتفصيل Install Pop OS 22.04 LTS YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Canaima 7: عملية تثبيت أول إصدار تجريبي عام متاح",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVRpSVNMMkR2eEVBckxIMnBRYTl5dWZ3WUUxQ1JpeFFDdXdJVkhZd0FYZHpoTUZHSTg0RnV1V1VPUmV1MmZOQVF3d0dNajZDLV9Cb21KVllzZlIwZnFhTmZxcmVDRHN0UkozM2lYTUxBRXRSYnZxZlVpQnlUb2lLTXRDNERUbG9VLWs5TmdSUWMxQ25TRHNHdURQa1NYTlh0cWlFNFhVOGVabXdUcFFtaWVEZzQ1QQ?oc=5",
-   "date": "2022-05-11T22:19:15+00:00",
-   "summary": "Canaima 7: عملية تثبيت أول إصدار تجريبي عام متاح Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "Kodachi توزيعة مبنية على دبيان تركز على إخفاء الهوية",
-   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxObVBTY3BLV1JLOE5DdGhQZW9Eb1dpN05KTnBOMDJFWHRTN0RXNU1VdS1QSE9BaXMtaUZrcVBsZmFXNlpvdmZYV3ZfbUhEbkwzaEk3cHpFR29xSnE2VktiOUUxNERTdUNGb1EzM2I3eDJ5bS15cFVLY1ROTmd1ZHNhMkRJZWhlVWV5UzdzQWFqSlJ6OFQ5WHBmWWV6UlZTc0Zvd010NmJvOGtCSWprbDhWMGNGX3JhSkt1b1JxZnZleEFiQkJPOU1TWEdRVmxxaGFzOTZKankxTjhTUkNtcl91VHYybHQtRUwwM0dkS05tYXVlUjlvSU1VMEFnUEo0aHFaeU5hOGlUWm1ud0RrdnZLMDJwOTNLbmhLaWNIRlRhLUJqYUJUMkg0TWRnUlJTYjEydk5yaUxzRWdBc3hFZHI2NUNoVjVVRE9iemY0NlJTeDRsVmpGelNuRG54WHhQU1RrUUdCUGxLVkp2Y0F4eFQwM2JaWGVBYTdQd1BaNE9zSWJJbDg?oc=5",
-   "date": "2022-05-03T03:28:50+00:00",
-   "summary": "Kodachi توزيعة مبنية على دبيان تركز على إخفاء الهوية Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "برنامج لينكس (13): استخدام synaptic & software",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WNkZMMzNaZlo0NklyMXdoMGNrbUhORkFfSFBDZ21wY1Nrb0NGblEydVdZN1E2Q0pTbXMwWmM3OFFXbDFRVTBYSklNeng1WmQwdDV0OGtn?oc=5",
-   "date": "2022-04-27T15:00:11+00:00",
-   "summary": "برنامج لينكس (13): استخدام synaptic & software YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Ubuntu 22.04 | أهم توزيعات لينكس والأساس ﻷشهرهم",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMG9UeXBwdEZTUnFNMG1wZEYxUVpQemF2SFpjTERkTVVZNHVUUEtkNDZ6MnN4U2lqTS1FeUxTY2ZzTW1wRXk1eG1MM1A2ZTA2NGFoTHFB?oc=5",
-   "date": "2022-04-25T18:30:44+00:00",
-   "summary": "Ubuntu 22.04 | أهم توزيعات لينكس والأساس ﻷشهرهم YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "استبدل ويندوز بـ لينكس وحافظ على كل ملفاتك",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90TlR6ZmFmU3QxalNuQm5QckpCXzBKS0ZMRU9JV1RTYVlZQUg3QVkzbzR4dXBZanZjMEhpODR5UU1TZEtrRXZfa251bjJMX1lqQnpwejBB?oc=5",
-   "date": "2022-04-11T18:30:36+00:00",
-   "summary": "استبدل ويندوز بـ لينكس وحافظ على كل ملفاتك YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "[08] Linux | cd command | change directory | شرح لينكس عربي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10cWc0WHhCd202TVpiTGV4bndBa3lOZThhai1wbXVhMlI2amN1b1pWUmtIQ25qVDVQRUlqb0ZIUXNIS1FVbzRKenRReHg1UXBnX3B5ZktR?oc=5",
-   "date": "2022-02-23T22:00:05+00:00",
-   "summary": "[08] Linux | cd command | change directory | شرح لينكس عربي YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "[05] Linux | Absolute Path vs Relative Path | شرح لينكس عربي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iaFFrUjVzZmJFWXFGSVpGbDhpTkRyX3FGOWZHei1TOTc2ZUtxbXozMk5vaDFJLTNnb0h1ZHk1OE0zNTkxXy04QVJCbV9QTWk5emIxcXZB?oc=5",
-   "date": "2022-02-23T22:00:03+00:00",
-   "summary": "[05] Linux | Absolute Path vs Relative Path | شرح لينكس عربي YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "[09] Linux | touch command | create a file | شرح لينكس عربي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94WEVkNHF2alljUEEwTmJqTTl6blQyMU4wZ05COTV2alpKbTBWWUtjaThxWHZ4anFYdVlYbVMwTm5hQkJOZjRndTJkVTM3bXBKcktwMjZ3?oc=5",
-   "date": "2022-02-23T22:00:03+00:00",
-   "summary": "[09] Linux | touch command | create a file | شرح لينكس عربي YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Linux Terminal Commands Basics | أساسيات أوامر لينكس",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YWHJMcmNKOU14NUV4czBzd2EwWmludXlBamlRMS1YTXI0QUtKNUM2aU1kN0NYYzJCWWsxQUlxMHk2cE83OFFMb2dQajFBc043YzM1RHdKenItZUF0bWFKWHZfY0djMW9VUnpCcjA5ZTVlTnFwTEpMNEFsZ28?oc=5",
-   "date": "2022-02-22T12:40:57+00:00",
-   "summary": "Linux Terminal Commands Basics | أساسيات أوامر لينكس YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "[01] Linux | pwd Command | شرح لينكس عربي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wdFRZbEc2d2ZEakF2dVVHMEZMY1FDUXp3ckZuQmp3TnMxaEtmMVQ4Rl9qNVhHS0dmOF9ueEJzYWNqbTk3d1IyZkZwRkhJX1ZwVDZteTNB?oc=5",
-   "date": "2022-02-22T07:00:08+00:00",
-   "summary": "[01] Linux | pwd Command | شرح لينكس عربي YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Linux Commands شرح عربي لينكس | في 25 دقيقة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wazU1N2JJVG9mbTVHZ0kxUUNMT1lmMWx3Y3Y1S1FfWHEtZkdoUG0zX004NW1wMDRiRzRJS3hiUjNvdFoyNGRrelp1SU9DRDY3UjVZaXFB?oc=5",
-   "date": "2022-02-20T07:00:01+00:00",
-   "summary": "Linux Commands شرح عربي لينكس | في 25 دقيقة YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Ubuntu بعد التثبيت: كل شيء من أجل Ubuntu انقر!",
-   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNS0FaMWlnSUZJSTFTZHJ0eGg5OExXcnNzaURPZktBZzJaWFlLaUZkdVZQMFlBRGNlR2pUWktJbU9lZ29uVzdHUVlkdmNDbU1OQUVlYjZoaUh5Y0xCcHF2bVBpeVRYeUoyM0NKazU3VjBfT2hIYWxURVhZQWNCN3JDaTBQZDFQOU92djRCY09ZXzBrN0UtWWQ0cmlzQUI2bDNfUUpSa0JVVkNqY0dnNTZ4MlFPWjh1V0otQk14dHhtSUFBSWphRE91U001YndyX0xPTVd1SXJmMUl2ejdYbmRVUGYwMzRHWXM4X2hxdXVuT0Z3Q3JsazFseXRDaF8wTENZdmlib0t5Z3h0RjlScW4xc2xDaTlhdzB5RXJ1aXNlc0F2dEF5SUZCVkV0TzFENWtOMERySUpWMnBETkpjRTQtX3BMcFBxZWJ5Vy1xMkRtUQ?oc=5",
-   "date": "2021-11-05T02:51:25+00:00",
-   "summary": "Ubuntu بعد التثبيت: كل شيء من أجل Ubuntu انقر! Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "توزيعات 5 Linux لبث حياة جديدة في جهاز الكمبيوتر منخفض الدخل",
-   "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOVC1YaFpkSlYwc3Z0RXNLc1c0d29xbGlmZGdRYlVuSDVsVmVSckxvdFlZX3AybVRRZHpZTmpIbGp1eHVqVnVMT0VsbW5tcXRHZWJ5UG9tU1lGN1ZhOTlJS0I0R0lEMHI4VUt6c2NvUkEya183UkZ6WWZ4OGQ2WjRHZF95VWFjVXZ5TjJJci11bU9DaGtFXzk1dzF3VjV5TWY1NEVjRGE5dzVobDlRYlJjWi10MGlfMzdzd1B5a0tWeG1YUkhBQVRGc0Z5OWFsS1JkNW1yX19iaWt3QjVVRjN4THhLRzlLUTd4VHZZOWVZMUpsRzNaOGd1UDZVdVl4bDdGejBFX1BwaXpENXFFZUE3VmplR3luWEF2MjJCd2M0NmQ3ZHlZMmlCVng5RjhMeG50RS1lSDlVWWNPaUcxZlZLd01hOWpHdHJQYTZHZWJYbmhiTmhPTUZzWVZRVEJXTGNuT3o3V3NTOXRHclRiR1BZOW5NYTU2U3ptdnRrSHBhZGxuVlBzR196c1QzZGk5VllEWlNLckg4TUJwT2ZpRGRTQmVZN21MZ3J4VFdxYWVRYWxDdEpqX3F3N3B0WDExZXVPU0JmdURRTkdfeWVyX1ZZZVNqQVJiVDBpOE1JZGU4NUEzUEdvdnd2WElNRXZjMjJQbnA3RkRVQQ?oc=5",
-   "date": "2021-11-03T00:29:41+00:00",
-   "summary": "توزيعات 5 Linux لبث حياة جديدة في جهاز الكمبيوتر منخفض الدخل Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "تشغيل الألعاب عبر حواسيب لينكس",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTGtVZ1lfa21Obkd2RzJzWFpReXo4SENSQzQtTmZvbXkzT0VKT3E5ZTdFR2FiTHdxVEtrUEFDYlRrWmRUWG12bFRwOEFUYjJyVU9GN2NWZTE0YXM5WENOMzMwLTJQak0tdXd2QWhnQzllUi11XzdlcldIREowOXRvbHl3c25Yd2VxZ0ozNFg0dkNMTEFfREtCRHNzU1pTZ0YwdC1IZkxpMTJPc0pJQUFpd2pTUDlUZk1KeVE0elV4LWw5VFNCX3psMXZ0V0hTSEFFbEVNSFdzLXNlYzFQM0VDWFZnQ2xKVTVqYjdGZ2M5ZDR0OUVxaGsxVUloNVNrTHlwQTFQM0lCS2xIdVJzT2tFLWM0ZFJhdGJDRzQwUA?oc=5",
-   "date": "2021-10-06T07:00:00+00:00",
-   "summary": "تشغيل الألعاب عبر حواسيب لينكس البوابة التقنية",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
-   "lang": "ar"
-  },
-  {
-   "title": "ما هي التوزيعة في عالم لينكس؟!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kLUs0cGo4bnlTc3hidVRDdW9UTG9aTWNoWmtPdkNnNXRqM0V1ZVh2cE9iOVI1ZExpaDBadWIxSnFWOEFRUEE0aEI0QTBmNXFXc0xFNVh3?oc=5",
-   "date": "2021-10-01T18:45:00+00:00",
-   "summary": "ما هي التوزيعة في عالم لينكس؟! YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعرف على توزيعات لينكس التي كانت سببًا في انتشاره.. إحدى تلك التوزيعات تستخدمها بالفعل!",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CVDJvNFctRWJFdk00LW5iUlVjcEJreGhnS0F1Y0sxcndhYmdKd0FnU1F0N0FJdndQMWhoNVhTNmZwa2E5bkhyYVlLNlhFclI2czY2VlZ6SWRRU3c?oc=5",
-   "date": "2021-09-08T07:00:00+00:00",
-   "summary": "تعرف على توزيعات لينكس التي كانت سببًا في انتشاره.. إحدى تلك التوزيعات تستخدمها بالفعل! Arageek",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Arageek",
-   "lang": "ar"
-  },
-  {
-   "title": "أفضل توزيعات لينكس الخفيفة",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMW9ZdnB6MTkwaTdReXpBQWNiZWpXd1dDVF9tOUdfTEQyblVoWjhSRUlXcXU4LS1tZmVERUtpUGZyOHZrbzQ4elVZeURYYlkyaG5YdkY2b2hscERmUlZtVTZ4bC1WWnVJZmN5Y0o4RzJQRGNUb1FJd0tFeTlJbTlfdEtVSVFVNG12bkQzTGV3R0EwVHJqWm1IbDV6VjJnMkt5Ty1yM09iaFpIazVuZWF4dHVKbG1qU2hsSUZpX2k4SE1DNl95a3ZVU3BXUTNVRTFkcURYZFQ5dFVvRHc3ODV2UHR5ZFBfcC1mR0phRW1mRlBYQjM4VlZkU3ZabFd3ZjdTTXJ3?oc=5",
-   "date": "2021-08-08T07:00:00+00:00",
-   "summary": "أفضل توزيعات لينكس الخفيفة البوابة التقنية",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
-   "lang": "ar"
-  },
-  {
-   "title": "Linux Boot Process (Arabic) Ep53 - تعلم عملية الاقلاع في لينكس الحلقة ٥٣",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjZUJ0cllIM3g0dm9ocXNSTlIzNEUzVWphOE5mRm81SnkxN0RVak5NWHB1Q0xZLVBrVnBlUWVrT2ZWMWJVREtqb3dHZl92N1E2V1NabjBR?oc=5",
-   "date": "2021-07-16T01:00:01+00:00",
-   "summary": "Linux Boot Process (Arabic) Ep53 - تعلم عملية الاقلاع في لينكس الحلقة ٥٣ YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Garuda Linux: توزيع Rolling Release قائم على نظام Arch Linux",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjdmRmpIUTlHQThpNTNPMmFGamp0UGwwWG5hOW93blVtV2dNODVvWUxadm41WTAxUkxQR25zX3E1V0h3UHcyWFlJaGh1V1pWUHBEbEdzN3V6OUJZVVQ5Q29MaWU1eUZpYS1LU0pJbGVBcThQZFNzZ2NFempPVTNWVGtGOUVpRThkN0dhYw?oc=5",
-   "date": "2021-02-24T09:46:18+00:00",
-   "summary": "Garuda Linux: توزيع Rolling Release قائم على نظام Arch Linux Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة تحميل وتنصيب نظام لينكس كنظام وهمي ( شرح من الصفر حتى تشغيل النظام )",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PYnBhTmhJb1ZQa1JRTXZEZFZvZ2RUc2NybTI1a1pSbE1wSzQzVktmZFM5emhOeW5Jd2hndE5jOEVQZFRIcnJMYWpLRjNlb1lqVE9WMGhn?oc=5",
-   "date": "2021-02-17T20:37:16+00:00",
-   "summary": "طريقة تحميل وتنصيب نظام لينكس كنظام وهمي ( شرح من الصفر حتى تشغيل النظام ) YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "رقمنة أشرطة VHS من توزيعة جنو / لينكس",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNckF5WUtUaDlFemRDTDJKbGNtMVlxRDlLUGx6SnlBTkx6RkdtdGhreGRueFNyWlpjMmtzUUo2RVJTN25zZ0VoR3g4MWlBbE0yTmJBQlByUmdZU2wwbGRXUmo1NFpVMngtZXYwUThJSTUwYmItOF9QSEU4bzhGVjdLMS0wZzNENk8tZDQxZ01mQ0xEcC1fRDlzNEh3dHdWeGJ5UGRCU2FqVElrRWE1R3lJeW94c0ZLY2xlYU9qbm1NM3RxYjVTMnBoQlBwcmFTRHVIZFVROGk2RWp1Qy1rOWIzbEFpQjNsUDZ4a2VULVgzVXZrSTJ2Qzl1ZGNFWlBMVnhRSGdvaF9NcmxhUEVSZVAwODZRdXhvM2pjMDFqRVJ0cUI?oc=5",
-   "date": "2021-02-14T22:08:06+00:00",
-   "summary": "رقمنة أشرطة VHS من توزيعة جنو / لينكس Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "قم بتحميل خادم Active Directory مع Debian و Samba",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQTd1cnpUcm1vRERxNUV0VFZMNS1YOUk2Y3VkNnFVZk1KcEZjY1BJdDZ4OWJIS3p5eFp5dk5IVjZRQWZoaDNGNXhwSU1NZy1rR0xsOXNKVjhnTlA2eWtpRTFILWNCMGNmMUUtMHFUajBSNnFfX3RVWnd4cEhYdlMtcktSRC01LWp6czhITmlHSk9XN3dVUThkdzRodWRSMTR3SGxHcjdSLWVBR19Dc2UxQ2p4dkxleThiY3AzU1RKZDhkTDR0TjhIWTRtWWQtWldSTUVHaGJ6ejNld2lvRURvNVZUUWpwbWpnamhuZ0Fzb1lYOTJtVV9MSHRDUVVfN0JvekI3MkNPRWNkVXFvT3d2X0dJSFdhVE9Ea3o0WFpvU1VVUDRnQTc4VDhjWHNCeVJLWUVwd2RqUWpQOUVKSGVuRmtsbHN1QQ?oc=5",
-   "date": "2021-02-14T19:34:07+00:00",
-   "summary": "قم بتحميل خادم Active Directory مع Debian و Samba Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "MX-Linux 17.1: توزيعة حديثة وخفيفة وقوية وودية.",
-   "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPWmx0WjA4OUxLMGdLTkZUUmdYX0Rld3c2bFRRZlJXTVhaRzBRSUtOOFNKQUdiMGRSa2JZQTZSckw1bm5tLUNqdHZZRUlZTUVlZ0NLbEVDRjFuT0VsZGk1bF8yQWlZdklQbllIV1BkT0NRdmctTWJpSG11NGNCQ0JvanVrV1V2TC1hM1AyaDFGMnRvYTRUQmxXZDJjN2dqSTNwRlRzNmV2MzROMUd4T2d3QlByb256YWpCc2RPdWd5ZVMtd25ZMDhRUHc1d3R0M29lWHM5b010bEMwVjBPcm5CQVBGWWV5dUV4cXF6cjRsZDZTZGFMVGJKMzJDaUstdF9GTmRyRW5OamhjekVTb1U1RUZkY3h5WnRxSTkzNjRqQW9IMGdhNGZjMF9iZ3R6TTZnZUVoaUFCVEQ2X0Z0WWVSZnhraXJ2a0ZxT1hYbThGM0dHVW85a2QzQWxaREw2bmVRTVNvZ1o4WmhhbGUyVXlzeDZXblk2ZTNFekVFbWhKQQ?oc=5",
-   "date": "2021-02-14T19:10:30+00:00",
-   "summary": "MX-Linux 17.1: توزيعة حديثة وخفيفة وقوية وودية. Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "تم طرح الإصدار الجديد من Q4OS 3.10 المستند إلى Debian 10.2",
-   "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNTFhsdUNqNmluZ2I4M2gydkwtVGpBcmFOX1BLdzJxVC1GMU44SkQ1dTZkVTlLb3p0djZCaTJPM291N1BiblE2SzU3NnBkNE5MRWpnRUNYbzRnblhEMVZ1RG5tay1ZV19xdmxqaEoxNFR3UVVMVUpqeGkwTHhVQXVYSURJU0lWM0Zxak9vaFVmRllIRTduLURCdnNyV0ZRRXdtUF9OcU1YX1N6bFlSNjBjWHNOQ1Z3OFYwUjFoZVhsaEJrbVNmTkFJQ2IwamU5d0s5QWI5cnZBVHFZQW95dS10aUhycXBETjBXSGZ4eFZSZENQWmM0b2lrcGgyd1JaOXl3bHVTNHM3TS1oZ0hzTkstVi1tdGFLVlIyTmQyZHlXdXZLU2F3WlNjd0lJYkFXNUx3SHNkVEg1U3hwc29RMkswYmdjVVNBMVVRbS1QM2N2WnFSUzlTdUwzSnozVUdkRUYyUWwtZzFlbTIzcUZ5WlF3ZVpsZ0p2RTZZMmU4?oc=5",
-   "date": "2021-02-14T18:43:23+00:00",
-   "summary": "تم طرح الإصدار الجديد من Q4OS 3.10 المستند إلى Debian 10.2 Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "XDM: Download Accelerator and Video Downloader لـ GNU / Linux",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWGhaWk55a2l3aEJLenVxREcyMjZMNUNXT3I0emJzc0VpTmlaNzVkS2FoXzVCMC13dFM0NHJ5LUJfV0V4cDhlUy03MVVoVUh6SGMyQi1KNmpNUERaaFBIZ0lZRHgzaGl3T2ZvSWVPc010c0c4LVF1WVprVGlRZTFqVl8wNmdQeW02UHlRY0dFeTc4N2c3X0MwTmptRDIyRm92am5HNDJwWFdSdUw3WUVXWkI1dlhoakt2OTVqNEtTMUFiNEN2T3FNZlEzeTFFdUVjOVN2YUQzQXpoRnprQmszR1ZZWFJ1dFVQcktjaENyT09qendGOEJ1aTI5cy14blplMVg1VkJ3?oc=5",
-   "date": "2021-02-14T16:27:44+00:00",
-   "summary": "XDM: Download Accelerator and Video Downloader لـ GNU / Linux Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "Linux From Scratch (LFS): مشروع لإنشاء توزيعات Linux الخاصة بك",
-   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPN2sxN0tyMngwZEk0RnhZZUxQeWZvanRmOFdpbDZkaHhVY3Z6SV84ajZwVUxMNTc0UWg2VWc1Z25kSVF2ME5kX3gwWkx6UEpHM3VDZnRRLW83R0tHMlJkdGttTjJPWUg3cGhzc3dkMUtERUc1cDZPSTI0QnF4VEN6WlpQR0twMXcyVzVneHkzN3lNTFFiQXJNVWpTMGRmR05UemhEbDNxOUphMVc1Z2pON0lRTzlIcjdVNVFsWXdyMnlGaENoQnZrMlZhZENqXzVRZ2xSZ3EyRXRoX05IQkRoY092RGh2Mld5Slh1RjRUcVBJRDRpaHdxYWVLRmwxdUVRR0g5YjhEWnZoRVFTUndSOERLZFBnc2hwNkdxZ2V3X3I5ckVxY0taVEM1OWxFSi1tdWhWRU1SYmxFRmxsSEg4QXFCa3hnWHlNeWdCamtVMmw3MzRPTFRJdmRyZ0JJd2NTa3JfRWM0VHVwODFYUnNnYzQ1NHM?oc=5",
-   "date": "2021-02-14T16:20:08+00:00",
-   "summary": "Linux From Scratch (LFS): مشروع لإنشاء توزيعات Linux الخاصة بك Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "تثبيت Debian 6 خطوة بخطوة",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGJGYU94QjFtLVNaXzhuYnQwMG5MTUlGdW5VcGVrakdIdHNiWDRRaVNnWks5OWk2VE1nUWJsa2xiMjBVZVJDcUxuelNtcTV6UFZkRFBHenpLN2JzWkdMMGctQ0M1dFBpQlBOU015M2kxT0trdThyU1hpUzVCLWFza2NPeEExdGdWUHNjSE1PSjdSTkZGd09zeFNtSDhZRXExNjNfTUJmLUZBUzVTbmhGdFh3NnNfdm05NTJDcGNYYjFCMG1fNEE?oc=5",
-   "date": "2021-02-14T15:42:59+00:00",
-   "summary": "تثبيت Debian 6 خطوة بخطوة Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "Debian Wheezy + KDE 4.8.x: التثبيت والتخصيص",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ0djcFVpczJhV0lySUgtU1ozXzlRZXFaQWg5R0F3RkJNanBta0NMR1U3cDFlM08xTlZCYTdCODFxREJKWFctdlRzUHR1N2FHbEtYVTRnZXpwbVYtRFlIVU9LYXpSLWJSSVRLVEVhaFNZcW9mdUEwejh1UXh5TzdodW1YMHF1Zkw2cmUwRHN1TUI4YVQ1MC1wZTctVGVNRi1zLXRPRGhFMmlOa1dYaktVbFZONmh2dmw4ajhNSUczbzRHTVd6M1J1SFppV2s3WDMyd0wtVGtudVUwNWJxbGtWdnNOOWxMZmVEYzZIUlRZTFIzTXBrWnRHaXZGejFldw?oc=5",
-   "date": "2021-02-14T15:18:28+00:00",
-   "summary": "Debian Wheezy + KDE 4.8.x: التثبيت والتخصيص Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "دليل تثبيت Gentoo Linux خطوة بخطوة",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQd2w1bHdNRW0wM1F0Q3RDVkNwQThFUGc2dnp5dEswQ2Jtc1hKLXBvcndEcVZ1UmQ4ZDJrZnR6QW1HWXFFYU5WYjhHa25kRjU0eWd5Y18tU3NfV25lOGF3Z3MwUnZzeWJ6b2k2NC1USm5SVEMzVEdBRHkwUGhtUm85dW8wQ0NZU21QWXBsSk5XRTJ1WTVETkk5ZnJ1RXd0Yks3Y0FCc0ZMaVY3ck43aFN5a0d6SjVEUnpwRjAyamlQSVk4QnVjWThsN0FyaXIwbTlpeHltaWtSa0t1S0thZ3VQLTVxajBYY1ZHRVlGbGRwTjd6b1ozQXM1UlFhMDU?oc=5",
-   "date": "2021-02-14T15:09:48+00:00",
-   "summary": "دليل تثبيت Gentoo Linux خطوة بخطوة Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "يتوفر الإصدار الجديد من Manjaro Linux 18.0 بسهولة أكبر في الاستخدام",
-   "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPZkxaSGU2VnFkSFhKUXRHbWpyRGNOSTVYa0JNZ2NsZEUwSlBvZkZlRlZSUkRhZG53azJ4WDVYZHJDeGVxRUQwOUd6czZhUS0wbldQNjlBNHJEcnlqQzlTTjAtNmpjM0hvaHZ5c3BJdHFGcmVNY0Z4V2N3eFZnTVpidi1WbzcydThLZklDYVZZanRSWnVOVWlKcl96UjgwVjdiYlVIZm1fMy1qZzRBVExsX0FiZGZYMkJPMVdlSFdBM1Z0ZS1BT25jeXJqQlVkbHg0TEVEUFJfNDVGRExTdkhkbnQ1VGlPTElSTHMzRG9rNFI2cVFfU3F0dEdzYVpreXE2R3pqRUx0bHh4QjJWR2RpRjllcnJ5U1ZuLTR0dnlNUm4zX2FpNndZZ1FVYktXRkVyWUxzel8xZzZ0V2xTNjdobkozZ2ZnWlB2UThvcE1ORk9tcjZfY1JnY1FqY0ZvWE9leW9zYV9LdTVMRVVxSF91SG5ydXpoajVmekVyeUlGNkpZVHpxQjJmUDZxUHFFTWtHTUd3OGJTWGtwaU9Yc2dFdXh6WDRvcTYwTjNKY3kwYmJsTG8?oc=5",
-   "date": "2021-02-07T18:28:49+00:00",
-   "summary": "يتوفر الإصدار الجديد من Manjaro Linux 18.0 بسهولة أكبر في الاستخدام Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "نوفا ، توزيع جنو / لينكس صنع في كوبا",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEU5WnBtb050bjRnemkyMmVleFdIVGdmWXdDNXFjUTVuRW5WUWlPZVRYOUkxcEpPT2xheE1hUnlZQmRPdEc1VXhyU1FMcldhVnJMQm43NzdFcUdOdHd5TllsQ2VjbVhBeXNrWWk1ZE9RUDRqVy1MdkN1ZThWcm15N0tSX0t3Ym1yU1BMcmhaQ1U1MzR4dWdiNUZYRkh6YXJtWXhrRXMtOUxzMnFKQV9OazFkWEFMclpwVzR4Q3VSTmh6SGZlWXc?oc=5",
-   "date": "2021-02-07T14:16:57+00:00",
-   "summary": "نوفا ، توزيع جنو / لينكس صنع في كوبا Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية استخدام WhatsApp على Linux مع Pidgin",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN0VmUGVIcXZDY2RldTF6Ti05cDlmOTNYcEdDREd5N0lUQXFtNGppcHlfQ2Vlckg0VW5yVU1vSHl4Yno3am8xa2w5Qm91anZLVVNhRXF2Z09yM2F0R0FRLVd2bUZZOEtmUTBiLWFuMXluRkhxRlZmUUUzRzNfeHA0YWI5ekhXdHFzX0d6NTlIbk9ZRXFDc3dFOTNCaVk1OU9yaG1UbDZuMXhWQWZsZGRoQzFpaFNPYzNoSXUzU2ZKRFdzWkRXU3Z1ZWZtMlRHUUlIMC1Xam5RS2Q2cGEtRXd5SGV0cklhSnc0?oc=5",
-   "date": "2021-02-06T18:40:49+00:00",
-   "summary": "كيفية استخدام WhatsApp على Linux مع Pidgin Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية تثبيت Linux Mint 14 Nadia خطوة بخطوة",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV2dPaUljcUp3NDM5emdvOGcwNklpc2Vxc1R6Nm9QSExaaklqakpwZVYyQWFxZ254QzJ1UHdsUjl6Sk1TeUdiVHF2cmFHOWZnbUFhdGdsWHA4aXR2WTNBaEswSXlIYU1PTG9mbzVaVUNvQUFSRmhBOGlZU1RaVFc5amZGWUl4R181Ukg2a1V4eW1EcmtLV1BpRm5pSkNHZUhvOGRRa3lZM29WNUdVckc2MjlBa1dMLTJvLW43Z25QbGFfRjJGLUxmaUV3VGJoQnNWZmpCVklfTlNJRVU3VXg2QTlCUEhBbUEzQWVVYkxGRzF1d2ZSLU1JNC04WWdNdw?oc=5",
-   "date": "2021-01-30T03:54:40+00:00",
-   "summary": "كيفية تثبيت Linux Mint 14 Nadia خطوة بخطوة Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "Elive 3.0 توزيعة ممتازة لأجهزة الكمبيوتر القديمة أو منخفضة الموارد",
-   "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOTG5DVDV3eF8wZHB2NjVmcnNSV0VVWG9GNkp1eXI3STh5OHMyVkpXbXZwZkFlRlJmWVJweEEtYmxoMkMxM1VDcHprVFZoRkhOS1duZVY3VVdKRmU2OXBFMWRfU09LMHlNSFd4TjB5RkNsSlBNcDNYQVhTWHlPMEo0MjJ1amRpOTVBcTNzT1NxdFNJQjlTa1RXMGpZaE5rQUg1Vy1nbUc3V04xYmdxdlZsU2JEUmZDWDREbzhEVjhISVhpOVVSYVFCUjVIdERkZTdCbl84dFBYZkVTT3JxUm5jUDEtUk1nYXVTMHIzd3Z3clhxWm5RZGtOTXJ6UDhmNExqZXB3NlZmd0pnbGxIZW9zRUhCczBTM3NPaGdxTjlrbHAxeFFnWHlCZ0ZIdVU5UEhsNmJYOUNWYWhXbzg0OXlpazlGRTEzUkRkV05GcUJZMTYtTEFreDN3T1NkeTJ5alZJZFBGTVBrMTRmYzhUZWxLV21UYjhLaklycmRvRlRvcWt1UW41NVdwcjZPSldiMzA4aHNxcVFRMUZFRElNU3dEN1MtYUFiMEd6XzlTYUtGeklRNnlqRUFwcUh0Q21ZcFhzSXkybXBTYmZLSTQxMi1ib2lTd2Rya0UxSm1EbTBrOEtuQUZrM2c?oc=5",
-   "date": "2021-01-27T16:35:59+00:00",
-   "summary": "Elive 3.0 توزيعة ممتازة لأجهزة الكمبيوتر القديمة أو منخفضة الموارد Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "ماذا تفعل بعد تثبيت Deepin 15.4",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTERzTDlqRTV2Z1dubVM0UFRHN05yTjRaY2lSNjVfX3g3SThhb3R0ekc5RVFwZjR2LVlNWVQ2dVZjcUI0M0gyUy1fdnoxYWhjc2ZoLW5keTk4dnRjT0hxXzlkaVl2MFZrUVg3Sm1lbzkxYTZPTGUtN3J2S0NOekM2d3ZBMG50SUM1U0hSV1B2X1k1MzFKM2dpOQ?oc=5",
-   "date": "2021-01-24T09:24:47+00:00",
-   "summary": "ماذا تفعل بعد تثبيت Deepin 15.4 Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية عمل نسخة احتياطية من PPA في أوبونتو",
-   "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQM0xYVUtmNUdlWkZMYVg0a2R2OEFzMWdxeTh0QXp3TldfaGxyRDdZcGFGd3FVNUpxa0NoTGVOZEZOVHJkMXRFMmlaUHV5LUtBWllxVnFIUFZkOWJKT24tMnFxRDE4aHNoMWhLU1lnbDB2cE8weW80SWZUemwwNkZHd0lYMWZONEM2WXZGM0pZamNOUjdhTXQ0dzFLVXoxNnEzYmVleWo1cDhQNi1ZMFNJNjEzcEFEQzg4bGM2VWpVa3Y3bktocGZvZzVJXzRXelBDZHB3bmhxM3FvNHhHN3VxTHA0VkJGZHVjWXVsQ0dGMW04OUl2UWZoNHBRSUlFRmN4NjlIS2U3dzl4ekF0d0NSQXYzMnJTRlluQ3ZucFpHT0MwQzVGX2VjOFZhejhjS19DOFRMakNVUm1UMXJkMUJnYXM5VW80dnBOMGpYRVdTdklZcHBRN0FqcU9vVklxc3VyS202X21HaFpDbXZ1cDJIRlQ0SXRwUlFBUFByR0pWZGdMR1BfZ2Zz?oc=5",
-   "date": "2021-01-23T13:08:10+00:00",
-   "summary": "كيفية عمل نسخة احتياطية من PPA في أوبونتو Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "Q4OS: توزيع منخفض الموارد يشبه Windows XP",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZmx5RHpvWDdReWdRcUJOV1FXNjdZRmQyZzJobFdha3p6eHJWUThyR3c0TURoV2ZIMlpzUkZoYWZuT1FiUjhwc0tfWmY3OHNyOXplcjdFV1pDWkFQREV0NDNkbUtReDM4MlQxWHlUdUJSQVdyZThybFZwOGtqY0lpaW1mT29qY21nQjkzUENHYTV3RmtlQTZiZ2dUNnpKQXZYME9ZTEJWMmhSUnNQb2hBeWlNNFU1V0RQMFpVT0lfdW1oYThLUE9nb3FoYlBoYWZ3aDhWY1VvczB2YnF0VzhEcWNOYXlKd21UUFMxTHVEbDZORlVxV0NGaUJFMUZqdE1DSTRTWklEamhDZFJlLXdkZWZTMm5MQXdnb1E?oc=5",
-   "date": "2021-01-22T09:42:29+00:00",
-   "summary": "Q4OS: توزيع منخفض الموارد يشبه Windows XP Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "تم إصدار Neptune Linux 5.5 من أجل عشاق هذا التوزيع",
-   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNXzZLb2dzV3pwRG04N0ZZc1lvTUg0R2dvWERrSTZVekdmRmgyekFEcm9teFFaN2libERuRlZmRGxSNTBJNjJhTUtRNlJtTzN4LW5zWkx0S3NLVkQxNGVRVVEzb05ITWtiQXJ6aVA5cDAyNzR4SGVES1ZIVjBYbks1VWRDNkZtMDJXMGJsREFQV0dhSUxsRnZWcWZpV09aSGNKSHozT21RUmI3RUo5SG1WV3lMQVZBVV9YaVBueUJ3UjZjYXcxYjlTUHhaWF9qTktXeWtMd0xKWE9fOTVqd3BrOXBfQzB3WDFIRVRzLXRZN2hOakRGcUYyLUdJVGhSWnFJNks3Ukt3TkxJQ3FITHpEaUFFNkR5ak9jdmZSRHpKZndyWE9sV3RyelhEYi1hZktNMGcxMFVhcw?oc=5",
-   "date": "2021-01-21T08:09:19+00:00",
-   "summary": "تم إصدار Neptune Linux 5.5 من أجل عشاق هذا التوزيع Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية تنزيل iTunes لنظام التشغيل Linux | من لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NOUE4V0gxWFBvcEdwY1Yydjk3RzYxX3h0bU1ENkN1Q0hyYzY4bHNaR1NZVVdlS1VZSFFTbnFDaWpGV3BKSEthQzZhNlZ5VzJkSmZGRGttZHBlX0N6TFE?oc=5",
-   "date": "2021-01-18T04:28:52+00:00",
-   "summary": "كيفية تنزيل iTunes لنظام التشغيل Linux | من لينكس Desde Linux",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "ما هو نظام لينكس Linux أبرز مميزاته وعيوبه واين يستخدم وما هي التوزيعات وجميع التفاصيل",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mUlpITDV4US1VVjZhQmo2VGRyWk1ad09oZjBNeERwOXBWY2p4MVRCcDRTR2FPMmNzRWNROWs5U1RhZGlZZlNCRTAySDRyOWx0dHMyOVF3?oc=5",
-   "date": "2020-11-09T13:00:48+00:00",
-   "summary": "ما هو نظام لينكس Linux أبرز مميزاته وعيوبه واين يستخدم وما هي التوزيعات وجميع التفاصيل YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "لينكس في دقائق: 1- مقدمة و استخدام VIM Editor PART 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RbWF3dFJMVnhQQXg0T2RYWTY0RGJoWDJYNWZfTTAyd1BzVWxMWkd6bGdDa05wNjJzOWxaT0dkR2xXcjloTi1SS3Z3SjRnN25GVzVZWlBR?oc=5",
-   "date": "2020-10-09T06:27:34+00:00",
-   "summary": "لينكس في دقائق: 1- مقدمة و استخدام VIM Editor PART 1 YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس تعليم اوبنتو | 10 | أوامر اللينكس | الاستخدام السريع للتيرمينال",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ncXJVNUJjOVJ3ZXQtWFdFeVBkSmtkOFJlVkQ1Q3ZDeExBNmlBLTFtWW4xTTZaZUY3UzgwLVJLZktVWEZFcHREWVVUSHNKSmxlbno0SFhR?oc=5",
-   "date": "2020-10-04T20:22:35+00:00",
-   "summary": "كورس تعليم اوبنتو | 10 | أوامر اللينكس | الاستخدام السريع للتيرمينال YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس تعليم اوبنتو | 1 | مقدمة عن اللينكس | مقدمة عن نظم التشغيل",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XYVJmVU5sS044NkU4S1R6TWUzRFd4czNhM0lpdGRPLW5JY3RuT01fRFBJanN3OG80eE95RGFCanFSemw2MVhkY1JpZmc1THliZC16ZjFn?oc=5",
-   "date": "2020-10-04T18:52:58+00:00",
-   "summary": "كورس تعليم اوبنتو | 1 | مقدمة عن اللينكس | مقدمة عن نظم التشغيل YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "\" الاتصالات\" تفتتح دورة في إدارة الخوادم بنظام لينكس - وكالة الرأي الفلسطينية -",
-   "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQSkd6dlg5ejlGQktTdno5SmZOYkw0LW5wS0ZSbThIRFl6U1hWNWZDY1lEWTBncGwtR25heEpKTF9LTWRqQnIxNFpwc1BRM25zWGJwcUplRDU1bVRXVXljS0NIYXJrUUw1MmNuMlV1VjdJaGJTSGowamdPemMydDBVczQ1dkhCTW01Y09Vc0pNdlVLQmhXRkQ2Y1Y2Z1cxdXdUbWdwZGRTRDEydHZvZEZwdklwR2tXQndCb3VNMjU2SjdUMmpoQ3gxQmx6S3dnZTltc0tMUUh5a0x1RTMzcDFPeVJCQll4MDNOdDVhS2JDT0EzVTdJcTU1ekhsN1AwaG9hNGE1bmRzaUNNU0FUM0JsMGR3TnQ5aGNTaDU0blVVMUN5RHBaX2FOa0dSdjZacnFFYjN3M3hVS0YxNmRsV3lpRi1XNDN6enhXNWp4M01pUktZRGRkajdCSzVBUV9RSmlNeXVRNnVlYTB3Z3ZiR2V0N09vUm5QaWtWWV9TdEZiMlNMMFIwTmZ1UGMtZl9yRU93czJ0U1JRYzBxRzhiaWZ2Yg?oc=5",
-   "date": "2020-08-18T16:53:58+00:00",
-   "summary": "\" الاتصالات\" تفتتح دورة في إدارة الخوادم بنظام لينكس وكالة الرأي الفلسطينية -",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
-  },
-  {
-   "title": "صدور CentOS Linux 8 وإطلاق مشروع CentOS Streams",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvMlhHWWx3NWoxX3QwSDI4aWhqUUdtZ3hhaGNDUmlnZjI3VEZMWmtJTXZ2Yy1YWEJFdlAtOHJxS1g0Zw?oc=5",
-   "date": "2019-09-25T07:00:00+00:00",
-   "summary": "صدور CentOS Linux 8 وإطلاق مشروع CentOS Streams وادي التقنية",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "وادي التقنية",
-   "lang": "ar"
-  },
-  {
-   "title": "توزيعة دبيان و مشتقاتها",
-   "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9KS1pfalB6VHdDb1NISUZtZkNGN2dRZVdrbkUtVC0tZFhtMGFneWVUMWNVRi04Z2hfcEY4QmZ3?oc=5",
-   "date": "2017-12-04T08:16:11+00:00",
-   "summary": "توزيعة دبيان و مشتقاتها وادي التقنية",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "وادي التقنية",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح ثبيت افضل برنامج تصوير شاشة الحاسوب علي نظام الكالي لينكس - Install vokoscreen on Linux",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OX25sQVJGdFVDb3pGOXRWM0JmSzh5NnpYQ3p1R0VTZDlYdk5qWE5FSDNvMUdlZXBVMkV6aUZkU0d5WGRaRTNMX1lIS3hGLWlMRTZfQWJ3?oc=5",
-   "date": "2017-07-11T09:49:10+00:00",
-   "summary": "شرح ثبيت افضل برنامج تصوير شاشة الحاسوب علي نظام الكالي لينكس - Install vokoscreen on Linux YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "ح 43/ شرح تحميل وتثبيت متصفح ابرا ميني علي نظام لينكس بالطريقة الصحيحة - Opera Mini in Kali Linux",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwUU5iVi1NdFJSbUVwMFNBQVllNXZhcWFDcHczbjJYVTl4aGcxem43cTA5aC1zc2NrZFViMUc1MWI0S3J0UUpGaEI2anExdENRc0RtVk9R?oc=5",
-   "date": "2017-07-01T16:07:15+00:00",
-   "summary": "ح 43/ شرح تحميل وتثبيت متصفح ابرا ميني علي نظام لينكس بالطريقة الصحيحة - Opera Mini in Kali Linux YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح كيفية حذف نظام لينكس - linux المثبت بجانب الويندوز بالطريقة الصحيحة - Delete Linux system",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DUkJWQjd0YUt1MzFXS3RfZTNmUTdoZHJaYVZXektOTld3SEwwNEpMdkJhcmwyUlRBS1V4X21QYVpWS3NjdzlhV0FaVldzS0ZqVmFtcndR?oc=5",
-   "date": "2017-06-17T19:32:31+00:00",
-   "summary": "شرح كيفية حذف نظام لينكس - linux المثبت بجانب الويندوز بالطريقة الصحيحة - Delete Linux system YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "ما هي أفضل توزيعة لينكس للأختراق هل كالي أو باروت أو باك بوكس وماذا أختار منهم؟",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aRFdaRXRHeDhhYlZQZFh5dHFGTXZSbk5MRUZvdHNEME9rTDlCUkJNNFdRSHZhUWpTZ1VJSkhFX2F1RWQweEYzcG1zOFpqX3dOTmlKT3Vn?oc=5",
-   "date": "2017-03-03T17:36:32+00:00",
-   "summary": "ما هي أفضل توزيعة لينكس للأختراق هل كالي أو باروت أو باك بوكس وماذا أختار منهم؟ YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "وزارة الاتصالات تفتتح دورة في إدارة الخوادم بنظام لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPcmVyVzYtU3FDVlEyVmZhSUZpNG8tRlpjdVFDclpKNEVodnFBbGFfb2tKcGpZZHFjbGxwa2lCUVpRUlREOHRkb2ZlSU5FRlJGTE41TG40SWV6NHphYVF3YW53Y2RDeDhOYzI2ZnhtREY1ZW5Pb2dGbzNObTRJdkdBQnNQVjdZZVdkYVVla1dCd2JQQkNTTTltLWJOVmJHakpSZUtKV25vdVdvSFVsWlZ6cFZ0dm8xLXFiQV9WNnhGbS0xYWcxcU02V1VEMlh0T0ExRG9LZEVIZ1FsZ3hJeUh2b2lDZHJIZGFVNzRFb3NqOWQzaGlEanFMZE8tcDBkdmo4VHVxb2t2UU9memsxdkdGUzgzNEFFbzlkSnhDYW9TZHFDbndBQlRTTFpQUFdacFZPQ3d2c1FmWHM5Z1QxdmpFdGVhN0hXbVlrRjRYVVRBemZpaEY3ZktrRHc4T3dzeTF1dWtkQmFTaXMxbFRBZ3FFZThxQVdwelFEWTdmUndOY3R3WlNRVElneDlsRmk5dGlTUDZfT3ZnSVVIRnBxYzVwcjlGb1dJTElMTGFHSlVmbXlMTmgyWm5BclVwMWF2d0k2MDk2eUVwRHU?oc=5",
-   "date": "2016-11-09T08:00:00+00:00",
-   "summary": "وزارة الاتصالات تفتتح دورة في إدارة الخوادم بنظام لينكس palsawa.com",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "palsawa.com",
-   "lang": "ar"
-  },
-  {
-   "title": "صدور لينكس منت ١٨",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE82NXRlWUdUYldkNHB6elhEaFJjMWI2TTM4Zk1Fd3dteElGczB0dTU0dURYN0VObFpOMVpwNzMzNlN6Zw?oc=5",
-   "date": "2016-06-30T07:00:00+00:00",
-   "summary": "صدور لينكس منت ١٨ وادي التقنية",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "وادي التقنية",
-   "lang": "ar"
-  },
-  {
-   "title": "خمسة مشاكل وأشياء مُزعجة ستبعدك عن نظام لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93dHhOX1BkMGxOYmJlTnRWUTJpQ1VQYjVJMTRySHgxR3VVc0dqLTV0cjl4TXF2a2pRTzFlVnBRdzVSSW5aQXhtOWpXR1I3My1UZHZsUkZ4V0JaYTlFQ3Fj?oc=5",
-   "date": "2016-06-21T07:00:00+00:00",
-   "summary": "خمسة مشاكل وأشياء مُزعجة ستبعدك عن نظام لينكس Arageek",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "Arageek",
-   "lang": "ar"
-  },
-  {
-   "title": "جامعة النجاح الوطنية - كلية هشام حجاوي تخرّج مجموعة من طلبة دورة Linux Professional Institute الأولى من نوعها",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLXFiQ0F1aGxVeFRwdl9WWFFkaTlTV3FPT2g2TUl0WFg4OFNCVU94UjJkZjJ5b2JYLTFiU192cHJ6R1ZpVEFyR3hhdHBLNEgycnlQYmtYSFJncEtlUVJWNDJqbVNuMll0SFgtaERrbERGYjd5MXZFVkJERTZZZ05KR3RkWUNXUzRwemNES00tZDRzRVJqeFBSWW5IUXc3SzFNWF9xdDhSTFVVbTB6MXFlXzBWbE9LUzRBcm5mRmVSNUdQT2RmZmpQaC1KSEc5RGtCbTR0NXhB?oc=5",
-   "date": "2016-04-11T07:00:00+00:00",
-   "summary": "جامعة النجاح الوطنية - كلية هشام حجاوي تخرّج مجموعة من طلبة دورة Linux Professional Institute الأولى من نوعها najah.edu",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "najah.edu",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة الكالي لينكس الدرس 1 : تنصيب الكالي لينكس نسخة 2.0 على Virtual Box",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yMmtuTGM4TThXRS1ORmRvYmtUYTVaZ3dmQjZOcGk1UGZfYWFEcTVPVzBRbUg2a2VRb3JvVmV3R1NnUQ?oc=5",
-   "date": "2015-09-11T07:00:00+00:00",
-   "summary": "دورة الكالي لينكس الدرس 1 : تنصيب الكالي لينكس نسخة 2.0 على Virtual Box YouTube",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعليم شرق خان يونس يفتتح دورة ورد لينكس\"\" word links",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HY0pCU3h0bnJMY1RXTXdVQVIzWXlDejV5eS1jeTdpa3phdDVLOUd4aFZXZlRFMVVkUzN4WWNOTF9XVm5QMnNkNXpObkFZQ3J1aGdSbzJHdmVUYmxuOEpOOXBIaks5eXJIUVVpS0hEVUw?oc=5",
-   "date": "2015-03-17T07:00:00+00:00",
-   "summary": "تعليم شرق خان يونس يفتتح دورة ورد لينكس\"\" word links alwatanvoice.com",
-   "tech": "linux",
-   "sourceId": "ar-news",
-   "source": "alwatanvoice.com",
    "lang": "ar"
   }
  ]

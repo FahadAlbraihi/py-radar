@@ -1,74 +1,8 @@
 {
- "generated": "2026-08-14T20:06:56.568452+00:00",
+ "generated": "2026-08-14T20:43:57.535815+00:00",
  "tech": "bash",
- "count": 146,
+ "count": 100,
  "items": [
-  {
-   "title": "dockur/windows",
-   "url": "https://github.com/dockur/windows",
-   "date": "2026-08-14T19:51:52+00:00",
-   "summary": "Windows inside a Docker container.",
-   "points": 52866,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "community-scripts/ProxmoxVE",
-   "url": "https://github.com/community-scripts/ProxmoxVE",
-   "date": "2026-08-14T17:15:29+00:00",
-   "summary": "Proxmox VE Helper-Scripts (Community Edition) ",
-   "points": 29269,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "basecamp/omarchy",
-   "url": "https://github.com/basecamp/omarchy",
-   "date": "2026-08-14T16:29:08+00:00",
-   "summary": "Beautiful, Modern & Opinionated Linux",
-   "points": 24721,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Building a Linux Admin Practice Lab with Termux + Arch Linux",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vob7kt/building_a_linux_admin_practice_lab_with_termux/",
-   "date": "2026-08-14T15:58:43+00:00",
-   "summary": "&#x200B; Hi everyone I’m currently learning Linux administration and I wanted to build a small home lab instead of only practicing commands theoretically. My current setup is: Android Phone → Termux → SSH → Arch Linux Laptop The idea is to ",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "mdadm renaming issue",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1voav80/mdadm_renaming_issue/",
-   "date": "2026-08-14T15:45:48+00:00",
-   "summary": "hello i recently had to rebuild my ubuntu box and afterwards i wanted to connect my raid 5 storage back to my machine. I reinstalled mdadm and I could see all my files with no issues. I was about to reconnect some shares and realized that t",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "Learn to secure your NGINX - Damn Vulnerable NGINX Proxy",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vo4dmz/learn_to_secure_your_nginx_damn_vulnerable_nginx/",
-   "date": "2026-08-14T11:15:01+00:00",
-   "summary": "Hello all, If you do bug bounty hunting or pentests you surely came across many hosts served from an NGINX server, in this lab (published to OWASP) I combined over 20 misconfigurations found in real world bug disclosures and both classic an",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
   {
    "title": "The One Flag That Makes a Linux Search Show You Where, Not Just What",
    "url": "https://medium.com/my-lifes-mirrow/the-one-flag-that-makes-a-linux-search-show-you-where-not-just-what-8fe3c4fc30c1?source=rss------bash-5",
@@ -80,18 +14,6 @@
    "lang": "en"
   },
   {
-   "title": "a2aproject/A2A",
-   "url": "https://github.com/a2aproject/A2A",
-   "date": "2026-08-14T07:45:26+00:00",
-   "summary": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
-   "points": 25346,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "# I Built a Linux System-Intelligence Tool Using Bash, C and C#",
    "url": "https://dev.to/yathartsalil/-i-built-a-linux-system-intelligence-tool-using-bash-c-and-c-bl1",
    "date": "2026-08-14T07:40:58+00:00",
@@ -101,70 +23,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Quick Linux Tip #44 Question: My connections feel unreliable. How do I check for hidden packet loss?",
-   "url": "https://www.reddit.com/r/bash/comments/1vo09gx/quick_linux_tip_44_question_my_connections_feel/",
-   "date": "2026-08-14T07:15:27+00:00",
-   "summary": "submitted by /u/LinuxBook [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "CVE-2026-63077: JetBrains TeamCity unauth RCE via agent polling protocol — technical breakdown",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vnx8kq/cve202663077_jetbrains_teamcity_unauth_rce_via/",
-   "date": "2026-08-14T04:28:24+00:00",
-   "summary": "Based on the technical breakdown JetBrains and Rapid7 published this month, here s the architectural impact: TeamCity s XStreamHolder builds its deserialization allowlist by calling allowTypes() without first calling NoTypePermission.NONE ,",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "acmesh-official/acme.sh",
-   "url": "https://github.com/acmesh-official/acme.sh",
-   "date": "2026-08-14T04:15:21+00:00",
-   "summary": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
-   "points": 47473,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Can you beat Network Doctor at diagnosing a broken network?",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vnriex/can_you_beat_network_doctor_at_diagnosing_a/",
-   "date": "2026-08-13T23:57:50+00:00",
-   "summary": "I ve been working on an open-source network diagnostic tool called Network Doctor, and I recently built a challenge mode to test whether its diagnoses actually hold up against a human troubleshooting the same broken network. The idea is pre",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Admins is RHCSA/RHCE still worth it in 2026?",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vnocdu/linux_admins_is_rhcsarhce_still_worth_it_in_2026/",
-   "date": "2026-08-13T21:45:26+00:00",
-   "summary": "submitted by /u/Radiant_Abalone6009 [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "dokku/dokku",
-   "url": "https://github.com/dokku/dokku",
-   "date": "2026-08-13T19:09:35+00:00",
-   "summary": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
-   "points": 32106,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine",
@@ -187,38 +45,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Run a company of AI agents in pure Bash",
-   "url": "https://www.reddit.com/r/bash/comments/1vnd5a8/run_a_company_of_ai_agents_in_pure_bash/",
-   "date": "2026-08-13T15:00:04+00:00",
-   "summary": "I open-sourced 5dive , a CLI for running a company of AI agents on a Linux box you own. ~96% bash. Processing img t3zm9rzio5jh1... GitHub: https://github.com/5dive-ai/5dive (MIT) Each agent gets its own Linux user and runs an official CLI l",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "Quick Linux Tip #43 Question: How do I extract config values from between BEGIN and END markers?",
-   "url": "https://www.reddit.com/r/bash/comments/1vncqzw/quick_linux_tip_43_question_how_do_i_extract/",
-   "date": "2026-08-13T14:45:56+00:00",
-   "summary": "submitted by /u/LinuxBook [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "pyenv/pyenv",
-   "url": "https://github.com/pyenv/pyenv",
-   "date": "2026-08-13T12:10:29+00:00",
-   "summary": "Simple Python version management",
-   "points": 45014,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "ChatGPT Desktop for Linux: A new way to interact!",
@@ -264,18 +90,6 @@
    "lang": "en"
   },
   {
-   "title": "mattpocock/skills",
-   "url": "https://github.com/mattpocock/skills",
-   "date": "2026-08-13T09:06:37+00:00",
-   "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-   "points": 217451,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Terminal Productivity Tips That Actually Save Time",
    "url": "https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa",
    "date": "2026-08-13T08:00:17+00:00",
@@ -285,38 +99,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "GitHub - jonaslejon/linux-security-audit-plugin: Claude Code plugin: audits Linux hardening posture and produces a risk-ranked report. 450+ checks",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vn4a49/github_jonaslejonlinuxsecurityauditplugin_claude/",
-   "date": "2026-08-13T07:53:40+00:00",
-   "summary": "submitted by /u/jonas02 [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "ClusterSizer",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vn43yo/clustersizer/",
-   "date": "2026-08-13T07:43:23+00:00",
-   "summary": "Hi guys, I ve made a little utility in Python that could help my fellow sysadmin (in)mates in they work. It simply does what we re doing in Excel or brains, but with some added features: it does sizing HW for a servers - cluster, tracking l",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "lxgw/LxgwWenKai",
-   "url": "https://github.com/lxgw/LxgwWenKai",
-   "date": "2026-08-13T07:42:01+00:00",
-   "summary": "An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  ",
-   "points": 25499,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "My Linux Journey",
@@ -385,16 +167,6 @@
    "lang": "en"
   },
   {
-   "title": "Rsync's new release fixes a whopping 33 bugs!!",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vn0bz3/rsyncs_new_release_fixes_a_whopping_33_bugs/",
-   "date": "2026-08-13T04:13:52+00:00",
-   "summary": "submitted by /u/unixbhaskar [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
    "title": "Homelab barato en Japón (y cómo instalarlo) 2026",
    "url": "https://dev.to/kilydev/homelab-barato-en-japon-2026-1pb9",
    "date": "2026-08-13T01:33:50+00:00",
@@ -403,38 +175,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "obra/superpowers",
-   "url": "https://github.com/obra/superpowers",
-   "date": "2026-08-13T00:36:31+00:00",
-   "summary": "An agentic skills framework & software development methodology that works.",
-   "points": 272141,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "18 years old and trying to get into IT in Germany what should I do next?",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vmtdi2/18_years_old_and_trying_to_get_into_it_in_germany/",
-   "date": "2026-08-12T22:55:07+00:00",
-   "summary": "Hi everyone! Im 18 and Im trying to get into Linux / DevOps / Cloud / Infrastructure Ive been learning IT on my own for quite some time. Ive already built and maintained multiple homelabs using different hardware, including Raspberry Pis, m",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "Run commands in parallel",
-   "url": "https://www.reddit.com/r/bash/comments/1vmnuty/run_commands_in_parallel/",
-   "date": "2026-08-12T19:20:46+00:00",
-   "summary": "I have a script that collects a list of directories that match a set of criteria and then goes into each one and runs a command. So something like this: #!/bin/bash startDir= $(realpath $1 ) cd $startDir || exit while IFS= read -r -d dir; d",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -449,16 +189,6 @@
    "lang": "en"
   },
   {
-   "title": "Best Practices for Scripting (Linux only)",
-   "url": "https://www.reddit.com/r/bash/comments/1vmkb5m/best_practices_for_scripting_linux_only/",
-   "date": "2026-08-12T17:13:50+00:00",
-   "summary": "submitted by /u/Unlikely_Zone_2589 [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "8 Linux Myths Even Senior Engineers Still Fall For (And How They Hurt Production)",
    "url": "https://dev.to/asepsayyad007/8-linux-myths-even-senior-engineers-still-fall-for-and-how-they-hurt-production-1o01",
    "date": "2026-08-12T16:39:23+00:00",
@@ -470,16 +200,6 @@
    "lang": "en"
   },
   {
-   "title": "Rate my .bashrc",
-   "url": "https://www.reddit.com/r/bash/comments/1vmi8uo/rate_my_bashrc/",
-   "date": "2026-08-12T16:01:10+00:00",
-   "summary": "Hello, did a bit of Bash customization and came up with this. ~/.bashrc | Pastebin starship.toml | Pastebin I m open to critics and it s my first time. 😃 submitted by /u/Weydoon [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
    "title": "How to Actually Read Linux Logs When Something's Broken",
    "url": "https://dev.to/alex_mitu_e264ef6e0d71197/how-to-actually-read-linux-logs-when-somethings-broken-2mhb",
    "date": "2026-08-12T14:51:08+00:00",
@@ -488,60 +208,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "VoltAgent/awesome-claude-code-subagents",
-   "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-   "date": "2026-08-12T13:34:46+00:00",
-   "summary": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-   "points": 24298,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Linux everywhere (even in my vacation)",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vmdsld/linux_everywhere_even_in_my_vacation/",
-   "date": "2026-08-12T13:13:04+00:00",
-   "summary": "Even in my vacation Im reading linux kernel logs :/ xD submitted by /u/Rafikbz [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "VSCodium/vscodium",
-   "url": "https://github.com/VSCodium/vscodium",
-   "date": "2026-08-12T12:43:33+00:00",
-   "summary": "binary releases of VS Code without MS branding/telemetry/licensing",
-   "points": 32819,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "local -n can modify variables from other functions",
-   "url": "https://www.reddit.com/r/bash/comments/1vmbck1/local_n_can_modify_variables_from_other_functions/",
-   "date": "2026-08-12T11:22:07+00:00",
-   "summary": "In Bash, normal local variables are usually fine. But with local -n (namerefs) I noticed they can sometimes change variables from outer/previous functions because of how scoping works. To avoid problems I started giving local variables uniq",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "How do you get alerted when a cron job simply stops running?",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vm8urj/how_do_you_get_alerted_when_a_cron_job_simply/",
-   "date": "2026-08-12T09:06:12+00:00",
-   "summary": "submitted by /u/georgi_tsenov [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
    "lang": "en"
   },
   {
@@ -564,46 +230,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "RovoBlast: Atlassian Rovo AI assistant hijacked via a single URL parameter (Varonis Threat Labs, DEF CON 34)",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vm56v9/rovoblast_atlassian_rovo_ai_assistant_hijacked/",
-   "date": "2026-08-12T05:31:52+00:00",
-   "summary": "Based on the technical breakdown Varonis Threat Labs published August 7 (following a DEF CON 34 talk), here s the architectural impact: Rovo, Atlassian s AI teammate across Jira/Confluence/Bitbucket plus 50+ SaaS connectors, exposes a rovoC",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "Devops small job / tasks / gigs",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vlwo7e/devops_small_job_tasks_gigs/",
-   "date": "2026-08-11T22:50:13+00:00",
-   "summary": "Hey guys, i hope you re all doing great! i wanted to ask if anyone has a small task or gig related to a devops project or Sys administration that you’d like me to work on, even if it’s unpaid , I’m looking to gain more experience and knowle",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "NetWatch v0.29.0 — a new \"dense\" view: your whole network on one screen",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vlvg3z/netwatch_v0290_a_new_dense_view_your_whole/",
-   "date": "2026-08-11T22:00:59+00:00",
-   "summary": "NetWatch is a terminal network monitor in Rust. v0.29.0 adds a third view for when you have a big terminal. Dense view — netwatch --view dense Four boxes filling the terminal. No header bar, no menu bar, no status bar — identity, sort state",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "Wrapping search in less",
-   "url": "https://www.reddit.com/r/bash/comments/1vlpmyz/wrapping_search_in_less/",
-   "date": "2026-08-11T18:25:52+00:00",
-   "summary": "I put / forw-search ^W in lesskey config to make search to wrap at the end of file when I use / to start a search. How can I make n wrap when I resume the last search when I open less ? I tried adding n repeat-search ^W but it doesn t make ",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
    "lang": "en"
   },
   {
@@ -637,16 +263,6 @@
    "lang": "en"
   },
   {
-   "title": "WARNING: .desktop files pose high risk attack surface for agents",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vljah1/warning_desktop_files_pose_high_risk_attack/",
-   "date": "2026-08-11T14:38:26+00:00",
-   "summary": "submitted by /u/muayyadalsadi [link] [التعليقات]",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
    "title": "# Why I Used Bash, C and C# to Build One Linux Tool",
    "url": "https://dev.to/yathartsalil/-why-i-used-bash-c-and-c-to-build-one-linux-tool-9pa",
    "date": "2026-08-11T11:46:13+00:00",
@@ -655,69 +271,6 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ohmyzsh/ohmyzsh",
-   "url": "https://github.com/ohmyzsh/ohmyzsh",
-   "date": "2026-08-11T11:03:43+00:00",
-   "summary": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-   "points": 189182,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Immediate variable substitution in bash function definition",
-   "url": "https://stackoverflow.com/questions/79992197/immediate-variable-substitution-in-bash-function-definition",
-   "date": "2026-08-11T10:11:04+00:00",
-   "summary": "bash، sh",
-   "points": 5,
-   "tech": "bash",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "CVE-2026-9198 — Langflow auto_login + validate/code chain = unauthenticated RCE (CISA KEV, Aug 4)",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vl6ofz/cve20269198_langflow_auto_login_validatecode/",
-   "date": "2026-08-11T03:53:34+00:00",
-   "summary": "Based on the technical breakdown published by SentinelOne s vulnerability database and IBM s own support advisory, here s the architectural impact of CVE-2026-9198. **The chain:** `GET /api/v1/auto_login` — mints a SUPERUSER JWT to any netw",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "Multitask version of bash",
-   "url": "https://www.reddit.com/r/bash/comments/1vl6bb1/multitask_version_of_bash/",
-   "date": "2026-08-11T03:35:02+00:00",
-   "summary": "I adapted the bash shell 5.3 to more easily handle tasking. Each command has its output gathered into lines and each line is tagged and send to the output with a preamble. The bash input stays on the command line and you can type command li",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "I don't know what this means",
-   "url": "https://www.reddit.com/r/bash/comments/1vl4i7y/i_dont_know_what_this_means/",
-   "date": "2026-08-11T02:08:38+00:00",
-   "summary": "This is from a script that sends the output of an nmap scan to some files. But I can t figure out what \\| does. Please help RESULT=$(nmap -iL $(HOSTS) --open | grep Nmap scan report\\|tcp open ) What confuses me is that after running nmap, \\",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "Need help with remote access for Jellyfin and Navidrome through WireGuard",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vl36cf/need_help_with_remote_access_for_jellyfin_and/",
-   "date": "2026-08-11T01:07:59+00:00",
-   "summary": "TLDR : I want a private server for Jellyfin and Navidrome to be reachable remotely through WireGuard, with geoblocking and brute-force attack prevention. WireGuard is already largely configured with wg-easy as well as Jellyfin and Navidrome",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
    "lang": "en"
   },
   {
@@ -730,50 +283,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Another Bash Prompt Generator...but better!",
-   "url": "https://www.reddit.com/r/bash/comments/1vkuids/another_bash_prompt_generatorbut_better/",
-   "date": "2026-08-10T19:20:49+00:00",
-   "summary": "I just released v1.0.0 of Promptr. I know there are many other prompt generators and customizers. What sets Promptr apart from them is: It s eye candy. It doesn t look like something straight out of 1995 Users can authenticate with their Go",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/bash",
-   "lang": "en"
-  },
-  {
-   "title": "tw93/Mole",
-   "url": "https://github.com/tw93/Mole",
-   "date": "2026-08-10T18:18:10+00:00",
-   "summary": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
-   "points": 63511,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "How much do you actually trust unattended upgrades in production?",
-   "url": "https://www.reddit.com/r/linuxadmin/comments/1vksm1f/how_much_do_you_actually_trust_unattended/",
-   "date": "2026-08-10T18:12:00+00:00",
-   "summary": "I’ve always been fairly conservative with automatic updates on production boxes. Patching is one thing, but I still prefer knowing exactly what changed, especially when an update can quietly restart something or introduce behaviour you only",
-   "tech": "bash",
-   "sourceId": "reddit",
-   "source": "r/linuxadmin",
-   "lang": "en"
-  },
-  {
-   "title": "mbadolato/iTerm2-Color-Schemes",
-   "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
-   "date": "2026-08-10T15:22:30+00:00",
-   "summary": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
-   "points": 27134,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Your AI Coding Assistant Writes Shell Commands. Do You Actually Test Them Before They Run?",
@@ -798,54 +307,6 @@
    "lang": "en"
   },
   {
-   "title": "OthmanAdi/planning-with-files",
-   "url": "https://github.com/OthmanAdi/planning-with-files",
-   "date": "2026-08-09T09:20:09+00:00",
-   "summary": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
-   "points": 26167,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "hwdsl2/setup-ipsec-vpn",
-   "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
-   "date": "2026-08-08T20:11:20+00:00",
-   "summary": "Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and management scripts.",
-   "points": 28335,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "gpakosz/.tmux",
-   "url": "https://github.com/gpakosz/.tmux",
-   "date": "2026-08-08T15:52:45+00:00",
-   "summary": "Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍",
-   "points": 25295,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "zsh-users/zsh-syntax-highlighting",
-   "url": "https://github.com/zsh-users/zsh-syntax-highlighting",
-   "date": "2026-08-07T19:11:51+00:00",
-   "summary": "Fish shell like syntax highlighting for Zsh.",
-   "points": 22921,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "useful-bash-functions",
    "url": "https://dev.to/mike_e677ba7447/useful-bash-functions-5ajn",
    "date": "2026-08-07T17:17:51+00:00",
@@ -868,42 +329,6 @@
    "lang": "en"
   },
   {
-   "title": "msitarzewski/agency-agents",
-   "url": "https://github.com/msitarzewski/agency-agents",
-   "date": "2026-08-06T13:29:47+00:00",
-   "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-   "points": 145476,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "inkonchain/node",
-   "url": "https://github.com/inkonchain/node",
-   "date": "2026-08-05T18:22:59+00:00",
-   "summary": "How to run an Ink Node",
-   "points": 36482,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "yuaotian/go-cursor-help",
-   "url": "https://github.com/yuaotian/go-cursor-help",
-   "date": "2026-08-05T16:58:36+00:00",
-   "summary": "解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.",
-   "points": 26237,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Automating Java Servlet Deployments with Gradle and Bash",
    "url": "https://dev.to/yogeth-dev/automating-java-servlet-deployments-with-gradle-and-bash-3kjd",
    "date": "2026-08-05T07:55:47+00:00",
@@ -913,18 +338,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "pi-hole/pi-hole",
-   "url": "https://github.com/pi-hole/pi-hole",
-   "date": "2026-08-04T11:14:35+00:00",
-   "summary": "A black hole for Internet advertisements",
-   "points": 60365,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "How to Let gzip Find the Signal in a Pile of Documents",
@@ -938,18 +351,6 @@
    "lang": "en"
   },
   {
-   "title": "mack-a/v2ray-agent",
-   "url": "https://github.com/mack-a/v2ray-agent",
-   "date": "2026-08-03T14:56:07+00:00",
-   "summary": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
-   "points": 21687,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "git log tricks you really should know",
    "url": "https://dev.to/pikotutorial/git-log-tricks-you-really-should-know-30gp",
    "date": "2026-08-03T05:00:00+00:00",
@@ -959,18 +360,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "youngyangyang04/leetcode-master",
-   "url": "https://github.com/youngyangyang04/leetcode-master",
-   "date": "2026-08-03T02:57:08+00:00",
-   "summary": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 ",
-   "points": 62172,
-   "tech": "bash",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Your cron job did not fail. It never ran.",
@@ -1025,6 +414,16 @@
    "lang": "en"
   },
   {
+   "title": "[ಕನ್ನಡ] Linux Full Course with Shell Scripting 2026 | Linux Tutorial in One-Shot | Microdegree",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzhMdnlHdEIyWkdsS1VpYWxBNjZaTmtqRUFZYkFUcUJFYk1oVWFVejBkTTNXNEFub1ZLV0Z3VVRsSGE1ang4YlYtRTFnMTdqcC1CdGln?oc=5",
+   "date": "2026-03-11T12:30:28+00:00",
+   "summary": "[ಕನ್ನಡ] Linux Full Course with Shell Scripting 2026 | Linux Tutorial in One-Shot | Microdegree YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Shell Scripting Full Course 2026 [FREE] | Shell Scripting Tutorial For Beginners | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUld0aDB3MG54N1lzNnpJUkFDcGJHQmVvZnIycnpVbGRGb2pqYzg2dGxvRnl6YzJnSEQxZWk0WUVORHN6dlNmWDdHZ3FhbkdmbWY2bWZ3?oc=5",
    "date": "2026-02-13T15:30:39+00:00",
@@ -1055,6 +454,26 @@
    "lang": "en"
   },
   {
+   "title": "How to use Bash - w3schools.com tutorial - January 2026 - 6ac1914e",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUXhUeG9WSGlIeTI0SmdSZ0E2Y01jY2tsU0lZZ2ZTT3k3NXF4ZUFVejBoSG83SVJPdmhGZ0N4d3ZlZkFBa1FPZU5FeEx6VlhVQVYtYVV3?oc=5",
+   "date": "2026-01-03T14:01:26+00:00",
+   "summary": "How to use Bash - w3schools.com tutorial - January 2026 - 6ac1914e YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Terminal Crash Course - For Absolute Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kbmFDbnIxQkxGNFliak1UUXlmVjhiUk55eURNOHhTck1sYlFCZHVWR1ZDaTAzRGNzYVJlVV82cWljeU16NmtVR3JCbU50cU1aQ2dCTWhn?oc=5",
+   "date": "2025-12-22T17:01:24+00:00",
+   "summary": "Linux Terminal Crash Course - For Absolute Beginners YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UaDAyaXNrSHAwWDVvMi1tQ0dla0VMNjNXLVdXTDQ3eVFoRlduNjZBQ2VsZHhES21IeWVVZUxDZ0UyOGl0SlFmWG05YVpFTGlBVXdYbjNB?oc=5",
    "date": "2025-12-15T17:00:06+00:00",
@@ -1069,6 +488,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVUXRicE82d2hDbnNFckx0Wk5YRjBTOENCUGxKMjkwNUdmYVVJTjZnd2R5UWNMWDNxd2lIa3hsUE16aVQ5TFlkbmVTQ0FsN3B1a3UxSG9n?oc=5",
    "date": "2025-11-13T21:55:28+00:00",
    "summary": "Introduction to Terminal and Shell Scripting YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "ARC Fall Training Series - Introduction to Bash Command Line Interface",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTUlWSGVzNnY3NThyMm9Fck9IZkdJVUN2ekNDenE4OFQ2RktjUVczMVpidW9uNG9LaFdxT2pnc1NpZmlLN2hLcEZxUjJzZ2FQemg3ZEtR?oc=5",
+   "date": "2025-11-06T21:58:16+00:00",
+   "summary": "ARC Fall Training Series - Introduction to Bash Command Line Interface YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1245,6 +674,16 @@
    "lang": "ar"
   },
   {
+   "title": "Shell Scripting for Absolute Beginners | Learn in 3 hours | Start from Zero",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiX0QzOHRVczVmb3V3WjZtQ1JoZWRwMUUyYnVDWmZXV0tpY0hZNktuSjM3T3FqY3FIeWJfU0h5bEV5WkFUVlJHa0NPcVVfUzRzTE1xM2t3?oc=5",
+   "date": "2024-08-03T05:25:16+00:00",
+   "summary": "Shell Scripting for Absolute Beginners | Learn in 3 hours | Start from Zero YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "From Zero To Hero With Bash Scripting ('While' Loops and 'If' Statements)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mcnFBSEJlUmIwRmVsckN3NndPMDVQc0MzWmtWMEpZTFppek5UWGRUNXdUdjJQbE42QVJVSzZMOWhlWThoSkllVW1mQkVEVnE0d1h3cmlR?oc=5",
    "date": "2024-07-31T12:36:17+00:00",
@@ -1315,6 +754,26 @@
    "lang": "en"
   },
   {
+   "title": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcnBzci1nTkFoNTR3eGxDd3F1RHlGV1h2WC1LenhVS3ljRVhrTDJuX2IzY3RJaWdRdmZ4ZEpFZERwNHRGYzJsT3AxQkFKc3V2Vmg0bzRn?oc=5",
+   "date": "2024-01-24T08:31:18+00:00",
+   "summary": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Bash Course for Complete Beginners (sysadmin — terminal basics)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sWWpoODhEdjYyR01ZbEpabkJJazNuVXJNbDBUSFJEOTkxNWQwbzdLZXV1YkJnT292bmdxU2NOelBqWm96ZjhENy1MVkZwVFlDYWxaUWdR?oc=5",
+   "date": "2023-12-30T19:34:50+00:00",
+   "summary": "Bash Course for Complete Beginners (sysadmin — terminal basics) YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "أوامر اللينكس (6) (chown chgrp chmod)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aa3dCRVJ6S0ZZT0Iwc1NOdW1MNUhGT1NJaWhUbEd3QjIwZWRrZXhBRzRUQmliTVhsOW5vTTJFMmtRdVhsMEF0clk1TGhJcExwdlphVW53?oc=5",
    "date": "2023-12-12T13:54:06+00:00",
@@ -1325,20 +784,20 @@
    "lang": "ar"
   },
   {
+   "title": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbXdJbnVuZm5HcGpybEF2MjZFOGF0cnBXTFY3MDZZbHdubkdFS0VXSnFfX2RLb0V6X1NFYzRJSHQ5RFJxWWpVM2JvZklQdTJaV0NkekdR?oc=5",
+   "date": "2023-11-02T15:33:53+00:00",
+   "summary": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "How To Write Functions in Bash Script",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EaEItSWNUeEhGaDhBN3JRSldEclUySGl0X2w2aFlBNFNVVTY4R1VYTXpWRXExWV96YXQ4ZHBORURVMGNpaXd3VzBaaXVXQ2hTRzRmMWlR?oc=5",
    "date": "2023-10-20T17:31:44+00:00",
    "summary": "How To Write Functions in Bash Script YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Day-1 | Introduction to Python | Shell Scripting vs Python | Install and Run | #abhishekveeramalla",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1XzhIRWFaY2Yzamx0SU5Hckk3eTR0QWlVeUhoNGJMZlZReENBZkxfWk9rekt6T3FNN3NMWEVXajhPZG85TWlqd0p1cXBMR3pTUGVPUGhB?oc=5",
-   "date": "2023-10-20T15:30:03+00:00",
-   "summary": "Day-1 | Introduction to Python | Shell Scripting vs Python | Install and Run | #abhishekveeramalla YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1365,6 +824,16 @@
    "lang": "ar"
   },
   {
+   "title": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HRnh3TmZqYWJvUm9HOXpZNjdEcFlwOUhCMWxmeVNjanYwTFN2cTdYdm9fS2FKQU83bWR5ajVOOXRBSHBZdWtXdk55QXJNMEF3U01FNnh3?oc=5",
+   "date": "2022-12-11T18:00:08+00:00",
+   "summary": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "ما هي Bash",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MWlaVE80UjFacWtLbU1ocVRYNFlfYy1qaGZtUVJ3NVotX1Q2VTh6MXVPM0VIaXF0SUw0ZWljVXRGMC14bk1UaFJlc1NxWlRDaHJUdHJB?oc=5",
    "date": "2022-10-06T14:00:01+00:00",
@@ -1385,10 +854,30 @@
    "lang": "ar"
   },
   {
+   "title": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uWWVRUDVOZDc3cUExUnhDclV1dnl5MUZKMUpRY3VxUndKV1VhYXNfM1ZTaUF5RUQtU2RfcVVUQmJkaDJjNkdrbHpMNGNUMmMwLUVodDNB?oc=5",
+   "date": "2022-07-28T18:09:24+00:00",
+   "summary": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮 YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعريف وتنصيب zsh — [الجزء 1]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tdi1YYWRyNU1kM1FIcmxnV3Jkc0pabTh1U0U2a3A2aHJiakNHNkNXNkFlT2VwS3BHZmMyQ1lYOHd3N3hrMUpfd0ktMURUM2ZVS1JRY0pR?oc=5",
    "date": "2022-04-24T20:31:02+00:00",
    "summary": "تعريف وتنصيب zsh — [الجزء 1] YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pdzFXdUZvSmR0Vjk1NlZiSVJZbjZYQ3BiQWN4dGFDcHpZX1RlM1c5bUdudWxBbjBZbkZteFp4WURMRWNncmFaM1JJRHl4a3JiUnNqNDln?oc=5",
+   "date": "2022-01-20T21:00:56+00:00",
+   "summary": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1419,6 +908,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENHZ6a0IxOTlsZnZUS1BhN1VqTmtQa1hZbm5IMU5lTTZTNTN0b2QyNWJPWV85ZElFRVQ2UmQzc0ZNTmJ6NUxnS3JqbzhJWmNTNXRoTDR3?oc=5",
    "date": "2021-12-11T06:47:35+00:00",
    "summary": "نظم التشغيل المحاضرة السادسة| برمجة لغة c على نظام الكالي لينكس Kali linux | بأستخدام terminal YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Remote Terminal Unit (RTU) وحدة الربط الطرفية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CSU91cDNOMlBpaXFvSXJVZ0NjQUN0R2RtZFJHQzdRWEJ4TW5ISW44dDVyNG9DM3NCSl9aY3UwVEZTR2dPUnN6SHNtT2tOUXZhcTNYeG9B?oc=5",
+   "date": "2021-11-18T14:11:34+00:00",
+   "summary": "Remote Terminal Unit (RTU) وحدة الربط الطرفية YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QmxnN2lUdy0tVHNLX2NCSUlqY1ZBUFZlT3R1S0wwVWVwR3J6V1hNLVFnakN2X0dhUmlxdEZ0VFlsOUt5a2ZoMGpnZGNuOV96bHZ6VmlR?oc=5",
+   "date": "2021-10-29T13:00:12+00:00",
+   "summary": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1462,16 +971,6 @@
    "tech": "bash",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "أمير منطقة القصيم يتفقد خطوات تنفيذ مشروع «ضاحية الطرفية» حاضرة مدينة بريدة",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55UkhhVkhjN2V6VjhJSXpZUlR2MHdJRHJhTWJUTEUyNkZNbkZFSmNXQXdKREZRVFdPN29aSFU0a3l1c2JhemthSzczcVRTS1h2ZlkwVjEwM0dOYlpj?oc=5",
-   "date": "2020-11-22T08:00:00+00:00",
-   "summary": "أمير منطقة القصيم يتفقد خطوات تنفيذ مشروع «ضاحية الطرفية» حاضرة مدينة بريدة جريدة الجزيرة",
-   "tech": "bash",
-   "sourceId": "ar-news",
-   "source": "جريدة الجزيرة",
    "lang": "ar"
   },
   {
@@ -1532,16 +1031,6 @@
    "tech": "bash",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "قطاع الوقاية في «الإطفاء» تفقَّد اشتراطات مبنى «التيرمنال 6»",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tZ19VX05vYmF4cy0zMmFQNGVjMGRrR2hOR0FxY1dCLUNBbWNQdHJ1d3FsQTBNLUFJVllXMWZEZUtkZnpJVFJJdjZjZjJkdjNSY3ZuS0lDTmlZZGpiRHNTNWQ0Y9IBaEFVX3lxTE5iSFNpd09GVHhoRWxtSmk5cExmZldoSTh4SkVucVJYaFlOOWF1eEs4SFNNMXpJMjdQSEVpZHJpc0xRVm1BYnZXMGlKUHlXY01xcjNnVUx2N1Nmd1pva2FYSHhBcFpQT0ZV?oc=5",
-   "date": "2018-02-01T08:00:00+00:00",
-   "summary": "قطاع الوقاية في «الإطفاء» تفقَّد اشتراطات مبنى «التيرمنال 6» جريدة الجريدة الكويتية",
-   "tech": "bash",
-   "sourceId": "ar-news",
-   "source": "جريدة الجريدة الكويتية",
    "lang": "ar"
   }
  ]

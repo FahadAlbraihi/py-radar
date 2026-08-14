@@ -10,6 +10,7 @@
   --ar:#0f766e; --ar-soft:#e6f5f3; --en:#5b3fd6; --en-soft:#eee9fd;
   --lv1:#128a5c; --lv1-soft:#e4f6ee; --lv2:#a8620a; --lv2-soft:#fdf0dd; --lv3:#c02546; --lv3-soft:#fdeaee;
   --new:#e11d48;
+  --header-bg:#2b66bf; --header-ink:#ffffff; --header-soft:rgba(255,255,255,.16);
   --shadow:0 6px 14px rgba(13,22,79,.13);
   --shadow-lg:0 8px 32px rgba(13,22,79,.16);
   --safe-t:env(safe-area-inset-top); --safe-b:env(safe-area-inset-bottom);
@@ -24,6 +25,8 @@
     --ar:#5eead4; --ar-soft:#123430; --en:#c4b5fd; --en-soft:#251b45;
     --lv1:#6ee7b7; --lv1-soft:#0f3529; --lv2:#fcd34d; --lv2-soft:#3a2c0c; --lv3:#fda4af; --lv3-soft:#3d1420;
     --new:#f87171;
+    /* الرأس والهيرو يتبعان الوضع الليلي بدل بقائهما أزرق ساطعاً */
+    --header-bg:#131c33; --header-ink:#e8ecf6; --header-soft:rgba(255,255,255,.09);
     --shadow:0 6px 14px rgba(0,0,0,.4); --shadow-lg:0 10px 30px rgba(0,0,0,.45);
 }
 
@@ -45,7 +48,7 @@ select{font:inherit;color:inherit}
 /* ================= الشريط العلوي ================= */
 .site-nav{
   position:sticky;top:0;z-index:20;
-  background:var(--blue);color:#fff;
+  background:var(--header-bg);color:var(--header-ink);
   padding:calc(9px + var(--safe-t)) 0 9px;
   box-shadow:0 2px 6px rgba(13,22,79,.18);
 }
@@ -77,9 +80,9 @@ select{font:inherit;color:inherit}
 
 /* ================= الهيرو ================= */
 .hero{
-  background:var(--blue);color:#fff;
+  background:var(--header-bg);color:var(--header-ink);
   padding:14px 0 30px;
-  background-image:radial-gradient(120% 90% at 85% 0%, rgba(255,255,255,.16), transparent 60%);
+  background-image:radial-gradient(120% 90% at 85% 0%, var(--header-soft), transparent 60%);
 }
 .hero-title{font-size:clamp(24px,5.4vw,40px);font-weight:800;line-height:1.25}
 .hero-sub{margin-top:6px;font-size:15px;color:rgba(255,255,255,.88);font-weight:500}
@@ -121,7 +124,13 @@ select{font:inherit;color:inherit}
 /* ================= الشرائح ================= */
 .chips{display:flex;gap:8px}
 .chips.wrap-chips{flex-wrap:wrap;margin-top:10px}
-.chips.scroll-x{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+/* الصفوف الأفقية تمتد إلى حافة الشاشة بدل أن يقصّها هامش الحاوية،
+   فلا تظهر آخر شريحة مبتورة كما كان يحدث مع «قواعد البيانات» و«PowerShell». */
+.chips.scroll-x{
+  flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px;
+  margin-inline:-18px;padding-inline:18px;scroll-padding-inline:18px;
+  overscroll-behavior-x:contain;
+}
 .chips.scroll-x::-webkit-scrollbar{display:none}
 .chip{
   flex:0 0 auto;padding:7px 15px;border-radius:var(--r-pill);

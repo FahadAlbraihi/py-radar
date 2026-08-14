@@ -53,8 +53,10 @@ PROG = re.compile(
     r"|بيانات|ذكاء اصطناعي|خوارزم|\bcode\b|\bprogramming\b",
     re.IGNORECASE,
 )
-CAPS = {"pypi": 15, "blogs": 50, "devto": 45, "hn": 40, "so": 30, "github": 25,
-        "reddit": 30, "fcc": 20, "yt": 25, "medium": 20, "podcast": 15}
+CAPS = {"blogs": 50, "devto": 45, "fcc": 20, "yt": 30, "ar-yt": 130,
+        "medium": 20, "podcast": 15}
+# المصادر التعليمية المسموح بها — ما عداها يُستبعد (أخبار ونقاش ومستودعات)
+EDU_SOURCES = {"blogs", "devto", "fcc", "yt", "ar-yt", "medium", "podcast"}
 
 # قنوات يوتيوب — مصدر المشاهدات والتقييم (تغذية القناة تحملها، بخلاف نتائج البحث).
 #
@@ -523,29 +525,20 @@ def load_previous(tech: str) -> list[dict]:
 
 
 def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
+    """يجمع المصادر التعليمية فقط: دروس يوتيوب ومقالات شرح ومدونات وبودكاست.
+
+    استُبعدت مصادر الأخبار والنقاش والمستودعات (Hacker News، Reddit،
+    أخبار جوجل، GitHub، PyPI، Stack Overflow) لأن الموقع للتعليم لا للأخبار.
+    """
     match = re.compile(cfg["match"], re.IGNORECASE)
     collected: list[dict] = []
 
     with ThreadPoolExecutor(max_workers=8) as pool:
-        jobs = [
-            pool.submit(fetch_hn, tech, cfg),
-            pool.submit(fetch_devto, tech, cfg),
-        ]
-        if cfg["so"]:
-            jobs.append(pool.submit(fetch_so, tech, cfg))
-        if cfg["gh"]:
-            jobs.append(pool.submit(fetch_github, tech, cfg))
-        if cfg.get("pypi"):
-            jobs.append(pool.submit(fetch_pypi, tech, cfg))
+        jobs = [pool.submit(fetch_devto, tech, cfg)]
 
-        for sub in cfg["reddit"]:
-            jobs.append(pool.submit(
-                lambda s=sub: parse_feed(get(f"https://www.reddit.com/r/{s}/hot/.rss?limit=25"),
-                                         "reddit", f"r/{s}", tech, None)))
         for url in cfg["blogs"]:
             jobs.append(pool.submit(
                 lambda u=url: parse_feed(get(u), "blogs", "مدونات", tech, None)))
-        # مصادر عامة تغطي كل المسارات — تُرشَّح حسب المسار الحالي
         jobs.append(pool.submit(
             lambda: parse_feed(get("https://www.freecodecamp.org/news/rss/"),
                                "fcc", "freeCodeCamp", tech, match)))
@@ -567,21 +560,21 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
             except Exception as e:  # noqa: BLE001, PERF203
                 print(f"  [{tech}] تخطّي مصدر: {e}")
 
-    # بحث أخبار جوجل يُنفَّذ بالتتابع — الطلبات المتوازية على نفس المضيف تُقابَل بـ 429
-    ar_queries = [(q, "ar-news", "مقالات عربية", "ar") for q in cfg["ar"]]
-    ar_queries.append((cfg["ar"][0] + " site:youtube.com", "ar-yt", "فيديوهات ودروس", "ar"))
-    ar_queries.append((cfg["hn"] + " tutorial site:youtube.com", "yt", "يوتيوب", "en"))
-    for query, sid, sname, qlang in ar_queries:
+    # بحث الدروس على يوتيوب بالتتابع — الطلبات المتوازية تُقابَل بـ 429
+    searches = [(q + " site:youtube.com", "ar-yt", "دروس عربية", "ar") for q in cfg["ar"]]
+    searches.append((cfg["hn"] + " tutorial course site:youtube.com", "yt", "يوتيوب", "en"))
+    for query, sid, sname, qlang in searches:
         try:
             collected.extend(parse_feed(get(gnews(query, qlang)), sid, sname, tech, match))
         except Exception as e:  # noqa: BLE001, PERF203
-            print(f"  [{tech}] تخطّي بحث عربي: {e}")
+            print(f"  [{tech}] تخطّي بحث: {e}")
         time.sleep(1.5)
 
-    # نضمّ محتوى الملف السابق: تعثّر شبكي في تشغيل واحد يجب ألّا يمسح ما نُشر
     previous = load_previous(tech)
     if previous:
-        print(f"  [{tech}] ضمّ {len(previous)} عنصراً من الملف السابق")
+        # الملف السابق قد يحمل مصادر أخبار من نسخة قديمة — تُستبعد
+        previous = [i for i in previous if i.get("sourceId") in EDU_SOURCES]
+        print(f"  [{tech}] ضمّ {len(previous)} عنصراً تعليمياً من الملف السابق")
     collected.extend(previous)
 
     seen: dict[str, dict] = {}
@@ -591,20 +584,18 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
         if not key or key in seen:
             continue
         sid = item["sourceId"]
+        if sid not in EDU_SOURCES:
+            continue
         if per_source.get(sid, 0) >= CAPS.get(sid, 999):
             continue
         per_source[sid] = per_source.get(sid, 0) + 1
         seen[key] = item
 
-    # حصص محجوزة: العربي أندر من الإنجليزي، والبودكاست أقل تواتراً من بقية
-    # المصادر فتزيحه عناصر اليوم لو تُرك للترتيب الزمني وحده.
     ordered = list(seen.values())
     arabic = [i for i in ordered if i["lang"] == "ar"][:AR_QUOTA]
     taken = {id(i) for i in arabic}
-
     podcasts = [i for i in ordered if i["sourceId"] == "podcast" and id(i) not in taken][:PODCAST_QUOTA]
     taken |= {id(i) for i in podcasts}
-
     room = MAX_PER_TECH - len(arabic) - len(podcasts)
     english = [i for i in ordered if id(i) not in taken][:room]
 

@@ -1,243 +1,37 @@
 {
- "generated": "2026-08-14T20:03:27.698422+00:00",
+ "generated": "2026-08-14T20:42:37.693100+00:00",
  "tech": "python",
  "count": 220,
  "items": [
   {
-   "title": "meta-paper 0.6.2",
-   "url": "https://pypi.org/project/meta-paper/0.6.2/",
-   "date": "2026-08-14T20:02:58+00:00",
-   "summary": "Python client for fetching scientific paper metadata from multiple sources",
+   "title": "Backends Now Power AI Agents — And Django, FastAPI, Flask Weren’t Built for That",
+   "url": "https://medium.com/@yogeshkrishnanseeniraj/backends-now-power-ai-agents-and-django-fastapi-flask-werent-built-for-that-1936a87f8bf0?source=rss------python-5",
+   "date": "2026-08-14T20:19:07+00:00",
+   "summary": "Your Python backend was designed for request-response cycles measured in milliseconds. AI agents run for seconds, minutes, or hours&#x2026; Continue reading on Medium »",
    "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "huggingface/transformers",
-   "url": "https://github.com/huggingface/transformers",
-   "date": "2026-08-14T20:02:48+00:00",
-   "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "points": 164106,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "weave-cv 0.1.9",
-   "url": "https://pypi.org/project/weave-cv/0.1.9/",
-   "date": "2026-08-14T20:02:44+00:00",
-   "summary": "An agent that tailors your resume to a job posting — without inventing anything new",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "streamlit-sigmajs 0.3.0",
-   "url": "https://pypi.org/project/streamlit-sigmajs/0.3.0/",
-   "date": "2026-08-14T20:02:44+00:00",
-   "summary": "Interactive property graph visualization for Streamlit, powered by Sigma.js",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Significant-Gravitas/AutoGPT",
-   "url": "https://github.com/Significant-Gravitas/AutoGPT",
-   "date": "2026-08-14T20:02:43+00:00",
-   "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "points": 186623,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "bosn 0.1.0a1",
-   "url": "https://pypi.org/project/bosn/0.1.0a1/",
-   "date": "2026-08-14T20:02:12+00:00",
-   "summary": "Let your agents use Docker all day without filling the disk",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "antioch-sim 0.3.42",
-   "url": "https://pypi.org/project/antioch-sim/0.3.42/",
-   "date": "2026-08-14T20:01:18+00:00",
-   "summary": "Antioch simulation SDK: write typed Isaac Sim scenarios locally, run them on warm GPU machines.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "gaussia 1.1.0b8",
-   "url": "https://pypi.org/project/gaussia/1.1.0b8/",
-   "date": "2026-08-14T20:01:16+00:00",
-   "summary": "Gaussia - AI evaluation framework for measuring fairness, quality, and safety of AI models and assistants",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "pytorch/pytorch",
-   "url": "https://github.com/pytorch/pytorch",
-   "date": "2026-08-14T20:01:03+00:00",
-   "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-   "points": 102374,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Vose-Alias-Method 1.2.2",
-   "url": "https://pypi.org/project/vose-alias-method/1.2.2/",
-   "date": "2026-08-14T20:01:03+00:00",
-   "summary": "Python implementation of Vose's alias method, an efficient algorithm for sampling from a discrete probability distribution.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "ManipulaPy 1.4.1",
-   "url": "https://pypi.org/project/manipulapy/1.4.1/",
-   "date": "2026-08-14T20:00:36+00:00",
-   "summary": "Differentiable, GPU-accelerated robotic manipulator analysis and control — kinematics, dynamics, planning and control on NumPy, CuPy, PyTorch, or JAX",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "postprocessing-seismo-lib 0.2.3",
-   "url": "https://pypi.org/project/postprocessing-seismo-lib/0.2.3/",
-   "date": "2026-08-14T20:00:26+00:00",
-   "summary": "A library for building and parsing Seismology API message bodies.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "langflow-ai/langflow",
-   "url": "https://github.com/langflow-ai/langflow",
-   "date": "2026-08-14T20:00:15+00:00",
-   "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-   "points": 153246,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "clipmaster-mcp 0.1.1",
-   "url": "https://pypi.org/project/clipmaster-mcp/0.1.1/",
-   "date": "2026-08-14T20:00:08+00:00",
-   "summary": "MCP server for ClipMaster (clipmaster.app) — AI video clipping, editing, exporting and social scheduling from Claude and any MCP client",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "nb-wrangler 0.9.0",
-   "url": "https://pypi.org/project/nb-wrangler/0.9.0/",
-   "date": "2026-08-14T20:00:06+00:00",
-   "summary": "A notebook curation tool for managing Jupyter notebook environments",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "marqov 0.4.1",
-   "url": "https://pypi.org/project/marqov/0.4.1/",
-   "date": "2026-08-14T19:59:51+00:00",
-   "summary": "Open-source Python SDK for running quantum circuits across multiple hardware backends",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "pntos-cobra 2.1.0.post0.dev4",
-   "url": "https://pypi.org/project/pntos-cobra/2.1.0.post0.dev4/",
-   "date": "2026-08-14T19:59:46+00:00",
-   "summary": "A Python implementation of a set of pntOS example plugins.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "pntos-api 2.1.0.post0.dev2",
-   "url": "https://pypi.org/project/pntos-api/2.1.0.post0.dev2/",
-   "date": "2026-08-14T19:59:45+00:00",
-   "summary": "The API specification for pntOS, ported into pure Python.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "lacrei-models 3.4.11",
-   "url": "https://pypi.org/project/lacrei-models/3.4.11/",
-   "date": "2026-08-14T19:59:37+00:00",
-   "summary": "Modelos de domínio do projeto Lacrei.",
-   "tech": "python",
-   "sourceId": "pypi",
-   "source": "PyPI",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Senv: Sandboxing Python Packages and Code with uv",
-   "url": "https://www.reddit.com/r/PythonLearning/comments/1vo972j/senv_sandboxed_python_environments_with_the_uv/",
-   "date": "2026-08-14T19:58:14+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
+   "sourceId": "medium",
+   "source": "Medium",
    "lang": "en"
   },
   {
-   "title": "NousResearch/hermes-agent",
-   "url": "https://github.com/NousResearch/hermes-agent",
-   "date": "2026-08-14T19:48:10+00:00",
-   "summary": "The agent that grows with you",
-   "points": 230605,
+   "title": "How to Deploy a FastAPI Application with ASGI on PythonAnywhere: A Practical Guide Based on a…",
+   "url": "https://ransetfleites0.medium.com/how-to-deploy-a-fastapi-application-with-asgi-on-pythonanywhere-a-practical-guide-based-on-a-648506fe2c24?source=rss------python-5",
+   "date": "2026-08-14T20:10:41+00:00",
+   "summary": "By Ranset Fleites Continue reading on Medium »",
    "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Python 3.14’s T-Strings Will Change How You Build FastAPI and Django Apps Forever",
+   "url": "https://medium.com/@yogeshkrishnanseeniraj/python-3-14s-t-strings-will-change-how-you-build-fastapi-and-django-apps-forever-a61c2a0aab49?source=rss------python-5",
+   "date": "2026-08-14T20:07:38+00:00",
+   "summary": "PEP 750 landed in Python 3.14. T-strings look like f-strings but produce a Template object instead of a str &#x2014; and that single difference&#x2026; Continue reading on Medium »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
   },
   {
    "title": "An O(1) Space Alternative to \"Rearrange Array Alternately\" Using Sequential Suffix Reversal",
@@ -261,30 +55,6 @@
    "lang": "en"
   },
   {
-   "title": "Graphify-Labs/graphify",
-   "url": "https://github.com/Graphify-Labs/graphify",
-   "date": "2026-08-14T19:17:38+00:00",
-   "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-   "points": 106341,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Comfy-Org/ComfyUI",
-   "url": "https://github.com/Comfy-Org/ComfyUI",
-   "date": "2026-08-14T19:17:19+00:00",
-   "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-   "points": 127574,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "The zero we almost published belonged to a different column",
    "url": "https://dev.to/yotta-fish/the-zero-we-almost-published-belonged-to-a-different-column-47g8",
    "date": "2026-08-14T19:14:31+00:00",
@@ -306,18 +76,6 @@
    "lang": "en"
   },
   {
-   "title": "langchain-ai/langchain",
-   "url": "https://github.com/langchain-ai/langchain",
-   "date": "2026-08-14T19:03:45+00:00",
-   "summary": "The agent engineering platform.",
-   "points": 144266,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Python Data Model - Part 2: Protocols and Special Methods",
    "url": "https://dev.to/brunotlps/python-data-model-part-2-protocols-and-special-methods-1k60",
    "date": "2026-08-14T18:54:19+00:00",
@@ -337,16 +95,6 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Where can I learn Python for free?",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vofwg1/where_can_i_learn_python_for_free/",
-   "date": "2026-08-14T18:48:42+00:00",
-   "summary": "I’m looking for a good free resource to learn Python from scratch. What do you guys recommend? submitted by /u/yup-console [link] [التعليقات]",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -411,26 +159,6 @@
    "lang": "en"
   },
   {
-   "title": "Advancing in python",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vod84m/advancing_in_python/",
-   "date": "2026-08-14T17:12:03+00:00",
-   "summary": "Heyy everyone first time posting here so I’m a student, I want to learn some computer skills to learn something new and have some practically applicable skills other than a degree (which is a long way to go). I might also consider taking a ",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "Advanced Python",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vod6rv/advanced_python/",
-   "date": "2026-08-14T17:10:42+00:00",
-   "summary": "Heyy everyone first time posting here so I’m a student, I want to learn some computer skills to learn something new and have some practically applicable skills other than a degree (which is a long way to go). I might also consider taking a ",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
    "title": "Catch Prompt Drift Before It Breaks Your Free-Model CI Job",
    "url": "https://dev.to/gitlab_3188/catch-prompt-drift-before-it-breaks-your-free-model-ci-job-4phl",
    "date": "2026-08-14T17:10:10+00:00",
@@ -451,18 +179,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "github/spec-kit",
-   "url": "https://github.com/github/spec-kit",
-   "date": "2026-08-14T16:44:52+00:00",
-   "summary": "💫 Toolkit to help you get started with Spec-Driven Development",
-   "points": 128377,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "How to Summarize Any YouTube Video in 2 Minutes with Python",
@@ -494,16 +210,6 @@
    "tech": "python",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
-   "lang": "en"
-  },
-  {
-   "title": "what's the point of getters and setters?",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vobo1q/whats_the_point_of_getters_and_setters/",
-   "date": "2026-08-14T16:15:21+00:00",
-   "summary": "I had python classes a year ago, and after a semester of not having any (OOP language) programming classes in college, I kinda want to relearn python (and OOP in general) However one thing that I never understood is the point of getters and",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -562,38 +268,6 @@
    "lang": "en"
   },
   {
-   "title": "Very new to python, would appreciate help",
-   "url": "https://www.reddit.com/r/learnpython/comments/1voan51/very_new_to_python_would_appreciate_help/",
-   "date": "2026-08-14T15:37:33+00:00",
-   "summary": "I am building a calculator program and it works, but now I am attempting to bullet proof it, so that no wrong inputs can cause an error. With what I have written, it works but the loop for the operator input does not actually loop even thou",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "Animica – a post-quantum Layer 1 blockchain built primarily in Python",
-   "url": "https://animica.org/",
-   "date": "2026-08-14T15:34:44+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
-   "url": "https://stackoverflow.com/questions/79995125/what-is-wrong-in-this-tkinter-application-the-threading-does-not-finish-when-i",
-   "date": "2026-08-14T15:32:19+00:00",
-   "summary": "python، tkinter",
-   "points": -2,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "A Burn-In Gate for Free AI Models: Test the Assistant Before It Touches Your Repo",
    "url": "https://dev.to/github_7727/a-burn-in-gate-for-free-ai-models-test-the-assistant-before-it-touches-your-repo-5c2o",
    "date": "2026-08-14T15:22:28+00:00",
@@ -605,27 +279,6 @@
    "lang": "en"
   },
   {
-   "title": "Tkinter vs cutomtkinter",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vo9orz/tkinter_vs_cutomtkinter/",
-   "date": "2026-08-14T15:02:01+00:00",
-   "summary": "I am starting with GUI designs and want to know about the difference and which is better 😉 submitted by /u/Smartyboyz [link] [التعليقات]",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Burla – Distributed computing framework for AI agents",
-   "url": "https://burla.dev/",
-   "date": "2026-08-14T14:52:54+00:00",
-   "summary": "Hi HN! Would love any thoughts on this, we built Burla to enable anyone, even total beginners to scale Python to thousands of computers in their cloud with zero hassle. In a world of coding agents, th",
-   "points": 5,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Why Your LLM Classifier Doesn't Need the Taxonomy: Hypothetical Classification with Embeddings",
    "url": "https://dev.to/chenyuan20509/why-your-llm-classifier-doesnt-need-the-taxonomy-hypothetical-classification-with-embeddings-387d",
    "date": "2026-08-14T14:47:39+00:00",
@@ -634,80 +287,6 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Week 1 - progress towards machine learning",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vo9912/week_1_progress_towards_machine_learning/",
-   "date": "2026-08-14T14:45:11+00:00",
-   "summary": "I started my journey to learning machine learning a little over 1 week ago and am writing these posts to hold myself accountable for my study and hopefully give some insight for anyone following my footsteps. I have identified a road map th",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "Senv: Sandboxed Python environments with the uv workflow",
-   "url": "https://medium.com/@Koukyosyumei/senv-sandboxed-python-environments-with-the-uv-workflow-44b6b0c42a5d",
-   "date": "2026-08-14T14:31:56+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "attune-forms is now on PyPI — and as of this week, it's a Claude Code plugin.",
-   "url": "https://www.reddit.com/r/Python/comments/1vo8kp2/attuneforms_is_now_on_pypi_and_as_of_this_week/",
-   "date": "2026-08-14T14:19:07+00:00",
-   "summary": "Last week I wrote about the idea: an agent s question should be a typed, validated artifact, not a sentence. This week the machinery shipped as a standalone open-source library. attune-forms gives AI coding agents a second channel beside fr",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/Python",
-   "lang": "en"
-  },
-  {
-   "title": "Socket Emit fail to delivery in multi-worker",
-   "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
-   "date": "2026-08-14T14:11:06+00:00",
-   "summary": "python، flask، flask-socketio",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How to cull a pair based of relative distance between the centre of two objects?",
-   "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
-   "date": "2026-08-14T13:18:45+00:00",
-   "summary": "python",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Ch-kit – OS ClickHouse schema management and migrations, TypeScript and Python",
-   "url": "https://chkit.obsessiondb.com/blog/chkit-python/",
-   "date": "2026-08-14T12:47:30+00:00",
-   "summary": "",
-   "points": 6,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Starting From ZERO experience - goal to make an app",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vo5d20/starting_from_zero_experience_goal_to_make_an_app/",
-   "date": "2026-08-14T12:03:13+00:00",
-   "summary": "I want to learn to code with the goal of developing a women s health app. I know literally nothing about coding, I have no background whatsoever in computer science and most days fight with my computer (I feel as though if I bothered to lea",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -731,59 +310,6 @@
    "lang": "en"
   },
   {
-   "title": "Why does a Python subprocess hang only when stdout is redirected to PIPE?",
-   "url": "https://stackoverflow.com/questions/79995069/why-does-a-python-subprocess-hang-only-when-stdout-is-redirected-to-pipe",
-   "date": "2026-08-14T11:45:57+00:00",
-   "summary": "python، subprocess، pipe",
-   "points": -2,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "When TestOnly=1 means testing is disabled",
-   "url": "https://serverfault.com/questions/990271/postfix-policyd-spf-python-spoof-protection-spf-checks-fail-but-no-action-ta",
-   "date": "2026-08-14T11:45:40+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Terminal and raw I/O VT100 codes question",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vo4p7u/terminal_and_raw_io_vt100_codes_question/",
-   "date": "2026-08-14T11:31:39+00:00",
-   "summary": "A Windows terminal/consoles VT100 emulation question. https://espterm.github.io/docs/VT100%20escape%20codes.html specifies getcursor DSR Get cursor position ^[6n cursorpos CPR Response: cursor is at v,h ^[ v ; h R so print( \\x1b[6n ) ends u",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "New things in Python 3.15 [video]",
-   "url": "https://www.youtube.com/watch?v=khIUGLwK-9U",
-   "date": "2026-08-14T10:54:20+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Other Python forums - Stack Overflow",
-   "url": "https://www.reddit.com/r/Python/comments/1vo3rrb/other_python_forums_stack_overflow/",
-   "date": "2026-08-14T10:42:08+00:00",
-   "summary": "Not sure if I am allowed to discuss other forums on here but I m sure someone will tell me if not. It is just me of has anybody else encountered problems with the moderators on Stack Overflow Python forums recently? To say I ve found them t",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/Python",
-   "lang": "en"
-  },
-  {
    "title": "How to Build a Minimal SIEM with Python, SQLite and Telegram Alerts",
    "url": "https://dev.to/ayinedjimi-consultants/how-to-build-a-minimal-siem-with-python-sqlite-and-telegram-alerts-29f5",
    "date": "2026-08-14T10:05:10+00:00",
@@ -793,81 +319,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Is Python an industry-ready technology for backends?",
-   "url": "https://www.reddit.com/r/Python/comments/1vo2fxk/is_python_an_industryready_technology_for_backends/",
-   "date": "2026-08-14T09:26:01+00:00",
-   "summary": "I mean specifically backend services, RESTful API s and very sensitive data in the DB. I mean middle-load (_not_ social networking, _not_ some purchasing platform for millions of users). How would you define your position that Python _is_ r",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/Python",
-   "lang": "en"
-  },
-  {
-   "title": "Just want to vent - Had a tech interview today which seemd way out of scope from tests",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vo2fwq/just_want_to_vent_had_a_tech_interview_today/",
-   "date": "2026-08-14T09:25:59+00:00",
-   "summary": "I m moving fields into data analytics, and I got my first big interview. We had a tech one today, and it was half sql half python. It was an hour test, I absolutely smashed the sql in like 5 minutes. The other 55 minutes was me staring at a",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "Ironic-Python-Agent: Container HardwareManager Security Model Misimplemented",
-   "url": "https://seclists.org/oss-sec/2026/q3/488",
-   "date": "2026-08-14T08:52:55+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Beyond Source: An Empirical Study of Python Bytecode Security Risks",
-   "url": "https://arxiv.org/abs/2608.12853",
-   "date": "2026-08-14T08:41:59+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
-   "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
-   "date": "2026-08-14T08:36:46+00:00",
-   "summary": "python، unit-testing، asynchronous، discord.py، mocking",
-   "points": 2,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Creating Excel File With Graph from .txt",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vo0h8h/creating_excel_file_with_graph_from_txt/",
-   "date": "2026-08-14T07:28:22+00:00",
-   "summary": "Hi, I want to write a simple skitpt that takes a .txt file with comma seperated xy-Data, and creates and Excel file with a graph from it. The way I found (with the help from the google AI) to do that was to use Pandas with openpyxl as Engin",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
-   "title": "open-webui/open-webui",
-   "url": "https://github.com/open-webui/open-webui",
-   "date": "2026-08-14T06:55:23+00:00",
-   "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "points": 148796,
-   "tech": "python",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "I Tried to Verify an AI Agent Benchmark. Here's the Bundle I Wish Everyone Shipped",
@@ -881,28 +332,6 @@
    "lang": "en"
   },
   {
-   "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
-   "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
-   "date": "2026-08-14T06:36:28+00:00",
-   "summary": "python",
-   "points": -4,
-   "tech": "python",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch",
-   "url": "https://github.com/FWKMultiverse/WinCore",
-   "date": "2026-08-14T06:26:14+00:00",
-   "summary": "WinCore is a free and open-source Python library designed specifically to address practical problems when working with AI and PyTorch on Windows. It provides utilities for CPU&#x2F;GPU management, mem",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Conductor: PostgreSQL-Backed Async Task Queue for Python (No Redis Required)",
    "url": "https://dev.to/panagiotis_panageas/conductor-postgresql-backed-async-task-queue-for-python-no-redis-required-29en",
    "date": "2026-08-14T06:01:04+00:00",
@@ -911,16 +340,6 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Python is so confusing to me.",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vnyqqz/python_is_so_confusing_to_me/",
-   "date": "2026-08-14T05:49:38+00:00",
-   "summary": "I started learning Python about a month ago through cs50, and it seemed good at first. It s just been 3 lectures so far (I don t have time). As I code, I would get annoyed here and there because of the bugs, but I would somehow manage to de",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -946,16 +365,6 @@
    "lang": "en"
   },
   {
-   "title": "How to store variables",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vnx4ui/how_to_store_variables/",
-   "date": "2026-08-14T04:22:59+00:00",
-   "summary": "I m building a program which will have lots of configuration files. I want to be able to -drop a new package in a folder, and have importlib discover it, and dynamically add it. -the program can use variables in the file to build a GUI. (Pr",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
    "title": "European SaaS Expired Session Cleanup: Idempotent Python Drains Rate-Limited Workers",
    "url": "https://dev.to/silhouette72591483/european-saas-expired-session-cleanup-idempotent-python-drains-rate-limited-workers-28lg",
    "date": "2026-08-14T04:21:55+00:00",
@@ -975,17 +384,6 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Programing language faster than Python for ML (Jaithon 3.1)",
-   "url": "https://github.com/abhiramasonny/jaithon",
-   "date": "2026-08-14T04:12:59+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1022,16 +420,6 @@
    "lang": "en"
   },
   {
-   "title": "Help with Comparing Three Variables?",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vnwciw/help_with_comparing_three_variables/",
-   "date": "2026-08-14T03:43:43+00:00",
-   "summary": "TLDR: Can somebody help me with the comparison between three variables: Ground Shipping, Ground Shipping Premium, and Drone Shipping, based on the calculations provided? Hello everyone! Thank you in advance for any help :) I am a newbie, an",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
-   "lang": "en"
-  },
-  {
    "title": "Token Bucket vs. Sliding Window: Building Rate Limiters That Actually Hold Under Load",
    "url": "https://dev.to/darshilsomani019/token-bucket-vs-sliding-window-building-rate-limiters-that-actually-hold-under-load-4h7i",
    "date": "2026-08-14T03:14:12+00:00",
@@ -1040,16 +428,6 @@
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Beginner Python learner looking for 5 other beginners to test a short lesson",
-   "url": "https://www.reddit.com/r/learnpython/comments/1vnuvc3/beginner_python_learner_looking_for_5_other/",
-   "date": "2026-08-14T02:31:43+00:00",
-   "summary": "submitted by /u/Friendly_Row4958 [link] [التعليقات]",
-   "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/learnpython",
    "lang": "en"
   },
   {
@@ -1086,13 +464,328 @@
    "lang": "en"
   },
   {
-   "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
-   "url": "https://www.reddit.com/r/Python/comments/1vnrksf/friday_daily_thread_rpython_meta_and_freetalk/",
-   "date": "2026-08-14T00:00:28+00:00",
-   "summary": "Weekly Thread: Meta Discussions and Free Talk Friday 🎙️ Welcome to Free Talk Friday on /r/Python ! This is the place to discuss the r/Python community (meta discussions), Python news, projects, or anything else Python-related! How it Works:",
+   "title": "I Built My First Machine Learning API — Here's Everything I Learned",
+   "url": "https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7",
+   "date": "2026-08-13T22:49:39+00:00",
+   "summary": "EricMWaimiri        /          Telco-Customer-Churn-Prediction        ...",
+   "points": 0,
    "tech": "python",
-   "sourceId": "reddit",
-   "source": "r/Python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Frontend Error Tracking Explained: A FastAPI Backend Collector for Safer Stack Data",
+   "url": "https://dev.to/jamesanderson121/react-frontend-error-tracking-explained-a-fastapi-backend-collector-for-safer-stack-data-1252",
+   "date": "2026-08-13T21:11:53+00:00",
+   "summary": "Short answer: send window.onerror and onunhandledrejection events through a FastAPI collector, scrub...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Civic Tech and Open Source Data Platforms: Building CommunityOne",
+   "url": "https://dev.to/3ni8ma/civic-tech-and-open-source-data-platforms-building-communityone-2m77",
+   "date": "2026-08-13T18:02:45+00:00",
+   "summary": "Overview   CommunityOne (DoxDock) is an open-source data platform that aggregates and...",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AuraFinance: Building a Zero-Cost Full-Stack Financial Intelligence Platform",
+   "url": "https://dev.to/3ni8ma/aurafinance-building-a-zero-cost-full-stack-financial-intelligence-platform-126j",
+   "date": "2026-08-13T17:57:31+00:00",
+   "summary": "Overview   AuraFinance is a full-stack financial intelligence platform that combines live...",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Multi-tenancy is a promise you keep in the database",
+   "url": "https://dev.to/dev-into-space/multi-tenancy-is-a-promise-you-keep-in-the-database-274b",
+   "date": "2026-08-13T15:22:24+00:00",
+   "summary": "'Don't leak tenant A to tenant B' isn't a feature - it's a guarantee. Scope tenancy server-side so one forgotten filter can't breach it.",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Handle OAuth 2.0 Authentication to Third-Party APIs with Asstgr (self-hosted)",
+   "url": "https://dev.to/greve_malick_6bf326604dee/how-to-handle-oauth-20-authentication-to-third-party-apis-with-asstgr-self-hosted-1b3h",
+   "date": "2026-08-13T13:53:32+00:00",
+   "summary": "If you've ever had to integrate an OAuth 2.0-protected third-party API into multiple projects, you...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Python for Mechanical Engineering",
+   "url": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
+   "date": "2026-08-13T13:50:26+00:00",
+   "summary": "Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical",
+   "tech": "python",
+   "sourceId": "fcc",
+   "source": "freeCodeCamp",
+   "lang": "en"
+  },
+  {
+   "title": "Saturday MK1: an AI assistant that's a system, not a prompt",
+   "url": "https://dev.to/dev-into-space/saturday-mk1-an-ai-assistant-thats-a-system-not-a-prompt-ghb",
+   "date": "2026-08-13T10:47:09+00:00",
+   "summary": "An agentic assistant built as composable engines — code graph, memory, inference routing, security — orchestrated by a core on FastAPI + Neon Postgres.",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Making an LLM trustworthy over bank statements",
+   "url": "https://dev.to/dev-into-space/making-an-llm-trustworthy-over-bank-statements-4che",
+   "date": "2026-08-13T10:41:38+00:00",
+   "summary": "Ask a bank statement questions in plain English. The LLM only writes SQL against a strict schema — so it can never invent a number. FastAPI + Supabase.",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Python Software Foundation: Announcing the Packaging Council Election Candidates for 2026!",
+   "url": "https://pyfound.blogspot.com/2026/08/announcing-packaging-council-election.html",
+   "date": "2026-08-13T10:13:35+00:00",
+   "summary": "What an exciting list! Please take a look at who is running for the inaugural Python Packaging Council (PPC) on the Nominees page . This election has 17 nominees for 5 open seats on the council. Election Overview This inaugural election fil",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "PyCharm: Hybrid and Local AI course at DeepLearning.AI",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/hybrid-and-local-ai-course-at-deeplearning-ai/",
+   "date": "2026-08-13T10:01:32+00:00",
+   "summary": "",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Python Software Foundation: Announcing the PSF Board Candidates for 2026!",
+   "url": "https://pyfound.blogspot.com/2026/08/announcing-psf-board-candidates-for-2026.html",
+   "date": "2026-08-13T09:59:40+00:00",
+   "summary": "What an exciting list! Please take a look at the 18 candidates running for the PSF Board this year on the Nominees page . This year there are 4 seats open on the PSF Board. You can see who is currently on the board on the PSF Officers Direc",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Wingware: Wing Python IDE Version 12.0.2 - August 13, 2026",
+   "url": "https://wingware.com/news/2026-08-13",
+   "date": "2026-08-13T01:00:00+00:00",
+   "summary": "Wing Python IDE version 12.0.2 has been released. This release adds a native ARM64 Windows version of Wing, improves remote development on Windows, streamlines Claude Code setup, and improves performance and responsiveness, particularly whe",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Trey Hunner: Reorganizing Python's sys module",
+   "url": "https://treyhunner.com/2026/08/reorganizing-pythons-sys-module/",
+   "date": "2026-08-13T00:30:00+00:00",
+   "summary": "The sys module is the primary junk drawer of the Python standard library. A good junk drawer holds miscellaneous items that don&rsquo;t have another sensible home. I often think of utils modules as &ldquo;junk drawer&rdquo; modules. I belie",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Python Insider: Announcing the Packaging Council Election Candidates for 2026!",
+   "url": "https://blog.python.org/2026/08/2026-packaging-council-nominees/",
+   "date": "2026-08-13T00:00:00+00:00",
+   "summary": "Announcing the 17 nominees for the inaugural Python Packaging Council election, and how to vote in the election.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Announcing the Packaging Council Election Candidates for 2026!",
+   "url": "https://blog.python.org/2026/08/2026-packaging-council-nominees/",
+   "date": "2026-08-13T00:00:00+00:00",
+   "summary": "Announcing the 17 nominees for the inaugural Python Packaging Council election, and how to vote in the election.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Django Weblog: DSF Office Hours",
+   "url": "https://www.djangoproject.com/weblog/2026/aug/12/dsf-office-hours/",
+   "date": "2026-08-12T17:25:24+00:00",
+   "summary": "The DSF Board hosts open office hours every Wednesday at 6:00 PM UTC ( check your local time ). Anyone in the Django community is welcome to drop in. You do not need an agenda or an invitation. Video call details are on the DSF Office Hours",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "The one they fixed",
+   "url": "https://dev.to/pachilo/the-one-they-fixed-2bjb",
+   "date": "2026-08-12T16:33:16+00:00",
+   "summary": "Reported 26 July. Fixed by the maintainer on 29 July. The report was closed on 11 August as not...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FastAPI accepts a response_model on streaming routes and silently ignores it",
+   "url": "https://dev.to/pachilo/fastapi-accepts-a-responsemodel-on-streaming-routes-and-silently-ignores-it-89",
+   "date": "2026-08-12T16:17:50+00:00",
+   "summary": "It builds the model. It registers it in the OpenAPI schema components. It never applies it. Your...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FastAPI prints the contents of Pydantic's Secret[T]",
+   "url": "https://dev.to/pachilo/fastapi-prints-the-contents-of-pydantics-secrett-78a",
+   "date": "2026-08-12T15:56:18+00:00",
+   "summary": "The wrapper exists so the value never appears in output. Pydantic masks it. str() masks it. FastAPI...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Five findings in FastAPI, and what happened when I reported them",
+   "url": "https://dev.to/pachilo/five-findings-in-fastapi-and-what-happened-when-i-reported-them-idg",
+   "date": "2026-08-12T15:01:12+00:00",
+   "summary": "An introduction to a short series. Four of the five are still live in the current release, and each...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FAST API:",
+   "url": "https://dev.to/devbymansi/fast-api-d7p",
+   "date": "2026-08-12T14:47:19+00:00",
+   "summary": "Fast API is web framework used for building APIs using Python programming language by using various...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Integrate OpenTelemetry With a FastAPI App",
+   "url": "https://realpython.com/fastapi-opentelemetry/",
+   "date": "2026-08-12T14:00:00+00:00",
+   "summary": "Learn how to integrate OpenTelemetry with a FastAPI app in Python to instrument endpoints, export traces, add custom spans, and correlate logs.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "PyCharm: What’s New in PyCharm 2026.2.1",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/what-s-new-in-pycharm-2026-2-1/",
+   "date": "2026-08-12T12:05:32+00:00",
+   "summary": "This PyCharm release is a big one for anyone building with AI. Your agents can now roll up their sleeves inside your Jupyter notebooks – working against a live kernel instead of firing off disconnected scripts. And they finally know which P",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "PyCharm: We Stopped AI Agents From Installing Into the Wrong Python: Task Success Rates Jumped to 95%+",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/we-stopped-ai-agents-from-installing-into-the-wrong-python-task-success-rates-jumped-to-95/",
+   "date": "2026-08-12T12:01:07+00:00",
+   "summary": "AI agents are supposed to save you time. Ask one to install a dependency or run your project, though, and it often does the opposite: It installs into the wrong Python, ignores the uv or virtual environment your project uses, and hands back",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "PyCharm: We Gave AI Agents a Live Jupyter Kernel in PyCharm",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/we-gave-ai-agents-a-live-jupyter-kernel-in-pycharm/",
+   "date": "2026-08-12T12:00:34+00:00",
+   "summary": "If you ve handed notebook work to an AI agent, you know how it tends to go: More often than not, it corrupts your .ipynb, loses your trained model the moment the run finishes, or burns budget sitting idle through a long job while you watch.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: How to Integrate OpenTelemetry With a FastAPI App",
+   "url": "https://realpython.com/quizzes/fastapi-opentelemetry/",
+   "date": "2026-08-12T12:00:00+00:00",
+   "summary": "Instrument a FastAPI app with OpenTelemetry to export traces, add custom spans, and correlate your application logs with traces.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "PyCharm: Unbundling and Deprecating Low-Usage Plugins in PyCharm",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/unbundling-and-deprecating-low-usage-plugins-in-pycharm/",
+   "date": "2026-08-12T11:59:50+00:00",
+   "summary": "As part of ongoing maintenance, we are unbundling and deprecating low-usage plugins starting with PyCharm 2026.2. This includes support for Data Wrangler, Hugging Face, and Google Colab, among others. A more focused set of bundled plugins m",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Factory Pattern in Django Projects : Why Should You Care?",
+   "url": "https://dev.to/khamedtaha/factory-pattern-in-django-projects-why-should-you-care-3mol",
+   "date": "2026-08-12T09:41:20+00:00",
+   "summary": "As Django applications grow, object creation can quickly become scattered across views, services, and...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Python GUIs: Adding QTabWidget to a Layout Alongside Other Widgets in PyQt6 — How to combine QTabWidget with other layouts without it taking over your entire window",
+   "url": "https://www.pythonguis.com/faq/cant-integrate-qtabwidget-into-a-layout/",
+   "date": "2026-08-12T06:00:00+00:00",
+   "summary": "I'm trying to create a layout in PyQt and implement different layouts into one QHBoxLayout. Everything works fine, but when I add a QTabWidget alongside other layouts, it becomes the only visible widget &mdash; as if everything else disappe",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "FastAPI: estado visible para correos async",
+   "url": "https://dev.to/silviutech/fastapi-estado-visible-para-correos-async-2p6d",
+   "date": "2026-08-12T05:24:19+00:00",
+   "summary": "Un patron corto en FastAPI para consultar el estado de correos async y dejar de adivinar si un email salio o sigue en cola.",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -1107,6 +800,106 @@
    "kind": "podcast"
   },
   {
+   "title": "Python Bytes: #491 Feeling Judged",
+   "url": "https://pythonbytes.fm/episodes/show/491/feeling-judged",
+   "date": "2026-08-12T01:00:10+00:00",
+   "summary": "strong Topics covered in this episode: /strong br ul li strong Claude Code /insights /strong /li li strong a href=\"https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/?featured_on=pythonbytes\" Post-quantum c",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Python Insider: Python 3.12.14, 3.11.16 and 3.10.21 are now available!",
+   "url": "https://blog.python.org/2026/08/python-31214-31116-31021/",
+   "date": "2026-08-12T00:00:00+00:00",
+   "summary": "[Python Releases Eclipse Your Security!](https://discuss.python.org/t/python-3-12-14-3-11-16-and-3-10-21-are-now-available/108537) New security releases for 3.10, 3.11 and 3.12 are now available.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Python 3.12.14, 3.11.16 and 3.10.21 are now available!",
+   "url": "https://blog.python.org/2026/08/python-31214-31116-31021/",
+   "date": "2026-08-12T00:00:00+00:00",
+   "summary": "[Python Releases Eclipse Your Security!](https://discuss.python.org/t/python-3-12-14-3-11-16-and-3-10-21-are-now-available/108537) New security releases for 3.10, 3.11 and 3.12 are now available.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "TestDriven.io: Storing Django Static and Media Files on Cloudflare R2",
+   "url": "https://testdriven.io/blog/django-cloudflare-r2/",
+   "date": "2026-08-11T22:28:15+00:00",
+   "summary": "This tutorial shows how to configure Django to load and serve up static and media files, public and private, via Cloudflare R2.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "PyCoder’s Weekly: Issue #747: Modern OOP, bisect, Django Async, and More (2026-08-11)",
+   "url": "https://pycoders.com/issues/747",
+   "date": "2026-08-11T19:30:00+00:00",
+   "summary": "#747 – AUGUST 11, 2026 View in Browser » New Book: Modern Object-Oriented Python Real Python&rsquo;s new book on classes, Python&rsquo;s data model, and object-oriented design is out in Early Access. Nine chapters collected from a decade of",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Coding With OpenCode: AI-Assisted Python",
+   "url": "https://realpython.com/courses/coding-with-opencode-ai/",
+   "date": "2026-08-11T14:00:00+00:00",
+   "summary": "Learn how to use OpenCode for AI-assisted Python coding, using a free Gemini API key to analyze and refactor code right in your terminal.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: Coding With OpenCode: AI-Assisted Python",
+   "url": "https://realpython.com/quizzes/coding-with-opencode-ai-assisted-python/",
+   "date": "2026-08-11T12:00:00+00:00",
+   "summary": "Learn to install OpenCode, connect it to a free Gemini API key, and refactor a Python project from your terminal using Plan and Build modes.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Brett Cannon: My nomination statement for the 2026 Python packaging council",
+   "url": "https://snarky.ca/my-nomination-statement-for-the-2026-python-packaging-council/",
+   "date": "2026-08-10T22:22:12+00:00",
+   "summary": "I have decided to run for the inaugural/2026 Python packaging council (PPC). I will say I have the support of my employer (Microsoft) to do this, but they didn apost ask me to and my usual thing that I would quit before I let any employer p",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "James Bennett: Breaking up (lines) is hard to do",
+   "url": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
+   "date": "2026-08-10T16:42:29+00:00",
+   "summary": "Here’s a seemingly simple question: given a chunk of multi-line text, how do you split it and return an array whose members are the constituent lines of the text? Hopefully, your first instinct is to reach for some sort of standard-library ",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Qt Designer and Python: Build Your GUI Applications Faster",
+   "url": "https://realpython.com/qt-designer-python/",
+   "date": "2026-08-10T14:00:00+00:00",
+   "summary": "Learn how to use Qt Designer to build Python GUIs with PyQt6. Create your main windows and dialogs visually, then load them in your app.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
    "title": "#558: Hyper-Personal Software with Python",
    "url": "https://talkpython.fm/episodes/show/558/hyper-personal-software-with-python",
    "date": "2026-08-10T13:21:27+00:00",
@@ -1116,6 +909,36 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Talk Python to Me: #558: Hyper-Personal Software with Python",
+   "url": "https://talkpython.fm/episodes/show/558/hyper-personal-software-with-python",
+   "date": "2026-08-10T13:21:27+00:00",
+   "summary": "Every company has one. The little internal tool that Jane built back in 2021, and then Jane left. Nobody understands it, nobody will touch it. There are two unwritten rules around it: don't change it, it's working. And if you break it, you ",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Ed Crewe: From Routing Checks to Trajectory Testing: Evaluating an Agentic Chatbot",
+   "url": "http://edcrewe.blogspot.com/2026/08/from-routing-checks-to-trajectory.html",
+   "date": "2026-08-10T10:37:15+00:00",
+   "summary": "pre[class*=\"language-\"] { border-radius: 6px; font-size: 14px; overflow-x: auto; } Which Agentic Chatbot? I have been working on a Python based AI test framework for a chatbot interface for my company 's product, Postgres AI Hybrid Manager.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Django Weblog: Django is moving to an annual release cycle",
+   "url": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
+   "date": "2026-08-10T09:00:49+00:00",
+   "summary": "Django's Steering Council has accepted the Django Enhancement Proposal DEP 20 to move Django to an annual release cycle. From January 2028, Django will make one feature release a year, giving every feature release the LTS-level three years ",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
   },
   {
    "title": "لغة \"البايثون\" في البرمجة.. مشاركة مارتيروس في أصعب مسابقة برمجة أونلاين | في النور",
@@ -1128,6 +951,36 @@
    "lang": "ar"
   },
   {
+   "title": "Ned Batchelder: Caller-specific coverage",
+   "url": "https://nedbatchelder.com/blog/202608/callerspecific_coverage",
+   "date": "2026-08-09T17:56:25+00:00",
+   "summary": "I ve had an idea rattling around to get more detail from coverage measurement. Can we measure the coverage in a function separately for each caller of the function? Here s why I want it: in Acidica , my toy BASIC interpreter, I had code to ",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Ball Python Morphs: Which one stands out the most?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMW1qd2U3MzBtcjAyNjJWY256ZV9jZlAybkFYZkV1czZkeEE1cDBrdVpmX0RPVEd2U2JSd3JDQm1MTXBpOWpLYUstZ3U3VW5HNjNRU3Z3?oc=5",
+   "date": "2026-08-09T17:23:02+00:00",
+   "summary": "Ball Python Morphs: Which one stands out the most? YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "LernerPython blog, from Reuven Lerner: Free real-world Pandas exercises, with solutions",
+   "url": "https://lernerpython.com/2026/08/09/free-real-world-pandas-exercises/",
+   "date": "2026-08-09T14:12:10+00:00",
+   "summary": "If you want to get better at Pandas, the hard part isn t finding tutorials. It s finding problems worth solving. Most exercises hand you a tidy little table of five rows and ask you to sum a column — which teaches you the syntax, but nothin",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
    "title": "القوائم في لغة بايثون | Python Lists للمبتدئين | الدرس العاشر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wMkRBUU5xNkNPaVoxU09GdmdWWG9wWTBjV3J4UlV5NXdtSVRvclIyeGJsZjdhT1Z5QTFCY1gyT1dnZGdMWGxOeXhwaTVrOHEzVUVpalFB?oc=5",
    "date": "2026-08-07T15:00:01+00:00",
@@ -1136,6 +989,116 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "The Real Python Podcast – Episode #306: Programmatically Developing LLM Prompts With DSPy",
+   "url": "https://realpython.com/podcasts/rpp/306/",
+   "date": "2026-08-07T12:00:00+00:00",
+   "summary": "How can you move from manually writing prompts for an LLM application toward defining them programmatically? This week on the show, Brett Kennedy returns to discuss his new book \"Building LLM Applications with DSPy.\"",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: How to Use Type Hints for Multiple Return Types in Python",
+   "url": "https://realpython.com/quizzes/python-type-hints-multiple-types/",
+   "date": "2026-08-07T12:00:00+00:00",
+   "summary": "Test your understanding of type hints for multiple return types in Python. Practice unions, tuples, callables, generators, and type aliases.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Django Weblog: Call for applicants for a Django Executive Director",
+   "url": "https://www.djangoproject.com/weblog/2026/aug/06/call-for-applicants-for-a-django-executive-directo/",
+   "date": "2026-08-06T14:45:00+00:00",
+   "summary": "The Django Software Foundation is announcing a call for an Executive Director. The Executive Director is the operational leader of the Django Software Foundation, a paid position reporting to the Board of Directors, responsible for setting ",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: Python's Assignment Operator: Write Robust Assignments",
+   "url": "https://realpython.com/quizzes/python-assignment-operator/",
+   "date": "2026-08-06T12:00:00+00:00",
+   "summary": "Practice using Python's assignment operator to create, initialize, and update variables, plus augmented assignments and the walrus operator.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Validating Data With Pointblank in Python",
+   "url": "https://realpython.com/python-pointblank/",
+   "date": "2026-08-05T14:00:00+00:00",
+   "summary": "Learn how to validate data in Python with Pointblank: declare quality checks, split clean from failing rows, and rerun validation plans from YAML.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: Validating Data With Pointblank in Python",
+   "url": "https://realpython.com/quizzes/python-pointblank/",
+   "date": "2026-08-05T12:00:00+00:00",
+   "summary": "Validate data in Python with Pointblank. Declare quality checks, split clean rows from failing ones, and rerun validation plans from YAML.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Python 3.14.7 and 3.13.15 are now available!",
+   "url": "https://blog.python.org/2026/08/python-3147-31315/",
+   "date": "2026-08-05T00:00:00+00:00",
+   "summary": "A pair of bug fix releases await your upgrade.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Sending Emails Using Python",
+   "url": "https://realpython.com/courses/sending-emails-using-python/",
+   "date": "2026-08-04T14:00:00+00:00",
+   "summary": "Learn how to send emails with Python using SMTP and smtplib, attach files, format HTML messages, and personalize bulk emails.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: K-Means Clustering in Python: A Practical Guide",
+   "url": "https://realpython.com/quizzes/k-means-clustering-python/",
+   "date": "2026-08-04T12:00:00+00:00",
+   "summary": "Check how well you know k-means clustering in Python, from picking the number of clusters to building and tuning a scikit-learn pipeline.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: Sending Emails Using Python",
+   "url": "https://realpython.com/quizzes/sending-emails-using-python/",
+   "date": "2026-08-04T12:00:00+00:00",
+   "summary": "Test what you know about sending email from Python with smtplib, building messages with EmailMessage, and connecting to real servers over SSL.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "Python 3.15.0 candidate 1 is here!",
+   "url": "https://blog.python.org/2026/08/python-3150-rc1/",
+   "date": "2026-08-04T00:00:00+00:00",
+   "summary": "Get those wheels rolling!",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
   },
   {
    "title": "#557: Security of everything at PyCon 2026",
@@ -1182,16 +1145,6 @@
    "kind": "podcast"
   },
   {
-   "title": "10 أفضل مكتبات بايثون لGUI",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtenpZb0N4dGZoY01MSEpSa2JTd0hYemtYam5lZFFiR21VVXBlc2JCYVpfS0U5UjZiOXZVeW54WDN3bWRjYlU5S001TkRIS2ltSVJBQVpLTkZISDdfTUlMRWJEU2U4d3Rq?oc=5",
-   "date": "2026-07-20T07:00:00+00:00",
-   "summary": "10 أفضل مكتبات بايثون لGUI Unite.AI",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Unite.AI",
-   "lang": "ar"
-  },
-  {
    "title": "#488 tau - it's 2pi and it writes code",
    "url": "https://pythonbytes.fm/episodes/show/488/tau-its-2pi-and-it-writes-code",
    "date": "2026-07-14T07:00:00+00:00",
@@ -1212,16 +1165,6 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
-  },
-  {
-   "title": "إطلاق دورة بايثون لتأهيل العاملين على التحول الرقمي ببني سويف",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1CeG1fMjdfWkhDZUlHSGoxbDNJRUNIU1RyenZUYlFsQjg0eEhheVNZQXVvYW9qbWVXdFladEo5dGtHUDZMU2tr?oc=5",
-   "date": "2026-07-13T07:00:00+00:00",
-   "summary": "إطلاق دورة بايثون لتأهيل العاملين على التحول الرقمي ببني سويف فيتو",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "فيتو",
-   "lang": "ar"
   },
   {
    "title": "#554: Trustworthy AI in Healthcare and Longevity",
@@ -1246,36 +1189,6 @@
    "kind": "podcast"
   },
   {
-   "title": "الولايات المتحدة تكثف جهودها للقضاء على غزو ثعابين البايثون فى فلوريدا",
-   "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxQWmtxX2RXd2Z1VDhobW12dmFDZ0t4cXlGTGhtcVhZQlE4WUdkYmdldURSWURXVmJsQS1FT2tKQ2JHTWd5dTlRUGNHV0Zhd3E3bG1jSGlnN0MzWlRFTmhIWWdnQWxzQnVxNzc2d2I0T1UtQ2NWX3V2YjZyeUd0Sy1lZjAycGNTazhlZ19FN0FwWkZxUUxmQUVVRFRsb3I3OTAtdVFjTWctTkdsZFpHQXV4ZlZXeVV0NXM1SFRiU3dSeGIzNThONG5pVDNMcFUtQS1tRGd2cVhmcnY3UGJIOUtZMEhVVzhzclQtdUFPQWhmZzJQcFFFcUU5em13SjB1MlZEdHRyUlJuVzRwaUI5SWRaUGZqM0RpSEMwaVppVkFRal83UDBRMnpsbUxjajhlVHBBc3prV2QyenhacDZzMUp0NnF1eVRmY3A5dkJZVS1yZzdTT0N4b3FyaW9XemhBcDRESkR3anRkOHBLcGhRdTJ1V3lYdDZrZy1KbXd6aXZzN3Y5Vm9YQ2MzbXVKdktvSmt2VGlEcnhta2lsMURBYzlrdm1faXlMS1l5UTViblhlM0NfUUowVnMtdXFVNFZhcTJuU05SSEM5NTVJS3V6UDI2X3IxTzFYWjdPVVl3ekIzYkdaNXltOG93SmtPQThtRzBCNjdmdVlCY3VlM0lHUEUwTzl1eENYallHYXBJc9IBhwRBVV95cUxPWHUxQk04Qnlic0YwMmJ4WE1aeC12eDFhdVNJSUR4eFhObjlvRlpmblJJcmdIUWFiMzY4QjN2TTZWaDNrdUVzN0dRVU8wUlhNMUoweTB0Mzhwc25rdWNXZjd0c0xDY3F6eXl2aHN5TUJOUnY0UWNhUXpIV291QXlJRkF1U2I1cXExRENHYW9tRkczd2thMldkbVItSGhqQWt5NDA1Vk1YRUxfZjB0V2xzYTU0QVZrZWxsdUZsVkxQd1ZFY1g1cHlQSi1hSXRtRlNob2Z0YlN0cThaQklBeHBVTWQ5LWs4YXdOVVhpeXZrQU5iUXZKRURqS0lGQ29JMEUyWTlZTXVpYXExcExSVUt2eUdMNkptS1FaMU8wLUdhek5wazFySl9KeHdMR01OWmxCNDhMWDRWTFVHV3hWckRDSURVcnhodjV4bEt0d2owSk1zOXg5WVhWd3dnU0c0WUlMT0ZHMk1nWXloMXVNN1Jfbk85UFFsNnZucnAtOS1SMHlNdExtanpNbkRmWERsZjdYUjZ0S1lLVUxIT1dXZTd4MnpKWXRZV2hIVHRUMXhXMUk0bGQyNVNWeUl5Wk9MblhPSWE5QXNkSUVQYWNvZWJMSGJzVmF5Q2NkQ0xxaDl6VXRJa1JaVlVMbGZjNU92WUFtS2lxTnVjclNvOWpnVGlUc01oZktUam8?oc=5",
-   "date": "2026-07-06T07:00:00+00:00",
-   "summary": "الولايات المتحدة تكثف جهودها للقضاء على غزو ثعابين البايثون فى فلوريدا اليوم السابع",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
-   "lang": "ar"
-  },
-  {
-   "title": "جويلية المٌقبل: مدينة العلوم تنظم المدرسة الصيفية في ''علم الفلك الرقمي باستخدام لغة بايثون''",
-   "url": "https://news.google.com/rss/articles/CBMigwZBVV95cUxPYlNwSEg0RU42cmx6TW9wOEN2SWEyM0JXamFuMDhOdHFtWERoYVI2dzZGRXA0UWtHbXBScG9rSTlmcnE0RjhicUJReF9HV3RGTFZEcUUtYmxETC1jYlI0cmFiMzFnWDJfNVNKLVBsVVRWS2NiRzlpaUY3bDR0S2N6TjFiT0VTcnNzdzNKa3FCUUwyZi1mQ3o3dUJIZEVfaDg4LUZGZzB3UDlJX1pITHlEcW5vaV9qVHFHX2Nibm9pYkkwTHQwLXl5TWtIM3gyNTE3bFg4OW0wWGRSenJYMEF2MnVXNjZOLURneEZUNDZPVGNfSkVKRFBkR2pnYWZ3SC1zZk92MXh5YjlHNVhsZDhGWmFVcE9IMXdGLXBULVdmNHR1NzhnUlhsTmJiTU44eUVMdFFfZGk1bC1BQU96ZFNheUcwYTJqOFI5c1dmaTNhOXNPVElrNlFMeUJoLUFNR1ExSVRhRnAwaXBrcHZ0MExKNDFfNmgwczd1b291ZDRkTDM2N0gxb2hYZ1g1bTd5SHgxZ3NwZ01yRzd4WWM1dFVWb2NTdHpzR19zc0hXWk5WeUNWTVlwbjVzOWpjVWtDSWw1XzJ0dHg4bXF6UjRGWGRWdWRZQ2NZdVRadDdXZHVnWS1WTUM1aW1EOElLVUp0alVMWUJUM1RSZUJpOGJRMnpsanQ1ZXlqbVBMRGF0T2JXdldORGp0SkRncTV5MGkwVEkxU3ljczY2SEtveU9LNk1PZUpWX1JmQzkwdnAxUkhic2haU3dEMEpyV1c0NnN6NzdXLTFqZjQ5TXlyWDlLTjBhcnU1MFNMc1UxWnNKTVdDckp1Z3B3THpoLXJSTDZ6eVREU1l4MWNzcHFrYzBPaVp5eXA2UXQ2RTVFT0s1VHFmNkotel9kbFAwdHJjZUVKY1Qya3o0SC1kQWs5TFo0bmxyeTJNMDE3MkFQemVlbktfRGd4X2pIMkRNWFhxTTBNcFhZajFhbFVVMXB3cENpU0tRdE9hWjVSN2NwTkRwb2FxakVkaVnSAYgGQVVfeXFMUHAza2t4aFg5OEphbkNBRjVzZmRYNHpoekpyTm5NNGlzRlZQYnh3S19ZcTdSYnMtQ1ZrRjVTWUZ3cG5hZExmNENUWG9VY0NpZUJLQkxFRnNyemZDNl92a1lFTnFtRDhXQzVGWEtSQmJoZDFaTUtuQWtJbXQ0aHM3TmVmQ2lFajJITkpZUXdiS3IwX2EtVGE2RUZsbU5obldjZzNubHNBRXZLd3NJUENaMW5tYm80RTkxOHljX2c4N2pRSUw4T011QjBLeTlKQWk5cld3SjJqeGNrOWRqX3VFNnd3NndOS1BmOENCM0JsNHAwck1yVUhQbG5oYTl4cmNoOGt0OHlXV3FPZ09BeGpwNHVrWXY3VlBzOURPaHJmMnNoY3lvM1c2bHJ4dVFsc2luck9LZm9xYVRFSFZaaTJ1S2tVcGJhQUVyTE1GcWE4ZzBEdDl4b0xkV3hQVXBLclp5NDlVNlJNQzdZb28tazdRZDB1bjBLakF6WHdfdURzM0o4aFpHejRfMkRqOWFoRERNZWE4cUQ0aHR5VXFKYmdpWGxVcm91SWpRT21MSkNLMXNVTVQyT2g1UDhlcXdBbnJRTUZadU5qaUlHYVFKUllfTm1XUDVRUmUwVEVuT0JGdlViR0s1RjRSTnB5OWpRNUhkWjZJRVdQck5BTUR1TVk3OXc1MkRnWm0xNHFPSlJQc2pMcWd0OFBOZlFtaXVHSW8yY0syeFJDcnUwS2xtazIyemRwbFBOR0ZQdEtXT2xYeUYyTUdJYmgwbW10YlEwS25SWXNKSk5pVElCZkJYejJRYWZhMW42M3dESlpUd2hLcGh3Ml9ZOGZlOWRNOEUwV3pwYXRWcVlPOFRid1AxTWdPM0wtQ20zN1c3QkJjdnQ5XzdaQjlRbm9meVQ1dG91Nnl6M1lfTzlfeFdBdTJwSlQ2WVdjTy1uVTVVQVM1TldlSmV2bmZuVG54M3dpNDE4ZG5jLUxYSlpNNDBncUNiVERHVzUzZlFGU2lKM3pVS0wwdkJ3WGE4NFVjZ1U?oc=5",
-   "date": "2026-06-12T07:00:00+00:00",
-   "summary": "جويلية المٌقبل: مدينة العلوم تنظم المدرسة الصيفية في ''علم الفلك الرقمي باستخدام لغة بايثون'' Nessma TV",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Nessma TV",
-   "lang": "ar"
-  },
-  {
-   "title": "5 أفضل دورات وشهادات بايثون",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Z0stM2YxVG9vSE1YSDdjODhsdy1YakhJY2pHLTVpbXJyWG5DSWdkM0ppdHJVX1l5MTZXaEpQbGNpODJlN2RmZUF3SjZBTWdHTUd2Tmp0R0YzMVc2NXZN?oc=5",
-   "date": "2026-05-25T07:00:00+00:00",
-   "summary": "5 أفضل دورات وشهادات بايثون Unite.AI",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Unite.AI",
-   "lang": "ar"
-  },
-  {
    "title": "انضم لتعلم البرمجة بلغة بايثون | 14 ساعة 💻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBaVlfNkdzd3dySkhVTTlaak5xaGxBempWQmRKeWNHMzlGZ1ZKbnFfSUZBZDlzcHJ0NWVGbEJUWmJtZGNuVGM2TlZpVmVDUzF4dWtha3pn?oc=5",
    "date": "2026-04-13T15:58:47+00:00",
@@ -1283,36 +1196,6 @@
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "ساعة ناسا الذكية التي تعلّم الأطفال البرمجة بلغة بايثون",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZN1g0OTRSemFINXN1TkVFZnotWVV0Y2F3R0RrcG5jRTBDQlhxZk95SkxPTVBHYWxWbFk0VE9CclFybnA0X28w?oc=5",
-   "date": "2026-04-07T07:00:00+00:00",
-   "summary": "ساعة ناسا الذكية التي تعلّم الأطفال البرمجة بلغة بايثون elbalad.news",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "elbalad.news",
-   "lang": "ar"
-  },
-  {
-   "title": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wcnFHcmpXaFM2U3JycDFvWXBjRUpYem5WcUpCWHg4dG84Q3MyZFlRWlN0YmdtSjhGdXBadGdyUWR1OG13WEhlSDdMOHJGQlhmY0E?oc=5",
-   "date": "2026-04-05T08:15:31+00:00",
-   "summary": "نقابة المهندسين تحتفي بتخريج دورة البايثون وتؤكد شراكتها مع كليات الهندسة وكالة عمون الاخبارية",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "وكالة عمون الاخبارية",
-   "lang": "ar"
-  },
-  {
-   "title": "أفضل 10 خدمات استضافة بايثون: تشاركية وVPS في [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWEhuV3Uta0U5TEVmcGh1MEhGVE12NU5zYllKR0k5Y3NORnNFa1NVU2wwRXB3RHpYaU1tS1ZpVXdzVXZRd2hXSFJZekEtZU1ZaWdjTjhSZXdSSG1PNndiUE81TFB3dHhsRUhmTTlyXzJoXzRqSUszZWdGS3NFMHVjVjNWUThtTnZObGZlVWluQjk5bUg5MFRPSUw4VDZzb0xVTExnM0FOUlV3NkhHQjhYcnhPRVI3Umxqa051dm94YXI0SEJMdFdyaHlBb3lkVTlwbEgwMExSYzNCMWI4THJXdlR6OUxnVmRBVGMwSFU0WUtHYmo4aWJvdzJOTU9aS1ZhZTBjNw?oc=5",
-   "date": "2026-02-23T08:00:00+00:00",
-   "summary": "أفضل 10 خدمات استضافة بايثون: تشاركية وVPS في [2026] Website Planet",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Website Planet",
    "lang": "ar"
   },
   {
@@ -1346,26 +1229,6 @@
    "lang": "ar"
   },
   {
-   "title": "جامعة دمنهور تواصل عقد دورات تدريبية في أساسيات البرمجة ولغة بايثون",
-   "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOc1JCQjY3c1dPYWJta2kxejF6d2dKZmdVeDVweHJFNEdEeDVRT3hLcHQyWUh5WDNLRHhXY00wOHRLMWNzYzU4YS15WEJVSFdYVTdyOEsxWW1meEp0WXFYVElsQVFTQUtnd2dCZjk0WXc2dUJCYXlnalB1OURyYzljMW5hVVlkY0hqMkpiNk9tZ0QzcjhDQ2JqSHlpT3VBMThDOFQtSFF4Q1F3ODAyZ0g4VFJVampVNC1YUDBIdG1aVW9WNjBiVGNMQml6WGFyNHp1ZHVNTE5rQjZ5SmN6X0hjcGozem16Um9pRG9tUW53NExNUjVLOHJTN05RNGJUM1cxVThRMy11dTc1M3JYY01uelZzMi1SOS1zWDFuQXhGN1V1a01kenFraDVpV2tFRC1xdGdXeEd2SUFESzhXaWI0NXBVZC1fT29hQ3RRWHNTSDRtOGh6aWZtemVXZVBJd1FybnZXekMzZUM4THlJQmpUUVRyb0RZTUV1dDhjRENQdXJ1Ri1pM18wT3gteUJ0SElJZmNxV2pidkRDMUR1QlZUQVFDdFZDWVg3QzhUV0R0d0ZFSVYzcXBSNjc1eTdabjhfQUhDM2g0MmU4WkxuZ1Z4UTNBUlBuQmtpcGJuaGdDa2ZGenk5QzdTcDI4eWZNWTUwanllWmxUcDlsanZzSW840gH6A0FVX3lxTE5YNTdsXzBHRHRvd2Vxd0JCd1U3Z3lXLXB5bVJsLUNkTEkwZUU2T2tmNVBveU1aUVBSRlRmbjFSUzRlR0hmQ0Q1NlNHcUFpd0xzUGc5Z3A5MHJBdGprY2NTRTdJeGd6SmE3U2RjRFV4NGd5RUhaS3Z3S29sMEN2UDg3Nkc3MlQ5cTFwRENSN2NleVdyTTVyZ2gtVHhES3FWaEhoQ2Vrc0RkZGtiNDBHU205WmhRbDU4aXRSTVkzek5JMWxidDZBbjBRQkxLOEMzNXlRUFp3RlZ4Y0JwdmdrcF9uNWR6VVlRYVRpNDZoNHpJbXVTTE1GaXFGSjNxRW11akxBMXZjdFV1MU1sZzlCQVpITUg3ekhQbWdJQnJhSlFreEVHTDQ2V3ZJNE5mWXNYQ3drTm9qYVJxcGlJdVNlWE1jSXVXNVl5R2d0dXRUNjF0LUtOeWdaSmo0bWxleGxWRVphdXlMZmV6MEhBVTBLYno1OV9YSUhmX1hnNkVuTUtEam9MbVlCb3NvWFVQbjhJeERLaElBdWhIbFhnMTd4WGtyQW5SQTdYNmVheXIxbV81NE9RWDZjNTRDc3lIVzlfQ0dzaVpDZmRvaXJkX3BEYU5vbG45YWlLWkI4ZlVra3NhMXp2NFNiYUdlX0JPaDJxZ01QYVpKSVhmZE53?oc=5",
-   "date": "2025-11-17T08:00:00+00:00",
-   "summary": "جامعة دمنهور تواصل عقد دورات تدريبية في أساسيات البرمجة ولغة بايثون اليوم السابع",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "اليوم السابع",
-   "lang": "ar"
-  },
-  {
-   "title": "جامعة النجاح الوطنية - اعلان دورة: المُبرمج الصغير – اصنع تطبيقك الأوّل في لغة بايثون",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWUwTHowbG95TWphdWR1RWh6NUU5cUg0ZEpYOFUzSXp6bVIyRnlqWi1NY0YxWDI4N0dJd2FUWFY3MVZWTVFjSjRWMHFLZnRVSDluUGJZR0p5UEh0ckdhNFhwSTBZQTRQMllnY1Y0NkcyUVVUYmo1cEk0dHNJYVRYdjZ5cEFhOTRsLW9LODd1VjgzS2pjNlJUb3hWcTZuLUpubUVHRk1ud3c?oc=5",
-   "date": "2025-10-12T07:00:00+00:00",
-   "summary": "جامعة النجاح الوطنية - اعلان دورة: المُبرمج الصغير – اصنع تطبيقك الأوّل في لغة بايثون najah.edu",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "najah.edu",
-   "lang": "ar"
-  },
-  {
    "title": "مشاريع بايثون للمبتدئين | احترف التفكير البرمجي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrWGU2UXJPTGpJZ2VKOHUwSXVQVHc4WHlqaEg0cGtuakVkdlBhNVd4Q3lIV3REQlZIVVdHaFFPX3VhbWN3UUdreDd4aXhzeFRfQ2lraDZn?oc=5",
    "date": "2025-08-09T14:07:52+00:00",
@@ -1386,13 +1249,43 @@
    "lang": "ar"
   },
   {
-   "title": "لغة برمجة بايثون تحت المجهر: هل تستطيع الصمود أمام تحديات الذكاء الاصطناعي الجديدة!؟",
-   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNaDZ5LXowWVZmUGVKbmpaamdlb3UxcVM2NkVsY2NNMHdicUNQaHFZWkw3emZTeXRUTW5HUWJoR3pWYVp3VHROYUUwYWhjcWhVcl8wWExxQkFVV3VLSnQ1RlU4OXE0Z2lNbEhXcVlxSG03OEpYTDJrYlBieHAxZUU4cTc5N3hFa0k4cTNvcFJCRU5ORXpSNW5TWHBKc0ZuU2MzZmRCaFBxVW9EbW5zQVN1RlVJVXNIVmJXeTQ5MDhLU0xweEN1NWx2SlJCTmh3RmE3dVY2SDNHdmd5ajBxWWFvaWZvWU1CWEJNMkc0OWMzZzZEM2Ytc0xROHNvWnRRTUhURXNmYWNINWhCOTd4ekF0NVBJckNEYzU0NWxVaEhabUZ0dzdLdWc2RlRhNkdJQVViWmJ5em5WcldVSV9PMDJLS2lsVWtadFk?oc=5",
-   "date": "2025-06-16T07:00:00+00:00",
-   "summary": "لغة برمجة بايثون تحت المجهر: هل تستطيع الصمود أمام تحديات الذكاء الاصطناعي الجديدة!؟ Arageek",
+   "title": "Python String Methods Part 3 #13 | كورس تعلم لغه بايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaUJQZDNzc2ViNmd4REoyVTRXWUpJT1Y4alNzTElBRXdIYnNQRGlfZnhSSHNiR3RqNWhaVC1lTmYwOV9VMUdDZTlYNjdrcThTeUNMRTVB?oc=5",
+   "date": "2025-06-26T13:53:07+00:00",
+   "summary": "Python String Methods Part 3 #13 | كورس تعلم لغه بايثون YouTube",
    "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Arageek",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Python String Methods Part 1 #10 | كورس تعلم لغه بايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jcDdmMjFnRVFyaFBTWE5oaDRJQ1IxLXMyaVpUMl81dkxaalpZRUFsQnBzMHo2SW5yeTBWVlM5UER6RW0tcDJoeEhTUnYtZ1lnQk9XV09R?oc=5",
+   "date": "2025-06-18T11:08:06+00:00",
+   "summary": "Python String Methods Part 1 #10 | كورس تعلم لغه بايثون YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "How to Customize Pycharm IDE #4 | تعلم كورس البايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXbTQxVkllVzBXaFJmN2hiaTFzdUNVeVU1aXNmS3YtTEI4aVBMV0o2b2NWZGNCdHYwMW1IQUFTZ2ZnRDVjTGJLQ2szZkM2WnVnUnUwYkx3?oc=5",
+   "date": "2025-06-12T14:08:34+00:00",
+   "summary": "How to Customize Pycharm IDE #4 | تعلم كورس البايثون YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Introduction to python Course | كورس تعلم لغه بايثون من الصفر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mUDBTTW9FZ1lwcnlHeXgwZENlbkFHa0RqU2pTd1FfcWNyWmhoRndoV0trRUhXNUhfdzRuYVB3cVJrMDEwak5XVC1TSWc2eFlNUzFndV93?oc=5",
+   "date": "2025-06-10T16:57:07+00:00",
+   "summary": "Introduction to python Course | كورس تعلم لغه بايثون من الصفر YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1406,16 +1299,6 @@
    "lang": "ar"
   },
   {
-   "title": "لغة بايثون.. مفتاح الصحفي لعالم البيانات",
-   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOQlhtLUpucWI5VXczVFNwLXI3ejV2LUZwOUtWaUdYVHJzWEN0U3Ewb3hXX1Q2VVdaLUdCRkViUXVlQmZVdXRVbFRFdXBaZVlOYVo3TDV3QkFINVpzdE5pcjJBZTNVVGNzZmhScVFvYlVFaHRpX1gzeE1BWlR2T3hQWl8wTTVUZks0elpJaHoxUnlneE12a2JreFV1UVVCbzd3SDVTT0FfMXJRa2QwSE84SUJVZ1l4RFgwc1RTT2FFc0xWYm9ZOWxNSktORlZlYnZPZE5KMTUzek52a2pmRFZ1YWVudnd1VDdEb2t2YklaTFBuU3NoQ01OWjdCZ3VxT2pmSGlpano0MW4tbl9hNFFhcGJsdlR6QU4tX252THZfVWZqOFlwVjRhc3RYWnRsX2ExOUdjQm9GU2Z6NFlBWjFrdnBld2dmcFFFcjRDSTFrUQ?oc=5",
-   "date": "2025-02-28T08:00:00+00:00",
-   "summary": "لغة بايثون.. مفتاح الصحفي لعالم البيانات International Journalists' Network",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "International Journalists' Network",
-   "lang": "ar"
-  },
-  {
    "title": "اختصارات في العمليات الحسابية لغه بايثون | اليوم 14",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8teFZPLVpPV2RFTGtrVjJwelZQdk1ZeUdjR2ZEZlR1Z0pMUWZ3anJic3dhUlFqSHJpY2F0NE1rQmVZc0daNWNfb1o2aEl5UXNkd3pYWXln?oc=5",
    "date": "2025-01-20T15:44:57+00:00",
@@ -1426,13 +1309,13 @@
    "lang": "ar"
   },
   {
-   "title": "«سدايا»: إطلاق برنامج خاص لبناء تطبيقات الذكاء الاصطناعي بلغة بايثون",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0QxOVZxZG5wTzR2bkdvbFM0Y09aLWVlMzNSeUdTMDBiM3RsSmNFV0ZiS1VrQ3dNbk1Eemd3aFI1UWdGanM0TlE2WkZZODZUMm5jTDF3NXhZQi1lRW5iMXVkZ1Z6RkJfQllDUnZJNmhCb2o3S1hRdFVRS01fbnRnY9IBVEFVX3lxTE9NanZscWgyd3JwV0hjY1VqQUl6OWdsTEFPYmIzbXlrSWFZa2gzek5IQnc0NGZhWmFyYlg5OHNEUXpIWjhPdk1kM1lZa2RjV2JGX0dyaQ?oc=5",
-   "date": "2025-01-07T08:00:00+00:00",
-   "summary": "«سدايا»: إطلاق برنامج خاص لبناء تطبيقات الذكاء الاصطناعي بلغة بايثون عكاظ",
+   "title": "مشروع بايثون والذكاء الاصطناعي كيف تدرب السيارة القيادة لوحدها AI python",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaS1tdFhFT0VnNkczMWZSbDBLLXFnRmd5UnU2M1JDYXJHbUJUMTF2YnltZzlNenB3c3FPSnVraVVSS25TOUN4UktCM1JPTjNSNUlzczJn?oc=5",
+   "date": "2025-01-11T15:31:56+00:00",
+   "summary": "مشروع بايثون والذكاء الاصطناعي كيف تدرب السيارة القيادة لوحدها AI python YouTube",
    "tech": "python",
-   "sourceId": "ar-news",
-   "source": "عكاظ",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1476,6 +1359,16 @@
    "lang": "ar"
   },
   {
+   "title": "تحويل الارقام للنصوص | 30 يوم لتعلم لغه بايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96djlqb3hMNGlWNmVTb3NCUnFhQUtNd1k1VUUzeFotcldzbnVSMS0xX1pjYUs5cjFzMUc5eVFYUzlhYlFCVVZzOFpUb1hOYXdqNnFkWGh3?oc=5",
+   "date": "2024-08-11T15:23:28+00:00",
+   "summary": "تحويل الارقام للنصوص | 30 يوم لتعلم لغه بايثون YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "اليوم التاسع العمليات الحسابية | 30 يوم لتعلم لغه بايثون",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvZHluUjh0aXdqbHYzczFycXB5aUcwZmZkX3l3VHN2Y1RoZFhQQ3hYLTRLbzFmYl9vRnUwOXAzZGFoQkJ6MU0xM3VUTTZTMmRjUlQ1SV9n?oc=5",
    "date": "2024-08-08T17:00:10+00:00",
@@ -1483,16 +1376,6 @@
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xLVlRaGJ2cWRpdFgxNUk2UHJ5NENUT0Z0M0xCR3VtUlgzOXB3UDZMeURGSEhJcklGR2VoQ2J4ZXFvSVBQbTRIa29zamNpcVV5aXZnNDFWeFI5YzItV2c?oc=5",
-   "date": "2024-08-06T07:00:00+00:00",
-   "summary": "لماذا بايثون؟ مزايا وفوائد تعلم هذه اللغة Sharjah24",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Sharjah24",
    "lang": "ar"
   },
   {
@@ -1526,33 +1409,13 @@
    "lang": "ar"
   },
   {
-   "title": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون| صور",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14QmlSUnNrSkdKUi1rRENtQi1CRWJQbkVVaDZJTzl6REM1cVhua2VhZ3BOM1RJQVFrRzVId2FxaEdyR205NkFDblJtbHY1NjlpRGhxS0dn?oc=5",
-   "date": "2024-07-14T07:00:00+00:00",
-   "summary": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون| صور بوابة الأهرام",
+   "title": "أهم 10 مكتبات في بايثون لاااازم تعرفهم ! - 10 Useful Python Modules You NEED to Know",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lMWthRFJObGNucllBRU5raUNMRjkwWU9JekhuZThVSWVPMVkwbjA3OXVrQ2JLMzFLMjFyYl80bHY4VEFNbEVIa29GTEllNUl2Y2FDVFFR?oc=5",
+   "date": "2024-06-26T06:47:02+00:00",
+   "summary": "أهم 10 مكتبات في بايثون لاااازم تعرفهم ! - 10 Useful Python Modules You NEED to Know YouTube",
    "tech": "python",
-   "sourceId": "ar-news",
-   "source": "بوابة الأهرام",
-   "lang": "ar"
-  },
-  {
-   "title": "كلية الذكاء الاصطناعي بـ جامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41ME9NTkVYRFlxcDkzRHZoNndKdVBwMmMyZ3NaRUdxNlNQTU9hcEJhWlp6cjE1SG1WalhSVUdCM2xjT09lNEw0Mlh6M3ZiNk1XUF9jRzJXYjIwZUZINTNZ0gFjQVVfeXFMUEZrOGEwcTdDaEpqc01QRWZJaWp6UXhnTGRaaWV5SHNpOWdGdk9EZ1dxenBNTjg4eTloNHNKaEZsY1NTRGwtalluQkR6Ty0wREhVbUoycThFRE1Pcmh6XzNGUmxn?oc=5",
-   "date": "2024-07-14T07:00:00+00:00",
-   "summary": "كلية الذكاء الاصطناعي بـ جامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون المصري اليوم",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "المصري اليوم",
-   "lang": "ar"
-  },
-  {
-   "title": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54YVFOa3k5UFQ2djFjSlEyLXBGNFhLS1pvamk0MmQyd0VQVm5ZZVlpTzFSejNSQlJSa2ZWbll3Q2tDMHFQcUs0?oc=5",
-   "date": "2024-07-14T07:00:00+00:00",
-   "summary": "كلية الذكاء الاصطناعي بجامعة كفر الشيخ تعقد دورة أساسيات البرمجة بلغة البايثون elbalad.news",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "elbalad.news",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1596,10 +1459,30 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم بايثون من الصفر للإحتراف: continue , break مع اللوب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGM1dUb1F3ODNQNXF4eG9xZjhGVnBIcDB1bFVFSm16WnlMSjh4RFhadDdUTHkydjJuVnM0VFktbmVabzlZTmpDRzAtak42bHNZOTBneTdn?oc=5",
+   "date": "2024-02-09T13:00:05+00:00",
+   "summary": "تعلم بايثون من الصفر للإحتراف: continue , break مع اللوب YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم بايثون من الصفر للإحتراف: تبديل الخانات الفارغة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56RWRHU003RHJaZFkwUnpCZWhMa28yZnBCX1dnTFNaUk1qbFNPTjhxR2U5aTBSSGxTZHJGMElsRnlUOHJkRXpmakxieXp1aG1vTHZ3QXVR?oc=5",
    "date": "2024-01-24T13:00:09+00:00",
    "summary": "تعلم بايثون من الصفر للإحتراف: تبديل الخانات الفارغة YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "بايثون مشروع تنزيل الصور وحفظه python projects 15",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mWXI2Nm91aUNiWmtpblplemY5Q1V2WExORzZQVnVQT3RySG9SZmR2Q3NvX1Q1dE9DX1lVWEF6S0dPLXRMUFJWam1JeEFkTDg3TTdET2dB?oc=5",
+   "date": "2024-01-19T10:04:17+00:00",
+   "summary": "بايثون مشروع تنزيل الصور وحفظه python projects 15 YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1616,6 +1499,36 @@
    "lang": "ar"
   },
   {
+   "title": "بايثون مشروع ترجمة قاموس عربي انجليزي 6000 كلمة بدون انترنت",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1na2FBbmIyZXVxdmFRdWJLQWQ4TzRMT1FUMEtuSF9DSEZ1WWxUUWYzMkZSOF9vdDRuT25NMnNBOTFINlNqMEh5MkZWa29WYUdxNzE3cE5R?oc=5",
+   "date": "2023-12-21T13:08:05+00:00",
+   "summary": "بايثون مشروع ترجمة قاموس عربي انجليزي 6000 كلمة بدون انترنت YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم بايثون من الصفر للمبتدئين: تمرين على الدوال أو الوظائف باستخدام لعبة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSzFJSkx5ckwzR0g4VXhqazY2eTlXWUNKUHFqTF9DWjZleVRNM281aUFHTzhYWU10VGttUW5wSGFxT3hfQjlFWFRfM0F6QkpuNEtUWFdB?oc=5",
+   "date": "2023-12-16T13:00:09+00:00",
+   "summary": "تعلم بايثون من الصفر للمبتدئين: تمرين على الدوال أو الوظائف باستخدام لعبة YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم قواعد البيانات في فيديو واحد | كورس قواعد البيانات بالبايثون python sqlite3",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10QVFJcUZacTR2Ujh5LTVTZ0Z1OTNsS0d0ZEtNLTFWaW96czBfbXhiTi1PVTNqbndQNVpTMTBqdVJRZzBRTy03bUVHVFZURnBtWXR3YW1n?oc=5",
+   "date": "2023-11-17T13:57:11+00:00",
+   "summary": "تعلم قواعد البيانات في فيديو واحد | كورس قواعد البيانات بالبايثون python sqlite3 YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم بايثون من الصفر للمبتدئين: الاختصارات الحسابية في بايثون",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtUExuZ2FSQ25BdUxTV3B6VGtZNDhpa2pzekV5WFg3MXY3RE1HMEZpdFZYS0NELWRpd01XUGdPdjNENnotMG1WMHZiQUpSRE90Q1d0OFRR?oc=5",
    "date": "2023-11-16T13:00:16+00:00",
@@ -1623,16 +1536,6 @@
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الدكتور ‘محمود ميدواني’ يؤطر بمكناس دورة تكوينية في الذكاء الاصطناعي وتطبيقاته ولغة بايثون",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QakRWR21KZDhkTUhURmpYRGVxWWtueUZETEZhLUdDUWFGY1AxcXZvSzF3a2RRM2dzRWhuZjVJRTFXNDRiTDhXb2JqQkQ0QW5uQVE?oc=5",
-   "date": "2023-11-16T08:00:00+00:00",
-   "summary": "الدكتور ‘محمود ميدواني’ يؤطر بمكناس دورة تكوينية في الذكاء الاصطناعي وتطبيقاته ولغة بايثون fesnews.media",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "fesnews.media",
    "lang": "ar"
   },
   {
@@ -1666,10 +1569,50 @@
    "lang": "ar"
   },
   {
+   "title": "0- كورس قواعد البيانات بالبايثون | python sqlite3",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10V1BFVEJyNWduTmh6M2FSbTNqTVFzWTJJcmt2Wno5SklDSGFFN3B3anZBSE5NUXhRclVNckh5dk5aVkhaN242d085azU5c2R0NzdqMG1n?oc=5",
+   "date": "2023-10-02T14:02:13+00:00",
+   "summary": "0- كورس قواعد البيانات بالبايثون | python sqlite3 YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم بايثون من الصفر للمبتدئين: الوحدة الخامسة - مشروع لعبة ورقة مقص حجر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JTTRrT3lPTWRUXzZ1TjhUdWhjUnV5dGZTVG40SzB0U0VkYnd3TmR4TENpQVByWXZ1emlxV2RKXy0xQ1M2NFdHcW9kelhKZmFlQ2t6TWZR?oc=5",
+   "date": "2023-09-29T12:00:08+00:00",
+   "summary": "تعلم بايثون من الصفر للمبتدئين: الوحدة الخامسة - مشروع لعبة ورقة مقص حجر YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Build To Do List Application with Python - بناء تطبيق المهام بلغة بايثون",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mY19uT1FjMmJIWm5kdE9uV1lBVF9uNmNtX0V2UVg4YkhTWjNVZFdXem4tT0ZxWUJmZjlTU3FNckFxT2lrckg1NlBqQnQ4dUdTaGZ4ZzFB?oc=5",
    "date": "2023-09-22T17:19:35+00:00",
    "summary": "Build To Do List Application with Python - بناء تطبيق المهام بلغة بايثون YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم بايثون من الصفر للمبتدئين : القوائم في بايثون وهياكل البيانات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sd2RHNElfRHVRVTNaR3hpV3dXeFFmMHJoSTVubDIyYkVNVlpBSU81RGJ0NG5KQTlpLWwxUjktYjRzbEJkUDdudmlOamlDWm9xbXppTlln?oc=5",
+   "date": "2023-09-17T12:00:30+00:00",
+   "summary": "تعلم بايثون من الصفر للمبتدئين : القوائم في بايثون وهياكل البيانات YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "بايثون مشروع ملصقات وايموجي (تطوير المهارات) - python project 7",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tSC13SVJYZ0J1UDIxNi1fckxLVGNYTFYyeV9OQjRWekNMMHNVNXJTU2V5OG9zbWdTcXZBS0RPVzFSM1FPU3F0ZEdOQmkwR0RJMm1IY3l3?oc=5",
+   "date": "2023-09-16T11:29:14+00:00",
+   "summary": "بايثون مشروع ملصقات وايموجي (تطوير المهارات) - python project 7 YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1696,13 +1639,13 @@
    "lang": "ar"
   },
   {
-   "title": "مايكروسوفت تجلب بايثون إلى إكسل",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMU92elZKVE5temhxZ1NiV3JDYmh6aU0tR2JaRzU3SURYLTJTYXkxOFRCZG5QOGtyUGFHWDdSSUp6SEp1RnFVUE1SNHFXV2pVZkw1a3I3ekt0MkV0aVVUbXRVOG1XeHBpUlZaakhOb0NDdVQ1ZkxuekxJdU5HRFNXcW5zN29vVThhdzlDWnFEMk5jNHhkZ25lRURfN081MDJ3aWxGYzZUZ3ZuNDRtb2h1bEtPWXVlRzI0aUhWQU1SU01veEhCTFhuNU84TVkzN2Fzdm9NN0oyeHpXdTBscVE5bTR0MTNuSXhHU2ZhX1B1Z3VTNkFiS3VzWDRWYm9hY183OHNWY0xMdEVXbzZHVXU1QlA5Z0hZY2FUVjAzNmNfRUtQVV9O?oc=5",
-   "date": "2023-08-22T07:00:00+00:00",
-   "summary": "مايكروسوفت تجلب بايثون إلى إكسل البوابة التقنية",
+   "title": "تعلم بايثون من الصفر للاحتراف للمبتدئين :حل مشروع الوحدة الثالثة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40S25WcDhtZ1lXUEdsRHRFa3RLT3lUbFpUYUpER3FxY2F6UzR1YkFVWk5vQXd1eDVDYno3cWVtZVZKOVRqTjlMQ3FraUhjbmYzbzJUNThn?oc=5",
+   "date": "2023-08-23T13:30:08+00:00",
+   "summary": "تعلم بايثون من الصفر للاحتراف للمبتدئين :حل مشروع الوحدة الثالثة YouTube",
    "tech": "python",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1720,6 +1663,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYNzc1TjZTVlNoUEcwbGNpRDZyOTFkUnhHQ1F6Rk5wekRNbUM0a01rQndQQlU5SXNnMjEwYzdjTmNFN25SWlJrcjNzakIxY3RwYXNnVGtn?oc=5",
    "date": "2023-08-06T12:00:10+00:00",
    "summary": "تعلم بايثون من الصفر للاحتراف للمبتدئين : الجمل الشرطية if elif else YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم بايثون من الصفر إلى الإحتراف للمبتدئين. بداية الوحدة الثالثة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JUUxnM3ZSMkpkNkNXMEh5RkJkZkJJZ0lhVGJkNVc5SFZqV214eVBfeFdHalBDZmlCdjh3bF9kdEFwLWpsV3dlai1TZ04yb1JaMU5MdTV3?oc=5",
+   "date": "2023-08-03T12:00:06+00:00",
+   "summary": "تعلم بايثون من الصفر إلى الإحتراف للمبتدئين. بداية الوحدة الثالثة YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1750,6 +1703,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93b3lZa1ZSbGloUE5PSGcybEJEZlFQSktyRkYwVFBzNUtpbjRycHdQdjAwSXliV2xFWjFZb3d4Q1ZabnhEbFlFclZtbklRZUFDMFVlZHNn?oc=5",
    "date": "2023-07-11T12:00:10+00:00",
    "summary": "تعلم بايثون من الصفر للاحتراف للمبتدئين : في دقيقة : ماذا نتعلم في الوحدة الجديدة YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس بايثون - تعلم بايثون من الصفر للإحتراف",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXTHBxbHJqN2FzNHdoS19BVGVtSkNYTERsckRhbm82eDFBM24xYnVPQWVDVFJLcE9jd2RUVmR3SHUtUGQ4ZDRST1NhVkJTd01SNEpTLU9vOTFTUld3SFFvRTluVXJTWjlFcE5qbkZaZTc4MFRmNHpRWUI3Qy0?oc=5",
+   "date": "2023-07-07T08:37:16+00:00",
+   "summary": "كورس بايثون - تعلم بايثون من الصفر للإحتراف YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1796,6 +1759,16 @@
    "lang": "ar"
   },
   {
+   "title": "تاريخ ومستقبل ومشاريع بايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BZDBJRzRXYUVYYXVvOWxGbEhNT0ZUUjdCZGlmbHh6d1ZzRUFEd2p0OEc0c21wYnBWTXZMeG1pYjZPUkpFWDY2VUh2NzhxWk1GWDBaYW1R?oc=5",
+   "date": "2023-05-10T17:00:11+00:00",
+   "summary": "تاريخ ومستقبل ومشاريع بايثون YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "برنامج للتشفير ببايثون - Encryption program in Python 🔒",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoSVF1Zm5yMXV5cnk2Rm42U1RSYXpoVVZUM0pVVVVwb2V0S2EtazQwdGw5ekNJUnRaTVA2MURxcXdxTE4yWVFLMzJjOWlOdXZCMHhSTTRn?oc=5",
    "date": "2023-04-17T14:23:27+00:00",
@@ -1830,6 +1803,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wbTRmcmpQMUpyZ0ZmYi1YZUZWbHZ6UjZEbVYtdmNGWmNYSl9YUElRVWhVR2RHdjE5Q195c2Q0dmRwZk9BOS03VENNU3ZDN3Z3WDhMbndB?oc=5",
    "date": "2023-03-03T12:00:22+00:00",
    "summary": "تعلم البرمجة | شرح بايثون | مقدمة كاملة في البرمجة | الجزء الثاني - Programming with Python Part 2 YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "29: استخدام ال for loop مع ال range في البايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jX1I5NklPb3UxMnpkN1QzNEVEdjlNSFltLTk4enlid2hwMzJnREpkVmFGWVN4ZmZwSFNjLWNEbnlSeWt2TmVtQXVzT1FtTmZoMU5nU2pn?oc=5",
+   "date": "2023-02-27T17:17:09+00:00",
+   "summary": "29: استخدام ال for loop مع ال range في البايثون YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1876,10 +1859,50 @@
    "lang": "ar"
   },
   {
+   "title": "بايثون و الذكاء الاصطناعي وبناء مشاريع (حصري 🔥) ـ Chatgpt with python bot telegram",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sd2ljSGNjMGZWdFozdUZ6N2dqbHQ3dU5oV0Q3UTYzSGlWWGRwdEhPclNsc0dNb1g4cDNvZ1lRcHB3TDk0VGFreEkxeURrZmxsQnBBRTZB?oc=5",
+   "date": "2023-01-24T13:16:26+00:00",
+   "summary": "بايثون و الذكاء الاصطناعي وبناء مشاريع (حصري 🔥) ـ Chatgpt with python bot telegram YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "بايثون تشفير اكوادك و تحويل py to exe و فتح اكوادك على حاسوب واد (حصري 🔥)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ySGR3Vk9UdTNiazJxRk5YMUtCb3dPMzZfQnZfV1BUWmFZYUpvMGxzM1N4MWxUMEd6Mm1iZjVZVG1RekI0RENBYi1nSnJMU0VUV1U2U2FR?oc=5",
+   "date": "2023-01-19T14:44:47+00:00",
+   "summary": "بايثون تشفير اكوادك و تحويل py to exe و فتح اكوادك على حاسوب واد (حصري 🔥) YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "استخدام بايثون مع تقنية ChatGPT الذكاء الاصطناعي انشاء تطبيق كامل على حاسوبك | ChatGPT with python",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cnQ2Zno0ejdFYkJZa1NhYXlGX3ItUjJhc2w1bE4tRjc0cDBpakQ3VFprRmJaZE1wN0hmNEZ4Z2NwaW15c0VPTzlRTjFmejMzNm5sdERn?oc=5",
    "date": "2023-01-17T13:39:27+00:00",
    "summary": "استخدام بايثون مع تقنية ChatGPT الذكاء الاصطناعي انشاء تطبيق كامل على حاسوبك | ChatGPT with python YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم بايثون من الهاتف من الصفر الى الاحتراف في فيديو واحد | Learn python on mobile",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OMWFVTUdZSS10WEdpWVQ0Nkg1T0w0RGd1WUlvSEdNSXNHRlF2OWpTcVdrS2Y1STljSUZYaGdTNXpUSWRmd2RVNFNxYjdObmJlUWpmZTln?oc=5",
+   "date": "2023-01-14T15:19:57+00:00",
+   "summary": "تعلم بايثون من الهاتف من الصفر الى الاحتراف في فيديو واحد | Learn python on mobile YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "بايثون مشروع ادارة موظفين مع قواعد بيانات كامل python tkinter project Employee + sqlite3 #5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORGppTnNGdERKWnVqeGRwbW9QMm5LUGNIVkJZSlYzUEgxV3lmSXFtNks3VjFxbDB5YXMyZFozSVpsZEdmMjRyYi1IdlZjU2M1MTgwR1Z3?oc=5",
+   "date": "2023-01-01T08:59:54+00:00",
+   "summary": "بايثون مشروع ادارة موظفين مع قواعد بيانات كامل python tkinter project Employee + sqlite3 #5 YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1906,6 +1929,16 @@
    "lang": "ar"
   },
   {
+   "title": "مشروع بايثون متجر الكتروني لبيع واستئجار ادوات بناء الدرس 1 | python tkinter project",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBicmhnOXVTOWJuNkN4anJlTHo1RDdwZ2FfTkxVck81b1ZlLWNQWnpRVHpBSXZ5NjI4SGVpN2FiZV9CenAzUmNOX2l5NEFoSEwwdW1rLTFB?oc=5",
+   "date": "2022-12-03T15:00:24+00:00",
+   "summary": "مشروع بايثون متجر الكتروني لبيع واستئجار ادوات بناء الدرس 1 | python tkinter project YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "مهم جدا: احذر من بايثون في البدايات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhaFlCejBRb0xlU0huWGlZQm1OV0FDcmM3dnFVSHlRekZic2FjUktlRWVGWUhLUUstcmRaWWFtTUJvdnVfZmJwVVVrd2NMWm02RjJJV25B?oc=5",
    "date": "2022-11-24T10:55:37+00:00",
@@ -1916,10 +1949,30 @@
    "lang": "ar"
   },
   {
+   "title": "بايثون متجر الكتروني كامل | python projects",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TYzVESFpNSG5ORmhVR1NZY1hwaWwtamNTQzNXUnd2SlNBVjNlX3AxLWZ2TFRjT2NobndnNGdpTzBvMGs0cHhzM1hiVXptV0NQdk9MXzV3?oc=5",
+   "date": "2022-10-12T12:59:06+00:00",
+   "summary": "بايثون متجر الكتروني كامل | python projects YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Python | HTML | CSS | Git | Github | Command Line - كورس تعلم اساسيات البرمجة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSzNsMUlCQ2JrcDMwZmhrZG44T2Q1dmM2Q0tHV1c2Sk1HcHhLcjFWVC1taWNLYTh5M2NBTjg4M29pUURMbDJqcGNmOXVDWllVSEJIalVR?oc=5",
    "date": "2022-10-11T20:00:55+00:00",
    "summary": "Python | HTML | CSS | Git | Github | Command Line - كورس تعلم اساسيات البرمجة YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم بايثون بدون معلم Python Code Editor project",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpTnNYNk5WZlpVeFYtaWJOOVFPUl9XWUp3VkNjTnh6UGE1Y2huMWRQdUd0MmFlVldqbWxhVHBCejFtNHNvVzU0ZGtFQWRGbGM5aGhiQU13?oc=5",
+   "date": "2022-09-30T11:49:09+00:00",
+   "summary": "تعلم بايثون بدون معلم Python Code Editor project YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2016,10 +2069,40 @@
    "lang": "ar"
   },
   {
+   "title": "Web Scraping with Python Beautiful Soup - Part 2 | مشاريع بايثون - تعلم بايثون بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LQWRkREVua2hmUzcycFB1amU3REpwTl8wSGQ2MDJVTGNLbWQ3Q2s4QnA3ZEZYZjhqd0EybUd0NC1idFZOZEc1U2p6Y1lmdmJ5NVFVV21R?oc=5",
+   "date": "2022-07-05T16:44:22+00:00",
+   "summary": "Web Scraping with Python Beautiful Soup - Part 2 | مشاريع بايثون - تعلم بايثون بالعربي YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Python projects - بايثون مشاريع",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzVHFVSHZMb0pvVUlwU3NPMVd4VEtXWnAwU0pUMzFQUjNSTE5wSFBuRFg1S2hzYk0zLWJSSzNmRUZZM3NoSlJuWm9oOWRWcVBlZHFKbllzOHNFMGRjU0pGM01kM2Q3WnNmZmFWLV9IQlNrSWo2cXdQZDVFcE4?oc=5",
+   "date": "2022-07-05T02:07:32+00:00",
+   "summary": "Python projects - بايثون مشاريع YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الحلقة ٢: اعداد بيئة العمل للبرمجة ببايثون #Python Environment setup",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLT3hveWpfZ2lXZW1VaURMQm80Rm1jM1o1cGNDNGhBdWRKT0lEaTM3dDgxUWUyeGo1Y2JybG1yMXJadnZaZUd1bEdyeVp5elYzRDIxZHJ3?oc=5",
    "date": "2022-06-23T08:00:43+00:00",
    "summary": "الحلقة ٢: اعداد بيئة العمل للبرمجة ببايثون #Python Environment setup YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Python projects for intermediates - برمجة مشاريع بايثون | Path Finder (Maze Navigator)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nS1VWcm05T1JTaGVhWmhIbkltVEN3X2h2SGpGeG1TZWxHMktyT2Q4WlZQdExqT0ozSzl4cUlGNDlxeEQ0TkpRZGRyWWpUY3J5UnNVSEJ3?oc=5",
+   "date": "2022-05-22T15:24:32+00:00",
+   "summary": "Python projects for intermediates - برمجة مشاريع بايثون | Path Finder (Maze Navigator) YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2053,16 +2136,6 @@
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "«وربة» راعٍ لدورة برمجة لغة بايثون",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wSVRFYmdoVXp1NlBqWGI4TkdsUmpwX2ZfX3U3cWphMVBYVk5PMklpeFhTNzd3YWJrb0doWUF0V1p5VGJfSHhadU1BcldxNE1uN2hTcEc2UXNRdWdEc1FRYV9jRdIBaEFVX3lxTE1uaklIbWN4OUpFb3diY05iN2JlVll5a0gxbWpiMkQ1QmNHLUR2c3l6SU00bER2NTU1aEpLSXJmaHpTOHZGSTdHSlhsMl9TWXpLcm5ZdVktU2NjOWJhNkV0WjFoajh2Q19v?oc=5",
-   "date": "2022-03-23T07:00:00+00:00",
-   "summary": "«وربة» راعٍ لدورة برمجة لغة بايثون جريدة الجريدة الكويتية",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "جريدة الجريدة الكويتية",
    "lang": "ar"
   },
   {
@@ -2106,20 +2179,30 @@
    "lang": "ar"
   },
   {
-   "title": "لغة بايثون هي الأكثر شيوعًا بين المبرمجين",
-   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOY3FFLVlUcGd6TVllcnZ4U1pUN3BXZVpJdVlNeXZZb01uQ2J1YzctX3ZaM3plNlAtNHN1VUptSXk5enBxMEl0TnlJVDNLSnhwVjNFdU5YMVFaOWZXQlg0U2RucFhfdGllTWNHenl6M3AyRG05LVNFcXUtVU5EUG5kU3VqYnBkOVl0MTNaeDRQU3ZrX3MzcExXTHp5N0JjNzJCaTVRRmZWQmVfNlZLYk9yanNPbERwaEJkUWg0Nkp3SWNwQnhMZGw4R1NvOEVGYmxoeUVkUWR5OUVXOVpXcW5zdHlBclZZWUFVcHlFYlIzczB1WmZrak9OeXVQUEdKb2NtN0ZDWGdHM014azhvY2NtWFNyZEhFeWo4Q1h1aG5VVE1lU2Qwai10T3BWUDlWVXFQanhWMjhxcUdNNnJ6Tjd4Unk3MVFtMUFZY29oTGpqZw?oc=5",
-   "date": "2021-10-24T07:00:00+00:00",
-   "summary": "لغة بايثون هي الأكثر شيوعًا بين المبرمجين البوابة التقنية",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
-   "lang": "ar"
-  },
-  {
    "title": "لغة بايثون صنع تطبيق للهاتف مشغل موسيقى في المكتبة مع دوال تشغيل وايقاف الاغنية pyhton kivy android",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JTm1QRzVlTWJvSnl0YkdBdUNYU213Q3huMmNjREV4MnJYN2xtNjM0NEZuRF9nZnVZRHJHN2ItQlJfNURvRDBnZ050ZHdTOVBnQjhIamh3?oc=5",
    "date": "2021-10-23T16:50:06+00:00",
    "summary": "لغة بايثون صنع تطبيق للهاتف مشغل موسيقى في المكتبة مع دوال تشغيل وايقاف الاغنية pyhton kivy android YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم بايثون و قواعد بيانات جعل البيانات في القاعدة تقبل اللغة العربية utf8 in database",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82U2QxZjhVTDJyOHJhSHZsZmlkdFItU3BfRU5OZUJUUGEzeWZrTW5OUWRRZGpkRzczN1NHSFlvbkt6d0RLZ2xPMGoxYnhBQjZlQ1I2cW93?oc=5",
+   "date": "2021-10-11T17:27:20+00:00",
+   "summary": "تعلم بايثون و قواعد بيانات جعل البيانات في القاعدة تقبل اللغة العربية utf8 in database YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح مكتبة ال OS بلغة بايثون | تعامل مع نظام التشغيل بسهولة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aODR4cVM5ck1IVFBodndoajl4c09fX3VRSlFpdG8yTUFBTnNhSlNyYXJpb0hpU1FRRnUwMzJZUXp1NzBwRDd3ZjhQQkJvaG1xWjZXeUZR?oc=5",
+   "date": "2021-10-02T08:17:28+00:00",
+   "summary": "شرح مكتبة ال OS بلغة بايثون | تعامل مع نظام التشغيل بسهولة YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2156,16 +2239,6 @@
    "lang": "ar"
   },
   {
-   "title": "ورشة حول رياضيات بايثون في المكتبة الوطنية",
-   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOcU5aOU5MUVhWbE1hLV91NmNVQ0d4UjVOV3FWSmRCbnlZaG1zSkQ3ZHNCLWNpVFA2bkJqZUtkUE9sTnU1V0E3eWcybWFNb2FpeXJTTFlvMmNHTmxMT0tUN2UySmNvTHNGdXRaSEstRzBNUm1HTU9WNFRiX09QdHFYSlFIVlEzTFFiMnlHNFZ4OFBHdHAtLUt4bEdKSFo2ZElOd1YxeVZRNHZVZHM0TWVydmhNSy1QbUxBU3lRQTU4a3BKUWtxMmFuU2VxUTFvRU9JS0tkWlBIWnN2X1JVek9zTHVQWXI2dnJnUGlfYUJvZFJFUVFaWUY0OWR6NFEwNHhsWGxUdEQ5a25iNG85UG1iRnJKODhLQmJvUjV0VGpvd2FEQmxvbl9FSjdKZG5BVGFOeDlTLTdQZ05LeEZ5c0pMc1RETWV3NUNsVlhaUm51MNIB1AJBVV95cUxNTTh6NnV1X3VkRGdqX0xpS2lYaGFvalQ3ZlIxX05tdkRUczJwbEF4LWtrTjB5clBGZmx4WmtzQ21OelhRWUNuX2ZvSGxrLVl3cUdCUk5VQmljb2Z6MENnR2hhazgtcHFUSUtuS2dGa3laWU1RbHJ3bTR3OHI5RndKMDBPZnQ5bE9rY3FobXVwTUhLUWNRNnBoLWdsQXp2dmVYYi1uYnZPdy1nM1ktWkpxTXBEclFCV0ZEUXUtT09BUnBhajNzN1V1a0xtRDN0SkJZUjVUb2FjUWM2LWNQUFlKME9RclA5NnFPZHREWnZUdVNkbzU1bll1Wjh6TFFlV2dxRmFZdmwwV0RXbXVJTG0ybTRQbUhSVDVMdjFwT0hiVHlBM3NDTDUzaFQ5WXd4WE1qV3FiTzdlejE2cFZHRlNEeVlGcV9iTkMtQk5mVjczcm1XQks1?oc=5",
-   "date": "2021-08-17T07:00:00+00:00",
-   "summary": "ورشة حول رياضيات بايثون في المكتبة الوطنية جريدة الراية",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "جريدة الراية",
-   "lang": "ar"
-  },
-  {
    "title": "برمجة تطبيقات الهواتف بلغة بايثون كيفي : الدرس 6 : python kivy build mobile apps",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacVYwejFvRGZZd1YtVS1PR29HM2JZd3F5Q2laZ2h5eU9FZW95UFktbGZYb1dQNklZX0RXME1JdndXOEdQSUtaYy12ZmQ1MGlac1FDZ2ZR?oc=5",
    "date": "2021-08-05T15:13:05+00:00",
@@ -2180,116 +2253,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSUNvR2hOMGlVYV9uUTRSTDVuRzdjTW1hc1lpVmlEQVNFNEhDdE9zQzRuNFhuajY3RlRLZGJ3Tk1NdURnVVQ0WGRWaUhqUGs2TngzN2hB?oc=5",
    "date": "2021-06-15T21:27:17+00:00",
    "summary": "بايثون مشروع كامل : تنزيل مشروع ادارة الطلاب بالكامل مع قواعد بيانات بايثون تكنتر وتخطي المشاكل YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "بايثون برمجة مشروع سوبر ماركيت مع الفواتير وحفظها الدرس السادس python tkinter projects",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93a0cwbklwbzJBYnJULWFqSlB0NGZLbW4tcU1KLTg2NGdNc0dROXZPRDUwcG1na18zdW5uRkdMZEFzcVBXZk5Oak1La2dXcTJ0eGNUZ0p3?oc=5",
-   "date": "2021-06-12T20:46:20+00:00",
-   "summary": "بايثون برمجة مشروع سوبر ماركيت مع الفواتير وحفظها الدرس السادس python tkinter projects YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم لغة البايثون (أفضل المصادر العربية والأجنبية 2024)",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFR4M3l4dG9PbXI2aXR0NFpwX2x4TXlQcUpWeHJiOHRBSTE1NGxlcS1henRUeXUxdGgxcHZ5RVRuVHNZS1ZBeDZlM2VnTnVPdFNIV3UzU1BmZHhJamJ4Ym9mODVjREtkVUktSGZyV3hfdDE1YWs5NlZuYTN1U2JuelV2U3hxZXNCZVdwWkNlcENEYWI2M01qVnJyZFJqaFlBU25PVlNoQjBxd2JIcHd6STZBWVNyeUFuYmc?oc=5",
-   "date": "2021-03-30T00:40:05+00:00",
-   "summary": "تعلم لغة البايثون (أفضل المصادر العربية والأجنبية 2024) الرابحون",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "الرابحون",
-   "lang": "ar"
-  },
-  {
-   "title": "أساسيات البرمجة بلغة بايثون (لغير المبرمجين) | Python Basics for Non-Programmers",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGblVkS3g5Sml1V2ZJUlRTMV9QNm5qbDZocGlLS2NaYXZYNUlKZFpjU2dwekVLcHNNdWhpTEk4UEE0TUU2YWo4TkY4a2gyVnlTVUJzaDRR?oc=5",
-   "date": "2021-03-13T23:13:50+00:00",
-   "summary": "أساسيات البرمجة بلغة بايثون (لغير المبرمجين) | Python Basics for Non-Programmers YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "بايثون تكنتر : درس9 : برمجة المشروع جلب البيانات من قاعدة البيانات واظهارها python tkinter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iYVNiMFZqQmlMaThLTjcyMjdYZ1FlNjBPcjRVMXdCdDNUZmhKWmI4XzFWWHl5cXc5Ri1oQkk0QjBBUEs4UUFONHdMbXdWQzhIWjRTU3hR?oc=5",
-   "date": "2021-02-07T03:44:15+00:00",
-   "summary": "بايثون تكنتر : درس9 : برمجة المشروع جلب البيانات من قاعدة البيانات واظهارها python tkinter YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح اساسيات البايثون للمبتدئين!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CdVBwVGFReGI5TktWTWNOM0dENzEtSDVpSU9LMXpSOTlLck5ONlFZMDNqRGszcVVIRlhsNmd3akhUTEhDVUotSkhSY0RaTU1DdHJGeC1R?oc=5",
-   "date": "2021-02-06T15:00:02+00:00",
-   "summary": "شرح اساسيات البايثون للمبتدئين! YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "توزيع Anaconda: المجموعة الأكثر اكتمالا لعلوم البيانات باستخدام Python",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSjlvaUtnSWdnd0NMMUo5bnlhWVNKdlNoeXM4Si1ETWYwdWZ6MTh3b3hfUl93LVB3OHVWRzRYbTZCa2tXNGl5Um5SN2hndUktV3Q0RDlRV0FhNjh0dThkX1Bwd05fRHB0Nm1NbFR4UXcxMklUaXJpN0hJNi1kTS1qcFVBSjdOUk0taVBucWxpRmlsZlU4Y09mX3diT2JDQUlKcGw1UkpnbFNNNXNUQWlKUVJtOXhncDdXdHZqOFR6RGpDYThGX2YzcTlZYTFhSHliNHJDLXJZMFJmVGM?oc=5",
-   "date": "2021-01-23T10:33:35+00:00",
-   "summary": "توزيع Anaconda: المجموعة الأكثر اكتمالا لعلوم البيانات باستخدام Python Desde Linux",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "غيدو فان روسوم ، مبتكر لغة Python ، ينضم إلى Microsoft ،",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOU5UTDVnczJDS2VXYTB4MndRejFWVzZseE5FSDY2UURaakpzMUpfczhXdC0tbldQeF9mS0V2WlFYalgwLTJ4N2xFeUpVZkE5MV9qSkhTUHByTmNtOUIxWmZOaU5uOVo5RHBVS0FVMlo4Z1dZWVBlbGpSNlpwU0RmTHlBZUU5R016TlpVMDlKdTd3UQ?oc=5",
-   "date": "2021-01-21T08:29:57+00:00",
-   "summary": "غيدو فان روسوم ، مبتكر لغة Python ، ينضم إلى Microsoft ، Desde Linux",
-   "tech": "python",
-   "sourceId": "ar-news",
-   "source": "Desde Linux",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس python tkinter كامل : بايثون تكنتر : درس 11 : برمجة الازرار buttons",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GSzVPZ2llempMTU05UXkzb3Z3aUFKUklDREQzb2UzbE14R280ZXUyZ0hqVjNMekVDYXVTRzRBZ2llQVR4M2xTZ240VmtvaXVJcUlVazlB?oc=5",
-   "date": "2021-01-09T09:49:54+00:00",
-   "summary": "كورس python tkinter كامل : بايثون تكنتر : درس 11 : برمجة الازرار buttons YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#5 كورس بايثون بالعربي | قاعدة كتابة اكواد البايثون",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xSGR1cmJ6d1JtaVJYTjFqR3BrX1F4aHV2YVRmZ0tkX1Z3STAzTGIzNVNEVlhrZWZVRUpzZTlWYkVfSnpORk1zZ3hxd0llcGtlQjRWSlhR?oc=5",
-   "date": "2020-09-24T16:00:07+00:00",
-   "summary": "#5 كورس بايثون بالعربي | قاعدة كتابة اكواد البايثون YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Python for Structural Engineer | هل يمكن استعمال لغة البايثون في الهندسة الإنشائية ؟",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wb24yS2RBMy1XQ3ljVlhCdklZMHkybTRaWlF4akR6TnBhbWpjUzNyeEVfTjRVNUR4eTEzcVFiTjZaamlEOFdSanBhZ3ZucHNBaHdmTHF3?oc=5",
-   "date": "2020-09-06T18:00:08+00:00",
-   "summary": "Python for Structural Engineer | هل يمكن استعمال لغة البايثون في الهندسة الإنشائية ؟ YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "بايثون : تطبيقاتها واستخداماتها المذهلة !",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kR3pPRFZmUGc0bVl4RmV0S3ZGVmR3RlI3UndEenVQZWlUckpGYXJXbFpQcW56a1dEN0VpT2tZbHR1X2pxbS1SLUxMOEtGTDlES1lLUnpB?oc=5",
-   "date": "2020-06-25T19:00:19+00:00",
-   "summary": "بايثون : تطبيقاتها واستخداماتها المذهلة ! YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",

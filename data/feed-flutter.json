@@ -1,143 +1,8 @@
 {
- "generated": "2026-08-14T20:09:16.027734+00:00",
+ "generated": "2026-08-14T20:44:56.891706+00:00",
  "tech": "flutter",
- "count": 220,
+ "count": 190,
  "items": [
-  {
-   "title": "dart-lang/sdk",
-   "url": "https://github.com/dart-lang/sdk",
-   "date": "2026-08-14T20:04:54+00:00",
-   "summary": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
-   "points": 11248,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Pariyojana v1.0.0 — Offline-First Productivity Vault built with Flutter 3.29, Riverpod 2.6, SQLCipher, and 120 FPS Velvet UI (Open Source)",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vohmx7/pariyojana_v100_offlinefirst_productivity_vault/",
-   "date": "2026-08-14T19:52:58+00:00",
-   "summary": "Hi r/FlutterDev ! Wanted to share the initial release of **Pariyojana**, an Android-exclusive productivity and research workspace built entirely with Flutter. 🛠️ Architecture Highlights: * **Clean Architecture (Feature-First):** Strict sepa",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "ente/ente",
-   "url": "https://github.com/ente/ente",
-   "date": "2026-08-14T19:50:34+00:00",
-   "summary": "💚 End-to-end encrypted cloud for everything.",
-   "points": 28346,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "flutter/flutter",
-   "url": "https://github.com/flutter/flutter",
-   "date": "2026-08-14T19:46:00+00:00",
-   "summary": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-   "points": 178410,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "flame-engine/flame",
-   "url": "https://github.com/flame-engine/flame",
-   "date": "2026-08-14T19:43:33+00:00",
-   "summary": "A Flutter based game engine.",
-   "points": 10725,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "getlantern/lantern",
-   "url": "https://github.com/getlantern/lantern",
-   "date": "2026-08-14T19:33:07+00:00",
-   "summary": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
-   "points": 15875,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "This is not a joke or an insignificant issue",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vogxhr/this_is_not_a_joke_or_an_insignificant_issue/",
-   "date": "2026-08-14T19:26:28+00:00",
-   "summary": "Imagine ... A country doesn t like an app, the government threatens google, google revokes the developers signing keys ... And now the app can t be installed on any android device in the entire world. This isn t a conspiracy theory, it s a ",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Flow UI v0.1: An open-source Flutter UI library for AI Chat Interfaces",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vodave/flow_ui_v01_an_opensource_flutter_ui_library_for/",
-   "date": "2026-08-14T17:14:57+00:00",
-   "summary": "I was building the same UI again and again for every agent app. So I stopped and made it a proper library. Flow UI: Flutter UI library for AI Chat Interfaces. It s pre-1.0, so the API might still shift. Play with it in the browser: https://",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "lollipopkit/flutter_server_box",
-   "url": "https://github.com/lollipopkit/flutter_server_box",
-   "date": "2026-08-14T17:11:31+00:00",
-   "summary": "ServerBox - server status & toolbox",
-   "points": 8521,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Flutter Web app memory usage keeps increasing over time",
-   "url": "https://stackoverflow.com/questions/79995148/flutter-web-app-memory-usage-keeps-increasing-over-time",
-   "date": "2026-08-14T16:41:28+00:00",
-   "summary": "flutter، dart، flutter-dependencies، dart-pub",
-   "points": -2,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "KRTirtho/spotube",
-   "url": "https://github.com/KRTirtho/spotube",
-   "date": "2026-08-14T15:41:14+00:00",
-   "summary": "🎧 Open source music streaming app! Available for both desktop & mobile!",
-   "points": 48355,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "macos_security_scoped_bookmarks is a better alternative to the abandoned macos_secure_bookmarks package",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vo9m4i/macos_security_scoped_bookmarks_is_a_better/",
-   "date": "2026-08-14T14:59:24+00:00",
-   "summary": "submitted by /u/perecastor [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
   {
    "title": "Feature-Based Folder Structure vs Layer-Based Structure in Flutter",
    "url": "https://medium.com/@savaliya.ravi.rs/feature-based-folder-structure-vs-layer-based-structure-in-flutter-81f9dca56db6?source=rss------flutter-5",
@@ -149,28 +14,6 @@
    "lang": "en"
   },
   {
-   "title": "Why does the Streambuilder not await the cancellation of its subscription and why is that considered safe?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vo95xt/why_does_the_streambuilder_not_await_the/",
-   "date": "2026-08-14T14:41:48+00:00",
-   "summary": "I was experimenting with streams and noticed that the cancel() method on a StreamSubscription is async. I then checked the implementation on the StreamBuilder widget and noticed that it does not await it. Can someone tell me why and when it",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "firebase/flutterfire",
-   "url": "https://github.com/firebase/flutterfire",
-   "date": "2026-08-14T14:22:37+00:00",
-   "summary": "🔥 A collection of Firebase plugins for Flutter apps.",
-   "points": 9243,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Flutter Cashfree Integration Step-by-Step",
    "url": "https://dev.to/mryadavgulshan/flutter-cashfree-integration-step-by-step-3jaa",
    "date": "2026-08-14T13:30:00+00:00",
@@ -180,28 +23,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Is Flutter still the right choice?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vo7c1e/is_flutter_still_the_right_choice/",
-   "date": "2026-08-14T13:29:22+00:00",
-   "summary": "I know this isn t going to be a popular opinion here. As a long-time Flutter developer and fan I can say that things are going to change quickly. My prediction: within a year, the multi-platform stacks like Flutter and React Native will sta",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Predidit/Kazumi",
-   "url": "https://github.com/Predidit/Kazumi",
-   "date": "2026-08-14T13:27:29+00:00",
-   "summary": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
-   "points": 28795,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Serializing 100,000 Objects in Flutter: Where 68% of Your CPU Time Actually Goes",
@@ -245,38 +66,6 @@
    "lang": "en"
   },
   {
-   "title": "iOS jank with platform views (AdMob banners)",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vo1tsh/ios_jank_with_platform_views_admob_banners/",
-   "date": "2026-08-14T08:49:48+00:00",
-   "summary": "I recently ran into a problem affecting Flutter apps running on iPhones where platform views are present, typically AdMob banners (which are internally rendered through a platform view). The jank is quite noticeable, and I ve been able to c",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "bagisto/opensource-ecommerce-mobile-app",
-   "url": "https://github.com/bagisto/opensource-ecommerce-mobile-app",
-   "date": "2026-08-14T08:41:49+00:00",
-   "summary": "This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories. ",
-   "points": 15948,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Tired of Gradle and Kotlin daemons eating 15GB of RAM during Flutter Android builds, so I built a small TUI tool in Go to kill them",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vo1nn6/tired_of_gradle_and_kotlin_daemons_eating_15gb_of/",
-   "date": "2026-08-14T08:39:21+00:00",
-   "summary": "Hey everyone, I think most of us building Flutter apps for Android share the same pain: you work for a couple of hours doing flutter run, hot reloading, maybe changing a plugin or branch, and suddenly your machine starts lagging because 3 o",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
    "title": "Every ModalRoute in Flutter creates a full-screen ModalBarrier — even with opaque: false",
    "url": "https://dev.to/nateshmbhat/every-modalroute-in-flutter-creates-a-full-screen-modalbarrier-even-with-opaque-false-321e",
    "date": "2026-08-14T07:49:06+00:00",
@@ -299,30 +88,6 @@
    "lang": "en"
   },
   {
-   "title": "chen08209/FlClash",
-   "url": "https://github.com/chen08209/FlClash",
-   "date": "2026-08-14T07:06:50+00:00",
-   "summary": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-   "points": 48633,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Notsfsssf/pixez-flutter",
-   "url": "https://github.com/Notsfsssf/pixez-flutter",
-   "date": "2026-08-14T05:55:09+00:00",
-   "summary": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
-   "points": 12567,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Fixing DeepSeek Harness Flutter coding agent: My 30% Better ListView Prompt",
    "url": "https://dev.to/umair24171/fixing-deepseek-harness-flutter-coding-agent-my-30-better-listview-prompt-5hmh",
    "date": "2026-08-14T05:28:53+00:00",
@@ -334,30 +99,6 @@
    "lang": "en"
   },
   {
-   "title": "bggRGjQaUbCoE/PiliPlus",
-   "url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
-   "date": "2026-08-14T05:08:07+00:00",
-   "summary": "PiliPlus",
-   "points": 17054,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "cfug/dio",
-   "url": "https://github.com/cfug/dio",
-   "date": "2026-08-14T03:57:24+00:00",
-   "summary": "A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.",
-   "points": 12840,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
    "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
    "date": "2026-08-14T02:57:56+00:00",
@@ -366,26 +107,6 @@
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "GitHub - scrya-com/xyflow: React Flow | Svelte Flow | Flutter",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vntik8/github_scryacomxyflow_react_flow_svelte_flow/",
-   "date": "2026-08-14T01:28:09+00:00",
-   "summary": "I ported xyflow to flutter - screen shots in readme. submitted by /u/Revolutionary_Ask154 [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Can I rely on AI to build a Flutter app if I have React experience but no mobile development experience?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vnqump/can_i_rely_on_ai_to_build_a_flutter_app_if_i_have/",
-   "date": "2026-08-13T23:28:51+00:00",
-   "summary": "I have an upcoming project where I ll need to use Flutter. I have experience with React and web development, but I ve never worked on a mobile application before and I m still new to Flutter. Do you think it s realistic to rely on AI to hel",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
    "lang": "en"
   },
   {
@@ -411,82 +132,6 @@
    "lang": "en"
   },
   {
-   "title": "I built an offline static linter that catches hardcoded hex colors and broken design grids.",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vnh75m/i_built_an_offline_static_linter_that_catches/",
-   "date": "2026-08-13T17:24:45+00:00",
-   "summary": "submitted by /u/Think_Cheesecake_762 [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Is there any way to provide access to an object in an entire folder and not the entire app?",
-   "url": "https://stackoverflow.com/questions/79993885/is-there-any-way-to-provide-access-to-an-object-in-an-entire-folder-and-not-the",
-   "date": "2026-08-13T17:12:56+00:00",
-   "summary": "best-practices، flutter، object، architecture",
-   "points": -1,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing hq_video_player v0.1.0 - A High-Performance MediaKit & BLoC Powered Video Player with Multi-Controller Management, Reels LRU Feed Pool, & Rich Gestures",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vnfupx/introducing_hq_video_player_v010_a/",
-   "date": "2026-08-13T16:36:28+00:00",
-   "summary": "Hi everyone, I am excited to open-source hq_video_player (v0.1.0) - a production-ready, feature-packed, and fully customizable Flutter video player package built on top of media_kit and flutter_bloc. Why another Video Player? While existing",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: ProbeDeck an iOS app for ClickHouse incident triage",
-   "url": "https://news.ycombinator.com/item?id=49286299",
-   "date": "2026-08-13T14:14:17+00:00",
-   "summary": "As a backend developer dealing with heavy applications, I run a ClickHouse node with 3.42 TB compressed and 19.10 TB uncompressed amongst its active components. I built ProbeDeck to run some operation",
-   "points": 2,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Orca – Instant cross-platform in-app purchase orchestration",
-   "url": "https://news.ycombinator.com/item?id=49286271",
-   "date": "2026-08-13T14:12:06+00:00",
-   "summary": "Hi HN, Founder of Maxint here, we just launched Orca ( https:&#x2F;&#x2F;orca.maxint.com&#x2F; ) One major hurdle for us, following the deployment across iOS, Android, Linux, MacOS, Windows and Web, w",
-   "points": 5,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: NanoRL – RL training for LLMs in ~1,800 lines",
-   "url": "https://github.com/alex000kim/nanoRL",
-   "date": "2026-08-13T14:08:54+00:00",
-   "summary": "The smallest async RL trainer I could write: one loop that runs REINFORCE on CartPole on a laptop and async GRPO on a cluster (e.g. 8xH100 trainer, 8 vLLM workers, ran as a [SkyPilot job group]( https",
-   "points": 10,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "localsend/localsend",
-   "url": "https://github.com/localsend/localsend",
-   "date": "2026-08-13T13:59:31+00:00",
-   "summary": "An open-source cross-platform alternative to AirDrop",
-   "points": 88287,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Stripe vs Razorpay vs Cashfree for Flutter in India",
    "url": "https://dev.to/mryadavgulshan/stripe-vs-razorpay-vs-cashfree-for-flutter-in-india-57mp",
    "date": "2026-08-13T13:30:00+00:00",
@@ -509,47 +154,6 @@
    "lang": "en"
   },
   {
-   "title": "Show HN: I spent almost 2 years collecting website design inspiration",
-   "url": "http://explorer.withfudge.com/",
-   "date": "2026-08-13T13:28:02+00:00",
-   "summary": "None of the captures are scraped data it&#x27;s all painstakingly manual albeit crowd-sourced work. You can see per-section captures for a given website with their corresponding colors and gradients, ",
-   "points": 2,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Mac or Windows app with Flutter?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vnapfl/mac_or_windows_app_with_flutter/",
-   "date": "2026-08-13T13:26:56+00:00",
-   "summary": "Has anyone ever made a Mac/Windows app with flutter? Throughout the years I’ve only stuck with web iOS and Android. Was just curious. And how did it pan out? submitted by /u/shiv9thakur [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Nearly Time for Flutter Image-based development?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vn9p14/nearly_time_for_flutter_imagebased_development/",
-   "date": "2026-08-13T12:44:46+00:00",
-   "summary": "Certain languages (best-known are LISP and Smalltalk) allow for image-based development. In such systems, you don’t write code and compile it into a program you then run; you modify the system while it’s running, and your changes are saved ",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Solo dev preparing first Play Store launch a flutter app with multiple games— what is the reality in 2026?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vn9g02/solo_dev_preparing_first_play_store_launch_a/",
-   "date": "2026-08-13T12:33:55+00:00",
-   "summary": "Solo dev preparing first Play Store launch — what is the reality in 2026? Hey everyone. I m a solo developer working on my first serious app, and I m currently getting pretty close to launch. The app is a game/social game hub built with Flu",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
    "title": "Get $1000 in Amazon",
    "url": "https://dev.to/al_islam_92240b3be93b2b91/get-1000-in-amazon-2m05",
    "date": "2026-08-13T12:28:55+00:00",
@@ -558,16 +162,6 @@
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "flutter_auditor",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vn8r76/flutter_auditor/",
-   "date": "2026-08-13T12:02:12+00:00",
-   "summary": "Stop shipping hidden native security holes and asset bloat flutter_auditor health-checks your entire Flutter project in just one command. submitted by /u/tdpl14 [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
    "lang": "en"
   },
   {
@@ -582,16 +176,6 @@
    "lang": "en"
   },
   {
-   "title": "Phasing out Intel Macs?! 🤮",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vn5tx1/phasing_out_intel_macs/",
-   "date": "2026-08-13T09:25:12+00:00",
-   "summary": "more than half of my customers on MacOs are using Intel Macs… what can I do? never upgrade to keep them happy ? source: https://flutter.dev/blog/whats-new-in-flutter-3-47 submitted by /u/perecastor [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
    "title": "Flutter Clean Arch Unicorn — The Foundation for a Startup That Will Become a Unicorn",
    "url": "https://dev.to/ratingtesting/flutter-clean-architecture-without-the-pain-production-template-with-100-tests-and-cicd-1086",
    "date": "2026-08-13T08:34:54+00:00",
@@ -600,16 +184,6 @@
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Upgrading from Flutter 3.27.4 to 3.47 — will this cause issues when deploying to App Store / Play Store? (flutter_webrtc,, native channels)",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vn46ut/upgrading_from_flutter_3274_to_347_will_this/",
-   "date": "2026-08-13T07:48:14+00:00",
-   "summary": "Hey all, I m on Flutter 3.27.4 in a production app and looking at jumping to 3.47. It s a huge version gap (SwiftPM now default, UIScene lifecycle mandatory, Material/Cupertino split into standalone packages, min iOS bumped to 15 / macOS to",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
    "lang": "en"
   },
   {
@@ -624,58 +198,6 @@
    "lang": "en"
   },
   {
-   "title": "Flutter 3.47 made Windows text look ridiculously good",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vms16w/flutter_347_made_windows_text_look_ridiculously/",
-   "date": "2026-08-12T22:00:37+00:00",
-   "summary": "I have to say, the text rendering in Flutter on Windows used to be one of the things that bothered me the most. It often looked noticeably softer and less polished compared to native Windows apps, especially on desktop monitors. With Flutte",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "What’s new in Flutter 3.47",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vmp7e4/whats_new_in_flutter_347/",
-   "date": "2026-08-12T20:11:16+00:00",
-   "summary": "submitted by /u/julemand101 [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Announcing Dart 3.13",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vmp64l/announcing_dart_313/",
-   "date": "2026-08-12T20:09:55+00:00",
-   "summary": "submitted by /u/julemand101 [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "flutter/samples",
-   "url": "https://github.com/flutter/samples",
-   "date": "2026-08-12T19:21:26+00:00",
-   "summary": "A collection of Flutter examples and demos",
-   "points": 19235,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Anyone actually making money from mobile games without ruining them with ads?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vmjb9g/anyone_actually_making_money_from_mobile_games/",
-   "date": "2026-08-12T16:39:21+00:00",
-   "summary": "submitted by /u/Hurricane-18784 [link] [التعليقات]",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
    "title": "UPI Payment Gateway in Flutter (Razorpay) — The Complete 2026 Guide",
    "url": "https://dev.to/mryadavgulshan/upi-payment-gateway-in-flutter-razorpay-the-complete-2026-guide-36i9",
    "date": "2026-08-12T13:30:00+00:00",
@@ -684,16 +206,6 @@
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "At what point does Riverpod become overkill?",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vmbpzl/at_what_point_does_riverpod_become_overkill/",
-   "date": "2026-08-12T11:41:22+00:00",
-   "summary": "I’ve been using Riverpod for state management and generally like it, but I’m curious where people draw the line between this should be a provider and just use local state. For example, for things like: toggling a password field selected tab",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
    "lang": "en"
   },
   {
@@ -706,61 +218,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-   "url": "https://discoveredmaterials.com/research/",
-   "date": "2026-08-12T07:51:20+00:00",
-   "summary": "Hey HN, we&#x27;re Advaith and Akash from Discovered Materials ( https:&#x2F;&#x2F;discoveredmaterials.com&#x2F; ). We build AI agents that discover new materials for the semiconductor industry. GPUs ",
-   "points": 159,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "PS Vita + Flutter = ❤️",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vm6new/ps_vita_flutter/",
-   "date": "2026-08-12T06:54:45+00:00",
-   "summary": "Hey Flutter Community! I decided to add support PS Vita to Flutter. PS Vita has ARM processor and 388 RAM (available). Here is details and goal of project - https://www.reddit.com/r/vitahacks/s/yg9nKdlNOw I love this device and its communit",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "Moving from flutter to native android",
-   "url": "https://www.reddit.com/r/FlutterDev/comments/1vm64bk/moving_from_flutter_to_native_android/",
-   "date": "2026-08-12T06:23:53+00:00",
-   "summary": "Hi, I am a mid-level flutter developer with around 4 years of experience. I don t see any vacancy related to flutter and actually I feel a little bit bored and I don t see any progress. So guys did you have such an experience? And was it ac",
-   "tech": "flutter",
-   "sourceId": "reddit",
-   "source": "r/FlutterDev",
-   "lang": "en"
-  },
-  {
-   "title": "KaringX/karing",
-   "url": "https://github.com/KaringX/karing",
-   "date": "2026-08-12T06:16:00+00:00",
-   "summary": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
-   "points": 14260,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "KaringX/clashmi",
-   "url": "https://github.com/KaringX/clashmi",
-   "date": "2026-08-12T05:09:05+00:00",
-   "summary": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
-   "points": 8825,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Certificate Pinning in Flutter: Secure API Communication",
@@ -818,17 +275,6 @@
    "lang": "en"
   },
   {
-   "title": "Flutter Google Sign-In works in release APK but fails in Google Play Internal Testing with [16] Account reauth failed",
-   "url": "https://stackoverflow.com/questions/79992284/flutter-google-sign-in-works-in-release-apk-but-fails-in-google-play-internal-te",
-   "date": "2026-08-11T16:20:42+00:00",
-   "summary": "android، flutter، firebase، firebase-authentication، google-signin",
-   "points": 1,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "Seven Technical Checks Before You Hire a Flutter Team",
    "url": "https://dev.to/fadieiev_a/seven-technical-checks-before-you-hire-a-flutter-team-55bo",
    "date": "2026-08-11T15:16:51+00:00",
@@ -838,64 +284,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "AppFlowy-IO/AppFlowy",
-   "url": "https://github.com/AppFlowy-IO/AppFlowy",
-   "date": "2026-08-11T13:01:19+00:00",
-   "summary": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
-   "points": 75401,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Can RegisterApplicationRestart relaunch an MSIX app after ExitProcess(0) following a StoreContext update?",
-   "url": "https://stackoverflow.com/questions/79992198/can-registerapplicationrestart-relaunch-an-msix-app-after-exitprocess0-followi",
-   "date": "2026-08-11T10:16:41+00:00",
-   "summary": "c++، flutter، winapi، windows-store، msix",
-   "points": 2,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Frame Drop because of Charts in Home page",
-   "url": "https://stackoverflow.com/questions/79992165/frame-drop-because-of-charts-in-home-page",
-   "date": "2026-08-11T08:14:52+00:00",
-   "summary": "flutter، dart",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "hiddify/hiddify-app",
-   "url": "https://github.com/hiddify/hiddify-app",
-   "date": "2026-08-10T17:43:24+00:00",
-   "summary": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
-   "points": 32068,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "felangel/bloc",
-   "url": "https://github.com/felangel/bloc",
-   "date": "2026-08-10T16:40:08+00:00",
-   "summary": "A predictable state management library that helps implement the BLoC design pattern",
-   "points": 12481,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Everyone Complains About Flutter. Almost Nobody Fixes It.",
@@ -920,62 +308,6 @@
    "lang": "en"
   },
   {
-   "title": "Play Store Install button missing for returning users + Encrypted Storage surviving uninstalls",
-   "url": "https://stackoverflow.com/questions/79991854/play-store-install-button-missing-for-returning-users-encrypted-storage-surv",
-   "date": "2026-08-10T07:22:55+00:00",
-   "summary": "android، flutter، caching",
-   "points": -4,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "ImranR98/Obtainium",
-   "url": "https://github.com/ImranR98/Obtainium",
-   "date": "2026-08-10T02:55:19+00:00",
-   "summary": "Get Android app updates straight from the source.",
-   "points": 18962,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: Albedo – single-file listenable document database in Zig",
-   "url": "https://github.com/klirix/albedo",
-   "date": "2026-08-09T23:03:40+00:00",
-   "summary": "It&#x27;s literally an indexable BSON array with query listening, replication and basic crash recovery. While working on my little projects I always felt a need for some sort of simple storage, where ",
-   "points": 4,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Lumabri – What if LLMs worked like Napster?",
-   "url": "https://github.com/JustVugg/lumabri",
-   "date": "2026-08-09T22:24:24+00:00",
-   "summary": "A while ago I started working on Colibrì to see if it was possible to run huge LLMs on a normal computer. The project grew far beyond what I expected, thanks in large part to the HackerNews community.",
-   "points": 9,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Best approach for localizing dynamic content from Firebase in Flutter?",
-   "url": "https://stackoverflow.com/questions/79991710/best-approach-for-localizing-dynamic-content-from-firebase-in-flutter",
-   "date": "2026-08-09T15:49:46+00:00",
-   "summary": "best-practices، flutter، firebase، dart، flutter-localizations",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "Dart User Input ?",
    "url": "https://dev.to/m_rtuhin/dart-user-input--4bi1",
    "date": "2026-08-09T15:00:32+00:00",
@@ -987,17 +319,6 @@
    "lang": "en"
   },
   {
-   "title": "Flutter time picker appears behind stepper",
-   "url": "https://stackoverflow.com/questions/79991689/flutter-time-picker-appears-behind-stepper",
-   "date": "2026-08-09T14:35:44+00:00",
-   "summary": "flutter، dart، timepicker",
-   "points": 1,
-   "tech": "flutter",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "Building a Privacy Shield for Flutter Apps: Screenshots, App Switcher Protection, Biometrics, and Root Detection",
    "url": "https://dev.to/ag1rin/building-a-privacy-shield-for-flutter-apps-screenshots-app-switcher-protection-biometrics-and-5gbh",
    "date": "2026-08-09T12:11:08+00:00",
@@ -1006,108 +327,6 @@
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "toly1994328/FlutterUnit",
-   "url": "https://github.com/toly1994328/FlutterUnit",
-   "date": "2026-08-09T06:56:50+00:00",
-   "summary": "All Platform Flutter Experience App ",
-   "points": 8842,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: Camera Sun – Fixing the iPhone's Camera App",
-   "url": "https://news.ycombinator.com/item?id=49225487",
-   "date": "2026-08-08T20:17:02+00:00",
-   "summary": "The most annoying issue with taking photos on iPhone Pros, for me, is the shutter. The physical buttons only work if the phone is in the right orientation. This is especially an issue on manual&#x2F;p",
-   "points": 3,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-   "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-   "date": "2026-08-08T10:04:25+00:00",
-   "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;W2tpE",
-   "points": 320,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "wanghongenpin/proxypin",
-   "url": "https://github.com/wanghongenpin/proxypin",
-   "date": "2026-08-06T11:28:12+00:00",
-   "summary": "Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems",
-   "points": 13735,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "CarGuo/gsy_github_app_flutter",
-   "url": "https://github.com/CarGuo/gsy_github_app_flutter",
-   "date": "2026-08-04T03:58:12+00:00",
-   "summary": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。",
-   "points": 15475,
-   "tech": "flutter",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-   "url": "https://armature.tech/",
-   "date": "2026-08-03T16:17:59+00:00",
-   "summary": "Hi HN! We’re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, including what the user asked their agent to do and what the ag",
-   "points": 42,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-   "url": "https://kaisel.dev/",
-   "date": "2026-08-01T16:45:40+00:00",
-   "summary": "",
-   "points": 58,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: ProntoGUI – desktop GUIs in Go with a Material look and feel",
-   "url": "https://github.com/prontogui",
-   "date": "2026-07-28T19:18:07+00:00",
-   "summary": "Hi HN, Andy here. I really enjoy programming in Go and have used it for many projects unrelated to microservices. However, direct support for building GUIs in Go isn&#x27;t a core language feature, an",
-   "points": 1,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Cross-Platform Flutter and React-Native Plugin – FFmpeg-Kit-Extended",
-   "url": "https://news.ycombinator.com/item?id=49052579",
-   "date": "2026-07-25T22:52:12+00:00",
-   "summary": "Full featured React-Native and Flutter plugin that lets you execute FFmpeg, FFprobe and FFplay commands without needing to deploy those executables. Get the full power of FFmpeg at native performance ",
-   "points": 2,
-   "tech": "flutter",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -1151,16 +370,6 @@
    "lang": "en"
   },
   {
-   "title": "جامعة النجاح الوطنية - جمعية مهندسون بلا حدود تنظّم دورة متخصصة في Flutter لطلبة هندسة الحاسوب وتكنولوجيا المعلومات",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOREIzaGwtWHd2RE9KUFVKcFRaLUQtVnpQMFBYX3NqMGw4WU8wVnhSaVJFOU9LbTJZOVhPNTczd3FmLXZFUkFNTVl5NHNfSVlGbDU4aTE2eG9VRk05NmxqNE9PcWVTT0g5ZE1BVmtSYlJlajcxaFJnUHpsd1N5OFJ2N0o0ckhNcVhWbVNWZmwxRXZxTDhjQTU5Z2NGUkNORTNkaUhiSThpaS1xalNuV05uYTMyNlhXRGtUd0Q1VDg3YWlOR0RPeEpVbHc5c3BSb0t3NlFhaWpnaXlPV1NPUGNROGxmS1djamQxdU1IaktSTlBvQU1lWFZHX1F2Qkg2bTY2LWVqaUI0QUFSUTV1THFXNVRIZnN2cHRKV1ctR1R2V2Q5UXRpRXJyTw?oc=5",
-   "date": "2026-02-03T08:00:00+00:00",
-   "summary": "جامعة النجاح الوطنية - جمعية مهندسون بلا حدود تنظّم دورة متخصصة في Flutter لطلبة هندسة الحاسوب وتكنولوجيا المعلومات najah.edu",
-   "tech": "flutter",
-   "sourceId": "ar-news",
-   "source": "najah.edu",
-   "lang": "ar"
-  },
-  {
    "title": "Flutter في خمس دقايق",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oUWE5MmRCXzNRY19pNnA4aXd1bURsNHhyS2ljOEJCZVNzYlNCd05NUXB3YjRLSmFIdGtVeF9VM2FJMFJNaElFb2h2TXpPc3VEaXJJREFn?oc=5",
    "date": "2026-01-30T11:00:13+00:00",
@@ -1169,6 +378,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "[00] Flutter Bootcamp | Mobile development intro مقدمة عن برمجة تطبيقات الموبايل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsM2dPTWprOEN0MEJJaFVrLWUtcFpmd3pHclZpRmgySkVkbzFWek1GeDZjX0s4czdQTnEwcTMtXzJGY1BBdWFqQTFPYXhYTmVQdGs3N1FR?oc=5",
+   "date": "2026-01-27T16:30:18+00:00",
+   "summary": "[00] Flutter Bootcamp | Mobile development intro مقدمة عن برمجة تطبيقات الموبايل YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Flutter Tutorial For Beginners | Mobile App Development | Full-Course | 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRVk1HMHNCdzlmT0FDQl9jbmhIV1JYTUhMY211UVV3bU9fZG9WUncyb0hXVjZkcHF3X3Jib1JpdEVseTc3NHJGWnpmNWRycHVfZm9PTW5R?oc=5",
+   "date": "2025-12-23T10:59:11+00:00",
+   "summary": "Flutter Tutorial For Beginners | Mobile App Development | Full-Course | 2026 YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Introduction to Dart & Dart Pad - Flutter Course for Beginners #3",
@@ -1211,10 +440,60 @@
    "lang": "en"
   },
   {
+   "title": "Flutter Full Course | Flutter Tutorial For Beginners | MindMajix",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KNGJyeTZJRnBpR0lnel9ETWVHZ0tNMndobFcxRlQxZURCOHA2NWZmUTZ1TWFDOEhKMDVZXzhkU1VxaDBZTHlLbHQySFlGOXR3NzBhMVJZYTEwSGlkWGhBZjl4UnRiTUlENXJoazFyWTc3bHNFc2V4VVpXT2U?oc=5",
+   "date": "2025-08-01T13:13:23+00:00",
+   "summary": "Flutter Full Course | Flutter Tutorial For Beginners | MindMajix YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Full Course 2026 | Free Flutter App Development Course | Dart & Flutter Training | MindMajix",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OYV8xbndPdnFQS1NMMTd3NDU3MWxMMmZkWlFHMUxud3M2QVNsUVBXcDMyZXNkZlFsbkdqLU16UW5ROVFycDFWd3BEUVFuS1YxSmNnRUV3?oc=5",
+   "date": "2025-07-28T08:30:16+00:00",
+   "summary": "Flutter Full Course 2026 | Free Flutter App Development Course | Dart & Flutter Training | MindMajix YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "ما هو فلاتر؟ ولماذا تتعلمه؟ | مقدمة دورة Flutter للمبتدئين بدون خبرة برمجية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rWlhjd2lMam0tVHBsSkhYYTVoQ0FRTC1iVzI0OXEwVFFYNjczNVlhemJQS09mM093akU3VlVPdG5Wc0syd2plVW1nakVUbE9wc05kSVVB?oc=5",
    "date": "2025-07-13T09:55:00+00:00",
    "summary": "ما هو فلاتر؟ ولماذا تتعلمه؟ | مقدمة دورة Flutter للمبتدئين بدون خبرة برمجية YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#4 تعلم Problem Solving بلغة Dart من الصفر للاحتراف",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vdUVVNHhPem42UjJuaGxJODdaWDAwMzEzallucmVGNkQySFhSbER6UW5lNkthODZhV3lIcWlsdUhYQ1B1VW9QX0xlUVRfd3pRXy1qU3RR?oc=5",
+   "date": "2025-06-07T18:15:50+00:00",
+   "summary": "#4 تعلم Problem Solving بلغة Dart من الصفر للاحتراف YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#3 تعلم Problem Solving بلغة Dart من الصفر للاحتراف",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uOGdSTDZUb3o0MHo0TkJvSzBTWGhSX3p3UnZZTndYYmcwRUNSengwdGFBXzJUVEZLLVZ1VnNlMDM2SEhDaTQxdVFRc1pHYkVmQ0pDbW1n?oc=5",
+   "date": "2025-06-07T18:13:41+00:00",
+   "summary": "#3 تعلم Problem Solving بلغة Dart من الصفر للاحتراف YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم دارت من الصفر للإحتراف: حل مشروع الوحدة الثانية من Dart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GemNXMG5ZSzdUYjFpb2ViQVJDRjNPeVMxclBGQkpaX1RSYXhCWXRXNlVUWkpHLUhPZHpJbzdUN09DdVRYVFlrM2gxV3EzSlNUb0MxMWJn?oc=5",
+   "date": "2025-04-27T13:00:15+00:00",
+   "summary": "تعلم دارت من الصفر للإحتراف: حل مشروع الوحدة الثانية من Dart YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1229,6 +508,36 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "الفرق بين const و final و var في Dart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWHFfZkZOdTJkcThwbVlnb1MzYUhmdUxmVjJvaGdERG83VW5PTmpTcENsd0lUcVJPbkM3ZEpDN0JINl9hSjBFal9sWm5TWEJJRVZNREdn?oc=5",
+   "date": "2025-04-10T14:00:12+00:00",
+   "summary": "الفرق بين const و final و var في Dart YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "التعليقات في دارت: تعلم Dart من الصفر للإحتراف",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tRlhoZXR5b3VFMXpOVHg2QW5SWGtXSF82ZnpsVkhMaWpqNGFXclRueURPbUhkR0Z6X3pKcTFfMDFmbU9hVktPNHd2NEMxXzdDUTlyVThR?oc=5",
+   "date": "2025-03-26T17:00:10+00:00",
+   "summary": "التعليقات في دارت: تعلم Dart من الصفر للإحتراف YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم لغة dart من الصفر | تثبيت و تشغيل لغة دارت Dart SDK على الويندوز 😃",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JNnktTldVV19Fc0JZX2hpUnVMaWRsTXd5SXlXZ3BSRGlJaDBlVG9Dc2ZjNzVicHRWM2thQmNFWGl2YnE5aFhXR1oyQ2V2TzBvR2ZwbVpR?oc=5",
+   "date": "2025-03-20T15:00:34+00:00",
+   "summary": "تعلم لغة dart من الصفر | تثبيت و تشغيل لغة دارت Dart SDK على الويندوز 😃 YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "إيه هو Flutter وليه بقى مطلوب جدًا في البرمجة؟",
@@ -1271,6 +580,16 @@
    "lang": "en"
   },
   {
+   "title": "كيفية تثبيت Flutter و Dart و Java JDK على الكمبيوتر | إعداد بيئة تطوير Flutter خطوة بخطوة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UOXNON3FIdGhxTUR6TU9OSm8wWkUtWFR3ZGNLUFp0anhuWTFGWWtkY193ZURBM2g4SFlQWGhfZ2hodXZBTVRzNVFCYjFyZGpaRHJvaE5R?oc=5",
+   "date": "2025-01-22T17:00:06+00:00",
+   "summary": "كيفية تثبيت Flutter و Dart و Java JDK على الكمبيوتر | إعداد بيئة تطوير Flutter خطوة بخطوة YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم تطوير تطبيقات الهاتف باستخدام Flutter من الصفر | منصة المدرسة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSVpRa2JzNjFjS0ZEazJUMmlRRldUQ3hTd25xOE54VzFDM0trRVJGU05FUElwemE2VkYxQ0Y1OTJRbUM0Y3dvb05zcjdBMzRmX0tSTzNR?oc=5",
    "date": "2025-01-16T19:20:26+00:00",
@@ -1289,6 +608,56 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "#1 Introduction to Flutter basics | Flutter tutorials for Beginners in Tamil | EMC",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIMlBWY3pwTGJYd05nY0ZNVGp3WWZpRWY3N0tNZVY4N3p1ai04YnhCdzM4b1RhTUctV1o0cGNUVDVLNFpWYzMzWjM4c1RjdjNtWWtzbHR3?oc=5",
+   "date": "2025-01-07T12:30:40+00:00",
+   "summary": "#1 Introduction to Flutter basics | Flutter tutorials for Beginners in Tamil | EMC YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "31- لغة برمجة Getter & Setter - Dart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rdmh1b1poRm5nZHFDSEVPandSQjdENFU4b1Z6NFRhWjFxQWJGb2wyQmtYMmswMVU1RFFuUUNHbDg5T1VaeUNDdnRMWGVFcUFtZTE3MEJ3?oc=5",
+   "date": "2025-01-06T07:45:58+00:00",
+   "summary": "31- لغة برمجة Getter & Setter - Dart YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1. المحاضرة الأولى (أساسيات dart) في سلسلة تعلم Dart من الصفر للاحتراف - تطبيقات الموبايل |Flutter",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pWkJqcGwtbG4xcXZQSXVsWDlqamFHOWNuSjd3dF9UTTNUTDRVZktiWDJiakpEZ2luX01DSk85UW9nYW1VTk1JczlUZ2J5WTk1eG14RE1B?oc=5",
+   "date": "2025-01-05T17:16:44+00:00",
+   "summary": "1. المحاضرة الأولى (أساسيات dart) في سلسلة تعلم Dart من الصفر للاحتراف - تطبيقات الموبايل |Flutter YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "08 - دليل تثبيت Dart SDK الطريقة ثانية على نظام ويندوز ٢٠٢٥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaaV9Rc1dYRjVjYkpMcWk4ZkRPSnQzZHhjdElEWmdSX1dUNXFrUThYRGRCSFBBc0JfOGVhWVRDcDNvRWVQOWhMTHBKWDZGVXFpX3VqV25R?oc=5",
+   "date": "2025-01-04T11:51:21+00:00",
+   "summary": "08 - دليل تثبيت Dart SDK الطريقة ثانية على نظام ويندوز ٢٠٢٥ YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "04 - مقدمة شاملة عن Dart وFlutter لتطوير التطبيقات ٢٠٢٥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBb3h1eGRfZXRYOHQ3dnlPUGdLMjFnbUhZMktaZTZRMll3MC04ejhzWjdrR0hTVkRjdm4yd1Bac2puTmFsTWdBbUNhZ3B1S2p3YzRpTDJR?oc=5",
+   "date": "2025-01-04T11:51:03+00:00",
+   "summary": "04 - مقدمة شاملة عن Dart وFlutter لتطوير التطبيقات ٢٠٢٥ YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "من هو مطور تطبيقات Flutter؟ | تعلم تطوير تطبيقات فلاتر وطرق الربح 2025",
@@ -1321,10 +690,80 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم dart من الصفر للاحتراف: قواعد كتابة ال variables",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTWg0MTZUQ00wOW13MjhrZXNES2RRdlAySTk2dl9mN1FQVGl4YzRpQlB0VWtpUEYzcWY0V18zUHJWbWFQNVI4OHRvTmxMNUJUcHhDbGRR?oc=5",
+   "date": "2024-12-14T14:00:06+00:00",
+   "summary": "تعلم dart من الصفر للاحتراف: قواعد كتابة ال variables YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "دورة تعلم أساسيات فلاتر من الصفر | Flutter fundamentals | منصة المدرسة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yYXNxdWt0dXQ1WFhGdmtOUHRYQ2ZqOFdjVlhUUVhkRjFHNkRsNzJsWnB0b3VLdnp4SmlEeUxkQ1JOTUt5akNDZ2stRmd4dWZiakZiME53?oc=5",
    "date": "2024-11-17T15:29:48+00:00",
    "summary": "دورة تعلم أساسيات فلاتر من الصفر | Flutter fundamentals | منصة المدرسة YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "25 - List ( Mastering Dart 2024 )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kM0tQZnBodWhWVmJHejhFdjdQM0lyWW9yZWlPTGhjbVEzeFRLT0JmZzlVLW1nbjNMZzVLMkExb2ZENGxIU0NtNm94Y0o4MlVObEhBakF3?oc=5",
+   "date": "2024-11-06T21:09:42+00:00",
+   "summary": "25 - List ( Mastering Dart 2024 ) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "8 - Assignment Operators ( Mastering dart 2024 )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BYW9pMXVtTEJuOWw4UWFhelJLN1A5b0JHaXp1andLT1FGREdwN3VHVlBBZ3p4akd0Qm5yVENyczVYM0hGbVNBbGtJQ1p1M2VVUGVMYTRn?oc=5",
+   "date": "2024-10-31T08:29:41+00:00",
+   "summary": "8 - Assignment Operators ( Mastering dart 2024 ) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "7 - increment & decrement Operators ( Mastering Dart 2024 )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fRzkzbWRzZkJ3LXJDMzdfVF9vcWwzcU5pb0o1MFZoek1nOW9OdnV2OFYwYXNRdXVBNkYwclNzQzBaTzRVVzJ1NGtHT1BJYXd1SGZfZllB?oc=5",
+   "date": "2024-10-31T08:28:43+00:00",
+   "summary": "7 - increment & decrement Operators ( Mastering Dart 2024 ) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "1 - install Dart On Windows ( 2024 - 2025 )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lYmp3ZFhlcXRxYXVjeTdEME1nWXFDN2ptWkxEZmplUmNxRDBDc2hJNER0M09PSS1DSHdsZHBGY2pVbHRCT3FYYU85R2l6bWU1aDE3Undn?oc=5",
+   "date": "2024-10-30T08:05:52+00:00",
+   "summary": "1 - install Dart On Windows ( 2024 - 2025 ) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "10- لغة برمجة Double - Dart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDM2NkRWQ3OWdNUDNhSGQ4dGctc3U3ODZwdnlBVTFfcElUQ2JVWk44UGhTNkRMdlVjc0N1WjNfSXNRMHphVmVNWnFyOVAxcFZWT2xQLWx3?oc=5",
+   "date": "2024-10-13T15:59:41+00:00",
+   "summary": "10- لغة برمجة Double - Dart YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "2- لغة برمجة Dart - استخدام محرر اﻻكواد Dartpad وبناء اول برنامج",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Edl9lVHNHdUQ3cVF3ZU92NlZSUXR5ZE9BcFdscDZoRUxhYUVLWkdRdEpPRGhKd0FNQnA2SHZlWGF4ZnVyZFEyMldiNkUyblZfUHNyWWVR?oc=5",
+   "date": "2024-10-11T09:12:29+00:00",
+   "summary": "2- لغة برمجة Dart - استخدام محرر اﻻكواد Dartpad وبناء اول برنامج YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1339,6 +778,36 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "تعلم دارت فى فيديو واحد شرح أساسيات البرمجه بالعربى | Learn Dart for Flutter - Beginners Full Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZWVNNk1UQzVoNzRoYUd2SkZsXzZmaVJHMmNZYThZdTZvaTNSMTJyY3NZekgzMmRRYnppZUViaHhGVFZhQi05NWE2MnVYeHFDb0JPRmpn?oc=5",
+   "date": "2024-10-02T15:46:51+00:00",
+   "summary": "تعلم دارت فى فيديو واحد شرح أساسيات البرمجه بالعربى | Learn Dart for Flutter - Beginners Full Course YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم Dart من الصفر للاحتراف: انواع البيانات (Map)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uQUJGZ2xPTXFsczBXSm1LSkhrb0pCN0FZalM5Wkc1Nkc3d244NzRjVkEyd0xXNm5DRFZpN0VCd2dMUkxFUy1iMjNROXFjcDNmVzF3djdB?oc=5",
+   "date": "2024-09-28T14:00:39+00:00",
+   "summary": "تعلم Dart من الصفر للاحتراف: انواع البيانات (Map) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم وشرح البرمجه بلغه دارت بالعربى | Learn Dart Programming - Lists & Sets & Maps Explained",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xazVxX000b2xjZjJzd2gxbVFwVm93eFcwT1B2SEJXZGtTVDR2bkp3cnc1aC1Fb3d3b0p3STVUUW1DVnMyT2RBUHdTaWlMY2ZEZHlPRElR?oc=5",
+   "date": "2024-09-25T13:58:36+00:00",
+   "summary": "تعلم وشرح البرمجه بلغه دارت بالعربى | Learn Dart Programming - Lists & Sets & Maps Explained YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Flutter Game Development Tutorial | Gravity Glide Ball Runner Game Flutter Dart Course 2024",
@@ -1361,10 +830,80 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم Dart من الصفر للإحتراف: انواع البيانات (Set)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UWhZVnB1aG55S25ZLXByYmRlMGR6RmlrTVBKeHZUaDdGRDJTQWxucFU2Z1pjRHV2RURBUVk4aTk4bGZaX3RJVkszM1RpOTN3QnZUZFhR?oc=5",
+   "date": "2024-09-04T14:00:33+00:00",
+   "summary": "تعلم Dart من الصفر للإحتراف: انواع البيانات (Set) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم البرمجة بلغة دارت شرح الشروط بالعربى | Learn Dart Programming - Conditions & Enums Explained",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XSGY2bWx2OXpBeDJTQW0xN2NRaHFRd1FETmQ0Ml9IVTdHTGQ3WjBZeEZ3STFXaHV0YllhWEZieW9RMFE2NG1FQW1MR0ZPRjJndnUyM1N3?oc=5",
+   "date": "2024-08-27T16:25:22+00:00",
+   "summary": "تعلم البرمجة بلغة دارت شرح الشروط بالعربى | Learn Dart Programming - Conditions & Enums Explained YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "انواع البيانات في Dart (List): تعلم دارت من الصفر للإحتراف",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pWkRka2lYQ3VaSlNwMHpjc3FwdU1FeTJucUhfcEE1WXIxajI3SHB6ODN3SDFOWjFWdEpWd2xtY1NTNjBWTFRqZ2dWdlZWYkxvRllYSVVB?oc=5",
+   "date": "2024-08-14T14:00:57+00:00",
+   "summary": "انواع البيانات في Dart (List): تعلم دارت من الصفر للإحتراف YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "بايثون برمجة تطبيقات الموبايل python flet flutter",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUVhRXzNJOWx5MDRPNEJnRTZ2T0xCb2NmVkl6eXZNN3lDMVExNWxIRGUzRzJVeTZGcFZxbnhTdTYteVJNZG1acHZ4Q3ZsS1BybG5MaE13?oc=5",
    "date": "2024-07-29T11:20:23+00:00",
    "summary": "بايثون برمجة تطبيقات الموبايل python flet flutter YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Flutter Beginners Course | Part 2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPQTRxeDFTczJTeDl4WW9EbVNENlB5T2ZiZDlpcDRqLV8wSTM2TElKa2ZyN1FZT2NzX0ZXbFgwZGYzdWZqT3dKMzNrM0dBRHhqd09wdTRn?oc=5",
+   "date": "2024-07-24T10:34:49+00:00",
+   "summary": "Flutter Beginners Course | Part 2 YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Full Stack App Development Course With Django and Backend | Part 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JY01rYlppWXNkZlNYRUQ1M1lXUGk0akllM3ktT2xyS0k2X0J1bVNCT0lLM0VHbS1GWUhSMjhUUVlVWGoxczlJaG5wamNwOV9SVk9LcXZn?oc=5",
+   "date": "2024-07-08T04:01:54+00:00",
+   "summary": "Flutter Full Stack App Development Course With Django and Backend | Part 1 YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تعلم Dart من الصفر للاحتراف: انواع البيانات (String)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTk9aV042TmU2eUg1TTA2Z0pua0tETzVaaGRoRnhVdng4NHpDc3JCZVkzTm9kNUVoNzBwMGYwc081cEpfSUNnN3RpQmpIUjVWWDNJT1d3?oc=5",
+   "date": "2024-07-03T13:00:06+00:00",
+   "summary": "تعلم Dart من الصفر للاحتراف: انواع البيانات (String) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "رحلة احتراف برمجة تطبيقات الهواتف الذكية باستخدام Flutter: من البداية إلى الإبداع",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBseG5yQm9sMnBkVDFxVkU0WXBjQkdsRDNSRE1DZkdzU0hmTk9GVUh2WjUzbUUyTVVxeW9BTnNmNWFXNUdSVUthMklNNlpjM1M4S0JZVFN3?oc=5",
+   "date": "2024-07-02T07:10:26+00:00",
+   "summary": "رحلة احتراف برمجة تطبيقات الهواتف الذكية باستخدام Flutter: من البداية إلى الإبداع YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1381,10 +920,120 @@
    "lang": "en"
   },
   {
+   "title": "Flutter Course for Absolute Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55SURYOG8zMHhqaHFDWjlmaXBraDRpZ0I1N1N5QmRpdFdDMnJ1anpUNE5PS3o4ZVVCNEVDOE9QZjhWZXMzT051X2FLaVZfNU9XRU43cXpB?oc=5",
+   "date": "2024-06-07T04:03:49+00:00",
+   "summary": "Flutter Course for Absolute Beginners YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تعلم dart من الصفر للاحتراف: انواع البيانات (boolean)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51VmpXMVdYN3RwajBuNzhqX0Ftd2NtR0ZVMzhqQ25rZGlUZ2x5REs4OTBHUkd1a3c0OHgwRDg3N3BlSlZsVG52M2RLMjVLLTh6YU15b0lB?oc=5",
+   "date": "2024-05-28T15:00:06+00:00",
+   "summary": "تعلم dart من الصفر للاحتراف: انواع البيانات (boolean) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Complete Flutter Riverpod Course | Riverpod State Management Flutter Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYzl5UnpXR0VKRjN5Z0t6NlBwbVBKQUhmdWN1SG02TXBsMmQ3dElfSkhidW5Sc21WQndaaWZ0SGRFeHQ3Z1Ezb0lvQTRFUXZqTmwxbDFB?oc=5",
+   "date": "2024-05-27T05:43:40+00:00",
+   "summary": "Complete Flutter Riverpod Course | Riverpod State Management Flutter Tutorial YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تعلم Dart من الصفر للاحتراف: انواع البيانات (int, double)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LYWs4RS1jUEZvSXFORGdYY3d6U3VpMU9YX0lacVFWTUZQaUVVTVdqZTJhLXRVMUtPRHdjZ0JMci1pc3gwdWxXMFNSNDVUdTI1dnlWaGRn?oc=5",
+   "date": "2024-05-23T13:00:06+00:00",
+   "summary": "تعلم Dart من الصفر للاحتراف: انواع البيانات (int, double) YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم Dart من الصفر للاحتراف: ما هي المتغيرات والمدخلات Variables & user input",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIZzhGQzNIWnVqOUxxWmk0b294MlMyNjd6ZDh5cUt6RFBpS0l6YWNOTThydnhxUElJVnM2UDExYVFINUZraV9nalZwanRfQUJ4TmRjOUZn?oc=5",
+   "date": "2024-05-15T12:00:07+00:00",
+   "summary": "تعلم Dart من الصفر للاحتراف: ما هي المتغيرات والمدخلات Variables & user input YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم Dart من الصفر للاحتراف: الأمر الأول",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95cGNvaVdHWEZkWXdaYjBoYXo0WC11aGdmZmhDM25wR2xpenA2aEhBSGFhbjJyRmdoYm1iWGtHN3dyTkVOLWw5RHREbm1NdnBpWUN3WXVR?oc=5",
+   "date": "2024-05-13T12:00:07+00:00",
+   "summary": "تعلم Dart من الصفر للاحتراف: الأمر الأول YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم dart من الصفر للاحتراف: تجهيز الأدوات وبيئة العمل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzSW5DMTROVEVETjhnM1lKanpjUGJva2VoNmN1NmRZUHZ0aDdqTkprdlhuOTNtRWFKaEZLc1RPUExROUdaS3Btb1ViX3VoSVRtUWp5eF9B?oc=5",
+   "date": "2024-05-09T12:00:32+00:00",
+   "summary": "تعلم dart من الصفر للاحتراف: تجهيز الأدوات وبيئة العمل YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "قم الآن بتحميل تطبيق تعلم دارت وفلاتر🔥 - Flutters: Learn to Code",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KY2JMUW5tX1o1SFJudmFpTXhndU5JbmxFWDdrejdEeWJjbGRNOEZ1c1R0ekIzYkpiMnRUd201SE5sNGQ1Q0hQUXZqT2N0cUZBd3A2TkNB?oc=5",
+   "date": "2024-04-24T18:13:40+00:00",
+   "summary": "قم الآن بتحميل تطبيق تعلم دارت وفلاتر🔥 - Flutters: Learn to Code YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Dart Map & List Explain in Detail",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04aGhZZWt6X1ZiUlJTc1V4dWxqdldkYUVFcE82NkZYZTV5T05MT1V6RUdKZGFNRFdMSGQ2NzJhOVhyMTFvQnlraU1FeXJ4aHlqVWJEWmJB?oc=5",
    "date": "2024-03-31T07:52:16+00:00",
    "summary": "Dart Map & List Explain in Detail YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Firebase Course | Realtime Chat App Using Firebase & Flutter Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QellYNmx2YkxkRkczTWx6TEFiZEZIMVo1d2h5WlNqY2NraDVLcUxIMUhzZy1VcVAwZ3pqckpLYW9WY3dJdjJZNHAwRjF5Ul9MTklMQVRR?oc=5",
+   "date": "2024-03-28T03:58:02+00:00",
+   "summary": "Flutter Firebase Course | Realtime Chat App Using Firebase & Flutter Tutorial YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "🎓📱 FULL Flutter Masterclass: Beginner to Pro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oVE9lMG1tMTllbF9fSHVPdm5ZMmMxNTUwMWUwN21tMnNlcjhZRWxxMGRXUDRKbk1ucG1EY1dWeG9NZldkNXdWRDNVaE9XVm4zZlR1QTFR?oc=5",
+   "date": "2024-03-27T12:48:46+00:00",
+   "summary": "🎓📱 FULL Flutter Masterclass: Beginner to Pro YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Crash Course #7 - MaterialApp & Scaffold",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5dTJianhpUW1TZWJRb1pWU0FJbC01eDVCVDdKOEFrd2NuME1EclEtVWg2UUVobE40cXZkc2lTSGo0UFZYT2txS0NxeUwwUHhPZ19OZnVR?oc=5",
+   "date": "2024-03-18T09:24:27+00:00",
+   "summary": "Flutter Crash Course #7 - MaterialApp & Scaffold YouTube",
    "tech": "flutter",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1401,10 +1050,50 @@
    "lang": "en"
   },
   {
+   "title": "Flutter Crash Course #6 - Widgets",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XWlBlUkY2Y1NsNEgxenQyODEwWHRmSGYtR3hIOFprOVlDaGR2LW9SZmlDN0JLOGM4emFTN3A4WGVTYTR2UUo3SS1Qby1NNTl1MWwyYnB3?oc=5",
+   "date": "2024-03-16T09:17:33+00:00",
+   "summary": "Flutter Crash Course #6 - Widgets YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Crash Course #4 - Making a New Flutter Project",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xRnA2NlZtb3JlTDhrT1U3bzdHbUhzX050amU3aG80Sjk1OE1CUDFFemM2T19Bblk4UzByeDROa2xicTdIZks2ZU5HSUV0UDJDNGk3eUtB?oc=5",
+   "date": "2024-03-14T09:10:47+00:00",
+   "summary": "Flutter Crash Course #4 - Making a New Flutter Project YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Crash Course #2 - Installing on Windows",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNUVFSTHRDQzcxSUFpZzhKRnRaX2h0N1Z1aFNTamM3VnFyWF9mVllaTEY2SFI0WkIyWkdyZFkxMTUxQkNYOFV6WDVhTENNbVQ4d0dSdVF3?oc=5",
+   "date": "2024-03-13T08:01:27+00:00",
+   "summary": "Flutter Crash Course #2 - Installing on Windows YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Flutter Crash Course #1 - What is Flutter?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pa1JoYWFDb0R1VWxxVzh6OS1MRGk0azZoMkFsdXVSd2ZFS3VUQnZRWFBhdlFDcUtqeU5iSlhuZGtBWTJkdDB5X0VLRDFHY25WMzhxdEln?oc=5",
    "date": "2024-03-13T08:01:19+00:00",
    "summary": "Flutter Crash Course #1 - What is Flutter? YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "New Flutter Masterclass Course!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tSjlydHB3RXd1SlA1R0ZwWnFuQ2tlTkNJellpN2VsT09DMXBQU0dHaXg1VEhza3VldW1odXRlaVFBQ1dFbkFHQmwxcUhBUE82azVqdVJR?oc=5",
+   "date": "2024-03-11T13:45:35+00:00",
+   "summary": "New Flutter Masterclass Course! YouTube",
    "tech": "flutter",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1421,24 +1110,14 @@
    "lang": "ar"
   },
   {
-   "title": "Customize Your Flutter Environment with Dart Define | Step-by-Step Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxdlFsYTV5b09IeUMxYkJSeVdHX1VPOUU4RmdDSTFkby04QXRJWl9pWmtwNDBISlRTZUROdTAwdUdPaFpOejZNUGpqa25HRUQxT284bXV3?oc=5",
-   "date": "2024-01-17T16:39:42+00:00",
-   "summary": "Customize Your Flutter Environment with Dart Define | Step-by-Step Tutorial YouTube",
+   "title": "تعلم لغة #dart درس 019# - User Input in Dart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbnBUUXNaSkV2VHd3QUQ4NFQ3U3BITnFxcEZidUxVQk1LSkVCS3h4ZWlmbXFZTTZ3cUNPdUpraUlwcFhpeVJZYzVMdEh3ZzNMdXljYUJB?oc=5",
+   "date": "2024-02-17T05:48:10+00:00",
+   "summary": "تعلم لغة #dart درس 019# - User Input in Dart YouTube",
    "tech": "flutter",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Dart Crash Course #1 - What is Dart?",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aFNBUERlRW9tSzBjcldEMnR1RFRUVnRxS0F6Q25vbjhzMVdpaTRKUUx3aXR1OW5URFZZTTFGb21lNHI4Ujh5bU5pSE9ORnJXYTNwZFFn?oc=5",
-   "date": "2024-01-08T09:06:07+00:00",
-   "summary": "Dart Crash Course #1 - What is Dart? YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو تعلم برمجة تطبيقات الموبايل Flutter install",
@@ -1451,14 +1130,14 @@
    "lang": "ar"
   },
   {
-   "title": "Flutter Travel UI Tutorial - Responsive Travel UI using Flutter & Dart",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wLXJ6UlBfM2EtWWUycnRzM3E2OERpblRfM19vc1pkUkFSN1BoUWJjRGFlV3RfNTNvZUZSclZYTWJiZ0szbDdRRVdWNVFHbWxmR2Zndl93?oc=5",
-   "date": "2023-09-26T14:41:11+00:00",
-   "summary": "Flutter Travel UI Tutorial - Responsive Travel UI using Flutter & Dart YouTube",
+   "title": "كورس تعلم دارت-dart من الصفر حتي الاحتراف",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMTlXd1pFMWFHeXB1dHptRlZ1dEUxYXhwY1V4eDZoeUNqN1FmMU9PNDdvV3F2V212QlpMY3RpTjgtbXhicl9LaHlUWVJBeU10cDhTVTRoYmlwX003bFZlQ29kaDZpV0RFTkRMQ3dkXzREZkRIYktuNGpsUzc?oc=5",
+   "date": "2023-10-31T18:15:15+00:00",
+   "summary": "كورس تعلم دارت-dart من الصفر حتي الاحتراف YouTube",
    "tech": "flutter",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "#3 Flutter Full Course | مشروع فلاتر من الصفر",
@@ -1471,26 +1150,6 @@
    "lang": "ar"
   },
   {
-   "title": "📱 FULL Flutter Beginner Course • Programming Basics / Widgets / Navigation / User Input / UI",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGT1A3WWFZc1pGb0ctdE92QkM4UGg1MXZJX3VPbjNaWWVBU1g5SHU1WTE5ZFNPdmtwd1FQWENUOUp3dGtXNGlvSTk5cENKY3UyUFpmN0RB?oc=5",
-   "date": "2023-09-17T12:47:36+00:00",
-   "summary": "📱 FULL Flutter Beginner Course • Programming Basics / Widgets / Navigation / User Input / UI YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter Login UI Tutorial - Responsive Login UI using Flutter & Dart",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54aDVrVjJySGh2Sm9JN2VydU5Wc2VZVG9zQjVMZ2dwYVg3cEhHVHpsMjcwUWNURHdkUTBVT2JWdHpXd3VtWThhRGRLQ2taMG1lOV9fQjZ3?oc=5",
-   "date": "2023-09-16T16:48:58+00:00",
-   "summary": "Flutter Login UI Tutorial - Responsive Login UI using Flutter & Dart YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تتعلم فلاتر و لا ماوي لبرمجة تطبيقات الجوال",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwSmx0b3VpTG1FQ3BHT0hqMVJQWFR5QzRJWm9MN0VzV3p0NHkzYjlRR1d1NWNQc3FYbFlZR1oyZERreWRTbl81cUdRR1ZsYVFRNF9GUW1R?oc=5",
    "date": "2023-07-14T12:00:09+00:00",
@@ -1501,10 +1160,60 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم ال Dart خلال 10 دقائق فقط",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2UC1iT3JNbDBMN1FIT0NPVTFLSnBrNGRiTFNfV01RUzZIQXBwQV9DeGdmb0dpRnA3cXlVaG5RdXctSFV1WW9iUEV4OFhnTjNVM1ktb0lR?oc=5",
+   "date": "2023-07-12T10:16:31+00:00",
+   "summary": "تعلم ال Dart خلال 10 دقائق فقط YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "OOP in Dart tutorial - Class and Object in dart [ الشرح بالعربي ]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42a2tkV0tod2NTeW10MG5FMUZBTjJIc0hseGk2NnVZRUltTFB1VkZRa2EtRWhuYy1TdHFHVVNLVVNJdkJCZHNPUDNQdlZTckNTUERZeWF3?oc=5",
+   "date": "2023-05-08T21:56:59+00:00",
+   "summary": "OOP in Dart tutorial - Class and Object in dart [ الشرح بالعربي ] YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم لغة دارت المستوى الاول 2023 - Dart language",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MVHlHYnBEMEZFanpJNUR6LVFBRTgxYUMzcUw1dGQyRjRvaHBDUkpGRG84YkxETkRpcmVqcnNLdlNpZlJtSUhqX3FjRWhQNzd2TFhSdVZR?oc=5",
+   "date": "2023-04-30T18:30:11+00:00",
+   "summary": "تعلم لغة دارت المستوى الاول 2023 - Dart language YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "dart-sdk تنزيل وتفعيل دارت وحل كل المشاكل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3TkZjZV9QcnR2UlhRaFdnS3VDbklFUDhKcVJSRVhkT1RQbTRCcGZpV3RrOWRNcmY3d01oSmZVOG51bUt4RTZOazdtRDB4NnRvN2NpaGNB?oc=5",
+   "date": "2023-04-26T16:38:02+00:00",
+   "summary": "dart-sdk تنزيل وتفعيل دارت وحل كل المشاكل YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "كورس فلاتر برمجة تطبيقات الموبايل | Flutter Firebase Firestore - 2 | Add Posts",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16VDVzcnBfdXRvdHRtZVVBVEdNUXlCQzZYMFgyVGR4REhVZEtqWi1UcGZORzZXbU9mbDBZOU5XMFhwbEYzMWR3cUtONzVpRm9IdHpaZWdB?oc=5",
    "date": "2023-03-27T20:19:21+00:00",
    "summary": "كورس فلاتر برمجة تطبيقات الموبايل | Flutter Firebase Firestore - 2 | Add Posts YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Flutter Roadmap - بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGX3RjcHY1ZDJQSzk1azZfX2dZLWE5UkpRdnVBb2xrUHNPNG5JVEJuck9SMDRuOENpSzFrNGlzc21HUDU4enB6NmdqLVFKc1A0Qm1WQjZB?oc=5",
+   "date": "2023-03-04T01:23:40+00:00",
+   "summary": "Flutter Roadmap - بالعربي YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1525,6 +1234,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2T3BqbmRUa0IxczN3R2JZVDlyREhTYlFUYU9yclFmT2R0SHpyMXRXdnlNZkpUeG5pUlRabEloNWxTdWg1Q2FoV21VOWVGd0otLWpvQmtR?oc=5",
    "date": "2023-01-31T07:00:30+00:00",
    "summary": "كورس فلاتر برمجة تطبيقات الموبايل |اسايات لغة البرمجة دارت| Flutter - Dart Fundamentals YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Dart course كورس تعلم لغة دارت",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DVkViOURqbzVTUXNmd2otekhPV0tlRzg3VnJEa24zY0ZxanFsbG1nX2c1Wkc0em1yeWpxb1lhQjVicEQ1T2xkRTY4V0Y2MnIxUDdyZEpIU1U4cFhkUFJxNHJSVmF0bVBQQWlaeVdidzU3b1dIXzcwcFNyLU8?oc=5",
+   "date": "2023-01-30T05:52:58+00:00",
+   "summary": "Dart course كورس تعلم لغة دارت YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1571,6 +1290,16 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم واحترف البرمجة بلغة دارت - الدرس الاول ـ اعداد وتحميل dart sdk على vs code وتحميل الـ plugins",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSy1peHJhQnVycHZBWHl3NG5SWldaaXFHMEw5TDVSd19lQldvSlhfTEs0M2RSY2RSV1hqWUxHLWtyczQ5bVRxejRZNVJBV3lkNW1VTzhR?oc=5",
+   "date": "2022-12-20T05:18:56+00:00",
+   "summary": "تعلم واحترف البرمجة بلغة دارت - الدرس الاول ـ اعداد وتحميل dart sdk على vs code وتحميل الـ plugins YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "برمجة صفحة تسجيل الدخول مع الفايربيز : Firebase - Sign In #1 - Flutter",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRQzRYX3g4SGlSczBpQThFNFFMZHc0Y3lNVV80MXliTFBxdEFYdVFsZ0trRnRsS09aejFoZXFwRF81MGtDTFgyUGdYRVJ6Sy1Nd19NMHln?oc=5",
    "date": "2022-11-26T09:05:01+00:00",
@@ -1601,10 +1330,80 @@
    "lang": "ar"
   },
   {
+   "title": "04# جمل التحكم الشرطية في لغة دارت | if else statements",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIM0xLV0p3cDNGbzgwZU5nMEZJNVIyZy1ZZkJ6RF9ibk9IMHJzcVdiTVR3MFJieEl2SFlpaEgxaXc0X3NVYmYxT3RBQzVjRC1VMEM4UjhR?oc=5",
+   "date": "2022-09-11T08:27:03+00:00",
+   "summary": "04# جمل التحكم الشرطية في لغة دارت | if else statements YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Flutter & Dart & Firebase full course شرح فلاتر من الصفر خطوة بخطوة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ERUJBcW1EX2hsN2RPX0J6djduc3c5OEZ4SjJJNkV6d3hjdVpXbVh4ODBZb0VJOFE5Q3VXbVd5Qklja1AyUW9KUk4yVDV4S253aDhBTVln?oc=5",
+   "date": "2022-09-01T19:52:46+00:00",
+   "summary": "Flutter & Dart & Firebase full course شرح فلاتر من الصفر خطوة بخطوة YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "31 خبير لغة دارت - خمسة تمارين هامة على الاساسيات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0TmJudm50YU5JcXdxYUZWZzJpamh5cTZQeHhlZV82UXl0Nkp5OFZqd0tLRWhBMGxUcjRhbUxXY3o3S0FjZmtSLTRFSGFHblZvdHFrMTZB?oc=5",
+   "date": "2022-08-23T11:33:05+00:00",
+   "summary": "31 خبير لغة دارت - خمسة تمارين هامة على الاساسيات YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "flutter project - مشروع فلاتر كامل من البداية خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNmJSOFJHdGxCeUF2a0hjYVZmbTZvbjg3a2tLZllmSGxuTFc4dHRQYjl3Si1Sam5OTG9fMlRUektmS3VIWTk5eEs5MEp2WVluLWpER1dR?oc=5",
    "date": "2022-08-19T13:33:26+00:00",
    "summary": "flutter project - مشروع فلاتر كامل من البداية خطوة بخطوة YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Dart Full Course (Basics and OOP) in One video | كورس كامل فى فيديو واحد عربى",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KV2c2UTJiTHhVN0c1eEdnaXdleDhjbkpnUXVwMk1HUVM2NXJLRTFPVlBWT3NSTDF3SDZtMDVTdFVGYWEtd0JkNEQ0Z0ZkR3JkMWlvdzBn?oc=5",
+   "date": "2022-08-18T08:04:52+00:00",
+   "summary": "Dart Full Course (Basics and OOP) in One video | كورس كامل فى فيديو واحد عربى YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم لغة دارت من الصفر في فيديو واحد Learn Dart in Arabic | حسونة اكاديمي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZFkxRUo2T0NaU190VUpuMXRDRGRtQWNZblE3elVLdC1qdFM3ZHpPcWNwenNNTlgtOFpwNUZNN0U4b3AxYWUwb3FCU2JvNi12QldwRThn?oc=5",
+   "date": "2022-08-06T12:00:14+00:00",
+   "summary": "تعلم لغة دارت من الصفر في فيديو واحد Learn Dart in Arabic | حسونة اكاديمي YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "13 #flutter Dart OOP Class, Object, Constructor - فلاتر بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PbkF2N3c2b2xZTzBXUVBlaXpMTEtYY0xkZ0tSQXN4MlUxSENoWk1mc1IxRS03Mml0N0dVcG1IUklucjZFdG5FbmFCVkZWN1NjOUJHWC1B?oc=5",
+   "date": "2022-07-15T03:34:03+00:00",
+   "summary": "13 #flutter Dart OOP Class, Object, Constructor - فلاتر بالعربي YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Dart Programming Tutorial - 1: Print - تعلم لغة دارت بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MQTRFWm14WXlTRDJuZUN4cXJpUEJiUVdRTjY5czN5VWpxWFhpZzdFVHhKYi1YTjExX0pnQzRHWTcwbm9SU3I5eXhjeTh2RW9LQVRBdjF3?oc=5",
+   "date": "2022-04-02T20:03:10+00:00",
+   "summary": "Dart Programming Tutorial - 1: Print - تعلم لغة دارت بالعربي YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1631,10 +1430,30 @@
    "lang": "ar"
   },
   {
+   "title": "Flutter complete course in Arabic - #1 Introduction",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rRXMzLS1hUnJRb3o1QlNFbjFFaTNJeFp2YkZqWlFGLTh0T05tWjZFY0QyOElIdnJHc2VvTTgtcVREZGo0bXhlQnA3MlJ2b2d4eUM4Yzl3?oc=5",
+   "date": "2022-02-12T21:21:21+00:00",
+   "summary": "Flutter complete course in Arabic - #1 Introduction YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "برمجة تطبيق مهام كامل مع البروفايدر : Todo app - Flutter & Provider",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLejNoSzR4Q1A3R24xaks2TV9DbU1hNXdjQmdVRGs1V3BHUTJ1T1VjbkNMZE9hV0RHamhPSVNTdVlIUWZCV21DM3RnVnZTMDk4OTA4NDZ3?oc=5",
    "date": "2022-02-08T17:18:03+00:00",
    "summary": "برمجة تطبيق مهام كامل مع البروفايدر : Todo app - Flutter & Provider YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1 الفرق بين Dart و Flutter و قواعد البيانات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56eDR2QzdzWmR4Q3hOZHJUeC11UnU3dHNEeTRIaVRkNkd3SGhId2o0N19Ud0dRWGRiZVZKVTgwVW1qd19nUEF2cWlfdUx4bS1INDhtMldR?oc=5",
+   "date": "2021-12-17T16:35:23+00:00",
+   "summary": "1 الفرق بين Dart و Flutter و قواعد البيانات YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1711,6 +1530,26 @@
    "lang": "ar"
   },
   {
+   "title": "Install Dart and Flutter full شرح كامل لتنزيل وتنصيب الدارت والفلاتر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTXdWWnZzZ0pEbThwcDVfcVItVzJUR0dNZ1haQU91WENzOGI2bkdkenRyaWdiVl9lSXNKUTQ1RHdDdU9xYWZPZU1oR1lIQ1RWeXVybzFB?oc=5",
+   "date": "2021-09-01T15:54:50+00:00",
+   "summary": "Install Dart and Flutter full شرح كامل لتنزيل وتنصيب الدارت والفلاتر YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم Dart بالعربى || كورس اساسيات للغة dart كامل فى فيديو واحد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wRURybkRoWk1PekFzOWxEZlNJYWRYX0JZOGZ4R3ZrRm5ZOWp0bWhaMzlHalVKN29fb3pFcjhibThJUnRlNGxGNENfeExwaDBwbDJKU3Z3?oc=5",
+   "date": "2021-08-31T00:35:05+00:00",
+   "summary": "تعلم Dart بالعربى || كورس اساسيات للغة dart كامل فى فيديو واحد YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تصميم وبرمجة صفحات تطبيق الموبايل المحادثة مع فلاتر : Chat mobile app - Flutter & Firebase/Firestore",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vR092SjdpNGlLVnY5STZRNkpZRzYtbUJzYVRxX3F1ZXQ5azh2UUJKTVJHMDNHdjBLR2ttb2ZsUDZvVVpIa2hlUFd0eFRZamFTYTZ1dzF3?oc=5",
    "date": "2021-08-30T12:00:03+00:00",
@@ -1735,6 +1574,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91Y25ScGNVNUR1bllLV1FPSzZZZVNud28xVUNZOWM0X1V0eGpHMk1qNEw0eG9zd2lDODRvN3dxZmZ1TWMxYUdBckYyTDdFRF9ibTYyYllB?oc=5",
    "date": "2021-08-24T20:39:20+00:00",
    "summary": "شرح Flutter | برمجة تطبيق موبايل كامل من الصفر #1 YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Best Flutter Course for beginners -First Dart program #05 | بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWVZQMjY1ZmNqbGpSWGhMMkZDcXRsMk4yTnJnelppa3cwOFVzTVpoVDNkNkNyN1A3bHA3Z3Q5d0gyZmxhSzZhS0FlOHBIZ09GN0wxemFR?oc=5",
+   "date": "2021-08-10T12:47:28+00:00",
+   "summary": "Best Flutter Course for beginners -First Dart program #05 | بالعربي YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1775,6 +1624,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GS1BVaHA3bnY5OTc4Tnd4SXdUT3dERmZMbVkyLUZjSW00OVNBaUtvbFFGeHprbnVpZWJZVEtRRFp5UzhiZTdqYVd0RmdUdml0QVhzM2VR?oc=5",
    "date": "2021-07-02T13:00:03+00:00",
    "summary": "فوق المتوسط 19 - برمجة وتطويل صفحة الفلترة لتطبيق موبايل الرحلات فلاتر : Travel mobile app - Flutter YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "79 - Flutter Tutorial (Future, async and await)| شرح التزامن والمستقبل بالبرمجة async await",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XU05qNm00LV9lSDV1aUdJa25GenBvYWdkVkU4WUM2SFg3WGJXLVpzSWpWdzBZZnZsZl9qZG9KMVpzNkxYNjBTdlJITVJtaDNlZWxEX01R?oc=5",
+   "date": "2021-06-28T21:00:28+00:00",
+   "summary": "79 - Flutter Tutorial (Future, async and await)| شرح التزامن والمستقبل بالبرمجة async await YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1825,6 +1684,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PV0JMSlcyMl83Qll4UUJOMEJkeFZyWG9aR21zUnhHSkVIdk50TkdwMnMyNEFBNUlacU52SnRSWWZQM1ZIdmUzTXlBQkJQdWtTVXhjUXVn?oc=5",
    "date": "2021-06-10T15:00:06+00:00",
    "summary": "فوق المتوسط 13 - كيفية فتح صفحة تفاصيل الرحلة : Travel app - Flutter YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "02 - Big O Notation part 1 (Arabic) منين جت فكرة المبدأ دا؟ [Data Structures & Algorithms with Dart]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0Z24zZlRaOGNQbUlydlJEZTZrWVRTVHM5eE5EZlNrR1Ixc2FqUlVCWmtVSy0yUkNEamdPUmFEY3FVVVVBSGdnaGM5RW1aSnNCNFlpd2Vn?oc=5",
+   "date": "2021-06-09T18:02:35+00:00",
+   "summary": "02 - Big O Notation part 1 (Arabic) منين جت فكرة المبدأ دا؟ [Data Structures & Algorithms with Dart] YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "01 - Algorithms and Data Structure in Dart [Arabic] الخوارزميات وهياكل البيانات - محتويات الدورة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbWttbktEWVp0ODU1Wl83UkdkeFNMVnh5YTN0X2k0cktEcGJid2VaVHJDVFROSFd4RUwtRUUzMTlqak9fNjNkbUtOMmxqNk82TkViUE9R?oc=5",
+   "date": "2021-06-08T18:26:05+00:00",
+   "summary": "01 - Algorithms and Data Structure in Dart [Arabic] الخوارزميات وهياكل البيانات - محتويات الدورة YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1901,6 +1780,16 @@
    "lang": "ar"
   },
   {
+   "title": "4- Create Your First Dart Project || انشاء اول مشروع لك فى دارت",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LVTd6TkNkeHRidTJnVGpheEx1dzhDdE54eGNfSGlGbG1kVnRpbmVQWjY3SWVNQjliRHdLalIzbEppZkVMSGVncWpqbXhhano5UzRVX01n?oc=5",
+   "date": "2021-03-03T23:01:35+00:00",
+   "summary": "4- Create Your First Dart Project || انشاء اول مشروع لك فى دارت YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "فوق المتوسط 08 - تعلم التغليف أو الحماية في لغات البرمجة مع فلاتر : Encapsulation - Flutter",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1maVpyU0FJOHUyZnV6UlVsWXhhSmE2XzdMS2dFa01GUXpFamRmRTJvUndwUUFtWTEtTjVvZmNMaVB6RDg5VVMyNXQ3ZE5UZFJ4R3BZbi1R?oc=5",
    "date": "2021-03-02T17:00:06+00:00",
@@ -1915,6 +1804,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWXNZdFl1VE9TbFNhNWxMcWxGMWkwQkphUVlWMU9UcWxtWEh1endQenlKMGM3YlktUWhQRTViTEhULUx6VlBzV1pSRzZTakpSUHNBczFB?oc=5",
    "date": "2021-02-27T20:00:05+00:00",
    "summary": "فوق المتوسط 07 - تبسيط الكود المعقد وتجريده مع فلاتر : Abstraction - Flutter YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحميل وتثبيت الدارت(Dart) وفلاتر (Flutter) وبرنامج فيجوال استوديو (VS code) وربط الجوال بالكمبيوتر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVFaOWVBNTlMSnZibG5weHNwR1VEeVRfOVJvUXBlUVlYNFFRdDdDNC1jVDBOM0wtSDMzS1BZdWY0REk3RzJnb0lZMkd4SmxSVHFMcUJn?oc=5",
+   "date": "2021-02-15T10:34:50+00:00",
+   "summary": "تحميل وتثبيت الدارت(Dart) وفلاتر (Flutter) وبرنامج فيجوال استوديو (VS code) وربط الجوال بالكمبيوتر YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1945,6 +1844,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iQ21FUjlGOS1Zc1o4YjR3QnVpLTJTYk9paFRsLVptaElaVDg3YUtrTWFfUGlrOFhIeTVIUklHaHdVOVZmb2ZkT3pla0xDUmI5bnJWMmhn?oc=5",
    "date": "2021-02-01T20:00:10+00:00",
    "summary": "1- Flutter Tutorial (Introduction to Course and Flutter) | أفضل مقدمة للدخول الي فلاتر ومتطلباتها YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "خمسة برمجة - قصة لغة دارت Dart - ماهي و مميزاتها و عيوبها + مصادر تعليمية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1bXBhUzJJbnd2SjBMZmthMWFxdnRsS3FMQjB5VlpWMlVOMXdVbzg4a0dLQk9NY2lDSGxqNzVhRzZudzc0UWdqUGJ3ZG92WEZ1RGVPNXFB?oc=5",
+   "date": "2021-02-01T18:01:53+00:00",
+   "summary": "خمسة برمجة - قصة لغة دارت Dart - ماهي و مميزاتها و عيوبها + مصادر تعليمية YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2011,293 +1920,13 @@
    "lang": "ar"
   },
   {
-   "title": "تطبيق متوسط 01 - كيف نستخدم البرامج المساعدة في تطوير تطبيقات الموبايل مع فلاتر : Packages - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1La0hEaW1KNWJwZFVoRU01aWtRVVdVMmhKMng5TVFWWklkYU1iUFNPQzhxSURKMHlhN3IxdW1IN3lULUNZMmdyNHVidG5PVDJiR3N0MzFn?oc=5",
-   "date": "2021-01-09T18:30:02+00:00",
-   "summary": "تطبيق متوسط 01 - كيف نستخدم البرامج المساعدة في تطوير تطبيقات الموبايل مع فلاتر : Packages - Flutter YouTube",
+   "title": "Dart | تعلم لغة دارت من الصفر إلى الاحتراف في 45 فقط",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FNmtibmc3UmFJczM1MFVDeERYeXQxSzRFUkJMWW1JMlAzMUI3NDVZOXRhZU9hdUw4R0NVNzRnM1pINm1GOEtrc19yM0VPVzc3SXVSQXNR?oc=5",
+   "date": "2021-01-11T19:00:14+00:00",
+   "summary": "Dart | تعلم لغة دارت من الصفر إلى الاحتراف في 45 فقط YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق متوسط 05 - كيف نستخدم المتغيرات في برمجة تطبيق الموبايل مع فلاتر : Variables in Dart - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXVVdTNHI2TlhrSnM1UFZxNUVWSUZoWEVvaDl0QTcxN0xITWtHRnRlMm1kMUtjRXJvaTJLMVF0ejRleUw4U3g3OFd5S0V2SEl2NFM2Q1pn?oc=5",
-   "date": "2020-12-28T14:18:00+00:00",
-   "summary": "تطبيق متوسط 05 - كيف نستخدم المتغيرات في برمجة تطبيق الموبايل مع فلاتر : Variables in Dart - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "برمجة تطبيق موبايل (بسيط جدا) للمبدئين مع فلاتر Flutter",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12ZDBvRW1vNU1WcmF5ZGlGbzY2MFdMcmJWSkdRSVlRaDNYM05HY1FaLS1CbGlMQVRxbXNTMWZXZGdHM3VWaWxIV0NfS0VkejljOGtMUjBvYllmU0o2U1BvczNFMlR4ZlV2czJJLVcyTU1IOFYyTXMzSXdQOGc?oc=5",
-   "date": "2020-12-28T08:47:52+00:00",
-   "summary": "برمجة تطبيق موبايل (بسيط جدا) للمبدئين مع فلاتر Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق متوسط 03 - كيف نستخدم الأزرار في تطوير تطبيق الموبايل مع فلاتر : Buttons & onPressed - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KOGstOUswSWVwdGFrNjFtYXB5OVpjMkJ4a2tjYk9nSUpkWkt6bXBDTFE3d3pKeXltWE9sdk9faWZscVFwc0phaWtkUm41ZmpOTEJLaEtn?oc=5",
-   "date": "2020-12-25T17:30:00+00:00",
-   "summary": "تطبيق متوسط 03 - كيف نستخدم الأزرار في تطوير تطبيق الموبايل مع فلاتر : Buttons & onPressed - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق متوسط 01 - إنشاء الملفات - كيف تطوير التطبيقات مع فلاتر للمبتدئين : Create App files - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbFBqaEpGRXF4dV9keVFPSTNISU1ZWG43S1o4SjYyZlNIVXE1NHF1S1M3eFlQWVVzems5WlpWNGhuTHB6UUZFS2RNcEt5djZOTi1DalRn?oc=5",
-   "date": "2020-12-21T16:45:01+00:00",
-   "summary": "تطبيق متوسط 01 - إنشاء الملفات - كيف تطوير التطبيقات مع فلاتر للمبتدئين : Create App files - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية تشغيل تطبيق الموبايل على موبايل حقيقي خلال البرمجة : Run Mobile App on a real device - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWE0wOVc1enJFZXpFNjFPLW1GbW45bjFBY2N4dWFPb1h4azdyU1czT3VFazdHdjZtMkdLY1psLV9sM19vYWZBdTluMDRpeTl0X1M3NFBR?oc=5",
-   "date": "2020-12-19T11:45:00+00:00",
-   "summary": "كيفية تشغيل تطبيق الموبايل على موبايل حقيقي خلال البرمجة : Run Mobile App on a real device - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق بسيط 08 (بطاقاتي) - كيفية استخدام البطاقة مع فلاتر للمبتدئين : Card & ListTile - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rWUJmMFh3LUFDRzR0ZnVfZXdLT2NDY2tvbHh1ejJ2UUFnZkt4dlJZbmFCWHlwYmJUSlJXUEdoMEM4ZGRzRzFiSDR5cVhsMk5Edm5vRDF3?oc=5",
-   "date": "2020-12-15T18:26:10+00:00",
-   "summary": "تطبيق بسيط 08 (بطاقاتي) - كيفية استخدام البطاقة مع فلاتر للمبتدئين : Card & ListTile - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق بسيط 05 (بطاقاتي) - كورس تطوير فلاتر للمبتدئين من الصفر : CircleAvatar - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44SGpISVVMVElFcjVqOE8taXVlRjZ0UjBDZTROYTE1X0w2YW9tZkktUzk5dFU3UVBZa0JWTWE5di1XR0NRRzN2dXUtQmpHUjlGN1plZjVR?oc=5",
-   "date": "2020-12-08T17:00:03+00:00",
-   "summary": "تطبيق بسيط 05 (بطاقاتي) - كورس تطوير فلاتر للمبتدئين من الصفر : CircleAvatar - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق بسيط 01 (بطاقاتي) - كورس تعلم فلاتر باللغة العربية للمبتدئين من الصفر : Create Files - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nNk5qM2VSX29naVM1Nl9ranlMV1BIUnF3UFJ6MWF5b2h6OE9vd001YlhQMkl6RW5WWTdqOTN5UlpiQUkteXZtLXhTX3ZZd2IwNTN4aEVB?oc=5",
-   "date": "2020-11-30T10:32:39+00:00",
-   "summary": "تطبيق بسيط 01 (بطاقاتي) - كورس تعلم فلاتر باللغة العربية للمبتدئين من الصفر : Create Files - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق بسيط جدا 04 - تعلم إضافة الصور لتطبيقات الموابايل باستخدام فلاتر : Assets Images - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jYWFQUk05d2FFNUhyZlFMQzBoVUxFUzRSWWJSd2RKTWkyYkdNbkplaEJxNDZDaERhYXVkS0V2UFJNdWtQclpXVDFQay1pSzhuelExaWpR?oc=5",
-   "date": "2020-11-27T05:49:59+00:00",
-   "summary": "تطبيق بسيط جدا 04 - تعلم إضافة الصور لتطبيقات الموابايل باستخدام فلاتر : Assets Images - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق بسيط جدا 03 - تعلم برمجة تطبيقات الموابايل باستخدام فلاتر : Scaffold Widget - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nYnExWUVlT1VjdU9pZGw3dTdCNnRTTUVGTllhVXVUYW8wU3VQS2dOMlZ3SHdDcFlDaEt6R2dWb2Z1LWcyZ3J2a3ZHV193SldadDF4Y1h3?oc=5",
-   "date": "2020-11-25T15:10:31+00:00",
-   "summary": "تطبيق بسيط جدا 03 - تعلم برمجة تطبيقات الموابايل باستخدام فلاتر : Scaffold Widget - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق بسيط جدا 02 - تعلم برمجة تطبيقات الموابايل باستخدام فلاتر : Material App - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4VGJ6LVo2dFZtUmc0c3FZaWMyRl9wUF9QdkFYSmU4T3dwcVdfa0g1TWwwZmFVX0lMQnZpdkdBNXFCWHp1a2lvT2drUFVldEI3aTRFWW1B?oc=5",
-   "date": "2020-11-22T09:02:58+00:00",
-   "summary": "تطبيق بسيط جدا 02 - تعلم برمجة تطبيقات الموابايل باستخدام فلاتر : Material App - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تطبيق بسيط جدا 01 - تعلم برمجة تطبيقات الموابايل باستخدام فلاتر : Create App Files - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uSUQtY0lqTDJXeFVKcW5rTm5uSWZ1WXBsTkhPQlZxNWdNMUx5U0hoNWFyaGF3NE8xRnFNM1Bkcmppa0J5NEI2Y0FLYkpEZjdwZUJwZWd3?oc=5",
-   "date": "2020-11-20T06:00:08+00:00",
-   "summary": "تطبيق بسيط جدا 01 - تعلم برمجة تطبيقات الموابايل باستخدام فلاتر : Create App Files - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Flutter - تحميل وتثبيت فيجوال استوديو كود 2020 - تعلم برمجة تطبيقات الموبايل",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hclU2bFlxd0hrRzBMSmNfRWxnZUtpdkpia2x6X0dnTTFVOEI1ZWlDWC0yZl84UVJnMHVOMEl1MFJjb2prMDh2WkM3b1ZyVDhGa2gtVWxn?oc=5",
-   "date": "2020-11-13T05:15:02+00:00",
-   "summary": "Flutter - تحميل وتثبيت فيجوال استوديو كود 2020 - تعلم برمجة تطبيقات الموبايل YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو 2021 - تعلم برمجة تطبيقات الموبايل - Flutter install",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwd29IenllUTdLZ2c1OTRjM1dtLWhndlAzNEhKd3BuQVVrTUhOSHFWUWtZQmhvd05menIzb0tQa2loSGYyaUowenhaQm5jZW14OGFHeE9B?oc=5",
-   "date": "2020-11-06T09:35:03+00:00",
-   "summary": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو 2021 - تعلم برمجة تطبيقات الموبايل - Flutter install YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Flutter Course - ما هو ولماذا فلاتر؟ - تعلم برمجة تطبيقات الموبايل باستخدام فلاتر",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OUlaZF9FeVZZeW1sQXJCTEhxT3A1UDJwdHQ0MXo1bnMyUktWRkdQNlFycWNzZDdYR0pLVHdJWTlYRkNGYmpHY1M3TUpCb1I0RXJjSnJ3?oc=5",
-   "date": "2020-11-04T08:31:18+00:00",
-   "summary": "Flutter Course - ما هو ولماذا فلاتر؟ - تعلم برمجة تطبيقات الموبايل باستخدام فلاتر YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Flutter course - مقدمة عن فلاتر - تعلم برمجة تطبيقات الموبايل باستخدام فلاتر",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DajhOQnpuTUtsdzVPRExWODVQNHoxYlB0a0hnT3dhWUpDdmhpdVloaHdseTlRVHhwMkFoVFFHak05TmFOWlhhOWVlc05lM1FBU3V1MFB3?oc=5",
-   "date": "2020-10-29T12:26:22+00:00",
-   "summary": "Flutter course - مقدمة عن فلاتر - تعلم برمجة تطبيقات الموبايل باستخدام فلاتر YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تجربة برمجة برنامج للحاسوب بتقنية فلتر - Create Flutter Desktop Application",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIQUJyZThBalFyeGh3UTZoazFLeTc0am1vb1Zyb3JlTWIta1VIZUJ4SklOLU1YbXZhV1VnRnBuMHF5c1p1azFMWVVrSWx0ODl5U2ZCbjhB?oc=5",
-   "date": "2020-09-20T15:00:11+00:00",
-   "summary": "تجربة برمجة برنامج للحاسوب بتقنية فلتر - Create Flutter Desktop Application YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة كاملة لبرمجة تطبيقات فلتر - flutter crash course One Hour",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZRW1DXzh6RTNBaUdkaUp3VlJWc2paYVgtZFlGZWNzdmNIX0pORWpDRU44MU04TnBpSWpzLV9DRk5FXzd0enRDdXFrQXI0NGhLX19ZY2tB?oc=5",
-   "date": "2020-08-16T12:46:14+00:00",
-   "summary": "دورة كاملة لبرمجة تطبيقات فلتر - flutter crash course One Hour YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "131 التحكم في نسخ و إصدارات تطبيق الفلاتر مع جيت Flutter with Git version control system",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12WjBFTFhucVFFMy1maFRCWUZPMUZ5TDRQazNYU3RyNHNRMklhZkJNam9kOGQtdjZXR0Z0UmdUZzdqVmlMX19wY0Y0VnRDdXZHcDEwUGFB?oc=5",
-   "date": "2020-07-26T07:00:07+00:00",
-   "summary": "131 التحكم في نسخ و إصدارات تطبيق الفلاتر مع جيت Flutter with Git version control system YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "6 التمدد - Expanded - كل يوم شرح لأداة من أدوات واجهات فلاتر",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1meXFFT0o0VmZvUUpLTVE5OFhocjZTNG0yUGl0LU5Cal9iVzc3QUkzYTFNdXJQc2dRWnJrTWVmOF90bWp4WmNsY0p2a192REVjVy1IM2pn?oc=5",
-   "date": "2020-07-24T16:00:17+00:00",
-   "summary": "6 التمدد - Expanded - كل يوم شرح لأداة من أدوات واجهات فلاتر YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "129 رفع تطبيق الفلاتر علي جوجل بلاي ستور How to upload flutter app to google play store",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LVjR2bzRxWFBTT0JZX3NkRVdJTmt6ME9INDhZcEktNUN5ZERZREliSnQ2a2VmTFd5YU85N1liMDNEempEZFA0WXpWci1kWjJJRkxhenBB?oc=5",
-   "date": "2020-06-30T16:00:07+00:00",
-   "summary": "129 رفع تطبيق الفلاتر علي جوجل بلاي ستور How to upload flutter app to google play store YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "94 إستخدام كاميرا الهاتف مع تطبيقات الفلاتر How To Access Camera With Flutter App",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZQll4NnNrMjhudks3OVUyWkVSc1BrY09KQmlYeEwxbHBFc1A4SlVmcUsxcEpmX1ViOUg3dkw1XzY3UHNrRlRFOWZQNWMxT3BNelppREtn?oc=5",
-   "date": "2020-03-21T12:30:06+00:00",
-   "summary": "94 إستخدام كاميرا الهاتف مع تطبيقات الفلاتر How To Access Camera With Flutter App YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "53 تغيير أيقونة تطبيق فلاتر change flutter application icon",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ES2pUTHNza18tTFB1QnJwYnp4SWl3RUpHTExpbDctRzFZV2hJcDZOaDY0WUN6Z29FTEJKbzlvOEl2M1pFdVZMWGw2M3JlOE5lVFhONm5n?oc=5",
-   "date": "2019-10-08T04:00:02+00:00",
-   "summary": "53 تغيير أيقونة تطبيق فلاتر change flutter application icon YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "The Magic of Flutter , Flutter StudyJam دليلك الكامل لتعلم فلاتر ، ورشة تدريب فلاتر لأكثر من٣ ساعات",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aUEppeFlWc3hJSjVWbzVNRWNQOUZ1UW5WdFkxVlNNUmtvdUVWbVEyR3ZtTVZTcmNWNG1SRXdMalNTaUNEdFVOUlVjenh5aW8zVzZpUVhn?oc=5",
-   "date": "2019-07-11T15:01:52+00:00",
-   "summary": "The Magic of Flutter , Flutter StudyJam دليلك الكامل لتعلم فلاتر ، ورشة تدريب فلاتر لأكثر من٣ ساعات YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس برمجة الهواتف الذكية بإستخدام فلاتر Flutter course",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3eEJ4enlDay1nTTF6NmhFM2VtMzRTQkFiRXdWZDVObllTVlA1Q1I0VkdmUnFIem1pUzhPVlA2dzdpN0FlNGFiUFJMTlhkOXk4amZIS0N6Q3daT1c3MnZnYlU0eFJvYk04RnZhd2wyZFBIMnk4NkZmbHdzUWE?oc=5",
-   "date": "2019-05-20T17:45:35+00:00",
-   "summary": "كورس برمجة الهواتف الذكية بإستخدام فلاتر Flutter course YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "4 كتابة كود إنشاء المشروع الأول بإستخدام فلاتر Create first flutter project",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRVhhc1NwZTdiOEwyVmFaVFliQ3pvYW9vaUZQNktSalJBeDZKSV80Vk9jTXZPMWRPUzNjZzJ2TC1lUHV3RlVMOXBHVW9BQWRadTdOdXZn?oc=5",
-   "date": "2019-05-20T07:06:27+00:00",
-   "summary": "4 كتابة كود إنشاء المشروع الأول بإستخدام فلاتر Create first flutter project YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس برمجة الهواتف الذكيه بإستخدام فلاتر لبناء تطبيقات الاندرويد و الأي فون Flutter course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ydlVvbThLcDUxM19PWVdXcUlVNjRoQjM2UzAxSV9DNnJlOTRmOTRsZG1TbHZTaElRMFZIakhWOGxIWE9TSjE1bTBWUFFRTFh3b05vNWRR?oc=5",
-   "date": "2019-05-18T13:55:00+00:00",
-   "summary": "كورس برمجة الهواتف الذكيه بإستخدام فلاتر لبناء تطبيقات الاندرويد و الأي فون Flutter course YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "وزير الخارجية الإيراني في \"مناظرة صحفية\" دارت باللغة العربية:ثلاث دول عرفت حدوث ضربة السودان قبل وقوعها",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxWXJwdHNGV2kzbnhPY25zeHo3QXAtdUdmMlp1RE1JSi1tQ2MxOTZtdFhSc255OXd1V01DYXNFMXJKZWhGRXkzN3FldlJpSTdWeC1tTy10SzhsclVVclBTVG5zV0E2OFdQVlc0Z2FzdXk?oc=5",
-   "date": "2012-11-04T07:00:00+00:00",
-   "summary": "وزير الخارجية الإيراني في \"مناظرة صحفية\" دارت باللغة العربية:ثلاث دول عرفت حدوث ضربة السودان قبل وقوعها alwatanvoice.com",
-   "tech": "flutter",
-   "sourceId": "ar-news",
-   "source": "alwatanvoice.com",
    "lang": "ar"
   }
  ]

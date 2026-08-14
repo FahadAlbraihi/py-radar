@@ -1,229 +1,8 @@
 {
- "generated": "2026-08-14T20:05:24.965338+00:00",
+ "generated": "2026-08-14T20:43:21.912152+00:00",
  "tech": "java",
- "count": 218,
+ "count": 140,
  "items": [
-  {
-   "title": "Stirling-Tools/Stirling-PDF",
-   "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-   "date": "2026-08-14T20:01:40+00:00",
-   "summary": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-   "points": 89527,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "elastic/elasticsearch",
-   "url": "https://github.com/elastic/elasticsearch",
-   "date": "2026-08-14T19:50:20+00:00",
-   "summary": "Free and Open Source, Distributed, RESTful Search Engine",
-   "points": 77854,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "SeleniumHQ/selenium",
-   "url": "https://github.com/SeleniumHQ/selenium",
-   "date": "2026-08-14T19:44:53+00:00",
-   "summary": "A browser automation framework and ecosystem.",
-   "points": 34376,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Open WireGuard Endpoints",
-   "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
-   "date": "2026-08-14T19:05:46+00:00",
-   "summary": "",
-   "points": 6,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "TeamNewPipe/NewPipe",
-   "url": "https://github.com/TeamNewPipe/NewPipe",
-   "date": "2026-08-14T18:52:03+00:00",
-   "summary": "A libre lightweight streaming front-end for Android.",
-   "points": 39337,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "keycloak/keycloak",
-   "url": "https://github.com/keycloak/keycloak",
-   "date": "2026-08-14T18:37:12+00:00",
-   "summary": "Open Source Identity and Access Management For Modern Applications and Services",
-   "points": 36182,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Rustc_codegen_JVM: Compile Rust to Java bytecode and runnable JARs",
-   "url": "https://github.com/IntegralPilot/rustc_codegen_jvm",
-   "date": "2026-08-14T17:42:04+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "google/guava",
-   "url": "https://github.com/google/guava",
-   "date": "2026-08-14T17:20:51+00:00",
-   "summary": "Google core libraries for Java",
-   "points": 51917,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "dbeaver/dbeaver",
-   "url": "https://github.com/dbeaver/dbeaver",
-   "date": "2026-08-14T17:16:26+00:00",
-   "summary": "Free universal database tool and SQL client",
-   "points": 51458,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "YunaiV/ruoyi-vue-pro",
-   "url": "https://github.com/YunaiV/ruoyi-vue-pro",
-   "date": "2026-08-14T16:49:53+00:00",
-   "summary": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
-   "points": 38717,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "eugenp/tutorials",
-   "url": "https://github.com/eugenp/tutorials",
-   "date": "2026-08-14T15:53:41+00:00",
-   "summary": "Getting Started with Spring Boot 3: ",
-   "points": 37324,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "The Java Story – The official documentary [video]",
-   "url": "https://www.youtube.com/watch?v=ZqGSg4b_cZA",
-   "date": "2026-08-14T15:47:58+00:00",
-   "summary": "",
-   "points": 10,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "lysine-dev/retrofit",
-   "url": "https://github.com/lysine-dev/retrofit",
-   "date": "2026-08-14T15:12:06+00:00",
-   "summary": "A type-safe HTTP client for Android and the JVM",
-   "points": 43928,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Qwen3.8-27B is now available on Hugging Face",
-   "url": "https://huggingface.co/collections/Qwen/qwen38",
-   "date": "2026-08-14T15:01:57+00:00",
-   "summary": "",
-   "points": 20,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "netty/netty",
-   "url": "https://github.com/netty/netty",
-   "date": "2026-08-14T14:53:41+00:00",
-   "summary": "Netty project - an event-driven asynchronous network application framework",
-   "points": 35030,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Why Japanese firms are being so slow to use AI?",
-   "url": "https://www.bbc.com/news/articles/cwymw4434v7o",
-   "date": "2026-08-14T14:43:24+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Reddit surges on S&P 500 inclusion, set to replace AvalonBay",
-   "url": "https://www.reuters.com/business/finance/reddit-surges-sp-500-inclusion-set-replace-avalonbay-2026-08-14/",
-   "date": "2026-08-14T14:08:27+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
-   "url": "https://gatewai.studio/artifex",
-   "date": "2026-08-14T12:15:13+00:00",
-   "summary": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. The agent talks to Artifex through a structured CLI inter",
-   "points": 5,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "halo-dev/halo",
-   "url": "https://github.com/halo-dev/halo",
-   "date": "2026-08-14T09:56:19+00:00",
-   "summary": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
-   "points": 39487,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "Ollama REST API Tutorial: Integrate Local AI into Any App in 2026",
    "url": "https://dev.to/rajesh1761/ollama-rest-api-tutorial-integrate-local-ai-into-any-app-in-2026-4dn3",
@@ -234,121 +13,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "Superluminal Profiler is now available for Linux",
-   "url": "https://superluminal.eu/applications/linux/",
-   "date": "2026-08-14T08:11:11+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "JCT-1 Labs announces general availability of JCT-1",
-   "url": "https://www.jacquescorbytuech.com/writing/jct-1-labs-announces-general-availability-jct-1",
-   "date": "2026-08-14T07:59:24+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Friday Links #43: What Mattered in JavaScript This Week",
-   "url": "https://jsdevspace.substack.com/p/friday-links-43-what-mattered-in",
-   "date": "2026-08-14T07:27:58+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "spring-projects/spring-boot",
-   "url": "https://github.com/spring-projects/spring-boot",
-   "date": "2026-08-14T06:44:24+00:00",
-   "summary": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-   "points": 81347,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "jeecgboot/JeecgBoot",
-   "url": "https://github.com/jeecgboot/JeecgBoot",
-   "date": "2026-08-14T06:09:59+00:00",
-   "summary": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-   "points": 47396,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "bumptech/glide",
-   "url": "https://github.com/bumptech/glide",
-   "date": "2026-08-14T06:06:51+00:00",
-   "summary": "An image loading and caching library for Android focused on smooth scrolling",
-   "points": 35024,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "doocs/leetcode",
-   "url": "https://github.com/doocs/leetcode",
-   "date": "2026-08-14T05:33:08+00:00",
-   "summary": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
-   "points": 36456,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Show HN: VeerHost – $1/month web hosting, limited spots",
-   "url": "https://veerhost.com/1-dollar-web-hosting/",
-   "date": "2026-08-14T04:56:44+00:00",
-   "summary": "Hey HN, We just launched $1&#x2F;month web hosting for the first year, with only a limited number of spots available. 20GB NVMe, SSL, malware protection, WordPress support, and one website.",
-   "points": 7,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "RegExp /V in JavaScript: Sets, Intersections, and Unicode",
-   "url": "https://www.jstools.space/blog/regexp-in-javascript/",
-   "date": "2026-08-14T04:46:39+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "alibaba/arthas",
-   "url": "https://github.com/alibaba/arthas",
-   "date": "2026-08-14T02:31:32+00:00",
-   "summary": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
-   "points": 37487,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Composable Async Pipelines with Java CompletableFuture",
@@ -362,62 +26,6 @@
    "lang": "en"
   },
   {
-   "title": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
-   "url": "https://github.com/bshichman/trs80-coco-basic",
-   "date": "2026-08-14T00:04:57+00:00",
-   "summary": "",
-   "points": 15,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Bank of Japan September rate hike locked in; SME bankruptcies hit 12-year high",
-   "url": "https://www.msn.com/en-us/money/economy/bank-of-japan-september-rate-hike-locked-in-sme-bankruptcies-hit-12-year-high/ar-AA2a2Cer",
-   "date": "2026-08-13T21:44:50+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Apache Fory JSON: Fast JSON Serialization for Java",
-   "url": "https://fory.apache.org/blog/fory_json_fastest_java_json_framework/",
-   "date": "2026-08-13T21:16:38+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "The simple way to add Bitcoin payments to your app",
-   "url": "https://second.tech/",
-   "date": "2026-08-13T20:21:27+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "apache/dubbo",
-   "url": "https://github.com/apache/dubbo",
-   "date": "2026-08-13T18:29:17+00:00",
-   "summary": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
-   "points": 41551,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Verify AI Token Cost Cuts with MgntUtils Stacktrace Filtering on your own data — Before You Touch Production",
    "url": "https://dev.to/mgantman/verify-ai-token-cost-cuts-with-mgntutils-stacktrace-filtering-on-your-own-data-before-you-touch-k96",
    "date": "2026-08-13T17:26:33+00:00",
@@ -426,40 +34,6 @@
    "tech": "java",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Natural Language Processing (NLP) Explained – AI and Human Language",
-   "url": "https://bytetality.com/reviews/86-natural-language-processing-nlp-explained-ai-human-language",
-   "date": "2026-08-13T17:12:13+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "spring-projects/spring-framework",
-   "url": "https://github.com/spring-projects/spring-framework",
-   "date": "2026-08-13T17:02:05+00:00",
-   "summary": "Spring Framework",
-   "points": 60221,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Who Should Pay for Source Code Availability?",
-   "url": "https://kristoff.it/blog/source-code-availability/",
-   "date": "2026-08-13T16:50:36+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -474,17 +48,6 @@
    "lang": "en"
   },
   {
-   "title": "Hiroshi Okuda, Toyota chair who pushed for the Prius, dies at 93",
-   "url": "https://www.japantimes.co.jp/business/2026/08/12/companies/toyota-hiroshi-okada-death/",
-   "date": "2026-08-13T16:13:39+00:00",
-   "summary": "",
-   "points": 6,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Happy 8th Birthday, JEP 8209434 — Here's Your Preview Implementation",
    "url": "https://dev.to/verhasi/happy-8th-birthday-jep-8209434-heres-your-preview-implementation-4de9",
    "date": "2026-08-13T16:03:09+00:00",
@@ -493,72 +56,6 @@
    "tech": "java",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I found moderation endpoint in JavaScript",
-   "url": "https://nadleer.github.io/posts/flagging_post_bug/",
-   "date": "2026-08-13T15:59:44+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "How to perform concurrent CRUD operations on Microsoft Fabric Lakehouse from Java without exhausting Livy sessions",
-   "url": "https://stackoverflow.com/questions/79993861/how-to-perform-concurrent-crud-operations-on-microsoft-fabric-lakehouse-from-jav",
-   "date": "2026-08-13T15:26:13+00:00",
-   "summary": "java، azure-service-fabric",
-   "points": -1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Nanosamur.ai – open-source private speech AI platform",
-   "url": "https://github.com/nanosamurai/nanosamurai",
-   "date": "2026-08-13T15:13:51+00:00",
-   "summary": "nanosamur.ai is an open-source speech AI platform for organizations that cannot send sensitive conversations to a third party. It lets you capture, transcribe, refine, and process speech entirely insi",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "NationalSecurityAgency/ghidra",
-   "url": "https://github.com/NationalSecurityAgency/ghidra",
-   "date": "2026-08-13T15:11:45+00:00",
-   "summary": "Ghidra is a software reverse engineering (SRE) framework",
-   "points": 72371,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Circle – A new era for digital businesses",
-   "url": "https://circle.so",
-   "date": "2026-08-13T14:52:18+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "State-of-the-art Bytecode Interpreters in Java by Yudi Zheng",
-   "url": "https://www.reddit.com/r/java/comments/1vncl3m/stateoftheart_bytecode_interpreters_in_java_by/",
-   "date": "2026-08-13T14:39:46+00:00",
-   "summary": "submitted by /u/grashalm01 [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
    "lang": "en"
   },
   {
@@ -573,115 +70,6 @@
    "lang": "en"
   },
   {
-   "title": "How to configure RestClient timeout in Spring Boot 4?",
-   "url": "https://stackoverflow.com/questions/79993845/how-to-configure-restclient-timeout-in-spring-boot-4",
-   "date": "2026-08-13T14:18:33+00:00",
-   "summary": "java، spring-boot، spring-restclient",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Java at the Metal: CUDA Graphs, Tensor Cores, cuBLAS/CuDNN/CuFFT with TornadoVM",
-   "url": "https://www.tornadovm.org/blogs/java-at-the-metal-cuda-graphs-tensor-cores-cublas-cudnn-cufft",
-   "date": "2026-08-13T14:16:59+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: ProbeDeck an iOS app for ClickHouse incident triage",
-   "url": "https://news.ycombinator.com/item?id=49286299",
-   "date": "2026-08-13T14:14:17+00:00",
-   "summary": "As a backend developer dealing with heavy applications, I run a ClickHouse node with 3.42 TB compressed and 19.10 TB uncompressed amongst its active components. I built ProbeDeck to run some operation",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Neal – Claude and Codex working together",
-   "url": "https://github.com/navels/neal",
-   "date": "2026-08-13T14:10:58+00:00",
-   "summary": "neal is a CLI I wrote while trying to use an LLM coding agent (in this case, Codex GPT-5.4) to work autonomously on a migration of our large frontend codebase. A few things came up during that project",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Spec Sheets Are Not Kernels: INT8 Availability on Nvidia Blackwell Ultra",
-   "url": "https://arxiv.org/abs/2608.11693",
-   "date": "2026-08-13T13:54:25+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "(Project Amber) New guide: Preparing for Change: Safe Switching over Sealed APIs",
-   "url": "https://www.reddit.com/r/java/comments/1vnb2qu/project_amber_new_guide_preparing_for_change_safe/",
-   "date": "2026-08-13T13:41:47+00:00",
-   "summary": "submitted by /u/davidalayachew [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "SDKMAN not installing java-28.0.0+ea.10-open.zip",
-   "url": "https://stackoverflow.com/questions/79993828/sdkman-not-installing-java-28-0-0ea-10-open-zip",
-   "date": "2026-08-13T13:38:13+00:00",
-   "summary": "java، sdkman",
-   "points": -1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Certificate Transparency Monitoring is now generally available",
-   "url": "https://blog.cloudflare.com/certificate-transparency-monitoring-ga/",
-   "date": "2026-08-13T13:17:05+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Compile Rust to Java bytecode and runnable JARs",
-   "url": "https://github.com/IntegralPilot/rustc_codegen_jvm",
-   "date": "2026-08-13T12:32:30+00:00",
-   "summary": "",
-   "points": 4,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Read it easy – Read-only code editor with an improved Go to Definition",
-   "url": "https://www.readiteasy.app/",
-   "date": "2026-08-13T12:30:43+00:00",
-   "summary": "I built a desktop app that improves the UI&#x2F;UX for reading source code . Code editors&#x2F;IDEs have many features, but I didn&#x27;t make the best use of them when reading the source code. So, I ",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "DeepSeek V4 Pro Is Out. Here's How to Wire It Into Spring Boot With Spring AI",
    "url": "https://dev.to/jamilxt/deepseek-v4-pro-is-out-heres-how-to-wire-it-into-spring-boot-with-spring-ai-213m",
    "date": "2026-08-13T12:23:27+00:00",
@@ -690,82 +78,6 @@
    "tech": "java",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "pull text into .env file from a .txt file as variable",
-   "url": "https://stackoverflow.com/questions/79993794/pull-text-into-env-file-from-a-txt-file-as-variable",
-   "date": "2026-08-13T11:30:43+00:00",
-   "summary": "java، spring، pem، license-key",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Japan has recorded its ten most popular baby names every year since 1912",
-   "url": "https://jivx.com/namae",
-   "date": "2026-08-13T11:30:12+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Mojo in Mid-2026: From Python-Inspired Experiment to Production Systems Language",
-   "url": "https://www.reddit.com/r/AgentContext_dev/comments/1vn5xef/mojo_in_mid2026_from_pythoninspired_experiment_to/",
-   "date": "2026-08-13T10:07:44+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Potatoes 'boil' in the ground as record heatwave sweeps across swathes of Asia",
-   "url": "https://www.theguardian.com/world/2026/aug/13/asia-heatwave-south-korea-potatoes-boil-ground-record-heat-hong-kong-japan",
-   "date": "2026-08-13T09:59:53+00:00",
-   "summary": "",
-   "points": 12,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Java: Create Java Project silently fails — no project created, no error",
-   "url": "https://stackoverflow.com/questions/79993758/java-create-java-project-silently-fails-no-project-created-no-error",
-   "date": "2026-08-13T09:37:04+00:00",
-   "summary": "java، visual-studio-code",
-   "points": -3,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Jakarta EE 11 MVC sample",
-   "url": "https://www.reddit.com/r/java/comments/1vn5zie/jakarta_ee_11_mvc_sample/",
-   "date": "2026-08-13T09:34:29+00:00",
-   "summary": "submitted by /u/henk53 [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Win-V combo from Windows on Ubuntu",
-   "url": "https://leo98ml.github.io/win-v/",
-   "date": "2026-08-13T09:18:42+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -791,17 +103,6 @@
    "lang": "en"
   },
   {
-   "title": "The Human Fridge",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/jul/22/human-fridge-japan-heatwave",
-   "date": "2026-08-13T08:48:51+00:00",
-   "summary": "",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
    "title": "Spring Batch chunk processing explained with examples — Complete Guide",
    "url": "https://dev.to/rajesh1761/spring-batch-chunk-processing-explained-with-examples-complete-guide-b6",
    "date": "2026-08-13T08:18:58+00:00",
@@ -810,50 +111,6 @@
    "tech": "java",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A ship fired a distress flare as fireworks. A ship went: This is our Christmas",
-   "url": "https://news.ycombinator.com/item?id=49282940",
-   "date": "2026-08-13T07:55:01+00:00",
-   "summary": "I&#x27;m a navigation officer on commercial ships, seven years at sea. Two things here that might interest you. First, promotion in the merchant service runs almost entirely on competency. Self-market",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Japanese Police Arrest NYAA ‘First Uploader,’ But Not by Watching the Swarm",
-   "url": "https://torrentfreak.com/japanese-police-arrest-nyaa-first-uploader-but-not-by-watching-the-swarm/",
-   "date": "2026-08-13T07:26:11+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "The 221-year-old company that reinvented itself – 4 times – Big Think",
-   "url": "https://bigthink.com/the-long-game/the-221-year-old-company-that-reinvented-itself-4-times/",
-   "date": "2026-08-13T06:36:32+00:00",
-   "summary": "",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
-   "url": "https://bigthink.com/the-future/ai-translates-cuneiform/",
-   "date": "2026-08-13T06:29:24+00:00",
-   "summary": "",
-   "points": 3,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -890,17 +147,6 @@
    "lang": "en"
   },
   {
-   "title": "How to make icon show with jpackage if in AppData",
-   "url": "https://stackoverflow.com/questions/79993663/how-to-make-icon-show-with-jpackage-if-in-appdata",
-   "date": "2026-08-13T02:55:47+00:00",
-   "summary": "java، windows، file-permissions، appdata، jpackage",
-   "points": 4,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "O que tem em um .class do Java?",
    "url": "https://dev.to/edysilva/o-que-tem-em-um-class-do-java-2agm",
    "date": "2026-08-13T01:47:10+00:00",
@@ -909,28 +155,6 @@
    "tech": "java",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Chatlens – Search and browse your ChatGPT and Claude chats offline",
-   "url": "https://github.com/david-g-3654/chatlens",
-   "date": "2026-08-13T01:36:50+00:00",
-   "summary": "this is one HTML file, about 85KB, with no build step and no backend. Download it, open it, drop your export on it. Tested with ChatGPT export json files of chat history. Limitations: attachments and ",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "Show HN: Interspectr – automated interview prep generated from a job posting",
-   "url": "https://interspectr.com/",
-   "date": "2026-08-13T01:20:47+00:00",
-   "summary": "I was always having this anxious feeling before the interview about not getting the job. Because of that, I tended to try to prep as much as I could to at least pass the first round of interview. Howe",
-   "points": 2,
-   "tech": "java",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -945,208 +169,6 @@
    "lang": "en"
   },
   {
-   "title": "Monitoring Spring Boot Actuator on low-resource VPS nodes without running a second JVM",
-   "url": "https://www.reddit.com/r/java/comments/1vmi7o7/monitoring_spring_boot_actuator_on_lowresource/",
-   "date": "2026-08-12T16:00:11+00:00",
-   "summary": "When running small Spring Boot applications on 1-2 GB VPS instances, a full observability stack can be a significant amount of additional infrastructure for what may be a fairly simple deployment. Over the past few weeks, I ve been looking ",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Activity with excludeFromRecents= true , launchMode= singleTask , and a custom taskAffinity is destroyed when another app is launched",
-   "url": "https://stackoverflow.com/questions/79993462/activity-with-excludefromrecents-true-launchmode-singletask-and-a-custom-t",
-   "date": "2026-08-12T10:19:04+00:00",
-   "summary": "java، android، kotlin",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "I made a website that automatically collects images of our favourite mascot duke!",
-   "url": "https://www.reddit.com/r/java/comments/1vm81m1/i_made_a_website_that_automatically_collects/",
-   "date": "2026-08-12T08:17:02+00:00",
-   "summary": "Hello my fellow java enthusiasts! I made a cool side project that automatically searches the web for images of our beloved java mascot duke. The website shows a random image from the archive. It will also have a full gallery available soon!",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "TheAlgorithms/Java",
-   "url": "https://github.com/TheAlgorithms/Java",
-   "date": "2026-08-12T06:09:49+00:00",
-   "summary": "All Algorithms implemented in Java",
-   "points": 66171,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Hadoop-Hive Configuration",
-   "url": "https://stackoverflow.com/questions/79993394/hadoop-hive-configuration",
-   "date": "2026-08-12T06:05:10+00:00",
-   "summary": "java، hadoop، hive، binding، derby",
-   "points": -1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "GlassFish 9.0 M3 released!",
-   "url": "https://www.reddit.com/r/java/comments/1vluwmt/glassfish_90_m3_released/",
-   "date": "2026-08-11T21:39:33+00:00",
-   "summary": "submitted by /u/henk53 [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Events-Caravan, an event-sourcing framework that trades the global event log for horizontal scalability (DynamoDB/SNS/SQS reference impl, Spring Boot starters)",
-   "url": "https://www.reddit.com/r/java/comments/1vlqxb6/eventscaravan_an_eventsourcing_framework_that/",
-   "date": "2026-08-11T19:11:47+00:00",
-   "summary": "Over the past months I ve been building my pet project, and today I m open-sourcing its core: Events-Caravan, an event-sourcing framework for Java with Spring-boot starter modules. The framework is built around an opinionated bet made for t",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Read zip in zip for updating",
-   "url": "https://stackoverflow.com/questions/79992292/read-zip-in-zip-for-updating",
-   "date": "2026-08-11T17:22:10+00:00",
-   "summary": "java، java.nio.file",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Apache Fory™ JSON : Fastest JSON Serialization Framework for Java, 10x faster than Jackson/Gson",
-   "url": "https://www.reddit.com/r/java/comments/1vljk87/apache_fory_json_fastest_json_serialization/",
-   "date": "2026-08-11T14:48:34+00:00",
-   "summary": "submitted by /u/Shawn-Yang25 [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Jakarta EE starter now supports Jakarta EE 11!",
-   "url": "https://www.reddit.com/r/java/comments/1vlgd27/jakarta_ee_starter_now_supports_jakarta_ee_11/",
-   "date": "2026-08-11T12:41:42+00:00",
-   "summary": "submitted by /u/henk53 [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "ReactiveX/RxJava",
-   "url": "https://github.com/ReactiveX/RxJava",
-   "date": "2026-08-11T11:32:26+00:00",
-   "summary": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
-   "points": 48207,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Cookies from server aren t coming with the request",
-   "url": "https://stackoverflow.com/questions/79992211/cookies-from-server-arent-coming-with-the-request",
-   "date": "2026-08-11T10:46:49+00:00",
-   "summary": "java، selenium-webdriver",
-   "points": -1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "What does must return a semantically identical result mean?",
-   "url": "https://stackoverflow.com/questions/79992144/what-does-must-return-a-semantically-identical-result-mean",
-   "date": "2026-08-11T06:49:55+00:00",
-   "summary": "best-practices، java، java-stream",
-   "points": 8,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "from small to big with jbang",
-   "url": "https://www.reddit.com/r/java/comments/1vl5ew3/from_small_to_big_with_jbang/",
-   "date": "2026-08-11T02:51:23+00:00",
-   "summary": "jbang should be part of the jdk submitted by /u/sombriks [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Apache NetBeans 31 Released",
-   "url": "https://www.reddit.com/r/java/comments/1vkudxs/apache_netbeans_31_released/",
-   "date": "2026-08-10T19:16:18+00:00",
-   "summary": "submitted by /u/dstutz [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Have an instance variable be different things?",
-   "url": "https://stackoverflow.com/questions/79992012/have-an-instance-variable-be-different-things",
-   "date": "2026-08-10T17:48:00+00:00",
-   "summary": "java",
-   "points": -6,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Intermittent latency at java.io.RandomAccessFile.open0 while Tomcat classloading?",
-   "url": "https://stackoverflow.com/questions/79991992/intermittent-latency-at-java-io-randomaccessfile-open0-while-tomcat-classloading",
-   "date": "2026-08-10T16:31:49+00:00",
-   "summary": "java، tomcat، java-17، tomcat9",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How to intercept PreparedStatement and reconstruct SQL with parameters using Byte Buddy for GBase 8c JDBC driver?",
-   "url": "https://stackoverflow.com/questions/79991986/how-to-intercept-preparedstatement-and-reconstruct-sql-with-parameters-using-byt",
-   "date": "2026-08-10T16:10:19+00:00",
-   "summary": "java، jdbc، prepared-statement، byte-buddy",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "SimpleJavaBLE 1.1 is now on Maven Central",
-   "url": "https://www.reddit.com/r/java/comments/1vke84s/simplejavable_11_is_now_on_maven_central/",
-   "date": "2026-08-10T07:39:27+00:00",
-   "summary": "Hey everyone! I ve posted a few SimpleBLE updates here over the years, and I wanted to share one that should make the Java bindings much easier to start using. SimpleBLE v1.1.0 is out, and with that SimpleJavaBLE is now available on Maven C",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
    "title": "The EASIEST Tree Farm in Minecraft Java 26.2 (Tutorial)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JWmk2V3I0TERxS2F5ZXI2cDRIZzRNTklCT2REemtaMmU1WkYxdEVPQ2FRZkdUMUE2TzduSGdranAyeEtGRkg4SnhVVE1ab05BYk9jVW9R?oc=5",
    "date": "2026-08-09T22:46:53+00:00",
@@ -1154,37 +176,6 @@
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "ChaosTree [1.2.0] feature jdk11+ support",
-   "url": "https://www.reddit.com/r/java/comments/1vjvsn8/chaostree_120_feature_jdk11_support/",
-   "date": "2026-08-09T17:28:48+00:00",
-   "summary": "ChaosTree is a zero dependency Java Search Tree library. It currently features: BinaryFamily : Binary Tree, AVL Tree, RBT, Splay and Treap. NaryFamily : B-Tree and B+Tree Zero external dependency Minimum JDK11+ Published on Maven Central St",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Managing JDK versions",
-   "url": "https://stackoverflow.com/questions/79991695/managing-jdk-versions",
-   "date": "2026-08-09T15:10:30+00:00",
-   "summary": "tooling-recommendation، java، version، development-environment",
-   "points": -1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "LLM Using Java Springboot",
-   "url": "https://www.reddit.com/r/java/comments/1vjozoq/llm_using_java_springboot/",
-   "date": "2026-08-09T12:45:51+00:00",
-   "summary": "I have tried to create LLM with the interface made in React LLM using Ollama with Sprinboot and React submitted by /u/Aaris_Kazi [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
    "lang": "en"
   },
   {
@@ -1198,113 +189,6 @@
    "lang": "en"
   },
   {
-   "title": "Store long-lived password securely in PBEKeySpec or a Key Store",
-   "url": "https://stackoverflow.com/questions/79991583/store-long-lived-password-securely-in-pbekeyspec-or-a-key-store",
-   "date": "2026-08-08T16:48:29+00:00",
-   "summary": "java، security، password-protection، dump",
-   "points": 1,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "How can I restrict a method to only classes implementing a specific interface in Java?",
-   "url": "https://stackoverflow.com/questions/79991553/how-can-i-restrict-a-method-to-only-classes-implementing-a-specific-interface-in",
-   "date": "2026-08-08T13:33:38+00:00",
-   "summary": "java، oop",
-   "points": 3,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "JDK 28 EA Build10 is now available for download and includes JEP 401: Value Objects (Preview)",
-   "url": "https://www.reddit.com/r/java/comments/1vicga6/jdk_28_ea_build10_is_now_available_for_download/",
-   "date": "2026-08-07T20:52:12+00:00",
-   "summary": "submitted by /u/sureshg [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Hibernate update failing",
-   "url": "https://stackoverflow.com/questions/79991405/hibernate-update-failing",
-   "date": "2026-08-07T18:15:33+00:00",
-   "summary": "java، spring، hibernate",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Longest Increasing Subsequence - failing for a test case",
-   "url": "https://stackoverflow.com/questions/79991371/longest-increasing-subsequence-failing-for-a-test-case",
-   "date": "2026-08-07T15:01:19+00:00",
-   "summary": "java، algorithm، recursion، dynamic-programming",
-   "points": -3,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Controller and service layers: where to write, how much logic, and how to separate them?",
-   "url": "https://stackoverflow.com/questions/79991309/controller-and-service-layers-where-to-write-how-much-logic-and-how-to-separa",
-   "date": "2026-08-07T11:02:46+00:00",
-   "summary": "best-practices، java، model-view-controller، servlets",
-   "points": -3,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Set size of content area in an AlertDialog",
-   "url": "https://stackoverflow.com/questions/79991308/set-size-of-content-area-in-an-alertdialog",
-   "date": "2026-08-07T11:00:12+00:00",
-   "summary": "java، android، android-alertdialog",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "Android Java - Set Size of Content Area in an AlertDialog",
-   "url": "https://stackoverflow.com/questions/79991308/android-java-set-size-of-content-area-in-an-alertdialog",
-   "date": "2026-08-07T11:00:12+00:00",
-   "summary": "java، android، android-alertdialog",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "ChaosTree 1.1.0 – A Zero-Dependency Java Search Tree Library",
-   "url": "https://www.reddit.com/r/java/comments/1vhsb1i/chaostree_110_a_zerodependency_java_search_tree/",
-   "date": "2026-08-07T06:00:35+00:00",
-   "summary": "What is ChaosTree? ChaosTree is a zero dependency Java Search Tree library. It currently features: BinaryFamily : Binary Tree, AVL Tree, RBT, Splay and Treap. NaryFamily : B-Tree and B+Tree Zero external dependency Minimum JDK17+ Published ",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Isolated Projects is incubating in Gradle 9.7.0 (2,500-project monorepo: configuration 10m53s → 2m59s)",
-   "url": "https://www.reddit.com/r/java/comments/1vh8gyy/isolated_projects_is_incubating_in_gradle_970/",
-   "date": "2026-08-06T16:04:29+00:00",
-   "summary": "Isolated Projects moved from experimental to incubating in today s Gradle 9.7.0 release. When it s on, each project is isolated from the others, which lets Gradle configure them in parallel instead of one at a time. Numbers from a pure-Java",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
    "title": "NEW UPDATED Minecraft Java 26.2 MOB FARM TUTORIAL | 7500 Items Per Hour Easy",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56OHEyUk5lQzdtUGRPVlRsRnFCU05yNGY3NE5WbW1uYkptT3pkN2liU3R0VTZSdE9TclBmdzFvdjBjaUJ2NEVOODRtb1o2VzU2LVF5V1pR?oc=5",
    "date": "2026-08-06T14:24:39+00:00",
@@ -1315,126 +199,40 @@
    "lang": "en"
   },
   {
-   "title": "skylot/jadx",
-   "url": "https://github.com/skylot/jadx",
-   "date": "2026-08-05T19:19:01+00:00",
-   "summary": "Dex to Java decompiler",
-   "points": 50061,
+   "title": "Java Full Course 2026 | Core Java Tutorial For Beginners | Advanced Java Full Course | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LMk16NHNYYVEyQS1DS0lsNkdrbUk1YzQzbnNremxNTkFfdGxMR1BPaHFUNkdncUZRVll2VkNIZ0txdzRmTWJzYlM1MWdSSkU3Y3RoWmtR?oc=5",
+   "date": "2026-06-15T14:30:28+00:00",
+   "summary": "Java Full Course 2026 | Core Java Tutorial For Beginners | Advanced Java Full Course | Simplilearn YouTube",
    "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "I made a small Bash wrapper that reduces successful Maven output by 99.7%",
-   "url": "https://www.reddit.com/r/java/comments/1vgfix8/i_made_a_small_bash_wrapper_that_reduces/",
-   "date": "2026-08-05T18:23:54+00:00",
-   "summary": "Successful Maven builds can produce thousands of lines that mostly confirm routine lifecycle steps. That output is noisy when working in a terminal, clutters CI logs, and becomes especially expensive when build output is passed to a coding ",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
-  },
-  {
-   "title": "Hacking the Method Name",
-   "url": "https://www.reddit.com/r/java/comments/1vgdvl5/hacking_the_method_name/",
-   "date": "2026-08-05T17:25:28+00:00",
-   "summary": "submitted by /u/maxxedev [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "A JavaOS",
-   "url": "https://www.reddit.com/r/java/comments/1vfz0yz/a_javaos/",
-   "date": "2026-08-05T06:12:11+00:00",
-   "summary": "submitted by /u/Visual_Brain8809 [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Stop re-downloading the JDK: setup-java can now cache it",
-   "url": "https://www.reddit.com/r/java/comments/1vfun7e/stop_redownloading_the_jdk_setupjava_can_now/",
-   "date": "2026-08-05T02:30:02+00:00",
-   "summary": "Every GitHub Actions job starts from a clean machine. If your workflow asks for a JDK that is not baked into the runner image, actions/setup-java downloads it, verifies it, and extracts a few hundred megabytes of it, and then the job ends a",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Do you still handcraft your java projects?",
-   "url": "https://www.reddit.com/r/java/comments/1vfpr3u/do_you_still_handcraft_your_java_projects/",
-   "date": "2026-08-04T22:54:01+00:00",
-   "summary": "With all the talk about llms writing most of the code and some folks never touching the editor. I try to work mostly in plan mode and prefer to write most of my code by hand else I fear losing touch with my skills if I only read code. At wo",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Hacking in the 'nameOf'",
-   "url": "https://www.reddit.com/r/java/comments/1vfjuyc/hacking_in_the_nameof/",
-   "date": "2026-08-04T19:10:15+00:00",
-   "summary": "submitted by /u/TheMrMilchmann [link] [التعليقات]",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "Use of Java 26 in green field projects",
-   "url": "https://www.reddit.com/r/java/comments/1vf6auc/use_of_java_26_in_green_field_projects/",
-   "date": "2026-08-04T10:18:03+00:00",
-   "summary": "For what kind of new projects, except web related, would Java be your go to choice? Assuming knowledge of both languages, why wouldn t you prefer C# for the same projects? Thank you so much in advance. submitted by /u/codingbliss12 [link] [",
-   "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
-   "lang": "en"
-  },
-  {
-   "title": "iluwatar/java-design-patterns",
-   "url": "https://github.com/iluwatar/java-design-patterns",
-   "date": "2026-07-31T11:42:30+00:00",
-   "summary": "Design patterns implemented in Java",
-   "points": 94589,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "zxing/zxing",
-   "url": "https://github.com/zxing/zxing",
-   "date": "2026-07-28T13:28:47+00:00",
-   "summary": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
-   "points": 34065,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "تربية الوسطى تفتتح دورة في الرسم الصناعي ولغة جافا - وكالة الرأي الفلسطينية -",
-   "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPbEpuZWgwOUY2Nnp0LWVBVE5xWjFMdHVYeUFXcVZzSmtyaEtfS2x1Nm5Keml4Uk5wV0Jxd3A1bHNaTEFILWI2a0dmOHZFNWNjRmx2R1M3aDBTWjZsMk53SjlCbnJyRDlyX0hkdWJJWHJXR0M0cGZrakVFVW5iQUVBWTNQdUpiaDJYcnU5WGNvWmM3bzV4U2pjSTFYczdzSUtzQ2pNZm8xaGw4dTZ2MnNSX1RuWDAxSXJUV2NrSUpIdWhzVlZsTGYxcDY2VXdCX2d0NzVCNm9MNlNNaHZVSjd1ZU5kMDZHSlJTanp3WWhPNlR1Z2pOLXo2UEllRkIzbkw5V0Q0S0lmNUl2VTNNbHk1ZV9jUFZrMVZmYVFaNVlCWjVWb1VTbXZYNkctZjFDN0VfV21fWXZ0elVEdHlDWDRGeFNHUEN4bEZTTmtwZHA4SzNwdmhoU0I1RlpwTVk0enNmRUpnVF8wYW1UdkJ1X1hyWk9VS1NyQnhEX0M3bGUyaV9QNGo3QmxyZDVvOTdndjZFZXZ2bUh5YnRDaVg2VkxHVjRB?oc=5",
-   "date": "2026-07-09T07:00:00+00:00",
-   "summary": "تربية الوسطى تفتتح دورة في الرسم الصناعي ولغة جافا وكالة الرأي الفلسطينية -",
-   "tech": "java",
-   "sourceId": "ar-news",
-   "source": "مقالات عربية",
-   "lang": "ar"
   },
   {
    "title": "EASIEST MOB XP Farm Minecraft Java & Bedrock 26.1/1.21+!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BQjQtWGpQS3hBSVg1Z2lRV0tDUXg1end5Si11enhfenZ0cmNrS0cwaWNmcGd3TENRSHR0V1BBV3pYMnpUeVR4XzBoNlNEQV9oRTczdFFB?oc=5",
    "date": "2026-06-12T12:00:00+00:00",
    "summary": "EASIEST MOB XP Farm Minecraft Java & Bedrock 26.1/1.21+! YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Complete Java Development: Spring Boot, Microservices, Spring AI",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qQk50NHl2b0pFMElKb3lzYVhNRmJaLXdLSmd6TzFCMHJCd2RiaGVNTUVNdktfUWxicnpjX2lYSUhyTUl1UlNEWmlpdGlILWZwTUVPcHhB?oc=5",
+   "date": "2026-03-21T06:48:10+00:00",
+   "summary": "Complete Java Development: Spring Boot, Microservices, Spring AI YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced Java Full Course 2026 | Advance Java Tutorial | JDBC",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBveGVsanNvRGZ2ckxUTDlYU0JXSHBVbF9HcmtiRm5lWTRmeFpDbFNMeHRBcmRWMmxFYTVyTDJ3Rzd2T0MxRFdoNjBjT1hfZnI4MVBzNnhR?oc=5",
+   "date": "2026-02-15T13:38:45+00:00",
+   "summary": "Advanced Java Full Course 2026 | Advance Java Tutorial | JDBC YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1451,6 +249,16 @@
    "lang": "ar"
   },
   {
+   "title": "اقوي كورس جافا للطلاب | java",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zSk1FZktsVEFKMVdDMU1QbV8wT1ZYWlNYb1pfdkRobmtyWGhXbXV4Z09Ld1dfWmZRSjVIS1UtZkpGNzNSRjNOTmtJNDd3VDMwQmZCTw?oc=5",
+   "date": "2025-11-16T13:02:17+00:00",
+   "summary": "اقوي كورس جافا للطلاب | java YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Java oop | كورس جافا البرمجة الكائنيه",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52YjNMdFUtOVhla0pyU1NNcDA0cmJKOWNCZ0prb3V3WmRIVE53SjByN0J4WWlxZ0xpNzJBSTE5NmRrNUNNMUJkWG1SYlVSUmI3VlNRdVBn?oc=5",
    "date": "2025-10-03T12:00:38+00:00",
@@ -1458,16 +266,6 @@
    "tech": "java",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "صندوق تنمية المهارات يختتم برنامجاً تدريبياً نوعياً \"برمجة جافا JAVA\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnVW53cmt1aFBXMHBRNl9mRUFZUjBBdUdzQ3hQTXhLeVozNkR1bk1mT193Ums1WGllb0tVZ3hrZExDS3FmTDZjUWpLZjZQQQ?oc=5",
-   "date": "2025-10-02T07:00:00+00:00",
-   "summary": "صندوق تنمية المهارات يختتم برنامجاً تدريبياً نوعياً \"برمجة جافا JAVA\" الثورة نت",
-   "tech": "java",
-   "sourceId": "ar-news",
-   "source": "الثورة نت",
    "lang": "ar"
   },
   {
@@ -1479,6 +277,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "هل سيدرس طلبة أولى ثانوي في مادة البرمجة والذكاء الصناعي لغة جافا سكربت ولغة بايثون معا؟",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50X3ZXMjRlZkx4RE1EdFlxZzBNazh3OTVyWXpwbjRzUDlQNTFfZ3huTEFQdmkzZG53UGJXUkpISmhBY1E1bU8zN3JmNFRDN0wxTUMwdy1n?oc=5",
+   "date": "2025-09-22T09:24:11+00:00",
+   "summary": "هل سيدرس طلبة أولى ثانوي في مادة البرمجة والذكاء الصناعي لغة جافا سكربت ولغة بايثون معا؟ YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "✨ Start Coding Java the Easy Way (VS Code Beginner Guide)",
@@ -1521,6 +329,16 @@
    "lang": "ar"
   },
   {
+   "title": "Master Java from Scratch - Learn & Build Projects | New Course Launch 🔥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50bTFEZDAwRnlVRzg2OHJMWElRNEFVVm96dkl3MWs5cER2SjU1V3Y1TzM3Q2tpbzgyLTdWaGN4M2MwRENidExwcmFIMk52T2VZZmMxRHh3?oc=5",
+   "date": "2025-03-24T14:29:38+00:00",
+   "summary": "Master Java from Scratch - Learn & Build Projects | New Course Launch 🔥 YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "كورس لغة جافا من الصفر | Java Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jdkpuem00bDdEd3RBcmVZaFZLZzZvQUdvbWZVYy1YOUkzYUtPeU5QdjJUU3d3SkhoeDRFNkNwYXVNSlRUN1Q2SVJmLUx5UmJHT1JkQ0lB?oc=5",
    "date": "2025-03-05T19:00:14+00:00",
@@ -1551,6 +369,36 @@
    "lang": "en"
   },
   {
+   "title": "Master Java FAST: Ultimate One-Video Java Crash Course for 2026!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PWjhpazhhUVJuVFRXSkNzM05sOW1XaHZuUEpVdno3S2wtNFEtQnpLSTU0eGcxRVdBeWduNWVmU0hJSzM5bFVJMmtNRmRxNEhuaGpuNG5n?oc=5",
+   "date": "2025-01-21T12:12:25+00:00",
+   "summary": "Master Java FAST: Ultimate One-Video Java Crash Course for 2026! YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java Full Course for free ☕",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ybGh3R2ROTS1SWlN2eVRtYjAzeEt0bEUyb3lYRDVfbzR4cVEzdmhUQ1ZreGZTLWc4dDhSbHZ0Zi1zaHZ2aUFIY1FRblFxYVJKOE5nbDFR?oc=5",
+   "date": "2025-01-02T15:06:40+00:00",
+   "summary": "Java Full Course for free ☕ YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java tutorial for beginners",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xU1huRHo0XzNMb0VSYVV4cFFYZzktQkNsQUdvTjc5UERkOHpJc1VLVy1tdjNmcllZbWdCSFd6WTl3UWhxZGIxZmx6Yl9zb1BoWTJacHRLT3hHeUpTTi1xb2l5aWhHTi1UTjJNVFp4YTBUOHJQNk5NSTdMRno?oc=5",
+   "date": "2024-12-06T12:26:52+00:00",
+   "summary": "Java tutorial for beginners YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تنزيل البرامج المطلوبة للبرمجة بلغة جافا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjZWSFhDcWZuTl8zck96U21RYWtyakVJT0J0VFpGanJYQ1Q4SVRMazN2c1I3OFdWc0JkUWRibHAtMXJhWXcxcEJ6bGJrQXZsZEtGM3RB?oc=5",
    "date": "2024-11-03T15:20:10+00:00",
@@ -1569,6 +417,36 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "شرح package أو الحزم في Java | دورة تعلم البرمجة بأسهل طريقة Java Packages - 76",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yMHhYLVRNM3ozYXVEQW1SRVV4dzdxcnJsZVg2NzQ5WmRiM3JoaVFhOHhHTVp5dWlGMTlodG5iNFJpT25DakxpazFiQmYyZzk3SDRRb2dR?oc=5",
+   "date": "2024-09-12T10:00:06+00:00",
+   "summary": "شرح package أو الحزم في Java | دورة تعلم البرمجة بأسهل طريقة Java Packages - 76 YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Learn Java in 15 Minutes (seriously)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nZDhBY1ZKMnRCV2JYVWlQY0ptbHhyQnRpVzRQMWNuSVU3WC01MTRCX3g1a0FyTFFYU2hSWldJbTVJLXdQMlViZllmcUUwYkZRcldtb1J3?oc=5",
+   "date": "2024-08-08T14:00:37+00:00",
+   "summary": "Learn Java in 15 Minutes (seriously) YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "شرح الثوابت في لغة جافا سكربت JavaScript Constants",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yNjNldW0zdWREVEsxNWR5R1kyT0VRUlRGOXF6dmdPZlR6anMwcEM3cTBDZ0ZvbWFvV1Ria2Q1R3g0YXMyckdpd2RYRFVtU0RJMTB3bWl3?oc=5",
+   "date": "2024-08-01T04:42:42+00:00",
+   "summary": "شرح الثوابت في لغة جافا سكربت JavaScript Constants YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "التعامل مع الارقام (Number) في لغة جافا سكربت بسهولة",
@@ -1611,6 +489,26 @@
    "lang": "ar"
   },
   {
+   "title": "Java for Beginners - Learn Java in 2 Hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hWmw4d1VkdjdxOEh6dGFBeDJyM1JQa1ZLYlU0Rl91RGxjaGdMaEFvYTZPdlZlSzIyUEJKTXhPNVgxMHRUQkhvdHlVUjloTnJ5cVlJODJR?oc=5",
+   "date": "2024-03-25T18:19:42+00:00",
+   "summary": "Java for Beginners - Learn Java in 2 Hours YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java Programming and Software Engineering Fundamentals Specialization Review (2026) - Is It Worth it",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNOFRTQU9wSGx0UDJnTGhyQmRHRUMyRXlKUU5YZGQ1Y0lwd0o0NE9UMktmSzFDR0UtanJWeUNkZ2lXZHFVNnVTYi1makt3bnNjTEhicXJB?oc=5",
+   "date": "2024-03-23T16:54:21+00:00",
+   "summary": "Java Programming and Software Engineering Fundamentals Specialization Review (2026) - Is It Worth it YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "ماهي الحلقات التكرارية في لغة الجافا || Loop in java",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVN1UzaTd2ZjA0V2pRR010eFV5S2syeGtRanl1WU02S2hkamRZYXR5blc0S1Z0RG1RbFZfUkwtLVA5V29Od0IxR3hiOXhHNl9ZSnVGRUdn?oc=5",
    "date": "2024-02-26T18:47:20+00:00",
@@ -1619,6 +517,56 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Java Full Course using VS Code | Coding Wallah",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCY3JLUFBlM0o2TXB4V0s0bzItc0FMeVItX09zSWZSR21QQURxYlNjS1V6NTNrem41eVktR2twUDV1UWpoazVLSnVKbWdHbWlfVTlqOHFR?oc=5",
+   "date": "2024-02-07T06:00:30+00:00",
+   "summary": "Java Full Course using VS Code | Coding Wallah YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java Tutorial #1: Write your First Program using Netbeans (for beginners)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oWWdjTXBBemgyazhpSHVzWWVDY3Y5c1dQNFI4ZkFMQjFuQ2YtNEc2Z2NfMUU2SEc5b2k5SUZOdjBRUGNzNFVpWWRySlBncnlJVnF5TlJB?oc=5",
+   "date": "2024-01-07T09:59:43+00:00",
+   "summary": "Java Tutorial #1: Write your First Program using Netbeans (for beginners) YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تعلم برمجة الكائنات بلغة جافا كما لما تدرسها الدرس الثاني class properties and methods",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14YlZYbzk3VTB2SGVRTXlXd0diWi1UMlF5SzlTQUtPY1EzZFdEem1xeXdycEdyRGFtT2lZT3I2WnNOQm1VU2xSdnV2YUYwa2Zmalowai1B?oc=5",
+   "date": "2023-12-26T05:26:49+00:00",
+   "summary": "تعلم برمجة الكائنات بلغة جافا كما لما تدرسها الدرس الثاني class properties and methods YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم برمجة الكائنات بلغة جافا كما لما تدرسها الدرس الاول الفرق بين الـ class and object in java",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sd3NNb2ZERkJ2VmpxQVBaQ0RaU1NiZnNqTS1MeWdZRFhma2gtdENscTFNeWVmRlptVkd0cDRLSG5JWHFUSENrUERsX0ptOXVISC1tX3ln?oc=5",
+   "date": "2023-12-25T21:39:59+00:00",
+   "summary": "تعلم برمجة الكائنات بلغة جافا كما لما تدرسها الدرس الاول الفرق بين الـ class and object in java YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Java Course 2024 | Java Tutorial For Beginners | Core Java Full Course | Intellipaat",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvb25OT3ZERDlqM18tVDQ4WGNvZ0dOenJCNHg3N3MtRGczQmM1QldFbk5CX01NMlNOb0NkZV8zYkxrWi1rZHBVODJMUlhSY0V3Qk9kRDRR?oc=5",
+   "date": "2023-11-21T20:43:16+00:00",
+   "summary": "Java Course 2024 | Java Tutorial For Beginners | Core Java Full Course | Intellipaat YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "مقدمة في البرمجة باستخدام لغة جافا: الحلقة الاولى 1",
@@ -1631,6 +579,16 @@
    "lang": "ar"
   },
   {
+   "title": "Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RZ0wtd01YX1drZllRdmlfNTM3LWxHb2cwWUljbVR6d29JTkM5bWxUQ08tOE9qLXhrWUdCWlY3Z0Q4RUp5Q0NtaERQQ0xENzZ2bFI0WDF3?oc=5",
+   "date": "2023-09-08T14:00:04+00:00",
+   "summary": "Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "برمجة الكيانات بلغة جافا -02- Object Oriented Programming(OOP) with JAVA",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NR2gzWXFMOTFLNlJCUXBuTkQ4cVctZnpsczhobW5FWEdvNUMzQVM1VUtoc0p0RlF5TVFTVUtlLWxaOEYzX0JNOUNzTWJQMlFuUXY4TWJn?oc=5",
    "date": "2023-08-23T20:20:40+00:00",
@@ -1641,13 +599,23 @@
    "lang": "ar"
   },
   {
-   "title": "دورة برمجة متقدمة باستخدام لغة Java.. رابط التسجيل",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VNHFtUUZYLXAwSDlGcWpHdGNsRjB2MXJwR2NoZ0tvQU9rS0REZ3d6a05PUi14MGFTV0U1dGtkd2Z4V08tLVVQa29iUEpPWTc1SHNYWU1pVUUzMVpaWjhDOXpR?oc=5",
-   "date": "2023-03-27T07:00:00+00:00",
-   "summary": "دورة برمجة متقدمة باستخدام لغة Java.. رابط التسجيل بوابة الجمهورية",
+   "title": "اول برنامج بلغة جافا java",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41ZjhWanpScmVOb3R0T0FKZHk3YjFsOEdfcG9Ia196anVjbXdYalhDMVo0UmtPbzV1U1ZtQXpDV0JIbjBKcHNLQWI3YXRxQ1dXcjM0cWtn?oc=5",
+   "date": "2023-05-06T21:10:36+00:00",
+   "summary": "اول برنامج بلغة جافا java YouTube",
    "tech": "java",
-   "sourceId": "ar-news",
-   "source": "بوابة الجمهورية",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "جزء 1 | حل ميد برمجة 1 لغة جافا مع الشرح",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVF85UHg2eXQ1VzJvdzlpbUo0cVZ2ZEpKY3haM0p1d3lYRnhxOW1pYmxKOF9zYk4zeVh1cnZZcVRvczJIRHo5ZEVWd0VpWHJYY1ZJbEdB?oc=5",
+   "date": "2023-04-22T20:28:02+00:00",
+   "summary": "جزء 1 | حل ميد برمجة 1 لغة جافا مع الشرح YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1671,6 +639,16 @@
    "lang": "en"
   },
   {
+   "title": "Java Programming Tutorial | Java From Zero To Hero | Best for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hN3I1SXl1dm9rU3dvT2c3aHpZMnJWSkNILVQtQmxWV2pEb3BYMlZ6R3NBT3gtTG5XWkxTYTNPOTNnX0hTd0NNdXd2VU9JcDJvcmpZamFn?oc=5",
+   "date": "2023-02-25T16:00:11+00:00",
+   "summary": "Java Programming Tutorial | Java From Zero To Hero | Best for Beginners YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Binary Search in Java - Full Simple Coding Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YS3F3d0p2eExUdWJ0NkllblhRMHhaUlp5Q2tYS2JQekxzNS1xMWJteFIzN3dhbkNvYVVWSUR4VHNDZUM1RERKb252cDNGSnRiR2U5eUZn?oc=5",
    "date": "2023-02-13T15:00:14+00:00",
@@ -1679,6 +657,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "تعلم جميع اساسيات لغة البرمجة جافا في ساعة واحدة - Learn all the basics of the Java programming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRFZYNGdqSHhwVnI3VktnaWRIc3VUNXczaWtCVXdfTnozNWdiTzZIYUotdXJTaUdRdERKY2FLNEg5SmFLb1J0WlloOC05S3JvMDVVckhR?oc=5",
+   "date": "2023-02-01T05:50:58+00:00",
+   "summary": "تعلم جميع اساسيات لغة البرمجة جافا في ساعة واحدة - Learn all the basics of the Java programming YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "اقوى كورس تعلم جافا من الصفر حتى الاحتراف Learn Java in Arabic 2024",
@@ -1701,6 +689,16 @@
    "lang": "ar"
   },
   {
+   "title": "Java Tutorial For Beginners - Practice questions on Java Array",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hOFUwVGEzZXF6S0R6R0xRMFlIZFRuYjdKU2ZfWUFSeHlrRm5kVzAySXdVMjFQODVCbWlQM3Fkb2tzLWRJMHB6ZjFFV180NkcyVTcxN1BB?oc=5",
+   "date": "2022-12-29T09:00:11+00:00",
+   "summary": "Java Tutorial For Beginners - Practice questions on Java Array YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Java Tutorial For Beginners - Packages in Java",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qRUxPak85b0tQX05ON1l2OWNFNkdHbEtzWld2VmJRYWlEb294Nk1jSTZkdmpZU3JuRWRoSTZHaHJxNlFhVmdHUC13cUZDWHljLTBLMXN3?oc=5",
    "date": "2022-12-25T22:10:18+00:00",
@@ -1711,20 +709,10 @@
    "lang": "en"
   },
   {
-   "title": "Java Tutorial For Beginners - Final Keyword in Java",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KSE9FV29MSHUyQWRfM2hoSFdqZkVuZVN0dTAySERUU3pxQUFaWUE1a1JnOWFkTkZON1d4bWV3SUllQUpnNm5xRklTM0VUbTlHQTdJbEN3?oc=5",
-   "date": "2022-12-18T21:17:19+00:00",
-   "summary": "Java Tutorial For Beginners - Final Keyword in Java YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java tutorial in Hindi for beginners #25 What is Object in java | JAVA Object in Hindi",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mY1hwcW5GZlhab21IZk1CYnJyMXBUMEhzY0N5dENGbjRjcHlCODRSd3N5OUZtZjdiRDdJeERLTHg5TUJ4ek9JZVBrOU8wNUFGWE5SYlln?oc=5",
-   "date": "2022-12-06T17:26:16+00:00",
-   "summary": "Java tutorial in Hindi for beginners #25 What is Object in java | JAVA Object in Hindi YouTube",
+   "title": "Java Tutorial For Beginners - Abstract class in Java",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbnpNZHFLS2dveFRPTkVLWDRpeFlPS1BwOFV5RTdEUHBCT016UmtBTUhiZVpRMmo3RVZWNnpaZDRzeTdIS3dMOU93SHA1d05zdS1aY19n?oc=5",
+   "date": "2022-12-19T21:36:41+00:00",
+   "summary": "Java Tutorial For Beginners - Abstract class in Java YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1821,34 +809,14 @@
    "lang": "ar"
   },
   {
-   "title": "Java Tutorial for Beginners - Java if-else statement with Examples",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KNmw1V3ZjUlJhQXhlX1N1aWJxcERzdjdxY2RQSWNKN2xVaUVjblhtb09Ec0xZcXk0NTNRWVh1UmctQk1VYnpnUHdOS0RVOEVnM2hWNGdn?oc=5",
-   "date": "2022-10-17T16:30:11+00:00",
-   "summary": "Java Tutorial for Beginners - Java if-else statement with Examples YouTube",
+   "title": "Java Crash Course in one video | شرح لغة جافا في فيديو واحد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OUUszY05KdVdPYjFNNC16UHM4dXNBakJQX0E3NHRKZ1VPdDM5LWRDUjRFRGdlR2tLVzVtSV9QRzRESk40VGFrMk9hSElQR3hGdS1HMkln?oc=5",
+   "date": "2022-09-04T15:00:23+00:00",
+   "summary": "Java Crash Course in one video | شرح لغة جافا في فيديو واحد YouTube",
    "tech": "java",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Tutorial for Beginners - Operators and Precedence",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zYUhWZHlDcWtQSlRSRHI4cTE1ZDl6V1BwZWhjV2RFTnZQbDR4VzNESGhuUU1GTm5ia1NuRUtOOTJQWXhvUm53WFFHN040TnBGeVBFaVZB?oc=5",
-   "date": "2022-10-15T12:30:12+00:00",
-   "summary": "Java Tutorial for Beginners - Operators and Precedence YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Tutorial For Beginners - Exercise 1 Solution",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWNVNOd2NXenhrZV9DS2VrU0FmbGlrNUlBaTZ4NE4tMXM0MGxFNWRlTTQ0WU1TcEtnTThPQXEzZWJKQXItam1QWDBDYnU3bWg3ZVBrMUR3?oc=5",
-   "date": "2022-10-12T14:30:12+00:00",
-   "summary": "Java Tutorial For Beginners - Exercise 1 Solution YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "تاريخ لغة الجافا - Java History",
@@ -1871,14 +839,14 @@
    "lang": "ar"
   },
   {
-   "title": "Working with Java in Visual Studio Code | Java for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ME93dnA3dlI5enRFMU9sZEFKbEtwTDZUdjY0MzN4dXVNclRNYm84X01wZHVkeGFVbEowQzZtU2xqa0dLRW4tNHY3cDhPUU9nX3FjcVFB?oc=5",
-   "date": "2022-04-08T05:51:20+00:00",
-   "summary": "Working with Java in Visual Studio Code | Java for Beginners YouTube",
+   "title": "تعلم اساسيات جافا سكربت java script خلال ساعة واحدة فقط",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10VE05cVN5cW9Fb2hodkZUTGlqY1dlcXNuMC1iTzZFYXBMdXBIbTZUZk5uTGZwZnJuMldJbm96ZlkzdkJoSml6aTlRa3BUbWxUVUFPeXBR?oc=5",
+   "date": "2022-03-21T04:50:10+00:00",
+   "summary": "تعلم اساسيات جافا سكربت java script خلال ساعة واحدة فقط YouTube",
    "tech": "java",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "سلسلة دروس جافا سكريبت - الدرس الأول: ما هي لغة جافا سكريبت و ما أهميتها؟",
@@ -1901,16 +869,6 @@
    "lang": "ar"
   },
   {
-   "title": "#0 Java Course Introduction in Telugu | Learn Java from Scratch | Core Java Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56ZXNDR2dwakpwS1l2d3N2MngxUkhZaVBnbDZIQ0prZHd5dWE3QmUta2IxMk53cjQwQkhTbm04aEtsQkxzbXRBOERyY1pLZlVENDREbW5B?oc=5",
-   "date": "2022-01-26T12:00:28+00:00",
-   "summary": "#0 Java Course Introduction in Telugu | Learn Java from Scratch | Core Java Tutorial YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "03 المتغيرات في لغة جافا سكريبت variables in javascript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iR1NzcGpjZi1aLXg3TmQ5NEEtNWFSSFhzRlZvQUx2ajdINEw1TkJaS2JTZjNkUFZ0NVlTaEZtRzFfRk9GYUhzdXZKUXUyTXhUTjRnZjRB?oc=5",
    "date": "2022-01-14T16:00:04+00:00",
@@ -1921,22 +879,12 @@
    "lang": "ar"
   },
   {
-   "title": "Generics In Java - Full Simple Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5femNsdndSWWlvaUd3ZmZlUklrckJ1Mzl4RHY1LU1HSWY5Y2dDMzUyeHpuYVU2SnczZl93MlQ0N0xLQjlCV1JiR0RkRDdwUjRJY3RDdDVn?oc=5",
-   "date": "2021-12-20T15:00:09+00:00",
-   "summary": "Generics In Java - Full Simple Tutorial YouTube",
+   "title": "061 [JAVA] - Java Enum (What is Enum, Examples, UML, Enum with switch, Attributes & Methods)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpdFpsSFJRZ1lVVVdhQjlXa0JUSlY4UVU1QVVRYjBjU2lmZFUzSDhzNGU2N3piWndOUGNVTm53R3c0YXpUMS1TMlpXYzJmVkJpb3VsQWx3?oc=5",
+   "date": "2021-12-15T05:58:32+00:00",
+   "summary": "061 [JAVA] - Java Enum (What is Enum, Examples, UML, Enum with switch, Attributes & Methods) YouTube",
    "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Data Structures Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nbjB0VGZMakZfdUFVdWl2MElYUEZpb2dmMmh3cmxBY0J3UThVbXkyN1BzR19QNzR4U21RcURLMEVINjlMcWZ6OVZYblRWX3hHZ0gwTDBR?oc=5",
-   "date": "2021-11-23T13:15:00+00:00",
-   "summary": "Java Data Structures Tutorial YouTube",
-   "tech": "java",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -1961,32 +909,42 @@
    "lang": "ar"
   },
   {
-   "title": "Java Constructors - Full Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BYVZhUy0wRGYxbGtTemIwQTdNcGtzSGJKV1dHOEdJVXpSNkROY2VJd19ERFdGeHBTVTYtQkxrZEcwVHdwazR1cnRWeVN6Ulg3bHhnenFR?oc=5",
-   "date": "2021-09-27T14:00:32+00:00",
-   "summary": "Java Constructors - Full Tutorial YouTube",
+   "title": "#048 [JAVA] - ArrayList Class",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45c2xnOWdrM3RGYjFCaEZHWFIydFZuSlpNcm5rNHctV3VxUUE4bU9rZUdIemI5NzVfTC1ualhubTctSlFjLUFrVzNXb292MDFiVEY3dWtB?oc=5",
+   "date": "2021-06-26T13:34:55+00:00",
+   "summary": "#048 [JAVA] - ArrayList Class YouTube",
    "tech": "java",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Java Tutorial - Compiling JAVA CODE",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53R2N4TE83aGdyMGxsZUdyMjVRMTRPMkdKRXYtanhvQVAxQThwY09WMTFBWnlMX09tdTJzcGJSZTlwd19rYVJSN2kwRzlXVW1VSUVvbFJR?oc=5",
-   "date": "2021-09-06T16:00:03+00:00",
-   "summary": "Java Tutorial - Compiling JAVA CODE YouTube",
+   "title": "044 [JAVA] - Types of Relationships (Association, Aggregation \"has-a\", Composition \"part-of\")",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4NWc3Ynh6cHZVblhDUThkUi12ZmlSTm9hWTFBRGNldEVkaUZFQ0ZxaW16cGlzTnNnMjFnWGJEaXhRVlFTNE1xN1R4OTFaZWZBM1c0bVhR?oc=5",
+   "date": "2021-05-28T09:25:15+00:00",
+   "summary": "044 [JAVA] - Types of Relationships (Association, Aggregation \"has-a\", Composition \"part-of\") YouTube",
    "tech": "java",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Java Tutorial For Beginners - Creating Your First Java Program",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpREgwbXRQcUVjX3ZHWklFNFBRMWxSQUFnam5tNkxtZXYwdWQwR3dtVVdkclZVVjR0Q0NScUhtU1RqTk5EWWk2aWItTVhuWElmcU96UGpB?oc=5",
-   "date": "2021-08-23T07:00:10+00:00",
-   "summary": "Java Tutorial For Beginners - Creating Your First Java Program YouTube",
+   "title": "#042 [JAVA] - Polymorphism(Explanation of Examples, Static Methods)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Z2lPVzk0MEpBSFJxNnRvUjhya3NQWDZFQVZpWnByTjZuQm5CU2tQcndRdzJOend0WjFmeVJwdlhvOWl0Q1g1b3huVHlodjZRQ1dSbC1n?oc=5",
+   "date": "2021-05-09T22:21:41+00:00",
+   "summary": "#042 [JAVA] - Polymorphism(Explanation of Examples, Static Methods) YouTube",
    "tech": "java",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "#041 [JAVA] - Polymorphism (Method Overloading and Method Overriding)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xN2c4Y015YjJlZnUya3BIZHkwRHRXaWI2OEFOczZzM1ktQTkwODNLblBqcnJRX29wZzMxNldsXzFwaGNwR2l4XzJSTDNnMWFyRUF5cWtR?oc=5",
+   "date": "2021-05-08T22:56:03+00:00",
+   "summary": "#041 [JAVA] - Polymorphism (Method Overloading and Method Overriding) YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -2001,6 +959,16 @@
    "lang": "ar"
   },
   {
+   "title": "#040 [JAVA] - Inheritance (Super Keyword / Object Class / Package-Private vs Protected)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MktNOVdKR3JTNGpIVlZCZDhJSVJaTU5PdG1ReEFvdjBYMWc3OGRQczkyTkRyV2FuZ1lRZHNFUnBiUWdRZ0xyZFJ6WnI5NkNqRDdiQjFB?oc=5",
+   "date": "2021-04-23T18:00:58+00:00",
+   "summary": "#040 [JAVA] - Inheritance (Super Keyword / Object Class / Package-Private vs Protected) YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "13. تعلم لغة جافا Java | تصميم واجهة المستخدم باستخدام BorderLayout",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DcFZWVnBMWkdPQ1RiYkc2OTltZWxIbE5jU09SX3g2RjhlMGhEdnlWOG5tQ0ZJNnNCWFd2anBONXU3R0lzRi1HZ25OYUZ3blFjQWpCc2ZB?oc=5",
    "date": "2021-04-19T06:48:50+00:00",
@@ -2011,10 +979,40 @@
    "lang": "ar"
   },
   {
+   "title": "#039 [JAVA] - Inheritance (Types of Inheritance / Access Modifiers and inheritance)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51MDFhdFE5V09yZ1IwRWt5bkhVTTZwMGdoejZIeU8ycXVnOXIzYUdQN3Ffbnd4MjRZREVweW5ITjlubUVLbk1FTkFOMVBpVHVTQm9pNktn?oc=5",
+   "date": "2021-04-19T00:05:15+00:00",
+   "summary": "#039 [JAVA] - Inheritance (Types of Inheritance / Access Modifiers and inheritance) YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "الدرس الاول دورة تعلم لغة Java للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbXQ0SjRLX3NYUHVnYlQtQUtGWnlrS0VBSElZd1VBaUhPelhVZmRyclIzenUzR3FqV0RmaXdDb0VYekVWRG1nSHQzcWh2VnRHNG5hSkxn?oc=5",
    "date": "2021-03-05T16:38:07+00:00",
    "summary": "الدرس الاول دورة تعلم لغة Java للمبتدئين YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "المحاضرة الاولى : البرمجة الكائنية (الشيئية) التوجه بلغة جافا- oop in java",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDaDg5SEtpWGtuNGZ5bWpGeTlUVkpFeEV3U28tVENDU3EyR3NUME0zVDNvbzhJQ2NpVlZuTS1waWpnRzdvMkJVUGwtZTlyQ1hwbWxCbFlR?oc=5",
+   "date": "2021-03-02T06:28:49+00:00",
+   "summary": "المحاضرة الاولى : البرمجة الكائنية (الشيئية) التوجه بلغة جافا- oop in java YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "دورة تعلم لغة الجافا للمبتدئين Java basic",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5b0taekl2Y1U5cXc1c2J3Z3FBdjlYY3FnNHBBaHBjWWJlakpYZkVtNUFlNUdiaTI2blB0M2k0Z2cyT0djaTByLW5MSTFIMmQ3b0o0WDNsYmNpX2NvNDFGQnhldUlSOFlZNlhaV2JqbXF4OGlyVW5XcFVEZ24?oc=5",
+   "date": "2021-02-19T00:13:55+00:00",
+   "summary": "دورة تعلم لغة الجافا للمبتدئين Java basic YouTube",
    "tech": "java",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2029,6 +1027,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "#032 [JAVA] - Questions and Exercises - Classes and Objects",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HQmU5TThfLVNVam5NQllqVE5YUzRhWTl6dWdHVmtZSjRlS18xcU1JR1BkazZhaDlhN1dHVENHOXNTaUlFVWV3UmtscUZRM2FJVVJjMkJ3?oc=5",
+   "date": "2021-02-15T08:44:51+00:00",
+   "summary": "#032 [JAVA] - Questions and Exercises - Classes and Objects YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Java in Arabic - #01 : Introduction and Stuff",
@@ -2049,6 +1057,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "#031 [JAVA] - Classes and Objects",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KY0Nyc2dwTDFNcGNsc09SVVQ1T1R0a0lnVWZIMmEwX08wV0tfQmVjTDRFRGZYOFIzT3Rkb3lZTFh6blh1Y2ZZUXRtQXRxa0pnOThiNTBB?oc=5",
+   "date": "2021-01-03T11:08:32+00:00",
+   "summary": "#031 [JAVA] - Classes and Objects YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "#030 [JAVA] - Introduction to Object-Oriented Programming",
@@ -2081,6 +1099,26 @@
    "lang": "en"
   },
   {
+   "title": "#07 [JAVA] - Selection Statement ( if - if else - if else if )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVmhZOFFLRE5vbWN3eWNFb25nanJjZFdodHV2c0lRbXhlZnAtSWlRR3FDRnY5N2hIWW1SczRvN1pCRnR4Z05hWFJxdDRZLVhfbXVneC1n?oc=5",
+   "date": "2020-10-20T18:51:13+00:00",
+   "summary": "#07 [JAVA] - Selection Statement ( if - if else - if else if ) YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "#06 [JAVA] - Java User Input (Scanner), Printf methods",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaX3Q2MXNDVmlleFotZ1A0VTF5d0xQU3hRTnpEbk9KMHVzLVEwRk1fb0dXVzlZYVFpWnZPbGRSM2VrRTNCT29oX3pqd2ZvaGtVeS0tZzVB?oc=5",
+   "date": "2020-10-20T18:31:35+00:00",
+   "summary": "#06 [JAVA] - Java User Input (Scanner), Printf methods YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "#00 [JAVA] - Introduction",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82M0Z2TkFkc29GcDdIRFdrS1I2TlY1bUpsU1hwSmhqb2dVSkFEY18xVW9RRkFyOERaVkVUM0hGM1ZfY3ZaQVlMbklISEZvcDVwSGViN0dR?oc=5",
    "date": "2020-10-20T11:44:22+00:00",
@@ -2091,13 +1129,13 @@
    "lang": "en"
   },
   {
-   "title": "[PSA]/r/java is not for programming help, learning questions, or installing Java questions",
-   "url": "https://www.reddit.com/r/java/comments/j7h9er/psarjava_is_not_for_programming_help_learning/",
-   "date": "2020-10-08T17:21:51+00:00",
-   "summary": "/r/java is not for programming help or learning Java Programming related questions do not belong here. They belong in /r/javahelp . Learning related questions belong in /r/learnjava Such posts will be removed. To the community willing to he",
+   "title": "Java | Chapter 2 | Elementary Programming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6STlEVm5lMUszU1gtRElfNmJCXy1Icko4anJIaTAxcUlKQ1VFNm1zbFRMcjZveE9TNGk0RWZpeTdqQmlNa0lrVDNMc1pTN0hiLVlHVExB?oc=5",
+   "date": "2020-10-19T00:37:06+00:00",
+   "summary": "Java | Chapter 2 | Elementary Programming YouTube",
    "tech": "java",
-   "sourceId": "reddit",
-   "source": "r/java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -2125,6 +1163,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rMnRXcnRMUURXXzkyRkl0TEd3eG9xQkdyQUZRR29HTkgwSkM0ZEducWRSYWZZOG5FbUVqenZSbExibHpNZEwzUzhPZ2s3UUVORm9BMEd3?oc=5",
    "date": "2020-05-13T16:39:58+00:00",
    "summary": "شرح OBJECT و CLASS في لغة جافا YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح package في Java | دورة تعلم جافا كاملة - الدرس 32",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fRHdnVTRFY0QtS3ptS1pSN0NHaUZhT0hONEQ1ZlRpdEdoY2RYRHZWeGFXakEzVDlxUnVYRTFZRUlLVjJPTXYwN0JTT3FKbEN0ZDUzWlFR?oc=5",
+   "date": "2020-04-15T11:49:08+00:00",
+   "summary": "شرح package في Java | دورة تعلم جافا كاملة - الدرس 32 YouTube",
    "tech": "java",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2201,6 +1249,16 @@
    "lang": "en"
   },
   {
+   "title": "09 - Java Programming for Beginners - IF statement - Part 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acmtQdjJmaVRfZzNmaW4yci1yYklVX2U2SzRvbjU4Q05DdnVmWVhIQ3M3UkM0NUZvODdXSXRuRmRSUnlxRXhLTXV3WGFWREVOOUtkZWJR?oc=5",
+   "date": "2017-10-03T17:07:01+00:00",
+   "summary": "09 - Java Programming for Beginners - IF statement - Part 1 YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "03 - Java Programming for Beginners - Your First Program In java",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GVGtTbFZWeEhpQS1tQ0t3Nno5WXhNQmhpV3pFSXMwaGxzNk5QeWoweGNxNzlZVXd0WXdhS05jZ0FURm9BYlZPdjdjd1gycXNhWm5VSkJ3?oc=5",
    "date": "2017-09-28T10:36:32+00:00",
@@ -2261,10 +1319,30 @@
    "lang": "ar"
   },
   {
+   "title": "الجزء 13 من دورة برمجة مشروع المستشفى بلغة جافا (Java advance),object oriented",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVzBtd01VWWlxcDZSU3NORS10OC14QzZRVEhmRWdZRXloY2ZOREtGWjVPVWtleDRaUWVjT3VOakstQUpnczBIQW9Ea3FFdmEwTVBvRmZn?oc=5",
+   "date": "2016-10-11T06:55:35+00:00",
+   "summary": "الجزء 13 من دورة برمجة مشروع المستشفى بلغة جافا (Java advance),object oriented YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Welcome Java|| اهلا بك في دورة جافا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CMFBuS0pWR3ZWTVNIa1gtU2ppd1MzNmJEOVVTN210eXRYVlhjd1djRnJFOTNJeV80YTBKRWJ0VDIzOWVOVGtWT25FTkd0MnI5S2l0RmpB?oc=5",
    "date": "2016-08-01T07:03:10+00:00",
    "summary": "Welcome Java|| اهلا بك في دورة جافا YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "دورة بناء مشروع ادارة مستشفى بلغة جافا ( Java Advance)",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LX09acl9xRkVaUlFOTFhEZThOWV9ucTBfeDJ2MUJfWGppTV9BbHFldU5GTUU5S2FYWE9LNncyMC1YS09TM2RzRUo5OGt6aUQ4NV9fYVJkUlgwVHAtRS1feU8yWVlzRGljZS0xYXp0c0ctTk1DeVhIY0Qtd3g?oc=5",
+   "date": "2016-06-09T18:16:15+00:00",
+   "summary": "دورة بناء مشروع ادارة مستشفى بلغة جافا ( Java Advance) YouTube",
    "tech": "java",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2291,6 +1369,16 @@
    "lang": "ar"
   },
   {
+   "title": "23- java files تعلم برمجة جافا|الملفات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzTWFMbjk4YlNDSjRSYWQxZVNRcnlIZGFLYkJPY2tOUDg1UGZaRlNqai1sQ1E1Zkt0by05UjQ0VVVQOUQybnZScGQ0UnVMTEdybXBLMHpB?oc=5",
+   "date": "2015-11-09T16:42:32+00:00",
+   "summary": "23- java files تعلم برمجة جافا|الملفات YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "المحاضرة الاولى من دورة برمجة المواقع باستخدام تقنيات لغة جافا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRmZkVXhvY09reHNxVm5NbHJfeTFkQ1NIOTIyYldRbldOR1ZUdXdwUlNxdEc3Qy1pT010M2FWNW4zaERMamlOUE43MHMzb29vOG9hUkxR?oc=5",
    "date": "2015-10-30T13:14:23+00:00",
@@ -2309,6 +1397,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "جافا JAVA : الفرق بين الكلاس CLASS و الأوبجكت OBJECT",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YNEdGZldjMzVqT3ZMUm1qWTN6N2V5Y1o3czdEbDJtV0I1TzVRbjZqbjEtTEJDM3dFTTBudFBkVU1QSVppbzA2SU0zeDJlSE5GZ1I0cHln?oc=5",
+   "date": "2011-09-06T15:14:35+00:00",
+   "summary": "جافا JAVA : الفرق بين الكلاس CLASS و الأوبجكت OBJECT YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Java 101",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNMVFUSEZxZ1A3TEYyWTMyXzFPWjl6VU40bDFid1VZSHhfUkwzMEQ0YTFFeVBlRU8tRzJjYUNxZ1hWMXctNU80akNuSmhzTVplb1NnQWQtN2xFelNyZHc2VUd3a2hQQTg?oc=5",
+   "date": "2011-09-05T02:01:27+00:00",
+   "summary": "Java 101 YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
   }
  ]
 }

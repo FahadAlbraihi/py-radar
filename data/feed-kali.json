@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T20:10:18.356319+00:00",
+ "generated": "2026-08-14T20:45:28.780697+00:00",
  "tech": "kali",
- "count": 180,
+ "count": 174,
  "items": [
   {
    "title": "How Buffer Overflows Actually Hijack Program Execution",
@@ -235,16 +235,6 @@
    "lang": "en"
   },
   {
-   "title": "The downloads page is confusing and offputting",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1vir9d2/the_downloads_page_is_confusing_and_offputting/",
-   "date": "2026-08-08T09:12:15+00:00",
-   "summary": "Hello gang I just want to voice my opinion about the Kali downloads page at https://www.kali.org/get-kali I m not a n00b. I d rather call myself advanced user , but still, I frankly find some of the download options confusing. Like, what is",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
    "title": "LOW - Trailer",
    "url": "https://thisislow.com/",
    "date": "2026-08-06T07:00:00+00:00",
@@ -322,16 +312,6 @@
    "lang": "en"
   },
   {
-   "title": "MUX switch w/ Kali?",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1vdq8vb/mux_switch_w_kali/",
-   "date": "2026-08-02T18:54:54+00:00",
-   "summary": "I have a laptop with an iGPU and a dGPU with kali on it (kernel ~ 6.5.0). This is one of those laptops that has a MUX switch which is basically a multiplexer that enables either the iGPU or the dGPU to connect to the display directly at a t",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
    "title": "6 open-source AI pentesters, one OWASP Juice Shop, ranked (reproducible)",
    "url": "https://dev.to/darkmoonx/6-open-source-ai-pentesters-one-owasp-juice-shop-ranked-reproducible-4cp2",
    "date": "2026-08-02T13:35:44+00:00",
@@ -351,16 +331,6 @@
    "tech": "kali",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Basic Questions Megathread",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1vc36fc/basic_questions_megathread/",
-   "date": "2026-07-31T21:00:29+00:00",
-   "summary": "Here, users who are new to Kali Linux can ask basic questions about it and its functionality and receive assistance regarding potential issues they are facing. Please remember to follow the subreddit rules when asking your questions. Before",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
    "lang": "en"
   },
   {
@@ -496,46 +466,6 @@
    "kind": "podcast"
   },
   {
-   "title": "NetHunter KeX starts but immediately exits on Android 12 (Connection Refused)",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1v1yhuy/nethunter_kex_starts_but_immediately_exits_on/",
-   "date": "2026-07-20T21:23:32+00:00",
-   "summary": "Hi everyone. I ve been trying to get Kali NetHunter Rootless working on my Android 12 phone for hours and I m completely stuck. The installation finishes without any errors and when I run `kex start` it says the TigerVNC server started on `",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Hashcat inop on fresh VM",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1v0dkr7/hashcat_inop_on_fresh_vm/",
-   "date": "2026-07-19T01:44:56+00:00",
-   "summary": "Just upgraded from MacBook Pro with m2 pro chip to M2 pro with M5 Pro...install Kali on a VM using VMWare Fusion as hypervisor. Hashcat will not run...evidently the open cl was removed from ARM repo submitted by /u/Legitimate-Past4877 [link",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "I have downloaded kali linux a Virtual OS (VMware) , and it runs perfectly, except my mouse pointer isnt even showing on the screen",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1uzu4u6/i_have_downloaded_kali_linux_a_virtual_os_vmware/",
-   "date": "2026-07-18T12:06:00+00:00",
-   "summary": "Anyone got a solution please help submitted by /u/7ovg [link] [التعليقات]",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Kali as a daily Driver ( read body before you attack me)",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1uxwabi/kali_as_a_daily_driver_read_body_before_you/",
-   "date": "2026-07-16T07:55:49+00:00",
-   "summary": "I use my laptop which is my main machine for almost everything. I m a student pursuing cybersec not a larper ( let me clear that ). I ve installed kali on a different device which I ve specifically built for learning and breaking. I was won",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
    "title": "Microsoft Patch Tuesday 622 CVEs: Zero-Day Triage & Exploitation Readiness",
    "url": "https://dev.to/satyam_rastogi/microsoft-patch-tuesday-622-cves-zero-day-triage-exploitation-readiness-3ehh",
    "date": "2026-07-15T14:19:46+00:00",
@@ -544,46 +474,6 @@
    "tech": "kali",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HDMI output not working after new kernel update.",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1uvre5v/hdmi_output_not_working_after_new_kernel_update/",
-   "date": "2026-07-13T23:08:00+00:00",
-   "summary": "I have an old laptop MSI g65 stealth 8sg where I have a bare metal installation of Kali. On kernel 6.19.14 with nvidia driver 550.163.01 I could connect two external displays, one using the HDMI port, and another using a usb-c to hdmi dongl",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Can't get the XRDP server to work on fresh install...",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1uvh0u4/cant_get_the_xrdp_server_to_work_on_fresh_install/",
-   "date": "2026-07-13T16:49:12+00:00",
-   "summary": "Ok, so I ve been building lots of linux distros on different platforms for years, and this is the first time I ve run into this. I m currently trying to put Kali on both a Raspberry Pi 5 and a laptop. Both installs work great. I am able to ",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Kali Linux using QEMU and virt-manager",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1uv6vkb/kali_linux_using_qemu_and_virtmanager/",
-   "date": "2026-07-13T09:42:13+00:00",
-   "summary": "Im trying to install Kali as a VM on my Linux laptop using qemu and virt-manager. However when the installation is complete the image is scaled up and blurry and if I up the resolution to my monitors one (1080p) it still looks blurry even w",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Audio Issues with sof-essx8336 (Everest ES8336) on Kali Linux - UCM cset error",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1utda0h/audio_issues_with_sofessx8336_everest_es8336_on/",
-   "date": "2026-07-11T07:22:03+00:00",
-   "summary": "### Hardware System Information - **Laptop Model:** Infinix X2 Slim Intel Core i3 11th Gen 1115G4 - **OS:** Kali Linux (Rolling) - **Kernel Version:** 6.19.14+kali-amd64 - **Audio Server:** PipeWire (WirePlumber) ### Problem Description I a",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
    "lang": "en"
   },
   {
@@ -608,63 +498,13 @@
    "kind": "podcast"
   },
   {
-   "title": "Kali Linux 2026.2 Release (GNOME 50, KDE 6.6, Helper Scripts, APT Formats & VM Boot Tweaking)",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1uixdso/kali_linux_20262_release_gnome_50_kde_66_helper/",
-   "date": "2026-06-29T16:28:55+00:00",
-   "summary": "submitted by /u/Arszilla [link] [التعليقات]",
+   "title": "Kali Linux Beginner Course - AI Era of Hacking (Part 1 of 3)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwUkxwbGlPUTdDTkNyQnVoeTdKTGczN3BEaTdudUhNZkg4MHo4OXJUZlUyc0g0Wml3bGZFNHhOcFlrR2Y1RUZwM0FjMjRHUThGVTJOTEt3?oc=5",
+   "date": "2026-06-11T14:50:24+00:00",
+   "summary": "Kali Linux Beginner Course - AI Era of Hacking (Part 1 of 3) YouTube",
    "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Is this normal? Metasploit is not installing",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1uecym1/is_this_normal_metasploit_is_not_installing/",
-   "date": "2026-06-24T13:04:42+00:00",
-   "summary": "This framework is driving me insane. I ve waited for 4 hours but not a single progress. It s stuck on this damn metasploit and it broke msfconsole for me because I ve tried to update it multiple times and all those times it got stuck on thi",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Kali Linux laggy on T470 Thinkpad",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1ucqy7s/kali_linux_laggy_on_t470_thinkpad/",
-   "date": "2026-06-22T17:24:26+00:00",
-   "summary": "I recently installed Kali linux on my T470 thinkpad from lenovo. it has a 7th gen i5. My cpu usage is very high and the gpu never appears to go over 0% usage. Any ideas? submitted by /u/HUG0gamingHD [link] [التعليقات]",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Troubles Using Preseeds",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1u9l25k/troubles_using_preseeds/",
-   "date": "2026-06-18T22:53:16+00:00",
-   "summary": "Hello everybody. Before I start, I would like to say that I am but an intern with only a couple years of experience with Linux in general. I have done a good few projects with such, but this one has been the hardest and most impossible seem",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Apparently, it's possible to host Kali Linux on unmodified Android with USB passthrough.",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1u2c8m8/apparently_its_possible_to_host_kali_linux_on/",
-   "date": "2026-06-10T19:27:27+00:00",
-   "summary": "An Android app called Podroid allows USB passthrough to a containerized Linux distro (Alpine Linux) that has it s own kernel and kernel modules, and it can, for example, access a USB wireless adapter that has monitoring and packet injection",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Syscall from in kali",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1twp6bf/syscall_from_timeh_in_kali/",
-   "date": "2026-06-04T14:23:31+00:00",
-   "summary": "Ok so I have a more involved networking project in C, it works great on all major linux distros and windows too, I ve ran it on a newer release of Kali (2026.1) and observed a very weird issue. When I started investigating I ve found that c",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -675,36 +515,6 @@
    "tech": "kali",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Error installing kernel",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1twfpxz/error_installing_kernel/",
-   "date": "2026-06-04T06:46:42+00:00",
-   "summary": "Hi everyone, I am having trouble installing/updating the kernel in Kali Linux My current kernel is :6.6.15-amd64 I want to install last kernel (update) I have problems … See on pics The errors Any help to resolve this issue would be greatly",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "forget about kali as daily driver, I raise you kali as a server",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1tvcu7t/forget_about_kali_as_daily_driver_i_raise_you/",
-   "date": "2026-06-03T03:02:10+00:00",
-   "summary": "submitted by /u/thoheatot [link] [التعليقات]",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
-   "lang": "en"
-  },
-  {
-   "title": "Kali as ETH environment but, also as a main linux distro?",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1tuofbp/kali_as_eth_environment_but_also_as_a_main_linux/",
-   "date": "2026-06-02T11:43:53+00:00",
-   "summary": "Hey guys, I m new to the subredit, and here s my thing: so I knlw that kali is well prepared for hacking and comes with a bunch of installed things specifically for that, but I m wondering, how reliable is to use Kali linux for ethical hack",
-   "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
    "lang": "en"
   },
   {
@@ -719,23 +529,23 @@
    "kind": "podcast"
   },
   {
-   "title": "[Build] Custom Overclocked 2.7GHz Pi 5 Cyberdeck | Dual-Fan Active Cooling | ZRAM + External NVMe Boot",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1tuaq7j/build_custom_overclocked_27ghz_pi_5_cyberdeck/",
-   "date": "2026-06-02T00:16:59+00:00",
-   "summary": "Wanted to share my latest portable build — a rugged, high-performance field node designed for heavy workloads without breaking a sweat. The whole system is housed in a custom rugged enclosure finished with a UV-reactive neon splatter paint ",
+   "title": "SOC Analyst Class-17| Master Kali Linux Commands for Hacker ?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xMHFmNHNUS1o3T0FNdnM5UjRySGhSdjNDbENaNEloZGx2dUxjTmFlSDA5R3VodTNNeVVzZ2c4dTR3NzhfdkJPdUlHQ3I4VkF3dzE5d01n?oc=5",
+   "date": "2026-05-19T19:42:02+00:00",
+   "summary": "SOC Analyst Class-17| Master Kali Linux Commands for Hacker ? YouTube",
    "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Enabling Synaptics 06cb:00be Fingerprint Sensor on Kali Linux",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1tsdhz7/enabling_synaptics_06cb00be_fingerprint_sensor_on/",
-   "date": "2026-05-30T22:28:00+00:00",
-   "summary": "TL;DR Automated Script: syna-tudor-kali.sh (Gist) Context The Synaptics sensor (USB ID 06cb:00be , common in Lenovo ThinkPad L14/L15 Gen 1) lacks upstream libfprint support because it uses a proprietary protocol with on-device firmware (BMK",
+   "title": "Kali Linux Full Course for Beginners | From Zero to Ethical Hacker (Free Tutorial) | Malayalam",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zNVUtOVFpS3hMUDNHU0FJT3RKd1VNZW1BazZYdDQyR2N2NlpkQWdPS1U1aWxtLWhZREo1Vm12bzdtNThKSk54TEZpOHREcUhTaDNwSFVn?oc=5",
+   "date": "2026-05-08T12:30:57+00:00",
+   "summary": "Kali Linux Full Course for Beginners | From Zero to Ethical Hacker (Free Tutorial) | Malayalam YouTube",
    "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -748,6 +558,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Find Hidden Website Pages 😳 | Gobuster Tutorial | Kali Linux | Ethical Hacking",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOR0ppc09WOWRDSEhma1FwYllRVzNZR1dZT2NJSUo4cm55R0NPd1J3clFPeUpoQXNURHhpN1pNelRNQkxxYkQxVGRZZUU4Y1NVOWVaZEdn?oc=5",
+   "date": "2026-05-03T12:00:09+00:00",
+   "summary": "Find Hidden Website Pages 😳 | Gobuster Tutorial | Kali Linux | Ethical Hacking YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "173: Tarjeteros",
@@ -782,23 +602,23 @@
    "kind": "podcast"
   },
   {
-   "title": "【كالي لينكس】 ما هو؟ + الميزات والاستخدامات ▷ 2026",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTk5OHR6YTRYMXFpQkxJMXRRcHdaMEF6dWFEY3lNS3E2Nk9kZnQ4VWxYX3VrUnIwS0k3NDZUc1JyZ3VPNjc2ZWFXWkpCamFiamFmS2RIbDBHTmYzem9RVENoSGVscTBHNy0zbmVYQlFGWVVaQ3p0RWh2YXFBT2hBSl9RQnFtUVdVMEQtbFpMSUJqdmM?oc=5",
-   "date": "2026-03-23T23:56:27+00:00",
-   "summary": "【كالي لينكس】 ما هو؟ + الميزات والاستخدامات ▷ 2026 Internet Paso a Paso",
+   "title": "Nmap: الأداة اللي تكشف الأجهزة والمنافذ",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRUVrNkl0ZTU0ZXBjWDlLXzY2V3NqUDQ2ZDE0b21WQ1FzcHotcDM1X1d5b082S3A3MlV4VlRDaWpJX085ajN0NU44c2t2MEptN2M3NWF3?oc=5",
+   "date": "2026-04-03T15:51:27+00:00",
+   "summary": "Nmap: الأداة اللي تكشف الأجهزة والمنافذ YouTube",
    "tech": "kali",
-   "sourceId": "ar-news",
-   "source": "Internet Paso a Paso",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
-   "title": "Kali & LLM: Completely local with Ollama & 5ire | Kali Linux Blog",
-   "url": "https://www.reddit.com/r/Kalilinux/comments/1rvgt8s/kali_llm_completely_local_with_ollama_5ire_kali/",
-   "date": "2026-03-16T17:55:22+00:00",
-   "summary": "submitted by /u/Arszilla [link] [التعليقات]",
+   "title": "Kali Linux Full Course for Beginners (Zero to Advanced 2026)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SdVA3cEdoTGRZVkRpLS14TnE0TzVDaTJudlhiV2FPSjNpZzlBTjQ3S3hiRjJXQXVHR3pIcm5DajVYT1dVMEFkT1NpSXdLbG0xRzF1djJB?oc=5",
+   "date": "2026-03-28T14:30:08+00:00",
+   "summary": "Kali Linux Full Course for Beginners (Zero to Advanced 2026) YouTube",
    "tech": "kali",
-   "sourceId": "reddit",
-   "source": "r/Kalilinux",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -821,16 +641,6 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
-  },
-  {
-   "title": "أفضل 19 أداة لاختبار الاختراق في عام 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZ05OTHgxLVdfUnpodVhKN3VVcE9La0syMzZadVRGNllPUENpdjhab1BtNTdnWmxnQWlqT29sbXdfXzh0SC0wSDNFYldlZ2k1X29GYWt6VHpVWWVTR29JSm5wbHhvQlgyOVg1dFVGOVg1OWc3SG52RGV1eWs?oc=5",
-   "date": "2026-02-10T12:33:26+00:00",
-   "summary": "أفضل 19 أداة لاختبار الاختراق في عام 2026 CloudSEK",
-   "tech": "kali",
-   "sourceId": "ar-news",
-   "source": "CloudSEK",
-   "lang": "ar"
   },
   {
    "title": "170: Phrack",
@@ -865,6 +675,16 @@
    "kind": "podcast"
   },
   {
+   "title": "الفيديو الوحيد الي تحتاجه لتعلم إكتشاف الثغرات بـ Nmap",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CdFU0cWpQUE96dThGSGk5RFZMY3cwc1VWRWxHN215NF8yek1ZRWtQQ0otdzRWb08ybXhIUzNpdFVPd3BjV2hRS2xJQWl1MVBmT2tza3Jn?oc=5",
+   "date": "2026-01-11T14:46:10+00:00",
+   "summary": "الفيديو الوحيد الي تحتاجه لتعلم إكتشاف الثغرات بـ Nmap YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "168: LoD",
    "url": "https://darknetdiaries.com/episode/168/",
    "date": "2026-01-06T08:00:00+00:00",
@@ -874,6 +694,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Top 10 Things To do After Installing Kali Linux",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42X1Z1X1dGLWxzX0IxcUF4N3dOLVNJWmEyTjB6a3NjRUpTeGJCSjFXY212U1hZWTI4VWg5eGUyQkVfeE5UVnp6WXk2TU4zM1Q2Tzh2WUxR?oc=5",
+   "date": "2025-12-29T08:18:45+00:00",
+   "summary": "Top 10 Things To do After Installing Kali Linux YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "167: Threatlocker",
@@ -887,6 +717,16 @@
    "kind": "podcast"
   },
   {
+   "title": "Kali Linux for Cyber Security Full Tutorial 2026 | Kali Linux | Beginner to Advanced",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0waDFLVHNGRHVjOFJMWnVSOUIxaURnYnotNGVqdlkzUTk5WU1GNHJjZWxMM2wzQjhjNkN0RC1ISVN2eHJjUmZGU1VpeTh6NkxsOTRIMjdn?oc=5",
+   "date": "2025-12-22T14:00:50+00:00",
+   "summary": "Kali Linux for Cyber Security Full Tutorial 2026 | Kali Linux | Beginner to Advanced YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "These 21 Kali Tools Will Get You Results",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44TmU5TFpGR1hjRHNNNk9tMDRJNVI4TEpxN3hRZXZUOC1VT2xTNEdOM3c1ODJrZlZhbmVQQVJ2VmR6SE5YQmQ2d0JMbDBYWERSZVhzcUdB?oc=5",
    "date": "2025-12-15T12:00:29+00:00",
@@ -895,6 +735,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "تعلم اداة Nmap: تكتيكات الفحص - الامن السيبراني",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rVFhkY3NacmktYkRCRlRJZXFqTHF6bVh2U05BRVhLSjRxWVpWSS1FYVhtQXJ3aHBjZGFfQ25ic29iYUprZVdhQzF6M0JhaXJrSXJxOS13?oc=5",
+   "date": "2025-12-12T09:21:34+00:00",
+   "summary": "تعلم اداة Nmap: تكتيكات الفحص - الامن السيبراني YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "166: Maxie",
@@ -918,6 +768,16 @@
    "lang": "en"
   },
   {
+   "title": "تعلم nmap بالعربية من الصفر للمبتدئين| الامن السيبراني| NSE scripts لاكتشاف الثغرات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lTTRKMlR3bzNMNE03NVVuVC1TR21VY29uYzFhdEpKSXE0MTdsOHJGOUIxVUw2RlFPT0dCUUlBc2VhdUFOZHlnMEhHVmVsZkJPV2kxWGxR?oc=5",
+   "date": "2025-11-22T13:07:50+00:00",
+   "summary": "تعلم nmap بالعربية من الصفر للمبتدئين| الامن السيبراني| NSE scripts لاكتشاف الثغرات YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تثبيت كالي لينكس على الموبايل + حل مشكلة الشاشة السوداء (بدون روت)🐧",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40ZGNjbTV5ZDVxb1lNLWd3WEp4VVpVT1N4SEI3WVA1SXlJR0VucmtvaUdqRzc5RTlLUEI4VWlhWXZhSlVxUGR2THY3RGdHZ2l4MjdmWTNn?oc=5",
    "date": "2025-11-20T18:00:21+00:00",
@@ -932,6 +792,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95VDd3U2Fndy1TWktCVW9HU1MyTjh5SEdwX281MVJBcWp4S05QNzVLQzVna0R2V3VvVk9Fd2RyS2pSTDBDV3F3NWN2WWNNSmlzNnc0eENn?oc=5",
    "date": "2025-11-15T15:54:42+00:00",
    "summary": "شرح Nmap كامل من الصفر للإحتراف - إختبار الإخـــتراق ومسح الشبكات - kali linux YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Kali Linux Tutorial 2026 | Kali Linux For Beginners 2025 | Kali Linux Commands | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mc1R4amRlZnNTcFYwMzRYRlYtNjlUX0I1TEJMLWpkb044Yk91ZWNCUk05dmhaYXNKOV9YZEtURGdyazFMcEtqclNCenBWSjhUTG5MYkV3?oc=5",
+   "date": "2025-11-10T14:40:26+00:00",
+   "summary": "Kali Linux Tutorial 2026 | Kali Linux For Beginners 2025 | Kali Linux Commands | Simplilearn YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "تعلم فحص الانظمة والشبكات | اداة Nmap | الامن السيبراني",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DTTVuSHF2SHVhSklQMkhFRUNqMmtkdDdPenlKWTd3VjVNOTNXZ0RYVUVXdk1Ib3J0Ym9lR01IU1ktNXlLOEdGUVh5eHNZRi1EMFFWanp3?oc=5",
+   "date": "2025-11-07T07:51:45+00:00",
+   "summary": "تعلم فحص الانظمة والشبكات | اداة Nmap | الامن السيبراني YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -959,6 +839,16 @@
    "lang": "ar"
   },
   {
+   "title": "BEST Kali Linux Setup for Ethical Hacking (2025)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vZ1J4M1RrMzduT240VzE5LVRSTmNVYXRGX0sxMW9VTGlELXVlYmRYVURqNW56eFpxLUpXTnc5R2M2T3hKZnlZQzdPY2ROUkxGOHZDNk5n?oc=5",
+   "date": "2025-10-13T19:16:21+00:00",
+   "summary": "BEST Kali Linux Setup for Ethical Hacking (2025) YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Top 30 Kali Linux Tools Every Hacker Will Use in 2025!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kTkViSlRYN0xSOXhuMnFxNjhmd0NYOUZ3ZHhPTzJLekhwaWM2cFZ0RTZ0T0NhSXJmVE44WUdWNWFDMTM0eklBcHhlSnQ5czdDdUV4UFln?oc=5",
    "date": "2025-10-04T13:00:10+00:00",
@@ -967,6 +857,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "5-1_سايبر سيكيورتى_اختراق FTP للويندوز _لاختبار الاختراق الاخلاقى. Cyber Security",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Bc1NQYlpobzVjYzYyQVMyX0ViWkF6UkRUQ0prblk3TlpRelk3ejRka3o1bXJVUWR0eWpEUmo2ZXlieUFaSmVKTG4yQi11TjdPQ3JYdDlR?oc=5",
+   "date": "2025-09-23T04:06:38+00:00",
+   "summary": "5-1_سايبر سيكيورتى_اختراق FTP للويندوز _لاختبار الاختراق الاخلاقى. Cyber Security YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "كيف يخفي الهاكرز كل أثرهم على الإنترنت Kali Linux ؟ 🚨",
@@ -999,6 +899,16 @@
    "lang": "en"
   },
   {
+   "title": "Getting Started with Metasploit in Kali Linux",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wQnJDTnoyRmFlbXRLYTVFMGR6LU8zQTg5TWt5Q09sNGVqZGg1NEVHNmhuSUVHdUpaNlB6RjVfaWRoZnVseE1mZ3RxRU1vS0F1dlNRLXVR?oc=5",
+   "date": "2025-08-14T14:00:53+00:00",
+   "summary": "Getting Started with Metasploit in Kali Linux YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "شرح أداة Nmap 🔍 اكتشاف المنافذ والخدمات | أساس اختبار الاختراق 🔓",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zb0dxXzBlNXVQVUozMkJ4eXFVNkxYY3VOWk5fNWt6b1NVanpFR1hEd0otWnE5SUN2YWxFbDlKa05HaGVnQkV1T2doRFRnT3cyekFtYy13?oc=5",
    "date": "2025-07-28T15:59:10+00:00",
@@ -1007,6 +917,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Ultimate Kali Linux Basics Tutorial for Beginners (2026/2027 Edition)! Kali Linux from Scratch",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yMmF5RF9JVUVsUDhQeENjdUN4OTFEVUg5bWE4THgyNkpmYWNHLWV4NlRvU0luaUtkUm51aFRWY01vUDdPMlVETkRMWDFnX0l1bmFsZ1pn?oc=5",
+   "date": "2025-07-27T14:30:32+00:00",
+   "summary": "Ultimate Kali Linux Basics Tutorial for Beginners (2026/2027 Edition)! Kali Linux from Scratch YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "How To: Start Ethical Hacking with Burp Suite and OWASP Juice Shop",
@@ -1039,6 +959,26 @@
    "lang": "ar"
   },
   {
+   "title": "Cyber Security Class 02 | Kali Linux | Beginner's Guide | +91 8074713224",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qd2JRY0JGb1FOSm54MGRDeVNlTXUxNV8zZ29ZdjdZZm83bXo5MFdMSjNGWkUyYVo0LWlmRldFX0lTVDREQk5ObjNVVDNFRDgyWm45UVhn?oc=5",
+   "date": "2025-07-04T06:39:32+00:00",
+   "summary": "Cyber Security Class 02 | Kali Linux | Beginner's Guide | +91 8074713224 YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Cyber Security Class 01 | Kali Linux Installation Step By Step | Beginner's Guide | +91 8074713224",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TWjl1VkdDVTlPLTlnU3FCeklMTUVxcVZid3dlWnV0bEVoZ0pHd2pobFJxYlNqV3ZHMmU4RTc2a1k0TmJRUmlqc09xQWVDdEFvQm5hdkNR?oc=5",
+   "date": "2025-07-03T06:05:41+00:00",
+   "summary": "Cyber Security Class 01 | Kali Linux Installation Step By Step | Beginner's Guide | +91 8074713224 YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "الذكاء الاصطناعي في الامن السيبراني: Kali GPT كمثال",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NNkYtTWtUV1M5Y2xCRkZZdHlEd3d4YWVJOU1CYlg3SDlway01X2JwQlZYcWZ3bkdZdzlTT3RpWGVMeWdhdEJBNEZKcTNFRmpmbVN5Qmln?oc=5",
    "date": "2025-06-09T08:29:48+00:00",
@@ -1059,16 +999,6 @@
    "lang": "en"
   },
   {
-   "title": "KaliGPT: إحداث ثورة في الأمن السيبراني باستخدام الذكاء العالي المدعوم بالذكاء الذكاء الاصطناعي في Kali Linux",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObENKSHhpRXZwNlhvSEJpNjRfZkJhc292andmcEtnc0RkRXZhNWZseURLNldtc0lmQXd6V2ZCM2g4VGtwZzZTN0tSZ2xjQklhbWxJenpSMVJ1el9ES2xuOUJVY2NvOWF6ZndVSDNDUFBsNnVLN0RvR29faW1TS3RncTR1VTRaMm9CQ1pJUHI0dlN2WmUwNHc?oc=5",
-   "date": "2025-06-07T07:00:00+00:00",
-   "summary": "KaliGPT: إحداث ثورة في الأمن السيبراني باستخدام الذكاء العالي المدعوم بالذكاء الذكاء الاصطناعي في Kali Linux LinkedIn",
-   "tech": "kali",
-   "sourceId": "ar-news",
-   "source": "LinkedIn",
-   "lang": "ar"
-  },
-  {
    "title": "افضل و أخطر 10 أدوات في Kali Linux! لازم تعرفها",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tTDhRYlJWdkszc05qSUNMdDlsZVdNSWM3eklfcmhVeEJxMWE1U3pnbks4RnRCUzgtZGJ3R2J5VGZRTlplZ3FTdk8wakpfNzExQ3FhSUlR?oc=5",
    "date": "2025-06-05T14:15:06+00:00",
@@ -1079,10 +1009,30 @@
    "lang": "ar"
   },
   {
+   "title": "Cyber Security Demo 03 | Kali Linux | Beginner's Guide | +91 8074713224",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoYzZ4cGtMVC02MHBBUWF5eHJCaG5zbkZzVm1EYTNSSXl4Z3c4QmFuMkZmREl0RmdZeVFRdHVOZklTakVPNWw3NkhjQVM1SkwzQUlid3ln?oc=5",
+   "date": "2025-05-27T06:29:18+00:00",
+   "summary": "Cyber Security Demo 03 | Kali Linux | Beginner's Guide | +91 8074713224 YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Top 5 Cybersecurity Tools for Beginners: Wireshark, Nmap, Metasploit & More!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DTFMxbHlxTHhhdjFNVE5SekVlb2c5YmZxQXhweWxjSEVmOXRaS2plWC0yUlhuaEtMTmJ4Ry1wcklqNE5OV3dfaXBhTG1NWkhMZE5ONXNR?oc=5",
    "date": "2025-05-25T14:25:09+00:00",
    "summary": "Top 5 Cybersecurity Tools for Beginners: Wireshark, Nmap, Metasploit & More! YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Kali Linux Terminal Basics (for Beginners) [Part 1]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyTW84TUZ4ZjA0ei1heHJ5aGpnMlR0RW1DVnBkWUZRdEx4ZUtNOWZmNHIxVTNPSTVWSzJ6T2pBNEJhTnY3eUgwTjA0ejNhY1Zrb3hzY2pn?oc=5",
+   "date": "2025-05-12T14:06:41+00:00",
+   "summary": "Kali Linux Terminal Basics (for Beginners) [Part 1] YouTube",
    "tech": "kali",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1099,10 +1049,30 @@
    "lang": "ar"
   },
   {
+   "title": "دورة اختبار الاختراق واكتشاف الثغرات | Jr Pentesting ( المقدمة - #1 )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEcDNKczVXTHdlendVOElKZkRPQXp0RUxVXzNrd0V2TmJtZnFKNHdYSFhmQk9BRjVVY3BPem5mR0UxblJqcGJranRsR05rc0R3ZmFLcGdR?oc=5",
+   "date": "2025-04-16T17:00:06+00:00",
+   "summary": "دورة اختبار الاختراق واكتشاف الثغرات | Jr Pentesting ( المقدمة - #1 ) YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Tor & torsocks on Kali Linux – Stay Anonymous While Hacking",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZUzF1c0pCZmstRF9KQXBFLWJ0TUt2b3l5aGppaWthUzc3Q29zWU5nanFoUVUycHVXRGR1RE9zRGdDNFp5eTdHN0hvejNlUllrMlFoSWtB?oc=5",
    "date": "2025-03-30T13:13:50+00:00",
    "summary": "Tor & torsocks on Kali Linux – Stay Anonymous While Hacking YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Kali Linux Full Course for Beginners 2025 | Ultimate Kali Linux Mastery Course! 🔥 in Hindi Hacking",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kX3o2NXdZNWVvUFBzZFpGMkd4MXFVenI0TVNDcWppX1d3VWhPaUM1bG00OWFYTGp2ODZQeXRsWHpkM0ZSdkx5blBkcHRrdTZWd1E5aFBR?oc=5",
+   "date": "2025-03-24T02:30:26+00:00",
+   "summary": "Kali Linux Full Course for Beginners 2025 | Ultimate Kali Linux Mastery Course! 🔥 in Hindi Hacking YouTube",
    "tech": "kali",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1139,10 +1109,30 @@
    "lang": "ar"
   },
   {
+   "title": "دليلك الشامل لتعلم نظام Kali Linux| كورس احتراف مجال الامن السيبراني شرح امر Find مهم جدا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NTmVPanEzNVN2TkNmY3ZKZzBBZS16UndfMjkySDh3ZENGQ3N6Q1ZNWTFpc3RMRy1VZ29vN0NpWXZJLV85YkxFYjk4TDQ1aldGQ0J5TTFR?oc=5",
+   "date": "2025-02-11T07:00:11+00:00",
+   "summary": "دليلك الشامل لتعلم نظام Kali Linux| كورس احتراف مجال الامن السيبراني شرح امر Find مهم جدا YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "كيفية التجسس على أي جهاز محمول باستخدام كالي لينكس؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QbFdVVkFNcDJINk15cnF4dHhrcThndFpYckthdjg4ek5WQkRYakZIWm8xV3JxZnp5U0RXZnprVVI5bTFHM0JGUE1RMTdEZzIydVBRYnNn?oc=5",
    "date": "2025-02-08T14:00:06+00:00",
    "summary": "كيفية التجسس على أي جهاز محمول باستخدام كالي لينكس؟ YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تشغيل DeepSeek R1 داخل تيرمينال كالي لينيكس (للهاكرز)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbFEwOWNnS0pUQVVLQjdWM1F4bG54NHJscUJWWE1udTJKUl94dGdxaTE5N3ROZkUwT3hoT3pkTXRQQnpRUlA2cU55OGZUT1pwdllOZVRB?oc=5",
+   "date": "2025-02-08T13:08:54+00:00",
+   "summary": "تشغيل DeepSeek R1 داخل تيرمينال كالي لينيكس (للهاكرز) YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1157,6 +1147,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Penetration Testing Using kali Linux 2026 | How To Pentest with Kali Linux 2026 | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Tk1BZHlvN2FzNHNHeWFZMUZZMnJDRFByUEtXdTliVDFwQlprdmRjUS1KYzRYUUtrQms2YkgwZ1JjaHA0a2FXemVfRVE4RTM4SjdNR1lR?oc=5",
+   "date": "2025-01-27T18:05:44+00:00",
+   "summary": "Penetration Testing Using kali Linux 2026 | How To Pentest with Kali Linux 2026 | Simplilearn YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "تغيير عنوان الـ IP تلقائيًا كل 5 ثوانٍ باستخدام Kali Linux و AnonSurf",
@@ -1189,26 +1189,6 @@
    "lang": "ar"
   },
   {
-   "title": "Brute Force Attack Using Burp Suite | Cyber Securtiy Tutorials | SKILLOGIC",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYcFBySDlGbnM2VGtkT0o1b2ZIaEV4akRyU2lhclV3UVBSZXd1RXlZbU9iei1HSTI5MmpUYWZsd0Z2S1JqblBJYzdVY2RfRW0tM1JXcC1B?oc=5",
-   "date": "2025-01-21T06:45:00+00:00",
-   "summary": "Brute Force Attack Using Burp Suite | Cyber Securtiy Tutorials | SKILLOGIC YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "20 Kali Linux Tool Explained in 4 minutes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ea1Y2cnNFZVRjVVhvY0w1c0lKeWdfSF9NMFBIZERubXh4N09QaklKNEE2TWtJY0lTNWlfS2JHRDVPdVdqdXRTVm5yeU5CbkJxbWlEOGpn?oc=5",
-   "date": "2025-01-10T11:40:54+00:00",
-   "summary": "20 Kali Linux Tool Explained in 4 minutes YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "احترف اختبار الاختراق: دورة مكثفة بخطوات عملية | 5 ساعات (2025)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwLVdqTTQtdElCbzZTY0VJdVNldURKMmNsenFYbW9sZlJTd3h2WVdYdmh1RHVneHRqeW9qTHJxSFgzNGxrd2ljSkRLRHJORXp0QUJuVGF3?oc=5",
    "date": "2025-01-01T14:00:06+00:00",
@@ -1217,16 +1197,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "TryHackMe Metasploit Introduction Walkthrough | Step-by-Step CTF Guide",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdEw0cXBFOVBwRkNQTzdCcFY1MHpNM3JyR0llVDZlaW1BXzBjbncyemZ4N2h3c3RINHV0QkxyWDdRbVIyR3lZMmJCUUFmUnJ0UzY2dlF3?oc=5",
-   "date": "2024-11-29T07:00:20+00:00",
-   "summary": "TryHackMe Metasploit Introduction Walkthrough | Step-by-Step CTF Guide YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "اختـراق جهازك سهل جدا ! | مشكلة Kali Linux",
@@ -1243,6 +1213,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wdk1xWXplZExOYnBGZUhudTdERnFkRUpOYXJyT1pyZnp2YkN5LVhXR1ZhWFhmdzVFMklRUEowWE9PWnAycUNGbzQ1eUh1VXdnZHRXV2Zn?oc=5",
    "date": "2024-11-08T18:31:12+00:00",
    "summary": "شرح أوامر وأدوات كالي لينكس من الصفر للمبتدئين | الجزء 2| طريقك نحو تعلم الأمن السيبراني YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح أوامر كالي لينكس بالعربية للمبتدئين من الصفر | كورس تعلم الامن السيبراني",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZG1HOGJWSWYzeUdIS0RLQUVWb3hOazREbGpFZWNmODNwOFF0ellaSlI1ZHJaQlZRLU9ndnNmYXBKYUQ3c3V0bjdhU1JCalQ0U1ZpTEd3?oc=5",
+   "date": "2024-11-03T20:06:06+00:00",
+   "summary": "شرح أوامر كالي لينكس بالعربية للمبتدئين من الصفر | كورس تعلم الامن السيبراني YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1269,16 +1249,6 @@
    "lang": "ar"
   },
   {
-   "title": "Become a MASTER Hacker with Burpsuite!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRld1SHRSdXl2bVZEYTRsckRsUmNwbjlDYjNxeUItSUNTZHNxSk5YTVZjcG1hZ20tb2g3RTBoZnFZNjJvaUpXallNVnlBOE5MMTc1VkdB?oc=5",
-   "date": "2024-10-13T11:09:16+00:00",
-   "summary": "Become a MASTER Hacker with Burpsuite! YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "دورة كالي لينكس: تعلم لينكس مجانا بقيمة دورات مدفوعة في ساعة!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MjUyb00yeE9aNEx5ZWZ0dW1XV0tEMU5DYTAtR1N2Nnd4RUZwcDl5Q0E0eGNyZUREaW9YLWNXNkR6TUExS0l2cjVWWEZUbU1lWUZmNXR3?oc=5",
    "date": "2024-10-04T21:00:23+00:00",
@@ -1297,16 +1267,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "\"Complete Kali Linux Guide for Ethical Hackers | TheCyberSecurityClassroom\"",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nNC0tY2MyN29mSGNsOUhSdmNKOWxtN0lkQ2FoNWlsdzNOcEp5bG9fd3Z6UXM5QVdKS0lvUUFCdHBpc2E0ZzF6RTJNV2RicXFraUw5Q1Rn?oc=5",
-   "date": "2024-09-24T07:03:42+00:00",
-   "summary": "\"Complete Kali Linux Guide for Ethical Hackers | TheCyberSecurityClassroom\" YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "شرح أدوات Kali Linux لتحليل واختبار كلمات المرور Passwors Attacks | للمبتدئين",
@@ -1349,24 +1309,14 @@
    "lang": "ar"
   },
   {
-   "title": "Penetration Testing using Metasploit | Exploit Port 22 SSH",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pdGpncEhvTXZCVkwzSzExdEhIOElCUFVRdmhiNFYyYkJ5RWNLazJmdmRpdzR2QzAyVEduNERnXzQ1WmV1VktqdHlZZHN2RnJodlRqd0Jn?oc=5",
-   "date": "2024-07-22T12:30:06+00:00",
-   "summary": "Penetration Testing using Metasploit | Exploit Port 22 SSH YouTube",
+   "title": "#02 - دورة القرصنة الاخلاقية - Kali Overview | (Ethical Hacking Course)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DWlk5SS1od3FJdFBaS19DWERVYmVHZ0dXdzZRM3hWS3pBSk1LLVJZX0RMOFVyNFljbmtNeHBKa1ltOUNkcGFQT2pVcEtJUnk2THlDRUdR?oc=5",
+   "date": "2024-06-28T14:00:36+00:00",
+   "summary": "#02 - دورة القرصنة الاخلاقية - Kali Overview | (Ethical Hacking Course) YouTube",
    "tech": "kali",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "The Ultimate Metasploit Tutorial!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CeG1hR1J5S0JJMGU1eDFaSkVxTEEyZXI0YjM2QS03eTFQRUlWSmtMcGJacVJvR1l2aWlDZXZGZGJjR2FES3hLdGpTRU9qTjc1dDRYME9n?oc=5",
-   "date": "2024-06-16T15:00:06+00:00",
-   "summary": "The Ultimate Metasploit Tutorial! YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "إضافة مستودعات كالي لينكس على التوزيعات الديبيانية",
@@ -1377,26 +1327,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Ethical hacking tools in linux | kali penetration testing tools | kali linux penetration testing",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KUnhCQk1MLTRVSnA4dlhPQkNWX1RwZUhHREVTS2ZjemJqSjFXZEJjVGR6TDdYS005dlJWRXFBR1FoampmeFcyVFlsTTJpaXk1cHlmaGRR?oc=5",
-   "date": "2024-06-13T11:42:32+00:00",
-   "summary": "Ethical hacking tools in linux | kali penetration testing tools | kali linux penetration testing YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Metasploit Framework Complete Course in Hindi | Ethical Hacking Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaSmhPV05GQzl3Y3JkNDZEdFMyWEFDdThGSHEzamZrNnV6WUVwb1RlV3ZGOTROLU1Ra2VIRy1VNW5Nck04RkhFQVVPd2FzYnJXZnNVZnp3?oc=5",
-   "date": "2024-05-18T07:00:07+00:00",
-   "summary": "Metasploit Framework Complete Course in Hindi | Ethical Hacking Full Course YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "افضل ادوات في Kali Linux لمجال الأمان السيبراني 2024",
@@ -1419,34 +1349,14 @@
    "lang": "ar"
   },
   {
-   "title": "Mastering Wireshark: The Complete Tutorial!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EbjdsUzAzd1g0VkJZNWJiVlkzLTJpNEVsVjRlX3BSV2JmQkl4eU90RmFZWVc1SVc5dnNuU1FyNGVGMWNueWd6MjY3ZGFRS24yR0ZLQmhB?oc=5",
-   "date": "2024-04-06T17:48:37+00:00",
-   "summary": "Mastering Wireshark: The Complete Tutorial! YouTube",
+   "title": "أداة تساعدك على تسريع عملية اختبار الاختراق | The Lazy Script",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Kc0FabVVtcVl1VWhjUjJnTzlnNHNjMzNFYWRYeGJWbzRaaFhfcTZGcjFMeC1zWldiU1FDWGxYWGR4ZHNzeWFRTzlkTFQ3dER2TnZ0bmJR?oc=5",
+   "date": "2024-02-22T17:00:35+00:00",
+   "summary": "أداة تساعدك على تسريع عملية اختبار الاختراق | The Lazy Script YouTube",
    "tech": "kali",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Penetration Testing with Wireshark: A Step by Step Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdl9fcnEycFJtSEdBNWppZzZUdmxMNVB1MnQxQ0Y4ODctM0EtMjluWFdVU3B6U1h4OW9Id001RUc3YkV2MGlXQUVJd2NXS1kydnA1cE5R?oc=5",
-   "date": "2024-03-25T14:33:46+00:00",
-   "summary": "Penetration Testing with Wireshark: A Step by Step Tutorial YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Finding BUG Using Repeater Tab (Burp Suite) - Full Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fdVFTMVFMc0t3cFMteUZxcmszemszOWlzalRXQk4yekZfeDZydUhRaUVvemstSTFBd21WSXdzZlJTV2NINTE4bDFuajlUTzF6WlBiU093?oc=5",
-   "date": "2024-02-23T13:08:31+00:00",
-   "summary": "Finding BUG Using Repeater Tab (Burp Suite) - Full Tutorial YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "نظام اختبار الاختراق الجديد | Athena OS ( أفضل من Kali Linux؟ )",
@@ -1473,6 +1383,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sWURNeUhmOFdhSm5yMWRJeHdwMG1ZYjMzNXphODgzZ2VlVl9TVTc0Tm41QUw5OHpwdkxteHB4cU84VTZVS2dxMnNGbzBCbWNRXzVmZGdB?oc=5",
    "date": "2023-09-04T14:00:05+00:00",
    "summary": "نظام اختبار الاختراق الجديد والأفضل | Athena OS ( أفضل من Kali Linux؟ ) YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "NMAP Course | دورة فحص الانظمة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hd21DdmZNeGxSb3NfTDNuYzhkZzhVR3dmMWhSUFJfS3lGOEFVN2RZaW9Jc1gyaWtYaTBCTFNlLVZhQlN6X0hvaTVrTFNTa0FDYXpzTzVB?oc=5",
+   "date": "2023-08-17T21:41:51+00:00",
+   "summary": "NMAP Course | دورة فحص الانظمة YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1529,20 +1449,20 @@
    "lang": "ar"
   },
   {
-   "title": "كالي لينكس أم باروت؟ مقارنة بين أقوى توزيعات لينكس للاختراق",
-   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNby1NaWhvSXdWX01KbkZhcFhwbHc5dnNBckNMS1hleVpLaHgtNVdtbk1CZU1lTFVlWXRmZFJNN2JvQ3FzWkIwZWNralR5TW9tcmFWcFgtdEI1Tm1US0VLX1otMzdxT2J1eVdqNVBxTU5XbUQ0ZnNGekpZd1pwelJXb0xwRktoUk1SOXg0N1RIZ2RlcXhlcmJxcHJVWk9BejlhSWRNZjd4ckhrV3h5RmhmUWJZYWNrWGpuT2JpR3l6dFJvQXF5bEEyQlNJbXVGX2k0Z0p1aGRkeXkzSi1Wb0ZScUNDU1pHRmFkSXM0cklQTXBSWnBQQW1rMGtRTnpFNE1aNHV4V0NDbjBwUmZwWmZqUUlDSVFtWlR3aEt2WlVZWUhxd2tLWU9NOEN4aDVvcndzSUNxbXBLczNHOHpLR01FSUFsMkVOUUU1ZEhBVA?oc=5",
-   "date": "2023-01-29T08:00:00+00:00",
-   "summary": "كالي لينكس أم باروت؟ مقارنة بين أقوى توزيعات لينكس للاختراق Arageek",
-   "tech": "kali",
-   "sourceId": "ar-news",
-   "source": "Arageek",
-   "lang": "ar"
-  },
-  {
    "title": "Kali Linux Tools أدوات كالي لينوكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92SnlPeEp4TGd0ZFZ5VmVOdFh2RXNFQW9VVkRsc2VHYk1xYWxlSDNCU1BudDA0NmRaelhmX281Z2FhSE10Q2ZNLTljdXo2MEl6elBVbVFR?oc=5",
    "date": "2023-01-22T15:35:36+00:00",
    "summary": "Kali Linux Tools أدوات كالي لينوكس YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "منصة اختبار اختراق قوية | بديل Kali Linux لأصحاب القلوب الضعيفة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYXVYelpwV3I4aVZoZGY3VGZONjNiSW9QYnRONmE4QWRzVkU5eVp1Y1NsM0pPOVJSbWVCT3F3dmNiTmEtRlRDUENJWGN3aGRaZ3JwZk1n?oc=5",
+   "date": "2022-12-09T18:39:39+00:00",
+   "summary": "منصة اختبار اختراق قوية | بديل Kali Linux لأصحاب القلوب الضعيفة YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1633,6 +1553,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNTE3X01PaUlxSjZGOUNLQk5yeF9pc3JKMHh6SjNRaU13TXNiOXc4NFphWWotQVhUTFpsUlZYTDNEeEhvZWlKUzFzc1RUUU05cU91LU9B?oc=5",
    "date": "2022-08-24T12:40:13+00:00",
    "summary": "تحميل نظام Kali Linux وتثبيته على برنامج VMware | تجهيز معمل الهاكينج | (006) Ethical Hacking Course YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "أشهر إطار مُستخدم فى إختبار إختراق الأنظمة والشبكات والخوادم | Metasploit (التنين)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85OEptdEdBNGY3RmYyV3piLS1GQXBPcy1fWDN2ZlVOVTlxbFV1NlA2Y3ZUZFF5UnRIRkxEQnZmbk5zWGxYN25RckVxOG5aVzhQVF9kaW13?oc=5",
+   "date": "2022-08-14T12:17:23+00:00",
+   "summary": "أشهر إطار مُستخدم فى إختبار إختراق الأنظمة والشبكات والخوادم | Metasploit (التنين) YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحليل واكتشاف الثغرات الأمنية فى الشبكات عن طريق اداة Nmap | كورس Nmap",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QblNMYURMc2Z4c0JsWlU3RDhfLUUycmdIZ3NueGJfMlFYNzhhZGphVW1IZGV4MkNWcjdYa3dUcExHaEdHdWxJdzdrcnRuSUxRNTNsQWN3?oc=5",
+   "date": "2022-08-11T11:10:09+00:00",
+   "summary": "تحليل واكتشاف الثغرات الأمنية فى الشبكات عن طريق اداة Nmap | كورس Nmap YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",

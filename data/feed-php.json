@@ -1,68 +1,8 @@
 {
- "generated": "2026-08-14T20:07:47.956370+00:00",
+ "generated": "2026-08-14T20:44:18.485168+00:00",
  "tech": "php",
- "count": 190,
+ "count": 195,
  "items": [
-  {
-   "title": "laravel/framework",
-   "url": "https://github.com/laravel/framework",
-   "date": "2026-08-14T19:49:26+00:00",
-   "summary": "Laravel is a web application framework with expressive, elegant syntax.",
-   "points": 34866,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "coollabsio/coolify",
-   "url": "https://github.com/coollabsio/coolify",
-   "date": "2026-08-14T18:44:08+00:00",
-   "summary": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
-   "points": 60584,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "WordPress/WordPress",
-   "url": "https://github.com/WordPress/WordPress",
-   "date": "2026-08-14T18:40:09+00:00",
-   "summary": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.",
-   "points": 21337,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "livewire/livewire",
-   "url": "https://github.com/livewire/livewire",
-   "date": "2026-08-14T18:24:12+00:00",
-   "summary": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
-   "points": 23568,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "nextcloud/server",
-   "url": "https://github.com/nextcloud/server",
-   "date": "2026-08-14T17:52:47+00:00",
-   "summary": "☁️ Nextcloud server, a safe home for all your data",
-   "points": 36422,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
   {
    "title": "Small Swoole DB 2.0: Bringing Safer, Faster In-Memory Data Access to Swoole and OpenSwoole",
    "url": "https://dev.to/sebk69/small-swoole-db-20-bringing-safer-faster-in-memory-data-access-to-swoole-and-openswoole-2epg",
@@ -75,42 +15,6 @@
    "lang": "en"
   },
   {
-   "title": "matomo-org/matomo",
-   "url": "https://github.com/matomo-org/matomo",
-   "date": "2026-08-14T17:02:25+00:00",
-   "summary": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
-   "points": 21767,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "symfony/symfony",
-   "url": "https://github.com/symfony/symfony",
-   "date": "2026-08-14T16:38:49+00:00",
-   "summary": "The Symfony PHP framework",
-   "points": 31124,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "firefly-iii/firefly-iii",
-   "url": "https://github.com/firefly-iii/firefly-iii",
-   "date": "2026-08-14T16:11:01+00:00",
-   "summary": "Firefly III: a personal finances manager",
-   "points": 24310,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "PHP 8.6 Deprecations: Why Your Logs (and Bill) Will Spike",
    "url": "https://medium.com/@evtenko/php-8-6-deprecations-why-your-logs-and-bill-will-spike-f8abebe3ca29?source=rss------php-5",
    "date": "2026-08-14T15:58:30+00:00",
@@ -118,29 +22,6 @@
    "tech": "php",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "bagisto/bagisto",
-   "url": "https://github.com/bagisto/bagisto",
-   "date": "2026-08-14T15:29:35+00:00",
-   "summary": "Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs",
-   "points": 27974,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Ask HN: Should hard-tech founders join a problem or technology-first PhD lab?",
-   "url": "https://news.ycombinator.com/item?id=49299333",
-   "date": "2026-08-14T14:38:22+00:00",
-   "summary": "I&#x27;m an engineering undergrad considering pursuing a PhD with the long-term goal of founding a hard-tech startup. I’m undecided about the specific area and only have a vague sense of what interest",
-   "points": 10,
-   "tech": "php",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -174,18 +55,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "danielmiessler/SecLists",
-   "url": "https://github.com/danielmiessler/SecLists",
-   "date": "2026-08-14T11:19:22+00:00",
-   "summary": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
-   "points": 72844,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "I Built a PHP SDK for ZKTeco BioTime — Here’s Why",
@@ -229,18 +98,6 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
-  },
-  {
-   "title": "getgrav/grav",
-   "url": "https://github.com/getgrav/grav",
-   "date": "2026-08-14T09:51:09+00:00",
-   "summary": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",
-   "points": 15629,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "Magento 2 Payment Gateway Performance: Reducing Checkout Latency",
@@ -327,30 +184,6 @@
    "lang": "en"
   },
   {
-   "title": "sebastianbergmann/phpunit",
-   "url": "https://github.com/sebastianbergmann/phpunit",
-   "date": "2026-08-14T04:57:27+00:00",
-   "summary": "The PHP Unit Testing framework.",
-   "points": 20042,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "BookStackApp/BookStack",
-   "url": "https://github.com/BookStackApp/BookStack",
-   "date": "2026-08-14T04:30:53+00:00",
-   "summary": "NOW MANAGED ON CODEBERG",
-   "points": 18985,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "PHPStan Generics in the Real World: Building a Type-Safe Collection Library",
    "url": "https://dev.to/sebk69/phpstan-generics-in-the-real-world-building-a-type-safe-collection-library-49lh",
    "date": "2026-08-14T03:12:14+00:00",
@@ -404,18 +237,6 @@
    "lang": "en"
   },
   {
-   "title": "composer/composer",
-   "url": "https://github.com/composer/composer",
-   "date": "2026-08-13T19:15:07+00:00",
-   "summary": "Dependency Manager for PHP",
-   "points": 29497,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
    "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
    "date": "2026-08-13T17:38:27+00:00",
@@ -423,17 +244,6 @@
    "tech": "php",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
-   "lang": "en"
-  },
-  {
-   "title": "Get value from dataframe transformation with regex",
-   "url": "https://stackoverflow.com/questions/79993870/get-value-from-dataframe-transformation-with-regex",
-   "date": "2026-08-13T16:20:35+00:00",
-   "summary": "php، dataframe، etl",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -480,17 +290,6 @@
    "lang": "en"
   },
   {
-   "title": "Want PHP script for Windows WampServer environment that mimics the functionality of XAMPP s mailtodisk.exe tool",
-   "url": "https://stackoverflow.com/questions/79993778/want-php-script-for-windows-wampserver-environment-that-mimics-the-functionality",
-   "date": "2026-08-13T10:30:17+00:00",
-   "summary": "php، windows، email، xampp، wamp",
-   "points": -2,
-   "tech": "php",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "Laravel Eloquent ORM (Object-Relational Mapper) Relationships",
    "url": "https://dev.to/mohamed_fakhr_eldin/laravel-eloquent-orm-object-relational-mapper-relationships-2aea",
    "date": "2026-08-13T10:21:05+00:00",
@@ -499,17 +298,6 @@
    "tech": "php",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Livewire single file component form data specific input field s data is not inserted into database",
-   "url": "https://stackoverflow.com/questions/79993764/livewire-single-file-component-form-data-specific-input-fields-data-is-not-inse",
-   "date": "2026-08-13T09:52:50+00:00",
-   "summary": "php، laravel، laravel-livewire، laravel-livewire-wiremodel، laravel-livewire-wireclick",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "so",
-   "source": "Stack Overflow",
    "lang": "en"
   },
   {
@@ -568,40 +356,6 @@
    "lang": "en"
   },
   {
-   "title": "Symfony request object doesn t return any query or request (GET or POST) parameters",
-   "url": "https://stackoverflow.com/questions/79993628/symfony-request-object-doesnt-return-any-query-or-request-get-or-post-paramet",
-   "date": "2026-08-12T23:02:13+00:00",
-   "summary": "php، symfony",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "FreshRSS/FreshRSS",
-   "url": "https://github.com/FreshRSS/FreshRSS",
-   "date": "2026-08-12T19:53:52+00:00",
-   "summary": "A free, self-hostable news aggregator…",
-   "points": 15771,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "is there a way in PHP to check a typed property is not initialised AND not null?",
-   "url": "https://stackoverflow.com/questions/79993563/is-there-a-way-in-php-to-check-a-typed-property-is-not-initialised-and-not-null",
-   "date": "2026-08-12T16:18:49+00:00",
-   "summary": "php",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
    "title": "How to migrate Laravel 13 + Next.js to Zero-Downtime VPS Releases",
    "url": "https://dev.to/dineshstack/how-to-migrate-laravel-13-nextjs-to-zero-downtime-vps-releases-17i3",
    "date": "2026-08-12T08:12:06+00:00",
@@ -624,52 +378,14 @@
    "lang": "en"
   },
   {
-   "title": "cachethq/cachet",
-   "url": "https://github.com/cachethq/cachet",
-   "date": "2026-08-11T18:56:39+00:00",
-   "summary": "🚦 Cachet, the open source, self-hosted status page system.",
-   "points": 15214,
+   "title": "PHP 8.6 First Look: What’s Coming and What’s Leaving",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9salp1S1BnT1dlTE83YWJ1NHVneTN4T1FYRFBNZUhpWGJRMFlGOUNEYXAtMFozQzl4XzU5Q19VTDlOR3pXckYxRXZQajh1V2E3Zk9FaVRR?oc=5",
+   "date": "2026-08-11T13:33:53+00:00",
+   "summary": "PHP 8.6 First Look: What’s Coming and What’s Leaving YouTube",
    "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "briannesbitt/Carbon",
-   "url": "https://github.com/briannesbitt/Carbon",
-   "date": "2026-08-11T17:29:06+00:00",
-   "summary": "A simple PHP API extension for DateTime.",
-   "points": 16603,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "fruitcake/laravel-debugbar",
-   "url": "https://github.com/fruitcake/laravel-debugbar",
-   "date": "2026-08-11T12:51:21+00:00",
-   "summary": "Debugbar for Laravel (Integrates PHP Debug Bar)",
-   "points": 19276,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "filamentphp/filament",
-   "url": "https://github.com/filamentphp/filament",
-   "date": "2026-08-11T09:23:33+00:00",
-   "summary": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
-   "points": 31795,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Laravel: 3 \"Advanced\" Tips From My PHP Tycoon Codebase",
@@ -689,111 +405,6 @@
    "tech": "php",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "koel/koel",
-   "url": "https://github.com/koel/koel",
-   "date": "2026-08-10T20:49:05+00:00",
-   "summary": "Music streaming solution that works.",
-   "points": 17220,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "PHP built-in server fails with “Cannot create lock - Permission denied” in Termux",
-   "url": "https://stackoverflow.com/questions/79991998/php-built-in-server-fails-with-cannot-create-lock-permission-denied-in-termu",
-   "date": "2026-08-10T16:52:07+00:00",
-   "summary": "php، termux",
-   "points": -3,
-   "tech": "php",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "guzzle/guzzle",
-   "url": "https://github.com/guzzle/guzzle",
-   "date": "2026-08-09T21:29:47+00:00",
-   "summary": "Guzzle, an extensible PHP HTTP client",
-   "points": 23462,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "How can I prevent duplicate WooCommerce webhook processing when the same event is delivered multiple times?",
-   "url": "https://stackoverflow.com/questions/79991642/how-can-i-prevent-duplicate-woocommerce-webhook-processing-when-the-same-event-i",
-   "date": "2026-08-08T23:40:27+00:00",
-   "summary": "php، wordpress، rest، woocommerce، webhooks",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "so",
-   "source": "Stack Overflow",
-   "lang": "en"
-  },
-  {
-   "title": "krayin/laravel-crm",
-   "url": "https://github.com/krayin/laravel-crm",
-   "date": "2026-08-07T06:04:41+00:00",
-   "summary": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
-   "points": 23684,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "PHPMailer/PHPMailer",
-   "url": "https://github.com/PHPMailer/PHPMailer",
-   "date": "2026-08-06T06:45:25+00:00",
-   "summary": "The classic email sending library for PHP",
-   "points": 22283,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "barryvdh/laravel-ide-helper",
-   "url": "https://github.com/barryvdh/laravel-ide-helper",
-   "date": "2026-08-04T12:28:01+00:00",
-   "summary": "IDE Helper for Laravel",
-   "points": 14952,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Seldaek/monolog",
-   "url": "https://github.com/Seldaek/monolog",
-   "date": "2026-08-01T13:16:14+00:00",
-   "summary": "Sends your logs to files, sockets, inboxes, databases and various web services",
-   "points": 21396,
-   "tech": "php",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
-   "title": "Ask HN: What do you use to monitor cron jobs and queue workers?",
-   "url": "https://news.ycombinator.com/item?id=49067832",
-   "date": "2026-07-27T11:09:43+00:00",
-   "summary": "I&#x27;ve been running production Laravel apps for a while and noticed that most teams have zero monitoring on their cron jobs and queue workers. Uptime monitors check if a URL responds 200, but they ",
-   "points": 4,
-   "tech": "php",
-   "sourceId": "hn",
-   "source": "Hacker News",
    "lang": "en"
   },
   {
@@ -847,6 +458,16 @@
    "lang": "en"
   },
   {
+   "title": "✅ إزاي تبعت ‎‎Email من ‎‎Laravel باستخدام ‎‎Gmail SMTP مجانًا (شرح عملي)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Dbl9NN0hMS0NCSnB6SWhFVG9tdF9xV0xMSlEwal80Qm5GNnpyXzhVUTkxVGhhdTBib2NsNTlkeGFvNGxTUTdDMmllMEplV3M3THUzbHFB?oc=5",
+   "date": "2026-02-22T18:01:01+00:00",
+   "summary": "✅ إزاي تبعت ‎‎Email من ‎‎Laravel باستخدام ‎‎Gmail SMTP مجانًا (شرح عملي) YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "NativePHP: Build Mobile Apps with PHP & Laravel",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IOFJvZUpteVBmeXc5ZEs2U3l6UnNUUzEzMXU4Q2l4aXZuZ0MwTldQeFhXdXJxMVdrT2pSOHVtRXgzWlBIRDFKTTBZMUp4c050bGF3R2ln?oc=5",
    "date": "2026-02-19T12:56:40+00:00",
@@ -867,6 +488,36 @@
    "lang": "en"
   },
   {
+   "title": "ربط مشروع Laravel مع GitHub ونشره على DigitalOcean | الطريقة الصحيحة باستخدام SSH (08)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90MUhQVFo0eVdyQkxLaWFscENuNFZ3RE9paU14LUxsT0JRaUJiUVVsTlIxSnJlWWdzZ0U2TndzZzdqckFQQWFPUldNT3hROXRxQ3I3eVlR?oc=5",
+   "date": "2026-02-09T13:00:24+00:00",
+   "summary": "ربط مشروع Laravel مع GitHub ونشره على DigitalOcean | الطريقة الصحيحة باستخدام SSH (08) YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "137 - مقدمة API في Laravel 12 | إنشاء api.php بالطريقة الصحيحة لارافيل 12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TSjVLVFQ4UXg5U1ZHU2JvVVMxc29PQWdaWDRLQlZEa2RtaEN5MUM1R2NlTzFyaVlXNXhsd2JkR3hkOTZheHk4OXptUGEzN0tzV1hnQnJn?oc=5",
+   "date": "2026-01-09T21:40:40+00:00",
+   "summary": "137 - مقدمة API في Laravel 12 | إنشاء api.php بالطريقة الصحيحة لارافيل 12 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1213 - ضبط نمط عرض فاتورة الكاشير افقي او عمودي من الضبط العام للنظام - مشروع لارافيل Laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94dGZ3b3VkYy1hRTh3WVM4N3ZZYXkxa2hPXzNCUmp0clpRWVlOUEFXQnlyZzF3a3Fsd0o3MlBnaTVJMmhXSUdZTVN6X01UYlBXeGdWVE13?oc=5",
+   "date": "2026-01-06T12:06:49+00:00",
+   "summary": "1213 - ضبط نمط عرض فاتورة الكاشير افقي او عمودي من الضبط العام للنظام - مشروع لارافيل Laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "💻 مشروع شامل لتطبيق كل مفاهيم لغة PHP من الصفر حتى OOP 🚀 | تعلم البرمجة عمليًا خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZV095OVNjU0VuQnR5dUhaTTc5TnZMRmV1RF9URTBJbWxCeTNTSmR5UUlBdzV1bTVLRDY4OXhXQ0JQYTNXWDdrVU1mUzBXTmxPRzZEU0pB?oc=5",
    "date": "2025-11-02T14:01:02+00:00",
@@ -875,6 +526,96 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "115 - مقدمة في التخزين المؤقت الكاش في لارافيل - Laravel Cache Introduction",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qY0RGZmpzSnVDZG1VcmVjWGVlem9TUWEzREM1MUE0UGJnWXRjYzZJMFV4X3E5UzJHcFFfNjdGamRveUdONHp1WUxEZVl4X0toWUlUa2R3?oc=5",
+   "date": "2025-10-22T20:03:24+00:00",
+   "summary": "115 - مقدمة في التخزين المؤقت الكاش في لارافيل - Laravel Cache Introduction YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "PHP Tutorial For Beginners 2026 | PHP Course For Beginners | PHP Tutorial | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13dWNENFVzZHRteW5BTmNHa3ZnOTRUVkpzenFuLUtvajUyLVBTWk5JTHBZS2plVkcwcVVta0wzcjJGcDFndThTbXNRbWJPMzFLNVd5WWlB?oc=5",
+   "date": "2025-10-21T14:30:21+00:00",
+   "summary": "PHP Tutorial For Beginners 2026 | PHP Course For Beginners | PHP Tutorial | Simplilearn YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "108 - مقدمة في الجلسات (Sessions) في Laravel | أين تُخزَّن وكيف تعمل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zbk1tMERISnhNeGRVV3JDTVZONzJWTjBjUXFCVXlLUG0tOFJ0aVNDRXkyc1I3UGtNRDlTa3pPZTBkOVZQWGEtSXpIcjk1eklYNURTdE5B?oc=5",
+   "date": "2025-10-17T16:29:52+00:00",
+   "summary": "108 - مقدمة في الجلسات (Sessions) في Laravel | أين تُخزَّن وكيف تعمل YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "102 - إدارة أنواع الاستجابات في لارافيل | Laravel Response Types",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FWUpuellhbklDTnh4YTFzN1NOVkdoZzItWndnWHQ0dDVpYWZ5TEZjVHFYaWlBM1hid1EtY0RlQUJHY3huaXY4RldIZzdMOVRMalVqaklB?oc=5",
+   "date": "2025-10-10T12:34:09+00:00",
+   "summary": "102 - إدارة أنواع الاستجابات في لارافيل | Laravel Response Types YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "PHP Full Course 2026 | PHP Tutorial for Beginners | PHP Training For Beginners | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yaG5LYVlmV2ZvRkJoQ3pIa3J2bnd2N3NTODNveXlPU3NvWmhoVmZWc1VwdlQ2OVFTeXFMYnNlTDNHRC1KMzF5bXVkeTFWbjZhYjAtNHV3?oc=5",
+   "date": "2025-10-10T05:30:25+00:00",
+   "summary": "PHP Full Course 2026 | PHP Tutorial for Beginners | PHP Training For Beginners | Simplilearn YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "99 - مقدمة شرح الاستجابة للرد علي الطلب | HTTP Responses Laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PNFVYV1NMM25zSE1iS2xuNTdtUVlybk92cEFuaHRybVFZZ2pyUXVUVWhYN05YVlNpYkZ2Q2haZHE0Tl9OeVVJNy00UEI3U3lBaGxScXln?oc=5",
+   "date": "2025-10-09T20:35:16+00:00",
+   "summary": "99 - مقدمة شرح الاستجابة للرد علي الطلب | HTTP Responses Laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "83 - ماهو مقدم و مُزوِّد الخدمات في لارافيل | Service Providers in Laravel #laravel12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WYngxNWJfTUtkZVA0VUNYOHllM0J3NXdkT2tiejBSbWx4UHpDM2p4ekVRMk4wclFQUVJVdHhJaVRXVFB2bFdrcEZlZzhDNG9BYmJDdzJB?oc=5",
+   "date": "2025-09-29T23:21:22+00:00",
+   "summary": "83 - ماهو مقدم و مُزوِّد الخدمات في لارافيل | Service Providers in Laravel #laravel12 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "82 - ماهي حاوية الخدمات في لارافيل | Service Container in Laravel #laravel12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EVktOU2x6QWlzX3IwUHVab1JtSDJxSDJQQTBqbUZ2Ulc1UTktWmFNMWpuY2xKUVVWWlNLOFhVdm8xVFdkckJOT2VfN3ZxRU1WalhWaFVB?oc=5",
+   "date": "2025-09-29T10:21:52+00:00",
+   "summary": "82 - ماهي حاوية الخدمات في لارافيل | Service Container in Laravel #laravel12 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "PHP Fundamentals [FULL COURSE]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04WGtLcERQQkdEaUVmSjZnV090N2tmVXRLRmY4MGlOdE5ONW4xQWtING9KaHFUSlNFWXRyOFhOM3ZSQkVfNWpRai1HQ2VIT0ljQXR0REd3?oc=5",
+   "date": "2025-09-16T19:00:06+00:00",
+   "summary": "PHP Fundamentals [FULL COURSE] YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Learn Laravel from Scratch [FULL BOOTCAMP COURSE]",
@@ -891,6 +632,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PMjB0OUhxeHpwQTJWNVZKY0x4NjROTGxLSDYzYTNWMmZFTmU2bXp3REJGS1FJTEd5Z3EzZVRtcEJKa2Iya1ZTeDUySHFWZFV1RUZmMXRR?oc=5",
    "date": "2025-08-31T14:49:53+00:00",
    "summary": "#1 دورة PHP | أول مشروع عملي PHP | إنشاء أول مشروع عملي بلغة PHP YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مقدمه الي laravel boost",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2M3k4VWItY1M4OUkwalZVOGUzdzVGUnpLeUJNM240SVVMMlpLYnlielBZWVZrbFI3NERlYnJGbmt0VlJnM2Vhd21lWGJ0clZlZVpTc3Fn?oc=5",
+   "date": "2025-08-19T17:44:22+00:00",
+   "summary": "مقدمه الي laravel boost YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -927,6 +678,16 @@
    "lang": "ar"
   },
   {
+   "title": "Localization & Transaltions in Laravel | الترجمة في Laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMVzc5RkdVMTJKektVbjlpaW9KMEx6ZXBTLXZqMElQbzNDZWRCbXJKX1I2bzhSb252b1lNMEtuc3NuVVVueHc3Ukp1ZXNNdndqaTNtZHB3?oc=5",
+   "date": "2025-06-21T13:46:29+00:00",
+   "summary": "Localization & Transaltions in Laravel | الترجمة في Laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Laravel 12 Complete Project For Beginner to Advance | Part 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PWHNNa1VsY2IxSFBGM3JXdWlrNDJBY0tnLVZuNERCNU9JejZKUE01T1IzcGpZZTJXZWJzOUNReDNYa05MbEVMY1MxY19jcnl3b2NUaHNn?oc=5",
    "date": "2025-06-20T11:29:28+00:00",
@@ -937,6 +698,16 @@
    "lang": "en"
   },
   {
+   "title": "Laravel Cache (Redis) | ذاكرة التخزين المؤقت",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YQ01QbzVXVEozblJhazl1Z05UeV9PZFk4VEN1OEJvNGRxY0s3VVZ0amVCQWVsdEpDSnhvODNGeHlmTHNQRFA0ZEdaS2VBMWZRdnZMLW5R?oc=5",
+   "date": "2025-06-18T15:47:50+00:00",
+   "summary": "Laravel Cache (Redis) | ذاكرة التخزين المؤقت YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Let's Build Digital Resume Page With Laravel",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02OHFNTEZadEVNTE55MDk1TE9uY2t3TGhpTG1pZElNbm5tMFNlOU50T2JKdmJGTmFoVzBfWmdBNnJneEFwT3BfM3dJRUUxUGV3UDlDa0dB?oc=5",
    "date": "2025-06-17T12:45:06+00:00",
@@ -945,6 +716,36 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "Laravel Modules (HMVC)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vSW5JVkVRaWt0X2lFa3pndFpseGJzVk01V2dENUpRcWJKNUh5ZExCcGZZeGVsSFhoNlFlZTQ5alF6VlYxWkdTWGd1NkRHZ1pUaXF6ZEJn?oc=5",
+   "date": "2025-06-12T16:21:17+00:00",
+   "summary": "Laravel Modules (HMVC) YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel 12: Vibe Coding with Cursor 🟠😎 | احترف بناء الباك اند باستخدام كورسور - محرر الأكواد الذكي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDbGF2dHlPVS1VNEw1YktWTkowTWpEUUJfUU50eG5EajlSbl83ekVITGM2V0xPS1JlMkMxQ0V0NWtDLWxZZjhLYmY0WDNNeFlFU2pXdE9R?oc=5",
+   "date": "2025-06-03T14:13:09+00:00",
+   "summary": "Laravel 12: Vibe Coding with Cursor 🟠😎 | احترف بناء الباك اند باستخدام كورسور - محرر الأكواد الذكي YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "70 - ماهو الوسيط Middleware في لارافيل - Middleware in Laravel #laravel12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52QUh6ZXQ1X0xheEVFenAxZHl1Mm5mY25EdVZ1c0dkY2pVYlJVeWpkZmxsVkl6dmFTN3RFZXdnYVFDQXB0T0JwUElaRW9mRUtHM29HaTd3?oc=5",
+   "date": "2025-05-30T17:23:45+00:00",
+   "summary": "70 - ماهو الوسيط Middleware في لارافيل - Middleware in Laravel #laravel12 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "#11 Laravel Blade Template Tutorial for Beginners | Master Laravel Views Easily",
@@ -987,6 +788,36 @@
    "lang": "ar"
   },
   {
+   "title": "17 - دورة حياة عمل فريم ورك اللارفيل | Request Lifecycle in laravel #laravel12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbHV4OElYVHJxNDVUZ01veWp6WjFwZ2JuMjhDQndiNEZoS3BLa2UtTlhuWTA3YURsQzRTaHVhaVhtbnlHSEFnTFJWNVBiVVhBS25LQThn?oc=5",
+   "date": "2025-05-20T09:40:27+00:00",
+   "summary": "17 - دورة حياة عمل فريم ورك اللارفيل | Request Lifecycle in laravel #laravel12 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "5 - تحميل اطار العمل لارافيل | How to Install Laravel 12 #laravel12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93ZlNtTXl0Xy1zekdUU1V3blhobmI3S3ZIZi1MaEEyajhyQkNGTEtxM3VRSFU4U2hQeGRGeFIwUXluNjM3b2JMSVBfd1BNemVaYU5MTDdR?oc=5",
+   "date": "2025-05-19T09:23:57+00:00",
+   "summary": "5 - تحميل اطار العمل لارافيل | How to Install Laravel 12 #laravel12 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1- مقدمة كورس دورة لارافيل 12 | Introduction to Laravel 12 Course #laravel12",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zb1lrelNzS2tkRzNkM1h1Tm9oNU9nbDRkVm9ObVdLVjc2NEYtT29neFNvVHJxV1dzMldIV2NJblZKZDFKSFFscUxyR2t2OE9XOEdjMmVR?oc=5",
+   "date": "2025-05-19T09:22:23+00:00",
+   "summary": "1- مقدمة كورس دورة لارافيل 12 | Introduction to Laravel 12 Course #laravel12 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "NativePHP for Mobile: Demo Laravel Project",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWWXB4RWJuUjVKTnQxbXpVNm5tY3VJSmQ1aGRHLWh2bHkyUTVMVUJhbGo2NVJmd1g4empCNlZhT1pPamZiU095VlVZYVZpRjBvNGNMamtn?oc=5",
    "date": "2025-05-16T05:00:23+00:00",
@@ -1007,10 +838,60 @@
    "lang": "en"
   },
   {
+   "title": "تعلم Laravel Livewire - التثبيت وانشاء form بسهولة - 1#",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMZ2Q4RERtdXp5QjBzV3d2VDJsMW1UMVN5VW5kN2xJMmo2QWFBODZMOEpoci1lM1V2WEZ5TkozVXNESG11QzZ1ZWMxRGhmSGVHbFkwSXh3?oc=5",
+   "date": "2025-05-10T17:38:11+00:00",
+   "summary": "تعلم Laravel Livewire - التثبيت وانشاء form بسهولة - 1# YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "🔵 PHP Tutorial for Beginners to Advanced (Full Course)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcVpUSG5tYzRrbDljek5JOWF6ajY0ajhRd19qcm0zMXI5bUhWR0x4ZnhTbmhvOGYwdzhIaFFZR1FURjdqTm5nYzJDZG94ci1PS1l4OXpB?oc=5",
+   "date": "2025-05-10T05:01:01+00:00",
+   "summary": "🔵 PHP Tutorial for Beginners to Advanced (Full Course) YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "12 | Build a Laravel CRUD App Step-by-Step (Beginner Friendly)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ld0gwdE9LeGd4bmRuZWxCVXpoSHA0dG1nVnl0TlB6VGExcVlpcDB3RXZsTkFFN3hCd19xVnZqQXc2ODFfTzAxSlVVS2tSOTc4dHpoSnln?oc=5",
    "date": "2025-05-09T18:46:29+00:00",
    "summary": "12 | Build a Laravel CRUD App Step-by-Step (Beginner Friendly) YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "01- Laravel Outbox Pattern Explained 🔥 | Never Lose Events Again! - Arabic",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55NlJxeHJhbm5rX3hrcmxBd1pENzhlQ1FyQXFxM3RZdWZyMkVSMWwwUjBaaE1IVi1FNWpIT1BzOTJNVkY3UE9EWlhqNFRhSnVZNFNRcFR3?oc=5",
+   "date": "2025-05-04T17:30:11+00:00",
+   "summary": "01- Laravel Outbox Pattern Explained 🔥 | Never Lose Events Again! - Arabic YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "353 - فكرة تسجيل دخول الموظفين لنظام الموارد البشرية ومهامهم ايه -مشروع لارافيل php #laravelphp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85S21jZ3pDTldwdnAweTJCSUxJYm9ERUJmZjhFME1DNncwXzdaSUhVUlE0S2lhYXhENEJsT21faDFyOFRTVTdGdkEza05ZVHNkMGxNTi1n?oc=5",
+   "date": "2025-04-29T18:17:10+00:00",
+   "summary": "353 - فكرة تسجيل دخول الموظفين لنظام الموارد البشرية ومهامهم ايه -مشروع لارافيل php #laravelphp YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "🎯 PHP Tutorial for Beginners | Full Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cVhtd1lWM1dhd3pveWx2ZXRsSFdWV1pmd18zM0FxMEpqdGwzdE5mVFRJc3VzVHlZcDVOYjNaNjFPUW5xVGZvSVRqWlpXWnQwcjFnczBR?oc=5",
+   "date": "2025-04-16T07:08:27+00:00",
+   "summary": "🎯 PHP Tutorial for Beginners | Full Course YouTube",
    "tech": "php",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1037,13 +918,13 @@
    "lang": "en"
   },
   {
-   "title": "كيفية إنشاء موقع ووردبريس في 6 خطوات سهلة وسريعة",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80M0pvTGtoQnZTYld2MmJTYnhNQU1hOWNPb19YT2RHSEhVMG1iSkZfbXR2bTZHSmpYeFRFTDhKQnZ3S25aY1owR2ZlRDh1QnJTUDk1T1lsTmhOdmwtQzFiWWJR?oc=5",
-   "date": "2025-03-04T08:00:00+00:00",
-   "summary": "كيفية إنشاء موقع ووردبريس في 6 خطوات سهلة وسريعة الرابحون",
+   "title": "948 - إستكمال اضافة الخدمات الرئيسية للنظام-مشروع عيادات لارافيل php laravel #laravel_development",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xQUNPcWl5SVA5WHI2VkU2SmlzaVNEVHg3SzFxeFNITU9KTnRYeWEzaWlqMGQySUM4c0l3X01Ob3htZXBrc05WSVN6MHlBQ0h4SXkxVi1R?oc=5",
+   "date": "2025-02-20T08:00:00+00:00",
+   "summary": "948 - إستكمال اضافة الخدمات الرئيسية للنظام-مشروع عيادات لارافيل php laravel #laravel_development YouTube",
    "tech": "php",
-   "sourceId": "ar-news",
-   "source": "الرابحون",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1051,6 +932,36 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01UTlvbURFTmxKQjNrRnFfY2tRMnZEc3BrN2xBaEt1NHNUZURHRU9CazB4YVhTWU90ODhTTWxGc1lnY2g3MXVRU1ZtUXNjUmgyeFNtUGdB?oc=5",
    "date": "2025-02-20T02:28:10+00:00",
    "summary": "cart php الجزء20 ارسال البيانات ومعلومات سلة التسوق الى قاعدة البيانات YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "🔥 PHP Full Course 2025 - Learn PHP from Scratch | PHP Tutorial for Beginners 🚀",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tR1FZM0M0MHVEYzZoMGMtbmZOT1JlS0Zhc0lJX3psREZ2ZkNFNl9ab1JGYWF0cU1iWE9yREIzWXBpTFRTenFfcmdPcnd4ekRxZXJEZEpn?oc=5",
+   "date": "2025-02-19T21:38:42+00:00",
+   "summary": "🔥 PHP Full Course 2025 - Learn PHP from Scratch | PHP Tutorial for Beginners 🚀 YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "12 - شرح مفهوم العلاقات Eloquent ORM One To One - دورة تعلم لارافيل Laravel Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VW9uaEFWem1rekRqZHQ3RHRfaTZvbE13Qnp5d0hHdGRzdkwzcVp2ZWROTGF4ZFk3VkNpYjRReWg2NWgxQ18zdUlUZ195NEtvNmRhRnFB?oc=5",
+   "date": "2025-02-07T11:38:47+00:00",
+   "summary": "12 - شرح مفهوم العلاقات Eloquent ORM One To One - دورة تعلم لارافيل Laravel Course YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "11 - شرح مفهوم ال Tinker و طريقة استخدامه - دورة تعلم لارافيل Laravel Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaMU81anBwZXhPWjJadFlwdEZQaDF0TGJhMG1OZHZNZXlZdGJQQ2dHcFZsdTFkeVlXRmRITjVNQTU2RjVOZGVzMFhoOHgwWVkzczNhNVpB?oc=5",
+   "date": "2025-01-30T03:44:41+00:00",
+   "summary": "11 - شرح مفهوم ال Tinker و طريقة استخدامه - دورة تعلم لارافيل Laravel Course YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1077,30 +988,90 @@
    "lang": "en"
   },
   {
-   "title": "Laravel Authentication Tutorial #7 - Accessing the Current User",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udmRUTmtJdWR1Wl9NcE54V2Fkc1BVdVh4eFNlQmZfdzl1ckJ2Z1V5OXFJUTk2NmNQb2FuelJJYWZ6cnRKeWxNS1dTOVpHc1BEa3FQNzVn?oc=5",
-   "date": "2025-01-14T07:51:27+00:00",
-   "summary": "Laravel Authentication Tutorial #7 - Accessing the Current User YouTube",
+   "title": "9 - شرح مفهوم ال Model و ال Migration و طريقة انشائهم - دورة تعلم لارافيل Laravel Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83dmRYLUJpN1d3S3lDa3MyeGtIaUtJRXpwdnZwN0N5N3o1QldoRjVfWTNtNWFTYUdqdHN6TVhnc010Wl9CdDl3QUVMS1JJSDdyUm9hSHdn?oc=5",
+   "date": "2025-01-13T06:48:58+00:00",
+   "summary": "9 - شرح مفهوم ال Model و ال Migration و طريقة انشائهم - دورة تعلم لارافيل Laravel Course YouTube",
    "tech": "php",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
-   "title": "Laravel Authentication Tutorial #1 - Intro & Setup",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJNnBpeks5SUdiSE4wWW1JRmZZQS1acFpMbHJaV0VsRTRuSlVjWWdZZkFFb1Fidld3YXlBRFB0RVUwb3QzZ0JLVzZCVWdoYXliY0tLXzdB?oc=5",
-   "date": "2025-01-06T09:03:36+00:00",
-   "summary": "Laravel Authentication Tutorial #1 - Intro & Setup YouTube",
+   "title": "كيفية رفع مشروع لارافيل على إستضافة مجانية أونلاين - Upload Project Laravel Hosting #laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DVzZ6cUlCUndZMzdFd0JvUTcydl9POWNmaTRFZFhOQTVTaUcwYWxoNS1fQzJ2RW02aFhrUk9kemFwaWtaei1CWWpkSDZLQkRuMEp6X3hB?oc=5",
+   "date": "2025-01-01T07:46:33+00:00",
+   "summary": "كيفية رفع مشروع لارافيل على إستضافة مجانية أونلاين - Upload Project Laravel Hosting #laravel YouTube",
    "tech": "php",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
+  },
+  {
+   "title": "2 - انشاء مشروع جديد و اهم المجلدات داخل المشروع - دورة تعلم لارافيل Laravel Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKaVdHMGRYNjJTWEU1NlY0OFpfdzFFZWg0X015ZXBjSHljQTRKNjZTVDlYOEE5QTJXUEpBOHU0cnM0MzFDemdMeWtEMjFXTlUya3FYZ19n?oc=5",
+   "date": "2024-12-30T20:40:35+00:00",
+   "summary": "2 - انشاء مشروع جديد و اهم المجلدات داخل المشروع - دورة تعلم لارافيل Laravel Course YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "الجزء (12) التعديل على منتجات المتجر html css php mysqli",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nM3dtYU5VM1hRSEhJZ2I2ald6NWgyV2dkS3cybGFsbGpOY25MTlNxb1JNWEZjZnB0XzZ2MXlVUVhTc0k1M2Zuc3NaTk15aVlmNDNmRWxB?oc=5",
    "date": "2024-12-22T16:16:48+00:00",
    "summary": "الجزء (12) التعديل على منتجات المتجر html css php mysqli YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "59 - انشاء الطلب و الربط مع بوابة دفع Telr ج2 - دورة بناء متجر الكتروني باستخدام لارافيل Laravel 11",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81ZElzeC12a1ctTWZuVGx5NEh6ZkhPeDhMbGU0N2JKY0R0SkN5R2NTUUd0VEtoallXemVTZlViTnh5RW1UbnE3SkJ0OW11dWhMZVdNcENB?oc=5",
+   "date": "2024-12-16T14:49:35+00:00",
+   "summary": "59 - انشاء الطلب و الربط مع بوابة دفع Telr ج2 - دورة بناء متجر الكتروني باستخدام لارافيل Laravel 11 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ما هو الـ Framework؟ وإيه أهميته في البرمجة؟ 🤔💻 #برمجة #framework #react #django #laravel #اتعلم",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSzNuQkM2MEJBUEFHSWZ4Nmd0NDVYUG1TcmtNYzBpdXh5cjRGYllHX3RocE1wVngtQzEtZ1RoOFpONnVyQlJ6a2pMQmg3Zno1T2Nzdg?oc=5",
+   "date": "2024-11-21T11:01:01+00:00",
+   "summary": "ما هو الـ Framework؟ وإيه أهميته في البرمجة؟ 🤔💻 #برمجة #framework #react #django #laravel #اتعلم YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "10-اساسيات Laravel 11 | لارفيل 11 | Seeder كيفية إنشاء بيانات افتراضية بسهولة لقاعدة البيانات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51aWFDeXMxb0dRWjA2Umd6WU1UMzktOFFKbDFuTWVhM25ieDVDeEJHYnhoTFBGTzd1NWZUMWYxRzNYZWZpeS1RdVlsenpiLTkzeENsR1Zn?oc=5",
+   "date": "2024-11-08T13:14:57+00:00",
+   "summary": "10-اساسيات Laravel 11 | لارفيل 11 | Seeder كيفية إنشاء بيانات افتراضية بسهولة لقاعدة البيانات YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1-مقدمة وتثبيت Laravel 11 | لارفيل 11 | خطوات سهلة للبدء في تطوير تطبيقات ويب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Vk1kZVhVTGI5MGU4eWxtR3NERnYzUUFhdVg4bWNjNVBaSDNUbUUzNmM1NmdxYkM2QVBDMVpZOXVJT3l3SVdFTTBNNngtWk93aVBvNTZ3?oc=5",
+   "date": "2024-08-23T12:11:23+00:00",
+   "summary": "1-مقدمة وتثبيت Laravel 11 | لارفيل 11 | خطوات سهلة للبدء في تطوير تطبيقات ويب YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "دورة لارفيل PHP Laravel كامل للمبتدئين 2025",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tWjBTMUlmc0FNdzVyOHdSWUJSeTJDVHliaEVwQjdMeUNaZnBHNmNxUnlsc2pHOEl0cFpzdnhUcUxhSFkwQ29wX3pkVVZSSXpEbHFmRlpR?oc=5",
+   "date": "2024-08-15T14:01:50+00:00",
+   "summary": "دورة لارفيل PHP Laravel كامل للمبتدئين 2025 YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1177,6 +1148,16 @@
    "lang": "ar"
   },
   {
+   "title": "748 - تسطيب مكتبة الاكسيل مع لارافيل laravel excel - مشروع مبيعات لارافيل php laravel #laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55RnJJcVlaNEt4WDVRMUlJek1oc3FNV1EwYm9CUGVVRlJTMzBxVUxyY1NWRjVYMGZvVlo5WTEyRmZkRHd1WktDMzBPOURoQVh3cy1JanNR?oc=5",
+   "date": "2024-05-15T23:41:33+00:00",
+   "summary": "748 - تسطيب مكتبة الاكسيل مع لارافيل laravel excel - مشروع مبيعات لارافيل php laravel #laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "السر وراء قوة PHP في تطوير المواقع الإلكترونية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uU3dwb09IVFVhTDlmRHZHYVNmZGVjNnNtRTdzNHozLWVNMTVlR0Zua0Vrbnh6NGlkeGtTb3pBVm5jdklzejJFS1hyd0lKaV9OX3QzblVR?oc=5",
    "date": "2024-05-09T18:12:03+00:00",
@@ -1187,10 +1168,40 @@
    "lang": "ar"
   },
   {
+   "title": "PHP LARAVEL Edit PDF File PART 1 - والتعديل عليه الجزء الأول pdf كيفية رفع ملف",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TQjhsdTRoaW1laDhSc2xIYXVfbmtyY3RhVERnTGNGb2JRWk9nUlJmV003N0hDQUdpMmdKdFJBUVlhNGgyQkhuQ0FHTWdKeGZEV2JhWHFB?oc=5",
+   "date": "2024-02-07T12:09:26+00:00",
+   "summary": "PHP LARAVEL Edit PDF File PART 1 - والتعديل عليه الجزء الأول pdf كيفية رفع ملف YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "PHP Laravel Task Scheduling (Cron Job) , شرح كرون جوب مع تطبيق الكود على السيرفر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dHFlejJ1MEFuV09DbEJsV1hZTElmVkFWemZPbGotTC00RzhaWWp1LUJYTkxUVXFKZ2owbzZUSXhEUXE4LXhkYzVsVDJpcU5yV0RqWVZB?oc=5",
+   "date": "2024-02-05T12:00:11+00:00",
+   "summary": "PHP Laravel Task Scheduling (Cron Job) , شرح كرون جوب مع تطبيق الكود على السيرفر YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "كورس لارافل - PHP Laravel | قواعد البيانات | migrations | auth token | request response | API",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96ZVRhQWU0YlllcTIwV3pOalVjY2VleGJsSHRKZG94bXd2b3dhTEx3aHo2bXlMeFlTdV9Kb2pSOGNPbmozdzdJT1RhZlIyX0pKQmVXUVJ3?oc=5",
    "date": "2024-01-17T15:00:08+00:00",
    "summary": "كورس لارافل - PHP Laravel | قواعد البيانات | migrations | auth token | request response | API YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "PHP Laravel Course - Build a Blog Website | كورس تعلم لارافيل من الصفر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aUGIxVFBDR1IxNTJmaFJCemVTVENTWjVuZHB1SHU4SE0tV2ZCcnQtQjlWd01yNG9qSnpTaXQ0V0VYT3ZYRzJuYWgydllNemJpaVh6SnBR?oc=5",
+   "date": "2023-12-29T11:00:18+00:00",
+   "summary": "PHP Laravel Course - Build a Blog Website | كورس تعلم لارافيل من الصفر YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1217,10 +1228,40 @@
    "lang": "ar"
   },
   {
+   "title": "PHP Laravel Ecommerce project tutorial",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01MEVFM19uWlNhWWtLUzYyTFRFbkRlR2hHdUlsbTZEalZFTmRPdVptTGZZVkF5OVZzZ2pWaVlHRzBLekRIVlJaQk0wRGF1aENxMGhURmlnNmlsLW4teHdRLThFb1ZyRGxjbEVKUW9jRjB0a0tLX2Rud2RIMDg?oc=5",
+   "date": "2023-11-27T23:12:55+00:00",
+   "summary": "PHP Laravel Ecommerce project tutorial YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "9-تعلم PHP Sessions: الأساسيات والمفاهيم الأساسية للعمل مع الجلسات في PHP",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOYzFrSjRxUFZUV2FJN3dqclB3R2ZXMDFBcDdHdnpUcl9udDUyYS1tYjc1ejRQM1V1WWdVVWg0b0x2LW1pZ0poVFF1eThnQ1NKbldXV0Fn?oc=5",
    "date": "2023-11-25T20:16:19+00:00",
    "summary": "9-تعلم PHP Sessions: الأساسيات والمفاهيم الأساسية للعمل مع الجلسات في PHP YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اساسيات Laravel: انشاء مشروع جديد في Laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKWGF1dUx0WkVBS1VIU28wRWZPUjRhY1NWRHl2Y19mTDUzaEIxb1lIOWtjUTZIdzRKZkI2dW5hMHlYSnE0YkRJdFRudG80SFg1dkdOb3FR?oc=5",
+   "date": "2023-11-23T16:13:57+00:00",
+   "summary": "اساسيات Laravel: انشاء مشروع جديد في Laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#1.5 PHP Laravel Ecommerce Project | دورة برمجة مشروع متجر الكترونى كامل لارافيل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GMW1aTWdseEM3Y2JQNUprVVdoS1FTRnJidE5pdDdPUHh0dzNYcnBtTmlOR2N2MmFqNzlOMXVWZVdQU2lfdmF3Ri1DamxFVE15UDFhRkNn?oc=5",
+   "date": "2023-08-26T11:00:22+00:00",
+   "summary": "#1.5 PHP Laravel Ecommerce Project | دورة برمجة مشروع متجر الكترونى كامل لارافيل YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1267,6 +1308,16 @@
    "lang": "ar"
   },
   {
+   "title": "EFM Laravel MarrakechSafi (1/4)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWlVkZ1NVaXVSV0tCYkpKbFVxM0xfTFNMc1pzeUs3Y3NUbjJ2U0ptZzljSHc2NkJBalgxZHdCY0RicDU0d25OcXp4dDkxVHEyM1RNXy1B?oc=5",
+   "date": "2023-07-03T10:31:22+00:00",
+   "summary": "EFM Laravel MarrakechSafi (1/4) YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "بناء تطبيق PHP لإدارة البيانات: دليل عملي للمبتدئين في تطوير التطبيقات باستخدام MySQL-PHP CRUD APP",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54c19HSmIxczRYRkoxWmlvSjQwaXlka25laWcxcTZpLVRVZE16RGUxUGQ2dUJyVHAydl83SVFja05Kck1NSmNFTnVPYnVvc0xZQW02VGZB?oc=5",
    "date": "2023-06-23T14:13:42+00:00",
@@ -1297,6 +1348,16 @@
    "lang": "ar"
   },
   {
+   "title": "5- Laravel - Creating & Rendering Views",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSbGFuM0xhM2c3aUs4Wm5hU00tNzZBeHYzUmIwTTV4QWNXazJNOC1zdUNaUHNUYVB5NS1mLUpIVEhRaldjMnk3NW42MFVEVmtDZEdfNHdB?oc=5",
+   "date": "2023-03-06T17:12:43+00:00",
+   "summary": "5- Laravel - Creating & Rendering Views YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "افضل طريقة اضافة الصوره من form واستقبالها في php عرضها بشكل بسيط اضافة صوره html php img",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VWE5QSnh0RUo5YUY4M2VHcjdUYkNUb2ZYaHdraGF4dEptM28yQjd1UnpfaHdxVkhDSWlyX1FOeUUyemtVaThfRUNsUGJTa1d4eE9lZnlR?oc=5",
    "date": "2023-02-28T19:14:54+00:00",
@@ -1307,10 +1368,40 @@
    "lang": "ar"
   },
   {
+   "title": "كورس لارافيل من الصفر مع مشروع 🟥 Laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rYUpNVnVXQ0JpdjJzT2NIeUk2TmFkQXlFYjgydWdYYjFaTjE1V1hEUjZmeHRjSFVuRXFqV3l4VG9lbHVoX0VkSlI5b281dko5NGR3X1d3?oc=5",
+   "date": "2023-02-02T15:34:18+00:00",
+   "summary": "كورس لارافيل من الصفر مع مشروع 🟥 Laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1- Laravel darija (شرح بالدارجة)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jeVloWTZOU25jTS04ZmNlS0ZjUjRKek5iZG5wcXRaejRfdVpGSzNJQ3ZiaE5EMkxzdnJ6RGNIVTBCNldyRkZMcGNtellyaERyWWtkd3d3?oc=5",
+   "date": "2023-01-23T14:00:09+00:00",
+   "summary": "1- Laravel darija (شرح بالدارجة) YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح ملف htaccess و كيفية إزالة .html و .php من URL | دورة تعلم بي إتش بي كاملة - الدرس 75",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tZkVyVENhMVNTOGstdDRLRmxLSDN6cnVWbGtnVnhiZFU2c1lyVGZMc3dQSkdvRlBPU3N2Szktci1vcWpPWUJ5TEpZMGZOM19GOHpST2dB?oc=5",
    "date": "2023-01-10T12:07:04+00:00",
    "summary": "شرح ملف htaccess و كيفية إزالة .html و .php من URL | دورة تعلم بي إتش بي كاملة - الدرس 75 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "01-How laravel tests works بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzT01FczVFZmtOYmVqUXdxbWY4V05fSEU5NmMwQkQzb283a2w5bkVLZThqSlEtbmdDNV9QX2R3Y1ZoZ0Zibjk3dFVXVVdmRzdWbUpBZkhn?oc=5",
+   "date": "2022-12-23T23:23:03+00:00",
+   "summary": "01-How laravel tests works بالعربي YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1347,6 +1438,16 @@
    "lang": "ar"
   },
   {
+   "title": "دورة مستقلة لبرمجة لنظام ادارة الموارد البشرية والربط مع اجهزة البصمة لارافيل 10 كاملاً Human resource management system and Php Laravel 10 HRMS ERP",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwUUl5WHFncjB4cTQya1N5Mk1qMHhZTDU0MDFaZko5ZExWbC1Qa2hKd0FNVHdVSVRlbXdhX2w1ZWdzSVlvdlRhejhNTFlsM0U5UVFKT2lqR0tFOHphMmJYR3lIREU1aXAtakdmb2M5RmU5d01pTXZ3TkR1Z0s?oc=5",
+   "date": "2022-11-11T22:02:29+00:00",
+   "summary": "دورة مستقلة لبرمجة لنظام ادارة الموارد البشرية والربط مع اجهزة البصمة لارافيل 10 كاملاً Human resource management system and Php Laravel 10 HRMS ERP YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "افضل شرح عربي انشا حساب وعمل تسجيل الدخول php mysql ||How to make login form php and mysql",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0aHRSRDg3ZkJ1RFBLcERoU3lkRWFIVTh4WmhLM3ZTTmtYRUYtVVRvZkZ1SUl6LTNsZmlYLUpjbU50VEVER3lpR3RmclZVUXdsSG5SUDBn?oc=5",
    "date": "2022-11-01T17:32:29+00:00",
@@ -1377,10 +1478,60 @@
    "lang": "ar"
   },
   {
+   "title": "23 - You are now ready to enter the sales course | دورة شرح لارافيل 9 كاملا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UVzg4Z0Z1bHZXcFVadTFQM2w1b1BwM2F4Y29DX0c0N0Z5eTJCZFliTFFXNGlFWjJ1YUVqX3dVNDRWNU5RUGVRWm02d0VsWHhKblA1alR3?oc=5",
+   "date": "2022-10-20T00:20:24+00:00",
+   "summary": "23 - You are now ready to enter the sales course | دورة شرح لارافيل 9 كاملا YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "4 - Route in laravel 9 | مقدمة لدورة شرح لارافيل 9 كاملا | level 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TSWRDbXdHU2E3X0J6Q09tMGR1b1JGdHVQY0tzWjZlSmJaWGdodTBkb096eXAwdkJaQVNMQWNvU3RWc2ZlaGFCTUNSdVpCQ2RoTWloYjhR?oc=5",
+   "date": "2022-09-26T05:20:38+00:00",
+   "summary": "4 - Route in laravel 9 | مقدمة لدورة شرح لارافيل 9 كاملا | level 1 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الفيديو الكامل مشروع المكتبة html css php sql شرح تصميم وبرمجة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45UlJXcDYyOEVfQUZiMFplVkpHb0dacWRFcVR4eEZyQTBuRTBLa1ZzTi13djNJUlBuR3NtNUpDTm44VjVWMW03cUdMUHFaSXVmME1rLXdR?oc=5",
    "date": "2022-09-08T03:21:47+00:00",
    "summary": "الفيديو الكامل مشروع المكتبة html css php sql شرح تصميم وبرمجة YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Level 01 – PHP Laravel ERP | النظام الأساسي : المبيعات والمشتريات والمخازن والحسابات",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CbG9SMkI5emk4SHBCMDlJODRhWnNqaWJZTFdscFZUY1FzM1JzNmFncnloZXgzNXpmcWYwSU1QekFIYzA4cnBpbUsyR2FYa3BWbDM1bW43ZENyZmZMTDctZ25qeWJoT1dyTTRoVmhhR2U0QmZIdzd6a3FZZUQ?oc=5",
+   "date": "2022-08-30T06:35:05+00:00",
+   "summary": "Level 01 – PHP Laravel ERP | النظام الأساسي : المبيعات والمشتريات والمخازن والحسابات YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "5 - تحميل لوحة التحكم - مشروع لارافيل كامل php laravel sales pos project #laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJV3hxaXYwamY5VHY2Tk1kWWlHMnRQcm92aFdDVi1wSmJMT3ltbF9VWmdtVDB1dm4tRE5mWTZOZ3o2UDhBMDlGbUp1NFFVekhpeDBsVTVR?oc=5",
+   "date": "2022-08-26T19:57:32+00:00",
+   "summary": "5 - تحميل لوحة التحكم - مشروع لارافيل كامل php laravel sales pos project #laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "1 - مقدمة دورة المبيعات والمخازن والحسابات لارافيل | مشروع لارافيل كامل PHP Laravel ERP #laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QWjZleVpmTXJRTi1rZURUUXVoY3RmWWltSmtDZ2t0WWo4MjBWSG40WktjVllPYTJZbGRmd1poS0xaU2MweDl4T0ZKVGpCNHp1MWVfTlNn?oc=5",
+   "date": "2022-08-25T13:37:28+00:00",
+   "summary": "1 - مقدمة دورة المبيعات والمخازن والحسابات لارافيل | مشروع لارافيل كامل PHP Laravel ERP #laravel YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1427,6 +1578,16 @@
    "lang": "ar"
   },
   {
+   "title": "تعليم لارافيل خطوة بخطوة من الصفر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VOXBjS25FRU1rWHlGeFdEWmpweV9BT0F4ZDVsRmt6V3k3ZGIxamJYVVJRaHN6VjZJRmFmOHVrR2xTWnlkYUZsVEZpeXNNN3VsNHJQWHFR?oc=5",
+   "date": "2022-07-27T20:15:12+00:00",
+   "summary": "تعليم لارافيل خطوة بخطوة من الصفر YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الجزء (الاول)تصميم وبرمجة موقع الكتروني نظام حجوزات php.html.css",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FOXdsUlFJdHRYWUFxU240VkZEUFhSZGNHTXRleVBLSXFTdkJ6NjdWVlNjVGczbE1jQkVKd1RDeVdobXdsaDdNazVRU3piM0ZMUHNfTUVB?oc=5",
    "date": "2022-07-19T15:15:12+00:00",
@@ -1441,6 +1602,66 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhVjlKMnhxY2F2OTRLclpZTlFTNXpiWjgxYV9xWWcyZkd6S1RrZmVlUDhyTk5jNTdpbVJ0bHRMb1JOTEFaMndUWXpqX2I3NWExOXI3c193?oc=5",
    "date": "2022-07-09T11:09:27+00:00",
    "summary": "تحويل لغات البرمجة الى تطبيقات الاندرويد و تطبيقات سطح المكتب حصري !! php html css js sql android YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس تعلم laravel api في ساعتين (خد الزبدة وكمل عليها) Full course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzNnFXcU5jZXFrUno2cTQ1N3ctZWhmRXF2XzVxY0hZUUZfamdtaHpuOV9pS3RiN2RXTUNYVmQ1MjNiUGZGdFozYnBHWE43Z1pWWmRiUVpR?oc=5",
+   "date": "2022-06-05T00:22:13+00:00",
+   "summary": "كورس تعلم laravel api في ساعتين (خد الزبدة وكمل عليها) Full course YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "لارافيل Websocket المفيد في كلمتين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzdlJHLWxCVFFOY3YyQm02bHMwb0NHOTFPb2FrNG5vVGxaQnpkSURiYmdSdjhMYTQ2Q0hzT0hxbjVOdm9oYTd3clNJd0tyaGVHbFh4Vzln?oc=5",
+   "date": "2022-05-30T18:47:48+00:00",
+   "summary": "لارافيل Websocket المفيد في كلمتين YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#1 laravel 9 introduction to the course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KTUJHSjRqSjlseFduSE9XQXVaSjJpRkI2ODYxM2YzTTRqU0VPUzRQa0h5azRJSEMzWUFKZUN2YnNwbGpjQzZRSENGRThyUWFCOXQzcFpB?oc=5",
+   "date": "2022-05-28T19:07:44+00:00",
+   "summary": "#1 laravel 9 introduction to the course YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "1 - App with Laravel API and React JS",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UVRCdWNQUzloT29ZalBLMWpQbXBuTnBOYUlBQUdBNDEwaXFlWndvMWpfZGpFRF9faEo2X1JKZGNmdEVSek5tb0Fzd2U4RU02dUkyVlVB?oc=5",
+   "date": "2022-05-16T01:21:51+00:00",
+   "summary": "1 - App with Laravel API and React JS YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "4 - Laravel | Payment -credit card, visa, mastercard",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91eFp5RFlsM2szYWwzcjA3VmJCMUhaYmItNUVVaVRMa1ZTYlc4bjJzSC0yRVZndEZITk81Zi0tRUFJajk4M3YxYXplMl9YX0pLLXZ3SE9R?oc=5",
+   "date": "2022-05-14T23:59:58+00:00",
+   "summary": "4 - Laravel | Payment -credit card, visa, mastercard YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Repository Pattern in PHP Laravel شرح مع مثال",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81OERQVGlaaHpFX3RFYm5LYkFkZDRFYm90cWs4bzNfS0haeUtMQW85MFJrb0hxM01TSDAwNmI0QXZSLWpwQVVmSjZVbWxYSjhISDI1UW53?oc=5",
+   "date": "2022-05-06T23:01:01+00:00",
+   "summary": "Repository Pattern in PHP Laravel شرح مع مثال YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1471,6 +1692,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1OXJaNkFEZlJiRU9idlpEZ0R3MUVKVDVwNk5oOXhkcXV5VXhFSnpUXzZjYTFJS0hhbFpGZW1pNXRzcVcxU2lfZGh6MUd1SjRKWGw2VVdB?oc=5",
    "date": "2022-04-23T01:44:02+00:00",
    "summary": "ربط الـ PHP مع MySQL بسهولة وعمل صفحة تسجيل مستخدم #2 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "05 تجهيز واجهات لوحة التحكم وتقسيم الملفات creating dashboard files and translate in Laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tNTl2WlZ3b3R2dXlyaFRBNzlkb1k1cmgwWGhnTkdhS1hEQmY0TG9jTDNqUGdYN1FXQmJaSE5icHB5WHUyY2RFaUxOZWRCR0dpaEF0Rkl3?oc=5",
+   "date": "2022-04-21T22:44:30+00:00",
+   "summary": "05 تجهيز واجهات لوحة التحكم وتقسيم الملفات creating dashboard files and translate in Laravel YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1537,6 +1768,16 @@
    "lang": "ar"
   },
   {
+   "title": "الدرس الاول || تثبيت لارفيل How to download laravel framwork",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PZ3Y5U0ZBaWNrNUZTY0F4QVk1MXpla2RQTWh5SFZIOU9NNW1qbUhFNHB5c1NsTG9yX1llMTBzXy1vdTZFbHFxT1o2MGNnQ1ZVdlhEREZR?oc=5",
+   "date": "2022-02-03T13:44:40+00:00",
+   "summary": "الدرس الاول || تثبيت لارفيل How to download laravel framwork YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الدرس الأول - تنزيل لوحة التحكم لموقع وأنواع لوحات التحكم Html + CSS Bootstrap + Laravel 8 php",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbjgxNzg3RXNwZDJCVmJmSjNZQVZVM0s1MnN1bnF3Qmw3ZnJQM3lRWGJOcTNjcTcxSDFKaFUwSkVQQUo0N01fUmliOS1BRDVOYWhpcVB3?oc=5",
    "date": "2022-01-19T17:27:58+00:00",
@@ -1585,6 +1826,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Payment Gateways - Laravel Paddle Cashier Arabic - Intro - 01",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GNFdGdzdpVUxqcVNBdVc1eVVER3BidFNUVXZjd2ZLcHBIeXBpaDJoN0puZHZ0UFhrSS03ZGdyUE5uM1pKV0VIdDZGQVZ0MXdxUkEwNFpn?oc=5",
+   "date": "2021-09-01T04:38:45+00:00",
+   "summary": "Payment Gateways - Laravel Paddle Cashier Arabic - Intro - 01 YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "كورس تعلم اساسيات لغة البرمجة PHP 💯 البرمجة في الجزائر",
@@ -1667,6 +1918,16 @@
    "lang": "ar"
   },
   {
+   "title": "#50 برمجة ملف تعديل محتويات الموقع القابلة للتعديل php برمجة موقع شخصي متكامل بلغة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYWJwbmxta3lJMWJmWWc4dHNCVFdHamxvS1lGQXVZdEV2SlhZRVFCOG5aODFNcDJtWTkwQXh0emNuTVcydTRIYW1PWGtCbFljcXBtOW9B?oc=5",
+   "date": "2021-02-05T22:09:18+00:00",
+   "summary": "#50 برمجة ملف تعديل محتويات الموقع القابلة للتعديل php برمجة موقع شخصي متكامل بلغة YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "#71 اضافة التعديلات لتشغيل الموقع بالكامل php برمجة موقع شخصي متكامل بلغة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpaEdmMmhCZkpZa2s3Rl9nRjdKVjFEcDdSUjdKb09pVFR5YzY3YnpXOXYzcFVRbXRCakM1NEVoaDdBZWlVaTRoeHRSRkNGS2t0ZjktNFFn?oc=5",
    "date": "2021-02-05T10:34:23+00:00",
@@ -1707,284 +1968,14 @@
    "lang": "ar"
   },
   {
-   "title": "كورس PHP + SQL كامل : التعامل مع قواعد البيانات بكل سهولة وابسط شرح في فيديو واحد",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DYjBOU3BuQ2g4eTBzWmxZcENsdWh3b0oyV0FPZUhlM2FFYzRLMVBCRU0zaGp4ci03TWp6Y3VYQi1xbXBjWWU4c1Q3NGdTVWlFVlNRYVF3?oc=5",
-   "date": "2021-01-11T14:03:03+00:00",
-   "summary": "كورس PHP + SQL كامل : التعامل مع قواعد البيانات بكل سهولة وابسط شرح في فيديو واحد YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم php خطوة بخطوة للاحتراف الدرس 37 تشفير البيانات من نوع md5",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5saGtDMUNaMGVBUGxQOC1RdlBTRlp3UW4yU180TktKek0tYTk4TGgwbjhxT3lmSXd1ZEZHdm9INlpXaVFMeDZ5b09YME5xVlFLYWZ3Z0l3?oc=5",
-   "date": "2020-12-28T11:43:38+00:00",
-   "summary": "تعلم php خطوة بخطوة للاحتراف الدرس 37 تشفير البيانات من نوع md5 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم php خطوة بخطوة للاحتراف الدرس 32 ارسال البيانات الى السيرفر عبر خاصية get , post",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbmN3NTdpcXEyTXFwOHZMTzI2YVBnQmFPY3RMQ1QwdlRUbHBYbW1NXzctaWJIQnQtektpWDkzWUpESnJRdEo0UDNwX0ptLUxKN3Z1QTZB?oc=5",
-   "date": "2020-12-28T11:33:40+00:00",
-   "summary": "تعلم php خطوة بخطوة للاحتراف الدرس 32 ارسال البيانات الى السيرفر عبر خاصية get , post YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعليم لغة برمجة بي اتش بي خطوة بخطوة - دورة كاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SQ2F5dndfQTlvNHNsTGg3T0pJLW4zSkZqVjNQbFFuV2hfbG9rc3oyVkM0cFhBRkYzcEFFLXoxTmNublk3cV80TGRhb3BEdUgtMTc1UHlB?oc=5",
-   "date": "2020-12-27T19:41:57+00:00",
-   "summary": "تعليم لغة برمجة بي اتش بي خطوة بخطوة - دورة كاملة YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم php دورة كاملة للمبتدئين | Learn php full course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iMmpNZU4zWWdicWF0S0gtMmFRaGtleHlxWnNGX0pzUGZmXzdwWUlGVko1cXEyWlZtaXRoWF9pVzNlSlF0NjVKTTRGejFhdUMxdjVWaGxB?oc=5",
-   "date": "2020-12-12T11:29:54+00:00",
-   "summary": "تعلم php دورة كاملة للمبتدئين | Learn php full course YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح PHP OOP | شرح ما هو class و object و constructor | دورة تعلم بي إتش بي كاملة - الدرس 61",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZQXRwYWdOa2dMcVhTNTl0bmVaTG9xeVdvb28wUkFpbzNfUlZEdEN2enh6a2VTQVdYNVhQYXEzR0MxS3U3MWdZRGJuMDhBd0RyX25wSlVn?oc=5",
-   "date": "2020-12-10T11:00:29+00:00",
-   "summary": "شرح PHP OOP | شرح ما هو class و object و constructor | دورة تعلم بي إتش بي كاملة - الدرس 61 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم php خطوة بخطوة للاحتراف الدرس 2 انشاء ملف وتشغيله | create file & open",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCa3NQYVdEa0l3Z1V6SF9GMjFaWnF3c0VnMHlhWHc4VmFQTzZGSURFMVhEdEVNX2dPUWI3QVFIcE0xZGVEWkE2V2FzSXVBYzBLZHB5c3R3?oc=5",
-   "date": "2020-12-10T09:15:21+00:00",
-   "summary": "تعلم php خطوة بخطوة للاحتراف الدرس 2 انشاء ملف وتشغيله | create file & open YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم php خطوة بخطوة للاحتراف الدرس 1 المقدمة ماذا ستتعلم في هذا الكورس والتعرف على اللغة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KelBPY0ZOajFyR2NyLTJNQk9EM0t2TlQwYVdpT19LSFFyM2licUZRWDdGMDdOU2RxSWpFUGFHUWhVZDZNRHJwQ3cyazhUa0pHb1oyWmFn?oc=5",
-   "date": "2020-12-07T16:25:59+00:00",
-   "summary": "تعلم php خطوة بخطوة للاحتراف الدرس 1 المقدمة ماذا ستتعلم في هذا الكورس والتعرف على اللغة YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة نشر موقع مبرمج ب PHP و MySQL على استضافة ودومين مجاني | دورة تعلم PHP MySQL كاملة [38 من 45]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jc190M1dXRzBPOGNsSmhpX3hWMktWVmNiNHJwa0xYT3dCbkZHLXRiaktEMmVFdlpOR0xneFlpcmxlQ0lrRUhPN2pEQWlRS2ZLZ1FrUnB3?oc=5",
-   "date": "2020-12-03T18:56:13+00:00",
-   "summary": "طريقة نشر موقع مبرمج ب PHP و MySQL على استضافة ودومين مجاني | دورة تعلم PHP MySQL كاملة [38 من 45] YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "خمسة برمجة - ما هي لغة ال Php - استخدامتها - مميزاتها - عيوبها + مصادر تعليمية @GeekHood",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yb3YyX1JaMUtVNmVCR3ZRN0N5ODZqX1dmVUZ2NGN3TWp5d0xzVy1vX2FoTUNHckVOUF9TRXBTRWhyVG5fcldCMVZwRDlEeG4ycEQ0bVFn?oc=5",
-   "date": "2020-11-18T18:15:25+00:00",
-   "summary": "خمسة برمجة - ما هي لغة ال Php - استخدامتها - مميزاتها - عيوبها + مصادر تعليمية @GeekHood YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة إنشاء نظام تسجيل دخول مستخدم | دورة تعلم PHP MySQL كاملة [21 من 45]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mU2ZVaV9GamY5MzlMTDhMQUlzOVRWWGEyMXpGcVVvZTM1TmNFTml3TkR1U1o5RVN3blNQdG9KSHk5RUxRa1luZmhtRGxpdmM1eDFrTk5n?oc=5",
-   "date": "2020-10-21T14:58:49+00:00",
-   "summary": "طريقة إنشاء نظام تسجيل دخول مستخدم | دورة تعلم PHP MySQL كاملة [21 من 45] YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة عرض ملفات المخزنة بال database في موقعك | دورة تعلم PHP MySQL كاملة [14 من 45]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ed01vaVZBTVR6dVhyZXFvbDlpd0tJMzFld2QzMzRCS29GaV90T296M0ZIMDcwUW5pUTNIR1RDM214Ulo3ZzRIcjJhY2ZmaWNfZmV2dFBn?oc=5",
-   "date": "2020-09-17T05:47:35+00:00",
-   "summary": "طريقة عرض ملفات المخزنة بال database في موقعك | دورة تعلم PHP MySQL كاملة [14 من 45] YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة إنشاء إتصال ب قاعدة البيانات MySQL مع PHP على سيرفر محلي | دورة تعلم PHP MySQL كاملة [3 من 45]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16ZDU2N3N5V19vRi1zUzQycWpFaWxwb3JCaEEyd1dNYkcydDhLT2hnS1JzSDE2d3dYUDAzaGM0Mng0SWxpZ29IbWRYVGtIa0hzdVpMQk93?oc=5",
-   "date": "2020-09-03T06:23:20+00:00",
-   "summary": "طريقة إنشاء إتصال ب قاعدة البيانات MySQL مع PHP على سيرفر محلي | دورة تعلم PHP MySQL كاملة [3 من 45] YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة PHP | تعلم PHP عن طريق بناء موقع (مدونة) | المقدمة 1#",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KS1p3RjRkZDg5Tm9EVmxrTXRkU2h2aFRfV21LMEtDSlZnbDBlajhKNnV2NlRlck1HdEZSWHZua2g5M3R2aHk3b2hoQzIxd1BEM2NTc0xB?oc=5",
-   "date": "2020-08-09T14:55:28+00:00",
-   "summary": "دورة PHP | تعلم PHP عن طريق بناء موقع (مدونة) | المقدمة 1# YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح composer و كيفية استخدامها مع php | دورة تعلم بي إتش بي كاملة - الدرس 48",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBleUpsdXBaWVBBbm5mS2JqY1JRLVp2SE9vTW1Jd2Y0T09zUU1rMlctaW9peDVxWUdtWFBxZVRBN2FXajJEQ1BvZzM4Z181MkF5eUJyZHFR?oc=5",
-   "date": "2020-08-07T13:43:46+00:00",
-   "summary": "شرح composer و كيفية استخدامها مع php | دورة تعلم بي إتش بي كاملة - الدرس 48 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية إنشاء صفحة تسجيل دخول - Login System PHP | دورة تعلم بي إتش بي كاملة - الدرس 36",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RNFVkR19CdndSNWNCaG9VbWFlZERwajVEMnMybHp1bmpiQjhLbngyQ0tNTnN1VnpRdVdmRnBhNmZ4VXliNXBtalg5YzJaZ3MxbEtoRmdR?oc=5",
-   "date": "2020-07-22T09:41:42+00:00",
-   "summary": "كيفية إنشاء صفحة تسجيل دخول - Login System PHP | دورة تعلم بي إتش بي كاملة - الدرس 36 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح خطوات انشاء موقع ويب php+mysql+html+css باستخدام برنامج Dreamweaver من البداية حتي النهاية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11a21FTEloSWVGZF96WkhiZTJpQzJoengyX09mWThOSVg3R1g1b1hjRG5jc2ZaeU5tRGNoNFJHTnJZeDhadEUyY1JWZTNqcEdUT1htR1hn?oc=5",
-   "date": "2020-04-07T00:04:27+00:00",
-   "summary": "شرح خطوات انشاء موقع ويب php+mysql+html+css باستخدام برنامج Dreamweaver من البداية حتي النهاية YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة برمجة موقع PHP Laravel - الدرس 4 - تجهيز لارافيل في السيرفر الداخلي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSW5oc2VnTnZhb3p0eGltRWVkNE0wVl8zSmJqZnlpMEwyeVdhQUgzNHVDMnNpV3NWcmlVeFZ5MFY2ZzU4OFFKc1IzMzBEQUJFSENCYUNn?oc=5",
-   "date": "2020-03-27T17:46:11+00:00",
-   "summary": "دورة برمجة موقع PHP Laravel - الدرس 4 - تجهيز لارافيل في السيرفر الداخلي YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة برمجة موقع PHP Laravel - الدرس 1 - مقدمة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTcUdNdGJDa21wVDJabEtGXzJDUHZzQmlYZXNGbS1wX1ZIcXZpeFlUaUFJTUtIVGJLVGFfeWl2djFSRXdId0RYQWViWnlaVV9hOUhfZ1hB?oc=5",
-   "date": "2020-03-26T16:54:58+00:00",
-   "summary": "دورة برمجة موقع PHP Laravel - الدرس 1 - مقدمة YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "مشاريع PHP للمبتدئين & مراجعة للدروس السابقة | دورة تعلم بي إتش بي كاملة - الدرس 20",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93RmVzeWxCUXNFQTd0QjBUVl8tM3VZaF9iWFlkYkdWSmVJWWRaS0ltN0g2QjNEeDVONnU5V1lHQ2xWOFV1NHZtN0Q3X1ptRl9sNzBqRUhn?oc=5",
-   "date": "2020-03-06T08:47:10+00:00",
-   "summary": "مشاريع PHP للمبتدئين & مراجعة للدروس السابقة | دورة تعلم بي إتش بي كاملة - الدرس 20 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح الفرق بين php و html & طريقة إنشاء و تشغيل ملف بي إتش بي | دورة تعلم بي إتش بي كاملة - الدرس 2",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ZmxvMUE1dzJBbjZpVzRWRXpvdG01LWJZbVZUbWJXbHY0cktXWWxLUEZyV3FlOTZmVXBramdkcV9ycUl1STBJQ2hTZFBVN0k5aVNDam1R?oc=5",
-   "date": "2020-02-04T14:58:14+00:00",
-   "summary": "شرح الفرق بين php و html & طريقة إنشاء و تشغيل ملف بي إتش بي | دورة تعلم بي إتش بي كاملة - الدرس 2 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كمبادرة لمساعدة خريجين البرمجة بمشاريع حقيقية..\"PHP Laravel\" تحول حلم الخريج لواقع",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzX1RmNmN3OWh4RDNiZUxXamhSVFFYdjl1NGRpdjZZcWNNaVY5TFRmSUNrWHM0T0hNV0hlelQ0Szd3ZUZrcHdvRVJPV1ZPRUc4UnhGYkdpbDhCWFBUYVprWkY0dWhXelNTMmVzaFJGa3hydw?oc=5",
-   "date": "2019-09-15T07:00:00+00:00",
-   "summary": "كمبادرة لمساعدة خريجين البرمجة بمشاريع حقيقية..\"PHP Laravel\" تحول حلم الخريج لواقع alwatanvoice.com",
-   "tech": "php",
-   "sourceId": "ar-news",
-   "source": "alwatanvoice.com",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة تصميم موقع كامل من الصفر html css javascript php mysql",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13V0l1SUZuNERvM0I1RnBtM0NxZEdjVjMxdWN3cEVzbXZ0SmNmcnV3dHRlT096OXhfTG9rTUdqVnVLN3NsQ3I4S1lNOXdzMlFKQ2g0akNHdkFNQW5kNzhkeHQxUmc1OEVxSzA4YWJMMnBCUTgtcmhMU3dBbGc?oc=5",
-   "date": "2018-11-29T22:26:35+00:00",
-   "summary": "دورة تصميم موقع كامل من الصفر html css javascript php mysql YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "إطلاق الإصدار السابع من لغة بي تش بي PHP",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeXZzazVfM2lFVHhyWHRNczllUGViT1R2V3k2a2FPZ3BVeXZqRVpzbEUxek5kOU9SRkxCeVFva190bTE0TGR6cUpFUXJPc0g5OVpNX2lfbTVpcndadGdfeFByNXc5MmhCMjNpT3FPUEVLeUhxTEgxbkl5QjVraS11RFphNTAyWVlaMWtlOHBQQWxLanE4ZERxYmJvTFd4a245QjJFVTJPQkhFUmM1ZHVGdGhKNHdHTFY1ZVVKQk16SjZkT3lBbjZjVDF5NWRJSHVFMWhrY1ZET0ZRb1oyenNyUl9vZVVwQjlxOUJsc3c4MjNSYjg2eWp3QzhESjNIYnQ5b2tzaWVvTnZtb09rOGxrRlQyYjBrZV94UkZsQTRZNGMxOFNEbGw1ekpPTGNUdThVVlNKQ3pQcHBKUFJ6c1E?oc=5",
-   "date": "2015-12-11T08:00:00+00:00",
-   "summary": "إطلاق الإصدار السابع من لغة بي تش بي PHP البوابة التقنية",
-   "tech": "php",
-   "sourceId": "ar-news",
-   "source": "البوابة التقنية",
-   "lang": "ar"
-  },
-  {
-   "title": "[ Learn PHP 5 In Arabic ] #01 - Introduction And What's PHP",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wS3plSUxaTTIxM1kwSk5JRWY4dzdPWkc5WWtzVUtVSDJTdkd2YWlNVmdIMVJXQkpjNHc0RzBQcmJWekM5MHc4SndGcHprYXBNUEctdWZ3?oc=5",
-   "date": "2015-04-14T06:37:30+00:00",
-   "summary": "[ Learn PHP 5 In Arabic ] #01 - Introduction And What's PHP YouTube",
+   "title": "05# Spatie/Laravel-Translatable",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12UW9lTlR4SmNOR2xDX1pPUTJvVFhaMDlFSWpSa0FWdzFqOVctZjhOdzNzUXdlaXU4YmdjU05VeDNuVWwxT2NJbjRSdlhJNFNDX2dTc3Fn?oc=5",
+   "date": "2021-01-21T08:09:51+00:00",
+   "summary": "05# Spatie/Laravel-Translatable YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
-  },
-  {
-   "title": "شرح خطوة بخطوة انشاء موقع بسيط بلغة php - الدرس 1 -",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yN09feDFLRWl5UjAxT3lCMExRcVFkZV9KLTgzMjNEVnpMZG5zZWVTYjZWZUZ4dWM3c19qOVE1TnFxNVQzRXc0a3NVRnpSYXJycTI3Y1Fn?oc=5",
-   "date": "2014-11-11T00:02:15+00:00",
-   "summary": "شرح خطوة بخطوة انشاء موقع بسيط بلغة php - الدرس 1 - YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#11 دورة برمجة المواقع - PHP - ترتيب المصفوفة Array",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FamFITFppS1l3YlItLXZaNXZidy1PMG1pd0F2Z2ppbnFMWlBqT3BINjQ3Wk4tSlYxWHVRcU9lR1BPcVhCYnVqSGU3ckJFN2xQbW1MQWh3?oc=5",
-   "date": "2014-04-27T14:18:19+00:00",
-   "summary": "#11 دورة برمجة المواقع - PHP - ترتيب المصفوفة Array YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#5 دورة برمجة المواقع - PHP - الجمل الشرطية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43akw2amd5Q09iNU1iYUFmdEJvQ1NzSVMxek0yWjRBWmxXUFZEQm1yU1VZTWhJR29WcVEwMzdrbm85Ym01OWlfOXJpY0ZMNFhXOEFQMnl3?oc=5",
-   "date": "2014-04-04T20:31:41+00:00",
-   "summary": "#5 دورة برمجة المواقع - PHP - الجمل الشرطية YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
   }
  ]
 }
