@@ -805,10 +805,14 @@ function visible(){
   const words = queryWords(state.q);
   const stage = STAGES.find(s => s.id === prefs.stage);
 
+  /* خانة البحث مستقلة تماماً عن المسارات: ما دام هناك نص مكتوب فالبحث
+     يشمل كل المحتوى المحمّل مهما كان مساره. */
+  const searching = words.length > 0;
+
   let list = state.items.filter(i => {
     // بعد بحث يوتيوب تُعرض نتائجه وحدها حتى يُلغى البحث
     if (state.ytQuery) { if (i.ytq !== state.ytQuery) return false; }
-    else if (!prefs.techs.includes(i.tech)) return false;
+    else if (!searching && !prefs.techs.includes(i.tech)) return false;
     if (prefs.lang === 'ar' && i.lang !== 'ar') return false;
     if (prefs.lang === 'en' && i.lang !== 'en') return false;
     if (prefs.lang === 'translated' && !i.translated) return false;
@@ -1014,6 +1018,9 @@ function renderActiveFilters(){
   wrap.textContent = '';
   const pills = [];
   if (state.ytQuery) pills.push([`▶ نتائج يوتيوب: ${state.ytQuery}`, () => { state.ytQuery = ''; }]);
+  else if (state.q.trim()) pills.push([`🔎 البحث يشمل كل المسارات`, () => {
+    state.q = ''; $('#q').value = ''; $('#btn-clear').hidden = true; $('#btn-yt').hidden = true;
+  }]);
   if (prefs.level !== 'all')  pills.push([LEVEL_NAME[prefs.level], () => prefs.level = 'all']);
   if (prefs.kind !== 'all')   pills.push([KIND_NAME[prefs.kind],   () => prefs.kind = 'all']);
   if (prefs.source !== 'all') pills.push(['مصدر محدّد',            () => prefs.source = 'all']);
