@@ -14,7 +14,7 @@ const STALE_MS  = 6 * 60 * 60 * 1000;   // يعاد الجلب إذا مضت ٦ 
 const PAGE_SIZE = 30;
 const MAX_STORE = 800;
 
-const CAPS = { blogs:50, devto:45, fcc:20, yt:25, 'yt-search':40, medium:20, podcast:15 };
+const CAPS = { blogs:50, devto:45, fcc:20, yt:25, 'yt-search':120, medium:20, podcast:15 };
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
@@ -595,11 +595,17 @@ function applyYtResults(q, found){
     setStatus(`لا فيديوهات مطابقة لـ «${q}»`);
     return;
   }
+  /* البحث نيّة صريحة من المستخدم: فلتر لغة المحتوى القديم كان يخفي نتائجه
+     (بحث إنجليزي مع فلتر «عربي» يعرض 5 من 93) فيبدو البحث معطّلاً. */
+  if (prefs.lang !== 'all'){ prefs.lang = 'all'; savePrefs(); syncControls(); }
+
   state.items = merge(state.items, found);
   state.ytQuery = q;
   state.shown = PAGE_SIZE;
   render();
-  setStatus(`نتائج يوتيوب لـ «${q}»: ${found.length}`);
+  // العدد المعروض فعلاً لا العدد المجلوب، وإلا بدا الرقم مخالفاً للقائمة
+  const shown = state.items.filter(i => i.ytq === q).length;
+  setStatus(`نتائج يوتيوب لـ «${q}»: ${shown}`);
 }
 
 /** يُستدعى تلقائياً أثناء الكتابة، وعند الضغط على الزر أو Enter. */
