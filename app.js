@@ -850,12 +850,14 @@ $('#btn-clear').onclick = () => {
 
 /* على الجوال لوحة سفلية حاجبة، وعلى سطح المكتب لوحة منسدلة غير حاجبة
    حتى لا تختفي النتائج خلفها. */
-const isWide = () => matchMedia('(min-width: 768px)').matches;
+/* اللوحة الجانبية غير الحاجبة تحتاج شاشة تتسع لها وللنتائج معاً؛ دون ذلك
+   تُفتح لوحة كاملة حاجبة (سلوك الجوال والأجهزة اللوحية). */
+const isWide = () => matchMedia('(min-width: 1100px)').matches;
 /** يفسح مكاناً للّوحة على سطح المكتب بدل أن تغطي النتائج.
     تُستخدم الخاصية الفيزيائية لا المنطقية لأن بعض المحركات لا تطبّق
     padding-inline-end المضبوطة برمجياً. */
 function setPanelOffset(on){
-  const px = (on && isWide()) ? '400px' : '';
+  const px = (on && isWide()) ? '432px' : '';   // عرض اللوحة 420 + فاصل
   const side = getComputedStyle(document.documentElement).direction === 'rtl'
     ? 'paddingLeft' : 'paddingRight';
   for (const sel of ['.topbar', 'main', '.foot']){
@@ -864,38 +866,32 @@ function setPanelOffset(on){
   }
 }
 
-/** يضع اللوحة أسفل الشريط العلوي مهما كان ارتفاعه (يتغيّر بعدد صفوف الأزرار). */
-function placePanel(dlg){
-  if (!isWide()){ dlg.style.top = ''; dlg.style.maxHeight = ''; return; }
-  const bar = document.querySelector('.topbar').getBoundingClientRect().height;
-  dlg.style.top = `${Math.round(bar) + 8}px`;
-  dlg.style.maxHeight = `${Math.max(240, Math.round(innerHeight - bar - 24))}px`;
-}
+const closeAllSheets = () => {
+  for (const d of document.querySelectorAll('dialog.sheet[open]')) d.close();
+};
 
 function openSheet(dlg){
-  for (const other of document.querySelectorAll('dialog.sheet[open]')) if (other !== dlg) other.close();
-  if (dlg.open) { dlg.close(); return; }
+  const wasOpen = dlg.open;
+  closeAllSheets();                 // لوحة واحدة فقط في كل وقت
+  if (wasOpen) { setPanelOffset(false); return; }
   isWide() ? dlg.show() : dlg.showModal();
-  // الإزاحة أولاً: تضييق الشريط قد يجعل أزراره تلتف فيزيد ارتفاعه،
-  // والقياس قبلها يضع اللوحة تحت ارتفاع قديم فيغطيها الشريط.
   setPanelOffset(true);
-  void document.querySelector('.topbar').offsetHeight;   // يفرض إعادة حساب التخطيط فوراً
-  placePanel(dlg);
 }
 
 /* مراقبة سمة open بدل حدث close: بعض المحركات لا تُطلق close للّوحة غير
    الحاجبة، فتبقى الإزاحة عالقة عند الإغلاق بـ Esc أو بالنقر خارجها. */
 const sheetWatcher = new MutationObserver(() => {
-  setPanelOffset(!!document.querySelector('dialog.sheet[open]'));
+  const open = document.querySelectorAll('dialog.sheet[open]');
+  // ضمان أخير: لو فُتحت لوحتان معاً لأي سبب، تُغلق الأقدم
+  for (let i = 0; i < open.length - 1; i++) open[i].close();
+  setPanelOffset(open.length > 0);
 });
 for (const dlg of document.querySelectorAll('dialog.sheet')){
   sheetWatcher.observe(dlg, { attributes: true, attributeFilter: ['open'] });
 }
+// تغيير المقاس أو دوران الجهاز: تُضبط الإزاحة أو تُلغى حسب العرض الجديد
 addEventListener('resize', () => {
-  const open = document.querySelector('dialog.sheet[open]');
-  if (!open) return;
-  placePanel(open);
-  setPanelOffset(true);
+  setPanelOffset(!!document.querySelector('dialog.sheet[open]'));
 });
 
 $('#btn-filters').onclick = () => { syncControls(); openSheet($('#filters-dlg')); };

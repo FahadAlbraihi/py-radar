@@ -173,36 +173,45 @@ dialog li{margin:6px 0}
 .hint{margin-top:12px;font-size:13px;color:var(--muted)}
 dialog form{margin-top:16px;text-align:end}
 
+/* لوحة جانبية بارتفاع الشاشة كاملاً، مثبّتة بحافة الشاشة.
+   لا تعتمد على ارتفاع الشريط العلوي ولا على أي حساب برمجي — وهذا ما كان
+   يجعلها تختفي خلف الشريط أو تتراكب مع لوحة أخرى. تعمل كما هي على
+   أندرويد و iOS وويندوز. */
 dialog.sheet{
-  position:fixed;inset:auto 0 0 0;margin:0 auto;   /* مثبّتة بأسفل الشاشة */
-  max-width:520px;width:100%;padding:0;
-  border-radius:20px 20px 0 0;max-height:85dvh;display:flex;flex-direction:column;
+  position:fixed; inset:0 auto 0 0; margin:0; padding:0;
+  width:min(420px, 100vw); max-width:none;
+  height:auto; max-height:none;
+  border:0; border-radius:0; z-index:60;
+  background:var(--card); box-shadow:var(--shadow);
 }
-dialog.sheet[open]{animation:up .22s ease-out}
-@keyframes up{from{transform:translateY(40px);opacity:.4}}
+/* الإظهار مربوط بحالة الفتح فقط. وضع display:flex على اللوحة مطلقاً يلغي
+   إخفاء المتصفح للنوافذ المغلقة، فتبقى اللوحة المغلقة فوق الصفحة تعترض
+   النقر على أزرار غيرها — وهذا ما كان يعطّل زر إغلاق «مكتبتي». */
+dialog.sheet:not([open]){display:none}
+dialog.sheet[open]{display:flex; flex-direction:column}
+/* شفافية فقط بلا إزاحة: الأنيميشن الذي يحرّك اللوحة يتركها خارج الشاشة
+   إن لم يكتمل (تبويب متجمّد أو تقليل الحركة)، فيصير زر الإغلاق بعيد المنال. */
+dialog.sheet[open]{animation:fadein .18s ease-out}
+@keyframes fadein{from{opacity:0}}
+@media (prefers-reduced-motion:reduce){
+  dialog.sheet[open]{animation:none}
+  .topbar,main,.foot{transition:none}
+}
 
-/* على الشاشات العريضة: لوحة منسدلة تحت الأزرار لا تغطي النتائج،
-   وتُفتح غير حاجبة (‏show بدل showModal) فتبقى القائمة مقروءة وقابلة للتمرير. */
-@media (min-width:768px){
-  dialog.sheet{
-    /* اللوحة غير الحاجبة ليست في الطبقة العليا، فيغطيها الشريط العلوي
-       (‏z-index:20) ما لم ترتفع فوقه. الموضع والارتفاع يضبطهما app.js
-       حسب ارتفاع الشريط الفعلي، لأنه يتغيّر بتغيّر عدد صفوف الأزرار. */
-    z-index:30;
-    inset:auto auto auto auto; top:60px; inset-inline-end:14px; margin:0;
-    width:370px; max-width:370px; max-height:calc(100vh - 84px);
-    border:1px solid var(--line); border-radius:16px;
-  }
-  dialog.sheet[open]{animation:pop .16s ease-out}
-  @keyframes pop{from{transform:translateY(-8px);opacity:.5}}
-  .sheet-foot{padding-bottom:14px}
-
-  /* الإزاحة نفسها تُضبط من app.js عند فتح اللوحة (setPanelOffset) */
+@media (min-width:1100px){
+  dialog.sheet{border-inline-end:1px solid var(--line)}
+  /* الإزاحة تُضبط من app.js عند الفتح (setPanelOffset) */
   .topbar,main,.foot{transition:padding .18s ease}
+}
+/* سطر بطول الشاشة كاملاً غير مريح للقراءة على ويندوز */
+@media (min-width:900px){
+  .list,.status,.active-filters{max-width:920px;margin-inline:auto}
 }
 .sheet-head{
   display:flex;align-items:center;justify-content:space-between;
-  padding:16px 18px 12px;border-bottom:1px solid var(--line);flex:0 0 auto;
+  padding:calc(14px + var(--safe-t)) 16px 12px;
+  border-bottom:1px solid var(--line);flex:0 0 auto;
+  background:var(--card);
 }
 .sheet-head h2{margin:0}
 /* هدف لمس 44 بكسل — المقاس السابق (27 بكسل) كان يُفوِّت النقرات */
@@ -221,7 +230,8 @@ dialog.sheet[open]{animation:up .22s ease-out}
 .note{font-size:12.5px;color:var(--muted);margin-top:8px;line-height:1.55}
 .sheet-foot{
   display:flex;align-items:center;justify-content:space-between;gap:10px;flex:0 0 auto;
-  padding:12px 18px calc(14px + var(--safe-b));border-top:1px solid var(--line);
+  padding:12px 16px calc(14px + var(--safe-b));border-top:1px solid var(--line);
+  background:var(--card);
 }
 #stage-select{
   width:100%;margin-top:10px;padding:10px 12px;font-size:16px;border-radius:12px;
