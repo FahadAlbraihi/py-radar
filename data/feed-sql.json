@@ -1,8 +1,30 @@
 {
- "generated": "2026-08-14T09:29:04.692825+00:00",
+ "generated": "2026-08-14T10:06:41.271972+00:00",
  "tech": "sql",
- "count": 165,
+ "count": 196,
  "items": [
+  {
+   "title": "wnl-icb-analytics/dbt-analytics",
+   "url": "https://github.com/wnl-icb-analytics/dbt-analytics",
+   "date": "2026-08-14T09:47:23+00:00",
+   "summary": "dbt project for WNL Analytics supporting commissioning and OLIDS data sources",
+   "points": 2,
+   "tech": "sql",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "how I learned why you shouldn't name an alias the same as the original column name",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vo2ofn/how_i_learned_why_you_shouldnt_name_an_alias_the/",
+   "date": "2026-08-14T09:40:05+00:00",
+   "summary": "submitted by /u/uncertainschrodinger [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
   {
    "title": "You loved my markdown previewer, so I’m giving it a major upgrade.",
    "url": "https://dev.to/codemaster_121482/you-loved-my-markdown-previewer-so-im-giving-it-a-major-upgrade-4jge",
@@ -34,6 +56,16 @@
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Aspiring data analyst",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vo05o7/aspiring_data_analyst/",
+   "date": "2026-08-14T07:09:20+00:00",
+   "summary": "Good day, I have been teaching myself SQL and now power Bi I do understand the basics. Currently I am working in a law firm and I decided to start using the firms data sets that show the matters we have and the stages that they are at. I ha",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -171,18 +203,6 @@
    "kind": "news"
   },
   {
-   "title": "wnl-icb-analytics/dbt-analytics",
-   "url": "https://github.com/wnl-icb-analytics/dbt-analytics",
-   "date": "2026-08-13T19:14:59+00:00",
-   "summary": "dbt project for WNL Analytics supporting commissioning and OLIDS data sources",
-   "points": 2,
-   "tech": "sql",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Detecting SQLite Full Table Scans in Node.js",
    "url": "https://dev.to/edysilva/detecting-sqlite-full-table-scans-in-nodejs-4kff",
    "date": "2026-08-13T18:13:32+00:00",
@@ -191,6 +211,16 @@
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
+   "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
+   "date": "2026-08-13T17:38:27+00:00",
+   "summary": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
+   "tech": "sql",
+   "sourceId": "fcc",
+   "source": "freeCodeCamp",
    "lang": "en"
   },
   {
@@ -351,6 +381,16 @@
    "lang": "en"
   },
   {
+   "title": "Struggling with LeetCode Easy after doing well on HackerRank Easy — should I move to intermediate SQL?",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vn2nhi/struggling_with_leetcode_easy_after_doing_well_on/",
+   "date": "2026-08-13T06:19:10+00:00",
+   "summary": "&#x200B; I wanna be straight about this because it’s getting frustrating 😭 I can comfortably solve HackerRank Easy-level SQL questions, but when I try LeetCode Easy, I struggle quite a bit. I’ve seen people say that HackerRank Easy ≠ LeetCo",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
    "title": "cahyadsn/wilayah",
    "url": "https://github.com/cahyadsn/wilayah",
    "date": "2026-08-13T04:33:48+00:00",
@@ -398,6 +438,26 @@
    "kind": "news"
   },
   {
+   "title": "why COUNT(*) and COUNT(o.id) aren't the same after a LEFT JOIN",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vmnf2h/why_count_and_countoid_arent_the_same_after_a/",
+   "date": "2026-08-12T19:04:55+00:00",
+   "summary": "say you have customers on the left and orders on the right. a LEFT JOIN keeps every customer, even if they have no matching order. for those rows, the columns from orders are NULL. that creates a small gotcha which i saw a few players falli",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "I built a SQL Visualizer & Lab",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vmn8t1/i_built_a_sql_visualizer_lab/",
+   "date": "2026-08-12T18:58:40+00:00",
+   "summary": "Last time my website was a prototype and didn t have a log in system to sabe progress, but now you can log in and save your progress + there is a dashboard as well Link- https://sql-visualizer-and-lab.vercel.app/ The idea is to make learnin",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
    "title": "rezwan-ahmed-l7/DBMS",
    "url": "https://github.com/rezwan-ahmed-l7/DBMS",
    "date": "2026-08-12T18:54:23+00:00",
@@ -408,6 +468,16 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "What should I build next? Looking for suggestions from developers/learners",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vmlbp7/what_should_i_build_next_looking_for_suggestions/",
+   "date": "2026-08-12T17:50:06+00:00",
+   "summary": "I ve been creating free, long-form programming courses and I m now deciding what to work on next. So far, I ve created: 🐬 Complete MySQL Course — ~16 hours Only 3 parts are remaining, and then the course will be completed. The course covers",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
   },
   {
    "title": "How do I get each unique value (not combination) to appear at least once?",
@@ -432,6 +502,16 @@
    "lang": "en"
   },
   {
+   "title": "I built a free tool that ranks your slowest queries and explains the execution plan in plain english",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vme4cp/i_built_a_free_tool_that_ranks_your_slowest/",
+   "date": "2026-08-12T13:26:33+00:00",
+   "summary": "submitted by /u/Master-Bass-1905 [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
    "title": "SQL CTEs: How to Build a Query in Steps You Can Check",
    "url": "https://dev.to/michaelnocito/sql-ctes-how-to-build-a-query-in-steps-you-can-check-3po",
    "date": "2026-08-12T13:00:13+00:00",
@@ -440,6 +520,46 @@
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why memorizing SQL syntax fails in interviews (and how I'm designing a tool to fix it)",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vmb60f/why_memorizing_sql_syntax_fails_in_interviews_and/",
+   "date": "2026-08-12T11:12:56+00:00",
+   "summary": "When practicing SQL, standard platforms usually give you a schema, a goal, and then reveal the output query when you get stuck. The problem is that in a real interview setting, interviewers are evaluating how you break down the problem—not ",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "Data Lemur Doubt",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vm9mip/data_lemur_doubt/",
+   "date": "2026-08-12T09:50:45+00:00",
+   "summary": "Hi i saw this site mentioned a lot so I started practicing from it now I am 1-2 weeks into it and saw lot of the questions require premium Is the free questions enough for interview prep or are there any sites to fill the gap needed submitt",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "Updated my 0-to-projects Repository.",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vlukt5/updated_my_0toprojects_repository/",
+   "date": "2026-08-11T21:26:44+00:00",
+   "summary": "It’s been a while! I originally shared this learning repo here a while back, and I’ve finally gotten around to updating it. Original post: https://www.reddit.com/r/letscodecommunity/s/572xioqMNC New addition: → SQL - Learn by Games 🎮 I’m tr",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "I made a short beginner-friendly lesson on SELECT, WHERE, LIKE & LIMIT",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vlpgm0/i_made_a_short_beginnerfriendly_lesson_on_select/",
+   "date": "2026-08-11T18:19:35+00:00",
+   "summary": "Hey everyone! I recently made a short SQL lesson for absolute beginners. I wanted to keep it practical rather than just explaining the syntax. In the video, I cover: - SELECT and selecting specific columns - AS and DISTINCT - WHERE and comp",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -454,6 +574,16 @@
    "lang": "en"
   },
   {
+   "title": "Scored 37% on my first SQL assessment — going back to basics, anyone else in the same boat?",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vlewsl/scored_37_on_my_first_sql_assessment_going_back/",
+   "date": "2026-08-11T11:33:48+00:00",
+   "summary": "submitted by /u/abhayverma2408 [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
    "title": "What SQL function would I use to locate specific words in a dataset?",
    "url": "https://stackoverflow.com/questions/79992081/what-sql-function-would-i-use-to-locate-specific-words-in-a-dataset",
    "date": "2026-08-11T00:17:17+00:00",
@@ -462,6 +592,16 @@
    "tech": "sql",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Built a zero-install browser SQL sandbox: real schemas, audio narration, live query execution - looking for practitioner feedback",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vl1x5w/built_a_zeroinstall_browser_sql_sandbox_real/",
+   "date": "2026-08-11T00:11:58+00:00",
+   "summary": "submitted by /u/Manoj_manodemy [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -484,6 +624,16 @@
    "tech": "sql",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Which type of SQL should I learn and master if I want to become a data analyst?",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vjqwt3/which_type_of_sql_should_i_learn_and_master_if_i/",
+   "date": "2026-08-09T14:12:10+00:00",
+   "summary": "After doing some research on google, I found out that there a lot of different types of sql (eg: mysql, postgresql, T-sql, etc). My question is, which type of sql should I learn and master if I want to become a data analyst? submitted by /u",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -511,6 +661,36 @@
    "kind": "news"
   },
   {
+   "title": "I ran out of cases in SQL Murder Mystery, so I built more",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vj6m2l/i_ran_out_of_cases_in_sql_murder_mystery_so_i/",
+   "date": "2026-08-08T20:45:54+00:00",
+   "summary": "I’ve been a web developer for a few years, and every once in a while I’d come back to SQL Murder Mystery as a fun way to brush up on SQL. My only problem was that once you solve it, that’s pretty much it. So I ended up building SQL Cold Cas",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "SQL",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vj44m5/sql/",
+   "date": "2026-08-08T19:01:03+00:00",
+   "summary": "submitted by /u/DeviceOptimal5127 [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "Project on SQL/NoSQL integrated with AI/DL/ML",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vizu7z/project_on_sqlnosql_integrated_with_aidlml/",
+   "date": "2026-08-08T16:08:19+00:00",
+   "summary": "For my college project regarding the DBMS course, we are asked to build a real-world project regarding using all the learning outcomes from the course. Please suggest some projects. For our ease, please provide: Project Title Objective Expe",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
    "title": "OpenSID/pantau",
    "url": "https://github.com/OpenSID/pantau",
    "date": "2026-08-08T13:59:39+00:00",
@@ -521,6 +701,26 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "What SQL project should I build as a fresher in 2026 to get more interview calls?",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1visyay/what_sql_project_should_i_build_as_a_fresher_in/",
+   "date": "2026-08-08T10:54:59+00:00",
+   "summary": "I’m a recent B.Sc. Data Science graduate looking to start my career in an SQL/Database role . I didn’t do any proper SQL projects or internships during college, and I’m now trying to build my profile. I’m currently: Learning SQL and databas",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "What SQL query took you way too long to figure out?",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1viozi3/what_sql_query_took_you_way_too_long_to_figure_out/",
+   "date": "2026-08-08T06:54:46+00:00",
+   "summary": "submitted by /u/gutenmorgan3035 [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
   },
   {
    "title": "Query with LIKE / IN",
@@ -542,6 +742,46 @@
    "tech": "sql",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Help me understand what's happening behind the scenes in a self join.",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1viahgb/help_me_understand_whats_happening_behind_the/",
+   "date": "2026-08-07T19:36:38+00:00",
+   "summary": "Hello all. I m trying to wrap my head around how self joins work, since they re a bit complex for me to understand for some reason. I can handle normal left and inner joins just fine. First, imagine this videogame table. You have three colu",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "I made a beginner-friendly tutorial on SQL Command Types (DDL, DML, DCL & TCL). I'd love your feedback!",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vi9avw/i_made_a_beginnerfriendly_tutorial_on_sql_command/",
+   "date": "2026-08-07T18:52:30+00:00",
+   "summary": "Hi everyone! I recently started creating a free SQL course for beginners, and I just published a new lesson covering the four main types of SQL commands: - DDL (CREATE, ALTER, DROP, TRUNCATE) - DML (SELECT, INSERT, UPDATE, DELETE) - DCL (GR",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "I want to get better for Data Engineer / Data Scientist positions",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vi4a1d/i_want_to_get_better_for_data_engineer_data/",
+   "date": "2026-08-07T15:47:41+00:00",
+   "summary": "submitted by /u/ResponsibleBag785 [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
+   "lang": "en"
+  },
+  {
+   "title": "What is the transition from learning SQL to using a db management system like PostgreSQL?",
+   "url": "https://www.reddit.com/r/learnSQL/comments/1vhch2m/what_is_the_transition_from_learning_sql_to_using/",
+   "date": "2026-08-06T18:27:43+00:00",
+   "summary": "I want to learn the proper way of learning sql to design dbs for my projects. submitted by /u/TurtleSlowRabbitFast [link] [التعليقات]",
+   "tech": "sql",
+   "sourceId": "reddit",
+   "source": "r/learnSQL",
    "lang": "en"
   },
   {
@@ -794,6 +1034,48 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Database",
+   "url": "https://www.youtube.com/watch?v=7tgB1LAJkSw",
+   "date": "2026-05-16T02:56:36+00:00",
+   "summary": "",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "Relational Algebra",
+   "lang": "en",
+   "views": 2588,
+   "rating": 5.0,
+   "raters": 96,
+   "thumb": "https://i4.ytimg.com/vi/7tgB1LAJkSw/hqdefault.jpg"
+  },
+  {
+   "title": "Why we need database",
+   "url": "https://www.youtube.com/watch?v=wKQG3jvwEKw",
+   "date": "2026-05-02T07:16:56+00:00",
+   "summary": "",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "يوتيوب",
+   "lang": "en",
+   "views": 3512,
+   "rating": 5.0,
+   "raters": 135,
+   "thumb": "https://i4.ytimg.com/vi/wKQG3jvwEKw/hqdefault.jpg"
+  },
+  {
+   "title": "Get Skilled in Database - Part 1",
+   "url": "https://www.youtube.com/watch?v=MZusPs4X3Ew",
+   "date": "2026-04-20T01:02:48+00:00",
+   "summary": "",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "Table of Content",
+   "lang": "en",
+   "views": 7346,
+   "rating": 5.0,
+   "raters": 351,
+   "thumb": "https://i2.ytimg.com/vi/MZusPs4X3Ew/hqdefault.jpg"
   },
   {
    "title": "ربط قاعدة بيانات SQL Server بالاكسل بدون تعقيد",
@@ -1206,6 +1488,16 @@
    "lang": "ar"
   },
   {
+   "title": "Database project from scratch كيفية عمل مشروع داتابيز كامل من الصفر + (Free Code)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xOWxFTVR0YTdGWUZtSjJCVE1KMXh5RGtrZGRjWnJUNDYwVDZKc1dIZXZ2ekFFS2NoVmVfS05rc09aVWhHOE5kV1NMbGd3bXhhR3lrRi1B?oc=5",
+   "date": "2022-04-12T19:46:51+00:00",
+   "summary": "Database project from scratch كيفية عمل مشروع داتابيز كامل من الصفر + (Free Code) YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "00. Course Intro || Learn SQL in Arabic - دورة كاملة للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LVWliVWVnejdBbnRudWplSEE0OGQzbFlraDNveVdKdnlWNXc1UnZKRlNWNkZJQ2t0VkU0Q2V2ZG42MTFaZHdZM2x4TVhLbWtuMGU2WldB?oc=5",
    "date": "2022-02-13T05:26:19+00:00",
@@ -1336,6 +1628,16 @@
    "lang": "ar"
   },
   {
+   "title": "[3] - One To One Database Relationships - شرح مبسط",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRFNxcjhObDhtRUtMZDhuV1N3dWprQTVaMzBMSTdwSTRrU09uUDJUMUV1Y0EweW84YkdRSVE5bkl5amlEUE9uOGVSTzVnQzBGRE1VRHBn?oc=5",
+   "date": "2021-03-15T07:17:16+00:00",
+   "summary": "[3] - One To One Database Relationships - شرح مبسط YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم قواعد البيانات sql بلغة php بكل سهولة الدرس 3 كيفية انشاء الجداول داخل قواعد البيانات table",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmMEpyeklZZFkwbks2Z0JHUVdBdm5IeVVHXzdrR25zazhfN2VuRm9JLUFkQlRsM09qODlVMUY4Qml3S280V1RSQmpoU0tZX01FNDNWNURn?oc=5",
    "date": "2021-02-07T01:36:40+00:00",
@@ -1410,6 +1712,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QdUZkUUdvdV9BNHpweXhmXzF0WjU3SlRGRVFmc0RLdG1WOEFpT1JzdFNMZW5xQmNmUHo2TVBjQjFLUk4tZGRSajFpTEpVeUNYUm0zb3dn?oc=5",
    "date": "2020-12-12T21:47:15+00:00",
    "summary": "تصميم قاعدة بيانات للموظفين YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "#1 قواعد بيانات شرح تفصيلي من الصفر - Database",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0UlFYbGFjWm80djEyQ2pOaDQ5SzM1NEtWampzdXo3UTdtdnBmNnpNemdxTUdNemxIWFFpUmo1X1ZrZXk4T0ZoVlU4MlJHbFMyQWhXM0RR?oc=5",
+   "date": "2020-11-27T23:31:14+00:00",
+   "summary": "#1 قواعد بيانات شرح تفصيلي من الصفر - Database YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1540,6 +1852,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZb21oY0RDM3JsZVVoZUR6ekJQMmh5V0lYSWJhY0liVjNDaG03RDR3c1NsUzV2RWtZaWtaZkJCdUdXTm41Vk8tSkgxNTQ1bXFQckRZZTdB?oc=5",
    "date": "2019-03-08T13:11:03+00:00",
    "summary": "15 شرح العمل مع دوال التوقيت و التواريخ في قواعد البيانات Date/Time Functions In SQL Server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "8 شرح العلاقات بين الجداول في قواعد بيانات أس كيو آل سيرفر relationships in database",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvdGV6dXNTZkQ4MDRXQ2ROOVM1dURFZ0FTSXg2d0dFTVozenNKb0MtTGdjeE0wWjJyQUN6eUZBQWV3ZW51UEpmbVdhTEQ2cW5YTUNVX05n?oc=5",
+   "date": "2019-02-28T15:52:25+00:00",
+   "summary": "8 شرح العلاقات بين الجداول في قواعد بيانات أس كيو آل سيرفر relationships in database YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

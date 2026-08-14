@@ -1,14 +1,38 @@
 {
- "generated": "2026-08-14T09:29:34.291388+00:00",
+ "generated": "2026-08-14T10:07:17.492791+00:00",
  "tech": "java",
- "count": 163,
+ "count": 189,
  "items": [
   {
    "title": "Stirling-Tools/Stirling-PDF",
    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-   "date": "2026-08-14T09:25:15+00:00",
+   "date": "2026-08-14T10:05:00+00:00",
    "summary": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-   "points": 89507,
+   "points": 89508,
+   "tech": "java",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "dbeaver/dbeaver",
+   "url": "https://github.com/dbeaver/dbeaver",
+   "date": "2026-08-14T10:00:16+00:00",
+   "summary": "Free universal database tool and SQL client",
+   "points": 51457,
+   "tech": "java",
+   "sourceId": "github",
+   "source": "GitHub",
+   "lang": "en",
+   "kind": "news"
+  },
+  {
+   "title": "halo-dev/halo",
+   "url": "https://github.com/halo-dev/halo",
+   "date": "2026-08-14T09:56:19+00:00",
+   "summary": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
+   "points": 39491,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -18,9 +42,9 @@
   {
    "title": "elastic/elasticsearch",
    "url": "https://github.com/elastic/elasticsearch",
-   "date": "2026-08-14T09:11:04+00:00",
+   "date": "2026-08-14T09:48:32+00:00",
    "summary": "Free and Open Source, Distributed, RESTful Search Engine",
-   "points": 77851,
+   "points": 77852,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -39,18 +63,6 @@
    "lang": "en"
   },
   {
-   "title": "dbeaver/dbeaver",
-   "url": "https://github.com/dbeaver/dbeaver",
-   "date": "2026-08-14T08:18:03+00:00",
-   "summary": "Free universal database tool and SQL client",
-   "points": 51457,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
-  },
-  {
    "title": "Superluminal Profiler is now available for Linux",
    "url": "https://superluminal.eu/applications/linux/",
    "date": "2026-08-14T08:11:11+00:00",
@@ -60,18 +72,6 @@
    "sourceId": "hn",
    "source": "Hacker News",
    "lang": "en"
-  },
-  {
-   "title": "halo-dev/halo",
-   "url": "https://github.com/halo-dev/halo",
-   "date": "2026-08-14T08:01:23+00:00",
-   "summary": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
-   "points": 39491,
-   "tech": "java",
-   "sourceId": "github",
-   "source": "GitHub",
-   "lang": "en",
-   "kind": "news"
   },
   {
    "title": "JCT-1 Labs announces general availability of JCT-1",
@@ -89,7 +89,7 @@
    "url": "https://github.com/keycloak/keycloak",
    "date": "2026-08-14T07:53:57+00:00",
    "summary": "Open Source Identity and Access Management For Modern Applications and Services",
-   "points": 36177,
+   "points": 36178,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -101,7 +101,7 @@
    "url": "https://github.com/TeamNewPipe/NewPipe",
    "date": "2026-08-14T07:40:47+00:00",
    "summary": "A libre lightweight streaming front-end for Android.",
-   "points": 39335,
+   "points": 39336,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -136,7 +136,7 @@
    "url": "https://github.com/jeecgboot/JeecgBoot",
    "date": "2026-08-14T06:09:59+00:00",
    "summary": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-   "points": 47399,
+   "points": 47400,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -160,7 +160,7 @@
    "url": "https://github.com/doocs/leetcode",
    "date": "2026-08-14T05:33:08+00:00",
    "summary": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
-   "points": 36464,
+   "points": 36463,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -194,7 +194,7 @@
    "url": "https://github.com/alibaba/arthas",
    "date": "2026-08-14T02:31:32+00:00",
    "summary": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
-   "points": 37486,
+   "points": 37488,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -420,7 +420,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "date": "2026-08-13T15:11:45+00:00",
    "summary": "Ghidra is a software reverse engineering (SRE) framework",
-   "points": 72355,
+   "points": 72357,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -436,6 +436,16 @@
    "tech": "java",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "State-of-the-art Bytecode Interpreters in Java by Yudi Zheng",
+   "url": "https://www.reddit.com/r/java/comments/1vncl3m/stateoftheart_bytecode_interpreters_in_java_by/",
+   "date": "2026-08-13T14:39:46+00:00",
+   "summary": "submitted by /u/grashalm01 [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -502,6 +512,16 @@
    "tech": "java",
    "sourceId": "hn",
    "source": "Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "(Project Amber) New guide: Preparing for Change: Safe Switching over Sealed APIs",
+   "url": "https://www.reddit.com/r/java/comments/1vnb2qu/project_amber_new_guide_preparing_for_change_safe/",
+   "date": "2026-08-13T13:41:47+00:00",
+   "summary": "submitted by /u/davidalayachew [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -612,6 +632,16 @@
    "tech": "java",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "Jakarta EE 11 MVC sample",
+   "url": "https://www.reddit.com/r/java/comments/1vn5zie/jakarta_ee_11_mvc_sample/",
+   "date": "2026-08-13T09:34:29+00:00",
+   "summary": "submitted by /u/henk53 [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -868,6 +898,16 @@
    "lang": "en"
   },
   {
+   "title": "Monitoring Spring Boot Actuator on low-resource VPS nodes without running a second JVM",
+   "url": "https://www.reddit.com/r/java/comments/1vmi7o7/monitoring_spring_boot_actuator_on_lowresource/",
+   "date": "2026-08-12T16:00:11+00:00",
+   "summary": "When running small Spring Boot applications on 1-2 GB VPS instances, a full observability stack can be a significant amount of additional infrastructure for what may be a fairly simple deployment. Over the past few weeks, I ve been looking ",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
    "title": "Apache Fory JSON: Fastest Java JSON Serialization, 10x Faster Than Jackson/Gson",
    "url": "https://fory.apache.org/blog/fory_json_fastest_java_json_framework/",
    "date": "2026-08-12T15:37:57+00:00",
@@ -887,6 +927,16 @@
    "tech": "java",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "I made a website that automatically collects images of our favourite mascot duke!",
+   "url": "https://www.reddit.com/r/java/comments/1vm81m1/i_made_a_website_that_automatically_collects/",
+   "date": "2026-08-12T08:17:02+00:00",
+   "summary": "Hello my fellow java enthusiasts! I made a cool side project that automatically searches the web for images of our beloved java mascot duke. The website shows a random image from the archive. It will also have a full gallery available soon!",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -937,6 +987,26 @@
    "kind": "news"
   },
   {
+   "title": "GlassFish 9.0 M3 released!",
+   "url": "https://www.reddit.com/r/java/comments/1vluwmt/glassfish_90_m3_released/",
+   "date": "2026-08-11T21:39:33+00:00",
+   "summary": "submitted by /u/henk53 [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Events-Caravan, an event-sourcing framework that trades the global event log for horizontal scalability (DynamoDB/SNS/SQS reference impl, Spring Boot starters)",
+   "url": "https://www.reddit.com/r/java/comments/1vlqxb6/eventscaravan_an_eventsourcing_framework_that/",
+   "date": "2026-08-11T19:11:47+00:00",
+   "summary": "Over the past months I ve been building my pet project, and today I m open-sourcing its core: Events-Caravan, an event-sourcing framework for Java with Spring-boot starter modules. The framework is built around an opinionated bet made for t",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
    "title": "Read zip in zip for updating",
    "url": "https://stackoverflow.com/questions/79992292/read-zip-in-zip-for-updating",
    "date": "2026-08-11T17:22:10+00:00",
@@ -948,11 +1018,31 @@
    "lang": "en"
   },
   {
+   "title": "Apache Fory™ JSON : Fastest JSON Serialization Framework for Java, 10x faster than Jackson/Gson",
+   "url": "https://www.reddit.com/r/java/comments/1vljk87/apache_fory_json_fastest_json_serialization/",
+   "date": "2026-08-11T14:48:34+00:00",
+   "summary": "submitted by /u/Shawn-Yang25 [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Jakarta EE starter now supports Jakarta EE 11!",
+   "url": "https://www.reddit.com/r/java/comments/1vlgd27/jakarta_ee_starter_now_supports_jakarta_ee_11/",
+   "date": "2026-08-11T12:41:42+00:00",
+   "summary": "submitted by /u/henk53 [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
    "title": "ReactiveX/RxJava",
    "url": "https://github.com/ReactiveX/RxJava",
    "date": "2026-08-11T11:32:26+00:00",
    "summary": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
-   "points": 48211,
+   "points": 48210,
    "tech": "java",
    "sourceId": "github",
    "source": "GitHub",
@@ -979,6 +1069,26 @@
    "tech": "java",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "from small to big with jbang",
+   "url": "https://www.reddit.com/r/java/comments/1vl5ew3/from_small_to_big_with_jbang/",
+   "date": "2026-08-11T02:51:23+00:00",
+   "summary": "jbang should be part of the jdk submitted by /u/sombriks [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Apache NetBeans 31 Released",
+   "url": "https://www.reddit.com/r/java/comments/1vkudxs/apache_netbeans_31_released/",
+   "date": "2026-08-10T19:16:18+00:00",
+   "summary": "submitted by /u/dstutz [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -1015,6 +1125,26 @@
    "lang": "en"
   },
   {
+   "title": "SimpleJavaBLE 1.1 is now on Maven Central",
+   "url": "https://www.reddit.com/r/java/comments/1vke84s/simplejavable_11_is_now_on_maven_central/",
+   "date": "2026-08-10T07:39:27+00:00",
+   "summary": "Hey everyone! I ve posted a few SimpleBLE updates here over the years, and I wanted to share one that should make the Java bindings much easier to start using. SimpleBLE v1.1.0 is out, and with that SimpleJavaBLE is now available on Maven C",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "ChaosTree [1.2.0] feature jdk11+ support",
+   "url": "https://www.reddit.com/r/java/comments/1vjvsn8/chaostree_120_feature_jdk11_support/",
+   "date": "2026-08-09T17:28:48+00:00",
+   "summary": "ChaosTree is a zero dependency Java Search Tree library. It currently features: BinaryFamily : Binary Tree, AVL Tree, RBT, Splay and Treap. NaryFamily : B-Tree and B+Tree Zero external dependency Minimum JDK11+ Published on Maven Central St",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
    "title": "Managing JDK versions",
    "url": "https://stackoverflow.com/questions/79991695/managing-jdk-versions",
    "date": "2026-08-09T15:10:30+00:00",
@@ -1023,6 +1153,16 @@
    "tech": "java",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "LLM Using Java Springboot",
+   "url": "https://www.reddit.com/r/java/comments/1vjozoq/llm_using_java_springboot/",
+   "date": "2026-08-09T12:45:51+00:00",
+   "summary": "I have tried to create LLM with the interface made in React LLM using Ollama with Sprinboot and React submitted by /u/Aaris_Kazi [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -1045,6 +1185,16 @@
    "tech": "java",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "JDK 28 EA Build10 is now available for download and includes JEP 401: Value Objects (Preview)",
+   "url": "https://www.reddit.com/r/java/comments/1vicga6/jdk_28_ea_build10_is_now_available_for_download/",
+   "date": "2026-08-07T20:52:12+00:00",
+   "summary": "submitted by /u/sureshg [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -1081,6 +1231,17 @@
    "lang": "en"
   },
   {
+   "title": "Set size of content area in an AlertDialog",
+   "url": "https://stackoverflow.com/questions/79991308/set-size-of-content-area-in-an-alertdialog",
+   "date": "2026-08-07T11:00:12+00:00",
+   "summary": "java، android، android-alertdialog",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "so",
+   "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
    "title": "Android Java - Set Size of Content Area in an AlertDialog",
    "url": "https://stackoverflow.com/questions/79991308/android-java-set-size-of-content-area-in-an-alertdialog",
    "date": "2026-08-07T11:00:12+00:00",
@@ -1089,6 +1250,26 @@
    "tech": "java",
    "sourceId": "so",
    "source": "Stack Overflow",
+   "lang": "en"
+  },
+  {
+   "title": "ChaosTree 1.1.0 – A Zero-Dependency Java Search Tree Library",
+   "url": "https://www.reddit.com/r/java/comments/1vhsb1i/chaostree_110_a_zerodependency_java_search_tree/",
+   "date": "2026-08-07T06:00:35+00:00",
+   "summary": "What is ChaosTree? ChaosTree is a zero dependency Java Search Tree library. It currently features: BinaryFamily : Binary Tree, AVL Tree, RBT, Splay and Treap. NaryFamily : B-Tree and B+Tree Zero external dependency Minimum JDK17+ Published ",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Isolated Projects is incubating in Gradle 9.7.0 (2,500-project monorepo: configuration 10m53s → 2m59s)",
+   "url": "https://www.reddit.com/r/java/comments/1vh8gyy/isolated_projects_is_incubating_in_gradle_970/",
+   "date": "2026-08-06T16:04:29+00:00",
+   "summary": "Isolated Projects moved from experimental to incubating in today s Gradle 9.7.0 release. When it s on, each project is isolated from the others, which lets Gradle configure them in parallel instead of one at a time. Numbers from a pure-Java",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {
@@ -1102,6 +1283,76 @@
    "source": "GitHub",
    "lang": "en",
    "kind": "news"
+  },
+  {
+   "title": "I made a small Bash wrapper that reduces successful Maven output by 99.7%",
+   "url": "https://www.reddit.com/r/java/comments/1vgfix8/i_made_a_small_bash_wrapper_that_reduces/",
+   "date": "2026-08-05T18:23:54+00:00",
+   "summary": "Successful Maven builds can produce thousands of lines that mostly confirm routine lifecycle steps. That output is noisy when working in a terminal, clutters CI logs, and becomes especially expensive when build output is passed to a coding ",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Hacking the Method Name",
+   "url": "https://www.reddit.com/r/java/comments/1vgdvl5/hacking_the_method_name/",
+   "date": "2026-08-05T17:25:28+00:00",
+   "summary": "submitted by /u/maxxedev [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "A JavaOS",
+   "url": "https://www.reddit.com/r/java/comments/1vfz0yz/a_javaos/",
+   "date": "2026-08-05T06:12:11+00:00",
+   "summary": "submitted by /u/Visual_Brain8809 [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Stop re-downloading the JDK: setup-java can now cache it",
+   "url": "https://www.reddit.com/r/java/comments/1vfun7e/stop_redownloading_the_jdk_setupjava_can_now/",
+   "date": "2026-08-05T02:30:02+00:00",
+   "summary": "Every GitHub Actions job starts from a clean machine. If your workflow asks for a JDK that is not baked into the runner image, actions/setup-java downloads it, verifies it, and extracts a few hundred megabytes of it, and then the job ends a",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Do you still handcraft your java projects?",
+   "url": "https://www.reddit.com/r/java/comments/1vfpr3u/do_you_still_handcraft_your_java_projects/",
+   "date": "2026-08-04T22:54:01+00:00",
+   "summary": "With all the talk about llms writing most of the code and some folks never touching the editor. I try to work mostly in plan mode and prefer to write most of my code by hand else I fear losing touch with my skills if I only read code. At wo",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Hacking in the 'nameOf'",
+   "url": "https://www.reddit.com/r/java/comments/1vfjuyc/hacking_in_the_nameof/",
+   "date": "2026-08-04T19:10:15+00:00",
+   "summary": "submitted by /u/TheMrMilchmann [link] [التعليقات]",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
+  },
+  {
+   "title": "Use of Java 26 in green field projects",
+   "url": "https://www.reddit.com/r/java/comments/1vf6auc/use_of_java_26_in_green_field_projects/",
+   "date": "2026-08-04T10:18:03+00:00",
+   "summary": "For what kind of new projects, except web related, would Java be your go to choice? Assuming knowledge of both languages, why wouldn t you prefer C# for the same projects? Thank you so much in advance. submitted by /u/codingbliss12 [link] [",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
+   "lang": "en"
   },
   {
    "title": "YunaiV/ruoyi-vue-pro",
@@ -1557,6 +1808,16 @@
    "tech": "java",
    "sourceId": "ar-yt",
    "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "[PSA]/r/java is not for programming help, learning questions, or installing Java questions",
+   "url": "https://www.reddit.com/r/java/comments/j7h9er/psarjava_is_not_for_programming_help_learning/",
+   "date": "2020-10-08T17:21:51+00:00",
+   "summary": "/r/java is not for programming help or learning Java Programming related questions do not belong here. They belong in /r/javahelp . Learning related questions belong in /r/learnjava Such posts will be removed. To the community willing to he",
+   "tech": "java",
+   "sourceId": "reddit",
+   "source": "r/java",
    "lang": "en"
   },
   {

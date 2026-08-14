@@ -31,7 +31,7 @@ const TECHS = [
   { id:'sql', name:'SQL', hn:'sql database', so:'sql', gh:'sql',
     devto:['sql','database'], reddit:['SQL','learnSQL'], blogs:[],
     ar:['"قواعد البيانات" SQL تعلم','"لغة SQL" شرح OR دورة'],
-    match:/\bsql\b|\bpostgres\b|\bmysql\b|\bsqlite\b|قواعد البيانات|قاعدة بيانات/i },
+    match:/\bsql\b|\bpostgres\b|\bmysql\b|\bsqlite\b|\bdatabases?\b|\borm\b|قواعد البيانات|قاعدة بيانات/i },
 
   { id:'cpp', name:'C / C++', hn:'c++', so:'c%2B%2B', gh:'c%2B%2B',
     devto:['cpp','c'], reddit:['cpp','C_Programming'], blogs:[],

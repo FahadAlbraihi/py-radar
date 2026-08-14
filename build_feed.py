@@ -55,12 +55,19 @@ PROG = re.compile(
 CAPS = {"pypi": 15, "blogs": 50, "devto": 45, "hn": 40, "so": 30, "github": 25,
         "reddit": 30, "fcc": 20}
 
-# قنوات يوتيوب عربية — تُحلّ معرّفاتها مرة واحدة وتُخزَّن في data/channels.json.
-# تغذية القناة تحمل المشاهدات والتقييم والصورة، بخلاف نتائج البحث.
-CHANNEL_HANDLES = [
-    "ElzeroWebSchool", "Elzero", "codezillaa", "AdelNasim", "TheNewBaghdad",
-    "tarmeezacademy", "Almdrasa", "MoslemDev", "Hassouna-Academy", "arabiccoders",
-    "NourHomsi", "MuhammedEssa", "DevMohamedElsayed", "AhmedSamirDev",
+# قنوات يوتيوب — مصدر المشاهدات والتقييم (تغذية القناة تحملها، بخلاف نتائج البحث).
+#
+# أضِف قنواتك هنا بأي صيغة:
+#   "@ElzeroWebSchool"                                  اسم القناة
+#   "UC8OxKsmAyrGAfBiluhpLkbA"                          المعرّف مباشرة
+#   "https://www.youtube.com/@SomeChannel"              رابط كامل
+#   "https://www.youtube.com/channel/UCxxxxxxxxxxxx"    رابط بالمعرّف
+#
+# ملاحظة: لا تُخمَّن الأسماء — اسم القناة على يوتيوب قد يعود لقناة مختلفة تماماً
+# (‏@Codezilla مثلاً قناة فلوجات لا برمجة). انسخ الرابط من القناة نفسها.
+CHANNELS: list[str] = [
+    # Arabic Competitive Programming — د. مصطفى سعد إبراهيم (خوارزميات وهياكل بيانات و C++)
+    "https://www.youtube.com/channel/UC8OxKsmAyrGAfBiluhpLkbA",
 ]
 
 # ----------------------------------------------------------------------------
@@ -87,7 +94,8 @@ TECHS = {
         "name": "SQL", "hn": "sql database", "so": "sql", "gh": "sql",
         "devto": ["sql", "database"], "reddit": ["SQL", "learnSQL"], "blogs": [],
         "ar": ['"قواعد البيانات" SQL تعلم', '"لغة SQL" شرح OR دورة'],
-        "match": r"\bsql\b|\bpostgres\b|\bmysql\b|\bsqlite\b|قواعد البيانات|قاعدة بيانات",
+        "match": (r"\bsql\b|\bpostgres\b|\bmysql\b|\bsqlite\b|\bdatabases?\b|\borm\b"
+                  r"|قواعد البيانات|قاعدة بيانات"),
     },
     "cpp": {
         "name": "C / C++", "hn": "c++", "so": "c%2B%2B", "gh": "c%2B%2B",
@@ -322,28 +330,34 @@ def fetch_pypi(tech: str, cfg: dict) -> list[dict]:
 
 ANY_PROG = re.compile(
     "|".join(cfg["match"] for cfg in TECHS.values())
-    + r"|برمج|مبرمج|كود|تطوير الويب|خوارزم|\bprogramming\b|\bdeveloper\b|\bcoding\b",
+    + r"|برمج|مبرمج|كود|تطوير|خوارزم|هيكل بيانات|قواعد بيانات|شبكات|تشفير|أمن سيبراني"
+      r"|\bprogramming\b|\bdeveloper\b|\bcoding\b|\bsoftware\b|\balgorithm|data structure"
+      r"|\bdatabase\b|machine learning|reinforcement learning|\bcompiler\b|\bnetworking\b"
+      r"|cyber ?security|\bdevops\b|\bapi\b|\bframework\b",
     re.IGNORECASE,
 )
 
+CHANNEL_ID_RE = re.compile(r"(UC[\w-]{20,})")
+HANDLE_RE = re.compile(r"youtube\.com/@([\w.\-]+)|^@?([\w.\-]+)$")
 
-def is_programming_channel(channel_id: str) -> bool:
-    """يتأكد أن القناة تنشر محتوى برمجياً فعلاً — اسم القناة وحده غير كافٍ."""
+
+def programming_ratio(channel_id: str) -> tuple[int, int]:
+    """كم فيديو برمجي من آخر ما نشرته القناة — للتنبيه فقط، لا للرفض."""
     try:
-        items = parse_feed(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"),
+        items = parse_feed(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}",
+                               attempts=1),
                            "ar-yt", "يوتيوب", "python", None)
     except Exception:  # noqa: BLE001
-        return False
-    if not items:
-        return False
-    hits = sum(1 for i in items if ANY_PROG.search(i["title"] + " " + i["summary"]))
-    return hits >= max(3, len(items) // 4)
+        return (0, 0)
+    return (sum(1 for i in items if ANY_PROG.search(i["title"] + " " + i["summary"])), len(items))
 
 
 def resolve_channels() -> dict[str, str]:
-    """يحوّل أسماء القنوات إلى معرّفات ويتحقق من محتواها، ويحفظ ما نجح.
+    """يحوّل مدخلات CHANNELS إلى معرّفات: يقبل المعرّف أو الاسم أو الرابط الكامل.
 
-    الملف يحفظ أيضاً القنوات المرفوضة (بقيمة فارغة) حتى لا تُعاد محاولتها كل يوم.
+    ما يُحلّ مرة يُحفظ في data/channels.json فلا يُعاد جلبه كل يوم.
+    القناة التي يضيفها المستخدم تُعتمد كما هي؛ ترشيح الفيديوهات حسب لغة البرمجة
+    يتكفّل باستبعاد ما لا يخص البرمجة، فلا داعي لرفض القناة كلها.
     """
     known: dict[str, str] = {}
     if CHANNELS_FILE.exists():
@@ -352,24 +366,42 @@ def resolve_channels() -> dict[str, str]:
         except Exception:  # noqa: BLE001
             known = {}
 
-    for handle in CHANNEL_HANDLES:
-        if handle in known:
+    for entry in CHANNELS:
+        entry = entry.strip()
+        if not entry or entry in known:
             continue
-        try:
-            html = get(f"https://www.youtube.com/@{handle}", attempts=1).decode("utf-8", "replace")
-        except Exception:  # noqa: BLE001, PERF203
-            continue                      # تعذّر الوصول — يُعاد غداً
-        m = re.search(r'"channelId":"(UC[\w-]{20,})"', html)
-        if not m:
-            continue
-        cid = m.group(1)
-        if is_programming_channel(cid):
-            known[handle] = cid
-            print(f"  ✓ قناة برمجية: @{handle} -> {cid}")
+
+        # ‏١) معرّف صريح داخل النص أو الرابط
+        direct = CHANNEL_ID_RE.search(entry)
+        if direct:
+            cid = direct.group(1)
         else:
-            known[handle] = ""            # ليست قناة برمجة — تُستبعد نهائياً
-            print(f"  ✗ استُبعدت: @{handle} (محتواها غير برمجي)")
-        time.sleep(1)
+            # ‏٢) اسم قناة — يحتاج جلب صفحتها لاستخراج المعرّف
+            m = HANDLE_RE.search(entry)
+            handle = (m.group(1) or m.group(2)) if m else None
+            if not handle:
+                print(f"  ؟ صيغة غير مفهومة: {entry}")
+                continue
+            try:
+                html = get(f"https://www.youtube.com/@{handle}", attempts=1).decode("utf-8", "replace")
+            except Exception as e:  # noqa: BLE001, PERF203
+                print(f"  … تعذّر الوصول إلى @{handle} ({e}) — يُعاد غداً")
+                continue
+            found = re.search(r'"channelId":"(UC[\w-]{20,})"', html)
+            if not found:
+                print(f"  ؟ لم يُعثر على معرّف لـ @{handle}")
+                continue
+            cid = found.group(1)
+            time.sleep(1)
+
+        hits, total = programming_ratio(cid)
+        if total == 0:
+            print(f"  ✗ {entry}: التغذية فارغة أو غير متاحة")
+            continue
+        known[entry] = cid
+        mark = "✓" if hits else "⚠"
+        note = "" if hits else "  (لا يبدو محتواها الأخير برمجياً — ستُرشَّح فيديوهاتها على أي حال)"
+        print(f"  {mark} {entry} -> {cid}  برمجية {hits}/{total}{note}")
 
     if known:
         DATA.mkdir(parents=True, exist_ok=True)
