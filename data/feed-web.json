@@ -1,8 +1,63 @@
 {
- "generated": "2026-08-14T21:58:23.080124+00:00",
+ "generated": "2026-08-14T23:06:46.932904+00:00",
  "tech": "web",
- "count": 211,
+ "count": 220,
  "items": [
+  {
+   "title": "The file existed, so I assumed the check passed",
+   "url": "https://dev.to/hammad4june1999/the-file-existed-so-i-assumed-the-check-passed-46h5",
+   "date": "2026-08-14T22:44:18+00:00",
+   "summary": "A user sent me two clips and a screenshot. My video merge tool had run to 100%, said \"Applying...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Eleven pages that read your own files in the browser. The hard part was what they refuse to say.",
+   "url": "https://dev.to/artificial_wasteland/eleven-pages-that-read-your-own-files-in-the-browser-the-hard-part-was-what-they-refuse-to-say-109",
+   "date": "2026-08-14T22:37:43+00:00",
+   "summary": "Drop a JPEG onto this page and it will read the quantization and Huffman tables straight out of your...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Semantic search for 796 pages, with no server, no vector database, and no model at query time",
+   "url": "https://dev.to/artificial_wasteland/semantic-search-for-796-pages-with-no-server-no-vector-database-and-no-model-at-query-time-93m",
+   "date": "2026-08-14T22:37:33+00:00",
+   "summary": "Our site has 796 pages of dense, cross-referenced, deliberately weird material: machine-checked...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Engineer-to-Engineer: Building a Typing Test That Doesn't Lie to You",
+   "url": "https://dev.to/lizely/engineer-to-engineer-building-a-typing-test-that-doesnt-lie-to-you-5822",
+   "date": "2026-08-14T22:05:37+00:00",
+   "summary": "If you've ever shipped a \"typing speed\" feature into a developer tool, an educational dashboard, or a...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Built a Visual AI Agent Builder with Tool Calling — Architecture, Tools, and Lessons",
+   "url": "https://dev.to/raja-abbas-affandi/how-i-built-a-visual-ai-agent-builder-with-tool-calling-architecture-tools-and-lessons-28pb",
+   "date": "2026-08-14T22:01:20+00:00",
+   "summary": "AI agents are the most exciting thing happening in software right now — but most agent tutorials stop...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "DogSpeak Pro - Interactive Behavioral Sandbox & Procedural Acoustic Synthesizer",
    "url": "https://dev.to/batuta/dogspeak-pro-interactive-behavioral-sandbox-procedural-acoustic-synthesizer-gio",
@@ -394,188 +449,23 @@
    "lang": "en"
   },
   {
-   "title": "You Know What's Worse Than Not Being Able to Log In?",
-   "url": "https://dev.to/ujja/you-know-whats-worse-than-not-being-able-to-log-in-5379",
-   "date": "2026-08-13T12:38:44+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You Know What's...",
-   "points": 3,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Will This Work? | Suggestions Please.",
-   "url": "https://dev.to/weirdcodesofficial/will-this-work-4326",
-   "date": "2026-08-13T08:24:00+00:00",
-   "summary": "Cracking the Firefox Performance Puzzle for \"Moksha\"   Hey everyone! As I’ve been testing...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Whether a dialog closes on outside click is a task question, not a style question",
-   "url": "https://dev.to/leobaniak/whether-a-dialog-closes-on-outside-click-is-a-task-question-not-a-style-question-55aa",
-   "date": "2026-08-13T04:07:12+00:00",
-   "summary": "Adrian Roselli sorts modal close behaviour into three buckets — action required, no action required, and weird patterns — and argues you should pick a light-dismiss policy based on what the user came to do, not on how th",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HTML em Camadas: Containers e Acessibilidade no Dashboard",
-   "url": "https://dev.to/candidonkuerten346/html-em-camadas-containers-e-acessibilidade-no-dashboard-540h",
-   "date": "2026-08-13T04:02:13+00:00",
-   "summary": "Trago a vocês nessa semana mais uma etapa do projeto Roadmap Fullstack. Nessa fase tive foco no uso...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to keep up with browser support of new HTML/CSS features?",
-   "url": "https://dev.to/yannb/how-to-keep-up-with-browser-support-of-new-htmlcss-features-1ck9",
-   "date": "2026-08-12T16:06:36+00:00",
-   "summary": "For an easy and thorough intro to Baseline, check out this talk by Rachel Andrew, but if you want the...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Meta Tag HTML — Catatan Pribadi",
-   "url": "https://dev.to/sanudin-dev/meta-tag-html-catatan-pribadi-48e4",
-   "date": "2026-08-12T15:40:33+00:00",
-   "summary": "🌐 Baca artikel ini dalam Bahasa Inggris di sini      Saya selalu mencari-cari lagi hal ini setiap...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HTML Meta Tags: My Reference Notes",
-   "url": "https://dev.to/sanudin-dev/html-meta-tags-my-reference-notes-35l7",
-   "date": "2026-08-12T15:30:50+00:00",
-   "summary": "🌐 Read this post in Bahasa Indonesia here      I keep re-looking these up every time I start a new...",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Fylgja UI",
-   "url": "https://dev.to/fylgja/introducing-fylgja-ui-1666",
-   "date": "2026-08-12T13:47:05+00:00",
-   "summary": "Fylgja CSS has always focused on the layer below components. Good defaults, design tokens, and...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ヘッダー行の自動検出：テーブル解析のヒューリスティクス",
-   "url": "https://dev.to/circobit/hetudaxing-nozi-dong-jian-chu-teburujie-xi-nohiyurisuteikusu-56pe",
-   "date": "2026-08-12T00:00:00+00:00",
-   "summary": "HTMLテーブルの最初の行はヘッダー行。  ただし、そうでない場合もあります。  Wikipediaテーブルでは実際のヘッダーの前に全列にまたがるタイトル行があることが多い。スポーツ統計サイトでは「出場...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Add a Pinterest Follow Button to Your Website",
-   "url": "https://dev.to/krishan_vijayvargiya_d694/how-to-add-a-pinterest-follow-button-to-your-website-53p5",
-   "date": "2026-08-11T08:00:02+00:00",
-   "summary": "Most people who land on your website from Pinterest never come back to Pinterest through you. They...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Modern CSS Deleted My Layout JavaScript: Field Notes on Container Queries, :has(), and Subgrid",
-   "url": "https://dev.to/ahmed_mahmoud360/modern-css-deleted-my-layout-javascript-field-notes-on-container-queries-has-and-subgrid-4o6j",
-   "date": "2026-08-11T06:01:52+00:00",
-   "summary": "Headline: Four CSS features — container queries, :has(), subgrid, and cascade layers — let me delete...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The same URL served me two different images",
-   "url": "https://dev.to/liza_18827c15bdd387c4cd9c/the-same-url-served-me-two-different-images-pm4",
-   "date": "2026-08-11T05:59:51+00:00",
-   "summary": "I fetched one image URL twice, in the same browser, on the same page, about a second apart.  The...",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "헤더 행 자동 감지: 테이블 파싱의 휴리스틱",
-   "url": "https://dev.to/circobit/hedeo-haeng-jadong-gamji-teibeul-pasingyi-hyuriseutig-4gjd",
-   "date": "2026-08-11T00:30:00+00:00",
-   "summary": "HTML 테이블의 첫 번째 행이 헤더 행입니다.  그런데 그렇지 않을 때가 있습니다.  Wikipedia 테이블에는 실제 헤더 앞에 모든 열에 걸친 제목 행이 있는 경우가 많습니다....",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How I Built a Candlestick Recognition Game with JavaScript",
-   "url": "https://dev.to/piyush_ds_d9d7dd38fb24166/how-i-built-a-candlestick-recognition-game-with-javascript-27f9",
-   "date": "2026-08-10T18:06:00+00:00",
-   "summary": "How I Built a Candlestick Recognition Game with JavaScript  Learning technical analysis can be...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Automatisch Headerrijen Detecteren: De Heuristieken Achter Tabelparsing",
-   "url": "https://dev.to/circobit/automatisch-headerrijen-detecteren-de-heuristieken-achter-tabelparsing-ag5",
-   "date": "2026-08-10T12:30:00+00:00",
-   "summary": "De eerste rij van een HTML-tabel is de headerrij.  Behalve wanneer dat niet zo...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "HTML & CSS Expert Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuQmVPRWM0djMteFBlZC1iemttQ05JVTVmTFVzSmotckJ3SHhJdWNtZGdiOGUzZHlSUGpHdGxoOUhtN202dUNCZHpxUmVpTjJOLXRLSjVB?oc=5",
    "date": "2026-07-24T16:30:06+00:00",
-   "summary": "HTML & CSS Expert Tutorial youtube.com",
+   "summary": "HTML & CSS Expert Tutorial YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "HTML & CSS Beginner Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wOHFGZlF2c3Y1Z1prTjkwekUydHQwRHY5ZnNLc0FEbXZucXRoX3BTNTNrQzRLbk5iMnVTQ1RNdUZtbVN5dno0NVV4dW5ac0ItSEVVVGl3?oc=5",
    "date": "2026-05-15T16:30:06+00:00",
-   "summary": "HTML & CSS Beginner Tutorial youtube.com",
+   "summary": "HTML & CSS Beginner Tutorial YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -592,20 +482,30 @@
    "title": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2NXdXTmY3cVBGX19VZjVqNXZpbnMyblloV3AwclF5eVJsWTJOaDhKb0pQdnBDOG5DODJvem91SlhlOW9ibkNIY0FPNGZfWGs3RUhSVl9B?oc=5",
    "date": "2026-03-18T13:26:39+00:00",
-   "summary": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial youtube.com",
+   "summary": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "مين الأقوى؟ صراع ID vs Class وشرح CSS Specificity بالتفصيل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1neHlXdG9yaTNqZlVJcVhwaDN2S000MG9jWTM3cU0zeExxTlRVQk5WMWVRTkZ1dzB4TERWWFVkX24yaWVjR2g0WllTY2dtYWdiTDBCOXh3?oc=5",
+   "date": "2026-01-28T15:59:13+00:00",
+   "summary": "مين الأقوى؟ صراع ID vs Class وشرح CSS Specificity بالتفصيل YouTube",
+   "tech": "web",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Web Development with HTML & CSS – Full Course for Beginners (2026)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvSS1SVnQ2eEY3bkM2aXhLTzNmcEN4VzRpcWlIbld6Vy1UNjZuYVd1QWY5Ui1YYkhhazZXRGdna0VsMXh4aWlMdjN4OEExcmxhTWtQTFpR?oc=5",
    "date": "2026-01-06T10:01:16+00:00",
-   "summary": "Web Development with HTML & CSS – Full Course for Beginners (2026) youtube.com",
+   "summary": "Web Development with HTML & CSS – Full Course for Beginners (2026) YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -622,50 +522,50 @@
    "title": "HTML CSS Full Course 2026 | HTML Tutorial For Beginners | HTML CSS Full Course 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Pcks4TWZyNzBPWGJLZTFuVlJtLXRDcE9KSkJyTTFrWXNJV3lFaFhaRVRrcVVzRUxnOEV4MW5jZ2FBcjBHcTZZNVMtVGZuaEFVazJfVVVB?oc=5",
    "date": "2025-12-11T14:43:43+00:00",
-   "summary": "HTML CSS Full Course 2026 | HTML Tutorial For Beginners | HTML CSS Full Course 2026 | Simplilearn youtube.com",
+   "summary": "HTML CSS Full Course 2026 | HTML Tutorial For Beginners | HTML CSS Full Course 2026 | Simplilearn YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "HTML CSS and JavaScript Complete Course | Building 10 Real World Applications - #1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12TVpheWN6Mld2Q0lNUThsRzRTSkpjbXJmMWU1SklvSUZFQjZSb2t5WkluZEVla1hIQVNyOXgwYjEwdVRfdTQtRGVwYzZJS1QtUjROdzhR?oc=5",
    "date": "2025-10-21T14:01:37+00:00",
-   "summary": "HTML CSS and JavaScript Complete Course | Building 10 Real World Applications - #1 youtube.com",
+   "summary": "HTML CSS and JavaScript Complete Course | Building 10 Real World Applications - #1 YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "HTML CSS Full Course 2025 | HTML CSS Tutorial | Web Development Course | HTML CSS | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xSjNWdVMtMmxrQ1M3OEVGaVJ1eVJNTkh6SmVUMG1jSVZuYV9ITkpoSGJCbHFSNUM2MHR4UEE2UGdNTktrbjFJMFpHM2ZXanAwTnZVY1d3?oc=5",
    "date": "2025-10-20T09:22:50+00:00",
-   "summary": "HTML CSS Full Course 2025 | HTML CSS Tutorial | Web Development Course | HTML CSS | Simplilearn youtube.com",
+   "summary": "HTML CSS Full Course 2025 | HTML CSS Tutorial | Web Development Course | HTML CSS | Simplilearn YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Build a Personal Website with HTML & CSS (Beginner Crash Course)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HYUo5cEd2M0tkQnhYZ3FsYjM1TUpGQnE0dWUtTHJzZEh6UzBEeXFxWm9wYlRQYmhBdFJ4Rzk5S2R3VmJVTGdoam5nTW1USV9vSzRtSzVB?oc=5",
    "date": "2025-08-04T09:30:18+00:00",
-   "summary": "Build a Personal Website with HTML & CSS (Beginner Crash Course) youtube.com",
+   "summary": "Build a Personal Website with HTML & CSS (Beginner Crash Course) YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "HTML CSS Full Course 2026 | HTML CSS Tutorial | Web Development Course | HTML CSS | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JQk5DU3BDME9USkRGRDd2dzVSLS1QbTV0dkJueGQ3WG1YalVBdDhhMEhqTTdPMUNpXzRzaVhoOVc5VGdVLVFXNXFRb3ExVE5MYWNadU5n?oc=5",
    "date": "2025-07-09T09:24:50+00:00",
-   "summary": "HTML CSS Full Course 2026 | HTML CSS Tutorial | Web Development Course | HTML CSS | Simplilearn youtube.com",
+   "summary": "HTML CSS Full Course 2026 | HTML CSS Tutorial | Web Development Course | HTML CSS | Simplilearn YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -692,20 +592,20 @@
    "title": "HTML, CSS & JavaScript Full Course - Build 15 Projects",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMTVLcWlOYmNqd0psTkVEd3QzZFhjNE85WGMxMi1kUUYtQ1lvMHBIbGZKQVQweWlFOTdrSW5jWmM1WHJhX2x1X2pjRk9Qd1AyMkZMc2FB?oc=5",
    "date": "2025-05-10T15:07:57+00:00",
-   "summary": "HTML, CSS & JavaScript Full Course - Build 15 Projects youtube.com",
+   "summary": "HTML, CSS & JavaScript Full Course - Build 15 Projects YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "🎨 CSS Tutorial for Complete Beginners | Learn CSS from Scratch 💻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NRlkteHV2WGFtTGs1endnNDFBTGVsNjRUbHJlUXBpazJrUG5ZX0hZREhldk51bjcwc3N2WmY4eF95enNVZzBlQzl5T0RvQUIyWWhfMk5n?oc=5",
    "date": "2025-04-15T07:49:09+00:00",
-   "summary": "🎨 CSS Tutorial for Complete Beginners | Learn CSS from Scratch 💻 youtube.com",
+   "summary": "🎨 CSS Tutorial for Complete Beginners | Learn CSS from Scratch 💻 YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -762,40 +662,40 @@
    "title": "HTML and CSS Tutorial (2025)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6UHhBdlkyenE2RUFySGpZWkktMjFJNVo1QktBZER6azJ0aFMwcE5fajNaWWRfZFM4akIwTmR6RlB5OU1GWHV3UUJZWmhmTnllVnNiaTBR?oc=5",
    "date": "2025-01-02T16:30:08+00:00",
-   "summary": "HTML and CSS Tutorial (2025) youtube.com",
+   "summary": "HTML and CSS Tutorial (2025) YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "The Only CSS Course You Need to Master CSS | Learn By Building Apps",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTWh5R2J6WWxBOS04ei1HNXhHWDhkbktid2JmUV92eUdTRW9rZmx0T2UyNTI3bHJQUy1zeC1mZm5NTGl1ZUE1blh5MGdCVzJDTlBRM1V3?oc=5",
    "date": "2024-11-27T16:00:00+00:00",
-   "summary": "The Only CSS Course You Need to Master CSS | Learn By Building Apps youtube.com",
+   "summary": "The Only CSS Course You Need to Master CSS | Learn By Building Apps YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "HTML Full Course in Telugu | From a ZERO to HERO | Code With Swaroop",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CLS10QnZ2OFRKUWs4LTJSVHZWSDQtUHJNYzlsell5bXJTNmdGSnpFc1dqTndVQzgxNExOT1Fwc3U4c2RpdDE3c3ZVeHZNbFRYLXM1YUt3?oc=5",
    "date": "2024-11-16T14:32:36+00:00",
-   "summary": "HTML Full Course in Telugu | From a ZERO to HERO | Code With Swaroop youtube.com",
+   "summary": "HTML Full Course in Telugu | From a ZERO to HERO | Code With Swaroop YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Complete CSS Tutorial for Beginners | Part 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fWWNPVUdzSDBoMUtFRmdDdE55T1YtUi1QdEwyM0dRVm1lcDNyVWdvWUVWSXlPS3duc3FaaHYyNko2QVYyenhxT1g1UG5YelZ4Zi1DOXVn?oc=5",
    "date": "2024-11-16T01:01:12+00:00",
-   "summary": "Complete CSS Tutorial for Beginners | Part 1 youtube.com",
+   "summary": "Complete CSS Tutorial for Beginners | Part 1 YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -812,10 +712,10 @@
    "title": "Learn CSS Flexbox in 20 Minutes (Course)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wY3dzQkZ4c24wTFlmWUVpMFc3T25Ya3FZbm5aZmtvMkRxTnF3RXhqdlhRUUx0Ymh0TzBnaXZhUW9BV2x3bGFkRjFQMjFfMFhlWmIyTkJB?oc=5",
    "date": "2024-08-07T06:00:27+00:00",
-   "summary": "Learn CSS Flexbox in 20 Minutes (Course) youtube.com",
+   "summary": "Learn CSS Flexbox in 20 Minutes (Course) YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -912,10 +812,10 @@
    "title": "HTML & CSS Full Course: Beginners to Pro 2024 | 3 Mini Projects Included 🔥 Web Development Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nYzlITm9sTjJBWTdvVVFwMGY4LXNFNXVWRXN5U01hWWJjZi1FNnZVYi1kXzBpeW1KTllOemZpZnBmODNjMUMxOFBsN0JScGdxODFXbGxB?oc=5",
    "date": "2024-03-28T12:30:10+00:00",
-   "summary": "HTML & CSS Full Course: Beginners to Pro 2024 | 3 Mini Projects Included 🔥 Web Development Course youtube.com",
+   "summary": "HTML & CSS Full Course: Beginners to Pro 2024 | 3 Mini Projects Included 🔥 Web Development Course YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -952,20 +852,20 @@
    "title": "HTML and CSS For Absolute Beginners | 2024 Crash Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZU5PUWJ2NXhkbWZ0NmJnV3I4UEtnd01ka3hnZHNUazlyam1xSklITXJVbDduY3NhaWNRZ3BHbk9qcE9aRzhRYmVDeTlIcm0zUldHWmd3?oc=5",
    "date": "2024-01-16T14:15:01+00:00",
-   "summary": "HTML and CSS For Absolute Beginners | 2024 Crash Course youtube.com",
+   "summary": "HTML and CSS For Absolute Beginners | 2024 Crash Course YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Introduction to HTML and CSS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZd2gzT2VpU3dqcGNfY1Y5bnhYUU8tb1NzQkY5WjFUSE80X2F1SmdtVXZJTTZ5ak44aUhRbzZZUTl2dXc2OFRpczFaT2VKb0g4dUtJQ2h3?oc=5",
    "date": "2024-01-11T19:28:29+00:00",
-   "summary": "Introduction to HTML and CSS youtube.com",
+   "summary": "Introduction to HTML and CSS YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1032,20 +932,20 @@
    "title": "Complete CSS Tutorial for Beginners in Hindi 🎓 Free Notes & Codes | Part 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTTFVUTJCem5BNGU4RGhJQks1SEpvNUpXZnNZVWQya3lNZW1iQ3VaUElaT1otVEFSZ1prZUpXSWt6cDk5RTloWnZKZUstWU5ScjJBYXhR?oc=5",
    "date": "2023-10-06T14:30:06+00:00",
-   "summary": "Complete CSS Tutorial for Beginners in Hindi 🎓 Free Notes & Codes | Part 1 youtube.com",
+   "summary": "Complete CSS Tutorial for Beginners in Hindi 🎓 Free Notes & Codes | Part 1 YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "HTML & CSS Full Course - Zero to Hero",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zQXpmdXExdEV6QkRkekdfazktU2FSQndwVDB0ZThodHFYemJhYUVuUzVCeDVkb0ZwSTBLWXR3dE1STzlrbjkwY0lvWWE3TXAxVnAtdjh3?oc=5",
    "date": "2023-09-28T10:17:11+00:00",
-   "summary": "HTML & CSS Full Course - Zero to Hero youtube.com",
+   "summary": "HTML & CSS Full Course - Zero to Hero YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1072,10 +972,10 @@
    "title": "Master HTML with Visual Studio Code | Beginner's Guide",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wQUk4S1lGUUV1c01sVU1NUHZGOGpRQ2JDODNCMk84bmdUVFQ0RjFZRnZsVzZ4b0lUV01pcVltSUJRZTREVEw0a3pvRzhpVDRzQm4wMWpn?oc=5",
    "date": "2023-07-14T16:15:02+00:00",
-   "summary": "Master HTML with Visual Studio Code | Beginner's Guide youtube.com",
+   "summary": "Master HTML with Visual Studio Code | Beginner's Guide YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1102,10 +1002,10 @@
    "title": "HTML & CSS Full Course for free 🌎",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DVUhPblk3UzhSSWZPQVFHV281OGtBY1F3UHRXRi02STJjMHVRemR6U2VLYXVIbzN4bUJUczBkbWl0aU1JbUE4LTRzSXdyNmVldXhCU2Jn?oc=5",
    "date": "2023-05-31T14:00:57+00:00",
-   "summary": "HTML & CSS Full Course for free 🌎 youtube.com",
+   "summary": "HTML & CSS Full Course for free 🌎 YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1122,10 +1022,10 @@
    "title": "HTML CSS Full Course 2026 | Learn HTML & CSS in 10 Hours | HTML CSS Tutorial | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NYlFFZHNidTVOODR0bTlraXVoVEhiMDJuNjNJYWNpRmF5djNvbHlHRkxGdXU2T0J5dk13aGhPMUcyUUxWc0FVY0NOeG9BY1lBZm0wSlhn?oc=5",
    "date": "2023-05-22T14:30:14+00:00",
-   "summary": "HTML CSS Full Course 2026 | Learn HTML & CSS in 10 Hours | HTML CSS Tutorial | Simplilearn youtube.com",
+   "summary": "HTML CSS Full Course 2026 | Learn HTML & CSS in 10 Hours | HTML CSS Tutorial | Simplilearn YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1142,10 +1042,10 @@
    "title": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INXZ3djF6NFZzSGlIdnNJbjNQODgzaTQ0ZjA4dWlXOXJILWVCM0FuOFNzdkhXYzVXWUI3eUlmZjIyT2dPMVE0LTJycmh1b1E2MWNmc0RR?oc=5",
    "date": "2023-04-26T14:05:46+00:00",
-   "summary": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners youtube.com",
+   "summary": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1192,20 +1092,20 @@
    "title": "HTML And CSS Projects for Beginners 2024 | HTML & CSS Tutorial With 5 Projects Source Code",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUVdpXzlJeGd2Mmg4d2swUTA2dHZmcHFuYUZfY3A1bHJDd3ZoR3VsYTZpX0d2TXVES0EwMlpSYUJVSnZIYjUyYXQ4NGFpa1JObjNITmRR?oc=5",
    "date": "2023-04-13T13:30:03+00:00",
-   "summary": "HTML And CSS Projects for Beginners 2024 | HTML & CSS Tutorial With 5 Projects Source Code youtube.com",
+   "summary": "HTML And CSS Projects for Beginners 2024 | HTML & CSS Tutorial With 5 Projects Source Code YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZFdJNFk5N1A0QUUwcTJKbUpOdEE4cTduVlRYRThMMnhOVXBPbm4xTmtRY2dvWmhDX2xxLVUtaTI3UUtDUUlwOTYxc2s1eVJkUF9wVkRR?oc=5",
    "date": "2023-04-04T16:05:02+00:00",
-   "summary": "Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) youtube.com",
+   "summary": "Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1232,10 +1132,10 @@
    "title": "27 | HOW TO CREATE & STYLE TABLES IN HTML | 2023 | Learn HTML and CSS Full Course for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IYjI3Q2J6WjdMOWV5aHJTUi1yeVdnY21ORTBtb0VHR3hwZ09yZm5yeE1DODJuak1jNUdBTzF3T0lpMmNSSXBEVVVPMzJ6VmFyTDF0TDVB?oc=5",
    "date": "2023-02-19T20:39:19+00:00",
-   "summary": "27 | HOW TO CREATE & STYLE TABLES IN HTML | 2023 | Learn HTML and CSS Full Course for Beginners youtube.com",
+   "summary": "27 | HOW TO CREATE & STYLE TABLES IN HTML | 2023 | Learn HTML and CSS Full Course for Beginners YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1272,10 +1172,10 @@
    "title": "The 2023 Frontend Development Crash Course - Learn HTML & CSS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55ZTdkYWRCVzE1bDhqci1yM0p6dHctc1hIMVBTSFVZNGtDQ2UwY2VCVmhrR2hqbnhJQW5lU3J0dVlzMFBUbVU1cmY0VWQyV1MzQy1obVln?oc=5",
    "date": "2023-01-05T14:30:05+00:00",
-   "summary": "The 2023 Frontend Development Crash Course - Learn HTML & CSS youtube.com",
+   "summary": "The 2023 Frontend Development Crash Course - Learn HTML & CSS YouTube",
    "tech": "web",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1289,6 +1189,16 @@
    "lang": "ar"
   },
   {
+   "title": "1 | INTRODUCTION TO HTML & CSS | 2023 | Learn HTML and CSS Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Mnl6WXZ3T1hUdzBCTjZFbVItdXJDRERFbVpMR29JWEtHSUpoVTFtTjFGRUV6WHZzX0ZmdDlOVXZjSVZuaElHX0xqeC1CRXRXcmlFY1hB?oc=5",
+   "date": "2022-12-11T13:25:15+00:00",
+   "summary": "1 | INTRODUCTION TO HTML & CSS | 2023 | Learn HTML and CSS Full Course for Beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تصميم موقع ويب متكامل ومتوافق مع الشاشات. html css",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zUDRlWVd5WmxGQnJiTG9MUXlwRElFblZZNGVOZzBDSTY4RG44MjRfQVd5aC1za0xKX2RiSE50MlVaZ0l0Q0FwcnRvR1QzdHJvZzNXTXBR?oc=5",
    "date": "2022-11-17T10:08:58+00:00",
@@ -1299,6 +1209,16 @@
    "lang": "ar"
   },
   {
+   "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lay1mWVk2blJ0ZXZGWlhOaHNreVVWZkk4QXZ3ZjlhaU4yUEVsTGVsMDRwVGZnRzdXNDdQTzJ0OUllUUIwTHk0WVlONFZ3eHNSTFJ0RWR3?oc=5",
+   "date": "2022-11-01T16:39:15+00:00",
+   "summary": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB) YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "برمجة موقع انترنت كامل HTML CSS JAVASCRIPT",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Vjd2QnNHUlNoYlVFZ3ZtN21YMmxuMzR5c05SbVl2cm52TDZYd2JJcElqTFJ4YXRQdVJWM1dJeXZYVmhpNVlzSVV5aEd5QXVZbGVrRVdn?oc=5",
    "date": "2022-10-21T18:00:25+00:00",
@@ -1307,6 +1227,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Learn HTML & CSS – Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SbDN4a2huLUJJS0h1SlpGMjRjY3pGOUwtSFVGckUwXzVoRThiRjlHWHBzMU5vV1Vjd25HaV9lcERYV25VNWdRcnlzMVdCY3o0dzZzUm9R?oc=5",
+   "date": "2022-09-14T15:04:16+00:00",
+   "summary": "Learn HTML & CSS – Full Course for Beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "الفيديو الكامل مشروع المكتبة html css php sql شرح تصميم وبرمجة",
@@ -1325,6 +1255,16 @@
    "summary": "[Arabic] HTML And CSS Design 3 In 2022 in One Video YouTube",
    "tech": "web",
    "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Tutorial – Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRWltaUxwU29mYW1yOWV2dURnZWFvQVFwWU43ODBnelFTUTMxMGxXQldMTEhTZ3hGR0dXZTEwTWRaT3Faek9Vb2VJeXNSR19tRGppZkt3?oc=5",
+   "date": "2022-08-30T13:55:14+00:00",
+   "summary": "CSS Tutorial – Full Course for Beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -1359,6 +1299,16 @@
    "lang": "ar"
   },
   {
+   "title": "#1 HTML Tutorial | HTML Crash Course | Html Arabic | html course | تعلم htm | كورس html",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCVThHMy1pVGhNSzlVdUo5dHpuM3FMaERRN29OeHdOaG1aV25mcDFyaTR6ajhvY2pYbTVtcnhZdUVjOFZLdHRHaWgtQzdOVS02Uy1fQWx3?oc=5",
+   "date": "2022-07-23T12:00:28+00:00",
+   "summary": "#1 HTML Tutorial | HTML Crash Course | Html Arabic | html course | تعلم htm | كورس html YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الجزء (الاول)تصميم وبرمجة موقع الكتروني نظام حجوزات php.html.css",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FOXdsUlFJdHRYWUFxU240VkZEUFhSZGNHTXRleVBLSXFTdkJ6NjdWVlNjVGczbE1jQkVKd1RDeVdobXdsaDdNazVRU3piM0ZMUHNfTUVB?oc=5",
    "date": "2022-07-19T15:15:12+00:00",
@@ -1367,6 +1317,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lQWlCOUp6TWw2VXJSN0tjdHc1OGZFSHlKMHNuUE5Wd3ctVTJ6ZTVnQUZuNDgyREZVLTBNZGw2MWpCcmg4YzBQaElZbVA4aGJfa3VFRHN3?oc=5",
+   "date": "2022-07-19T13:00:34+00:00",
+   "summary": "CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "#23 كورس html كامل بالعربي | الازرار buttons",
@@ -1489,6 +1449,26 @@
    "lang": "ar"
   },
   {
+   "title": "How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDR0dCajctUHNXdWctc1hjQmZINGV3em9uQ0FoS01SdUNMT2xQb1RWenZSUGNDNE90S1ZKRXc3aktRdXlCSlFrd1VqVndhVWlxdzZUUU5R?oc=5",
+   "date": "2022-07-14T14:30:00+00:00",
+   "summary": "How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Complete Project for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsYjhEdGlqQTdaVmJjOXJVaUQyQ3ZsZUlJR3Z4cTh5SlJHcmRrcUJJdWNSdE1yY0tzbEstTjF1dUF0ODFVMTRpWHRPWVdNSG8xVUdNMnh3?oc=5",
+   "date": "2022-07-12T13:00:22+00:00",
+   "summary": "CSS Complete Project for Beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "كيف تنشئ موقع ويب باستخدام HTML & CSS & JavaScript تصميم موقع متعدد الصفحات متجاوب بالكامل خطو بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CX19lSkpnMUtiNDlkUEF0Yk1palV3d3JJWGJTbjh1LTVxS3R4amFBTzZIRnp5R1VDQmxjSmx0eHpkcU5sMVEtOFNRMkFjZS1ISi1rbVd3?oc=5",
    "date": "2022-06-13T11:00:33+00:00",
@@ -1569,6 +1549,46 @@
    "lang": "ar"
   },
   {
+   "title": "HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1SmYzb0JaU2NYLWxnT3NJY2tWTnQtQ2tOTF9TVnh2bGdpWlBFSVFFMUlhS00yT01BSG8yVlpvVFR6dFBxZVpqSlg0UGhXY0RqU1lfbGFn?oc=5",
+   "date": "2022-02-18T14:00:32+00:00",
+   "summary": "HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Create a Design System with CSS - Web Development Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LSnh2NW1fQjhQbDJBU3QyTXVMeDRCUkRmREV4bmNJUWVIUVA2X2dRU3pRNDc1cUdMcnNoUzBFV2pjTmd5WXJxdjVaRmdpaDJGU2taTkl3?oc=5",
+   "date": "2022-02-07T14:11:39+00:00",
+   "summary": "Create a Design System with CSS - Web Development Course YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "HTML & CSS Full Course - Beginner to Pro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ra3BybjZNdGJiTWZJdmxueC1Oc3VYR2hldTB3TkxPdmNIcTdXNG51b2Nkcmd1WjczX0ZDZzdrNzR5WC1faGszVDFGNVJVaDhsaG9sSlZn?oc=5",
+   "date": "2022-02-05T16:41:52+00:00",
+   "summary": "HTML & CSS Full Course - Beginner to Pro YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Introduction and Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nendOQjJaTWJSWFBiRlMtT2paYXdvWFd6RDNpX3p2UU1uNHhRd3B0dnAyVDFVNlJIcFE0b295XzVjdzFpc0wwWmdTLWxCR1Vtb0xmUmVn?oc=5",
+   "date": "2022-02-01T14:00:01+00:00",
+   "summary": "CSS Introduction and Tutorial for Beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "2/2 | HTML & CSS - انشاء موقع شخصي رائع باستخدام",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tR01xRWpQdkVpaV9KRFRPOW5xQUNUcWFId0FkRDk3eXYxVlhrNUVFa0VoOHI4bnhPS2pvWC1FWDJ0VWpOQ0lybGNhVTRKWXoydVppdjJB?oc=5",
    "date": "2022-01-22T18:24:25+00:00",
@@ -1597,6 +1617,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "HTML and CSS Full Course for absolute beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pS0N0YVd0QVVYVDRlbWdqb21mMktPZUdKRnZXdmpJWFFsY0ZPRFd4TlFscGRENE5jdV80WGlFYnN6NHZrUU96em43WEUzdTZrdTVYX1Vn?oc=5",
+   "date": "2021-12-17T20:20:55+00:00",
+   "summary": "HTML and CSS Full Course for absolute beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "learning html php css مشروع برمجة موقع الكتروني من الصفر الجزء الاول form,insert,connect,table,pdo",
@@ -1649,6 +1679,26 @@
    "lang": "ar"
   },
   {
+   "title": "HTML and CSS tutorial for beginners || HTML & CSS Complete Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2VE9uQlNoeWtBOVVFYW5YVEZGVHYxanM1eE1NOFBsZHpZU0hCc0NDNGVXb1VVVDE2OE1rekNBSU5OU2ZKLUJtLWZoUVZxWTc5NmJCYmln?oc=5",
+   "date": "2021-09-09T19:00:21+00:00",
+   "summary": "HTML and CSS tutorial for beginners || HTML & CSS Complete Course YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn CSS in 1 hour 🎨",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44NG84TWUxU0hWWWJyWktnSU9DbjFhTUZaRG5lSGJtaEZ2RzNKMXUtVXhGNnlhemZmS25KZzZHc3hHSmdES095VnhROVc3eUZnNm8wdVV3?oc=5",
+   "date": "2021-09-08T14:00:20+00:00",
+   "summary": "Learn CSS in 1 hour 🎨 YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "الدورة كاملة (تصميم واجهات برنامج مخازن وحسابات ( html css ) شرح ما نحتاجة فقط منعا للتشتت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MdC1JYy1xVDh1Skp3Ujg1RF9GZkVCX1RhMjZyZG1EaUFQODRQUzJDeDRUaGhvUi1Mc29wbDQ0eXJXWFBCUVY0T3pYVXN0ZWtPVXEzbEtn?oc=5",
    "date": "2021-09-04T08:58:43+00:00",
@@ -1657,6 +1707,36 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Learn HTML in 1 hour 🌎",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYWgxNUVFU0lzNExqbEtIWm9GQzZUdU91UEtBcEpmWU9KSzM5MjdKRGFiR25yVEhkQXpQTUk3MWJFMUdXMDZ6RU5WQ2l4bG1tdDNodE9B?oc=5",
+   "date": "2021-09-01T14:02:11+00:00",
+   "summary": "Learn HTML in 1 hour 🌎 YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn HTML forms in 8 minutes 📝",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQXBURjBSWXF4eVpkcGNjdHgtNlJmQ1VERlZlZ2JfbjVVVF9jcm1mZGYxdk5UNk52WHdEY2dRdzl2Q2dvMkQxTi01Qkl6M3VOcjdab2FR?oc=5",
+   "date": "2021-09-01T12:51:59+00:00",
+   "summary": "Learn HTML forms in 8 minutes 📝 YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "HTML Tutorial - Website Crash Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udWswSWhKYTNKUk5EUVRBcG14b0JYTnNkaW5tb2h1YjdoQVRQQ0tCX0FBNEpmOG5CQm82TWdfd1N4bHFaU2ZHR3MxbWhwNUdfTTJzSDd3?oc=5",
+   "date": "2021-08-05T13:56:08+00:00",
+   "summary": "HTML Tutorial - Website Crash Course for Beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "id في صفحة الويب باللغة HTML",
@@ -1699,6 +1779,16 @@
    "lang": "ar"
   },
   {
+   "title": "HTML and CSS for beginners in Hindi | HTML & CSS Tutorial | Learn HTML & CSS in 2021 |Great Learning",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fSVlHUHVTU29qdHJSWkJSVlJRU09iWTRUWHdVeGhsWi1zc0NTdkpmclNzdDd5cmxVcVRrUHhteUg4SFdmN19kdUlNaDh6NmYwbXdsZUxB?oc=5",
+   "date": "2021-06-11T07:38:45+00:00",
+   "summary": "HTML and CSS for beginners in Hindi | HTML & CSS Tutorial | Learn HTML & CSS in 2021 |Great Learning YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "17 HTML-CSS Div ID Class تقسيم الصفحة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PZFkwV1JWblV5aE1tMVg3VV9UMjAzZVlEWWI2U2NzUnROOWNSVE5EUV83ejhhdlFJT3dkMnBXSk9ySDNQLXdvYnhmWEpPRG5vN2dvZzZB?oc=5",
    "date": "2021-06-07T11:34:31+00:00",
@@ -1707,6 +1797,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "How To Create A Website using HTML & CSS | Step-by-Step Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaWtOcG96b3J3b0xUcTNfdl9XX1kzWnE3dW92aXdPRHBGV2laQXRZZ1ljQnRJdWEtSmpRbEt5TlNBeXR2LWotYVBNSFZnb3pTN2JsWktn?oc=5",
+   "date": "2021-05-16T12:06:59+00:00",
+   "summary": "How To Create A Website using HTML & CSS | Step-by-Step Tutorial YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn to Code - HTML, CSS, JS, React - Full Course - Ep 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rOUJhd2Uxdlc4QV9lWm1kWnpsb21uN3g2R3FDOVlFSzVuejBuV3J3OGU4UTJHb1l4ZllIOFFBZFN6TUYya2JiQ2VRR1Q5RDVIRno5blRR?oc=5",
+   "date": "2021-04-10T19:30:05+00:00",
+   "summary": "Learn to Code - HTML, CSS, JS, React - Full Course - Ep 1 YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "تعلم css في فيديو واحد فقط | كورس css كامل للمبتدئين",
@@ -1769,6 +1879,16 @@
    "lang": "ar"
   },
   {
+   "title": "HTML Tables Tutorial with CSS Styling - Crash Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9keDY0ZXFWY3ZrbmJJcWwxM3VlLUNROG80MTNzOERvS3dEZHEzd0pJdnduTnpLZkE3S1VFLTNyN0ZRWHlDbkpmTUF2bEZxbENVSmgwQlFB?oc=5",
+   "date": "2021-03-01T16:00:09+00:00",
+   "summary": "HTML Tables Tutorial with CSS Styling - Crash Course YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تصميم موقع شخصى كاملا || باستخدام html && css ||",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHNUpVODNjMWVUNXI5Yml4TERLbWJPQUg5ejhtd3loTWlEbTF4dnRjcldOUjRQZkR5ZkFXSEZOOHA0TUxlWGdRSU4tN1JFRGI1WXNVSHVB?oc=5",
    "date": "2021-02-22T21:15:07+00:00",
@@ -1797,6 +1917,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "CSS Tutorial For Beginners | Learn CSS Crash Course in 1 Hour",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGZDFUWWVocWZldExMQkF6cmxaYkRtMzM4by1xd2ZuYkJnV0F3QmFXUlJlRXVLQkkwMnFwbnJkT1pIeFE2eFVNX1M5U2psb09nVTFEVTln?oc=5",
+   "date": "2021-01-14T16:00:16+00:00",
+   "summary": "CSS Tutorial For Beginners | Learn CSS Crash Course in 1 Hour YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "HTML Tutorial for Beginners: HTML Crash Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NR3J5amhtam9RVVFkZ2tkUVBod1BfUHZIWXNJU0lwZklUa2pJcVVBSzM5RjNwcHVQVVN3ajZwSE9wVUdCUzBrdlFVb3I5ckR6eWJPZzVR?oc=5",
+   "date": "2021-01-11T14:30:10+00:00",
+   "summary": "HTML Tutorial for Beginners: HTML Crash Course YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "شرح مشروع html and css تصميم موقع كامل",
@@ -2029,6 +2169,16 @@
    "lang": "ar"
   },
   {
+   "title": "CSS tutorial for beginners 🎨",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnZnpJT3N1MGVSbjhFbjhZZWNmU2w0M1B5Rm1jYVNsbi1VSXphdVZ1OEhqa0h6MV9iM2UxQW1MTVotZGM4MVEzMVBnODZTMkhITGhZWG53?oc=5",
+   "date": "2020-05-02T03:04:24+00:00",
+   "summary": "CSS tutorial for beginners 🎨 YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "10 شرح طريقة إستيراد قوالب مواقع جاهزة How to import free HTML template in to django",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40T21YQmdTWjdoVjVsOHh2Q1lVejE5QWNaVzk3ZE1lZmRnbjU1eHVlQV9MSThrVERyR2k4Nll1cUJLQW5SODdoaHFfRExCdGtoc3k3LWJB?oc=5",
    "date": "2020-05-01T18:00:05+00:00",
@@ -2037,6 +2187,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Complete HTML & CSS Course in One Tutorial | HTML and CSS Full Tutorial For Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UT3JjdTI0akZCS2JrTUw5LTVVYTY0RkxZeHFIREh6Wll4UWZjVWUtWmpaSU1pXzFaNjNsRHZsbFlvdWxuLW1BQ1l5c1V2MjVpYUxrT2tR?oc=5",
+   "date": "2020-05-01T14:30:02+00:00",
+   "summary": "Complete HTML & CSS Course in One Tutorial | HTML and CSS Full Tutorial For Beginners YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "10. الصور Images في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
@@ -2069,94 +2229,14 @@
    "lang": "ar"
   },
   {
-   "title": "04-سمات العناصر Attributes في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1faEZFR1NwbkFuNHk5LVdkTWRocFY3UDJEVGd2UkpzazZSOXgyMmJ4Q2hMRHA1dVhPdmJhaUczMWtqWHBWOE92a3hsWC1wSDd2emRCSnZn?oc=5",
-   "date": "2020-04-13T20:38:29+00:00",
-   "summary": "04-سمات العناصر Attributes في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
+   "title": "HTML & CSS Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pZV90WXVOanlrTWhsN095VlJIRE5EODhhV0RZRHlGNmd1R2oxT3huNWxhR1BZUjE5ampuMm1ic3VfVDBRelpIc1h1MUlsOXFTXzU0RnZR?oc=5",
+   "date": "2020-04-15T23:40:29+00:00",
+   "summary": "HTML & CSS Tutorial YouTube",
    "tech": "web",
-   "sourceId": "ar-yt",
+   "sourceId": "yt",
    "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "03-العناصر (Elements) في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Iek5kNlNmSms1c1d5V3Nqcy15UGJyQWRwcUN1TjBQVUtjNGF2ZF80Z1JjSWxYdW5Gam5aM0lnVUZuSGpTa184ZFkyVG5qZ25VSnYyejVn?oc=5",
-   "date": "2020-04-12T02:14:44+00:00",
-   "summary": "03-العناصر (Elements) في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح خطوات انشاء موقع ويب php+mysql+html+css باستخدام برنامج Dreamweaver من البداية حتي النهاية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11a21FTEloSWVGZF96WkhiZTJpQzJoengyX09mWThOSVg3R1g1b1hjRG5jc2ZaeU5tRGNoNFJHTnJZeDhadEUyY1JWZTNqcEdUT1htR1hn?oc=5",
-   "date": "2020-04-07T00:04:27+00:00",
-   "summary": "شرح خطوات انشاء موقع ويب php+mysql+html+css باستخدام برنامج Dreamweaver من البداية حتي النهاية YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة تعلم html كاملة - الدرس 27 | طريقة إنشاء موقع متعدد الصفحات و ربطهم ببعضهم",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFM28wbDgzLTZONk9MWGVYX3F4YjloeWlqejNPcnhESEo2VTBlbzBfNmUtcFdQOVk3cHVPb0NOTm5xR0VXQjhHSndtZlQ2emZ2QlRnSGln?oc=5",
-   "date": "2020-03-25T12:48:20+00:00",
-   "summary": "دورة تعلم html كاملة - الدرس 27 | طريقة إنشاء موقع متعدد الصفحات و ربطهم ببعضهم YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "08. HTML دورة شرح عربى - bgcolor and background كيفية تغير خلفية الموقع او لونها",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Oay1HUFI5WkFtMG0tQXJucGt6bjVQcWJzRGUydDh1SzhuaFN4UjFpX09FMDI5cnNwVDlnVGRHY1JURHMxc3VpcHBzRjBodTVUeVM4ZUNn?oc=5",
-   "date": "2020-03-01T13:30:50+00:00",
-   "summary": "08. HTML دورة شرح عربى - bgcolor and background كيفية تغير خلفية الموقع او لونها YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح كيفية نشر موقعك في جوجل - بلوجر || رفع موقع على استضافة مجانية - قوالب html و css عربية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obmhMNHFnQnp6dVBtZnBzNExpbmxiaFBrNlEwU1NyZ2xHLUJCR2IybVlxbGZZLXU3VGVHdm1hRTBzYllCejJ1bVpYRE5sRklLZ2dJSjRn?oc=5",
-   "date": "2019-10-05T19:48:47+00:00",
-   "summary": "شرح كيفية نشر موقعك في جوجل - بلوجر || رفع موقع على استضافة مجانية - قوالب html و css عربية YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة تصميم موقع كامل من الصفر html css javascript php mysql",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13V0l1SUZuNERvM0I1RnBtM0NxZEdjVjMxdWN3cEVzbXZ0SmNmcnV3dHRlT096OXhfTG9rTUdqVnVLN3NsQ3I4S1lNOXdzMlFKQ2g0akNHdkFNQW5kNzhkeHQxUmc1OEVxSzA4YWJMMnBCUTgtcmhMU3dBbGc?oc=5",
-   "date": "2018-11-29T22:26:35+00:00",
-   "summary": "دورة تصميم موقع كامل من الصفر html css javascript php mysql YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الفرق بين html و css || الدرس السادس من دورة تصميم موقع ببساطة || 6",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pUlE0bjlEc0dRR1ZacXphXzRDTVNKd25fR0cyNXFyaTJ2d2JHdm1KenFxSlpLWC02SER0TjdHSEw1cmhLSGItWWI1YUZqTmY1aUVCQUxB?oc=5",
-   "date": "2018-09-16T20:50:46+00:00",
-   "summary": "الفرق بين html و css || الدرس السادس من دورة تصميم موقع ببساطة || 6 YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اسهل طريقة في تعلم لغة CSS من البداية للنهاية بسهولة و احتراف بكل تفصيل في فيديو واحد فقط الان",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53LXpMWDZIVFRnUW1ZdVpsRFdiTXQ4eG1tT3BhYnZ1U2drTFRNM1JSSEJ2NHhoS0ctc3hGdUpZVkNUWngwMG5PMHhiWXZuUE04N3NWcmxR?oc=5",
-   "date": "2017-11-26T09:43:01+00:00",
-   "summary": "اسهل طريقة في تعلم لغة CSS من البداية للنهاية بسهولة و احتراف بكل تفصيل في فيديو واحد فقط الان YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
+   "lang": "en"
   }
  ]
 }

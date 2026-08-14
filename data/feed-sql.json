@@ -1,8 +1,30 @@
 {
- "generated": "2026-08-14T21:56:46.323853+00:00",
+ "generated": "2026-08-14T23:05:09.372780+00:00",
  "tech": "sql",
- "count": 206,
+ "count": 220,
  "items": [
+  {
+   "title": "One docker compose up, One Seeded Postgres",
+   "url": "https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh",
+   "date": "2026-08-14T22:31:58+00:00",
+   "summary": "Docker Compose made your dev database reproducible, one command bringing up the same Postgres for the...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Prisma Postgres Seed: prisma db seed, psql, and the Direct URL",
+   "url": "https://dev.to/mikh-shytsko/prisma-postgres-seed-prisma-db-seed-psql-and-the-direct-url-2ab5",
+   "date": "2026-08-14T22:31:09+00:00",
+   "summary": "Prisma Postgres seed in one command — or rewrite your seed script every time the schema changes....",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "PopSQL shutting down means a lot of people need a new way to get data from their database into Google Sheets.\r\n\r\nI've been building SaturnSQL for this. Schedule queries and the results go straight into Sheets. Check it out at https://saturnsql.com",
    "url": "https://dev.to/infr/popsql-shutting-down-means-a-lot-of-people-need-a-new-way-to-get-data-from-their-database-into-381f",
@@ -193,11 +215,11 @@
   {
    "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners 2026 | Advanced SQL Course | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q2NYaWh2T3RtXzU1QU45M0p6Mm80aGhacUZIV1JuN3R2Qk1tendockZCczNQSURsVzBqQ3V4YmVjaXg5YnlUU2lGWkhMYjRLaWhrQm13?oc=5",
-   "date": "2026-08-14T11:57:36+00:00",
-   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners 2026 | Advanced SQL Course | Simplilearn youtube.com",
+   "date": "2026-08-14T12:19:35+00:00",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners 2026 | Advanced SQL Course | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -377,39 +399,6 @@
    "lang": "en"
   },
   {
-   "title": "Rate Limiting Isn't One Layer: What LogicVisor and Titan Actually Do Differently",
-   "url": "https://dev.to/david_essien/rate-limiting-isnt-one-layer-what-logicvisor-and-titan-actually-do-differently-3kim",
-   "date": "2026-08-13T20:53:45+00:00",
-   "summary": "\"Add rate limiting\" sounds like one task. It's actually three separate layers, each defending against...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Database Isolation Levels & Read Phenomena: An Extensive Deep Dive",
-   "url": "https://dev.to/urvish_shah/database-isolation-levels-read-phenomena-an-extensive-deep-dive-4bm9",
-   "date": "2026-08-13T20:43:52+00:00",
-   "summary": "Databases are messy places. In the real world, thousands of users are reading, writing, updating, and...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Detecting SQLite Full Table Scans in Node.js",
-   "url": "https://dev.to/edysilva/detecting-sqlite-full-table-scans-in-nodejs-4kff",
-   "date": "2026-08-13T18:13:32+00:00",
-   "summary": "Back in July, Aaron Patterson wrote about detecting full table scans with SQLite. The trick is that...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
    "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
    "date": "2026-08-13T17:38:27+00:00",
@@ -420,122 +409,23 @@
    "lang": "en"
   },
   {
-   "title": "Singleton: il pattern più odiato ha le sue ragioni",
-   "url": "https://dev.to/dev_iadicola/singleton-il-pattern-piu-odiato-ha-le-sue-ragioni-54gm",
-   "date": "2026-08-13T17:00:12+00:00",
-   "summary": "Pillar article sul Singleton Pattern nel framework: Database, EncryptionService, configurazione globale e quando un'istanza unica ha senso davvero.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Tailscale's 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams",
-   "url": "https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf",
-   "date": "2026-08-13T16:32:40+00:00",
-   "summary": "\"Our uptime was pretty shaky.\" That is how Alex Chan, an engineer at Tailscale, opens the postmortem...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "For Structured Data, Retrieval Accuracy Isn't a Model Problem",
-   "url": "https://dev.to/melih_birim_8363f43966da2/for-structured-data-retrieval-accuracy-isnt-a-model-problem-54h3",
-   "date": "2026-08-13T13:30:03+00:00",
-   "summary": "MongoDB shipped three retrieval features this week: context-aware embeddings, hybrid search, and a...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Tested 5 AI SQL Tools So You Don't Have To",
-   "url": "https://dev.to/giaa_a5d787a32b92a/i-tested-5-ai-sql-tools-so-you-dont-have-to-1b00",
-   "date": "2026-08-13T10:10:27+00:00",
-   "summary": "Over the past year, AI-powered SQL tools have exploded in popularity.  From generating SQL with...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "iris-agentic-dev -- Give Your AI a Live Connection to IRIS, Part 1: The Problem, the Tool, and Getting Started",
-   "url": "https://dev.to/intersystems/iris-agentic-dev-give-your-ai-a-live-connection-to-iris-part-1-the-problem-the-tool-and-1kc0",
-   "date": "2026-08-13T09:35:07+00:00",
-   "summary": "Part 1 of a series. Part 2 covers the full tool catalog. Part 3 covers ObjectScript skills. Part 4...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Need to calculate running totals or rank rows without GROUP BY headaches? Enter SQL Window Functions. Let’s break down how they work with practical, real-world examples.",
-   "url": "https://dev.to/nelly_mogere_194bac0cb2ba/need-to-calculate-running-totals-or-rank-rows-without-group-by-headaches-enter-sql-window-4kck",
-   "date": "2026-08-13T09:34:28+00:00",
-   "summary": "SQL Window Functions: Rank, Compare, and Analyze Without Losing Rows                         ...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How Database Indexes Work (And Why Yours Might Be Useless)",
-   "url": "https://dev.to/arnavsharma2711/how-database-indexes-work-and-why-yours-might-be-useless-3e8i",
-   "date": "2026-08-13T07:59:30+00:00",
-   "summary": "How database indexes work (and why yours might be useless)   You added an index on...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Index Only Scan Is Lying: Covering Indexes and the Visibility Map",
-   "url": "https://dev.to/arnavsharma2711/your-index-only-scan-is-lying-covering-indexes-and-the-visibility-map-43nd",
-   "date": "2026-08-13T07:53:12+00:00",
-   "summary": "Covering Indexes Explained: Why \"Index Only Scan\" Still Hits the Heap   You ran EXPLAIN...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Composite Indexes Explained: Why Column Order Is the Whole Game",
-   "url": "https://dev.to/arnavsharma2711/composite-indexes-explained-why-column-order-is-the-whole-game-11o0",
-   "date": "2026-08-13T07:51:17+00:00",
-   "summary": "Composite Indexes Explained: Why Column Order Is the Whole Game   Why won't the database use...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Day 4 | SQL Training | FREE SQL & Linux Training",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53R1FqZFRjS2ppMTJjN3FhWEZUZWdsMm5VQUNuTVI1R2t0QklIRnJENTM0dmF0eHBzNWl1cHI3LVNRb29scnpKVExsWkNneW1jZ1JGcl9R?oc=5",
    "date": "2026-08-05T02:29:35+00:00",
-   "summary": "Day 4 | SQL Training | FREE SQL & Linux Training youtube.com",
+   "summary": "Day 4 | SQL Training | FREE SQL & Linux Training YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | Advanced SQL Course | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CUlJzZlhld1A5VmxxSFRDS1JwazNqTEQ1dlFGMWtsandNNWtVVnhIaVRvN0ZyLTQtZGRRSU04Vnd1WjB4aXhDeHVhbC1nR1VqTkduZnpR?oc=5",
    "date": "2026-07-27T16:30:33+00:00",
-   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | Advanced SQL Course | Simplilearn youtube.com",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | Advanced SQL Course | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -610,10 +500,10 @@
    "title": "SQL Full Course 2026 [FREE] | Advanced SQL Course 2026 | SQL Tutorial For Beginners | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xSnRzczhCdnBMN0Nwbl9VTE1pTjBlZFh6LTdNbFpDU3o1OTdDbHZiSjlnUm41ODM2dkR0bFZQSFVycHkxMVA0RzJoVHo0b0Y4S0hKazR3?oc=5",
    "date": "2026-04-21T01:22:13+00:00",
-   "summary": "SQL Full Course 2026 [FREE] | Advanced SQL Course 2026 | SQL Tutorial For Beginners | Simplilearn youtube.com",
+   "summary": "SQL Full Course 2026 [FREE] | Advanced SQL Course 2026 | SQL Tutorial For Beginners | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -634,20 +524,20 @@
    "title": "System Design Course – APIs, Databases, Caching, CDNs, Load Balancing & Production Infra",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBLWpJQWJBazBfbXB6Z0lxVzd0MUMtM3Y4YVBuNHZMV082Vkc4QnljZ2xQTFpkTzVXZ1c1TFJzTUVxaFF5SzJWbFhZZGl6SGlHd2pUUE5n?oc=5",
    "date": "2026-04-16T10:00:28+00:00",
-   "summary": "System Design Course – APIs, Databases, Caching, CDNs, Load Balancing & Production Infra youtube.com",
+   "summary": "System Design Course – APIs, Databases, Caching, CDNs, Load Balancing & Production Infra YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "(The No.1 🔥) SQL FULL Course 2026 in Tamil | Beginner Friendly",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IZlRHSlM2c1YtM0pmbEJjTFVILTB6TUwyUl9LSDdhaFZfNjVCV1d5RjB0OE1VS3I1Rkp5SHhmMEhadURDNGNNOU0tODczVGtHampnZmN3?oc=5",
    "date": "2026-04-14T02:50:39+00:00",
-   "summary": "(The No.1 🔥) SQL FULL Course 2026 in Tamil | Beginner Friendly youtube.com",
+   "summary": "(The No.1 🔥) SQL FULL Course 2026 in Tamil | Beginner Friendly YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -674,10 +564,10 @@
    "title": "Free SQL Course With Certificate 2026 | SQL Course For Beginners With Certificate | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNEZhUHNTRXhJUE92UjJlM0k2Unc1RE5OT3NUTXJSSHZJUXFDR0w4WE1DUEs2QUJPNXRKQjlfNFFRWXVSa0JaUVBnR2ppOE9JdjFrUkdR?oc=5",
    "date": "2026-03-13T14:30:37+00:00",
-   "summary": "Free SQL Course With Certificate 2026 | SQL Course For Beginners With Certificate | Simplilearn youtube.com",
+   "summary": "Free SQL Course With Certificate 2026 | SQL Course For Beginners With Certificate | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -704,20 +594,20 @@
    "title": "SQL Full Course 2026 | SQL Tutorial For Beginners | SQL Data Manipulation Tutorial | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Q21UVzBkRjZ6ZVJpT3c3cXctbnB6bXRsQ19Xem9aRjZ6NEZ6bDIzaGJ3ajE5VnBqMlVVSUtpRlN6REhhTlVRY1N1cEZsS21fb1JzVHNB?oc=5",
    "date": "2026-03-03T22:01:04+00:00",
-   "summary": "SQL Full Course 2026 | SQL Tutorial For Beginners | SQL Data Manipulation Tutorial | Simplilearn youtube.com",
+   "summary": "SQL Full Course 2026 | SQL Tutorial For Beginners | SQL Data Manipulation Tutorial | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Learn SQL For Free | SQL Tutorial For Beginners | SQL Training | #Shorts | #Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNQWgyalBFYkhOQjJEWDdXaEwxQ1c4V1FIVVctNlhtay1KUHhXQXNoOFNHdktvVGRfakUxb1BvUnZCd3UwSy1TWmpYZW9kZ1BoT08zbw?oc=5",
    "date": "2026-02-24T15:45:11+00:00",
-   "summary": "Learn SQL For Free | SQL Tutorial For Beginners | SQL Training | #Shorts | #Simplilearn youtube.com",
+   "summary": "Learn SQL For Free | SQL Tutorial For Beginners | SQL Training | #Shorts | #Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -744,10 +634,10 @@
    "title": "SQL for Data Engineering - Full Course for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYnd3TmRESW44OG96RG1qRGtzWjhTZUY1Y2d1MThfOFNfUHVjajdVRlVSZkRjemczYUJ0Mzc2c2k0RDVzXzBTWHZYdlpzQlVMX2I5N1JB?oc=5",
    "date": "2026-02-11T13:00:57+00:00",
-   "summary": "SQL for Data Engineering - Full Course for Beginners youtube.com",
+   "summary": "SQL for Data Engineering - Full Course for Beginners YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -794,10 +684,10 @@
    "title": "SQL Full Course 2026 [FREE] | SQL Tutorial for Beginners | Full SQL Course 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fTlBxNXVhblVUZmdQYlk2eVROc2xqdGl1VnRjS3BCeTZkTUl0c3ktRmZ1aXY1eXFKYUNSTWdsRFBpMjlGcjhsZ3VFQ3I1MmI0UGtCVWJn?oc=5",
    "date": "2026-01-22T23:32:20+00:00",
-   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial for Beginners | Full SQL Course 2026 | Simplilearn youtube.com",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial for Beginners | Full SQL Course 2026 | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -814,10 +704,10 @@
    "title": "SQL Full Course 2026 [Free] | SQL Tutorial for Beginners | SQL for Data Analytics | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRnVtX0xVVTh6NFFFdzQwSm55LUY4Zkx0LUpBb2hMXy1PWjhBaTliYVA3d0h0XzZ5WDN3UDlYaXdlV1pxVE1aazROM3hDTUhhWDFKU0Vn?oc=5",
    "date": "2026-01-14T16:30:17+00:00",
-   "summary": "SQL Full Course 2026 [Free] | SQL Tutorial for Beginners | SQL for Data Analytics | Simplilearn youtube.com",
+   "summary": "SQL Full Course 2026 [Free] | SQL Tutorial for Beginners | SQL for Data Analytics | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -844,10 +734,10 @@
    "title": "SQL Full Course for Beginners in Tamil (8 hours) | code io - Tamil",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YUFhuelpwbGI3NGdUOVAxN2wyTUNOdlRRYUJtcWpZank4NURjQm9UU2tCaTRVZE4zQlF2amlCb0VMbEx4MC1TdlJ3NEZaTXM5T3JVUUJn?oc=5",
    "date": "2025-12-05T13:30:00+00:00",
-   "summary": "SQL Full Course for Beginners in Tamil (8 hours) | code io - Tamil youtube.com",
+   "summary": "SQL Full Course for Beginners in Tamil (8 hours) | code io - Tamil YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -894,10 +784,10 @@
    "title": "SQL Tutorial for Beginners 2026 | SQL Beginner to Advanced Training | SQL Full Course | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WVHFsUnJYMjBVVzFwRG5FeFZ0MU9jb0J2QWhSNnhuaGVxWHFVQngtOHhwaVk5ZUpDYU1rREx5TTVrNXdkRFU2bzVCcUMzVEhoODJsZ1FB?oc=5",
    "date": "2025-09-02T04:30:20+00:00",
-   "summary": "SQL Tutorial for Beginners 2026 | SQL Beginner to Advanced Training | SQL Full Course | Simplilearn youtube.com",
+   "summary": "SQL Tutorial for Beginners 2026 | SQL Beginner to Advanced Training | SQL Full Course | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -914,10 +804,10 @@
    "title": "SQL Full Course (2025) | SQL Course (The Only SQL Tutorial You’ll Ever Need!) | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TaHVDVVUycWlWY01FcS1ELXU2RFZKaHoyOC15VnhPY0lEWlhjeG9nN3E3TWRWbkloZUpKNXFWLUdWRGxXcG42d3VQcXNrTFNMRVpGejB3?oc=5",
    "date": "2025-08-15T13:01:40+00:00",
-   "summary": "SQL Full Course (2025) | SQL Course (The Only SQL Tutorial You’ll Ever Need!) | Intellipaat youtube.com",
+   "summary": "SQL Full Course (2025) | SQL Course (The Only SQL Tutorial You’ll Ever Need!) | Intellipaat YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -934,30 +824,30 @@
    "title": "SQL Full Course 2026 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MMkgxWi1TOUdCVFhEVG1rWG9BdzlBem5oYWN3b0owWFVzZXZlZTRRY3hNVG1oRUZHVGxRNmhjelV2TjVYRE5FVDZyWHBYTnUwUGhzZU5n?oc=5",
    "date": "2025-07-21T18:43:41+00:00",
-   "summary": "SQL Full Course 2026 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn youtube.com",
+   "summary": "SQL Full Course 2026 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "SQL Tutorial for Beginners (Complete Course using MySQL)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vMGpuWWF0V3U1c0xyY1RMeUhrcVhJcUFTaHJ1Y1psOGpfeUFyUzBNTG82NmVsbUJpT3FtaTRLMTdpMlJKc196T3dDVFZkTnkyLVhJVkx3?oc=5",
    "date": "2025-07-13T15:48:18+00:00",
-   "summary": "SQL Tutorial for Beginners (Complete Course using MySQL) youtube.com",
+   "summary": "SQL Tutorial for Beginners (Complete Course using MySQL) YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "SQL Full Course 2025 | SQL Tutorial | Complete SQL Course For Beginners | Edureka",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qaVhDM2l3YVpHbTRibjhuM3FOOEtJbkJEZldFTnBsNkdVWEN6ZjZlNUFJWXNra1FzekdScHFFekpwa3RxVnBMM1pzUXNMUXZKZzlZeG93?oc=5",
    "date": "2025-06-30T16:52:43+00:00",
-   "summary": "SQL Full Course 2025 | SQL Tutorial | Complete SQL Course For Beginners | Edureka youtube.com",
+   "summary": "SQL Full Course 2025 | SQL Tutorial | Complete SQL Course For Beginners | Edureka YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -984,10 +874,10 @@
    "title": "SQL Full Course 2025 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zeGNncEJubV9raVk1QkFOYlpxN1JaZlRmaW5ZVEozSVZ3SFJiWV9YTnVjdFVseFN3VVB3NzNoQko4LWRuMUZ4MFh3cUpwUlVXeXA1RjBn?oc=5",
    "date": "2025-04-24T21:26:15+00:00",
-   "summary": "SQL Full Course 2025 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn youtube.com",
+   "summary": "SQL Full Course 2025 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1004,10 +894,10 @@
    "title": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeGRFWWdoRkFaZDhQVGNoOXExeDUxcXBORjBMT3JlME9QbUlULUI3NWlrU29hT3JGRG55MkNpdl8zWUtJMWp6SjVieEhKajlpTmlWWWFR?oc=5",
    "date": "2025-04-07T19:15:10+00:00",
-   "summary": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn youtube.com",
+   "summary": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1024,10 +914,10 @@
    "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uR0dDRnIwQXdFM05iOVdSR2lMVDNrZ2EzbGlDYXlIckNsV0l5WU9wVFl4a2lHUGZycFBTdDR2bFlxUjR3d0lQeWsxUWJBWWxSd1hFSElB?oc=5",
    "date": "2025-03-27T13:00:28+00:00",
-   "summary": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero youtube.com",
+   "summary": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1054,10 +944,10 @@
    "title": "Announcing Master SQL - Our First Premium SQL Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9odmdKekpEanNZaHlSdkc3Z1BBYW4zblF4TWUxSDZobDZTNlFvT3A2Qk9yYTBmWTNvMUpUOTVUX091UzdRVzVNdTFCSG1rVXVUTjF3bXRB?oc=5",
    "date": "2025-02-18T18:25:21+00:00",
-   "summary": "Announcing Master SQL - Our First Premium SQL Course youtube.com",
+   "summary": "Announcing Master SQL - Our First Premium SQL Course YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1084,10 +974,10 @@
    "title": "SQL Tutorial from Basic to Advanced | 30 Days SQL learning Challenge",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FOWViZUo2Z1FDVW9weFk0SHZUdno3R1F0NEc2Xy00Mlc3bERzODFUUEI5ZGk0OW9BVjducXdxY0NTYVFpbmFjN19TaDgyQXUtbjZuRHVR?oc=5",
    "date": "2025-01-01T14:30:07+00:00",
-   "summary": "SQL Tutorial from Basic to Advanced | 30 Days SQL learning Challenge youtube.com",
+   "summary": "SQL Tutorial from Basic to Advanced | 30 Days SQL learning Challenge YouTube",
    "tech": "sql",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1171,6 +1061,66 @@
    "lang": "ar"
   },
   {
+   "title": "Learn SQL Beginner to Advanced in Under 4 Hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xanhFOGRnQ2U2UExoaHNjMFVuZUFRWFk1Zl9CNHV6cU0xSlVEY1d0N29TaldWeVg2bHVpUEVhNHVUS3Z5Y00wd2dlQ2xzeENINXlDSkZn?oc=5",
+   "date": "2024-10-08T12:00:27+00:00",
+   "summary": "Learn SQL Beginner to Advanced in Under 4 Hours YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL CTE (Common Table Expression) Visually Explained | Full Guide WITH Clause | #SQL Course 28",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iTVV0TWx4VDRHemI1eVV6Y0toLTQ2YU95UzFTLUNHaXZWLWZCalU1clUwdlBtRFFlNmRwMHhjRDZlLXpNc0FYUE9aZlgyMEpoTTd0UWh3?oc=5",
+   "date": "2024-09-17T10:57:58+00:00",
+   "summary": "SQL CTE (Common Table Expression) Visually Explained | Full Guide WITH Clause | #SQL Course 28 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oR01HMzlvVzFhbW1FenV1Umh4T0JHWUVhekRNTU01Uk9iSTZsdUhWY2xxLWV4Q2V2SW4zcjhocmwwZm1kVHVuTkVmdzh4RmV6aldyS2pR?oc=5",
+   "date": "2024-09-03T09:17:52+00:00",
+   "summary": "SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Basic SQL in 3.5 hrs | Complete SQL Beginner Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jNk9RWEJlT1ZIdVNyd3RDdThaRUVoWXo1SEs3QUY4ejJ6bHljOVMzX2VZN21JTFVCYmZKaElRTmZPOUlYQWJuVDh4RGk5SC1pN3FqTEpB?oc=5",
+   "date": "2024-08-30T13:00:08+00:00",
+   "summary": "Learn Basic SQL in 3.5 hrs | Complete SQL Beginner Course YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Full Course in Telugu | Free Notes, Practice Questions & Interview Questions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqSmpMU09MdUFPU25wVVhaek52T3dWUEJMUV96Sll2allRdUZ2UnN4Z21qMUVmaVpIYnFJNElPVF95YmMtbGlyUmFDXzltNWtrUFV3QTNR?oc=5",
+   "date": "2024-08-20T06:58:09+00:00",
+   "summary": "SQL Full Course in Telugu | Free Notes, Practice Questions & Interview Questions YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Course | SQL Training | Learn SQL | SQL Tutorial For Beginners | Intellipaat",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CQWtibEFLVVJBaFZoeVpETjlFR3VIMzJVTTVfYm1RZGotMk43NUxwcWdNZEt0VUU2WEFNcThtanhQTEVTSG9mYlY3b0JiemFxRGs0MWF3?oc=5",
+   "date": "2024-08-08T20:12:16+00:00",
+   "summary": "SQL Course | SQL Training | Learn SQL | SQL Tutorial For Beginners | Intellipaat YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "لغة SQL الدليل الشامل الأول - 5- التمرين 304",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYMVd4Zzl6eGU5aGtsNEVPdHA5TUpLRzNTUTM5c1VpNzdod1BjZGtUUHp0cnI3VUtTN2FLdDljbE4zc2F3bDRhLXBqeE9rUFhNVmcyX0VR?oc=5",
    "date": "2024-07-14T14:00:17+00:00",
@@ -1189,6 +1139,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Full SQL Crash Course - Learn SQL in 90 Minutes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fYS0tdkl5SzVaNFhHX3BreVcxd1F6ckNGakxHMURUcnc0TnNJZVc0VkZTWENYTWkxMXRKMVNfdGFpQ3g0ekRVZmdmTEFTd1RXVUE5dGJB?oc=5",
+   "date": "2024-03-31T18:24:04+00:00",
+   "summary": "Full SQL Crash Course - Learn SQL in 90 Minutes YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Views in SQL , types of view in SQL بالعربي",
@@ -1221,6 +1181,16 @@
    "lang": "ar"
   },
   {
+   "title": "Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96S2lxZkNRYkZSek4zNjRvWWpNS2RoWTdqTDZuQ3VEVGxMX2xXLUl3dlB3VEdnLXFwcWZSdjlpQV9rbWx3NGphRkI2Y053ZTBicHpjdTh3?oc=5",
+   "date": "2024-01-09T14:51:14+00:00",
+   "summary": "Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more) YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "الفرق بين SQL و MySQL | ما هي قاعدة البيانات و كيفية التعامل معها؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cElKVHc2QW1HRnZmTXlrT0hnSDh0NHBBLThsalVjYXFVMDRyNzZCaGhEMnc5RzlLWmpDZ0pNVVZTYmxlR1M4TTU0SHZsdkgyaVlDY2Nn?oc=5",
    "date": "2024-01-03T08:51:12+00:00",
@@ -1229,6 +1199,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "SQL Full course in 30 min | @PavanLalwani",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNUI3VEdlMDRIdEo1UDlOX2J3VXZKeno1aHZLNnZYQXYxTEM5QkNJOXpaQl9sd1dfM1NiS0ZncTJ0cm41ZkQyQVpsU09OUTJ1X1VSVG93?oc=5",
+   "date": "2023-12-07T14:00:00+00:00",
+   "summary": "SQL Full course in 30 min | @PavanLalwani YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "تعلم قواعد البيانات في فيديو واحد | كورس قواعد البيانات بالبايثون python sqlite3",
@@ -1267,6 +1247,16 @@
    "summary": "01-Oracle SQL (Introduction Part 1) By Eng-Helal Ahmed | Arabic YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL - Complete Course in 9 Hours | SQL One Shot | SQL Full Course by Sumit Sir",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Rml6S0hDS0ZYREt2RkFLek1NV2tXM0ZwNkQ1LWg2Y1BEa1RPa0ZJVng3ZXRhZzNhLVpLMjBRenJpa1VFZml1bndSSmw0OU5OajVkUUJn?oc=5",
+   "date": "2023-10-10T07:09:19+00:00",
+   "summary": "SQL - Complete Course in 9 Hours | SQL One Shot | SQL Full Course by Sumit Sir YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -1319,6 +1309,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "SQL - Complete Course in 3 Hours | SQL One Shot using MySQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRN2dLSGk4dGRWU2l6WnMzSzEyeWxXc2VKc3ZKN1kxcndycjR5RGItY3pKa1JDWWxHZDlKY2N0LV82VTEzbUZDYzVHYmw1bmFuSS1FOEN3?oc=5",
+   "date": "2023-08-18T17:38:13+00:00",
+   "summary": "SQL - Complete Course in 3 Hours | SQL One Shot using MySQL YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "طريقة عمل خطة صيانة قاعدة البيانات Data Maintinance Plan In Sql Server",
@@ -1451,6 +1451,36 @@
    "lang": "en"
   },
   {
+   "title": "SQL Server Reporting Services: Data Analysis Full Course Tutorial (7+ Hours)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IMS1YeFRXUVh3bU91b3NEWDBvdkF5c1dVclN4NzEzRDl3LTRGNThfNTA5WHUwMTlFNUgyamVMd2huRUZtWmx1c1dtTHdadlFneEpYZXh3?oc=5",
+   "date": "2023-03-03T17:30:05+00:00",
+   "summary": "SQL Server Reporting Services: Data Analysis Full Course Tutorial (7+ Hours) YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft SQL Server 2022 Tutorial for Beginners | Amit Thinks | Class 11th 12th",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DX2hNc2FjbUI5TmlJcTVpdEkxdlRxanZXVmpQMXd4eFM2dzVGQWUzYnBIQVRyXzlHSGdvalY2ZWRLRzhOTDloajMtdGxETkR4aUVPMm9B?oc=5",
+   "date": "2023-03-02T12:43:03+00:00",
+   "summary": "Microsoft SQL Server 2022 Tutorial for Beginners | Amit Thinks | Class 11th 12th YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Welcome to FREE SQL Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ia0dNb3ltdHB5aFBaaHRWRXZjTzNhZVJGeDY1WjhuLUFEZzlnN3RCekhzdnZTQ1BjbE1yU3pXNUNIdVVfWWxoTUlSbEJNUmh5S01TR1V3?oc=5",
+   "date": "2023-02-22T22:29:19+00:00",
+   "summary": "Welcome to FREE SQL Course YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "🔥دورة MySQL دورة كاملة في 6 ساعات فقط🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN24yNWdzZVFsMFd5Y3loUEhvZjhXZ2NVLW9ST3FhMUlObFVVRGhsUzdEUDlRdThPYmVhSTN3RUNTSE4wdlI4b21wbFZfb3V6RkpxMTNB?oc=5",
    "date": "2023-02-10T17:30:08+00:00",
@@ -1471,6 +1501,16 @@
    "lang": "ar"
   },
   {
+   "title": "SQL Full Course | Learn Structured Query Language from Scratch | SQL Tutorial | @SCALER",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yU1JGRlRkdnotdjBldkJud0xVYUc5MnliQ0tYQnExdEZNbFJwQWc1aFR6ck5UMW42dlg5MURrY1otenZLMVNWcVRaZG1UNFdPMlExQVJB?oc=5",
+   "date": "2023-02-08T13:30:08+00:00",
+   "summary": "SQL Full Course | Learn Structured Query Language from Scratch | SQL Tutorial | @SCALER YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تعلم بايثون مع قواعد البيانات كاملة - python database ( حصري 🔥)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NEFZX3ZFQkdON09FaDhQaHM3RVB0LUJweWdQQ2JzSDIwck5nOXBTaGFMRHFGYXl5UFBPb2NtMDNTUHk0ZFMzNjl3MkdtTXk0S2JNNXd3?oc=5",
    "date": "2023-01-20T18:44:56+00:00",
@@ -1481,6 +1521,16 @@
    "lang": "ar"
   },
   {
+   "title": "SQL Tutorial for Beginners | Learn Structured Query Language from Scratch | SQL Basics | @SCALER",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qSEpMYzZWTmJMa3J0aU1jbVZIN05hellZSGNuTEFyREIxN0VTbVlmWlZ6aTRhVy1leUlldVFvWm5rMnF2Y2FKczJTNnJDdjkwOVplWFlR?oc=5",
+   "date": "2023-01-16T13:30:06+00:00",
+   "summary": "SQL Tutorial for Beginners | Learn Structured Query Language from Scratch | SQL Basics | @SCALER YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Lesson 7 - SQL Server - Select Statement - Part 1 استرجاع بيانات من قاعدة البيانات الأول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Lc3E0M2x4WURUS25WMlBkOXBsbHNTc2k3OEJsU2tqb0U3czhjc1hhN1kwNjFxVmQyTUl0b280VlMtdW5Cdmt2aGwwM1hQYzBUaVV6NVVR?oc=5",
    "date": "2023-01-14T22:43:53+00:00",
@@ -1489,6 +1539,76 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Top 3 Simple Rules for a Professional SQL coding Style - SQL Tutorial #10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqYU9YZG9OMHIxMjEzZVBsNHk5Ni0tVTRKSmRTSzlTRGo2MTNSVzJoVlZEelFLdFRpYlE5c3Jrc0FEY1YxcmpVUFJfSDBCWWZkbWFfN2p3?oc=5",
+   "date": "2023-01-09T15:00:03+00:00",
+   "summary": "Top 3 Simple Rules for a Professional SQL coding Style - SQL Tutorial #10 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Install Database and Dataset to Practice SQL - SQL Tutorial #9",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44LW1YZDNhS0R6YktNYUIwemk4clV5YUJjWEp4MkhmVFJmTk9Da3JaVjhjSk1WYWpSeS1WTXZ3YTlpMGNuQ1BSNlpFZTFITXl5YkFRMkt3?oc=5",
+   "date": "2023-01-09T13:00:06+00:00",
+   "summary": "Install Database and Dataset to Practice SQL - SQL Tutorial #9 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "The Ultimate Full SQL Course - MySQL Tutorial For Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dEIzVVE2X0d3WFFFaW4zNHpuQWxrTEhEdUYySFdnaTI2LVNwRm1USVlQY2JfeDk3bTR3MWh4ekhqUnNTcTVPUEwtNzc3TjV5NUFxa3hB?oc=5",
+   "date": "2023-01-05T23:00:03+00:00",
+   "summary": "The Ultimate Full SQL Course - MySQL Tutorial For Beginners YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Python With SQL Databases - Full Crash Course | Python Database Connectivity Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ERG1BYkI3cXY2X1ctN2hqVzZOLWE4Tk10U0pCT3RZTlFGOTFMa005dDBNZFk2NDFoZDM3ZERuY2RpT214ZGZ4SmhLUmpSUmZ4a1lTRGln?oc=5",
+   "date": "2023-01-03T08:00:04+00:00",
+   "summary": "Python With SQL Databases - Full Crash Course | Python Database Connectivity Tutorial YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Full Course for free 🐬",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJVjhFVUllMEJEZTJVOU9jSXhPNWRCTXpnUDUxOWZPUDd4RklnUWtGUW1wSk9uZjVaVkU4YlZWN1lkZ0xDY1NhRjhzUHVaWUM3OHN5clV3?oc=5",
+   "date": "2023-01-02T15:00:02+00:00",
+   "summary": "SQL Full Course for free 🐬 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Full Course In 10 Hours | SQL Tutorial | Complete SQL Course For Beginners | Edureka",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PQUJfc3k1dUswUExhLUN1dVBaRVdWTVhiVWpaOC1kbnJCZWJQSkZOakNYM19QVGNHTmhUVkpPZjdabGlaQWt6YXZMVjJudVNRaUJ5bFhn?oc=5",
+   "date": "2022-12-29T17:50:02+00:00",
+   "summary": "SQL Full Course In 10 Hours | SQL Tutorial | Complete SQL Course For Beginners | Edureka YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Tutorial for Beginners | Full SQL Course In Hindi",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iQVN1Yk5USEVGYXlrZWVyOEZaNENvRWktS3g2WFU0WGo3bFhCSXVUYS1fS0pjcmtqaUlEZ3p3UVFfc1M4WjUzY0RJNGswNTF0d2VoX3JR?oc=5",
+   "date": "2022-12-10T11:51:46+00:00",
+   "summary": "SQL Tutorial for Beginners | Full SQL Course In Hindi YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "27 قواعد بيانات MySql بالعربي | الاتصال بقاعدة البيانات عن بعد",
@@ -1551,6 +1671,26 @@
    "lang": "ar"
   },
   {
+   "title": "🔥 SQL Tutorial For Beginners 2023 | SQL Full Course 2023 | SQL Tutorial 2023 | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRjFLNVF4emJtdXRzSHFfVjlGWVZxQU5VVFVNbFhQclhHeDcwR2RaclpJU0hsanFvbVhYSVZ5V2FHU2QtOWRHRk1wOERHVWxvUmdFelRR?oc=5",
+   "date": "2022-09-21T22:10:30+00:00",
+   "summary": "🔥 SQL Tutorial For Beginners 2023 | SQL Full Course 2023 | SQL Tutorial 2023 | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "What Is SQL ? | Database in SQL | SQL Introduction | SQL Tutorial In Hindi 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LRVJoU24yVzQ5VGhlYVJ6LVRjb2h1dHhNN0VqTF9FdE0wbHJPS3RMZkJsaGVfb2ZRUWJoaVRpSVJ3WDhvd1dzYmhPbWItQ08yMDhjN3JB?oc=5",
+   "date": "2022-09-21T05:56:07+00:00",
+   "summary": "What Is SQL ? | Database in SQL | SQL Introduction | SQL Tutorial In Hindi 1 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "006 كتابة أول استعلام بلغة SQL",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Oak56MUQ3Z0U3ZWRCYzNLYWdjWm9qVHlhaGEwYlZJVlJVOENkT182dXg3SHdxOFhBQ0Q1SnlBWXlWOUxTSG9WNnctdUt6REpsbmhJU21n?oc=5",
    "date": "2022-09-04T14:14:11+00:00",
@@ -1579,6 +1719,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LUUhLSWpHWTJzaWxCc3pEc3VxTnZoWFBCNlRuWG1OWmRDeXZKY0M0MGlIMjU1TjJ6OXpYX0Vjck5TTG5fWUs4a0RJeDBEcjJxTHN1YkdR?oc=5",
+   "date": "2022-08-17T16:07:03+00:00",
+   "summary": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners) YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "أسئلة امتحانات الوظائف المتعلقة بـــِ SQL",
@@ -1611,6 +1761,16 @@
    "lang": "ar"
   },
   {
+   "title": "SQL Full Course in 2 Hours | SQL Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53TzNZT3dZZld2VWZQbV90d2VEQzlmNjZrLWlCdVF0b3oyNXRrS18tR3MwMHl3V0o2dmctZTlVNFdKQkhPNmF4Ujk5MndFME95eFJkYVNR?oc=5",
+   "date": "2022-05-31T13:57:08+00:00",
+   "summary": "SQL Full Course in 2 Hours | SQL Tutorial for Beginners YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تعلم قواعد البيانات والتحكم بأي سيرفر عن بعد Database - تحويل اللغة الى برنامج بلغة بايثون",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yc3NxbmxZRjByRFZ2T1BoY3hRcnZTZjc4WjVZb1kxQUt4bkIwaVpMajJ4Y3hiTzFZNHItNTBUR00zWXN5NWhBelQySDY2eUdlUkJyaHFn?oc=5",
    "date": "2022-05-15T13:46:12+00:00",
@@ -1639,6 +1799,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Beginner to T-SQL [Full Course]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfaHR3WTdGT2FLeTQ4VURmNElIdldFYXRuaWMtc1NIYnpxR0xGRTdnN0NmTVFBODNDZm9ES28talpRM2VMblgya0FBM3gzVjBlVEZlRXh3?oc=5",
+   "date": "2022-04-07T17:59:45+00:00",
+   "summary": "Beginner to T-SQL [Full Course] YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Tutorial - Full SQL Course for Beginners and Advanced Users",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nOU9ONVg3SjF3UTgtZlRDUVRZbzFub01LSl95OGdUeUd2TkhvcF9SamppZk5VMV9Gc0pCNVlvUXpDQ2lrRlNVRnFJcTJpalRXY3o3blk5Sm5qRXVQVldvUVkyS0tVZ0NfaGp1bDF5QVlrR2FTRkNGNllac3o?oc=5",
+   "date": "2022-03-23T16:10:04+00:00",
+   "summary": "SQL Tutorial - Full SQL Course for Beginners and Advanced Users YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "00. Course Intro || Learn SQL in Arabic - دورة كاملة للمبتدئين",
@@ -1681,6 +1861,16 @@
    "lang": "ar"
   },
   {
+   "title": "Complete SQL Course by Sumit Sir | Learn SQL the right way | Trendytech",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZM2FVLThlcThZakFnalBKTWtpRlJ0czh2Zl95b2VpQnBydlV6SWFXMU9VX1Rab2dPR1RJMUJ2M2prT3Z6OHNtWG1KT2dsTDNhVjg1RWNB?oc=5",
+   "date": "2022-01-14T11:45:20+00:00",
+   "summary": "Complete SQL Course by Sumit Sir | Learn SQL the right way | Trendytech YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "020 قواعد بيانات MySql بالعربي | إضافة سجلات إلى جدول INSERT INTO",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00bnVwMnRjZDhBQmE4ZTZuUDRrY3NHbjlITWRQZnl6SEcxcHoyM2pFYnBMc1Bna2k5NlJnOXRhUGktUHI2NVcwVXBWeFgyVk1WYm52TVhR?oc=5",
    "date": "2022-01-14T09:00:34+00:00",
@@ -1691,6 +1881,26 @@
    "lang": "ar"
   },
   {
+   "title": "SQL Crash Course for Beginners | SQL for Data Analytics | Community Webinar",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxek5rQklBUUp1bmdCcXhaZFFvUE1yV1F6TEk4YkRXWEQ4UTNhQ0VmdFVadGhUbENYYTBJMlBwNnVOd2FpcVpjRGZaa3l6MHJWcVdzYjln?oc=5",
+   "date": "2022-01-12T21:10:07+00:00",
+   "summary": "SQL Crash Course for Beginners | SQL for Data Analytics | Community Webinar YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jQm14dU5jMXBpTnNQRjUyYVd3ZTFyZVlQQXFmRGpXX19tNVBrRGFCb25rVGFGTWg4ZWh3Z0N3NEVuSmxtWE9YWXVKWTM2ZjZ3VXdtdDZB?oc=5",
+   "date": "2022-01-06T13:00:00+00:00",
+   "summary": "SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 1 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "SQL Server Search for Column or Table | كيف تبحث عن عمود او جدول في سكويل سيرفر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsYXFnazZUVnBjWmZGYmFnQnBZQjNtb1Jhc2Mxbi1uNDdHVXNIQmNFMlNaVzF0MEZmU21CNWsxMVVDMHN3eUd1ZU9PUy0yMTRCaUN3UHdn?oc=5",
    "date": "2021-12-30T22:26:01+00:00",
@@ -1699,6 +1909,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "BEST Online Courses to Learn SQL and Practice SQL Queries | BEST SQL Courses",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSlU3QmJFcllhckc1Q3ZCaVRfR2RpcEZSOVJxVU42WmJKbEhnb0hCNzdSTjU3VnZlLVhLa1pBamdyRi1iaWdxX1Z1dG0tdTItZGVDS1Zn?oc=5",
+   "date": "2021-12-22T13:11:25+00:00",
+   "summary": "BEST Online Courses to Learn SQL and Practice SQL Queries | BEST SQL Courses YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "شرح درس الاستعلامات ولغة SQL || الجزء الأول || توجيهي || علمي",
@@ -1721,6 +1941,16 @@
    "lang": "ar"
   },
   {
+   "title": "Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTjFSQi1lQTU5aldGaUVZY2RGUVlWQ1BES0NXck1OUVlfSzkyaHdjLUdOZnJndVVNcDdGUEhzR0E4THdtS1ZDSDlaZEhpX2dtTDRpZEl3?oc=5",
+   "date": "2021-10-26T14:19:14+00:00",
+   "summary": "Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "ليش نتعلم ادارة وتطوير قواعد البيانات ؟ وايش الفرص الوظيفية ؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QemppMkpZaEs4RE5lYlpxcmI5MEZLYU5FV3VFMVM2ZWpSYUpwY0ZoaHBkMEdvbmxsTlBaLWcyVlBUQXgyd0t1RWM2QjBhU3k0TlJUUG5B?oc=5",
    "date": "2021-09-22T06:52:09+00:00",
@@ -1739,6 +1969,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Oracle SQL Tutorial | Oracle DBA | Oracle SQL for Beginners | Great Learning",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRzhoZlhQV1RXYXhLUkQxSGxCSGNpYlNNM1lPQ1RmaC02T0wtcGVBYW4yU2t1TEhrandKM0xUbEthN0g3bkNfZ0F5WG5ubkJQRWxWZTJB?oc=5",
+   "date": "2021-08-28T13:30:54+00:00",
+   "summary": "Oracle SQL Tutorial | Oracle DBA | Oracle SQL for Beginners | Great Learning YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "#001 Introduction To Database [ شرح بالعربي ] #dml #sqlserver #sql #jumpstart",
@@ -1775,16 +2015,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWHE4d1RDdlhLZ1FXLVJNWFVac2hxZ0syWVFSZkREVDliV01RY1VoV2NrbTFlUkRCbDlZZmNhUGZUbGRkbmJ1TlpUTXBpa0ZCVGhsLW93?oc=5",
    "date": "2021-08-03T22:05:00+00:00",
    "summary": "02 - | MS SQL Server For Beginners | - | System Databases - Create Your First Database | YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OS0VfQmtoWGE3SV8tMFlkUHY3Y1dtRWJiSGFad3F1MkJxX3FpRE9CV3hSTDhOaDM4RF9jYkZFejYtcUgzVjB6Z1ppUmdDb3A5N3BJY2ZR?oc=5",
-   "date": "2021-08-02T12:07:38+00:00",
-   "summary": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2015,106 +2245,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jQTk5N2N3US1VVGtBSnQ1ZldPa210ck55QzQ4Z3ZWSllZYWVaREtfcmJEYTY5cEcwNEliVDZmVnFpc2NvMW54aDJlYnpkOXFGT1RCcmZR?oc=5",
    "date": "2020-10-09T10:00:04+00:00",
    "summary": "استعلام الحذف Delete باستخدام لغة SQL - توجيهي علمي وصناعي YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "استعلام التحديث Update باستخدام لغة SQL - توجيهي علمي وصناعي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mVXZFb3hxN1NuR1RQZmM3bkZSWl9QalMtVzJlaW4xZEtuN3p0eUgyMTFCV1RyY3E4RFRVeDlfVVJoeFE1Y0lJR0RONXVDQ2lzbGhJcDZB?oc=5",
-   "date": "2020-10-09T01:58:52+00:00",
-   "summary": "استعلام التحديث Update باستخدام لغة SQL - توجيهي علمي وصناعي YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "استعلام الاختيار (التحديد) SELECT QUERY باستخدام لغة SQL ( الجزء الثالث [الفرز])- توجيهي علمي وصناعي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lN1JjVDhndEgwU2tWZFFPTnhVUlBNblZDM1NzbG1vdjlJX3UxS2U4RGstY1UwcTl1T2wtMWtZZFRtVzU3T0dhWnFOX3FrMk5XX3QtMmtB?oc=5",
-   "date": "2020-10-05T17:00:01+00:00",
-   "summary": "استعلام الاختيار (التحديد) SELECT QUERY باستخدام لغة SQL ( الجزء الثالث [الفرز])- توجيهي علمي وصناعي YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الثاني ) - توجيهي علمي وصناعي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZVlHTGZ1ZWNzRjdDZEZOallQX0g2Xy1CWGdqdElKMV9YNnVKdkc4MUlUdy1JQkRlYXlGQUk1ZU1MRW9zdlpmdVlENXQzb3FJRFJ5bTB3?oc=5",
-   "date": "2020-10-05T12:30:01+00:00",
-   "summary": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الثاني ) - توجيهي علمي وصناعي YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الاول ) - توجيهي علمي وصناعي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ER0FhSFBmMFZQUmlpMlg2aFlDV2pfODFkVUd3ME5PdUg0ZVN1VTV2LUVLTDJJSkpwZkRkUlJEbkI5ZW5rcHhiQWhPX0U3VFZGUEN2VVFn?oc=5",
-   "date": "2020-10-05T08:00:17+00:00",
-   "summary": "استعلام الاختيار ( التحديد ) SELECT QUERY باستخدام لغة SQL ( الجزء الاول ) - توجيهي علمي وصناعي YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الاستعلامات ولغة SQL ( مقدمة ) - توجيهي علمي وصناعي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdUphYzFNSjh6MzA0TU90MF94VEo5dEpHSmNKSjBoNkJyWXlzVk94QWlsV09sbXJBeGJ0eUVScE5RaVdjUUcwSTZveXUxNjd3RWVDTEdn?oc=5",
-   "date": "2020-10-05T02:21:32+00:00",
-   "summary": "الاستعلامات ولغة SQL ( مقدمة ) - توجيهي علمي وصناعي YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تنزيل وتثبيت install sql server 2019 بالتفصيل",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96eEk2eHl3ejNCSXNtSjdybmlQc21JU2Y1NTR2QjBPRFBqOUpITm5uX1RDbmloTHJJeWNqN2YwTkhaSXh4LUdSbDN1ZEJmQl9pX1FSVFpR?oc=5",
-   "date": "2020-09-22T21:24:41+00:00",
-   "summary": "تنزيل وتثبيت install sql server 2019 بالتفصيل YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة إنشاء إتصال ب قاعدة البيانات MySQL مع PHP على سيرفر محلي | دورة تعلم PHP MySQL كاملة [3 من 45]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16ZDU2N3N5V19vRi1zUzQycWpFaWxwb3JCaEEyd1dNYkcydDhLT2hnS1JzSDE2d3dYUDAzaGM0Mng0SWxpZ29IbWRYVGtIa0hzdVpMQk93?oc=5",
-   "date": "2020-09-03T06:23:20+00:00",
-   "summary": "طريقة إنشاء إتصال ب قاعدة البيانات MySQL مع PHP على سيرفر محلي | دورة تعلم PHP MySQL كاملة [3 من 45] YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح أساسيات لغة SQL للتحكم بقواعد البيانات في أقل من 15 دقيقة.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13QXlHbm9KLU03T0hmV0RhVEI0UUxKQXZidV9YU0F6RGZFUmhWRkR3WGE4VjlDRGN0azExVndRZGUzRFZrR2M4a1JBMkt5Z1lUYnF6NFh3?oc=5",
-   "date": "2020-08-16T19:58:43+00:00",
-   "summary": "شرح أساسيات لغة SQL للتحكم بقواعد البيانات في أقل من 15 دقيقة. YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح SQL Drop Database | أمر حذف قاعدة بيانات في SQL | دورة تعلم SQL و MySQL كاملة 3",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hNlR4OUNwV202ckxrTU1KWFJpM19qWGYxQkI2cHB2QmoxdDBra25RV3ROU0NrSWVER2tiaFVGczB1UHVRWDV5ZWpCWUVvbjBfMkxISHV3?oc=5",
-   "date": "2020-08-14T10:12:47+00:00",
-   "summary": "شرح SQL Drop Database | أمر حذف قاعدة بيانات في SQL | دورة تعلم SQL و MySQL كاملة 3 YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح كيفية انشاء قاعدة بيانات على سيرفر محلي & شرح phpMyAdmin | دورة تعلم SQL و MySQL كاملة 2",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55OE8wZ2JMQXRLV3FqaW5TWjJRUUtrXzdBSkVBMHRXR2VmX09nMEVTVWZmZ1VndExkUGJoMDdLLWRWZWY2T0hmek5YNnpkMlI5aWZGc3Z3?oc=5",
-   "date": "2020-08-06T17:59:19+00:00",
-   "summary": "شرح كيفية انشاء قاعدة بيانات على سيرفر محلي & شرح phpMyAdmin | دورة تعلم SQL و MySQL كاملة 2 YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

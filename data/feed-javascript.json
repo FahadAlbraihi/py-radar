@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T21:56:40.159349+00:00",
+ "generated": "2026-08-14T23:05:03.252091+00:00",
  "tech": "javascript",
- "count": 214,
+ "count": 220,
  "items": [
   {
    "title": "JavaScript Projects Beginners Can Actually Build (No, Really)",
@@ -459,116 +459,6 @@
    "lang": "en"
   },
   {
-   "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-58j6",
-   "date": "2026-08-14T05:15:20+00:00",
-   "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Meet Velociradix: The 180,000 req/s C++17 Powered Web Framework for Node.js",
-   "url": "https://dev.to/moaaz_yahia_4e3bb39e5be03/meet-velociradix-the-180000-reqs-c17-powered-web-framework-for-nodejs-3mcm",
-   "date": "2026-08-14T04:51:01+00:00",
-   "summary": "Hey everyone! 👋  I've been working on Velociradix, an ultra-fast, zero-dependency C++17 HTTP engine...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Optimizing Panic-Value Ranking in Documedic’s CDSS",
-   "url": "https://dev.to/sumaninster/optimizing-panic-value-ranking-in-documedics-cdss-4h01",
-   "date": "2026-08-14T04:37:23+00:00",
-   "summary": "Discover how Documedic moved panic‑value ranking into PostgreSQL, reducing latency and memory usage in its CDSS for clinicians.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.",
-   "url": "https://dev.to/kenielzep97/i-built-a-puerto-rican-mountain-kitchen-the-only-image-is-the-favicon-27jc",
-   "date": "2026-08-14T04:18:52+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing.           What I...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Excited to join the DEV Community!",
-   "url": "https://dev.to/jorgelepasana/excited-to-join-the-dev-community-2kbl",
-   "date": "2026-08-14T04:02:55+00:00",
-   "summary": "I’ll be sharing practical insights, projects, and lessons learned in software development, Python,...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React useFocus Hook: Track & Control Element Focus State (2026)",
-   "url": "https://dev.to/childrentime/react-usefocus-hook-track-control-element-focus-state-2026-5ffh",
-   "date": "2026-08-14T04:01:41+00:00",
-   "summary": "Focus is where interaction actually happens — the input receiving keystrokes, the button the keyboard...",
-   "points": 6,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "CSS Anchor Positioning: Building Tooltips Without JavaScript Positioning Hacks",
-   "url": "https://dev.to/niharikapujari/css-anchor-positioning-building-tooltips-without-javascript-positioning-hacks-2a7o",
-   "date": "2026-08-14T03:16:17+00:00",
-   "summary": "Introduction   Positioning a tooltip sounds simple.  Put a small box next to a button....",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How We Built an Instant AI Security & Code Auditor in Next.js & Convex",
-   "url": "https://dev.to/kientndev/how-we-built-an-instant-ai-security-code-auditor-in-nextjs-convex-i9i",
-   "date": "2026-08-14T03:07:44+00:00",
-   "summary": "Day 4 of building BugZ AI in public. A deep dive into real-time stream handling, fast security analysis, and stack choices.",
-   "points": 5,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build First. Understand What You Build. Then Use AI to Build Faster.",
-   "url": "https://dev.to/chuksandroz/build-first-understand-what-you-build-then-use-ai-to-build-faster-4b33",
-   "date": "2026-08-14T02:30:57+00:00",
-   "summary": "A few months ago I noticed something that bugged me enough to eventually write a book about it.  AI...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React Frontend Error Tracking Explained: A FastAPI Backend Collector for Safer Stack Data",
-   "url": "https://dev.to/jamesanderson121/react-frontend-error-tracking-explained-a-fastapi-backend-collector-for-safer-stack-data-1252",
-   "date": "2026-08-13T21:11:53+00:00",
-   "summary": "Short answer: send window.onerror and onunhandledrejection events through a FastAPI collector, scrub...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
    "url": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
    "date": "2026-08-13T18:10:52+00:00",
@@ -731,76 +621,43 @@
    "kind": "podcast"
   },
   {
-   "title": "1017, We need to stop calling it “AI”",
-   "url": "https://syntax.fm/1017",
-   "date": "2026-07-01T11:00:00+00:00",
-   "summary": "Scott and Wes raid the listener mailbag to settle the pnpm vs. npm debate, decode how web standards sneak into your browser, and ask the big one: is “AI” even intelligent, or just fancy autocomplete? Plus Stack Overflow nostalgia, the Shadc",
-   "tech": "javascript",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
-   "title": "1016: More Bots Than Humans",
-   "url": "https://syntax.fm/1016",
-   "date": "2026-06-29T11:00:00+00:00",
-   "summary": "Wes, Scott, and CJ break down the latest web dev news. From AI agents and coding tools to Deno Desktop, Nub, and predictive UX. They also discuss bot-filled social media, remote work debates, and a slick 3D bookstore experience. Show Notes ",
-   "tech": "javascript",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
-   "title": "1015: Browsers and UIs are dead. Everything is chat",
-   "url": "https://syntax.fm/1015",
-   "date": "2026-06-24T11:00:00+00:00",
-   "summary": "Is the web dead, or just evolving? Wes Bos breaks down his JS Nation Amsterdam talk on agentic interfaces, why chat won’t replace everything, how Web MCP lets agents interact with your existing sites, and what “Clicks and Clankers” really m",
-   "tech": "javascript",
-   "sourceId": "podcast",
-   "source": "بودكاست",
-   "lang": "en",
-   "kind": "podcast"
-  },
-  {
    "title": "JavaScript Full Course 2026 | Master Javascript in 22 Hours",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KajlyLTBDVm10cm84QkFnYVVreE50RHNlNHZ6bDBaVFg0ampISllDWFVpS043QWtvSGNWa0lEaXpqRGkta0NzNGFicFlhZUJmQ29lWGZ3?oc=5",
    "date": "2026-05-17T05:47:38+00:00",
-   "summary": "JavaScript Full Course 2026 | Master Javascript in 22 Hours youtube.com",
+   "summary": "JavaScript Full Course 2026 | Master Javascript in 22 Hours YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "JavaScript Full Course 2026 | JavaScript Tutorial For Beginners | JavaScript Course | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1R0lUNVZvcTkwZDZRb2gxdEZZYnh4RUtyZVFHOHNIV2RiandUcmcwVWFvcE9jZUNZSHZROVdsS1RpckRnZXdfQTZ2aS1BMS1yT0M0NmJn?oc=5",
    "date": "2026-04-27T14:30:33+00:00",
-   "summary": "JavaScript Full Course 2026 | JavaScript Tutorial For Beginners | JavaScript Course | Simplilearn youtube.com",
+   "summary": "JavaScript Full Course 2026 | JavaScript Tutorial For Beginners | JavaScript Course | Simplilearn YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Learn All the JavaScript Basics in 20 Minutes",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GNWJpQUdMelJrdW1yZ0hVSS1ndThCLUZBOWlrYm1VeFIwM1lzcGF0bUdLeEJ5T2ljbTZxbHdScDJOeXRRSk9pdG5WblBWekFXei1wVnln?oc=5",
    "date": "2026-04-06T10:46:10+00:00",
-   "summary": "Learn All the JavaScript Basics in 20 Minutes youtube.com",
+   "summary": "Learn All the JavaScript Basics in 20 Minutes YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2NXdXTmY3cVBGX19VZjVqNXZpbnMyblloV3AwclF5eVJsWTJOaDhKb0pQdnBDOG5DODJvem91SlhlOW9ibkNIY0FPNGZfWGs3RUhSVl9B?oc=5",
    "date": "2026-03-18T13:26:39+00:00",
-   "summary": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial youtube.com",
+   "summary": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -827,10 +684,10 @@
    "title": "JavaScript Tutorial for Beginners | Full Course 2025",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHRSbFZrRjRCWWExZzRVX3JaeWQteWYwV0lQZU5tOVlZVWhJbW5PTlYyOGYwYUtqNVk4cndEVlZubkR0QW82d3FkMG5IbWZNMVM0aEJ3?oc=5",
    "date": "2025-12-15T11:30:36+00:00",
-   "summary": "JavaScript Tutorial for Beginners | Full Course 2025 youtube.com",
+   "summary": "JavaScript Tutorial for Beginners | Full Course 2025 YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -847,10 +704,10 @@
    "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZjZVQ2ViWEU0Ujh0N0lha1JsRVdvUjFkU0dROERUY290QzVPaEFoaFkxNW43LU1mOEdkeFFRZkNUbFBnX0I0UFJtN2MxUW9FZVlkMGZR?oc=5",
    "date": "2025-09-15T21:40:30+00:00",
-   "summary": "React Tutorial Full Course - Beginner to Pro (React 19, 2025) youtube.com",
+   "summary": "React Tutorial Full Course - Beginner to Pro (React 19, 2025) YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -867,20 +724,20 @@
    "title": "Learn JavaScript in 60 Minutes: The Ultimate Beginner Course!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DYWxnNDJEeGZXYkVVSld3RmJYMUkzZEVRQjRBRXozQUhvb2hQTXl2RVlEUnRhck5WS1hTQWd4Tm5IWW9nQzV4cmVObFNwRUNTNGI2ZjFR?oc=5",
    "date": "2025-07-13T06:30:35+00:00",
-   "summary": "Learn JavaScript in 60 Minutes: The Ultimate Beginner Course! youtube.com",
+   "summary": "Learn JavaScript in 60 Minutes: The Ultimate Beginner Course! YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "JavaScript: The Complete Crash Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3OW1wT1d4ZzQzTDBLWGRCZGw4UFVLb1Yxc01VQVZzbkhOOGhBdTFXdmp5MnpXM2dtX0Rqb2ZiOC1KMFpERVhkbmo1Um9BNllyelNuYXBB?oc=5",
    "date": "2025-06-23T14:00:38+00:00",
-   "summary": "JavaScript: The Complete Crash Course youtube.com",
+   "summary": "JavaScript: The Complete Crash Course YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -897,10 +754,10 @@
    "title": "JavaScript Tutorial for Beginner to Advance | Full Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4a2N4WUdWMTZWTF9IVDFjQWYyMnlhQlNkTFhyQ3IzcmduaXNYR1dqWEtlbXJxbU9STWNqNTkwNGYwUzBYYUVIMjRDQ2JBR3dCdDBsbjJ3?oc=5",
    "date": "2025-05-16T05:00:43+00:00",
-   "summary": "JavaScript Tutorial for Beginner to Advance | Full Course youtube.com",
+   "summary": "JavaScript Tutorial for Beginner to Advance | Full Course YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -917,30 +774,30 @@
    "title": "HTML, CSS & JavaScript Full Course - Build 15 Projects",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMTVLcWlOYmNqd0psTkVEd3QzZFhjNE85WGMxMi1kUUYtQ1lvMHBIbGZKQVQweWlFOTdrSW5jWmM1WHJhX2x1X2pjRk9Qd1AyMkZMc2FB?oc=5",
    "date": "2025-05-10T15:07:57+00:00",
-   "summary": "HTML, CSS & JavaScript Full Course - Build 15 Projects youtube.com",
+   "summary": "HTML, CSS & JavaScript Full Course - Build 15 Projects YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "🎓 JavaScript Tutorial for Beginners | Full JavaScript Course (2025 Edition)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbkFCU1ptdEJGeWV5bFNiZ25RcF9ESmxpU0hkdTE2cDJFcjVoQTVOcXJIcTV3eXZGaDJCME41OFd6elpIU1BCTHhVRjNYSzJwVnJtamNR?oc=5",
    "date": "2025-05-05T14:01:55+00:00",
-   "summary": "🎓 JavaScript Tutorial for Beginners | Full JavaScript Course (2025 Edition) youtube.com",
+   "summary": "🎓 JavaScript Tutorial for Beginners | Full JavaScript Course (2025 Edition) YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Javascript Tutorial for Beginners in 20 minutes",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Damp6Rkk0clNTUldmRlFva2lLLXVIYzNsMGFxZFFBa3RlTHVuSVMyT2wtRmN3YUcydDdWeUNUbDMxd1psNDVJTGNhNVpFd01IWXJ1RzRR?oc=5",
    "date": "2025-04-03T16:28:05+00:00",
-   "summary": "Javascript Tutorial for Beginners in 20 minutes youtube.com",
+   "summary": "Javascript Tutorial for Beginners in 20 minutes YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -957,20 +814,20 @@
    "title": "Master JavaScript in 2 Hours: Complete Beginner to Advanced Course with Projects | Tutorial Guide",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ydDRGaXkwS29jUzJXaDR4bVotbnlyQk9GOGZIOUU2d25JOXhMeXZPQXpmU3dnRUNjMk9FMlctcjdkRklQa1FvQU1GNllYS2pPWTRuVWhB?oc=5",
    "date": "2025-02-03T11:00:06+00:00",
-   "summary": "Master JavaScript in 2 Hours: Complete Beginner to Advanced Course with Projects | Tutorial Guide youtube.com",
+   "summary": "Master JavaScript in 2 Hours: Complete Beginner to Advanced Course with Projects | Tutorial Guide YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Learn JavaScript from Scratch with Prakash Sir 🚀 | Code Like a Pro 💻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByVy1BM1p0OFdOMlJlLWFnWGFXX1lUYkJEQ2xoUFhPWkNsdkFwV2VrNWRuR2hjaXBYVmZCTEZDd3B0M1dFX0xPaWsxYi00TVdERDlOVy13?oc=5",
    "date": "2025-02-02T07:24:33+00:00",
-   "summary": "Learn JavaScript from Scratch with Prakash Sir 🚀 | Code Like a Pro 💻 youtube.com",
+   "summary": "Learn JavaScript from Scratch with Prakash Sir 🚀 | Code Like a Pro 💻 YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -987,20 +844,20 @@
    "title": "JavaScript Tutorial 2025 for Beginners - Full Course in 10 Hours",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rVUU0N0dqbVVUbVB4Y2haa3k1MmlMMDB0ZzRtTWF3X2NvN1JlNU9oVlFTZWZ5VW5RbDNpTmJhSC1ZX3NubUY1RGFFSEltZ1p2RGVnNjRn?oc=5",
    "date": "2024-11-05T17:08:15+00:00",
-   "summary": "JavaScript Tutorial 2025 for Beginners - Full Course in 10 Hours youtube.com",
+   "summary": "JavaScript Tutorial 2025 for Beginners - Full Course in 10 Hours YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "JavaScript for Beginners in Tamil | 10 Hours Full Course | Beginner to Advanced | code io - Tamil",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Hb0JtWHVEQ1hPSkVEVWl0clhXRWt0Wk1FTjhhel9OM3RQN2JHb1Z3SjdBSmdxRHVLc29uZnAyRVhKY2pCdXZHVkJsR0xqeC1XWndtSWRB?oc=5",
    "date": "2024-09-03T13:30:23+00:00",
-   "summary": "JavaScript for Beginners in Tamil | 10 Hours Full Course | Beginner to Advanced | code io - Tamil youtube.com",
+   "summary": "JavaScript for Beginners in Tamil | 10 Hours Full Course | Beginner to Advanced | code io - Tamil YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1077,20 +934,20 @@
    "title": "JavaScript Course for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02a24zSk5EWDFCejJzOU1meGEtODBtU2k5REo2Rk5qaFJQVFNENE4xSmFqRjVZQnh2blYzcXZoVThLWllDc2NrNmRXWTkyamhGZ1JSRTdB?oc=5",
    "date": "2024-05-13T13:48:55+00:00",
-   "summary": "JavaScript Course for Beginners youtube.com",
+   "summary": "JavaScript Course for Beginners YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "JavaScript Tutorial Full Course - Beginner to Pro",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BOThJd0d1bVlfZ3E5U2RONzhhaG45WlVWd1RGczI2STUzQ2pMNnhZZXA3VjdXSDlWSDNtMHRIUl9YWEx4NlZrbFVaNW1pdkpmTG1nSzln?oc=5",
    "date": "2024-05-09T07:28:14+00:00",
-   "summary": "JavaScript Tutorial Full Course - Beginner to Pro youtube.com",
+   "summary": "JavaScript Tutorial Full Course - Beginner to Pro YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1157,10 +1014,10 @@
    "title": "JavaScript for Beginners | Learn JavaScript in one hour!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nLUN6VEtfZnBub3NJNkdSRU9Nc09IUTcwaFBSX1AzZFpyY1p5dWVSZHFqay1hUFNtTEp2WlUxUHdBQzdkSzhocUt1b05KQ3pDLWtUWW5R?oc=5",
    "date": "2024-03-31T10:30:11+00:00",
-   "summary": "JavaScript for Beginners | Learn JavaScript in one hour! youtube.com",
+   "summary": "JavaScript for Beginners | Learn JavaScript in one hour! YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1207,10 +1064,10 @@
    "title": "JavaScript Tutorial for Beginners [JS Crash Course]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uOWIyZ09CTk9haTBkQXEtb3pYd0JHYVVnYVdySDgtVnNpMUtzZ3BCQl9ZRi1GLVpEenl2Tmd0d2hWMXZLSXIwLWRvU2ZZWDhJYjJTbDRn?oc=5",
    "date": "2024-02-28T15:03:22+00:00",
-   "summary": "JavaScript Tutorial for Beginners [JS Crash Course] youtube.com",
+   "summary": "JavaScript Tutorial for Beginners [JS Crash Course] YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1227,40 +1084,40 @@
    "title": "JavaScript Full Course for free 🌐",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TcnFVT1F2X1Y2Nkk0bTNlTG81b0VGSncwN2s0OXFxbkVCX1FEQTFwcktDZGxMSVgtTWtqUWtpaXFkR1pYd2RBN1ByNDczeU01OGNTb2h3?oc=5",
    "date": "2024-01-01T14:30:18+00:00",
-   "summary": "JavaScript Full Course for free 🌐 youtube.com",
+   "summary": "JavaScript Full Course for free 🌐 YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "JavaScript Tutorial (2024) for Beginners to Pro (with Notes, Projects & Practice Questions)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWENxODZScXo2QVVrYTNsdHdIcHNXSE9pVndKbGY0YVRhejB0ZFJRTmdOcVBKdC1Xa3JqT0kyLW9nc0U5RmNwNngwczF3NmhobWVmNnJ3?oc=5",
    "date": "2023-12-21T14:39:41+00:00",
-   "summary": "JavaScript Tutorial (2024) for Beginners to Pro (with Notes, Projects & Practice Questions) youtube.com",
+   "summary": "JavaScript Tutorial (2024) for Beginners to Pro (with Notes, Projects & Practice Questions) YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "JavaScript Bangla Crash Course - Reactive Accelerator course by Learn with Sumit",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LUUpjVTNFUUdVR0VtazBWRS1DUzh1ZnZxcmF6eUcyOEc2TWNUanhRRVVPV1lqX2huUUhYNkRhY185SUkxSW9GTVo0OHcwRXppVXEzXzFB?oc=5",
    "date": "2023-12-14T14:48:47+00:00",
-   "summary": "JavaScript Bangla Crash Course - Reactive Accelerator course by Learn with Sumit youtube.com",
+   "summary": "JavaScript Bangla Crash Course - Reactive Accelerator course by Learn with Sumit YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Learn JavaScript CLASSES in 6 minutes! 🏭",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iM0tGT0dHN2ZwVWlnQmRySW1RdXo3dWpNeDdtSHVmS091VVNueFIwRV9ncG4wdy1IdXQ2M1BzSkVOMzdudWdPdGZ1cW43bFQxczBtLUFR?oc=5",
    "date": "2023-11-17T17:38:25+00:00",
-   "summary": "Learn JavaScript CLASSES in 6 minutes! 🏭 youtube.com",
+   "summary": "Learn JavaScript CLASSES in 6 minutes! 🏭 YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1277,10 +1134,10 @@
    "title": "JavaScript Tutorial For Beginners Chapter04",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oSlpBQ1RSdFRmZVY0VUwyZnZWZzlPcHRfTkQwSkZ6c3VJVmNvMnZhN2llcmswN1hnM1htcXVKUjVWSHdIS0UyTkx2cU9tOGNrX2lNOFZ3?oc=5",
    "date": "2023-09-25T01:35:00+00:00",
-   "summary": "JavaScript Tutorial For Beginners Chapter04 youtube.com",
+   "summary": "JavaScript Tutorial For Beginners Chapter04 YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1297,20 +1154,30 @@
    "title": "Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85R2xsVkx3cDAxbkRFY3BXRVFpaG9lUDBlTXdkYWhnUm56bm9RblQ1M21ScVBBWFNYc1MzQ01vWDN5akRiWmZqdmdDODdsQ1NDTHlzbDd3?oc=5",
    "date": "2023-09-11T13:00:10+00:00",
-   "summary": "Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript youtube.com",
+   "summary": "Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00Z09lNE1TMHQwUkFnWTdtaDRaZURudTB1MnNsNUFhUVhiWGtORS16TGxrV3JxT1Z3bVdwRHA3OGI3MnBiejBmZnRweXJpYjJ5TmVZdmhn?oc=5",
    "date": "2023-09-06T12:30:10+00:00",
-   "summary": "JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners youtube.com",
+   "summary": "JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "JavaScript Fundamentals Crash Course for Interactivity",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENmQ4NzE5QjVDaG15Y1ZnM3NVNGNmT3Z6YnB4WHVyV1pFWHE0RXVwSmU3TmZhckswNWF1Rkg0elg3VDZvU1B6S0pRM0g0UWZqeU5sTkNR?oc=5",
+   "date": "2023-08-29T14:00:01+00:00",
+   "summary": "JavaScript Fundamentals Crash Course for Interactivity YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1332,6 +1199,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Modern JavaScript From The Beginning | First 12 Hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92cDdKQXZBcGE3SlhrYnFzZWdRLVh5eTdiaFc0NzJCZmRZai1TSV9NcFUyQ3drWXN1Mm5pSkg3NXNGU1JwSHNlemxxWXNyUTNvUUpieHp3?oc=5",
+   "date": "2023-07-26T12:40:21+00:00",
+   "summary": "Modern JavaScript From The Beginning | First 12 Hours YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "What is variables in Javascript | #4 تعلم الجافا سكريبت ما هي المتغيرات",
@@ -1374,6 +1251,16 @@
    "lang": "ar"
   },
   {
+   "title": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INXZ3djF6NFZzSGlIdnNJbjNQODgzaTQ0ZjA4dWlXOXJILWVCM0FuOFNzdkhXYzVXWUI3eUlmZjIyT2dPMVE0LTJycmh1b1E2MWNmc0RR?oc=5",
+   "date": "2023-04-26T14:05:46+00:00",
+   "summary": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "شرح كيفية استخدام SQL و MySQL في جافا سكريبت | كورس تعلم Nodejs الدرس 19",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sVmVxM3FMdk5obTUxYkt5eWJmUFhGc043YzVMdGdnY0x4UERrQjEwNUdiVGJWRl9iUmFtakcyWlBPODRBTEJ1Q1BuUWFKZml1aDZIOGxR?oc=5",
    "date": "2023-04-16T15:58:59+00:00",
@@ -1414,6 +1301,16 @@
    "lang": "ar"
   },
   {
+   "title": "React Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zakJNNElROVZwMlA0UVRFRkwzQl9BUktCV1haUEVNUWNZdlByX3ltUDc5ZzU2dUg4eW5VU3NUbmNVUzdBNUlaRVZaM0tHRXZzSTZGZ21R?oc=5",
+   "date": "2023-03-12T08:00:07+00:00",
+   "summary": "React Tutorial for Beginners YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "مشاريع جافاسكريبت - لعبة تخطي الحواجز المتحركة | JavaScript Project",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMDFaSEZHVW1HYUp3Wm8yN0psMEFZMUVOUWFNUEhxNklxMndOb2ZiWkY1UXBiRlZ5d2Y4SzJNRzZqcmh5SWo4Tzg4allfV09ha05lRldB?oc=5",
    "date": "2023-03-02T04:08:29+00:00",
@@ -1424,6 +1321,36 @@
    "lang": "ar"
   },
   {
+   "title": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53b3A4YzR5X0xBQVJUQkFkMWw1MmhtaXpOa09POWJzLWxwQkRJSjRiejRlWElIMkVLQjR0amdMMjJYU01BT2ItR3hnbDdhb2d2WDdlR2VR?oc=5",
+   "date": "2023-01-30T15:11:51+00:00",
+   "summary": "Full HTTP Networking Course – Fetch and REST APIs in JavaScript YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55SUFZeG1pcEI2bzlUaXBYaENORk1sRHNRbFVyVkhESmVTNnJaSEFhSDZMdGFiR3NfVnh5bWRUcUdXNTE5WjNrYzlwaWNRMzhNWTNncjJn?oc=5",
+   "date": "2023-01-27T14:00:20+00:00",
+   "summary": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn JavaScript: Tutorial for Beginners (Part 1)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WM2gzZlU2dFdDY282X2RwV3NOdS1VY1lBUFpQNVBNbWpxR3VReG9YQ1RIZllPbllMcndENlRWM1licDY5UElzSjBpMDBhaXc2NlNhSm13?oc=5",
+   "date": "2023-01-26T21:29:57+00:00",
+   "summary": "Learn JavaScript: Tutorial for Beginners (Part 1) YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "جافا سكريبت | javascript Else If Statement",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82MGtuSW9zTDM1VlAwMzBPaWtscTRLbDZsYUltblpRZFNLUmlsQ1JkWEM0dV9iSEt6RHEyLXNZQ2tvZUtWUUFITm1xV0hzdFpsMU5ORUhn?oc=5",
    "date": "2023-01-07T17:25:49+00:00",
@@ -1432,6 +1359,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "JavaScript Tutorial for Beginners | JavaScript Free Course | by Rahul Chaudhary",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CMkpJNGVxdi1XbEYxRG5YeUlITGRTOVBWSW5GU3Z2Vlg1QnlxUU1uZFQyM2E3U0pvYTZoSkFzc2poUzktanM2eDN6QWhCNEFxMXdUV3dB?oc=5",
+   "date": "2022-12-17T11:45:00+00:00",
+   "summary": "JavaScript Tutorial for Beginners | JavaScript Free Course | by Rahul Chaudhary YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "JavaScript Tutorial - Create a Card Game 🃏",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16b2t2QU92bmVxQUdtaWhmbkc5bFVzOXVMWk9zNTFoQWM5UDI0V3NtZEtoYXZqOThiWlpnUzZJMklOX2pUSEh2U1h2QzlJSExrM3BzQTBB?oc=5",
+   "date": "2022-12-14T15:06:51+00:00",
+   "summary": "JavaScript Tutorial - Create a Card Game 🃏 YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "ملخص الجافاسكريبت في 15 دقيقة ؟ (شرح للجافاسكريبت) | JavaScript/Node.js in 15 mins (Arabic)",
@@ -1482,6 +1429,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Introduction to JavaScript",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUWt3Q0JiV3NVS3JubE9EcTVQcmgwMjY5Um5uVFdiUEtMb0VlaG94eld6bVJ5cTR3U0xydEZuNmx0TGx1cUQ1Nzk2dGVzUUVkNnBYVEh3?oc=5",
+   "date": "2022-11-05T12:30:04+00:00",
+   "summary": "Introduction to JavaScript YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lay1mWVk2blJ0ZXZGWlhOaHNreVVWZkk4QXZ3ZjlhaU4yUEVsTGVsMDRwVGZnRzdXNDdQTzJ0OUllUUIwTHk0WVlONFZ3eHNSTFJ0RWR3?oc=5",
+   "date": "2022-11-01T16:39:15+00:00",
+   "summary": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB) YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "كيفية اضافة زر الصعود الى الاعلى عند النزول الى اسفل الموقع باستخدام JavaScript",
@@ -1544,6 +1511,16 @@
    "lang": "ar"
   },
   {
+   "title": "JavaScript Programming Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zM0tBNklIT3F2QUZPODM5a3ZISWhKaDZaWDZkaG9XQ2ZOMTFMWUZWZGZ4cTI0bVhnNWJGTExSOEdWY0lKTi1Felhxa2JNTTg3U3VwbzNB?oc=5",
+   "date": "2022-08-09T10:36:21+00:00",
+   "summary": "JavaScript Programming Tutorial for Beginners YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "JavaScript Tutorial - Pokemon Game with JavaScript | مشاريع جافا سكريبت للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HMVlaMkFNajFvTjRSSHpvU184QndJRlNONWpyRGh1VWNXMm1TMFl0Q2ZTSHFSYkNKMmNhMGhEZEZIQ01aVjE3eUFIeUt5dloxc1dzXzR3?oc=5",
    "date": "2022-07-10T14:30:10+00:00",
@@ -1572,6 +1549,36 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "#4 JavaScript Comments | JavaScript Tutorial for Beginners Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HSlpudDMzQ1ltdV9WbFdDZ3JWb21sMEVDR1JhU1R0Z2ZGd0hxNFBMU05ZRE1wdFI5VWVPSXNTaHpjVW9WMzhiTmlueWtBUzg4dGdwN25B?oc=5",
+   "date": "2022-06-22T11:15:05+00:00",
+   "summary": "#4 JavaScript Comments | JavaScript Tutorial for Beginners Course YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "JavaScript Crash Course in 2022! Free Coding Bootcamp! #100Devs",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wczRSVVI3UDU2Yi11VXpLN0EzWExnZ0RqZWNsSmk5VEhUdTdfLUctOS10d1RlbEU5MWkzQWoyWnFpQlVrb1VrclF0SXdpSnBvQ3RNWUpB?oc=5",
+   "date": "2022-06-04T14:00:01+00:00",
+   "summary": "JavaScript Crash Course in 2022! Free Coding Bootcamp! #100Devs YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "#1 What is JavaScript? | JavaScript Tutorial for Beginners Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jakZzRHJRd3c1Zm9HR0h4UXRQdzZhQVRONkpWY0E2YzBUY2N6NkZVQWk3amRMRDZzc2hIdTBrNVhhWFhEdDJtMUNIejBTZXoweWNCNS1R?oc=5",
+   "date": "2022-06-01T11:15:01+00:00",
+   "summary": "#1 What is JavaScript? | JavaScript Tutorial for Beginners Course YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "عمل برنامج للتعديل على الصور و اضافة فلاتر بالجافا سكريبت | part 2",
@@ -1612,6 +1619,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZzJmMXN3M3NEQkxuMEhPU2F2RHNxbHA5OUVrQzNWell0MGdQU3ZTNjdjR3VGb0oxN2p3cG5wVnZvY05IeEFQcF9CMFdYZ0F1bzNLajhB?oc=5",
+   "date": "2022-05-13T16:39:31+00:00",
+   "summary": "React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "(في أقل من ساعة) كورس جافا سكريبت كامل | JavaScript Tutorial for Beginners",
@@ -1734,6 +1751,16 @@
    "lang": "ar"
   },
   {
+   "title": "All The JavaScript You Need To Know For React",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43NThKWVhBTkZFOHQ3bGYyQkxocmphRHpBVDUtQ3lncWpwUV9xcnN4UUNMeXVqUm5vNTc1ZEVJSEMwd29Hc0hXWTBhaTNnTmtDNzB4Y3pB?oc=5",
+   "date": "2022-02-01T14:00:14+00:00",
+   "summary": "All The JavaScript You Need To Know For React YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "11 العمليات الشرطية في جافا سكريبت if statement in javascript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84WWR0V05EVy1uNzVOWXFieEtfZ2ZoMUxVUTVkRFkzZVhLdm1uS01XcGlBTElfT2RDOFhzVnA1UGozZXNGVEEzVjlPVjViMzVoVnVIak9B?oc=5",
    "date": "2022-01-25T16:00:26+00:00",
@@ -1824,6 +1851,16 @@
    "lang": "ar"
   },
   {
+   "title": "JavaScript | Beginning to Mastery Complete Tutorial (Part 1)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Dck8tQW9FUVpURi1uY1BSVWE1UV9mRXlZcjU0UmxYUkZtQWs0UTRNQlFSalc5M2k0V2JlVUNQQUJrZVlsUnJ5SGdwZHpqWXFZUUhsZmxn?oc=5",
+   "date": "2021-10-09T03:30:03+00:00",
+   "summary": "JavaScript | Beginning to Mastery Complete Tutorial (Part 1) YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "2- تعلم أساسيات react : component - props",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BWUdqUWVydkN0T19EOUlLU3ZJXzNFVHh1amVRaTF5WUxFTUFqejM0ZE5vSWxac0ZlQklsUTRRdWFTa3plVTFBbjI3VXVrOEJLMUZjUi1R?oc=5",
    "date": "2021-09-07T17:30:11+00:00",
@@ -1874,6 +1911,16 @@
    "lang": "ar"
   },
   {
+   "title": "JavaScript Programming - Full Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rOTMya0NubkRLQVA0cnhBTEtTZ25jNWpLM0NILXRVTDM1Y0NMV1hqNkV1WHlnSWt6azRCdlk0NHg0a2o3RDU0eENKQUY4RGxlN3dteGpR?oc=5",
+   "date": "2021-06-21T16:42:15+00:00",
+   "summary": "JavaScript Programming - Full Course YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "3- Comments In JavaScript | كتابة تعليق في الجافاسكربت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93M0R6NGRlV2NvVUx0VkhfNVpwNTE4SE8xWHlLU3dtS0JDc25QR1lMb1hpWFQ5anhyOFBBZHJveXMwLWp4YTV6bk9zVzNTOEpkbkpPWDJR?oc=5",
    "date": "2021-06-07T11:29:11+00:00",
@@ -1914,6 +1961,16 @@
    "lang": "ar"
   },
   {
+   "title": "JavaScript Tutorial for Beginners (My Fourth YouTube Video)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ELUdrYVA1dmVyVXRORXBQWmVrS3ZUbS1Gb2RtN2hNSmpZNTlXSjFvdjczQkJaNzN1RjVqMDAxeVZVa3d2LTVNT1hmdmgwRHRnc0h5bTZB?oc=5",
+   "date": "2021-04-28T07:00:00+00:00",
+   "summary": "JavaScript Tutorial for Beginners (My Fourth YouTube Video) YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "#9 ملخص الجافا سكريبت | هل الجافا سكريبت صعبة ؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXakIxVUx4ekppUElHSGlPVXBoeWh2OEoybWtwRkNYbHMyUmttMTEtMEJZNGNrREM2a0Zvb0FJZ1lMVzdZV1pDRUJ4bmMxM3RHaUFVTFdB?oc=5",
    "date": "2021-04-23T13:08:02+00:00",
@@ -1924,6 +1981,16 @@
    "lang": "ar"
   },
   {
+   "title": "JavaScript Tutorial for Beginners | JavaScript Crash Course | Learn JavaScript in 2 Hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdnozODZGSU1QNzhYLUpySmpSa2RWZG55b2NFa01sNUlXakJXYlNXZDBBLUcxNnd5RVZnMVVzRktReUp5a1Rzdjl1YzNvUUVEVXhZeDln?oc=5",
+   "date": "2021-04-21T10:16:38+00:00",
+   "summary": "JavaScript Tutorial for Beginners | JavaScript Crash Course | Learn JavaScript in 2 Hours YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "#2.1 get HTML Elements | كورس جافا سكريبت للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZ2FBQXlwSDNLaU45TTZCOHF0TVNvTDNtUVZ3amFNdk9TOXJQVl9FTmZVM05qa3ZLcGFfSm1hVTlUNm5paTNGX1ZNVW1xQ0pyMVJTQ3V3?oc=5",
    "date": "2021-04-05T08:42:46+00:00",
@@ -1932,6 +1999,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "JavaScript Audio CRASH COURSE For Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WRXhWcVl0akl3N3p4bVdkTnJ4V3AzTnZ1VUxLR0Y0RUExd2FzTU1jdlQzS19ka0RIYURZNTdTcU5uenp5cWxiVDVIRjhvcGpNdUJuZkpB?oc=5",
+   "date": "2021-03-12T13:11:31+00:00",
+   "summary": "JavaScript Audio CRASH COURSE For Beginners YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "شرح برمجة لعبة بلغة الجافا سكريبت - Memoery Game in Javascript",
@@ -1952,6 +2029,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "JavaScript Object Oriented Programming Tutorial Beginners - OOP in JavaScript",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uQ3Z1dGh6SzFFVGxReElZZFByMUt5VlJYOG5tbkJNdnZ2eFpnZnkzOGZCZGdaaTd3ZzZsa1pia3E4Sngtc0VIX2kwa1U0a0hjTkdVT213?oc=5",
+   "date": "2021-01-20T15:22:35+00:00",
+   "summary": "JavaScript Object Oriented Programming Tutorial Beginners - OOP in JavaScript YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "بعد اساسيات جافاسكربت اتبع هذا المسار شرح امثلة ومشاريع و 8 مكاتب جافا سكربت مهمة جدا 2021",
@@ -2004,6 +2091,16 @@
    "lang": "ar"
   },
   {
+   "title": "JavaScript Crash Course 2021 - Master JavaScript in One Video!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BRE9kNk5lT0RwZmJsbGZ0cUlMMnN1aGstcjlqSjh2YWRTNVpJWXNjSHJudDAtbFN2M0Vtbmk0Q1RnSGFQUE1ZWHRyZEJCQVRMSVFIWkJ3?oc=5",
+   "date": "2021-01-01T16:35:24+00:00",
+   "summary": "JavaScript Crash Course 2021 - Master JavaScript in One Video! YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "طريقة تخزين البيانات في جافا سكريبت باستخدام SessionStorage | دورة تعلم JavaScript كاملة - الدرس 43",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrTk92NmRhYl82aVRzTllmWEJQSFIyeGhwMnpoUzRDd2RzaUxJSDFCRGIwU0F4SGdEbWpkMGJGek54bU5mLVV6V1hoYXR2ZzBNRlA1dElR?oc=5",
    "date": "2020-12-22T10:39:12+00:00",
@@ -2052,6 +2149,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Namaste JavaScript 🙏 Course - JS Video Tutorials by Akshay Saini",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IVE80V29RQW4tMXUzWUp4Q1pPTE51N1NRSEd6NHNBdTBkZ1FDeEVSZnVQcHl3T04wNTNvSDd2aDNvLWU4T1BDZUpxS25EYmdHQm1yOTZ3?oc=5",
+   "date": "2020-10-18T08:33:52+00:00",
+   "summary": "Namaste JavaScript 🙏 Course - JS Video Tutorials by Akshay Saini YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Javascript Classes Explained | Javascript Factory Functions | es6 private variables properties",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mZ2RsS0E0VjFyT1g4czQ4dzRJaHhRSHRMY19uQlJWSkluYk9jQkJ0Y1dwOUhOQUdmclZzZWJNVlB4cEJYNVFfbUprWjRGTmRTeUx3a19R?oc=5",
+   "date": "2020-09-28T14:15:01+00:00",
+   "summary": "Javascript Classes Explained | Javascript Factory Functions | es6 private variables properties YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "#00 - تعلم رياكت - برمجة واجهات المواقع والتطبيقات من فيسبوك",
@@ -2128,76 +2245,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Wm16MGhMX0pDSnV2RF8zaXZKWElpSTRSZ2xzQ1o4LUFWS01YcXFyVlJ2NnhDTXlrd0dpN2R4NXRMRE45anVpSDY5cVNzcmtWZjJySW13?oc=5",
    "date": "2020-04-07T14:01:13+00:00",
    "summary": "Javascript - Alert / Prompt- تعلم الجافا سكريبت من الصفر YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة جافا سكريبت من الصفر (كورس شامل) - Local Storage",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zdDFuVDZrY2xyTW8zQnFLckhpS3Q0X2lyb2MtU1NRbWk2QWZ4dDR5cnNWcTRFY1YwNExZeHpubG9xellIOWY0VlZKQmhjaEV5OUpMb3Zn?oc=5",
-   "date": "2020-01-22T16:00:14+00:00",
-   "summary": "دورة جافا سكريبت من الصفر (كورس شامل) - Local Storage YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "( دورة كاملة لتدريبك لسوق العمل فى مجال الويب ) شرح ما هى الجافاسكربت وطريقه كتابتها والمتغيرات",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMmxwdEZwZEJENG41ZXVpa1htb3dLTXowZ1p2V0twRkRGUVVBSS0tQVZZeXg1dU1NOVU1T28zTXFWYlZQRXVBT2syMTh3VjZ3am81MjJB?oc=5",
-   "date": "2019-11-19T22:15:50+00:00",
-   "summary": "( دورة كاملة لتدريبك لسوق العمل فى مجال الويب ) شرح ما هى الجافاسكربت وطريقه كتابتها والمتغيرات YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اسهل طريقة في تعلم javaScript من البداية للنهاية بسهولة و احتراف بكل تفصيل في فيديو واحد فقط الان",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yaU9SeUg1Y2FiSWp3a3dYR1ZwaFR0cmREbjZoTmFsTGlaanpTWGdINGZ5V2Q4VDZvZjc1MHZmbTcyS2wtWEk4OWl6dmp3dHlKVFZ3WjN3?oc=5",
-   "date": "2019-03-06T21:32:28+00:00",
-   "summary": "اسهل طريقة في تعلم javaScript من البداية للنهاية بسهولة و احتراف بكل تفصيل في فيديو واحد فقط الان YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "مدخل إلى لغة البرمجة جافا سكريبت Javascript",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OWU02Tkh1X0oxT0l4TjZSczdKVXRRTEhJOWdaeEFtZTRoX0ZuUW1DRWNqYnFNLXBVcWJhOTh5Q3hJSVk0bl92RmdrXzJSZVpsUXZSSjVR?oc=5",
-   "date": "2018-11-22T10:30:36+00:00",
-   "summary": "مدخل إلى لغة البرمجة جافا سكريبت Javascript YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "1 JavaScript intro",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5bkJCVkdDeUdkWC1EOHpzLVN2UzYybFZnRmd2VWh3UDdpRnRBNFkyWTc4bkVzOXlqQm9Ib3lDX2dXX0xoV3dZVWpFM1RUMnZxT2JOVkdn?oc=5",
-   "date": "2017-09-19T12:17:26+00:00",
-   "summary": "1 JavaScript intro YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "01 javascript جافا سكريبت intro مقدمة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xU01SZ0dNWnBPWjBRTDNUeUpnYm9rVW1XbWJjM05LUy1aWmVSS0ZRNmdHQnBFNUN0MGFwMVFVMk50MDFjX3lxazFMNERaaFdCOTMxeGJ3?oc=5",
-   "date": "2017-07-23T12:04:08+00:00",
-   "summary": "01 javascript جافا سكريبت intro مقدمة YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "6 - ( JavaScript Tutorial ) Comments --- كيفيه كتابة التعليقات فى الجافاسكربت",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VYTNCOWI5ZnhwNUlseTRidC14alFzd3NLOWVCOG1IbFZVbk9LYVJ1bVdMSEJDeEszUHloU1JRS2Etbm42bF9UbXVYOF9nZUI2VnY3ZTZR?oc=5",
-   "date": "2016-12-08T10:40:44+00:00",
-   "summary": "6 - ( JavaScript Tutorial ) Comments --- كيفيه كتابة التعليقات فى الجافاسكربت YouTube",
    "tech": "javascript",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14T21:56:33.717330+00:00",
+ "generated": "2026-08-14T23:04:56.616505+00:00",
  "tech": "python",
  "count": 220,
  "items": [
@@ -529,17 +529,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Handle OAuth 2.0 Authentication to Third-Party APIs with Asstgr (self-hosted)",
-   "url": "https://dev.to/greve_malick_6bf326604dee/how-to-handle-oauth-20-authentication-to-third-party-apis-with-asstgr-self-hosted-1b3h",
-   "date": "2026-08-13T13:53:32+00:00",
-   "summary": "If you've ever had to integrate an OAuth 2.0-protected third-party API into multiple projects, you...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Python for Mechanical Engineering",
    "url": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
    "date": "2026-08-13T13:50:26+00:00",
@@ -547,28 +536,6 @@
    "tech": "python",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
-   "lang": "en"
-  },
-  {
-   "title": "Saturday MK1: an AI assistant that's a system, not a prompt",
-   "url": "https://dev.to/dev-into-space/saturday-mk1-an-ai-assistant-thats-a-system-not-a-prompt-ghb",
-   "date": "2026-08-13T10:47:09+00:00",
-   "summary": "An agentic assistant built as composable engines — code graph, memory, inference routing, security — orchestrated by a core on FastAPI + Neon Postgres.",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Making an LLM trustworthy over bank statements",
-   "url": "https://dev.to/dev-into-space/making-an-llm-trustworthy-over-bank-statements-4che",
-   "date": "2026-08-13T10:41:38+00:00",
-   "summary": "Ask a bank statement questions in plain English. The LLM only writes SQL against a strict schema — so it can never invent a number. FastAPI + Supabase.",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -652,61 +619,6 @@
    "lang": "en"
   },
   {
-   "title": "The one they fixed",
-   "url": "https://dev.to/pachilo/the-one-they-fixed-2bjb",
-   "date": "2026-08-12T16:33:16+00:00",
-   "summary": "Reported 26 July. Fixed by the maintainer on 29 July. The report was closed on 11 August as not...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "FastAPI accepts a response_model on streaming routes and silently ignores it",
-   "url": "https://dev.to/pachilo/fastapi-accepts-a-responsemodel-on-streaming-routes-and-silently-ignores-it-89",
-   "date": "2026-08-12T16:17:50+00:00",
-   "summary": "It builds the model. It registers it in the OpenAPI schema components. It never applies it. Your...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "FastAPI prints the contents of Pydantic's Secret[T]",
-   "url": "https://dev.to/pachilo/fastapi-prints-the-contents-of-pydantics-secrett-78a",
-   "date": "2026-08-12T15:56:18+00:00",
-   "summary": "The wrapper exists so the value never appears in output. Pydantic masks it. str() masks it. FastAPI...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Five findings in FastAPI, and what happened when I reported them",
-   "url": "https://dev.to/pachilo/five-findings-in-fastapi-and-what-happened-when-i-reported-them-idg",
-   "date": "2026-08-12T15:01:12+00:00",
-   "summary": "An introduction to a short series. Four of the five are still live in the current release, and each...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "FAST API:",
-   "url": "https://dev.to/devbymansi/fast-api-d7p",
-   "date": "2026-08-12T14:47:19+00:00",
-   "summary": "Fast API is web framework used for building APIs using Python programming language by using various...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How to Integrate OpenTelemetry With a FastAPI App",
    "url": "https://realpython.com/fastapi-opentelemetry/",
    "date": "2026-08-12T14:00:00+00:00",
@@ -767,17 +679,6 @@
    "lang": "en"
   },
   {
-   "title": "Factory Pattern in Django Projects : Why Should You Care?",
-   "url": "https://dev.to/khamedtaha/factory-pattern-in-django-projects-why-should-you-care-3mol",
-   "date": "2026-08-12T09:41:20+00:00",
-   "summary": "As Django applications grow, object creation can quickly become scattered across views, services, and...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Python GUIs: Adding QTabWidget to a Layout Alongside Other Widgets in PyQt6 — How to combine QTabWidget with other layouts without it taking over your entire window",
    "url": "https://www.pythonguis.com/faq/cant-integrate-qtabwidget-into-a-layout/",
    "date": "2026-08-12T06:00:00+00:00",
@@ -785,17 +686,6 @@
    "tech": "python",
    "sourceId": "blogs",
    "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "FastAPI: estado visible para correos async",
-   "url": "https://dev.to/silviutech/fastapi-estado-visible-para-correos-async-2p6d",
-   "date": "2026-08-12T05:24:19+00:00",
-   "summary": "Un patron corto en FastAPI para consultar el estado de correos async y dejar de adivinar si un email salio o sigue en cola.",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -1081,26 +971,6 @@
    "lang": "en"
   },
   {
-   "title": "Quiz: K-Means Clustering in Python: A Practical Guide",
-   "url": "https://realpython.com/quizzes/k-means-clustering-python/",
-   "date": "2026-08-04T12:00:00+00:00",
-   "summary": "Check how well you know k-means clustering in Python, from picking the number of clusters to building and tuning a scikit-learn pipeline.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Quiz: Sending Emails Using Python",
-   "url": "https://realpython.com/quizzes/sending-emails-using-python/",
-   "date": "2026-08-04T12:00:00+00:00",
-   "summary": "Test what you know about sending email from Python with smtplib, building messages with EmailMessage, and connecting to real servers over SSL.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
    "title": "#557: Security of everything at PyCon 2026",
    "url": "https://talkpython.fm/episodes/show/557/security-of-everything-at-pycon-2026",
    "date": "2026-08-02T15:37:33+00:00",
@@ -1110,6 +980,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Python Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wS3BvVTV1QzRXdzFVVDlGZm1MM2p4LU13WnpkTEJIUWoyX3pqTE9PYUlvMDJZZm1vOFFiNU1Ta2o3RjdZbzVXYVRIUEJCMU9vcDc2RTdn?oc=5",
+   "date": "2026-07-29T17:41:12+00:00",
+   "summary": "Python Full Course for Beginners YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "#490 It’s a vibe coding party",
@@ -1143,6 +1023,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Python for Beginners with Hands-On Projects",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81WE54Umg4cEN6LVYwUXpjQ1Z2QkQzcXRINkxHOXZLVE5WTG05ZXZUNkU5by01VW1ReEhvLV9HM195TlZqMnR4TkRPbEszalEtQnZOUUh3?oc=5",
+   "date": "2026-07-16T11:24:01+00:00",
+   "summary": "Python for Beginners with Hands-On Projects YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "#488 tau - it's 2pi and it writes code",
@@ -1189,6 +1079,48 @@
    "kind": "podcast"
   },
   {
+   "title": "#486 underscore-underscore-ghost-emoji",
+   "url": "https://pythonbytes.fm/episodes/show/486/underscore-underscore-ghost-emoji",
+   "date": "2026-06-30T07:00:00+00:00",
+   "summary": "Topics covered in this episode: Free-threaded Python: past, present, and future django-admin-site-search Qwen 3.6 27B is the sweet spot for local development A large batch of PEPs are finalized Extras Joke Watch on YouTube Show Intro Sponso",
+   "tech": "python",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
+   "title": "#553: All of our tools",
+   "url": "https://talkpython.fm/episodes/show/553/all-of-our-tools",
+   "date": "2026-06-26T22:32:43+00:00",
+   "summary": "This episode is a fun crossover from our Python news and tips podcast, Python Bytes. We have had some big changes over there. Brian Okken has moved on and Calvin Hendryx-Parker has joined the show as the new co-host. To kick off this new er",
+   "tech": "python",
+   "sourceId": "podcast",
+   "source": "بودكاست",
+   "lang": "en",
+   "kind": "podcast"
+  },
+  {
+   "title": "How I would learn Python programming FAST (If I could start over)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xQVRyTnF0MW1rTi1RYTVaaHpBWkdHck5ncF9uTWphellmR2NWUGxaaGNPemx5VDhRaHFIZVRfU0NnU2ZrWi1aSE9SOWdCaU0wTHNCalRn?oc=5",
+   "date": "2026-05-23T13:00:36+00:00",
+   "summary": "How I would learn Python programming FAST (If I could start over) YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "NEW Python Full Course 2026 | Learn Python from Scratch, Build Projects & Get Job Ready",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lTUxGRUR6ZDNuTHBIcDV1NUNNdVA1aFB4N2NwQXhtbjhmX1BPSHNqTld6VGpHTVJUemdCT0lLaVgybGNNS1UtRHdNNDdKZ1cxVy13M0xB?oc=5",
+   "date": "2026-05-10T06:30:06+00:00",
+   "summary": "NEW Python Full Course 2026 | Learn Python from Scratch, Build Projects & Get Job Ready YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "انضم لتعلم البرمجة بلغة بايثون | 14 ساعة 💻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBaVlfNkdzd3dySkhVTTlaak5xaGxBempWQmRKeWNHMzlGZ1ZKbnFfSUZBZDlzcHJ0NWVGbEJUWmJtZGNuVGM2TlZpVmVDUzF4dWtha3pn?oc=5",
    "date": "2026-04-13T15:58:47+00:00",
@@ -1197,6 +1129,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Python Full Course for Beginners (13 Hours) – From Zero to Hero",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJbm94RlBiV2czWE15MXR0V1ZfUmJRaW5JNk52Tk5wMF9qWURLd2Jxc2F5QUl3M0gtVWVxdGp1VjNqZ2puS0JhOV90S1BrWGJJVWFwUzhR?oc=5",
+   "date": "2026-02-24T13:00:07+00:00",
+   "summary": "Python Full Course for Beginners (13 Hours) – From Zero to Hero YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "التحدي الاول من سلسلة تحديات بايثون | 01",
@@ -1229,6 +1171,26 @@
    "lang": "ar"
   },
   {
+   "title": "Learn AI Powered Python Micro course from Beginners to Advance in Hindi",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPSGFrUmFlX2llb01vajVpRWxKNmZ2cmdVeVRuVW1qUHBLSlRUUDJTZlUwaVYteFduVEZjMzF3Ni12OVB3T1BRb3VoZEpoZzJpUjZ1UW1n?oc=5",
+   "date": "2026-01-19T13:39:14+00:00",
+   "summary": "Learn AI Powered Python Micro course from Beginners to Advance in Hindi YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How to Learn Python for Data Engineers Fast (2026 Step-By-Step Guide)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yTXZuVmg3U1h5aEhPUXZyUVRXQWx2NzFNcVR6ZEU4RVJGYW00N3RBUVpja1JFM1Y1dFpXWjJjVGM5RFl6WVNhR1hEUFhvZ09hUXR3RkhB?oc=5",
+   "date": "2025-12-30T13:21:57+00:00",
+   "summary": "How to Learn Python for Data Engineers Fast (2026 Step-By-Step Guide) YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "مشاريع بايثون للمبتدئين | احترف التفكير البرمجي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrWGU2UXJPTGpJZ2VKOHUwSXVQVHc4WHlqaEg0cGtuakVkdlBhNVd4Q3lIV3REQlZIVVdHaFFPX3VhbWN3UUdreDd4aXhzeFRfQ2lraDZn?oc=5",
    "date": "2025-08-09T14:07:52+00:00",
@@ -1237,6 +1199,36 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Scikit-Learn Full Crash Course - Python Machine Learning",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZnRHVEp3Ul9wTjVvcWRzR2VseFNKdVY2dC1xcndaZzROc1A1SUZMeWlKUWRtREVhcFE3aThlQ0w2S09hejNsVFNrZDBiQUREVGNCOTJB?oc=5",
+   "date": "2025-08-03T22:00:21+00:00",
+   "summary": "Scikit-Learn Full Crash Course - Python Machine Learning YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Python Crash Course 🔥 Learn Python in Under 3 Hours | Full Beginner Tutorial (No Experience Needed)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Uazd0Q0dtTUNoZlQ5bkxhTDRwYVAxZmZacDFqaWVXakxsdjM1TWROY0QyTVF0MDQzclNGQXM3R0xTa0xhUUlSUEViZHg0QWttVVBFemln?oc=5",
+   "date": "2025-08-03T15:45:01+00:00",
+   "summary": "Python Crash Course 🔥 Learn Python in Under 3 Hours | Full Beginner Tutorial (No Experience Needed) YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Foundation to Python - Tutorial Lecture 1 - Python for Biological Data Analysis",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15Q1hIcTFIYVJDVnpVLURtZWt4MXVRX0FUWnNDU1E0NEdVMzhYUTFJOW9jUU1BeGZ6dUM5NDFMWHZrWm1wQlVHVHlENHNmNlZyaVc0QTRB?oc=5",
+   "date": "2025-07-16T18:43:54+00:00",
+   "summary": "Foundation to Python - Tutorial Lecture 1 - Python for Biological Data Analysis YouTube",
+   "tech": "python",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "برمجة بايثون لمعلمي الفتيان: ماذا بعد سكراتش؟ (مقدمة) |Python Editor|PictoBlox",
