@@ -24,14 +24,18 @@ self.addEventListener('fetch', e => {
   // طلبات المحتوى والبروكسي: من الشبكة دائماً
   if (url.origin !== location.origin || url.pathname.endsWith('/proxy')) return;
 
-  // الواجهة: الكاش أولاً ثم الشبكة (مع تحديث الكاش في الخلفية)
+  /* الواجهة: الشبكة أولاً ثم الكاش.
+     الكاش أولاً كان يعني بقاء نسخة قديمة من التطبيق بعد كل تحديث حتى الفتحة
+     التالية؛ والتطبيق يحتاج الشبكة أصلاً، فالكاش دوره الاحتياط عند انقطاعها. */
   e.respondWith(
-    caches.match(req).then(hit => {
-      const net = fetch(req).then(res => {
-        if (res.ok) caches.open(CACHE).then(c => c.put(req, res.clone()));
+    fetch(req)
+      .then(res => {
+        if (res.ok) {
+          const copy = res.clone();
+          caches.open(CACHE).then(c => c.put(req, copy));
+        }
         return res;
-      }).catch(() => hit);
-      return hit || net;
-    })
+      })
+      .catch(() => caches.match(req).then(hit => hit || caches.match('./index.html')))
   );
 });

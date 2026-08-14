@@ -13,7 +13,8 @@ const STALE_MS  = 6 * 60 * 60 * 1000;   // يعاد الجلب إذا مضت ٦ 
 const PAGE_SIZE = 30;
 const MAX_STORE = 800;
 
-const CAPS = { pypi:15, blogs:50, devto:45, hn:40, so:30, github:25, reddit:30, fcc:20 };
+const CAPS = { pypi:15, blogs:50, devto:45, hn:40, so:30, github:25, reddit:30,
+               fcc:20, yt:20, 'yt-search':40 };
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
@@ -94,6 +95,15 @@ const KIND_RE = [
    الخطّين العربي واللاتيني حتى لا يُصنَّف كل محتوى عربي على أنه مترجم. */
 const TRANSLATED_RE = /مترجم|مترجمة|مدبلج|ترجمة|بالعربي|بالعربية|arabic sub/i;
 const LATIN_RE = /[A-Za-z]{3,}/;
+/* إشارة تعليمية برمجية — تفرَّق بين «لغة Rust» و«لعبة Rust»، وبين بايثون
+   اللغة وبايثون الثعبان. اسم اللغة وحده لا يكفي. */
+const PROG_SIGNAL = /برمج|مبرمج|كود|شرح|دورة|كورس|درس|دروس|تعلم|تعلّم|تطوير|خوارزم|مشروع|مكتبة|أكواد|\bprogramming\b|\btutorial\b|\bcourse\b|\blearn(ing)?\b|\bcode\b|\bcoding\b|\bdeveloper\b|\bguide\b|\bcrash\b/i;
+
+/* أسماء لغات كثيرة تشترك مع ألعاب (‏Rust، Java، Go) — تُستبعد نتائج الألعاب
+   إلا إذا كان الفيديو عن *برمجة* لعبة. */
+const YT_GAME = /لعبة|لعبه|ألعاب|العاب|قيمنق|قيمينق|جيمنج|جيمينج|ببجي|فورت ?نايت|ماين ?كرافت|فلوق|سيرفر خاص|\bgameplay\b|\bgaming\b|\bgame\b|\bvlog\b|\bmobile\b/i;
+const YT_BUILD_GAME = /(بناء|برمجة|صنع|اصنع|أصنع|تطوير|إنشاء|انشاء)[^.]{0,15}(لعبة|لعبه)|\b(build|make|create|develop|program|coding)\b[^.]{0,20}\bgame\b/i;
+
 const NOISE = /ثعب|أفع|افع|سيارة|طائرة|صاروخ|دبابة|مسدس|كوبرا|حديقة الحيوان/;
 const PROG  = /برمج|مبرمج|لغة|كود|تطوير|تعلم|دورة|كورس|شرح|مكتبة|مكتبات|تطبيق|مشروع|بيانات|ذكاء اصطناعي|خوارزم|\bcode\b|\bprogramming\b/i;
 
@@ -203,8 +213,8 @@ function parseFeed(xmlText){
   }).filter(i => i.title && i.url);
 }
 
-/** يجمع عدة تغذيات RSS في مصدر واحد. */
-async function fetchFeeds(urls, sourceId, sourceName, tech, checkRelevance){
+/** يجمع عدة تغذيات RSS في مصدر واحد. `extra` تُدمج في كل عنصر. */
+async function fetchFeeds(urls, sourceId, sourceName, tech, checkRelevance, extra = {}){
   const t = techById(tech);
   const results = await Promise.allSettled(urls.map(u => viaProxy(u).then(parseFeed)));
   const out = [];
@@ -214,16 +224,22 @@ async function fetchFeeds(urls, sourceId, sourceName, tech, checkRelevance){
     for (const it of r.value){
       let title = it.title, via = '';
       const m = title.match(/^(.*)\s+[-–]\s+([^-–]{2,40})$/);
-      if (m && sourceId.startsWith('ar-')){ title = m[1].trim(); via = m[2].trim(); }
+      if (m && /^(ar-|yt)/.test(sourceId)){ title = m[1].trim(); via = m[2].trim(); }
 
       const blob = `${title} ${it.summary || ''}`;
       if (checkRelevance && t && !t.match.test(blob)) continue;
       if (NOISE.test(blob) && !PROG.test(blob)) continue;
+      // فيديوهات يوتيوب: يلزم دليل تعليمي برمجي، وتُستبعد الألعاب والفلوجات
+      if (/^(ar-yt|yt)/.test(sourceId)){
+        if (!PROG_SIGNAL.test(blob)) continue;
+        if (YT_GAME.test(blob) && !YT_BUILD_GAME.test(blob)) continue;
+      }
 
       out.push(classify({
         ...it, title, tech,
         sourceId, source: via || sourceName,
         lang: isArabic(title) ? 'ar' : 'en',
+        ...extra,
       }));
     }
   }
@@ -304,6 +320,54 @@ async function fetchPyPI(){
   }));
 }
 
+/* ---------- بحث يوتيوب المباشر ----------
+   لا يحتاج مفتاح API: يُنفَّذ بحثاً مقيّداً بـ youtube.com بالعربي والإنجليزي معاً،
+   ويشمل كل لغات البرمجة لأنه يبحث عمّا تكتبه أنت لا عمّا هو محدّد في الشريط. */
+async function searchYouTube(query){
+  const q = query.trim();
+  if (!q) return [];
+  // يُضاف سياق برمجي للاستعلام نفسه، وإلا أعاد يوتيوب ألعاباً تحمل الاسم ذاته
+  return fetchFeeds(
+    [
+      gnews(`${q} برمجة site:youtube.com`, 'ar'),
+      gnews(`${q} programming tutorial site:youtube.com`, 'en'),
+    ],
+    'yt-search', 'يوتيوب', null, false,
+    { pinned: true, ytq: q },
+  );
+}
+
+async function runYouTubeSearch(){
+  const q = state.q.trim();
+  if (!q || state.ytLoading) return;
+
+  state.ytLoading = true;
+  const btn = $('#btn-yt');
+  btn.disabled = true;
+  $('#yt-label').textContent = 'جارٍ البحث في يوتيوب…';
+
+  try {
+    const found = await searchYouTube(q);
+    if (found.length){
+      state.items = merge(state.items, found);
+      state.ytQuery = q;
+      state.shown = PAGE_SIZE;
+      render();
+      scrollTo({ top: 0, behavior: 'smooth' });
+      setStatus(`نتائج يوتيوب لـ «${q}»: ${found.length}`);
+    } else {
+      setStatus('لم يُعثر على فيديوهات مطابقة.');
+    }
+  } catch {
+    setStatus('تعذّر البحث في يوتيوب — أعد المحاولة.');
+  }
+
+  state.ytLoading = false;
+  btn.disabled = false;
+  $('#yt-label').textContent = 'ابحث في يوتيوب';
+  setTimeout(() => setStatus(''), 5000);
+}
+
 /** يبني قائمة المهام لجلب لغة برمجة واحدة. */
 function jobsFor(techId){
   const t = techById(techId);
@@ -316,6 +380,8 @@ function jobsFor(techId){
     { name:'GitHub',         fn:() => fetchGitHub(t) },
     { name:'مقالات عربية',   fn:() => fetchFeeds(t.ar.map(q => gnews(q, 'ar')), 'ar-news', 'مقالات عربية', t.id, true) },
     { name:'فيديوهات عربية', fn:() => fetchFeeds([gnews(`${t.ar[0]} site:youtube.com`, 'ar')], 'ar-yt', 'فيديوهات ودروس', t.id, true) },
+    { name:'فيديوهات إنجليزية', fn:() => fetchFeeds(
+        [gnews(`${t.hn} tutorial site:youtube.com`, 'en')], 'yt', 'يوتيوب', t.id, true) },
   ];
   if (t.reddit.length)
     jobs.push({ name:'Reddit', fn:() => fetchFeeds(
@@ -347,6 +413,8 @@ const state = {
   updatedAt: 0,
   loading: false,
   shelf: 'saved',
+  ytLoading: false,
+  ytQuery: '',
 };
 
 const savePrefs = () => save(PREF_KEY, prefs);
@@ -455,11 +523,14 @@ const KIND_NAME  = { course:'دورة كاملة', tutorial:'شرح', project:'�
 const isNew = i => i.date && new Date(i.date).getTime() > state.lastVisit;
 
 function visible(){
-  const q = state.q.trim().toLowerCase();
+  // مطابقة بالكلمات لا بالجملة الحرفية: «تعلم Rust» تطابق عنواناً فيه الكلمتان بأي ترتيب
+  const words = state.q.trim().toLowerCase().split(/\s+/).filter(Boolean);
   const stage = STAGES.find(s => s.id === prefs.stage);
 
   let list = state.items.filter(i => {
-    if (!prefs.techs.includes(i.tech)) return false;
+    // بعد بحث يوتيوب تُعرض نتائجه وحدها حتى يُلغى البحث
+    if (state.ytQuery) { if (i.ytq !== state.ytQuery) return false; }
+    else if (!prefs.techs.includes(i.tech)) return false;
     if (prefs.lang === 'ar' && i.lang !== 'ar') return false;
     if (prefs.lang === 'en' && i.lang !== 'en') return false;
     if (prefs.lang === 'translated' && !i.translated) return false;
@@ -467,7 +538,11 @@ function visible(){
     if (prefs.kind !== 'all' && i.kind !== prefs.kind) return false;
     if (prefs.source !== 'all' && i.sourceId !== prefs.source) return false;
     if (prefs.stageOnly && stage?.id && !(i.stages || []).includes(stage.id)) return false;
-    if (q && !`${i.title} ${i.summary || ''} ${i.source}`.toLowerCase().includes(q)) return false;
+    // نتائج بحث يوتيوب جاءت من البحث نفسه، فلا يُعاد ترشيحها بالنص
+    if (words.length && !i.pinned){
+      const hay = `${i.title} ${i.summary || ''} ${i.source}`.toLowerCase();
+      if (!words.every(w => hay.includes(w))) return false;
+    }
     return true;
   });
 
@@ -615,7 +690,8 @@ function renderSourceChips(){
   }
   const names = { hn:'Hacker News', devto:'DEV.to', so:'Stack Overflow', github:'GitHub',
                   pypi:'PyPI', 'ar-news':'مقالات عربية', 'ar-yt':'فيديوهات عربية',
-                  blogs:'مدونات', reddit:'Reddit', fcc:'freeCodeCamp' };
+                  blogs:'مدونات', reddit:'Reddit', fcc:'freeCodeCamp',
+                  yt:'يوتيوب', 'yt-search':'بحث يوتيوب' };
 
   wrap.textContent = '';
   const defs = [{ id:'all', name:'كل المصادر' },
@@ -634,6 +710,7 @@ function renderActiveFilters(){
   const wrap = $('#active-filters');
   wrap.textContent = '';
   const pills = [];
+  if (state.ytQuery) pills.push([`▶ نتائج يوتيوب: ${state.ytQuery}`, () => { state.ytQuery = ''; }]);
   if (prefs.level !== 'all')  pills.push([LEVEL_NAME[prefs.level], () => prefs.level = 'all']);
   if (prefs.kind !== 'all')   pills.push([KIND_NAME[prefs.kind],   () => prefs.kind = 'all']);
   if (prefs.source !== 'all') pills.push(['مصدر محدّد',            () => prefs.source = 'all']);
@@ -743,7 +820,8 @@ $('#btn-more').onclick = () => { state.shown += PAGE_SIZE; render(); };
 
 function resetFilters(){
   Object.assign(prefs, { lang:'all', level:'all', kind:'all', sort:'date', source:'all', stage:'', stageOnly:false });
-  state.q = ''; $('#q').value = ''; $('#btn-clear').hidden = true;
+  state.q = ''; state.ytQuery = ''; $('#q').value = '';
+  $('#btn-clear').hidden = true; $('#btn-yt').hidden = true;
   state.shown = PAGE_SIZE;
   savePrefs(); syncControls(); render();
 }
@@ -753,11 +831,22 @@ $('#btn-reset2').onclick = resetFilters;
 let qTimer;
 $('#q').addEventListener('input', e => {
   state.q = e.target.value;
-  $('#btn-clear').hidden = !state.q;
+  const has = !!state.q.trim();
+  $('#btn-clear').hidden = !has;
+  $('#btn-yt').hidden = !has;
   clearTimeout(qTimer);
   qTimer = setTimeout(() => { state.shown = PAGE_SIZE; render(); }, 180);
 });
-$('#btn-clear').onclick = () => { $('#q').value = ''; state.q = ''; $('#btn-clear').hidden = true; render(); };
+$('#q').addEventListener('keydown', e => {
+  if (e.key === 'Enter'){ e.preventDefault(); $('#q').blur(); runYouTubeSearch(); }
+});
+$('#btn-yt').onclick = runYouTubeSearch;
+$('#btn-clear').onclick = () => {
+  $('#q').value = ''; state.q = ''; state.ytQuery = '';
+  $('#btn-clear').hidden = true; $('#btn-yt').hidden = true;
+  state.shown = PAGE_SIZE;
+  render();
+};
 
 $('#btn-filters').onclick = () => { syncControls(); $('#filters-dlg').showModal(); };
 $('#btn-library').onclick = () => { renderLibrary(); $('#library-dlg').showModal(); };

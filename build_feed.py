@@ -53,7 +53,7 @@ PROG = re.compile(
     re.IGNORECASE,
 )
 CAPS = {"pypi": 15, "blogs": 50, "devto": 45, "hn": 40, "so": 30, "github": 25,
-        "reddit": 30, "fcc": 20}
+        "reddit": 30, "fcc": 20, "yt": 25}
 
 # قنوات يوتيوب — مصدر المشاهدات والتقييم (تغذية القناة تحملها، بخلاف نتائج البحث).
 #
@@ -223,7 +223,7 @@ def parse_feed(xml: bytes, source_id: str, source: str, tech: str,
             continue
 
         via = ""
-        if source_id.startswith("ar-"):
+        if source_id.startswith(("ar-", "yt")):
             m = re.match(r"^(.*)\s+[-–]\s+([^-–]{2,40})$", title)
             if m:
                 title, via = m.group(1).strip(), m.group(2).strip()
@@ -468,11 +468,12 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
                 print(f"  [{tech}] تخطّي مصدر: {e}")
 
     # بحث أخبار جوجل يُنفَّذ بالتتابع — الطلبات المتوازية على نفس المضيف تُقابَل بـ 429
-    ar_queries = [(q, "ar-news", "مقالات عربية") for q in cfg["ar"]]
-    ar_queries.append((cfg["ar"][0] + " site:youtube.com", "ar-yt", "فيديوهات ودروس"))
-    for query, sid, sname in ar_queries:
+    ar_queries = [(q, "ar-news", "مقالات عربية", "ar") for q in cfg["ar"]]
+    ar_queries.append((cfg["ar"][0] + " site:youtube.com", "ar-yt", "فيديوهات ودروس", "ar"))
+    ar_queries.append((cfg["hn"] + " tutorial site:youtube.com", "yt", "يوتيوب", "en"))
+    for query, sid, sname, qlang in ar_queries:
         try:
-            collected.extend(parse_feed(get(gnews(query)), sid, sname, tech, match))
+            collected.extend(parse_feed(get(gnews(query, qlang)), sid, sname, tech, match))
         except Exception as e:  # noqa: BLE001, PERF203
             print(f"  [{tech}] تخطّي بحث عربي: {e}")
         time.sleep(1.5)
