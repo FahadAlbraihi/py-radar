@@ -848,8 +848,40 @@ $('#btn-clear').onclick = () => {
   render();
 };
 
-$('#btn-filters').onclick = () => { syncControls(); $('#filters-dlg').showModal(); };
-$('#btn-library').onclick = () => { renderLibrary(); $('#library-dlg').showModal(); };
+/* على الجوال لوحة سفلية حاجبة، وعلى سطح المكتب لوحة منسدلة غير حاجبة
+   حتى لا تختفي النتائج خلفها. */
+const isWide = () => matchMedia('(min-width: 768px)').matches;
+/** يفسح مكاناً للّوحة على سطح المكتب بدل أن تغطي النتائج.
+    تُستخدم الخاصية الفيزيائية لا المنطقية لأن بعض المحركات لا تطبّق
+    padding-inline-end المضبوطة برمجياً. */
+function setPanelOffset(on){
+  const px = (on && isWide()) ? '400px' : '';
+  const side = getComputedStyle(document.documentElement).direction === 'rtl'
+    ? 'paddingLeft' : 'paddingRight';
+  for (const sel of ['.topbar', 'main', '.foot']){
+    const node = document.querySelector(sel);
+    if (node) node.style[side] = px;
+  }
+}
+
+function openSheet(dlg){
+  for (const other of document.querySelectorAll('dialog.sheet[open]')) if (other !== dlg) other.close();
+  if (dlg.open) { dlg.close(); return; }
+  isWide() ? dlg.show() : dlg.showModal();
+  setPanelOffset(true);
+}
+
+for (const dlg of document.querySelectorAll('dialog.sheet')){
+  dlg.addEventListener('close', () => {
+    if (!document.querySelector('dialog.sheet[open]')) setPanelOffset(false);
+  });
+}
+addEventListener('resize', () => {
+  if (document.querySelector('dialog.sheet[open]')) setPanelOffset(true);
+});
+
+$('#btn-filters').onclick = () => { syncControls(); openSheet($('#filters-dlg')); };
+$('#btn-library').onclick = () => { renderLibrary(); openSheet($('#library-dlg')); };
 $('#btn-install').onclick = () => $('#install-dlg').showModal();
 
 for (const dlg of document.querySelectorAll('dialog.sheet')){
@@ -857,6 +889,12 @@ for (const dlg of document.querySelectorAll('dialog.sheet')){
     if (e.target.closest('[data-close]') || e.target === dlg) dlg.close();
   });
 }
+// اللوحة غير الحاجبة لا تلتقط النقر خارجها بنفسها
+document.addEventListener('pointerdown', e => {
+  const t = e.target;
+  if (t && typeof t.closest === 'function' && t.closest('dialog.sheet, #btn-filters, #btn-library')) return;
+  for (const dlg of document.querySelectorAll('dialog.sheet[open]')) dlg.close();
+});
 $('#shelf-chips').addEventListener('click', e => {
   const b = e.target.closest('.chip');
   if (!b) return;

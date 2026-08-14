@@ -180,6 +180,22 @@ dialog.sheet{
 }
 dialog.sheet[open]{animation:up .22s ease-out}
 @keyframes up{from{transform:translateY(40px);opacity:.4}}
+
+/* على الشاشات العريضة: لوحة منسدلة تحت الأزرار لا تغطي النتائج،
+   وتُفتح غير حاجبة (‏show بدل showModal) فتبقى القائمة مقروءة وقابلة للتمرير. */
+@media (min-width:768px){
+  dialog.sheet{
+    inset:auto auto auto auto; top:60px; inset-inline-end:14px; margin:0;
+    width:370px; max-width:370px; max-height:calc(100vh - 84px);
+    border:1px solid var(--line); border-radius:16px;
+  }
+  dialog.sheet[open]{animation:pop .16s ease-out}
+  @keyframes pop{from{transform:translateY(-8px);opacity:.5}}
+  .sheet-foot{padding-bottom:14px}
+
+  /* الإزاحة نفسها تُضبط من app.js عند فتح اللوحة (setPanelOffset) */
+  .topbar,main,.foot{transition:padding .18s ease}
+}
 .sheet-head{
   display:flex;align-items:center;justify-content:space-between;
   padding:16px 18px 12px;border-bottom:1px solid var(--line);flex:0 0 auto;
