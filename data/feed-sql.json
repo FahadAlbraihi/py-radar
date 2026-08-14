@@ -1,8 +1,19 @@
 {
- "generated": "2026-08-14T21:19:17.410262+00:00",
+ "generated": "2026-08-14T21:56:46.323853+00:00",
  "tech": "sql",
- "count": 203,
+ "count": 206,
  "items": [
+  {
+   "title": "PopSQL shutting down means a lot of people need a new way to get data from their database into Google Sheets.\r\n\r\nI've been building SaturnSQL for this. Schedule queries and the results go straight into Sheets. Check it out at https://saturnsql.com",
+   "url": "https://dev.to/infr/popsql-shutting-down-means-a-lot-of-people-need-a-new-way-to-get-data-from-their-database-into-381f",
+   "date": "2026-08-14T21:29:21+00:00",
+   "summary": "saturnsql.com",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database",
    "url": "https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033",
@@ -52,6 +63,28 @@
    "url": "https://dev.to/tanu_priya/caching-redis-how-to-reduce-database-load-and-make-apis-faster-25b9",
    "date": "2026-08-14T17:57:43+00:00",
    "summary": "Imagine you have an API like:    GET /api/products        Enter fullscreen mode            Exit...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Funnel Analysis in SQL: Find Exactly Where Users Drop Off",
+   "url": "https://dev.to/vivekdraxlr/funnel-analysis-in-sql-find-exactly-where-users-drop-off-kp2",
+   "date": "2026-08-14T17:30:09+00:00",
+   "summary": "A practical guide to building conversion funnels in SQL — ordered events, time windows, and the mistakes that silently inflate your numbers.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Read-Only Gate for Model-Generated SQL on Free Compute",
+   "url": "https://dev.to/hackrs_6393/a-read-only-gate-for-model-generated-sql-on-free-compute-3iaj",
+   "date": "2026-08-14T17:28:49+00:00",
+   "summary": "Never run model-generated SQL against real data first. Use a throwaway database on free compute to...",
    "points": 0,
    "tech": "sql",
    "sourceId": "devto",
@@ -168,6 +201,28 @@
    "lang": "en"
   },
   {
+   "title": "A Free-Server Regression Job for LLM-Generated SQL",
+   "url": "https://dev.to/dataio_4921/a-free-server-regression-job-for-llm-generated-sql-4g55",
+   "date": "2026-08-14T11:29:00+00:00",
+   "summary": "LLM-generated SQL breaks in ways that ordinary unit tests miss. A model can return a syntactically...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding Database Indexes Without the Jargon",
+   "url": "https://dev.to/sam000/understanding-database-indexes-without-the-jargon-1lbl",
+   "date": "2026-08-14T10:47:49+00:00",
+   "summary": "Database indexes are one of the simplest ways to improve query performance.  They can also become one...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Replace the Heuristic With a Boundary: Rebuilding a Leave Table as an Append-Only Ledger",
    "url": "https://dev.to/dbartalos/replace-the-heuristic-with-a-boundary-rebuilding-a-leave-table-as-an-append-only-ledger-2b9j",
    "date": "2026-08-14T10:29:58+00:00",
@@ -184,6 +239,17 @@
    "date": "2026-08-14T10:29:48+00:00",
    "summary": "Nine of the thirteen corrections our migration code had ever written in production were wrong. We...",
    "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SQL JOIN Practice: From Basic to Advanced — 39 Real-World Queries with Solutions",
+   "url": "https://dev.to/dev_saravanan_journey/sql-join-practice-from-basic-to-advanced-39-real-world-queries-with-solutions-5ch3",
+   "date": "2026-08-14T10:16:29+00:00",
+   "summary": "Students &amp; Courses   Display student name and course name.    SELECT s.student_name,...",
+   "points": 5,
    "tech": "sql",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -446,39 +512,6 @@
    "url": "https://dev.to/arnavsharma2711/composite-indexes-explained-why-column-order-is-the-whole-game-11o0",
    "date": "2026-08-13T07:51:17+00:00",
    "summary": "Composite Indexes Explained: Why Column Order Is the Whole Game   Why won't the database use...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Cohort Retention Analysis in SQL: The Query That Tells You If Your Product Is Actually Sticky",
-   "url": "https://dev.to/vivekdraxlr/cohort-retention-analysis-in-sql-the-query-that-tells-you-if-your-product-is-actually-sticky-npe",
-   "date": "2026-08-13T06:55:31+00:00",
-   "summary": "A practical, copy-paste guide to building cohort retention tables in SQL — including the denominator bug that quietly inflates every retention number you've ever reported.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The SQL Worked Perfectly. The Data Was Wrong.",
-   "url": "https://dev.to/eduardo-ortega/the-sql-worked-perfectly-the-data-was-wrong-44de",
-   "date": "2026-08-12T14:46:50+00:00",
-   "summary": "A 30-minute database update turned into half a morning trying to explain something that shouldn't...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "SQL CTEs: How to Build a Query in Steps You Can Check",
-   "url": "https://dev.to/michaelnocito/sql-ctes-how-to-build-a-query-in-steps-you-can-check-3po",
-   "date": "2026-08-12T13:00:13+00:00",
-   "summary": "A CTE names one step of a query so you can run it on its own. Here is the WITH syntax, how to stack steps, how to test each one, and why a named step beats a nested subquery. Worked on 82,956 real games.",
    "points": 0,
    "tech": "sql",
    "sourceId": "devto",

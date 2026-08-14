@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T21:23:09.370971+00:00",
+ "generated": "2026-08-14T22:00:38.120855+00:00",
  "tech": "graphql",
- "count": 76,
+ "count": 77,
  "items": [
   {
    "title": "Let a Free Model Try to Break Your API Before Your Users Do",
@@ -30,6 +30,17 @@
    "url": "https://dev.to/dineshstack/verifying-a-whatsapp-webhook-in-laravel-the-three-silent-traps-25df",
    "date": "2026-08-14T19:15:05+00:00",
    "summary": "Three things go wrong when a Laravel application receives WhatsApp webhooks, and each produces a...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Caching & Redis: How to Reduce Database Load and Make APIs Faster",
+   "url": "https://dev.to/tanu_priya/caching-redis-how-to-reduce-database-load-and-make-apis-faster-25b9",
+   "date": "2026-08-14T17:57:43+00:00",
+   "summary": "Imagine you have an API like:    GET /api/products        Enter fullscreen mode            Exit...",
    "points": 0,
    "tech": "graphql",
    "sourceId": "devto",

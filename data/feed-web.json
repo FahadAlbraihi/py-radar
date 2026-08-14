@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T21:20:54.727316+00:00",
+ "generated": "2026-08-14T21:58:23.080124+00:00",
  "tech": "web",
- "count": 208,
+ "count": 211,
  "items": [
   {
    "title": "DogSpeak Pro - Interactive Behavioral Sandbox & Procedural Acoustic Synthesizer",
@@ -157,6 +157,28 @@
    "lang": "en"
   },
   {
+   "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
+   "url": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
+   "date": "2026-08-14T17:22:21+00:00",
+   "summary": "You build a React application. It works perfectly locally. Everything is fast, your state is...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Toolcrib Taste-Test: An AI agent argued with my prompt, demanded N=3 trials, and wrote a post-mortem on Cascading Style 💩",
+   "url": "https://dev.to/g_dollar/toolcrib-taste-test-an-ai-agent-argued-with-my-prompt-demanded-n3-trials-and-wrote-a-2222",
+   "date": "2026-08-14T17:20:58+00:00",
+   "summary": "Vibe coding is beautiful. Right up until day three when the conversational context drifts, variables...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Optimasi Font Arab Web: Studi Kasus Core Web Vitals pada Teks RTL",
    "url": "https://dev.to/mightyblue/optimasi-font-arab-web-studi-kasus-core-web-vitals-pada-teks-rtl-2bkp",
    "date": "2026-08-14T17:00:00+00:00",
@@ -249,6 +271,17 @@
    "date": "2026-08-14T13:21:20+00:00",
    "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.   A bowl is not a meal....",
    "points": 6,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Five bugs AI wrote for me that never threw an error",
+   "url": "https://dev.to/igor_potapenko/five-bugs-ai-wrote-for-me-that-never-threw-an-error-2mih",
+   "date": "2026-08-14T13:18:44+00:00",
+   "summary": "None of them crashed. None of them showed up in the logs. Three of them were invisible in code review, and one of them cost my first real user two thirds of their free quota. Here is what they were and what actually caug",
+   "points": 0,
    "tech": "web",
    "sourceId": "devto",
    "source": "DEV.to",
