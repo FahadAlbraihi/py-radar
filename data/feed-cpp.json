@@ -1,14 +1,36 @@
 {
- "generated": "2026-08-14T23:33:38.048069+00:00",
+ "generated": "2026-08-15T00:15:11.544164+00:00",
  "tech": "cpp",
  "count": 102,
  "items": [
+  {
+   "title": "A Free Model Endpoint Replied Twice, Then Went Silent. The Fix Was a C++ Replay Envelope, Not Retries",
+   "url": "https://dev.to/datacpp_8185/a-free-model-endpoint-replied-twice-then-went-silent-the-fix-was-a-c-replay-envelope-not-175i",
+   "date": "2026-08-14T23:53:07+00:00",
+   "summary": "Late on a Tuesday, a C++ tooling team noticed their warning classifier was duplicating...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What's the right way to multi configure CMake compiler flags?",
+   "url": "https://dev.to/matthew_faithfull/whats-the-right-way-to-multi-configure-cmake-compiler-flags-2f5i",
+   "date": "2026-08-14T23:16:56+00:00",
+   "summary": "I'm looking for the right way to set Compiler flags, per build type, with a multi platform build. In...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.",
    "url": "https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei",
    "date": "2026-08-14T20:40:21+00:00",
    "summary": "A realistic failure mode starts with a team that runs a nightly triage job on a small free server....",
-   "points": 0,
+   "points": 1,
    "tech": "cpp",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -360,28 +382,6 @@
    "url": "https://dev.to/devcpp_268/a-race-you-cant-reproduce-is-still-a-race-testing-model-generated-c-concurrency-fixes-20k6",
    "date": "2026-08-10T08:05:27+00:00",
    "summary": "In my last two posts I built a small grading loop for coding models on C++ tasks: compile the model's...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stream FreeSWITCH call audio to a WebSocket for real-time ASR (mod_ws_media)",
-   "url": "https://dev.to/luoyumin/stream-freeswitch-call-audio-to-a-websocket-for-real-time-asr-modwsmedia-32o2",
-   "date": "2026-08-09T13:09:02+00:00",
-   "summary": "If you're building anything that listens to live phone calls — real-time transcription, an AI voice...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Memory Region Data Structures",
-   "url": "https://dev.to/kai-wen-the-parrot/linux-memory-region-data-structures-1dnl",
-   "date": "2026-08-09T04:30:00+00:00",
-   "summary": "The memory descriptor (mm_struct) maintains information about a process's address space (current...",
    "points": 0,
    "tech": "cpp",
    "sourceId": "devto",
