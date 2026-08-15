@@ -1,8 +1,38 @@
 {
- "generated": "2026-08-15T00:35:07.234442+00:00",
+ "generated": "2026-08-15T04:19:26.754426+00:00",
  "tech": "kotlin",
- "count": 175,
+ "count": 181,
  "items": [
+  {
+   "title": "A Clean Boundary Should Make One Change Boring",
+   "url": "https://medium.com/@gsrajeni/a-clean-boundary-should-make-one-change-boring-71ef4572bdfc?source=rss------android-5",
+   "date": "2026-08-15T03:18:28+00:00",
+   "summary": "A practical architecture review for deciding where Android code should depend, adapt, and stop. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Type Arrow Symbols (← ↑ ↓ →) on Android Keyboard",
+   "url": "https://medium.com/@Cmsinn/how-to-type-arrow-symbols-on-android-keyboard-c02228c05551?source=rss------android-5",
+   "date": "2026-08-15T02:08:20+00:00",
+   "summary": "Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How Senior Android Engineers Debug Production Crashes in 2026",
+   "url": "https://halilozel1903.medium.com/how-senior-android-engineers-debug-production-crashes-in-2026-96674c22a61d?source=rss------android-5",
+   "date": "2026-08-15T02:01:04+00:00",
+   "summary": "A practical field guide to turning incomplete stack traces, ANRs, native failures, and silent process deaths into evidence-driven fixes Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "How to Build a High-Quality Mobile App in Seven Days with Loop Engineering",
    "url": "https://weidianhuang.medium.com/how-to-build-a-high-quality-mobile-app-in-seven-days-with-loop-engineering-d4f0da10bd1b?source=rss------android-5",
@@ -11,6 +41,17 @@
    "tech": "kotlin",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Zero-Cloud Android Service: Privacy by Architecture",
+   "url": "https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml",
+   "date": "2026-08-15T00:00:30+00:00",
+   "summary": "It happened during a quiet Friday sermon at the local masjid. The room was dense with silence, the...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -457,6 +498,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbTZvdFlIUVRoSEZMSnJCVEt4NlE2NDJvSEMtU3BjQnZuTUs1VDBWNHkxazRXLUQ2TDgxZXBPTTlwemwyeGlUVzZHejZSV1RHaDBYYnF3?oc=5",
    "date": "2025-09-22T17:17:46+00:00",
    "summary": "كورس برمجة تطبيقات أندرويد العملي (06): ماهو الـ coupling YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRG5EYUhIeFBsdWs3c3FUanI2M1k3UXV3ME9SdTRmOW14OUpSMXJ5bmlYLUhWZ0FKdG9lTWYyQkV6SXl4dGtucVdEb1BhZmZFSXJmX1BR?oc=5",
+   "date": "2025-09-20T15:32:27+00:00",
+   "summary": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1093,6 +1144,16 @@
    "lang": "en"
   },
   {
+   "title": "Kotlin Complete Tutorial | Module 1: Introduction for Beginners | Data Types | Operators | @SCALER",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZ2ZQeVdJUmFxeXpLVWw0Qk92SXJyTEt2U2o0ZDBMaGFkbEtCekVfRWd6WWhxNGppVURGajZUUE01TUo0WWFMaHZwNVhWVmNRWEUwQnF3?oc=5",
+   "date": "2023-08-24T12:30:12+00:00",
+   "summary": "Kotlin Complete Tutorial | Module 1: Introduction for Beginners | Data Types | Operators | @SCALER YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Advanced Kotlin: Advanced Classes 01",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40UUZYelM4d1pfUlBaYW5JbFQ2Mm5zSG5PNzA1TF9zd1hqbXFkMXVxdnBYRU1xbjhwT1ZtQmlka3VaM09MZVE5eGt5UkJreV9rRFYyT2JB?oc=5",
    "date": "2023-08-03T13:00:10+00:00",
@@ -1217,6 +1278,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lUnBUNnh0V0pRYWQ1dW5jVGRTX3Q0bEtEbGFvQzJzN1kxV2dSZ2RKdUxadGlzbkhWN0ZwVFJFRENIcGF4d2FCcTNxOWNjYkdEbUpESHpR?oc=5",
    "date": "2022-10-19T17:17:33+00:00",
    "summary": "كورس اساسيات لغة البرمجة كوتلن Kotlin 🔥حصري مع jetbrains fleet YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Kotlin Crash Course in one video | شرح لغة كوتلن في فيديو واحد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJVWVMa2luRGFxbjdiaTUwYnZMNm1zN2RIUHlIdjBoU0ZqM09GZS1DOS1jY1dlOUlDbkR6cjNWUEFqT0h4anlUa0RrV0RZNWJCcnQ2REF3?oc=5",
+   "date": "2022-08-07T10:00:15+00:00",
+   "summary": "Kotlin Crash Course in one video | شرح لغة كوتلن في فيديو واحد YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1467,16 +1538,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIS2MzbWE3RGphdE9COTJ1cGN0cXZqUnRNeGdGLUh1aW9URjBGX0xSNXVnTTNhc016Mk1lNVpvQUFDLTNQamJqcW11LUtKaDNYYXVDMTJ3?oc=5",
    "date": "2022-02-04T02:00:15+00:00",
    "summary": "Kotlin Tutorial for Beginners - Kotlin Data Types YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Tutorial for Beginners - JDK Installation for Kotlin development",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UmY2WEVEWHU0c2JQLW1iRFpZeEc0S2tXWVAyNlM0Wm1ab1VZSUhRNThlN2hQejJ4eXp2cDNfR0RXSGNCOU96SGMya1BzT0FDUkxlZE1B?oc=5",
-   "date": "2022-01-31T02:00:03+00:00",
-   "summary": "Kotlin Tutorial for Beginners - JDK Installation for Kotlin development YouTube",
    "tech": "kotlin",
    "sourceId": "yt",
    "source": "YouTube",

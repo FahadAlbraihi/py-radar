@@ -1,8 +1,52 @@
 {
- "generated": "2026-08-15T00:32:05.335505+00:00",
+ "generated": "2026-08-15T04:16:47.101199+00:00",
  "tech": "sql",
  "count": 220,
  "items": [
+  {
+   "title": "Stop Recreating Database Connections: An Illustrated Guide to Connection Pooling",
+   "url": "https://dev.to/saurav_tb_pandey/stop-recreating-database-connections-an-illustrated-guide-to-connection-pooling-4i64",
+   "date": "2026-08-15T04:07:14+00:00",
+   "summary": "If you have ever built an application that talks to a database, you have used a database connection....",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Optimizing Database Indexing for Write-Heavy AI Logging",
+   "url": "https://dev.to/kapil/optimizing-database-indexing-for-write-heavy-ai-logging-1mdi",
+   "date": "2026-08-15T03:30:46+00:00",
+   "summary": "Learn advanced techniques for database indexing tailored for write-heavy AI logging workloads to enhance performance and reduce costs.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Waitlist Promotion Should Be Determined Server-Side, Not Client-Side",
+   "url": "https://dev.to/hirodeath/why-waitlist-promotion-should-be-determined-server-side-not-client-side-4m84",
+   "date": "2026-08-15T00:29:10+00:00",
+   "summary": "This article is an English translation of the original Japanese article.  In an attendance system...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Reverse-Engineered a Restaurant ERP With No Documentation. Here's What It Taught Me About Being a Self-Taught Developer.",
+   "url": "https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e",
+   "date": "2026-08-15T00:19:56+00:00",
+   "summary": "There is no manual for TronSoft. No API reference, no schema diagram, no forum thread explaining why...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners 2026 | Advanced SQL Course | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q2NYaWh2T3RtXzU1QU45M0p6Mm80aGhacUZIV1JuN3R2Qk1tendockZCczNQSURsVzBqQ3V4YmVjaXg5YnlUU2lGWkhMYjRLaWhrQm13?oc=5",
@@ -293,50 +337,6 @@
    "url": "https://dev.to/instarenewal/serverless-bill-shock-tracking-edge-function-and-database-expirations-vercel-supabase-netlify-1ca8",
    "date": "2026-08-14T07:45:36+00:00",
    "summary": "Article image Serverless Bill Shock: Tracking Edge Function and Database Expirations (Vercel,...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Schema Linting vs Migration Linting: Which Database Problems Each One Can See",
-   "url": "https://dev.to/tbson87/schema-linting-vs-migration-linting-which-database-problems-each-one-can-see-1kp4",
-   "date": "2026-08-14T07:31:37+00:00",
-   "summary": "Migration linters read the statement you are about to run. Schemity's schema lint reads the model you already have - seventeen rules checked against the...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Self-Correcting Text-to-SQL: How Execution Feedback Loops Fix Broken Queries",
-   "url": "https://dev.to/vivekdraxlr/self-correcting-text-to-sql-how-execution-feedback-loops-fix-broken-queries-1alk",
-   "date": "2026-08-14T06:41:01+00:00",
-   "summary": "Single-shot text-to-SQL breaks on real schemas. Learn how to build an execution feedback loop that runs, catches errors, and lets the model repair its own SQL — plus the guardrails to keep it safe.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Conductor: PostgreSQL-Backed Async Task Queue for Python (No Redis Required)",
-   "url": "https://dev.to/panagiotis_panageas/conductor-postgresql-backed-async-task-queue-for-python-no-redis-required-29en",
-   "date": "2026-08-14T06:01:04+00:00",
-   "summary": "The Problem: Do You Really Need Redis or RabbitMQ?   Let me paint you a picture.  You're...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Replay AI-Generated Migrations Against a Throwaway Database Before You Merge Them",
-   "url": "https://dev.to/codepy_1473/replay-ai-generated-migrations-against-a-throwaway-database-before-you-merge-them-2ol0",
-   "date": "2026-08-14T04:27:23+00:00",
-   "summary": "The hard part of AI-assisted database work is not generating a migration. It is knowing whether the...",
    "points": 0,
    "tech": "sql",
    "sourceId": "devto",

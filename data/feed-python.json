@@ -1,8 +1,147 @@
 {
- "generated": "2026-08-15T00:31:34.529575+00:00",
+ "generated": "2026-08-15T04:16:16.981202+00:00",
  "tech": "python",
  "count": 220,
  "items": [
+  {
+   "title": "My Docs-Drift Checker Validates Two of My Three Memory Files. The One I Actually Search First Had None.",
+   "url": "https://dev.to/enjoy_kumawat/my-docs-drift-checker-validates-two-of-my-three-memory-files-the-one-i-actually-search-first-had-5e67",
+   "date": "2026-08-15T03:41:00+00:00",
+   "summary": "There's a trending post this week about a \"second brain\" your AI agent can read — an Obsidian vault...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My MCP Tool Logged Every Overwrite of a Live Article. Nothing Ever Stopped the Overwrite.",
+   "url": "https://dev.to/enjoy_kumawat/my-mcp-tool-logged-every-overwrite-of-a-live-article-nothing-ever-stopped-the-overwrite-1ion",
+   "date": "2026-08-15T03:40:15+00:00",
+   "summary": "I keep seeing the same shape of post on here lately: someone built a \"gatekeeper\" in front of their...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Optimizing Latency with MCP Caching",
+   "url": "https://dev.to/yashwanth_kasi/optimizing-latency-with-mcp-caching-359b",
+   "date": "2026-08-15T03:31:57+00:00",
+   "summary": "Reduce agentic system latency by leveraging MCP's caching mechanisms",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳",
+   "url": "https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6",
+   "date": "2026-08-15T03:21:08+00:00",
+   "summary": "Building Roshni: An Ultra-Low Latency, Multi-Agent Financial Voice Assistant for Bharat...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Wasting Free Model Calls on Trivial Diffs: A Three-Tier Escalation Ladder",
+   "url": "https://dev.to/gitlab_3188/stop-wasting-free-model-calls-on-trivial-diffs-a-three-tier-escalation-ladder-5132",
+   "date": "2026-08-15T03:20:59+00:00",
+   "summary": "A merge request changes one README line. The pipeline still calls a model.  It costs tokens. It adds...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Unigram Tokenization: Designing the Vocabulary Boundary of an LLM",
+   "url": "https://python.plainenglish.io/unigram-tokenization-designing-the-vocabulary-boundary-of-an-llm-cd592c4a9210?source=rss------python-5",
+   "date": "2026-08-15T03:08:25+00:00",
+   "summary": "Abstract Continue reading on Python in Plain English »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The Python Libraries I Didn’t Appreciate Until I Built Real Applications",
+   "url": "https://blog.stackademic.com/the-python-libraries-i-didnt-appreciate-until-i-built-real-applications-070641d2f71a?source=rss------python-5",
+   "date": "2026-08-15T02:56:49+00:00",
+   "summary": "When I first started learning Python, I cared about the libraries that looked impressive. Continue reading on Stackademic »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "10 Python Libraries Every Developer Should Learn in 2026",
+   "url": "https://levelup.gitconnected.com/10-python-libraries-every-developer-should-learn-in-2026-117b185dc5b7?source=rss------python-5",
+   "date": "2026-08-15T02:55:20+00:00",
+   "summary": "When I started learning Python, I made a mistake that I think a lot of developers make. Continue reading on Level Up Coding »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Stopped Writing Messy Python Automation Code After Discovering These 5 AI Libraries",
+   "url": "https://levelup.gitconnected.com/i-stopped-writing-messy-python-automation-code-after-discovering-these-5-ai-libraries-2512389c7df2?source=rss------python-5",
+   "date": "2026-08-15T02:53:50+00:00",
+   "summary": "For a long time, my Python automation scripts worked. Continue reading on Level Up Coding »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How do I know my build actually contains the code I just changed?",
+   "url": "https://dev.to/yotta-fish/how-do-i-know-my-build-actually-contains-the-code-i-just-changed-2olc",
+   "date": "2026-08-15T02:23:10+00:00",
+   "summary": "I rebuilt the same commit and got a different image. That is still the part I can't explain.  The...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Quando o RAG erra, quase nunca é o LLM: 4 falhas de recuperação e como logar cada uma",
+   "url": "https://dev.to/wildrik/quando-o-rag-erra-quase-nunca-e-o-llm-4-falhas-de-recuperacao-e-como-logar-cada-uma-3ljm",
+   "date": "2026-08-15T02:09:44+00:00",
+   "summary": "Todo problema de RAG parece problema do modelo. Quase nunca é.  Demorei pra aceitar isso. Ficava...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why is my word count different from Microsoft Word's?",
+   "url": "https://dev.to/yotta-fish/why-is-my-word-count-different-from-microsoft-words-16lc",
+   "date": "2026-08-15T01:30:51+00:00",
+   "summary": "The Korean translation came back with result_words: 0. I had the file open in front of me while I...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The free plan wasn't actually \"no registration required\" — fixing a landing page claim that contradicted itself",
+   "url": "https://dev.to/susumun/the-free-plan-wasnt-actually-no-registration-required-fixing-a-landing-page-claim-that-2dfl",
+   "date": "2026-08-15T01:06:21+00:00",
+   "summary": "Background   An external marketing review flagged what looked like a contradiction in our...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Master Object-Oriented Programming in Python: Classes, Objects and Real-World Examples",
    "url": "https://blog.stackademic.com/master-object-oriented-programming-in-python-classes-objects-and-real-world-examples-3e0a7e8b54ba?source=rss------python-5",
@@ -11,6 +150,50 @@
    "tech": "python",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "\"I built a portable memory layer for AI agents so you don't have to\"",
+   "url": "https://dev.to/gamingboy/i-built-a-portable-memory-layer-for-ai-agents-so-you-dont-have-to-3n8l",
+   "date": "2026-08-14T23:08:17+00:00",
+   "summary": "markdown           I built a portable memory layer for AI agents so you don't have to   AI agents are...",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "interlace.sh: Why We Built a Unified Abstraction",
+   "url": "https://dev.to/5c4989ca297ed/interlacesh-why-we-built-a-unified-abstraction-c66",
+   "date": "2026-08-14T23:07:02+00:00",
+   "summary": "Consider what a data engineer has to learn before writing a single useful transformation on a typical...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Show Dev: The Ghost in the Machine: Navigating Connection Errors in Distributed AI Systems",
+   "url": "https://dev.to/sunverseai/the-ghost-in-the-machine-navigating-connection-errors-in-distributed-ai-systems-6oe",
+   "date": "2026-08-14T22:51:18+00:00",
+   "summary": "In the first few days hours of launching Lawyie, I learned a hard lesson about the cloud: Your code...",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RealityLint: a static tool that checks whether your README still matches your repository",
+   "url": "https://dev.to/voonterr/realitylint-a-static-tool-that-checks-whether-your-readme-still-matches-your-repository-5hg",
+   "date": "2026-08-14T22:14:23+00:00",
+   "summary": "README files often drift away from the projects they describe.  A script gets renamed. A file moves....",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -169,16 +352,6 @@
    "lang": "ar"
   },
   {
-   "title": "MY PYTHON PROGRAMMING INTERNSHIP JOURNEY AT OASIS INFOBYTE.",
-   "url": "https://medium.com/@tejaswinikr785/my-python-programming-internship-journey-at-oasis-infobyte-1e8147dbf2bc?source=rss------python-5",
-   "date": "2026-08-14T18:19:53+00:00",
-   "summary": "I recently completed my Python Programming Internship with OASIS INFOBYTE, an experience that gave me an opportunity to apply my&#x2026; Continue reading on Medium »",
-   "tech": "python",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Catch Prompt Drift Before It Breaks Your Free-Model CI Job",
    "url": "https://dev.to/gitlab_3188/catch-prompt-drift-before-it-breaks-your-free-model-ci-job-4phl",
    "date": "2026-08-14T17:10:10+00:00",
@@ -335,149 +508,6 @@
    "date": "2026-08-14T10:05:10+00:00",
    "summary": "Most teams can't afford Splunk, and Elastic SIEM takes real time to tune. Yet you still need to know...",
    "points": 2,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Tried to Verify an AI Agent Benchmark. Here's the Bundle I Wish Everyone Shipped",
-   "url": "https://dev.to/benchclaw/i-tried-to-verify-an-ai-agent-benchmark-heres-the-bundle-i-wish-everyone-shipped-2okn",
-   "date": "2026-08-14T06:51:35+00:00",
-   "summary": "Nearly every AI agent benchmark you read is unfalsifiable.  Not wrong, necessarily - unfalsifiable....",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Conductor: PostgreSQL-Backed Async Task Queue for Python (No Redis Required)",
-   "url": "https://dev.to/panagiotis_panageas/conductor-postgresql-backed-async-task-queue-for-python-no-redis-required-29en",
-   "date": "2026-08-14T06:01:04+00:00",
-   "summary": "The Problem: Do You Really Need Redis or RabbitMQ?   Let me paint you a picture.  You're...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your LLM gateway takes a cut. Seventeen lines of Python tell you how big.",
-   "url": "https://dev.to/altrouter/your-llm-gateway-takes-a-cut-seventeen-lines-of-python-tell-you-how-big-45jc",
-   "date": "2026-08-14T05:18:57+00:00",
-   "summary": "A gateway sells you one key for every model — and a price you never checked against the vendor's own list. Here is the script that checks it, and the four things to look at before you switch.",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Cascading Failures in Multi-Agent Systems",
-   "url": "https://dev.to/yashwanth_kasi/cascading-failures-in-multi-agent-systems-omd",
-   "date": "2026-08-14T04:42:06+00:00",
-   "summary": "Detect and recover from downstream service outages in LangGraph agent workflows",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "European SaaS Expired Session Cleanup: Idempotent Python Drains Rate-Limited Workers",
-   "url": "https://dev.to/silhouette72591483/european-saas-expired-session-cleanup-idempotent-python-drains-rate-limited-workers-28lg",
-   "date": "2026-08-14T04:21:55+00:00",
-   "summary": "For a European SaaS, cheap expired sessions cleanup sounds like a cron calling a public URL; the real...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Gate the Patch, Not the Model: A Three-Check Loop for Untrusted Code Outputs",
-   "url": "https://dev.to/hackrs_6393/gate-the-patch-not-the-model-a-three-check-loop-for-untrusted-code-outputs-99",
-   "date": "2026-08-14T04:17:50+00:00",
-   "summary": "A generated patch can look correct and still fail in three ways that a prompt screenshot cannot show:...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Free Model's Server Passed My Smoke Test, Then Hung on Shutdown. The Exit Contract Caught It.",
-   "url": "https://dev.to/datacpp_8185/a-free-models-server-passed-my-smoke-test-then-hung-on-shutdown-the-exit-contract-caught-it-31o4",
-   "date": "2026-08-14T04:10:04+00:00",
-   "summary": "We spend a lot of time testing whether a service can start. We spend far less time testing whether it...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My Publish Script Checks for Duplicates Before It Posts. Nothing Stops Two Checks From Passing at Once.",
-   "url": "https://dev.to/enjoy_kumawat/my-publish-script-checks-for-duplicates-before-it-posts-nothing-stops-two-checks-from-passing-at-3d7f",
-   "date": "2026-08-14T03:49:23+00:00",
-   "summary": "This repo's publish_devto.py has had two real bugs fixed in its idempotency guard already. On...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I redacted my username from a screen recording three times and missed it every time",
-   "url": "https://dev.to/renga154/i-redacted-my-username-from-a-screen-recording-three-times-and-missed-it-every-time-1gnd",
-   "date": "2026-08-14T03:46:41+00:00",
-   "summary": "Originally published on my own site.  I make a desktop AI agent. I recorded a demo of it writing...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Token Bucket vs. Sliding Window: Building Rate Limiters That Actually Hold Under Load",
-   "url": "https://dev.to/darshilsomani019/token-bucket-vs-sliding-window-building-rate-limiters-that-actually-hold-under-load-4h7i",
-   "date": "2026-08-14T03:14:12+00:00",
-   "summary": "Rate limiting sounds like a solved problem until you actually implement one and watch it fail in a...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Before You Trust That AI Diff, Replay Real Requests Against It",
-   "url": "https://dev.to/codepy_1473/before-you-trust-that-ai-diff-replay-real-requests-against-it-2b27",
-   "date": "2026-08-14T01:05:03+00:00",
-   "summary": "The hardest regressions from AI-suggested changes are the ones every unit test green-lighted. A patch...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Free AI Endpoints Are Unreliable Dependencies. Test Them Like One.",
-   "url": "https://dev.to/datacpp_8185/free-ai-endpoints-are-unreliable-dependencies-test-them-like-one-5b5c",
-   "date": "2026-08-14T00:59:02+00:00",
-   "summary": "Most glue code around a free AI endpoint fails for a very boring reason: the request returned a 200,...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dokuz sanal sunucu, üç platform, bir kota duvarı: karakter videosu hattını kurmak (Bölüm 2)",
-   "url": "https://dev.to/gurayta/dokuz-sanal-sunucu-uc-platform-bir-kota-duvari-karakter-videosu-hattini-kurmak-bolum-2-30ma",
-   "date": "2026-08-14T00:08:18+00:00",
-   "summary": "Birinci bölümde bir haber sitesinin yayın akışını ajana devrettiğimi yazmıştım. O yazıdan sonra...",
-   "points": 0,
    "tech": "python",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -1194,36 +1224,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Scikit-Learn Full Crash Course - Python Machine Learning",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZnRHVEp3Ul9wTjVvcWRzR2VseFNKdVY2dC1xcndaZzROc1A1SUZMeWlKUWRtREVhcFE3aThlQ0w2S09hejNsVFNrZDBiQUREVGNCOTJB?oc=5",
-   "date": "2025-08-03T22:00:21+00:00",
-   "summary": "Scikit-Learn Full Crash Course - Python Machine Learning YouTube",
-   "tech": "python",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Python Crash Course 🔥 Learn Python in Under 3 Hours | Full Beginner Tutorial (No Experience Needed)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Uazd0Q0dtTUNoZlQ5bkxhTDRwYVAxZmZacDFqaWVXakxsdjM1TWROY0QyTVF0MDQzclNGQXM3R0xTa0xhUUlSUEViZHg0QWttVVBFemln?oc=5",
-   "date": "2025-08-03T15:45:01+00:00",
-   "summary": "Python Crash Course 🔥 Learn Python in Under 3 Hours | Full Beginner Tutorial (No Experience Needed) YouTube",
-   "tech": "python",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Foundation to Python - Tutorial Lecture 1 - Python for Biological Data Analysis",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15Q1hIcTFIYVJDVnpVLURtZWt4MXVRX0FUWnNDU1E0NEdVMzhYUTFJOW9jUU1BeGZ6dUM5NDFMWHZrWm1wQlVHVHlENHNmNlZyaVc0QTRB?oc=5",
-   "date": "2025-07-16T18:43:54+00:00",
-   "summary": "Foundation to Python - Tutorial Lecture 1 - Python for Biological Data Analysis YouTube",
-   "tech": "python",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "برمجة بايثون لمعلمي الفتيان: ماذا بعد سكراتش؟ (مقدمة) |Python Editor|PictoBlox",

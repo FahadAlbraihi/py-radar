@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T00:39:55.147627+00:00",
+ "generated": "2026-08-15T04:24:10.395218+00:00",
  "tech": "c",
- "count": 43,
+ "count": 44,
  "items": [
   {
    "title": "How Buffer Overflows Actually Hijack Program Execution",
@@ -166,6 +166,16 @@
    "tech": "c",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "pointer-events",
+   "url": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51+00:00",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as int",
+   "tech": "c",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {

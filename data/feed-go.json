@@ -1,8 +1,41 @@
 {
- "generated": "2026-08-15T00:33:08.316627+00:00",
+ "generated": "2026-08-15T04:17:30.165941+00:00",
  "tech": "go",
- "count": 72,
+ "count": 79,
  "items": [
+  {
+   "title": "Goish: พอร์ตรันไทม์ของ Go ทั้งตัวลงใน no_std Rust",
+   "url": "https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n",
+   "date": "2026-08-15T02:40:33+00:00",
+   "summary": "📅 เขียนเมื่อ: สิงหาคม 2026 | Goish (goish.cogentica.ai) ⚠️ โปรเจกต์เพิ่งเปิดตัว —...",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why your AI coding agent should never see your API keys",
+   "url": "https://dev.to/ikkun1222/why-your-ai-coding-agent-should-never-see-your-api-keys-1hem",
+   "date": "2026-08-15T02:02:59+00:00",
+   "summary": "Your AI coding agent needs your API keys. It needs them to call services, to test integrations, to...",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Pressure-testing Ota on Flagr: native and container Go verification with honest boundaries",
+   "url": "https://dev.to/otaready/pressure-testing-ota-on-flagr-native-and-container-go-verification-with-honest-boundaries-4gi0",
+   "date": "2026-08-14T23:06:06+00:00",
+   "summary": "Overview   Flagr is a useful test of whether Ota can keep a real service repository legible....",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Streaming Live Video View Counts With Server-Sent Events in PHP 8.4",
    "url": "https://dev.to/ahmet_gedik778845/streaming-live-video-view-counts-with-server-sent-events-in-php-84-1and",
@@ -300,6 +333,16 @@
    "lang": "en"
   },
   {
+   "title": "Complete Crash Course for Mastering Golang Programming Language with Many Hands-on Examples",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zZjlXQTk5V2VMOTlhQU45YlJFMGxKbm8wS054MzA5M2NpdldIZkZaUGJobVlFUkQtalQ0dTBYTU1ScnpfWVZDSnhBZlVXMjAzeFlubVFn?oc=5",
+   "date": "2026-05-07T14:01:00+00:00",
+   "summary": "Complete Crash Course for Mastering Golang Programming Language with Many Hands-on Examples YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Golang Web Scraper Tutorial 2026",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ob2d4dG9EQVZTWGtHeHp4dTVzYjhXaXNTb1pDaXBMYXBLUEpNbDBCTmlTeGFkbndLYlJsZVRMc3Nldk1zeHVNZmRwZ09NT0tGYlFrczVR?oc=5",
    "date": "2026-03-17T17:00:01+00:00",
@@ -344,6 +387,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IdTg1bFJLY1BMMjJyZGk4dTh6SE9iMnpFV0drZ3Y2UVM4YkpQWGk2MHJPd2pHUjlzT3FUREZfRTdYaVN2TGdOR2dZTC1Wek51LWhaMDNn?oc=5",
    "date": "2024-10-14T13:22:24+00:00",
    "summary": "Full Golang Tutorial - Learn Go by Building a TodoList App YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Go Practical Crash Course | Build a Budget Tracker in Golang #golanguage #golangtutorial #golang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UjdWRzJNamoyZXY3UEFHOGU5VkUxSHBWREJQUzQzd083OXozN2k5cFl1aHI4SWhOc1lmUjhUQmd1M2JsMEJHRF9nQV82Wkdjbmk2LWN3?oc=5",
+   "date": "2024-10-06T15:00:31+00:00",
+   "summary": "Go Practical Crash Course | Build a Budget Tracker in Golang #golanguage #golangtutorial #golang YouTube",
    "tech": "go",
    "sourceId": "yt",
    "source": "YouTube",
@@ -423,10 +476,20 @@
    "title": "Golang Programming Language Full Course 🔥| Hello world #princebhai",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyU1VsX3FwaFgzcm1fbkptMUlETjdJNXRIWWNiakxZOU5xUVdDS09DSkdkZ0RQQllZUmlNc2s3VlJwSUQyeUc3dmdsOHVnMksyWkNOUFBR?oc=5",
    "date": "2024-03-13T11:30:28+00:00",
-   "summary": "Golang Programming Language Full Course 🔥| Hello world #princebhai youtube.com",
+   "summary": "Golang Programming Language Full Course 🔥| Hello world #princebhai YouTube",
    "tech": "go",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn the basics of Go: full course for beginners (learn golang in 3 hours)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZnAzbjRHYnBIdDlCTFZzMk54NDBDSGZSakE4ci1kUzlYTFRUTzZjVWFWS2hjcmJGNk01RDdVOVZfbHBORzlrOFYwUEYyN1MzZXBjTlJn?oc=5",
+   "date": "2023-12-12T15:17:43+00:00",
+   "summary": "Learn the basics of Go: full course for beginners (learn golang in 3 hours) YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -503,10 +566,20 @@
    "title": "Matrix in Golang - Lesson 21 | Go | Full Course | CloudNative | Go Tutorial | Golang",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90TTFocUN0VndPS1oxSlR5Nlpyc09KYjNXVkVwQXM2b3hZWHNCM29rdHhTdjhDaFpqU2hTUGMzcEhBRWw0c2hCcjVjRzZzSUhhUE9tRjNB?oc=5",
    "date": "2023-02-27T15:15:00+00:00",
-   "summary": "Matrix in Golang - Lesson 21 | Go | Full Course | CloudNative | Go Tutorial | Golang youtube.com",
+   "summary": "Matrix in Golang - Lesson 21 | Go | Full Course | CloudNative | Go Tutorial | Golang YouTube",
    "tech": "go",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Read user input in Golang - Lesson 19 | Go | Full Course | CloudNative | Go Tutorial | Golang",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZRm0tWXRhVVdDQXQ0M01UTTVsZm42ZnlBdWxNWndHMzhrMTFvLUtXbkMzS2RueEJFSFVRalR5NFFUcExIQzZwZ194Z09kWFBDMjhva0FR?oc=5",
+   "date": "2023-02-16T15:15:02+00:00",
+   "summary": "Read user input in Golang - Lesson 19 | Go | Full Course | CloudNative | Go Tutorial | Golang YouTube",
+   "tech": "go",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
