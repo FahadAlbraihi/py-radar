@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T00:16:35.608627+00:00",
+ "generated": "2026-08-15T00:36:08.497963+00:00",
  "tech": "kali",
- "count": 207,
+ "count": 202,
  "items": [
   {
    "title": "How Buffer Overflows Actually Hijack Program Execution",
@@ -349,61 +349,6 @@
    "url": "https://dev.to/jigar_online/i-compared-6-ai-pentesting-tools-heres-how-to-actually-tell-them-apart-22o8",
    "date": "2026-07-30T15:30:00+00:00",
    "summary": "A year ago, \"AI pentesting\" barely meant anything. In 2026 it means at least six different products...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Earn $10k+/Year from Bug Bounties",
-   "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-4cke",
-   "date": "2026-07-30T12:00:53+00:00",
-   "summary": "How to Earn $10k+/Year from Bug Bounties   tags: security, bugbounty, money, hacking       ...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Your Wireless Security Pipeline Falls Short",
-   "url": "https://dev.to/intspired/why-your-wireless-security-pipeline-falls-short-2kpe",
-   "date": "2026-07-30T06:50:36+00:00",
-   "summary": "Part 1 of 6: Attack Surface, Wireless Security and Threat Modelling.  Wireless is no longer a side...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "OT Isolation as Attack Surface: Weaponizing CISA's Defense Guidance",
-   "url": "https://dev.to/satyam_rastogi/ot-isolation-as-attack-surface-weaponizing-cisas-defense-guidance-1n1j",
-   "date": "2026-07-29T14:42:19+00:00",
-   "summary": "CISA's new OT isolation guidance reveals defensive assumptions attackers exploit. Improperly segmented networks, unmonitored isolation points, and leg",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Hunting the #1 API Vulnerability (BOLA) in Your Own REST API",
-   "url": "https://dev.to/jigar_online/hunting-the-1-api-vulnerability-bola-in-your-own-rest-api-8ob",
-   "date": "2026-07-28T14:50:00+00:00",
-   "summary": "Your scanner gave you a green checkmark. Your API is still leaking every user's data.  That is the...",
-   "points": 6,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
-   "url": "https://dev.to/pyhacksecgp/htb-orion-craftcms-rce-a-reverse-shell-that-wouldnt-connect-and-a-telnetd-auth-bypass-4nj2",
-   "date": "2026-07-26T01:05:25+00:00",
-   "summary": "HTB Orion — Writeup   Orion is rated \"Very Easy\" on Hack The Box, but the path to root...",
    "points": 0,
    "tech": "kali",
    "sourceId": "devto",

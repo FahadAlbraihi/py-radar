@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T00:18:54.732980+00:00",
+ "generated": "2026-08-15T00:43:33.831466+00:00",
  "tech": "arduino",
  "count": 220,
  "items": [
@@ -168,6 +168,17 @@
    "lang": "en"
   },
   {
+   "title": "Case Study: Building a Smart HVAC Control System with IoT",
+   "url": "https://www.hackster.io/Himanshudada/case-study-building-a-smart-hvac-control-system-with-iot-26520c",
+   "date": "2026-08-13T04:28:23+00:00",
+   "summary": "A commercial facility manager came to us with a familiar pain point. They had a building with 40+ HVAC units spread across three floors.",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
+  },
+  {
    "title": "🏗️ How I Built MyZubster: A Decentralized Green Ecosystem with AI, IoT and Blockchain\"",
    "url": "https://dev.to/danielioni/how-i-built-myzubster-a-decentralized-green-ecosystem-with-ai-iot-and-blockchain-41g7",
    "date": "2026-08-13T03:44:28+00:00",
@@ -221,6 +232,17 @@
    "lang": "en"
   },
   {
+   "title": "Build a No-Code ePaper Weather Dashboard with XIAO EE05",
+   "url": "https://www.hackster.io/iotprojectsideas/build-a-no-code-epaper-weather-dashboard-with-xiao-ee05-a96da9",
+   "date": "2026-08-12T02:02:42+00:00",
+   "summary": "Build a smart ePaper Weather Dashboard using the XIAO ePaper Display Board EE05, XIAO ESP32-S3 Plus, and SenseCraft Seeedash (HMI).",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
+  },
+  {
    "title": "Arduino 5V 4-Channel Relay Module: Pinout, Wiring and How It Works",
    "url": "https://dev.to/play_withcircuit_241ef87/arduino-5v-4-channel-relay-module-pinout-wiring-and-how-it-works-4i16",
    "date": "2026-08-11T05:18:24+00:00",
@@ -241,6 +263,17 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
+  },
+  {
+   "title": "AI Robot from Scratch with Arduino UNO Q",
+   "url": "https://www.hackster.io/roni-bandini/ai-robot-from-scratch-with-arduino-uno-q-ce52db",
+   "date": "2026-08-10T13:36:01+00:00",
+   "summary": "A locally installed AI agent decides how to move the robot to achieve its goals—all on a single Arduino UNO Q",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
   },
   {
    "title": "Diseño, simulación e implementación de filtros FIR con C++ para ESP32",
@@ -294,6 +327,17 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
+  },
+  {
+   "title": "Lynx Serial Monitor: Modern Open-Source UART Debugging Tool",
+   "url": "https://www.hackster.io/552766/lynx-serial-monitor-modern-open-source-uart-debugging-tool-e50a47",
+   "date": "2026-08-04T15:49:54+00:00",
+   "summary": "A fast, lightweight, and modern serial communication tool built for Embedded Engineers, IoT Developers, and Hardware Hackers.",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
   },
   {
    "title": "Build a Working Apollo DSKY Replica with Raspberry Pi and Arduino",
@@ -371,6 +415,17 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
+  },
+  {
+   "title": "RescueMesh — Off-Grid Encrypted SOS over LoRa",
+   "url": "https://www.hackster.io/theoriginalgrantrawlings/rescuemesh-off-grid-encrypted-sos-over-lora-cfd268",
+   "date": "2026-06-29T22:00:47+00:00",
+   "summary": "A pocket SOS beacon that sends your encrypted location miles over LoRa — no cell service, no wifi, no internet. A Raspberry Pi base station",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
   },
   {
    "title": "Introduction to Arduino for Beginners | World's Most Popular Embedded Development Platform | Uplatz",
@@ -1883,36 +1938,6 @@
    "lang": "ar"
   },
   {
-   "title": "Serial Communications (SPI Protocol) - Part 1 | Embedded Systems | Serial Peripheral Interface (SPI)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5reDRleWdCdkJKbDZKS1hzekNUMGFneng3RlE3alpibE02YWNtNnhYbXdCUmNRZWJUY2JTQ09XTUhWYy1GWWQyQ0xIb05VNDJ1RVFTa1d3?oc=5",
-   "date": "2020-08-12T18:00:09+00:00",
-   "summary": "Serial Communications (SPI Protocol) - Part 1 | Embedded Systems | Serial Peripheral Interface (SPI) YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Timer1 - Part 1: Timer1 as Timer To Generate a Time Delay using Timer1 Interrupt | Embedded Systems",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jX0EyeDBnOVViX3RHTzJCYmVudmVQYVRNQzdYbkV1MzBhRUpyd3hJU2cwVzlYVDZxRnhLS0psRmxPS1dFenZNWWRQWG5uMDdldVlCc1hn?oc=5",
-   "date": "2020-07-22T09:11:26+00:00",
-   "summary": "Timer1 - Part 1: Timer1 as Timer To Generate a Time Delay using Timer1 Interrupt | Embedded Systems YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Timer0 - Part 1: Timer0 as Timer To Generate a Time Delay using Timer0 Interrupt | Embedded Systems",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KcnpHUjFlVndvcUtURHVxWGwtNXdhbDJyd0FPRVNDajNzYkRLZ2N4SUJ1Vm92QWdUaGZLTHFScFJSMmtZMXp5bFJfeE1FMGhwbFZjd0p3?oc=5",
-   "date": "2020-07-19T19:37:18+00:00",
-   "summary": "Timer0 - Part 1: Timer0 as Timer To Generate a Time Delay using Timer0 Interrupt | Embedded Systems YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Intro to Embedded Systems & Microcontrollers - Design & Programming | دورة الانظمة المدمجة للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QbTZyMWxlaVlWMWs0cmFwdVJKd25XUlljVWtFYmdVbFFkTTJIcnNMY3RtT240NHFRaE4xdUloVlM2bUVjWlJENFR4bmdaNm0tSDZ4cVJn?oc=5",
    "date": "2020-07-14T17:06:58+00:00",
@@ -2001,26 +2026,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Part 1: Communication between MCU (UART) & PC (USB) using FT232RL |Embedded Systems| Kyrillos Refaat",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wcEhwSHpOZUtkNW1scEo1WDc5ZjVDaVNTSUVWS1BCbUNoTFRhUnlaWTBBQVlFcm5FZFdZTkVnRUZYWjYzUHIzYlFIclVTaXZzbzdKX2ln?oc=5",
-   "date": "2019-09-22T02:24:35+00:00",
-   "summary": "Part 1: Communication between MCU (UART) & PC (USB) using FT232RL |Embedded Systems| Kyrillos Refaat YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Part 1: Serial Communication between MCU & PC via UART Protocol | Embedded Systems | Kyrillos Refaat",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BOFVoVUIxR0ZRT1ZCN0FDcS1wTnN0c0hSM0dhYXVsQ19lbnJOaFRJRThicE5ydzVpZjFkRm5GbTFnSjZHTGxFSnVPU2oxRzlnVTJYMndR?oc=5",
-   "date": "2019-09-16T10:42:46+00:00",
-   "summary": "Part 1: Serial Communication between MCU & PC via UART Protocol | Embedded Systems | Kyrillos Refaat YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "مشاريع كاملة باستخدام الاردوينو اختر مشروعك وابدأ في التنفيذ",

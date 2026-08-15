@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T00:15:05.225279+00:00",
+ "generated": "2026-08-15T00:32:05.335505+00:00",
  "tech": "sql",
  "count": 220,
  "items": [
@@ -344,58 +344,13 @@
    "lang": "en"
   },
   {
-   "title": "Backups That You Don't Restore Aren't Backups: A Weekly Restore Drill",
-   "url": "https://dev.to/anand_rathnas_d5b608cc3de/backups-that-you-dont-restore-arent-backups-a-weekly-restore-drill-4eld",
-   "date": "2026-08-14T03:26:42+00:00",
-   "summary": "We back up Postgres nightly to DigitalOcean Spaces. Every Sunday a separate workflow restores the latest dump into a sandbox. Here's the pipeline.",
-   "points": 0,
+   "title": "The Data Locality Tax: What a Wrong-Region Vector DB Costs Your RAG Pipeline",
+   "url": "https://www.digitalocean.com/community/tutorials/vector-database-latency-rag",
+   "date": "2026-08-14T00:00:00+00:00",
+   "summary": "Vector database for RAG latency is often geography, not HNSW. A live pgvector test: 1.9 ms same region vs 67 ms NYC to SFO. Measure the path before you tune the index.",
    "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your SQLite Upgrade Test Should Include the Crash Between Two Writes",
-   "url": "https://dev.to/demivalerith/your-sqlite-upgrade-test-should-include-the-crash-between-two-writes-1p3",
-   "date": "2026-08-14T02:53:50+00:00",
-   "summary": "The concrete problem   A desktop app, local-first client, or edge service can pass every...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why AI-Generated Migrations Need a Different Gate Than Code Patches",
-   "url": "https://dev.to/github_7727/why-ai-generated-migrations-need-a-different-gate-than-code-patches-1m7",
-   "date": "2026-08-14T00:55:37+00:00",
-   "summary": "Most patch reviews ask: does this change behave the way we intended? A migration review has to answer...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Durable Memory: Why Vector Databases Aren't Enough",
-   "url": "https://dev.to/kenwalger/durable-memory-why-vector-databases-arent-enough-3h8f",
-   "date": "2026-08-13T23:46:00+00:00",
-   "summary": "Part 3 of the Building the AI Memory Stack series  After finishing Part 2, I noticed something.  The...",
-   "points": 14,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What a Small-Business CRM Needs Beyond Contact Storage",
-   "url": "https://dev.to/mendolatech/what-a-small-business-crm-needs-beyond-contact-storage-2gh2",
-   "date": "2026-08-13T21:17:26+00:00",
-   "summary": "A contact table is easy to build. A usable CRM is an operations system.  The difficult part is not...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -406,6 +361,16 @@
    "tech": "sql",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
+   "lang": "en"
+  },
+  {
+   "title": "How we took malware advisories beyond npm",
+   "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+   "date": "2026-08-06T16:51:12+00:00",
+   "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on ",
+   "tech": "sql",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -447,6 +412,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "How to Build an MCP Server in Python",
+   "url": "https://www.digitalocean.com/community/tutorials/mcp-server-python",
+   "date": "2026-06-12T00:00:00+00:00",
+   "summary": "Build an MCP server in Python with FastMCP, connect SQLite data to Cursor and Claude Desktop, and test tools end to end.",
+   "tech": "sql",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Creating checkpoints by gaslighting a Postgres database",
+   "url": "https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/",
+   "date": "2026-06-09T07:40:00+00:00",
+   "summary": "Ryan welcomes Bryan Clark, director of product for Lakebase at Databricks, to discuss what happens when AI agents become the primary creators and users of databases; why agents are “sloppy” about cleaning up infrastructure; and how database",
+   "tech": "sql",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "SQL Database Explained in 6 Minutes (for beginners)",
@@ -2065,6 +2050,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWHE4d1RDdlhLZ1FXLVJNWFVac2hxZ0syWVFSZkREVDliV01RY1VoV2NrbTFlUkRCbDlZZmNhUGZUbGRkbmJ1TlpUTXBpa0ZCVGhsLW93?oc=5",
    "date": "2021-08-03T22:05:00+00:00",
    "summary": "02 - | MS SQL Server For Beginners | - | System Databases - Create Your First Database | YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OS0VfQmtoWGE3SV8tMFlkUHY3Y1dtRWJiSGFad3F1MkJxX3FpRE9CV3hSTDhOaDM4RF9jYkZFejYtcUgzVjB6Z1ppUmdDb3A5N3BJY2ZR?oc=5",
+   "date": "2021-08-02T12:07:38+00:00",
+   "summary": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

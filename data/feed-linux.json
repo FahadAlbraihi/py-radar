@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T00:16:29.313998+00:00",
+ "generated": "2026-08-15T00:35:53.241924+00:00",
  "tech": "linux",
  "count": 220,
  "items": [
@@ -433,6 +433,56 @@
    "lang": "en"
   },
   {
+   "title": "How to Create a Partition in Linux (fdisk & parted)",
+   "url": "https://www.digitalocean.com/community/tutorials/create-a-partition-in-linux",
+   "date": "2026-06-29T00:00:00+00:00",
+   "summary": "Learn how to create a partition in Linux using fdisk and parted. Step-by-step guide covering GPT vs MBR, formatting with ext4, mounting, and fstab.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "What Is .bashrc in Linux? Configuration Explained",
+   "url": "https://www.digitalocean.com/community/tutorials/bashrc-file-in-linux",
+   "date": "2026-06-29T00:00:00+00:00",
+   "summary": "Learn what the .bashrc file does in Linux, how to configure aliases, set environment variables, and reload changes with source. Customize your shell.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Install and Configure Ansible on Rocky Linux 9",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-rocky-linux-9",
+   "date": "2026-06-22T13:28:47+00:00",
+   "summary": "Learn to install and configure Ansible on Rocky Linux 9 with dnf, set up SSH key authentication, build an inventory, and test hosts with the ping module.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Set Up a Firewall with UFW on Ubuntu and Debian",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server",
+   "date": "2026-06-22T13:11:24+00:00",
+   "summary": "Learn to set up a UFW firewall on Ubuntu and Debian. Configure rules, allow ports and services, manage IPv6, and secure your cloud server step-by-step.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Configure PHP-FPM with NGINX",
+   "url": "https://www.digitalocean.com/community/tutorials/php-fpm-nginx",
+   "date": "2026-06-18T00:00:00+00:00",
+   "summary": "Configure PHP-FPM with NGINX on Ubuntu to install php-fpm, set up pools, wire fastcgi_pass, fix 502 errors, and tune worker processes.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "(4) نظام تشغيل لينكس للمبتدئين | Linux for beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRFRiRmJlRjBCTmZaXzNHYUVlanhJVVgxbGNleVdhTm8yTnpCdHg3WG9kZWVLbWFCS3ZWZWQ3LVVSME5WQ05ncWZBNm9reFhrSjlVM0Zn?oc=5",
    "date": "2026-06-17T17:00:00+00:00",
@@ -441,6 +491,86 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "How To Use Cron To Automate Recurring Tasks on Ubuntu",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804",
+   "date": "2026-06-16T00:00:00+00:00",
+   "summary": "Learn how to use cron to automate tasks on Ubuntu. This guide covers crontab syntax, scheduling, environment variables, logs, and job management.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Export Command: Guide with Examples",
+   "url": "https://www.digitalocean.com/community/tutorials/export-command-linux",
+   "date": "2026-06-10T00:00:00+00:00",
+   "summary": "Learn the Linux export command to set environment variables. Complete tutorial with practical examples for bash scripts and shell configuration.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "\"Certbot Standalone: Get Let's Encrypt SSL on Ubuntu\"",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-20-04",
+   "date": "2026-06-09T12:07:00+00:00",
+   "summary": "Learn how to use Certbot standalone mode to get a free Let's Encrypt SSL certificate on Ubuntu. Step-by-step setup, renewal, and troubleshooting.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How To Secure Apache with Let's Encrypt on Ubuntu",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu",
+   "date": "2026-06-05T00:00:00+00:00",
+   "summary": "Learn how to secure Apache with Let's Encrypt on Ubuntu to install Certbot, obtain a free SSL certificate, harden TLS, and set up auto-renewal.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Connect to a Managed Redis Instance over TLS with Stunnel and redis-cli",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-connect-to-managed-redis-over-tls-with-stunnel-and-redis-cli",
+   "date": "2026-06-03T06:30:00+00:00",
+   "summary": "Learn how to connect to a managed Redis instance over TLS using redis-cli or stunnel on Ubuntu. Secure your Redis connections today.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "AWK Command in Linux/Unix: Syntax, Examples, and Usage",
+   "url": "https://www.digitalocean.com/community/tutorials/awk-command-linux-unix",
+   "date": "2026-06-03T05:58:28+00:00",
+   "summary": "Learn the AWK command in Linux/Unix with real examples. Master pattern matching, field separation, and text processing. Read the full tutorial now.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Send Email in Linux from the Command Line",
+   "url": "https://www.digitalocean.com/community/tutorials/send-email-linux-command-line",
+   "date": "2026-06-02T00:00:00+00:00",
+   "summary": "Send email from the Linux command line with mail, mutt, and msmtp. Step-by-step examples for attachments, SMTP auth, and Bash scripts on Ubuntu and RHEL.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Use SSH to Connect to a Remote Server (Step-by-Step Guide)",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server",
+   "date": "2026-06-01T00:00:00+00:00",
+   "summary": "Learn how to use SSH on Ubuntu 24.04 and 26.04 LTS to connect to remote servers. Covers install, keys, firewall, sshd_config, troubleshooting, and best practices.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "Ubuntu 26.04 | خطوات هامة بعد تنصيب أوبونتو",
@@ -1483,6 +1613,16 @@
    "lang": "ar"
   },
   {
+   "title": "Linux Mint 22 | جديد التوزيعة الأفضل للمبتدئين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GTmkyNG5KZmV2ZVJubFRjTDJ4ZDFadjRaQnZPeVhYTWxLYlExRmtYNTA1QzhRT0FZbWcybnU5Z2xYWTRKTk1JaHRxSUhpWWVZNk1KQ0hR?oc=5",
+   "date": "2024-08-01T16:00:42+00:00",
+   "summary": "Linux Mint 22 | جديد التوزيعة الأفضل للمبتدئين YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح طريقة تشغيل ألعاب ويندوز على لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wRnlOMHRMS1JzXzEyaWM4Q25DdFhRMmFUS01TQ3pmN3d6RldmYnFyQWNwLUZKVFYydzNFem1kTlVCQ2hOTjRrM0d4elI0NGpmemZyOURn?oc=5",
    "date": "2024-07-22T16:00:14+00:00",
@@ -1873,6 +2013,16 @@
    "lang": "en"
   },
   {
+   "title": "المفيد في الجمع بين لينكس وويندوز على جهاز وحيد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QSUJIekJ4anl1WmljOENKMlJFTUFocmNtbEEtX084ekxyUzJYS1puT185dlBoSXpHZjJ6T24wVUgxVy1JU3R4SnNyQXNOWFJXaUlYY21n?oc=5",
+   "date": "2023-09-30T14:15:03+00:00",
+   "summary": "المفيد في الجمع بين لينكس وويندوز على جهاز وحيد YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Kali Linux Basics for Beginners || Tutorial (2023/2024)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVnhmQlRTQXlNXzFoWjFSU09QM3hfNC1ra1hJaVV4LXIyZUhNbzR5SENrYW96ZG9fUmZmUVJYTGNEUlRZMjhUU3FQM25QT0lzRFRRZjBR?oc=5",
    "date": "2023-09-24T19:07:11+00:00",
@@ -2033,16 +2183,6 @@
    "lang": "ar"
   },
   {
-   "title": "Introduction to Linux – Full Course for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vdnFiY1Z3NjRrVEpFbjJibjQ1NmN2eFdMNHFxenZGMEgyeTlYTEhabjdOMzlGc2YwcDlfelVfOWRVcVNic2RvQ2otX2hjaUdZV2JUdFln?oc=5",
-   "date": "2023-02-23T13:49:01+00:00",
-   "summary": "Introduction to Linux – Full Course for Beginners YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح اداه recon-ng - الفصل الثالث",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMXlENFQ2ZDh0WXhYSHJwcmxrWjBDR21idzFqS21OZkFFbVRDcndFeTNJd01EbkplQlAwSzJnTUtWbl9ZM0dzODM4T3M4bzJIbGZKWDJn?oc=5",
    "date": "2023-02-22T12:30:47+00:00",
@@ -2051,16 +2191,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Linux Full Course - 11 Hours [2024] | Linux Tutorial For Beginners | Linux Training | Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRURKdTNwV045a1RuUUpjNVpfem82cFFHbnV5YkRSeHhFLUx5bnVlTFd5aWdRaDlBVU9GOEtUaWhuRWY5Q1dlVWVTUGFUSE1LYTdjYXpn?oc=5",
-   "date": "2023-01-07T17:09:32+00:00",
-   "summary": "Linux Full Course - 11 Hours [2024] | Linux Tutorial For Beginners | Linux Training | Edureka YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "#شرح تثبيت Kali Linux 2022.4 على UTM للماك M1/M2 مع حل جميع المشاكل.",
@@ -2097,136 +2227,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mLU4wWFFYc0hJRnVvNzh4S1dVMElSdmpWSDFQaURQVVAyUWlOYnlqTU5DZEdOdHFIUmJhWXA0UnoxaVpQLWZ6Q2R6aUxYS2lmTTVXOGx3?oc=5",
    "date": "2022-11-15T15:30:02+00:00",
    "summary": "RHEL | توزيعة ريدهات مجانًا - تحميل تنصيب تفعيل YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Endeavour OS | مراجعة توزيعة أرش لينكس السهلة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQZUpleF9TTDFzN1lObmt4cWZxa1hDQnp0V3ZUbHVHclRvSHJSZjJQS3IxS2ZtMnh2ZE9WM3ZLbVZxdkJtLUlXaWx2elUzTDR6bXA5TC1R?oc=5",
-   "date": "2022-11-04T15:30:18+00:00",
-   "summary": "Endeavour OS | مراجعة توزيعة أرش لينكس السهلة YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Introduction to Linux Operating System | Linux Tutorial For Beginners Part-1 | Intellipaat",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zOXJxS19ZRVhTS1h1a1BxZ3pjSVF6aTdXWGVoR2l1b2Q1YWJQNEhLTGJzS3FNajFRcFBBVFJJR1hZdkZMS29TQVJDSm5EcS0tX2hYb1d3?oc=5",
-   "date": "2022-10-20T09:32:19+00:00",
-   "summary": "Introduction to Linux Operating System | Linux Tutorial For Beginners Part-1 | Intellipaat YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Virt Manager | تنصيب ويندوز 11 داخل لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QYnZ5OE5QamVlc1BpMzBhOWVaaEc0R09pR05BT1U0NFJ6REowaHFreFlvYlhKYkVENE1xdlVnQTJvR2tUZkxXY0JpSkxjdXdpeVRRRzRB?oc=5",
-   "date": "2022-10-10T16:00:19+00:00",
-   "summary": "Virt Manager | تنصيب ويندوز 11 داخل لينكس YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Ubuntu | تحديث أبونتو وكل التطبيقات بكلمة واحدة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DbEVFUERrdjRnaTh1U0kwZ0VsY2QwcTdEWDR3M2NBbExLYzNxNXpERW1oa0d4bDVfMkNWOUdrVHdrWnlkclhXdWc3MDE1bDg4MUtSOGtB?oc=5",
-   "date": "2022-10-07T16:00:26+00:00",
-   "summary": "Ubuntu | تحديث أبونتو وكل التطبيقات بكلمة واحدة YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Linux Training Academy",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOLTlQdzVQVjF1aUt5RjdIVVVxMUIxX3lCWmV5YTRRWkFaS2QyU0Y1Sk91cjB6UFQ2b0h1ZWZMSktkWU4xZ0pHXy1Ca1JXb05kdFNadnU3NA?oc=5",
-   "date": "2022-10-07T03:04:04+00:00",
-   "summary": "Linux Training Academy YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "تثبيت لوحة التحكم علي السيرفر | aaPanel | انشاء سيرفر لينكس مجاني",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qQW9jazJ2VlpXRnN5NF9oWjlSNWN2YnM0T0NqT0lXcGRmc0FTVGluWV9lc0pxdFhEZ0dPY2pubWZDb3VLUjNZbGpyVHZHV0VQcFBpLWNn?oc=5",
-   "date": "2022-09-16T08:00:12+00:00",
-   "summary": "تثبيت لوحة التحكم علي السيرفر | aaPanel | انشاء سيرفر لينكس مجاني YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "MX Linux | التوزيعة رقم واحد",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UGdYREV3MkVLYWJrNlVwa2RPZWFrQmh6elB6eGJsNWUtSkJDUlY2Ym54WkpYbDFfOFZwRW5ad3FuME1fVXhjVlRxSWM2b0tBRXAwd0RR?oc=5",
-   "date": "2022-09-14T16:30:01+00:00",
-   "summary": "MX Linux | التوزيعة رقم واحد YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تثبيت IP السيرفر | أوبونتو سيرفر | انشاء سيرفر لينكس مجاني",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zdHJmSTFzQnNxaW9BSmVMV0xpR09rNUhZWnl1bnlEZEN0X1ZBWmFWajFrU0NyS2JVMGxuWU5nNHpIdWp0am55VnQyUFRXYmI5YmZyMXV3?oc=5",
-   "date": "2022-09-10T11:47:14+00:00",
-   "summary": "تثبيت IP السيرفر | أوبونتو سيرفر | انشاء سيرفر لينكس مجاني YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Waydroid | تطبيقات أندرويد على لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53Zkg4aVdubGVubHF0SjIwa1NSMmE1NlF2ZUNOVVZUTHNLTTR3amJBLVBDLUhMMUxsZFJMdkRYdl9ZR2Rsa0U2MGR5WVJnY0dGLUtHUFp3?oc=5",
-   "date": "2022-09-09T16:53:53+00:00",
-   "summary": "Waydroid | تطبيقات أندرويد على لينكس YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "انشاء سيرفر محلي لينكس مجاني - #shorts",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EaWJlTU5qbHgtNlIxZVEwY2ItSi1MbkpaaTc2STlsVDFvMHBXd19YSHlGdC1JWVJRdFZIb0M2Q2tyNEU2WUlGTXNrYnpsQVpQV1hGWA?oc=5",
-   "date": "2022-09-05T21:07:57+00:00",
-   "summary": "انشاء سيرفر محلي لينكس مجاني - #shorts YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "انشاء سيرفر محلي لينكس مجاني | أوبونتو سيرفر | Ubuntu Server",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqaVd5OUNLWnhOOTlsMGNiZTQwNktFZEZGYUNRUmdJOC03VDFLQjhLNW1Jdi13cjhHLTh6bjE3TDBWNlJfNmV6d0dVQmp1NkF5UmZ5dTBR?oc=5",
-   "date": "2022-09-05T19:23:30+00:00",
-   "summary": "انشاء سيرفر محلي لينكس مجاني | أوبونتو سيرفر | Ubuntu Server YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Xfce | لينكس يتفوق على ويندوز في التخصيص",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TY3lVcHZRZ2h5Q3dBUmxGUy1UdlBOQk0zR0F1Vll5ZmdSN0IzN2ZvTjlkdzZDX3JQVlZsSDgyU00tSjFBVVJuX25Ga3FsMkJ4dlhkSVN3?oc=5",
-   "date": "2022-09-02T17:37:12+00:00",
-   "summary": "Xfce | لينكس يتفوق على ويندوز في التخصيص YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تنزيل وتثبيت دوت نت و فيجوال ستديو علي لينكس اوبونتو | .NET and Visual Studio Code on Ubuntu",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoU080MGN3enpiUVk5VmVES2FRdWdwVTl2OUNMeDNzMmRKNnkzcUZUa0RyVTJ5cDBnTVIyTWw0Wmhza2tzM0NTRXQ3cEwxWXB5SVNBek5B?oc=5",
-   "date": "2022-08-30T16:02:32+00:00",
-   "summary": "تنزيل وتثبيت دوت نت و فيجوال ستديو علي لينكس اوبونتو | .NET and Visual Studio Code on Ubuntu YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",

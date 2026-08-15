@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T00:16:46.077172+00:00",
+ "generated": "2026-08-15T00:36:37.250028+00:00",
  "tech": "web",
  "count": 220,
  "items": [
@@ -354,58 +354,13 @@
    "lang": "en"
   },
   {
-   "title": "Before & After Image Slider – Liquid Glass ✨",
-   "url": "https://dev.to/darshit_tank/before-after-image-slider-liquid-glass-5d30",
-   "date": "2026-08-14T13:35:15+00:00",
-   "summary": "Before and after image slider with a clean Liquid Glass design, comparing a grayscale mountain...",
-   "points": 0,
+   "title": "Exploring Compose HTML for Server Side Rendering",
+   "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
+   "date": "2026-08-14T12:15:09+00:00",
+   "summary": "Something is happening in server-rendered web development. React shipped Server Components. HTMX made hypermedia cool again. Phoenix LiveView proved a server can push interactive UI updates without a client framework in sight. Every ecosyst",
    "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "SLURP. — A Bowl Worth Stopping For",
-   "url": "https://dev.to/nandan_das_369/slurp-a-bowl-worth-stopping-for-3c99",
-   "date": "2026-08-14T13:21:20+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.   A bowl is not a meal....",
-   "points": 6,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Five bugs AI wrote for me that never threw an error",
-   "url": "https://dev.to/igor_potapenko/five-bugs-ai-wrote-for-me-that-never-threw-an-error-2mih",
-   "date": "2026-08-14T13:18:44+00:00",
-   "summary": "None of them crashed. None of them showed up in the logs. Three of them were invisible in code review, and one of them cost my first real user two thirds of their free quota. Here is what they were and what actually caug",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Creating modern forms with form.fscss — pure CSS",
-   "url": "https://dev.to/fscss/creating-modern-forms-with-formfscss-pure-css-4801",
-   "date": "2026-08-14T12:42:40+00:00",
-   "summary": "Floating labels. Inline validation. Custom checkboxes, radios, and a toggle switch. A gradient button...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HTML CODES FOR STUDENTS OF CLASS 1OTH",
-   "url": "https://dev.to/yuvraj-yadav-2903/html-codes-for-students-of-class-1oth-107h",
-   "date": "2026-08-14T12:08:57+00:00",
-   "summary": "Class 10 HTML Study Material &amp; Code Examples 💻   Hey everyone!   I built a open-source...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -459,6 +414,36 @@
    "lang": "en"
   },
   {
+   "title": "How To Use CSS Hex Code Colors with Alpha Values",
+   "url": "https://www.digitalocean.com/community/tutorials/css-hex-code-colors-alpha-values",
+   "date": "2026-06-09T15:49:48.305000+00:00",
+   "summary": "Learn how to use CSS hex code colors with alpha values using 4-digit and 8-digit hex formats. Includes code examples, browser support and tables.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Customize Scrollbars with CSS: A Full Guide",
+   "url": "https://www.digitalocean.com/community/tutorials/css-scrollbars",
+   "date": "2026-06-08T15:19:57.036000+00:00",
+   "summary": "Customize CSS scrollbars using -webkit-scrollbar and the CSS Scrollbars standard, with cross-browser examples and a compatibility table. Start styling.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+   "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+   "date": "2026-05-21T08:00:00+00:00",
+   "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "HTML & CSS Beginner Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wOHFGZlF2c3Y1Z1prTjkwekUydHQwRHY5ZnNLc0FEbXZucXRoX3BTNTNrQzRLbk5iMnVTQ1RNdUZtbVN5dno0NVV4dW5ac0ItSEVVVGl3?oc=5",
    "date": "2026-05-15T16:30:06+00:00",
@@ -477,6 +462,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Under the hood of MDN's new frontend",
+   "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/",
+   "date": "2026-04-08T00:00:00+00:00",
+   "summary": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial",
@@ -546,6 +541,16 @@
    "tech": "web",
    "sourceId": "yt",
    "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "A beginner-friendly guide to view transitions in CSS",
+   "url": "https://developer.mozilla.org/en-US/blog/view-transitions-beginner-guide/",
+   "date": "2025-10-09T00:00:00+00:00",
+   "summary": "Learn how to bring smooth, animated navigation to multi-page apps with view transitions. With just one line of CSS, you can enable seamless transitions between pages.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -719,6 +724,16 @@
    "lang": "en"
   },
   {
+   "title": "Exclusive accordions using the HTML details element",
+   "url": "https://developer.mozilla.org/en-US/blog/html-details-exclusive-accordions/",
+   "date": "2024-08-05T00:00:00+00:00",
+   "summary": "The 'name' attribute of the HTML details element is gaining more support across browsers. Learn how this feature allows creating exclusive accordions without scripting widgets from scratch.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "ماهو الـ div في HTML ومتى نستخدمه وهل يؤثر على محركات البحث | درس مهم جداً",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mUGlTTmpuV05FcDJZNW1GaFAwWklYNzljUG5SM2I4ZHdMdUFFYlo0VTdndTF0R3hlVGMtNE5oeW10RHZjUl9nUVdNSFdVRjN4aF96a3dR?oc=5",
    "date": "2024-07-13T15:00:18+00:00",
@@ -849,6 +864,16 @@
    "lang": "ar"
   },
   {
+   "title": "Creating color palettes with the CSS color-mix() function",
+   "url": "https://developer.mozilla.org/en-US/blog/color-palettes-css-color-mix/",
+   "date": "2024-03-08T00:00:00+00:00",
+   "summary": "Working with colors on the web just got more interesting! In this article, we’ll explore how to use the CSS color-mix() function to create variations in color palettes.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "HTML and CSS For Absolute Beginners | 2024 Crash Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZU5PUWJ2NXhkbWZ0NmJnV3I4UEtnd01ka3hnZHNUazlyam1xSklITXJVbDduY3NhaWNRZ3BHbk9qcE9aRzhRYmVDeTlIcm0zUldHWmd3?oc=5",
    "date": "2024-01-16T14:15:01+00:00",
@@ -866,6 +891,16 @@
    "tech": "web",
    "sourceId": "yt",
    "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Border images in CSS: A key focus area for Interop 2023",
+   "url": "https://developer.mozilla.org/en-US/blog/border-images-interop-2023/",
+   "date": "2023-12-19T00:00:00+00:00",
+   "summary": "Aligning with Interop 2023's emphasis on cross-browser consistency, this post walks you through various `border-image` properties that you can control to create captivating web designs. Learn how to use custom graphics for enhancing the loo",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -897,6 +932,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Getting started with CSS container queries",
+   "url": "https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/",
+   "date": "2023-11-16T00:00:00+00:00",
+   "summary": "CSS container queries are a powerful new tool for our CSS layout toolbox. In this post we'll dive into the practicalities of building a layout with container queries.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "#1 كورس html كامل بالعربي | download vscode",
@@ -949,6 +994,16 @@
    "lang": "en"
   },
   {
+   "title": "Creating custom easing effects in CSS animations using the linear() function",
+   "url": "https://developer.mozilla.org/en-US/blog/custom-easing-in-css-with-linear/",
+   "date": "2023-08-01T00:00:00+00:00",
+   "summary": "The new CSS linear() timing function enables custom easing in animations. Explore how linear() works compared with other timing functions used for easing, with practical examples.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "حول تصميم موقعك من Figma الي كود HTML & CSS في ثواني | Figma to Code",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sWmNDaHpYbTl5Vm9NQnNmZG9XYW15VjRDN1RJLVVHTzNjc0gtOGc2UjREdnFRb1Y2MjIxd1JKZFZWdWhmNWkyUk5HdzE3RFB1aGJKMHZR?oc=5",
    "date": "2023-07-28T12:27:05+00:00",
@@ -979,6 +1034,16 @@
    "lang": "en"
   },
   {
+   "title": "Scroll progress animations in CSS",
+   "url": "https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/",
+   "date": "2023-07-14T00:00:00+00:00",
+   "summary": "Scroll-driven animations are coming to CSS! In this post, we'll look at a few types of animations and learn how to link them to the scroll progress of a container.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "responsive dashboard using html and css only | تصميم لوحة تحكم متجاوبة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LZEU4azRXT2poc0NuZl9yNUFncTdrTEE2UnUzWkUtdlVrVGwwRE96dm96ZkZuN1lkVHdIa3NPT0xSbFdMcHNGZFlSU3h6TmdydFFYRDFn?oc=5",
    "date": "2023-07-03T18:37:46+00:00",
@@ -997,6 +1062,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Learn how to use hue in CSS colors with HSL",
+   "url": "https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/",
+   "date": "2023-06-26T00:00:00+00:00",
+   "summary": "Hues are a bright way to define colors in CSS. Learn about hues, color wheels, how to use color functions, and how you can create vibrant color palettes for your website using hue.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "MDN doc updates: CSS selectors & media queries, WebGPU & WebTransport APIs, Progressive web apps",
+   "url": "https://developer.mozilla.org/en-US/blog/mdn-docs-june-2023/",
+   "date": "2023-06-13T00:00:00+00:00",
+   "summary": "Discover CSS :lang(), experimental media queries, manipulating graphics with WebGPU, client-server communication with WebTransport, ECMAScript module support, and more.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "HTML & CSS Full Course for free 🌎",
@@ -1019,6 +1104,16 @@
    "lang": "ar"
   },
   {
+   "title": "How to draw any regular shape with just one JavaScript function",
+   "url": "https://developer.mozilla.org/en-US/blog/javascript-shape-drawing-function/",
+   "date": "2023-05-26T00:00:00+00:00",
+   "summary": "Learn how to use JavaScript to draw any regular shape to a HTML canvas with a single function, and how to modify it to draw multiple shapes.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "HTML CSS Full Course 2026 | Learn HTML & CSS in 10 Hours | HTML CSS Tutorial | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NYlFFZHNidTVOODR0bTlraXVoVEhiMDJuNjNJYWNpRmF5djNvbHlHRkxGdXU2T0J5dk13aGhPMUcyUUxWc0FVY0NOeG9BY1lBZm0wSlhn?oc=5",
    "date": "2023-05-22T14:30:14+00:00",
@@ -1026,6 +1121,26 @@
    "tech": "web",
    "sourceId": "yt",
    "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Using HTML landmark roles to improve accessibility",
+   "url": "https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/",
+   "date": "2023-05-15T00:00:00+00:00",
+   "summary": "Learn what HTML landmark roles are, how they improve accessibility, and how you can include them on your website effectively.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How :not() chains multiple selectors",
+   "url": "https://developer.mozilla.org/en-US/blog/css-not-pseudo-multiple-selectors/",
+   "date": "2023-05-05T00:00:00+00:00",
+   "summary": "Learn how the CSS `:not()` pseudo-class behaves when multiple selectors are passed as argument.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -1037,6 +1152,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "New functions, gradients, and hues in CSS colors (Level 4)",
+   "url": "https://developer.mozilla.org/en-US/blog/css-color-module-level-4/",
+   "date": "2023-05-03T00:00:00+00:00",
+   "summary": "Learn what's new in CSS Colors Module Level 4, including color spaces, color functions, fancy gradients, and support for wide-gamut displays.",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners",
@@ -2107,136 +2232,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "بناء موقع مع HTML & CSS | كيف تصمم الشريط العلوي (Navbar)؟ 2#",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pYnd2clhvN2l1eHFJa0FqTUt4TEZKRUZib1FhLWxBQ2I4V3RuOWZhVVBZMDZMT0xKQXEwUDhXbll4QTI1a1R2ZmZRSEV2cFZhOGo1TUNR?oc=5",
-   "date": "2020-07-01T19:32:58+00:00",
-   "summary": "بناء موقع مع HTML & CSS | كيف تصمم الشريط العلوي (Navbar)؟ 2# YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تصميم موقع متجر بال Html و الcss",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaVMyaHlQdjVic3lLOFBkMHFUYVhZMTBIWE9DUmZvZWZhQ1VaMV9lSVB2cUhoQzVUYmJvUEUxNHk3VGRuZnBHc1VKWTAybUF2blRkajhB?oc=5",
-   "date": "2020-06-13T21:17:47+00:00",
-   "summary": "تصميم موقع متجر بال Html و الcss YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة HTML | تطبيق عملي (تصميم واجهة موقع) 3#",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qN2NVVDBhenlkZnhpMWZ1dzJDcktzUEk4RHhfQUYtajFsc0ViWUtvTmJKX2FzdkQwZW9ya19wcWxneWlGV1R2TlU0UUVZQVZwajhpMTdR?oc=5",
-   "date": "2020-06-07T10:58:42+00:00",
-   "summary": "دورة HTML | تطبيق عملي (تصميم واجهة موقع) 3# YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "5- تابع كيفية تقسيم صفحة الويب الى راس ويمين وشمال بلغة html و css.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HcExDbnNTeHNDUzhTaEptRVhPNUpuM2FNc3hjdUI2WHA4WUM3MVlqb0lSalpsbWY4b19xUlp0blpRcENHbEJrdmhfM2thcXdiQUdSVDNB?oc=5",
-   "date": "2020-06-02T15:13:38+00:00",
-   "summary": "5- تابع كيفية تقسيم صفحة الويب الى راس ويمين وشمال بلغة html و css. YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "12. القوائم Lists في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mOWZ5ZF95SlEyc18zdWtJUldZaWNkMWNkMEcwQ29kaFB3N3NndlNrdjRReU5COXJicDBvZjM5c2JuLWI5c3NHMUR4YUR6T0QtN0c4REp3?oc=5",
-   "date": "2020-05-05T18:07:07+00:00",
-   "summary": "12. القوائم Lists في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "11. الجداول Tables في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BQ0xEcmpoTUxmSU1NdUJYTHpKaF9JZHA3cWllTUJ1cjZvbk50S2FuczlvUGJfcGpxMU41VW1FZGl0VlFQUTk5UXRfQVR1NnZYcWgyNkRB?oc=5",
-   "date": "2020-05-04T00:00:18+00:00",
-   "summary": "11. الجداول Tables في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "CSS tutorial for beginners 🎨",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnZnpJT3N1MGVSbjhFbjhZZWNmU2w0M1B5Rm1jYVNsbi1VSXphdVZ1OEhqa0h6MV9iM2UxQW1MTVotZGM4MVEzMVBnODZTMkhITGhZWG53?oc=5",
-   "date": "2020-05-02T03:04:24+00:00",
-   "summary": "CSS tutorial for beginners 🎨 YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "10 شرح طريقة إستيراد قوالب مواقع جاهزة How to import free HTML template in to django",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40T21YQmdTWjdoVjVsOHh2Q1lVejE5QWNaVzk3ZE1lZmRnbjU1eHVlQV9MSThrVERyR2k4Nll1cUJLQW5SODdoaHFfRExCdGtoc3k3LWJB?oc=5",
-   "date": "2020-05-01T18:00:05+00:00",
-   "summary": "10 شرح طريقة إستيراد قوالب مواقع جاهزة How to import free HTML template in to django YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Complete HTML & CSS Course in One Tutorial | HTML and CSS Full Tutorial For Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UT3JjdTI0akZCS2JrTUw5LTVVYTY0RkxZeHFIREh6Wll4UWZjVWUtWmpaSU1pXzFaNjNsRHZsbFlvdWxuLW1BQ1l5c1V2MjVpYUxrT2tR?oc=5",
-   "date": "2020-05-01T14:30:02+00:00",
-   "summary": "Complete HTML & CSS Course in One Tutorial | HTML and CSS Full Tutorial For Beginners YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "10. الصور Images في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10dWpsdk0tSkd0TU1PSGdYOHR4SHB1WTRabTNKWWFTWm45UWdycFNVVzdBVkMyVG1DYUU3Y2JlN3Frb1ZlQ19uM2M1YmcwYVZQeWRNaE93?oc=5",
-   "date": "2020-04-29T19:10:46+00:00",
-   "summary": "10. الصور Images في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "07.الروابط Links في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lX29SMGV3aGlqY0xPRGxuclBFUkRtWTBFUVY5eDZpX2ZtQzIxSE1IS3BEakNpbmo2eEU5UlU2M1k5T3lDRHFvV2N2R3NFcUdSYjg5WEln?oc=5",
-   "date": "2020-04-19T22:27:02+00:00",
-   "summary": "07.الروابط Links في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "06.الفقرات Paragraphs في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XbGJNYm1lMldhU2l0ZXl6clcyMEVxQktSTDNQa2lSVGc3S0NpQXdUX0tja09YMzZxblhxV250ZDBHRW5zeDh4bXVHcElMRmEzcDlqQjlR?oc=5",
-   "date": "2020-04-16T21:58:47+00:00",
-   "summary": "06.الفقرات Paragraphs في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "HTML & CSS Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pZV90WXVOanlrTWhsN095VlJIRE5EODhhV0RZRHlGNmd1R2oxT3huNWxhR1BZUjE5ampuMm1ic3VfVDBRelpIc1h1MUlsOXFTXzU0RnZR?oc=5",
-   "date": "2020-04-15T23:40:29+00:00",
-   "summary": "HTML & CSS Tutorial YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T00:15:11.544164+00:00",
+ "generated": "2026-08-15T00:32:20.700052+00:00",
  "tech": "cpp",
- "count": 102,
+ "count": 97,
  "items": [
   {
    "title": "A Free Model Endpoint Replied Twice, Then Went Silent. The Fix Was a C++ Replay Envelope, Not Retries",
@@ -327,61 +327,6 @@
    "url": "https://dev.to/mwiginton/sound-is-just-numbers-generating-a-tone-from-scratch-in-c-30no",
    "date": "2026-08-10T13:35:38+00:00",
    "summary": "Before you can build a synthesizer, an audio effect, or anything that makes noise in code, one idea...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "include-tidy: A Tool to Enforce Include-What-You-Use, Part 2",
-   "url": "https://dev.to/pauljlucas/include-tidy-a-tool-to-enforce-include-what-you-use-part-2-28nn",
-   "date": "2026-08-10T12:11:09+00:00",
-   "summary": "Describes include-tidy, a tool to enforce the include-what-you-use principle in C and C++, and how much harder doing this for C++ is.",
-   "points": 2,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Sanitizer Verdicts Over Demo Gifs: A Spec-Driven C++ Test Rig for Freshly Released Coding Models",
-   "url": "https://dev.to/devcpp_268/sanitizer-verdicts-over-demo-gifs-a-spec-driven-c-test-rig-for-freshly-released-coding-models-27al",
-   "date": "2026-08-10T10:30:41+00:00",
-   "summary": "A new coding model lands, a clipped demo circulates, and within hours the comment sections have...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "C to Rust Port",
-   "url": "https://dev.to/pravin_baviskar_d6d9a355e/c-to-rust-port-13b0",
-   "date": "2026-08-10T08:32:48+00:00",
-   "summary": "Porting QOI from C to Rust: proving the port actually holds up   For Port Mortem I picked a...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Your C++ Crash Skips Your Laptop: A Clean-Room Debugging Loop on a Disposable Box",
-   "url": "https://dev.to/datacpp_3670/why-your-c-crash-skips-your-laptop-a-clean-room-debugging-loop-on-a-disposable-box-35p2",
-   "date": "2026-08-10T08:20:13+00:00",
-   "summary": "Our CI pipeline failed last Tuesday with a segfault that nobody on the team could reproduce locally....",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Race You Can't Reproduce Is Still a Race: Testing Model-Generated C++ Concurrency Fixes",
-   "url": "https://dev.to/devcpp_268/a-race-you-cant-reproduce-is-still-a-race-testing-model-generated-c-concurrency-fixes-20k6",
-   "date": "2026-08-10T08:05:27+00:00",
-   "summary": "In my last two posts I built a small grading loop for coding models on C++ tasks: compile the model's...",
    "points": 0,
    "tech": "cpp",
    "sourceId": "devto",

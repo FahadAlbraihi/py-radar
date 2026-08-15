@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T00:18:58.709743+00:00",
+ "generated": "2026-08-15T00:43:47.029276+00:00",
  "tech": "verilog",
- "count": 100,
+ "count": 101,
  "items": [
   {
    "title": "Why Is It Called Booting? The Bootstrap Origin",
@@ -178,6 +178,17 @@
    "sourceId": "devto",
    "source": "DEV.to",
    "lang": "en"
+  },
+  {
+   "title": "Build DDR4 Memory Tester with SKHynix H5AN8G6NCJR-VKC + FPGA",
+   "url": "https://www.hackster.io/robertfletcher1582/build-ddr4-memory-tester-with-skhynix-h5an8g6ncjr-vkc-fpga-e812a9",
+   "date": "2026-08-10T07:11:54+00:00",
+   "summary": "A low-cost FPGA-based DDR4 memory validation platform designed to test, initialize, and analyze SK hynix H5AN8G6NCJR-VKC DDR4 SDRAM chips. T",
+   "tech": "verilog",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
   },
   {
    "title": "VHDL vs Verilog: Which One is Better for FPGA Projects in 2026?",
@@ -874,6 +885,16 @@
    "lang": "en"
   },
   {
+   "title": "FPGA project 06 Part2 - Pushbutton counter with debounce",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qRE55SGcweldQcXJ2S1R3bG5jMmhnWXJKd005TlYycklUNUJIdDg1dkZyWHQ2M3pGTW9YYWF1WnhxLUZ2NTY3TzBpYTJIcjI5dk1QSHd3?oc=5",
+   "date": "2022-09-24T12:01:00+00:00",
+   "summary": "FPGA project 06 Part2 - Pushbutton counter with debounce YouTube",
+   "tech": "verilog",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Easy Tutorial on FPGA Coding by Using Vivado, Verilog, and Xilinx Boards",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fdXctY0FlajVIRjZkeUItdksxMHRnVUlHRU4xWXZHdlhBeFBqa1NUaEh1LUFQa21EN2M4Vml1Q0Zhb1hBdG1VUHRiaXg3R0Fmd3dRaHdB?oc=5",
    "date": "2022-09-04T01:48:57+00:00",
@@ -988,16 +1009,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YVGVCUkg2UGZ6b0tsY3NYZTZjY3ZORFRCVk8yLWludFZ5UldLSk1WT3BIektkbEwzb1VVTXJoOGJ2Zkd0VFgwYlFkbVBpR1RteDY5Rm9n?oc=5",
    "date": "2022-01-14T18:00:10+00:00",
    "summary": "Programming Your First FPGA - Verilog Development Tutorial p.2 YouTube",
-   "tech": "verilog",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How to install Modelsim FREE version (Intel FPGA edition) and Intel Quartus Prime",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9adTBiRVdiaHIzRC12OE00T1l3anh4UzFrLTk4cHRUREZ4dzBaZFczZC1Vd2pIQWg2YTh6QTgyUmllLXA2cE9aaGMxU1M1M2tKejJvS0tn?oc=5",
-   "date": "2021-11-17T12:06:21+00:00",
-   "summary": "How to install Modelsim FREE version (Intel FPGA edition) and Intel Quartus Prime YouTube",
    "tech": "verilog",
    "sourceId": "yt",
    "source": "YouTube",

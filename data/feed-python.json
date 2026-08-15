@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T00:14:52.282990+00:00",
+ "generated": "2026-08-15T00:31:34.529575+00:00",
  "tech": "python",
  "count": 220,
  "items": [
@@ -484,61 +484,6 @@
    "lang": "en"
   },
   {
-   "title": "I Built My First Machine Learning API — Here's Everything I Learned",
-   "url": "https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7",
-   "date": "2026-08-13T22:49:39+00:00",
-   "summary": "EricMWaimiri        /          Telco-Customer-Churn-Prediction        ...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React Frontend Error Tracking Explained: A FastAPI Backend Collector for Safer Stack Data",
-   "url": "https://dev.to/jamesanderson121/react-frontend-error-tracking-explained-a-fastapi-backend-collector-for-safer-stack-data-1252",
-   "date": "2026-08-13T21:11:53+00:00",
-   "summary": "Short answer: send window.onerror and onunhandledrejection events through a FastAPI collector, scrub...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Civic Tech and Open Source Data Platforms: Building CommunityOne",
-   "url": "https://dev.to/3ni8ma/civic-tech-and-open-source-data-platforms-building-communityone-2m77",
-   "date": "2026-08-13T18:02:45+00:00",
-   "summary": "Overview   CommunityOne (DoxDock) is an open-source data platform that aggregates and...",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AuraFinance: Building a Zero-Cost Full-Stack Financial Intelligence Platform",
-   "url": "https://dev.to/3ni8ma/aurafinance-building-a-zero-cost-full-stack-financial-intelligence-platform-126j",
-   "date": "2026-08-13T17:57:31+00:00",
-   "summary": "Overview   AuraFinance is a full-stack financial intelligence platform that combines live...",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Multi-tenancy is a promise you keep in the database",
-   "url": "https://dev.to/dev-into-space/multi-tenancy-is-a-promise-you-keep-in-the-database-274b",
-   "date": "2026-08-13T15:22:24+00:00",
-   "summary": "'Don't leak tenant A to tenant B' isn't a feature - it's a guarantee. Scope tenancy server-side so one forgotten filter can't breach it.",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Python for Mechanical Engineering",
    "url": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
    "date": "2026-08-13T13:50:26+00:00",
@@ -656,6 +601,16 @@
    "tech": "python",
    "sourceId": "blogs",
    "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "We Stopped AI Agents From Installing Into the Wrong Python: Task Success Rates Jumped to 95%+",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/we-stopped-ai-agents-from-installing-into-the-wrong-python-task-success-rates-jumped-to-95/",
+   "date": "2026-08-12T12:01:07+00:00",
+   "summary": "AI agents are supposed to save you time. Ask one to install a dependency or run your project, though, and it often does the opposite: It installs into the wrong Python, ignores the uv or virtual environment your project uses, and hands back",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -861,26 +816,6 @@
    "lang": "ar"
   },
   {
-   "title": "Ned Batchelder: Caller-specific coverage",
-   "url": "https://nedbatchelder.com/blog/202608/callerspecific_coverage",
-   "date": "2026-08-09T17:56:25+00:00",
-   "summary": "I ve had an idea rattling around to get more detail from coverage measurement. Can we measure the coverage in a function separately for each caller of the function? Here s why I want it: in Acidica , my toy BASIC interpreter, I had code to ",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "LernerPython blog, from Reuven Lerner: Free real-world Pandas exercises, with solutions",
-   "url": "https://lernerpython.com/2026/08/09/free-real-world-pandas-exercises/",
-   "date": "2026-08-09T14:12:10+00:00",
-   "summary": "If you want to get better at Pandas, the hard part isn t finding tutorials. It s finding problems worth solving. Most exercises hand you a tidy little table of five rows and ask you to sum a column — which teaches you the syntax, but nothin",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
    "title": "القوائم في لغة بايثون | Python Lists للمبتدئين | الدرس العاشر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wMkRBUU5xNkNPaVoxU09GdmdWWG9wWTBjV3J4UlV5NXdtSVRvclIyeGJsZjdhT1Z5QTFCY1gyT1dnZGdMWGxOeXhwaTVrOHEzVUVpalFB?oc=5",
    "date": "2026-08-07T15:00:01+00:00",
@@ -889,86 +824,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "The Real Python Podcast – Episode #306: Programmatically Developing LLM Prompts With DSPy",
-   "url": "https://realpython.com/podcasts/rpp/306/",
-   "date": "2026-08-07T12:00:00+00:00",
-   "summary": "How can you move from manually writing prompts for an LLM application toward defining them programmatically? This week on the show, Brett Kennedy returns to discuss his new book \"Building LLM Applications with DSPy.\"",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Quiz: How to Use Type Hints for Multiple Return Types in Python",
-   "url": "https://realpython.com/quizzes/python-type-hints-multiple-types/",
-   "date": "2026-08-07T12:00:00+00:00",
-   "summary": "Test your understanding of type hints for multiple return types in Python. Practice unions, tuples, callables, generators, and type aliases.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Django Weblog: Call for applicants for a Django Executive Director",
-   "url": "https://www.djangoproject.com/weblog/2026/aug/06/call-for-applicants-for-a-django-executive-directo/",
-   "date": "2026-08-06T14:45:00+00:00",
-   "summary": "The Django Software Foundation is announcing a call for an Executive Director. The Executive Director is the operational leader of the Django Software Foundation, a paid position reporting to the Board of Directors, responsible for setting ",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Quiz: Python's Assignment Operator: Write Robust Assignments",
-   "url": "https://realpython.com/quizzes/python-assignment-operator/",
-   "date": "2026-08-06T12:00:00+00:00",
-   "summary": "Practice using Python's assignment operator to create, initialize, and update variables, plus augmented assignments and the walrus operator.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Validating Data With Pointblank in Python",
-   "url": "https://realpython.com/python-pointblank/",
-   "date": "2026-08-05T14:00:00+00:00",
-   "summary": "Learn how to validate data in Python with Pointblank: declare quality checks, split clean from failing rows, and rerun validation plans from YAML.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Quiz: Validating Data With Pointblank in Python",
-   "url": "https://realpython.com/quizzes/python-pointblank/",
-   "date": "2026-08-05T12:00:00+00:00",
-   "summary": "Validate data in Python with Pointblank. Declare quality checks, split clean rows from failing ones, and rerun validation plans from YAML.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Python 3.14.7 and 3.13.15 are now available!",
-   "url": "https://blog.python.org/2026/08/python-3147-31315/",
-   "date": "2026-08-05T00:00:00+00:00",
-   "summary": "A pair of bug fix releases await your upgrade.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Sending Emails Using Python",
-   "url": "https://realpython.com/courses/sending-emails-using-python/",
-   "date": "2026-08-04T14:00:00+00:00",
-   "summary": "Learn how to send emails with Python using SMTP and smtplib, attach files, format HTML messages, and personalize bulk emails.",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
   },
   {
    "title": "#557: Security of everything at PyCon 2026",
@@ -1099,6 +954,146 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Python Find String in List: Methods and Examples",
+   "url": "https://www.digitalocean.com/community/tutorials/python-find-string-in-list",
+   "date": "2026-06-16T07:49:15+00:00",
+   "summary": "Learn how to find a string in a Python list using in, index(), list comprehension, and regex. See practical, runnable code examples and start today.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Join Python List: Methods, Examples, and Best Practices",
+   "url": "https://www.digitalocean.com/community/tutorials/python-join-list",
+   "date": "2026-06-16T07:43:51+00:00",
+   "summary": "Learn how to join a Python list using join(), +, extend(), and itertools.chain(). See real code examples, benchmarks, and best practices.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Python Compare Strings: Methods, Operators & Best Practices",
+   "url": "https://www.digitalocean.com/community/tutorials/python-string-comparison",
+   "date": "2026-06-16T05:13:48+00:00",
+   "summary": "Learn how to compare strings in Python using ==, is, and ordering operators, plus casefold() and difflib for tricky cases.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Zero-Infrastructure RAG Agent with Knowledge Bases + MCP",
+   "url": "https://www.digitalocean.com/community/tutorials/build-rag-agent-digitalocean-knowledge-bases-mcp",
+   "date": "2026-06-16T00:00:00+00:00",
+   "summary": "Upload case files to Spaces, index with Knowledge Bases, retrieve via MCP, and deploy a LegalTech FastAPI RAG app using Serverless Inference.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Pandas DataFrame apply(): Methods, Examples, and Uses",
+   "url": "https://www.digitalocean.com/community/tutorials/pandas-dataframe-apply-examples",
+   "date": "2026-06-16T00:00:00+00:00",
+   "summary": "Learn how to use Pandas DataFrame apply() with real code examples. Covers axis control, result_type, applymap migration, and performance.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters",
+   "url": "https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/",
+   "date": "2026-06-12T16:17:10+00:00",
+   "summary": "",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding Class and Instance Variables in Python 3",
+   "url": "https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3",
+   "date": "2026-06-12T06:53:31+00:00",
+   "summary": "Learn the difference between class and instance variables in Python 3 with clear examples, a comparison table, and FAQs. Write better OOP code today.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build an MCP Server in Python",
+   "url": "https://www.digitalocean.com/community/tutorials/mcp-server-python",
+   "date": "2026-06-12T00:00:00+00:00",
+   "summary": "Build an MCP server in Python with FastMCP, connect SQLite data to Cursor and Claude Desktop, and test tools end to end.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Python Array Add: How to Append, Extend & Insert Elements",
+   "url": "https://www.digitalocean.com/community/tutorials/python-add-to-array",
+   "date": "2026-06-12T00:00:00+00:00",
+   "summary": "Learn how to add to an array in Python with append(), extend(), insert(), and NumPy. Compare lists vs arrays, avoid common errors, and see tested examples.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Python Socket Programming: Server and Client Guide",
+   "url": "https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client",
+   "date": "2026-06-08T14:17:41.126000+00:00",
+   "summary": "Learn Python socket programming with working server and client examples. Build TCP connections, handle multiple clients, and fix common errors.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Build a Medical Report Analyzer on Dedicated Inference with Python",
+   "url": "https://www.digitalocean.com/community/tutorials/medical-report-analyzer-dedicated-inference",
+   "date": "2026-06-04T10:39:00+00:00",
+   "summary": "Use DigitalOcean’s Dedicated Inference to build an app that reads blood test reports from PDFs and photos, flags abnormal values, and explains results.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Python ValueError: Exception Handling Examples & Fixes",
+   "url": "https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples",
+   "date": "2026-06-03T06:49:43+00:00",
+   "summary": "Learn how to handle Python ValueError exceptions with code examples, common causes, and best practices. Read the full guide to fix errors fast.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How To Convert a String to a datetime Object in Python",
+   "url": "https://www.digitalocean.com/community/tutorials/python-string-to-datetime-strptime",
+   "date": "2026-06-02T00:00:00+00:00",
+   "summary": "Learn how to convert a string to a datetime object in Python using strptime(), fromisoformat(), and dateutil. See working examples and start parsing dates now.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Remove Characters from a String in Python",
+   "url": "https://www.digitalocean.com/community/tutorials/python-remove-character-from-string",
+   "date": "2026-06-01T00:00:00+00:00",
+   "summary": "Remove characters from a Python string with replace(), translate(), re.sub(), and slicing. Compare methods, see examples, and pick the right approach.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "How I would learn Python programming FAST (If I could start over)",
@@ -1415,6 +1410,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xLURXUk5fc19LQ1U3Uk56cEk3OVpaaUI0VDlLVnBqMXhKZGlxQWFaR1A1c1Z0cEh3aVJpTWxwS19XNHBCZUNFUXVzMXpidlUzajNBcWRB?oc=5",
    "date": "2024-06-12T14:00:40+00:00",
    "summary": "مشاريع بايثون للمبتدئين والمستوى المتوسط - Ping Pong Game | Python projects for beginners YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحميل بايثون و فيجوال ستوديو كود على الكمبيوتر: تعلم بايثون من الصفر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUGZPck1nbEQ1ZkN6WHV4ZXNWaDdNRjRhYlg4YjVPQjVlYTFReXJaRXBoNG9UcWVjbV9fcmtvOTNVdFB5cU9idFA1dmpPaG9LRHpCRHpR?oc=5",
+   "date": "2024-06-10T12:00:48+00:00",
+   "summary": "تحميل بايثون و فيجوال ستوديو كود على الكمبيوتر: تعلم بايثون من الصفر YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2235,16 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lcVl2NnBwbjdKbjJvci1EUmRpektOaVR4cnNqUDNQd3VvT1dROUdfQkNleG1MQ1lhZzFoYWgtZVpJT2lRQTlFSWFUVWJFTnlFMWl3REt3?oc=5",
    "date": "2021-09-02T05:45:01+00:00",
    "summary": "برمجة تطبيقات الهواتف بلغة بايثون كيفي : الدرس 17 : python kivy build mobile apps YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "برمجة تطبيقات الهواتف بلغة بايثون كيفي : الدرس 6 : python kivy build mobile apps",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacVYwejFvRGZZd1YtVS1PR29HM2JZd3F5Q2laZ2h5eU9FZW95UFktbGZYb1dQNklZX0RXME1JdndXOEdQSUtaYy12ZmQ1MGlac1FDZ2ZR?oc=5",
-   "date": "2021-08-05T15:13:05+00:00",
-   "summary": "برمجة تطبيقات الهواتف بلغة بايثون كيفي : الدرس 6 : python kivy build mobile apps YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T00:15:51.087934+00:00",
+ "generated": "2026-08-15T00:34:23.635971+00:00",
  "tech": "php",
  "count": 220,
  "items": [
@@ -428,6 +428,16 @@
    "lang": "en"
   },
   {
+   "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+   "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+   "date": "2026-07-07T10:00:00+00:00",
+   "summary": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner",
+   "tech": "php",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "Laravel AI SDK Sub Agents: Build Multi-Agent Workflows in PHP",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xc25qaHotRmhaTWZacVdIMjE5Z1hqOU9sUDJnWGFKZHpfX0V2MUp1eWdZTS1fT0NyRjI0clAyVGlRcDFxUjREdU50aVpnb29jbzEtQTZn?oc=5",
    "date": "2026-06-29T12:01:51+00:00",
@@ -435,6 +445,16 @@
    "tech": "php",
    "sourceId": "yt",
    "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How to Configure PHP-FPM with NGINX",
+   "url": "https://www.digitalocean.com/community/tutorials/php-fpm-nginx",
+   "date": "2026-06-18T00:00:00+00:00",
+   "summary": "Configure PHP-FPM with NGINX on Ubuntu to install php-fpm, set up pools, wire fastcgi_pass, fix 502 errors, and tune worker processes.",
+   "tech": "php",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -2206,26 +2226,6 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
-  },
-  {
-   "title": "تحديث إصدار ال php لموقع ووردبريس | حل مشكلة موقعك يعمل على إصدار غير آمن من PHP",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzaU45OFZGcG5seGFzSTl3dGRQclA3YnpSSG5MVnV1dENGUDZZRVgybGx0cFRhbFExRGlLQ3hiUklYbE52U2lKeUlrclFfVFpJakcwM2tB?oc=5",
-   "date": "2021-05-20T15:28:01+00:00",
-   "summary": "تحديث إصدار ال php لموقع ووردبريس | حل مشكلة موقعك يعمل على إصدار غير آمن من PHP YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "برمجة المواقع بإستخدام PHP and Mysql - المحاضرة الأولى - الجزء الأول",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jLUVzRmNwU01PMUQ2QzJCZmQzQTJSdS1BNnI4Y1dseFFvZDV1eG1BYVBXd2lBQmtfVkQzZnRBMzRGdlM1bTVDb09BSXNHMk1QYUs5ZnF3?oc=5",
-   "date": "2021-05-17T19:30:14+00:00",
-   "summary": "برمجة المواقع بإستخدام PHP and Mysql - المحاضرة الأولى - الجزء الأول YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
   }
  ]
 }

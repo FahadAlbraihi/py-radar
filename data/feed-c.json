@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T00:17:51.834093+00:00",
+ "generated": "2026-08-15T00:39:55.147627+00:00",
  "tech": "c",
- "count": 42,
+ "count": 43,
  "items": [
   {
    "title": "How Buffer Overflows Actually Hijack Program Execution",
@@ -177,6 +177,16 @@
    "tech": "c",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "2D Arrays in C++: Declare, Initialize & Operations",
+   "url": "https://www.digitalocean.com/community/tutorials/two-dimensional-array-in-c-plus-plus",
+   "date": "2026-06-16T07:22:39+00:00",
+   "summary": "Learn how 2D arrays work in C++: declare, initialize, traverse, use pointers and vectors, and run matrix operations. Read the full guide.",
+   "tech": "c",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {

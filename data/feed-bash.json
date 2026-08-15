@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T00:15:38.413637+00:00",
+ "generated": "2026-08-15T00:33:52.633802+00:00",
  "tech": "bash",
- "count": 140,
+ "count": 145,
  "items": [
   {
    "title": "The One Flag That Makes a Linux Search Show You Where, Not Just What",
@@ -392,6 +392,46 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "What Is .bashrc in Linux? Configuration Explained",
+   "url": "https://www.digitalocean.com/community/tutorials/bashrc-file-in-linux",
+   "date": "2026-06-29T00:00:00+00:00",
+   "summary": "Learn what the .bashrc file does in Linux, how to configure aliases, set environment variables, and reload changes with source. Customize your shell.",
+   "tech": "bash",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Export Command: Guide with Examples",
+   "url": "https://www.digitalocean.com/community/tutorials/export-command-linux",
+   "date": "2026-06-10T00:00:00+00:00",
+   "summary": "Learn the Linux export command to set environment variables. Complete tutorial with practical examples for bash scripts and shell configuration.",
+   "tech": "bash",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "AWK Command in Linux/Unix: Syntax, Examples, and Usage",
+   "url": "https://www.digitalocean.com/community/tutorials/awk-command-linux-unix",
+   "date": "2026-06-03T05:58:28+00:00",
+   "summary": "Learn the AWK command in Linux/Unix with real examples. Master pattern matching, field separation, and text processing. Read the full tutorial now.",
+   "tech": "bash",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How to Send Email in Linux from the Command Line",
+   "url": "https://www.digitalocean.com/community/tutorials/send-email-linux-command-line",
+   "date": "2026-06-02T00:00:00+00:00",
+   "summary": "Send email from the Linux command line with mail, mutt, and msmtp. Step-by-step examples for attachments, SMTP auth, and Bash scripts on Ubuntu and RHEL.",
+   "tech": "bash",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "شرح علامات الترقيم الجزء الرابع تالته ثانوي 2026 | العلامات الطرفية او الإنهاء",
@@ -862,6 +902,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Developer essentials: How to search code using grep",
+   "url": "https://developer.mozilla.org/en-US/blog/searching-code-with-grep/",
+   "date": "2023-07-03T00:00:00+00:00",
+   "summary": "grep is a powerful tool for searching code from the terminal. This post will show you how to use grep and why it's an essential developer tool.",
+   "tech": "bash",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "Bash Shell Scripting Tutorial | Full Course",

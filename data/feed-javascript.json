@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T00:14:58.672628+00:00",
+ "generated": "2026-08-15T00:31:49.962256+00:00",
  "tech": "javascript",
  "count": 220,
  "items": [
@@ -21,6 +21,16 @@
    "tech": "javascript",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "500 Blog Posts To Learn About Javascript",
+   "url": "https://hackernoon.com/500-blog-posts-to-learn-about-javascript?source=rss",
+   "date": "2026-08-14T20:00:08+00:00",
+   "summary": "Learn everything you need to know about Javascript via these 500 free HackerNoon blog posts.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -261,6 +271,26 @@
    "lang": "en"
   },
   {
+   "title": "The Hidden Distributed System Inside Your WebView App",
+   "url": "https://hackernoon.com/the-hidden-distributed-system-inside-your-webview-app?source=rss",
+   "date": "2026-08-14T14:01:29+00:00",
+   "summary": "Why the web↔native boundary in a hybrid React Native app is an unversioned API — and what it costs when the two halves ship on different clocks.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "229 Blog Posts To Learn About Javascript Tutorial",
+   "url": "https://hackernoon.com/229-blog-posts-to-learn-about-javascript-tutorial?source=rss",
+   "date": "2026-08-14T14:00:03+00:00",
+   "summary": "Learn everything you need to know about Javascript Tutorial via these 229 free HackerNoon blog posts.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "I ship an Ed25519 public key in my JavaScript bundle and call it a licence",
    "url": "https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h",
    "date": "2026-08-14T13:48:57+00:00",
@@ -280,6 +310,16 @@
    "tech": "javascript",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Exploring Compose HTML for Server Side Rendering",
+   "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
+   "date": "2026-08-14T12:15:09+00:00",
+   "summary": "Something is happening in server-rendered web development. React shipped Server Components. HTMX made hypermedia cool again. Phoenix LiveView proved a server can push interactive UI updates without a client framework in sight. Every ecosyst",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -404,61 +444,6 @@
    "lang": "en"
   },
   {
-   "title": "200 OK Is Not Enough: Why Bot-Protected Sites Still Return Bad Data",
-   "url": "https://dev.to/promptcloud_services/200-ok-is-not-enough-why-bot-protected-sites-still-return-bad-data-4bdk",
-   "date": "2026-08-14T06:53:39+00:00",
-   "summary": "Your crawl job finished successfully. That doesn't mean it got the data.  Every scraping pipeline has...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19",
-   "url": "https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o",
-   "date": "2026-08-14T06:16:27+00:00",
-   "summary": "We just shipped EverShop 2.2.1 — the largest release since 2.0. It folds in the React 19 work that...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-   "url": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-   "date": "2026-08-14T06:02:54+00:00",
-   "summary": "Headline: A Content Security Policy (CSP) is an HTTP response header that tells the browser which...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Type-Safe Email Checks in React Forms",
-   "url": "https://dev.to/ryanlee91/type-safe-email-checks-in-react-forms-1cg4",
-   "date": "2026-08-14T05:25:42+00:00",
-   "summary": "If your React signup form still treats email validation like a boolean, you're probably carrying more...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stop Overworking Your Code: A Friendly Guide to Debouncing",
-   "url": "https://dev.to/saurav_tb_pandey/stop-overworking-your-code-a-friendly-guide-to-debouncing-4f2k",
-   "date": "2026-08-14T05:19:08+00:00",
-   "summary": "Have you ever clicked a checkout button on a website, noticed nothing happened instantly, and clicked...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
    "url": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
    "date": "2026-08-13T18:10:52+00:00",
@@ -511,6 +496,16 @@
    "kind": "podcast"
   },
   {
+   "title": "How Baseline Can Help You Ship Less JavaScript",
+   "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+   "date": "2026-08-07T13:00:00+00:00",
+   "summary": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "1027: The Rise of the Design Engineer",
    "url": "https://syntax.fm/1027",
    "date": "2026-08-05T11:00:00+00:00",
@@ -555,6 +550,16 @@
    "kind": "podcast"
   },
   {
+   "title": "Partnerships can keep open source sustainable",
+   "url": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/",
+   "date": "2026-07-24T07:40:00+00:00",
+   "summary": "Ryan welcomes VoidZero’s Evan You and Cloudflare’s Dane Knecht back to the show to discuss Cloudflare’s recent acquisition of VoidZero and what it means for JavaScript development, how partnerships like theirs can help open-source projects ",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "1023: Mosh, Caddy & Tailscale: A Remote Dev Deep Dive",
    "url": "https://syntax.fm/1023",
    "date": "2026-07-22T11:00:00+00:00",
@@ -566,6 +571,16 @@
    "kind": "podcast"
   },
   {
+   "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+   "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+   "date": "2026-07-21T10:00:00+00:00",
+   "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "1022: Bun re-written in Rust, Zig team big mad",
    "url": "https://syntax.fm/1022",
    "date": "2026-07-20T11:00:00+00:00",
@@ -575,6 +590,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "When It Makes Sense To “Block” The Main Thread",
+   "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+   "date": "2026-07-17T08:00:00+00:00",
+   "summary": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "1021: We got addicted to an AI model we can't talk about",
@@ -619,6 +644,36 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "How to Use the JavaScript Fetch API",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data",
+   "date": "2026-06-18T00:00:00+00:00",
+   "summary": "Learn the JavaScript Fetch API for GET and POST requests with error handling, async/await, AbortController, and tested examples.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+   "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+   "date": "2026-05-28T13:00:00+00:00",
+   "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CS",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+   "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+   "date": "2026-05-21T08:00:00+00:00",
+   "summary": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "JavaScript Full Course 2026 | Master Javascript in 22 Hours",
@@ -831,6 +886,16 @@
    "lang": "en"
   },
   {
+   "title": "JavaScript Temporal is coming",
+   "url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
+   "date": "2025-01-24T00:00:00+00:00",
+   "summary": "A new way to handle dates and times is being added to JavaScript. Let's take a look at Temporal, what problems it solves, the current state, and what you'll find in the new documentation about it on MDN.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "#2.2 JavaScript tutorial | Todo list Project | كورس جافا اسكريبت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnSDVTUk9SbWp0b0xUcmtua1pVUEFmdUFJdS1oalhwa1FmeFoyTHhKWU9NVUZ1amtDSDBLcjJQUDZFelRQdVMzMnFVQ3pFbEsxYUxGbTJR?oc=5",
    "date": "2024-11-09T12:00:44+00:00",
@@ -851,6 +916,16 @@
    "lang": "en"
   },
   {
+   "title": "Fixing your website's JavaScript performance",
+   "url": "https://developer.mozilla.org/en-US/blog/fix-javascript-performance/",
+   "date": "2024-10-09T00:00:00+00:00",
+   "summary": "Learn about lesser-known web performance bottlenecks connected to excessive JavaScript usage, like long tasks, large bundle sizes, and hydration issues.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "JavaScript for Beginners in Tamil | 10 Hours Full Course | Beginner to Advanced | code io - Tamil",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Hb0JtWHVEQ1hPSkVEVWl0clhXRWt0Wk1FTjhhel9OM3RQN2JHb1Z3SjdBSmdxRHVLc29uZnAyRVhKY2pCdXZHVkJsR0xqeC1XWndtSWRB?oc=5",
    "date": "2024-09-03T13:30:23+00:00",
@@ -858,6 +933,16 @@
    "tech": "javascript",
    "sourceId": "yt",
    "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Locale-sensitive text segmentation in JavaScript with Intl.Segmenter",
+   "url": "https://developer.mozilla.org/en-US/blog/javascript-intl-segmenter-i18n/",
+   "date": "2024-09-03T00:00:00+00:00",
+   "summary": "Learn how to use Intl.Segmenter for locale-sensitive text segmentation in JavaScript to simplify localization, count words or sentences in different languages, and more.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -869,6 +954,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Static Site Generation (SSG) with Next.js",
+   "url": "https://developer.mozilla.org/en-US/blog/static-site-generation-with-nextjs/",
+   "date": "2024-06-28T00:00:00+00:00",
+   "summary": "This guide explains how to use Static Site Generation in Next.js to build scalable and secure web applications with fast loading times and a focus on performance.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "New JavaScript Set methods",
+   "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/",
+   "date": "2024-06-24T00:00:00+00:00",
+   "summary": "New JavaScript Set methods are landing across browsers. Learn about sets, how you can use these methods to compare different sets, create new sets with specific properties, and more.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "{جافا سكريبت من الصفر} (15) - DOM Manipulation | اضافة عناصر في صفحة الويب",
@@ -1061,6 +1166,16 @@
    "lang": "ar"
   },
   {
+   "title": "Testing JavaScript with Jest on Vultr",
+   "url": "https://developer.mozilla.org/en-US/blog/test-javascript-with-jest-on-vultr/",
+   "date": "2024-03-22T00:00:00+00:00",
+   "summary": "This guide introduces you to the common types of tests and the testing conventions. Learn how to test JavaScript with Jest on Vultr.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "JavaScript Tutorial for Beginners [JS Crash Course]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uOWIyZ09CTk9haTBkQXEtb3pYd0JHYVVnYVdySDgtVnNpMUtzZ3BCQl9ZRi1GLVpEenl2Tmd0d2hWMXZLSXIwLWRvU2ZZWDhJYjJTbDRn?oc=5",
    "date": "2024-02-28T15:03:22+00:00",
@@ -1078,6 +1193,16 @@
    "tech": "javascript",
    "sourceId": "yt",
    "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "Leveraging Bun on Vultr: A superior Node.js alternative",
+   "url": "https://developer.mozilla.org/en-US/blog/leveraging-bun-on-vultr-a-superior-node-js-alternative/",
+   "date": "2024-01-17T00:00:00+00:00",
+   "summary": "This guide explains Bun functionalities as a runtime package manager and a bundler. It also explains the benefits of built-in Bun APIs and how to use Bun's Vultr marketplace application.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -1111,6 +1236,16 @@
    "lang": "en"
   },
   {
+   "title": "Developer essentials: JavaScript console methods",
+   "url": "https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/",
+   "date": "2023-11-30T00:00:00+00:00",
+   "summary": "The JavaScript console is an essential tool for web development. Learn new and fun ways to use the console to display data and debug your code.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "Learn JavaScript CLASSES in 6 minutes! 🏭",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iM0tGT0dHN2ZwVWlnQmRySW1RdXo3dWpNeDdtSHVmS091VVNueFIwRV9ncG4wdy1IdXQ2M1BzSkVOMzdudWdPdGZ1cW43bFQxczBtLUFR?oc=5",
    "date": "2023-11-17T17:38:25+00:00",
@@ -1118,6 +1253,16 @@
    "tech": "javascript",
    "sourceId": "yt",
    "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Deploying Node.js applications with PM2 on Vultr",
+   "url": "https://developer.mozilla.org/en-US/blog/deploying-node-js-applications-with-pm2-on-vultr/",
+   "date": "2023-11-08T00:00:00+00:00",
+   "summary": "Learn how to deploy a Node.js application on Vultr using PM2 to create persistent services. This guide shows how to efficiently use resources via PM2 cluster mode. It also covers Nginx server setup and SSL security.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -1249,6 +1394,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "How to draw any regular shape with just one JavaScript function",
+   "url": "https://developer.mozilla.org/en-US/blog/javascript-shape-drawing-function/",
+   "date": "2023-05-26T00:00:00+00:00",
+   "summary": "Learn how to use JavaScript to draw any regular shape to a HTML canvas with a single function, and how to modify it to draw multiple shapes.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "New reference pages on MDN for JavaScript regular expressions",
+   "url": "https://developer.mozilla.org/en-US/blog/regular-expressions-reference-updates/",
+   "date": "2023-05-23T00:00:00+00:00",
+   "summary": "See the latest updates to the MDN reference pages about JavaScript regular expressions, including new sections on sub-features and browser compatibility information.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners",
@@ -1431,26 +1596,6 @@
    "lang": "ar"
   },
   {
-   "title": "Introduction to JavaScript",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUWt3Q0JiV3NVS3JubE9EcTVQcmgwMjY5Um5uVFdiUEtMb0VlaG94eld6bVJ5cTR3U0xydEZuNmx0TGx1cUQ1Nzk2dGVzUUVkNnBYVEh3?oc=5",
-   "date": "2022-11-05T12:30:04+00:00",
-   "summary": "Introduction to JavaScript YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lay1mWVk2blJ0ZXZGWlhOaHNreVVWZkk4QXZ3ZjlhaU4yUEVsTGVsMDRwVGZnRzdXNDdQTzJ0OUllUUIwTHk0WVlONFZ3eHNSTFJ0RWR3?oc=5",
-   "date": "2022-11-01T16:39:15+00:00",
-   "summary": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB) YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كيفية اضافة زر الصعود الى الاعلى عند النزول الى اسفل الموقع باستخدام JavaScript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQ2dSeDdJeUx6TDlVdnZ1aFJXWGlHZk1GaE03T1JoVUZ6VVduZnN1Y1pzaU1DRERZU1d6dC00VFhhX3dQQklGVlg0SjFFd2dpSENWLVdn?oc=5",
    "date": "2022-11-01T14:00:48+00:00",
@@ -1511,16 +1656,6 @@
    "lang": "ar"
   },
   {
-   "title": "JavaScript Programming Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zM0tBNklIT3F2QUZPODM5a3ZISWhKaDZaWDZkaG9XQ2ZOMTFMWUZWZGZ4cTI0bVhnNWJGTExSOEdWY0lKTi1Felhxa2JNTTg3U3VwbzNB?oc=5",
-   "date": "2022-08-09T10:36:21+00:00",
-   "summary": "JavaScript Programming Tutorial for Beginners YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "JavaScript Tutorial - Pokemon Game with JavaScript | مشاريع جافا سكريبت للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HMVlaMkFNajFvTjRSSHpvU184QndJRlNONWpyRGh1VWNXMm1TMFl0Q2ZTSHFSYkNKMmNhMGhEZEZIQ01aVjE3eUFIeUt5dloxc1dzXzR3?oc=5",
    "date": "2022-07-10T14:30:10+00:00",
@@ -1549,36 +1684,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "#4 JavaScript Comments | JavaScript Tutorial for Beginners Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HSlpudDMzQ1ltdV9WbFdDZ3JWb21sMEVDR1JhU1R0Z2ZGd0hxNFBMU05ZRE1wdFI5VWVPSXNTaHpjVW9WMzhiTmlueWtBUzg4dGdwN25B?oc=5",
-   "date": "2022-06-22T11:15:05+00:00",
-   "summary": "#4 JavaScript Comments | JavaScript Tutorial for Beginners Course YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "JavaScript Crash Course in 2022! Free Coding Bootcamp! #100Devs",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wczRSVVI3UDU2Yi11VXpLN0EzWExnZ0RqZWNsSmk5VEhUdTdfLUctOS10d1RlbEU5MWkzQWoyWnFpQlVrb1VrclF0SXdpSnBvQ3RNWUpB?oc=5",
-   "date": "2022-06-04T14:00:01+00:00",
-   "summary": "JavaScript Crash Course in 2022! Free Coding Bootcamp! #100Devs YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "#1 What is JavaScript? | JavaScript Tutorial for Beginners Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jakZzRHJRd3c1Zm9HR0h4UXRQdzZhQVRONkpWY0E2YzBUY2N6NkZVQWk3amRMRDZzc2hIdTBrNVhhWFhEdDJtMUNIejBTZXoweWNCNS1R?oc=5",
-   "date": "2022-06-01T11:15:01+00:00",
-   "summary": "#1 What is JavaScript? | JavaScript Tutorial for Beginners Course YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "عمل برنامج للتعديل على الصور و اضافة فلاتر بالجافا سكريبت | part 2",
@@ -1619,16 +1724,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZzJmMXN3M3NEQkxuMEhPU2F2RHNxbHA5OUVrQzNWell0MGdQU3ZTNjdjR3VGb0oxN2p3cG5wVnZvY05IeEFQcF9CMFdYZ0F1bzNLajhB?oc=5",
-   "date": "2022-05-13T16:39:31+00:00",
-   "summary": "React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "(في أقل من ساعة) كورس جافا سكريبت كامل | JavaScript Tutorial for Beginners",
@@ -1751,16 +1846,6 @@
    "lang": "ar"
   },
   {
-   "title": "All The JavaScript You Need To Know For React",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43NThKWVhBTkZFOHQ3bGYyQkxocmphRHpBVDUtQ3lncWpwUV9xcnN4UUNMeXVqUm5vNTc1ZEVJSEMwd29Hc0hXWTBhaTNnTmtDNzB4Y3pB?oc=5",
-   "date": "2022-02-01T14:00:14+00:00",
-   "summary": "All The JavaScript You Need To Know For React YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "11 العمليات الشرطية في جافا سكريبت if statement in javascript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84WWR0V05EVy1uNzVOWXFieEtfZ2ZoMUxVUTVkRFkzZVhLdm1uS01XcGlBTElfT2RDOFhzVnA1UGozZXNGVEEzVjlPVjViMzVoVnVIak9B?oc=5",
    "date": "2022-01-25T16:00:26+00:00",
@@ -1851,16 +1936,6 @@
    "lang": "ar"
   },
   {
-   "title": "JavaScript | Beginning to Mastery Complete Tutorial (Part 1)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Dck8tQW9FUVpURi1uY1BSVWE1UV9mRXlZcjU0UmxYUkZtQWs0UTRNQlFSalc5M2k0V2JlVUNQQUJrZVlsUnJ5SGdwZHpqWXFZUUhsZmxn?oc=5",
-   "date": "2021-10-09T03:30:03+00:00",
-   "summary": "JavaScript | Beginning to Mastery Complete Tutorial (Part 1) YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "2- تعلم أساسيات react : component - props",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BWUdqUWVydkN0T19EOUlLU3ZJXzNFVHh1amVRaTF5WUxFTUFqejM0ZE5vSWxac0ZlQklsUTRRdWFTa3plVTFBbjI3VXVrOEJLMUZjUi1R?oc=5",
    "date": "2021-09-07T17:30:11+00:00",
@@ -1911,16 +1986,6 @@
    "lang": "ar"
   },
   {
-   "title": "JavaScript Programming - Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rOTMya0NubkRLQVA0cnhBTEtTZ25jNWpLM0NILXRVTDM1Y0NMV1hqNkV1WHlnSWt6azRCdlk0NHg0a2o3RDU0eENKQUY4RGxlN3dteGpR?oc=5",
-   "date": "2021-06-21T16:42:15+00:00",
-   "summary": "JavaScript Programming - Full Course YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "3- Comments In JavaScript | كتابة تعليق في الجافاسكربت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93M0R6NGRlV2NvVUx0VkhfNVpwNTE4SE8xWHlLU3dtS0JDc25QR1lMb1hpWFQ5anhyOFBBZHJveXMwLWp4YTV6bk9zVzNTOEpkbkpPWDJR?oc=5",
    "date": "2021-06-07T11:29:11+00:00",
@@ -1961,16 +2026,6 @@
    "lang": "ar"
   },
   {
-   "title": "JavaScript Tutorial for Beginners (My Fourth YouTube Video)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ELUdrYVA1dmVyVXRORXBQWmVrS3ZUbS1Gb2RtN2hNSmpZNTlXSjFvdjczQkJaNzN1RjVqMDAxeVZVa3d2LTVNT1hmdmgwRHRnc0h5bTZB?oc=5",
-   "date": "2021-04-28T07:00:00+00:00",
-   "summary": "JavaScript Tutorial for Beginners (My Fourth YouTube Video) YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "#9 ملخص الجافا سكريبت | هل الجافا سكريبت صعبة ؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXakIxVUx4ekppUElHSGlPVXBoeWh2OEoybWtwRkNYbHMyUmttMTEtMEJZNGNrREM2a0Zvb0FJZ1lMVzdZV1pDRUJ4bmMxM3RHaUFVTFdB?oc=5",
    "date": "2021-04-23T13:08:02+00:00",
@@ -1981,16 +2036,6 @@
    "lang": "ar"
   },
   {
-   "title": "JavaScript Tutorial for Beginners | JavaScript Crash Course | Learn JavaScript in 2 Hours",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdnozODZGSU1QNzhYLUpySmpSa2RWZG55b2NFa01sNUlXakJXYlNXZDBBLUcxNnd5RVZnMVVzRktReUp5a1Rzdjl1YzNvUUVEVXhZeDln?oc=5",
-   "date": "2021-04-21T10:16:38+00:00",
-   "summary": "JavaScript Tutorial for Beginners | JavaScript Crash Course | Learn JavaScript in 2 Hours YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "#2.1 get HTML Elements | كورس جافا سكريبت للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZ2FBQXlwSDNLaU45TTZCOHF0TVNvTDNtUVZ3amFNdk9TOXJQVl9FTmZVM05qa3ZLcGFfSm1hVTlUNm5paTNGX1ZNVW1xQ0pyMVJTQ3V3?oc=5",
    "date": "2021-04-05T08:42:46+00:00",
@@ -1999,16 +2044,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "JavaScript Audio CRASH COURSE For Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WRXhWcVl0akl3N3p4bVdkTnJ4V3AzTnZ1VUxLR0Y0RUExd2FzTU1jdlQzS19ka0RIYURZNTdTcU5uenp5cWxiVDVIRjhvcGpNdUJuZkpB?oc=5",
-   "date": "2021-03-12T13:11:31+00:00",
-   "summary": "JavaScript Audio CRASH COURSE For Beginners YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "شرح برمجة لعبة بلغة الجافا سكريبت - Memoery Game in Javascript",
@@ -2029,26 +2064,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10c2RWcnA4bi1NNnVCeVQ0M2lNR2RNTjlfNV9fU1Z0MGczeWZFTUlpSWZSeEFVbjdNbnMwYVN6SjdGMG1OTHZzMTNrbFZxSVo0eWZaVVNR?oc=5",
-   "date": "2021-01-20T15:30:01+00:00",
-   "summary": "JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "JavaScript Object Oriented Programming Tutorial Beginners - OOP in JavaScript",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uQ3Z1dGh6SzFFVGxReElZZFByMUt5VlJYOG5tbkJNdnZ2eFpnZnkzOGZCZGdaaTd3ZzZsa1pia3E4Sngtc0VIX2kwa1U0a0hjTkdVT213?oc=5",
-   "date": "2021-01-20T15:22:35+00:00",
-   "summary": "JavaScript Object Oriented Programming Tutorial Beginners - OOP in JavaScript YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "بعد اساسيات جافاسكربت اتبع هذا المسار شرح امثلة ومشاريع و 8 مكاتب جافا سكربت مهمة جدا 2021",
@@ -2101,16 +2116,6 @@
    "lang": "ar"
   },
   {
-   "title": "JavaScript Crash Course 2021 - Master JavaScript in One Video!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BRE9kNk5lT0RwZmJsbGZ0cUlMMnN1aGstcjlqSjh2YWRTNVpJWXNjSHJudDAtbFN2M0Vtbmk0Q1RnSGFQUE1ZWHRyZEJCQVRMSVFIWkJ3?oc=5",
-   "date": "2021-01-01T16:35:24+00:00",
-   "summary": "JavaScript Crash Course 2021 - Master JavaScript in One Video! YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "طريقة تخزين البيانات في جافا سكريبت باستخدام SessionStorage | دورة تعلم JavaScript كاملة - الدرس 43",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrTk92NmRhYl82aVRzTllmWEJQSFIyeGhwMnpoUzRDd2RzaUxJSDFCRGIwU0F4SGdEbWpkMGJGek54bU5mLVV6V1hoYXR2ZzBNRlA1dElR?oc=5",
    "date": "2020-12-22T10:39:12+00:00",
@@ -2159,16 +2164,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Namaste JavaScript 🙏 Course - JS Video Tutorials by Akshay Saini",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IVE80V29RQW4tMXUzWUp4Q1pPTE51N1NRSEd6NHNBdTBkZ1FDeEVSZnVQcHl3T04wNTNvSDd2aDNvLWU4T1BDZUpxS25EYmdHQm1yOTZ3?oc=5",
-   "date": "2020-10-18T08:33:52+00:00",
-   "summary": "Namaste JavaScript 🙏 Course - JS Video Tutorials by Akshay Saini YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "#00 - تعلم رياكت - برمجة واجهات المواقع والتطبيقات من فيسبوك",

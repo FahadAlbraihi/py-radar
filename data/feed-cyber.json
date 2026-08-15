@@ -1,8 +1,28 @@
 {
- "generated": "2026-08-15T00:15:32.371792+00:00",
+ "generated": "2026-08-15T00:33:37.053046+00:00",
  "tech": "cyber",
  "count": 220,
  "items": [
+  {
+   "title": "SSH Brute-Force Attack on metasploitable2 and Detection with Wazuh",
+   "url": "https://medium.com/@moncefsolja327/ssh-brute-force-attack-on-metasploitable2-and-detection-with-wazuh-6634b36bcbc0?source=rss------cybersecurity-5",
+   "date": "2026-08-15T00:20:39+00:00",
+   "summary": "After the enumeration phase, we decided to test the SSH service discovered on the Metasploitable 2 machine. The objective of this attack&#x2026; Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "When the Same Request Came Back — and Found a Different System",
+   "url": "https://medium.com/@ajadiololade/when-the-same-request-came-back-and-found-a-different-system-762e8e106713?source=rss------cybersecurity-5",
+   "date": "2026-08-15T00:19:40+00:00",
+   "summary": "What a routine security investigation across university portals taught me about resilience, layered controls, and the value of knowing&#x2026; Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Dari Moodle Jadul Sampai API Polis Tanpa Kunci: Catatan Project Pentest Magang di Nemosecurity",
    "url": "https://medium.com/@zakyarielsyah11/dari-moodle-jadul-sampai-api-polis-tanpa-kunci-catatan-project-pentest-magang-di-nemosecurity-85c18685fd65?source=rss------cybersecurity-5",
@@ -128,26 +148,6 @@
    "url": "https://medium.com/@adejaremarvel/security-engineering-assessment-of-a-contemporary-banking-system-7f909d7e88a6?source=rss------cybersecurity-5",
    "date": "2026-08-14T19:21:15+00:00",
    "summary": "Applying Security Engineering Principles to Core Banking(part 1) Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Operation Greyframe: A Digital Forensics CTF by AstralGuard Cyber Academy",
-   "url": "https://medium.com/@cyberb354/operation-greyframe-a-digital-forensics-ctf-by-astralguard-cyber-academy-6658d249c8e7?source=rss------cybersecurity-5",
-   "date": "2026-08-14T19:13:43+00:00",
-   "summary": "A file was flagged during a routine sweep. Nothing about it looks wrong. That&#x2019;s the problem. Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Following the Breadcrumbs: A Full Walkthrough of TryHackMe’s Easy Peasy",
-   "url": "https://medium.com/@correctshivansh/following-the-breadcrumbs-a-full-walkthrough-of-tryhackmes-easy-peasy-1fbfe9bc9bcc?source=rss------cybersecurity-5",
-   "date": "2026-08-14T19:10:23+00:00",
-   "summary": "Some boxes throw everything at you at once. This one didn&#x2019;t. It gave me three open ports, a page that looked empty, and let me figure out&#x2026; Continue reading on Medium »",
    "tech": "cyber",
    "sourceId": "medium",
    "source": "Medium",
@@ -484,25 +484,13 @@
    "lang": "en"
   },
   {
-   "title": "How to Find and Fix Security Vulnerabilities for Money",
-   "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-254l",
-   "date": "2026-08-13T00:00:09+00:00",
-   "summary": "How to Find and Fix Security Vulnerabilities for Money   tags: security, bugbounty, money,...",
-   "points": 0,
+   "title": "What 50 open source projects taught us about security in the AI era",
+   "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+   "date": "2026-08-13T16:00:00+00:00",
+   "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open",
    "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Server Administration: The Skills That Actually Make You Dangerous in Production",
-   "url": "https://dev.to/yashvikothari/linux-server-administration-the-skills-that-actually-make-you-dangerous-in-production-47h6",
-   "date": "2026-08-12T08:57:53+00:00",
-   "summary": "Linux Server Administration: The Skills That Actually Make You Dangerous in...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -516,36 +504,13 @@
    "lang": "ar"
   },
   {
-   "title": "Private APN Pivoting: Polish Energy Grid RCE via Telecom Infrastructure",
-   "url": "https://dev.to/satyam_rastogi/private-apn-pivoting-polish-energy-grid-rce-via-telecom-infrastructure-4jc",
-   "date": "2026-08-10T13:56:10+00:00",
-   "summary": "CERT.PL confirmed exploitation of private APNs as attack vector against Polish critical infrastructure. Attack chains through telecom carrier segregat",
-   "points": 0,
+   "title": "How we took malware advisories beyond npm",
+   "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+   "date": "2026-08-06T16:51:12+00:00",
+   "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on ",
    "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "CSS Injection in Webmail: DOM Escape & Credential Harvesting",
-   "url": "https://dev.to/satyam_rastogi/css-injection-in-webmail-dom-escape-credential-harvesting-1l79",
-   "date": "2026-08-09T13:30:46+00:00",
-   "summary": "New CSS injection chains bypass webmail security boundaries, allowing attackers to escape email message context and manipulate authentication flows ac",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Meta’s Muse Spark 1.1 Cybersec…",
-   "url": "https://dev.to/norviktech/metas-muse-spark-11-cybersec-40a",
-   "date": "2026-08-08T19:06:06+00:00",
-   "summary": "Originally published at norvik.tech            Introduction   In-depth analysis of Meta’s Muse Spark...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
    "lang": "en"
   },
   {
@@ -611,6 +576,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Use Ansible Vault to Protect Sensitive Playbook Data",
+   "url": "https://www.digitalocean.com/community/tutorials/how-to-use-vault-to-protect-sensitive-ansible-data",
+   "date": "2026-06-29T00:00:00+00:00",
+   "summary": "Learn how to use Ansible Vault to encrypt sensitive playbook data, manage secrets with password files and vault IDs, and follow security best practices.",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
   },
   {
    "title": "Learn Cyber Security Full Course Free | Cyber Security Course 2026 | Intellipaat",
@@ -1471,6 +1446,26 @@
    "lang": "ar"
   },
   {
+   "title": "Cyber Security Full Course | Cyber Security Training For Beginners | Cyber Security Course | Edureka",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tV09uQXNLSlFEMUNaV0RsLVhrd01yN3RkTUJLaEpIclhDNmRjcl9kQWRIeUEtS2djQjFHVEx0NjdZa0VsNjVXUEhsQ19ybnlHS05zaW1n?oc=5",
+   "date": "2024-07-02T16:11:13+00:00",
+   "summary": "Cyber Security Full Course | Cyber Security Training For Beginners | Cyber Security Course | Edureka YouTube",
+   "tech": "cyber",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Introducing the MDN HTTP Observatory",
+   "url": "https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/",
+   "date": "2024-07-02T00:00:00+00:00",
+   "summary": "First released in 2016, the HTTP Observatory became popular in the web community with a combination of helpful security audits and educational material. Fast forward to 2024, and we are delighted to announce that Observatory's new home is M",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "Cyber Security Full Course | Cyber Security Training On 🔴LIVE | Cybersecurity | 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pRHAtVnpIU0w1M0x5blFWZzdNYkgxZ3BJWkVGcFJIc3c5SW1jWElVNDNYMEJJWVFMR285TEJqVFdCMHRfeXVlZmVRalpzU1Z6VW9RUkFB?oc=5",
    "date": "2024-06-26T18:20:09+00:00",
@@ -1671,6 +1666,16 @@
    "lang": "en"
   },
   {
+   "title": "Build AI-powered applications using OpenLLM and Vultr Cloud GPU",
+   "url": "https://developer.mozilla.org/en-US/blog/build-ai-powered-apps-openllm-vultr-gpu/",
+   "date": "2023-12-12T00:00:00+00:00",
+   "summary": "Learn how to build AI-powered apps using OpenLLM and Vultr Cloud GPU. This guide shows how to generate API responses using a Large Language Model. It also covers instructions for setting up an Nginx server and implementing SSL security.",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "🔥 Cybersecurity Course For Beginners 2026 | Cyber Security Full Course 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpSTA3ejRCLTIySF9UWjNxMnA3VXdJZzktaGxzNVpOS0pnbGItRVRhVkdpZXZVMFRTQ0stQUdZbkhkRmI5NEJZRTJXd20zZm5TRDlpUW1B?oc=5",
    "date": "2023-12-04T20:23:16+00:00",
@@ -1691,6 +1696,16 @@
    "lang": "ar"
   },
   {
+   "title": "Deploying Node.js applications with PM2 on Vultr",
+   "url": "https://developer.mozilla.org/en-US/blog/deploying-node-js-applications-with-pm2-on-vultr/",
+   "date": "2023-11-08T00:00:00+00:00",
+   "summary": "Learn how to deploy a Node.js application on Vultr using PM2 to create persistent services. This guide shows how to efficiently use resources via PM2 cluster mode. It also covers Nginx server setup and SSL security.",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "خدعة برامج الـ Rat | أسباب فشلك في تعلم الاختراق !",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xOEFHT29KNEI4VmRGa2dybkFwVnFGWUVOVHRYcWFvUkpTd1RhSlo5RUdLVDcycC1Gd01RbzYxYzAxSEdIUU1GdGlZMkNKVTN3cEZXTGd3?oc=5",
    "date": "2023-10-27T16:00:51+00:00",
@@ -1701,6 +1716,16 @@
    "lang": "ar"
   },
   {
+   "title": "Coming Soon: MDN Observatory 2.0",
+   "url": "https://developer.mozilla.org/en-US/blog/mdn-observatory/",
+   "date": "2023-10-25T00:00:00+00:00",
+   "summary": "Observatory 2.0 is launching soon as part of the Mozilla Developer Network as the MDN Observatory with new security scoring standards and other exciting updates.",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
    "title": "اختراق المخترق وطرده من جهازك وكشف هويته | تدريب عملي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpQk1DVmlZV3Jnb21xOVI2ejVNMGxRSE85bnFuNUhfZUJfOWJLdnBVNHc2UlhMQXVWWGFRMVF6UnRGMl90Q3gyV3NrY1pnUnBCM3FfMUR3?oc=5",
    "date": "2023-10-04T16:00:41+00:00",
@@ -1709,6 +1734,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Master Real-time Cyber Security in Just 18 Hours for FREE Part -1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKT0lMSGRINllYNDExMEVPTVY3MUN3bU5SNnh0NXpnYkNPaUliUG9QOWVGaGxpRURqSUZhVVBOU0lNcUM1MTRRa2swMVNFb1JJLTVZQkh3?oc=5",
+   "date": "2023-09-19T10:22:09+00:00",
+   "summary": "Master Real-time Cyber Security in Just 18 Hours for FREE Part -1 YouTube",
+   "tech": "cyber",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "اختبار الاختراق - Penetration Testing",
@@ -2209,46 +2244,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "الفرق بين الأمن السيبراني وأمن المعلومات، في دقيقتين !",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wVnQzQk5sbThncHl4SXdYQjgxWlo2d080M1ZJbjMyTE41amNob3BXN3JHR1A5RlVZdUhZNGQxQmtjbGE1NlBQVXVkXzVvb2RBY0prc2xn?oc=5",
-   "date": "2021-07-16T09:06:44+00:00",
-   "summary": "الفرق بين الأمن السيبراني وأمن المعلومات، في دقيقتين ! YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Introduction to Active Directory Attacks - مقدمة في اختبار اختراق الأكتيف ديريكتوري [AR]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wRU5mS1h4TmphM0NlbzNwcFJobzlKMlB1MWxVSXJrSml0UV9lQ0UyNGdvUHJzTnVaTWpuejQydC1Jb2ZtbDZSMXNLdXlmcmNOUHZERjJB?oc=5",
-   "date": "2021-03-25T22:54:19+00:00",
-   "summary": "Introduction to Active Directory Attacks - مقدمة في اختبار اختراق الأكتيف ديريكتوري [AR] YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Cyber Security Training For Beginners In Hindi | Cyber security Tutorials | Great Learning",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MEdjemR2bFFkeUhqUzVILWRiazhpQzVjdzNiQk1BbWZjbW56UmFqRHVnT1g5aVBJWlV4Z25BQ3V1VGlOZ0R6M1VoX2ctSUloTjF3aXVn?oc=5",
-   "date": "2021-02-16T12:01:06+00:00",
-   "summary": "Cyber Security Training For Beginners In Hindi | Cyber security Tutorials | Great Learning YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Cyber Security Full Course In 8 Hours | Cyber Security Training For Beginners | Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFU24zRjV4RlYwY200ZXNuRkhUbWI0WllTdzhNcS1HeGhvbzVHcFlVelNQUGJwejE4bS0wQVEwWGwtUTUtcDlQbXFaTnBBajctNEluODZR?oc=5",
-   "date": "2021-02-10T14:38:28+00:00",
-   "summary": "Cyber Security Full Course In 8 Hours | Cyber Security Training For Beginners | Edureka YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   }
  ]
 }
