@@ -63,10 +63,25 @@ PROG = re.compile(
     r"|بيانات|ذكاء اصطناعي|خوارزم|\bcode\b|\bprogramming\b",
     re.IGNORECASE,
 )
-CAPS = {"ar-yt": 160, "yt": 70, "blogs": 40, "devto": 35, "fcc": 15,
-        "medium": 15, "podcast": 12}
+CAPS = {"ar-yt": 160, "yt": 70, "sites": 45, "projects": 15, "fcc": 15,
+        "devto": 30, "medium": 15, "blogs": 30, "podcast": 12}
 # المصادر التعليمية المسموح بها — ما عداها يُستبعد (أخبار ونقاش ومستودعات)
-EDU_SOURCES = {"blogs", "devto", "fcc", "yt", "ar-yt", "medium", "podcast"}
+EDU_SOURCES = {"blogs", "devto", "fcc", "yt", "ar-yt", "medium", "podcast",
+               "sites", "projects"}
+
+# مواقع تقنية معروفة، تُرشَّح حسب المسار الحالي
+TECH_SITES = [
+    "https://www.digitalocean.com/community/tutorials/feed",
+    "https://css-tricks.com/feed/",
+    "https://www.smashingmagazine.com/feed/",
+    "https://developer.mozilla.org/en-US/blog/rss.xml",
+    "https://stackoverflow.blog/feed/",
+    "https://hackernoon.com/feed",
+    "https://code.tutsplus.com/posts.atom",
+    "https://blog.jetbrains.com/feed/",
+    "https://github.blog/feed/",
+]
+PROJECT_SITES = ["https://www.hackster.io/projects.atom"]
 
 # قنوات يوتيوب — مصدر المشاهدات والتقييم (تغذية القناة تحملها، بخلاف نتائج البحث).
 #
@@ -803,6 +818,13 @@ def build_tech(tech: str, cfg: dict, channels: dict[str, str]) -> int:
         jobs.append(pool.submit(
             lambda: parse_feed(get("https://www.freecodecamp.org/news/rss/"),
                                "fcc", "freeCodeCamp", tech, match)))
+        for url in TECH_SITES:
+            jobs.append(pool.submit(
+                lambda u=url: parse_feed(get(u), "sites", "مواقع تقنية", tech, match)))
+        for url in PROJECT_SITES:
+            jobs.append(pool.submit(
+                lambda u=url: [dict(i, kind="project")
+                               for i in parse_feed(get(u), "projects", "مشاريع", tech, match)]))
         if cfg.get("medium"):
             jobs.append(pool.submit(
                 lambda: parse_feed(get(f"https://medium.com/feed/tag/{cfg['medium']}"),

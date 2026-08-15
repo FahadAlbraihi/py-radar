@@ -15,7 +15,13 @@ const PAGE_SIZE = 30;
 const MAX_STORE = 800;
 
 /* اليوتيوب أولوية المصادر، فله أوسع حصة */
-const CAPS = { 'ar-yt':160, yt:70, blogs:40, devto:35, fcc:15, medium:15, podcast:12 };
+const CAPS = { 'ar-yt':160, yt:70, sites:45, projects:15, fcc:15,
+               devto:30, medium:15, blogs:30, podcast:12 };
+
+/* ترتيب أولوية المصادر: اليوتيوب أولاً، ثم المواقع التقنية المعروفة
+   والمشاريع، ثم منصات المجتمع، ثم المدونات والبودكاست. */
+const SOURCE_RANK = { 'ar-yt':0, yt:0, sites:1, projects:1, fcc:1,
+                      devto:2, medium:2, blogs:3, podcast:3 };
 
 /* ---------- لغات البرمجة ---------- */
 const TECHS = [
@@ -306,6 +312,22 @@ const MEDIUM_TAG = {
   dart:'dart', c:'c-programming', groovy:'groovy', clojure:'clojure', fsharp:'fsharp', erlang:'erlang', ocaml:'ocaml', fortran:'fortran', cobol:'cobol', pascal:'pascal', zig:'zig', nim:'nim', crystal:'crystal', lisp:'lisp', prolog:'prolog', scratch:'scratch', arduino:'arduino', verilog:'verilog', graphql:'graphql', sass:'tailwind-css',
   typescript:'typescript', web:'css', reactnative:'react-native', lua:'lua', r:'r', scala:'scala', perl:'perl', elixir:'elixir', solidity:'solidity', assembly:'assembly', matlab:'matlab', objectivec:'objective-c', haskell:'haskell', julia:'julia', vb:'visual-basic',
 };
+/* مواقع تقنية معروفة تُرشَّح حسب المسار الحالي — تُجرَّب صحتها قبل إضافتها */
+const TECH_SITES = [
+  'https://www.digitalocean.com/community/tutorials/feed',   // مكتبة دروس ضخمة
+  'https://css-tricks.com/feed/',
+  'https://www.smashingmagazine.com/feed/',
+  'https://developer.mozilla.org/en-US/blog/rss.xml',
+  'https://stackoverflow.blog/feed/',
+  'https://hackernoon.com/feed',
+  'https://code.tutsplus.com/posts.atom',
+  'https://blog.jetbrains.com/feed/',
+  'https://github.blog/feed/',
+];
+const PROJECT_SITES = [
+  'https://www.hackster.io/projects.atom',                   // مشاريع عملية
+];
+
 const PODCASTS = {
   python: ['https://talkpython.fm/episodes/rss', 'https://pythonbytes.fm/episodes/rss'],
   javascript: ['https://feed.syntax.fm/rss'],
@@ -595,6 +617,10 @@ function jobsFor(techId){
     jobs.push({ name:'مدونات تعليمية', fn:() => fetchFeeds(t.blogs, 'blogs', 'مدونات', t.id, false) });
   jobs.push({ name:'freeCodeCamp', fn:() => fetchFeeds(
     ['https://www.freecodecamp.org/news/rss/'], 'fcc', 'freeCodeCamp', t.id, true) });
+  jobs.push({ name:'مواقع تقنية', fn:() => fetchFeeds(
+    TECH_SITES, 'sites', 'مواقع تقنية', t.id, true) });
+  jobs.push({ name:'مشاريع', fn:() => fetchFeeds(
+    PROJECT_SITES, 'projects', 'مشاريع', t.id, true, { kind:'project' }) });
   if (MEDIUM_TAG[t.id])
     jobs.push({ name:'Medium', fn:() => fetchFeeds(
       [`https://medium.com/feed/tag/${MEDIUM_TAG[t.id]}`], 'medium', 'Medium', t.id, true) });
@@ -779,8 +805,8 @@ function visible(){
 
   /* اليوتيوب أولوية المصادر: الدروس المرئية تتقدّم على المقالات
      مع الحفاظ على الترتيب المختار داخل كل مجموعة. */
-  const isVideo = i => i.sourceId === 'ar-yt' || i.sourceId === 'yt';
-  list = [...list.filter(isVideo), ...list.filter(i => !isVideo(i))];
+  // ترتيب ثانوي بأولوية المصدر — الفرز ثابت فيبقى ترتيبك المختار داخل كل مجموعة
+  list.sort((a, b) => (SOURCE_RANK[a.sourceId] ?? 9) - (SOURCE_RANK[b.sourceId] ?? 9));
 
   // ترقية محتوى المرحلة الحالية إلى الأعلى (دون إخفاء الباقي)
   if (stage?.id && !prefs.stageOnly){
@@ -941,7 +967,7 @@ function renderSourceChips(){
     counts.set(i.sourceId, (counts.get(i.sourceId) || 0) + 1);
   }
   const names = { hn:'Hacker News', devto:'DEV.to', so:'Stack Overflow', github:'GitHub',
-                  'ar-yt':'دروس عربية',
+                  'ar-yt':'دروس عربية', sites:'مواقع تقنية', projects:'مشاريع',
                   blogs:'مدونات', reddit:'Reddit', fcc:'freeCodeCamp',
                   yt:'يوتيوب', 'yt-search':'بحث يوتيوب', medium:'Medium', podcast:'بودكاست' };
 
