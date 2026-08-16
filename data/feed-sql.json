@@ -1,8 +1,183 @@
 {
- "generated": "2026-08-15T04:16:47.101199+00:00",
+ "generated": "2026-08-16T04:54:24.329309+00:00",
  "tech": "sql",
  "count": 220,
  "items": [
+  {
+   "title": "Why 'WHERE x = NULL' Never Works in SQL (And What to Use Instead)",
+   "url": "https://dev.to/systemcraftdev/why-where-x-null-never-works-in-sql-and-what-to-use-instead-3p4h",
+   "date": "2026-08-16T02:58:02+00:00",
+   "summary": "This isn't a bug in your query — it's SQL's three-valued logic doing exactly what it's designed to do. Here's how to actually filter for NULL.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Split a Name Column? The Migration Contract Catches What Review Misses",
+   "url": "https://dev.to/codepy_1473/split-a-name-column-the-migration-contract-catches-what-review-misses-3d3p",
+   "date": "2026-08-15T22:58:14+00:00",
+   "summary": "A migration that looks correct in review can still corrupt data because review sees intent, not edge...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "\"Power BI Error: The Key Didn't Match Any Rows in the Table\"",
+   "url": "https://dev.to/pbidocs/power-bi-error-the-key-didnt-match-any-rows-in-the-table-3fmi",
+   "date": "2026-08-15T22:14:50+00:00",
+   "summary": "tags: powerbi, dax, troubleshooting, tutorial           canonical_url:...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "10 Oracle 23ai Features That Make Everyday SQL Easier",
+   "url": "https://hackernoon.com/10-oracle-23ai-features-that-make-everyday-sql-easier?source=rss",
+   "date": "2026-08-15T20:23:23+00:00",
+   "summary": "Discover 10 practical SQL enhancements in Oracle 23ai that improve everyday database development.",
+   "tech": "sql",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #12: Production Patterns, Error Handling and What Comes Next",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-12-production-patterns-error-handling-and-what-comes-next-2aok",
+   "date": "2026-08-15T20:16:34+00:00",
+   "summary": "LioranDB TypeScript Series #12: Production Patterns, Error Handling and What Comes...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #11: Deploy LioranDB with Docker Compose, Caddy and TLS",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-11-deploy-liorandb-with-docker-compose-caddy-and-tls-4egh",
+   "date": "2026-08-15T20:14:45+00:00",
+   "summary": "LioranDB TypeScript Series #11: Deploy LioranDB with Docker Compose, Caddy and...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #10: Mastering the Official LioranDB CLI",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-10-mastering-the-official-liorandb-cli-4i24",
+   "date": "2026-08-15T20:13:15+00:00",
+   "summary": "LioranDB TypeScript Series #10: Mastering the Official LioranDB CLI    LioranDB TypeScript...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #9: Backups, Cluster Health and Operational APIs",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-9-backups-cluster-health-and-operational-apis-5c6p",
+   "date": "2026-08-15T20:11:45+00:00",
+   "summary": "LioranDB TypeScript Series #9: Backups, Cluster Health and Operational APIs    LioranDB...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #8: Authentication, Users, Roles and Sessions",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-8-authentication-users-roles-and-sessions-38g6",
+   "date": "2026-08-15T20:10:12+00:00",
+   "summary": "LioranDB TypeScript Series #8: Authentication, Users, Roles and Sessions    LioranDB...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-7-building-aggregation-pipelines-in-typescript-4gcb",
+   "date": "2026-08-15T20:08:53+00:00",
+   "summary": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript    LioranDB...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60",
+   "date": "2026-08-15T20:07:39+00:00",
+   "summary": "LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes    LioranDB...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-5-cursors-query-shaping-and-full-text-search-57pk",
+   "date": "2026-08-15T20:06:04+00:00",
+   "summary": "LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search    LioranDB...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #4: Type-Safe CRUD with Databases and Collections",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-4-type-safe-crud-with-databases-and-collections-562f",
+   "date": "2026-08-15T20:04:21+00:00",
+   "summary": "LioranDB TypeScript Series #4: Type-Safe CRUD with Databases and Collections    LioranDB...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #3: Connection Strings, Transports and Client Lifecycle",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-3-connection-strings-transports-and-client-lifecycle-cjf",
+   "date": "2026-08-15T20:02:08+00:00",
+   "summary": "LioranDB TypeScript Series #3: Connection Strings, Transports and Client...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #1: Meet LioranDB V2, a Rust-Powered Document Database for TypeScript",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-1-meet-liorandb-v2-a-rust-powered-document-database-for-typescript-4ed5",
+   "date": "2026-08-15T20:00:06+00:00",
+   "summary": "LioranDB TypeScript Series #1: Meet LioranDB V2, a Rust-Powered Document Database for...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #2: Run LioranDB Locally with Docker and TypeScript",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-2-run-liorandb-locally-with-docker-and-typescript-5bd8",
+   "date": "2026-08-15T19:59:02+00:00",
+   "summary": "LioranDB TypeScript Series #2: Run LioranDB Locally with Docker and TypeScript    LioranDB...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Stop Recreating Database Connections: An Illustrated Guide to Connection Pooling",
    "url": "https://dev.to/saurav_tb_pandey/stop-recreating-database-connections-an-illustrated-guide-to-connection-pooling-4i64",
@@ -172,171 +347,6 @@
    "url": "https://dev.to/aws-builders/aws-news-s1e2-k67",
    "date": "2026-08-14T15:00:00+00:00",
    "summary": "Last week we kicked off a series covering the (data/storage/network) announcements that, in my view,...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What is Information Schema in PostgreSQL?",
-   "url": "https://dev.to/hrrydgls/what-is-information-schema-in-postgresql-57e8",
-   "date": "2026-08-14T13:34:34+00:00",
-   "summary": "In PostgreSQL, information_schema is an ANSI/ISO SQL-standard, read-only set of views containing...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The API Endpoint Explosion: What If AI Agents Could use SQL on User Data Directly?",
-   "url": "https://dev.to/slipxnot/the-api-endpoint-explosion-what-if-ai-agents-could-query-user-data-directly-56dp",
-   "date": "2026-08-14T13:25:26+00:00",
-   "summary": "Imagine you're architecting an MCP server for a financial platform.  A customer connects their AI...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How We Reduced Our SQLite Database from 8.7GB to 3.8GB Without Downtime",
-   "url": "https://dev.to/xxxn3m3s1sxxx/how-we-reduced-our-sqlite-database-from-87gb-to-38gb-without-downtime-187g",
-   "date": "2026-08-14T13:23:24+00:00",
-   "summary": "How We Reduced Our SQLite Database from 8.7GB to 3.8GB Without Downtime   Our OpenCode...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Keeping Your Own Files Straight",
-   "url": "https://dev.to/michaelnocito/keeping-your-own-files-straight-ea4",
-   "date": "2026-08-14T13:00:34+00:00",
-   "summary": "A working file structure for data migration projects: naming that sorts itself, one folder per stage, never overwriting an extract, keeping rejected-row files, and logging bulk loader problems as evidence.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stage 3: Map the Fields",
-   "url": "https://dev.to/michaelnocito/stage-3-map-the-fields-3039",
-   "date": "2026-08-14T13:00:26+00:00",
-   "summary": "How to build a field mapping document for a data migration: what each row needs, how to handle fields with no home, why one unique ID ties everything together, and why nothing moves until the map is signed off.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Emails That Keep a Migration Moving",
-   "url": "https://dev.to/michaelnocito/the-emails-that-keep-a-migration-moving-11oi",
-   "date": "2026-08-14T13:00:19+00:00",
-   "summary": "Email templates for running a client project: the meeting follow up, the stage sign off, the chase, and the handoff. Each one names next actions with dates, links the plan, and asks for confirmation.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stage 5: The Dry Run",
-   "url": "https://dev.to/michaelnocito/stage-5-the-dry-run-47og",
-   "date": "2026-08-14T13:00:11+00:00",
-   "summary": "How to run a data migration dry run in a sandbox: what to load, the four reconciliation checks that have to pass, how to log issues so the second run is faster, and why manual fixes during a dry run are a failure signal.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stage 7: Freeze, Cutover, Bridge",
-   "url": "https://dev.to/michaelnocito/stage-7-freeze-cutover-bridge-14ac",
-   "date": "2026-08-14T13:00:03+00:00",
-   "summary": "How to run a data migration cutover: freezing the source system as read only, what staff do during the gap, how a bridge import covers records created mid-migration, and the checks that have to pass before you call it li",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Free-Server Regression Job for LLM-Generated SQL",
-   "url": "https://dev.to/dataio_4921/a-free-server-regression-job-for-llm-generated-sql-4g55",
-   "date": "2026-08-14T11:29:00+00:00",
-   "summary": "LLM-generated SQL breaks in ways that ordinary unit tests miss. A model can return a syntactically...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Understanding Database Indexes Without the Jargon",
-   "url": "https://dev.to/sam000/understanding-database-indexes-without-the-jargon-1lbl",
-   "date": "2026-08-14T10:47:49+00:00",
-   "summary": "Database indexes are one of the simplest ways to improve query performance.  They can also become one...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Replace the Heuristic With a Boundary: Rebuilding a Leave Table as an Append-Only Ledger",
-   "url": "https://dev.to/dbartalos/replace-the-heuristic-with-a-boundary-rebuilding-a-leave-table-as-an-append-only-ledger-2b9j",
-   "date": "2026-08-14T10:29:58+00:00",
-   "summary": "We deleted the reconciliation step from a data migration and replaced it with a single timestamp....",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Nine of Thirteen Corrections Were Wrong: The Fix That Came With a Proof It Couldn't Work",
-   "url": "https://dev.to/dbartalos/nine-of-thirteen-corrections-were-wrong-the-bug-fix-that-proved-our-design-undecidable-42ca",
-   "date": "2026-08-14T10:29:48+00:00",
-   "summary": "Nine of the thirteen corrections our migration code had ever written in production were wrong. We...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "SQL JOIN Practice: From Basic to Advanced — 39 Real-World Queries with Solutions",
-   "url": "https://dev.to/dev_saravanan_journey/sql-join-practice-from-basic-to-advanced-39-real-world-queries-with-solutions-5ch3",
-   "date": "2026-08-14T10:16:29+00:00",
-   "summary": "Students &amp; Courses   Display student name and course name.    SELECT s.student_name,...",
-   "points": 5,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "You loved my markdown previewer, so I’m giving it a major upgrade.",
-   "url": "https://dev.to/codemaster_121482/you-loved-my-markdown-previewer-so-im-giving-it-a-major-upgrade-4jge",
-   "date": "2026-08-14T08:07:34+00:00",
-   "summary": "Building a smooth, lovely experience isn’t just about rich text rendering—it’s about ensuring the...",
-   "points": 5,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Serverless Bill Shock: Tracking Edge Function and Database Expirations (Vercel, Supabase, Netlify, Neon)",
-   "url": "https://dev.to/instarenewal/serverless-bill-shock-tracking-edge-function-and-database-expirations-vercel-supabase-netlify-1ca8",
-   "date": "2026-08-14T07:45:36+00:00",
-   "summary": "Article image Serverless Bill Shock: Tracking Edge Function and Database Expirations (Vercel,...",
    "points": 0,
    "tech": "sql",
    "sourceId": "devto",
@@ -746,6 +756,16 @@
    "lang": "ar"
   },
   {
+   "title": "SQL Full Course for Beginners (Complete Guide For Data Engineers)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRT2VGb1QwcGlBZWxkM2NscDVHa1drUVpVWG1kZGl2cG0ydFFIZW5FcUFINEQ0UUttb2IyR3dfSHNGOUxCU2ExRUFTWGRQYWtkZUZRaU9n?oc=5",
+   "date": "2025-10-19T12:30:46+00:00",
+   "summary": "SQL Full Course for Beginners (Complete Guide For Data Engineers) YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Day - 04 : Mongo DB Tutorial | No SQL Database From Zero To Hero",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SX0ZHMFpqNThLc1RtOWktcWxKRm1uZFlZOEpKNEpGOVY3dU1QUGdITmVVX2RpQ2c2aU1HWXVPNEdBbkdBTVdtTjlwdURNN0N3dHRBNHJR?oc=5",
    "date": "2025-09-19T08:54:46+00:00",
@@ -980,6 +1000,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVU4yM0N0Mk5WZE10MmNsU01EcW5uc09DWkJYUThmRXpNbW84WnJhLVRBTFBPaV9NT3FmMkwydWZTclJUbDRuRmE0V09aelFqWi1zVEJn?oc=5",
    "date": "2024-12-27T06:14:25+00:00",
    "summary": "الدرس الحادي عشر: شرح الـ Indexes في SQL Server | تسريع الاستعلامات وتحسين أداء قواعد البيانات YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "SQL Stored Procedure (Visually Explained) | Comprehensive Guide | #SQL Course 33",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BbUt1dEw0THpBSzlwMW9mRDRRN2ktcHBJZi1IQS1JbW9GYzNncVVYNlNtdDFIU1ZTOXlwZEw3eTNzREdtOVZEbG9ncnR4QmRSRS16dlFB?oc=5",
+   "date": "2024-12-10T11:22:34+00:00",
+   "summary": "SQL Stored Procedure (Visually Explained) | Comprehensive Guide | #SQL Course 33 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "00 - قواعد البيانات (Database) للمبتدئين || شرح شامل بأبسط طريقة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BRS02OTk4RzVUb0dxbTl1NGRXR2dTWUxGREY5YUVFS2hLTngxMEZGYlZXX0JXdlJFSmx6eWtxMUpadlJsLUhkNFdTSkRDOWFmU2lwLWVn?oc=5",
+   "date": "2024-12-07T09:07:26+00:00",
+   "summary": "00 - قواعد البيانات (Database) للمبتدئين || شرح شامل بأبسط طريقة YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1766,6 +1806,16 @@
    "lang": "en"
   },
   {
+   "title": "SQL Tutorials | Beginners | What is SQL? | in Hindi/Urdu | Part-1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02eE5Lc0Y5QXRqWEZvNTNuSWVfb3gwWU05UFFkZVUxci1RSFI1R3l2MFozR1FpcUd5YVhwSHBEb3dLc3pMQnc4NkJTa01zcFUtd2p4bzdR?oc=5",
+   "date": "2022-08-05T13:27:02+00:00",
+   "summary": "SQL Tutorials | Beginners | What is SQL? | in Hindi/Urdu | Part-1 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "أسئلة امتحانات الوظائف المتعلقة بـــِ SQL",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVNHp1VTZkUmE5ejRmU3k5M25Jd3oxZFdrS19HQjVmRHpMbkQ3V2VWRVo4OXdjcFRBNzRvaDdaWTNsczhmYVJJbFJDanU5bFdlOUJXUVFB?oc=5",
    "date": "2022-07-25T12:30:12+00:00",
@@ -1850,6 +1900,16 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nOU9ONVg3SjF3UTgtZlRDUVRZbzFub01LSl95OGdUeUd2TkhvcF9SamppZk5VMV9Gc0pCNVlvUXpDQ2lrRlNVRnFJcTJpalRXY3o3blk5Sm5qRXVQVldvUVkyS0tVZ0NfaGp1bDF5QVlrR2FTRkNGNllac3o?oc=5",
    "date": "2022-03-23T16:10:04+00:00",
    "summary": "SQL Tutorial - Full SQL Course for Beginners and Advanced Users YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTby0xTlFHdzVVNTJGZWlOYldCS1VOV2ZhaG1SOGJNc0g3c1RTWWkwSHBTZkRzSUhZS3VyeWdpTUtKMlJ5ZC1oeDZiYTEyNnI3TzNBNmF3?oc=5",
+   "date": "2022-03-22T07:00:11+00:00",
+   "summary": "SQL Tutorial for Beginners YouTube",
    "tech": "sql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1956,6 +2016,16 @@
    "lang": "en"
   },
   {
+   "title": "أمر حذف البيانات من الجدول delete شرح mysql بالعربي [الدرس 14]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92M0o2eHNIdG5hMmNrM3dVbzI4NkdHMEczV3cxa2E0WndkT2g1c1d4QVhvVXdIcmRxVzF5U3ViZndDVHozNTJMemxBOHkxb1VvZWphUlJR?oc=5",
+   "date": "2021-12-17T12:20:31+00:00",
+   "summary": "أمر حذف البيانات من الجدول delete شرح mysql بالعربي [الدرس 14] YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح درس الاستعلامات ولغة SQL || الجزء الأول || توجيهي || علمي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhX0RiUkIwZ284RUQ5Mldya3Z5R3hhY3A4eUZxd3RabFppdnBpQXNCaVZYM1MwbkV2eEZfV2IwUFY1M0tHLVVNWFVtXzc4TjdicjJaaWRR?oc=5",
    "date": "2021-12-11T20:15:06+00:00",
@@ -1974,16 +2044,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTjFSQi1lQTU5aldGaUVZY2RGUVlWQ1BES0NXck1OUVlfSzkyaHdjLUdOZnJndVVNcDdGUEhzR0E4THdtS1ZDSDlaZEhpX2dtTDRpZEl3?oc=5",
-   "date": "2021-10-26T14:19:14+00:00",
-   "summary": "Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "ليش نتعلم ادارة وتطوير قواعد البيانات ؟ وايش الفرص الوظيفية ؟",
@@ -2006,16 +2066,6 @@
    "lang": "ar"
   },
   {
-   "title": "Oracle SQL Tutorial | Oracle DBA | Oracle SQL for Beginners | Great Learning",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRzhoZlhQV1RXYXhLUkQxSGxCSGNpYlNNM1lPQ1RmaC02T0wtcGVBYW4yU2t1TEhrandKM0xUbEthN0g3bkNfZ0F5WG5ubkJQRWxWZTJB?oc=5",
-   "date": "2021-08-28T13:30:54+00:00",
-   "summary": "Oracle SQL Tutorial | Oracle DBA | Oracle SQL for Beginners | Great Learning YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "#001 Introduction To Database [ شرح بالعربي ] #dml #sqlserver #sql #jumpstart",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMmF1d1NGdWE1SXBRT3lENmV6VE5BVzJzMXVwMlh5a1JZMk9Ib3B6Q0VkTi0zdi12M0k5LVZIOXM3NWhaNGdyVTRyVDZPa1BHM3A4aDd3?oc=5",
    "date": "2021-08-27T05:39:42+00:00",
@@ -2034,36 +2084,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "04 - | MS SQL Server For Beginners | - | Create Database & Drop Database commands |",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12S2JkX1lBT2RQVTFBYmhfMUdBejM2V2pXX0J1RFBwUXY2SDZQYlI1b1lOZmhjaTFucHBUN2JzS1hNTzZ1eEp4QnNvQ3pMTnhXOWU2OThR?oc=5",
-   "date": "2021-08-05T15:28:38+00:00",
-   "summary": "04 - | MS SQL Server For Beginners | - | Create Database & Drop Database commands | YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "02 - | MS SQL Server For Beginners | - | System Databases - Create Your First Database |",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWHE4d1RDdlhLZ1FXLVJNWFVac2hxZ0syWVFSZkREVDliV01RY1VoV2NrbTFlUkRCbDlZZmNhUGZUbGRkbmJ1TlpUTXBpa0ZCVGhsLW93?oc=5",
-   "date": "2021-08-03T22:05:00+00:00",
-   "summary": "02 - | MS SQL Server For Beginners | - | System Databases - Create Your First Database | YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OS0VfQmtoWGE3SV8tMFlkUHY3Y1dtRWJiSGFad3F1MkJxX3FpRE9CV3hSTDhOaDM4RF9jYkZFejYtcUgzVjB6Z1ppUmdDb3A5N3BJY2ZR?oc=5",
-   "date": "2021-08-02T12:07:38+00:00",
-   "summary": "01 - | MS SQL Server For Beginners | - | Installing MS SQL Server and MS Management Studio YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "MySQL Workbench | كل ما تحتاج معرفته عن تصميم وتحليل قواعد البيانات",
@@ -2220,26 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQYU9WSVo2M2F6T3k2cFVGRGVCUU9CRF9hT2ZXMzlxTGFpNXV2SUw2Qi02aHhkU2JUcnBHZDB0S2NwQzc4MWhDZFBObzgwb2VTc3F0UC1n?oc=5",
    "date": "2021-01-20T16:25:33+00:00",
    "summary": "طريقة عمل نسخة احتياطية واستعادة قواعد بيانات MySQL | دورة تعلم SQL و MySQL كاملة 25 YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس PHP + SQL كامل : التعامل مع قواعد البيانات بكل سهولة وابسط شرح في فيديو واحد",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DYjBOU3BuQ2g4eTBzWmxZcENsdWh3b0oyV0FPZUhlM2FFYzRLMVBCRU0zaGp4ci03TWp6Y3VYQi1xbXBjWWU4c1Q3NGdTVWlFVlNRYVF3?oc=5",
-   "date": "2021-01-11T14:03:03+00:00",
-   "summary": "كورس PHP + SQL كامل : التعامل مع قواعد البيانات بكل سهولة وابسط شرح في فيديو واحد YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الاتصال بقاعدة بيانات SQL server بإستخدام لغة البرمجة سي شارب",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ha3IzY2gtVDlQXzBiRGN6ZG9GRDl3Qzc4OFRTLXFkSDZicGc0ZllWUUQ4MDRkYkxoTkc1WHhFSENmbEF4WGJxdUIxcGVYc3Z3WG9ERFFB?oc=5",
-   "date": "2020-12-14T21:16:01+00:00",
-   "summary": "الاتصال بقاعدة بيانات SQL server بإستخدام لغة البرمجة سي شارب YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

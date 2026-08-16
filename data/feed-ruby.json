@@ -1,8 +1,48 @@
 {
- "generated": "2026-08-15T04:18:56.731372+00:00",
+ "generated": "2026-08-16T04:56:36.250291+00:00",
  "tech": "ruby",
- "count": 108,
+ "count": 112,
  "items": [
+  {
+   "title": "Your Rails Database Isn’t a Landfill: Introducing Cold Storage",
+   "url": "https://medium.com/@afshmini/your-rails-database-isnt-a-landfill-introducing-cold-storage-dd1ebdae957f?source=rss------ruby-5",
+   "date": "2026-08-15T16:06:18+00:00",
+   "summary": "There&#x2019;s a particular kind of dread that sets in when someone on your team runs EXPLAIN ANALYZE on a query that used to take 40ms and now&#x2026; Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Feature Flags in Rails Using Flipper",
+   "url": "https://medium.com/@raviskit2012/feature-flags-in-rails-using-flipper-31c3f1822d8d?source=rss------ruby-5",
+   "date": "2026-08-15T07:35:20+00:00",
+   "summary": "Deploy Today. Release Tomorrow. &#x1F6A9;&#x26A1; Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I’m the person who built T-Ruby.",
+   "url": "https://medium.com/@Fred.it/im-the-person-who-built-t-ruby-615a8b73c45c?source=rss------ruby-5",
+   "date": "2026-08-15T07:05:47+00:00",
+   "summary": "Why I stopped building T-Ruby. Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "저는 T-Ruby 를 만들었던 사람입니다.",
+   "url": "https://medium.com/@Fred.it/%EC%A0%80%EB%8A%94-t-ruby-%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%82%AC%EB%9E%8C%EC%9E%85%EB%8B%88%EB%8B%A4-0bc095da17a0?source=rss------ruby-5",
+   "date": "2026-08-15T06:17:37+00:00",
+   "summary": "&#xC774; &#xAE00;&#xC740; 2026&#x2013;08&#x2013;13 &#xC5D0; &#xC791;&#xC131;&#xB41C; &#xC6D0;&#xBCF8;&#xC785;&#xB2C8;&#xB2E4;. Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Picking the model that's already the right shape",
    "url": "https://dev.to/johnbuilds/picking-the-model-thats-already-the-right-shape-35bi",

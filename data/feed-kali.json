@@ -1,8 +1,162 @@
 {
- "generated": "2026-08-15T04:20:27.019762+00:00",
+ "generated": "2026-08-16T04:58:07.602553+00:00",
  "tech": "kali",
- "count": 216,
+ "count": 220,
  "items": [
+  {
+   "title": "The Permission Boundary My MCP Server Doesn't Actually Have",
+   "url": "https://dev.to/enjoy_kumawat/the-permission-boundary-my-mcp-server-doesnt-actually-have-3k98",
+   "date": "2026-08-16T03:36:23+00:00",
+   "summary": "There's a theme showing up a lot in agent-tooling posts this week: agents holding tools they can...",
+   "points": 1,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Proof-of-Fix in GSC: An Architecture for Provable Vulnerability Remediation Verification",
+   "url": "https://dev.to/alexey_polyakov_cfe2095e3/proof-of-fix-in-gsc-an-architecture-for-provable-vulnerability-remediation-verification-29ck",
+   "date": "2026-08-16T02:12:08+00:00",
+   "summary": "Abstract   GSC is a self-learning AppSec platform implementing the full pipeline detect →...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Deny-by-Default Manifest for AI-Generated Services on a Free Server",
+   "url": "https://dev.to/github_7727/a-deny-by-default-manifest-for-ai-generated-services-on-a-free-server-49ko",
+   "date": "2026-08-16T02:11:19+00:00",
+   "summary": "Why this is worth reading: a free model can hand you a working service in one prompt, and a free...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I shipped an MCP server that reported success without signing anything",
+   "url": "https://dev.to/edycutjong/i-shipped-an-mcp-server-that-reported-success-without-signing-anything-6oh",
+   "date": "2026-08-16T00:30:27+00:00",
+   "summary": "I built an MCP server that lets an AI assistant trade tokens and claim creator fees on Solana. Then I...",
+   "points": 1,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Don't Hand Your Inbox to an Agent",
+   "url": "https://dev.to/net_tab_ddf9dfbe0c308827e/dont-hand-your-inbox-to-an-agent-5dl8",
+   "date": "2026-08-16T00:01:34+00:00",
+   "summary": "A Reddit thread on connecting Claude Code to a Yahoo Mail account turned into a solid field guide for...",
+   "points": 1,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.",
+   "url": "https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la",
+   "date": "2026-08-15T23:00:58+00:00",
+   "summary": "Anonymous paste services get scripted into spam dumps, phishing kits, and credential lists. Instead of forcing accounts or reCAPTCHA, I made posting cost energy — a little CPU (free) or 10 sats over Lightning. Full flow ",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "JWT Authentication in Express That You Can Actually Revoke",
+   "url": "https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i",
+   "date": "2026-08-15T21:38:04+00:00",
+   "summary": "Access tokens, refresh token rotation, and theft detection: the parts most Node.js tutorials leave...",
+   "points": 1,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
+   "url": "https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f",
+   "date": "2026-08-15T21:30:22+00:00",
+   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works.  I have a lot of...",
+   "points": 1,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Safely Fetch Metadata from User-Submitted URLs (Without Getting Hit by SSRF or DNS Rebinding)",
+   "url": "https://dev.to/josejux/how-to-safely-fetch-metadata-from-user-submitted-urls-without-getting-hit-by-ssrf-or-dns-rebinding-1nfo",
+   "date": "2026-08-15T17:53:33+00:00",
+   "summary": "If your app lets a user paste in a URL — a link preview, a \"import from website\" button, an AI agent...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Writing an IAM Policy That's Actually Least Privilege",
+   "url": "https://dev.to/mariogongora/writing-an-iam-policy-thats-actually-least-privilege-386k",
+   "date": "2026-08-15T17:23:33+00:00",
+   "summary": "I wrote the IAM policy for my solar agent myself, on the first try, thinking I had done it right.  I...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "L4 vs L7 Stress Testing: What Actually Breaks First",
+   "url": "https://dev.to/zerodawnipstress/l4-vs-l7-stress-testing-what-actually-breaks-first-3k7p",
+   "date": "2026-08-15T17:17:24+00:00",
+   "summary": "Why Layer 4 and Layer 7 stress tests are different disciplines, and how to find which resource exhausts first.",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "trelix v2.11.0 to v3.1.1: Six Feature Areas, Every One of Them Off By Default",
+   "url": "https://dev.to/sai_ram_0000/trelix-v2110-to-v311-six-feature-areas-every-one-of-them-off-by-default-1go1",
+   "date": "2026-08-15T15:33:10+00:00",
+   "summary": "Seed three events into an audit database, then reach past the application and change one row by...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My AI Agent Tried to Delete Every Customer Record. Here's What Stopped It.",
+   "url": "https://dev.to/frederikvonderheyden/my-ai-agent-tried-to-delete-every-customer-record-heres-what-stopped-it-39ip",
+   "date": "2026-08-15T12:04:37+00:00",
+   "summary": "Last Tuesday, 2:47 AM.  I was asleep. My AI coding agent was not. It had been running autonomously...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "If you render user HTML, you have an SSRF problem. Here is the code that fixes it.",
+   "url": "https://dev.to/stackedboost/if-you-render-user-html-you-have-an-ssrf-problem-here-is-the-code-that-fixes-it-15e8",
+   "date": "2026-08-15T11:57:08+00:00",
+   "summary": "Every HTML-to-PDF service has the same shape. Someone hands you markup, you open it in headless...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "How Buffer Overflows Actually Hijack Program Execution",
    "url": "https://dev.to/sakramen/how-buffer-overflows-actually-hijack-program-execution-29op",
@@ -180,58 +334,13 @@
    "lang": "en"
   },
   {
-   "title": "Linux Server Administration: The Skills That Actually Make You Dangerous in Production",
-   "url": "https://dev.to/yashvikothari/linux-server-administration-the-skills-that-actually-make-you-dangerous-in-production-47h6",
-   "date": "2026-08-12T08:57:53+00:00",
-   "summary": "Linux Server Administration: The Skills That Actually Make You Dangerous in...",
-   "points": 0,
+   "title": "Wireshark Explained: How Hackers Steal Passwords (2026)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oLVV6UXVLbGh3UXN3V2FEb2NaTFlwS1RVMmtVcERSb1kwbGJxVDg1WkY5LWxkM25DLVRodjd4N0pMcjctaUVnTmYydk1vLUZyVXBPTzBn?oc=5",
+   "date": "2026-08-08T14:30:14+00:00",
+   "summary": "Wireshark Explained: How Hackers Steal Passwords (2026) YouTube",
    "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Prepare for Your First Penetration Test",
-   "url": "https://dev.to/sheersafe/how-to-prepare-for-your-first-penetration-test-54mf",
-   "date": "2026-08-11T11:55:48+00:00",
-   "summary": "A first penetration test goes well when three things happen before testing starts: you scope it...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Private APN Pivoting: Polish Energy Grid RCE via Telecom Infrastructure",
-   "url": "https://dev.to/satyam_rastogi/private-apn-pivoting-polish-energy-grid-rce-via-telecom-infrastructure-4jc",
-   "date": "2026-08-10T13:56:10+00:00",
-   "summary": "CERT.PL confirmed exploitation of private APNs as attack vector against Polish critical infrastructure. Attack chains through telecom carrier segregat",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "CSS Injection in Webmail: DOM Escape & Credential Harvesting",
-   "url": "https://dev.to/satyam_rastogi/css-injection-in-webmail-dom-escape-credential-harvesting-1l79",
-   "date": "2026-08-09T13:30:46+00:00",
-   "summary": "New CSS injection chains bypass webmail security boundaries, allowing attackers to escape email message context and manipulate authentication flows ac",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Meta’s Muse Spark 1.1 Cybersec…",
-   "url": "https://dev.to/norviktech/metas-muse-spark-11-cybersec-40a",
-   "date": "2026-08-08T19:06:06+00:00",
-   "summary": "Originally published at norvik.tech            Introduction   In-depth analysis of Meta’s Muse Spark...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -246,39 +355,6 @@
    "kind": "podcast"
   },
   {
-   "title": "🐛 The bug: Improper Access Control (IDOR) in Calibre-Web",
-   "url": "https://dev.to/acciobugs/the-bug-improper-access-control-idor-in-calibre-web-1395",
-   "date": "2026-08-04T18:17:23+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  While auditing...",
-   "points": 2,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Water Infrastructure Cybersecurity Grants: Why $9M Is a Rounding Error",
-   "url": "https://dev.to/satyam_rastogi/water-infrastructure-cybersecurity-grants-why-9m-is-a-rounding-error-393n",
-   "date": "2026-08-04T15:01:53+00:00",
-   "summary": "New York's $9M grant to 153 water systems exposes critical gaps in OT security budgets. Red teams already exploit these infrastructure weaknesses syst",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kioptrix Level 3 — When Metasploit Fails, Go Manual (LotusCMS RCE Dirty COW)",
-   "url": "https://dev.to/iamzsial/kioptrix-level-3-when-metasploit-fails-go-manual-lotuscms-rce-dirty-cow-3d3m",
-   "date": "2026-08-04T08:12:24+00:00",
-   "summary": "🛡️ Kioptrix Level 3 — Full Walkthrough  Kioptrix Level 3 is the third machine in the Kioptrix series,...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "178: Ubiquiti",
    "url": "https://darknetdiaries.com/episode/178/",
    "date": "2026-08-04T07:00:00+00:00",
@@ -288,72 +364,6 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
-  },
-  {
-   "title": "Strix solved 100 of 104 real-world exploits — at $3.37 each",
-   "url": "https://dev.to/creeta/strix-solved-100-of-104-real-world-exploits-at-337-each-2flh",
-   "date": "2026-08-03T22:03:06+00:00",
-   "summary": "Strix solved 100/104 XBEN exploits at $3.37 each. This guide covers how the agentic PoC engine works, how to configure it, and where Nuclei ",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Horizon3 Series E Slaps $2B Price on Pentest Panic",
-   "url": "https://dev.to/xoomar/horizon3-series-e-slaps-2b-price-on-pentest-panic-mbo",
-   "date": "2026-08-03T14:21:31+00:00",
-   "summary": "Horizon3 raised $250M at a $2B valuation, betting CISOs will ditch annual pentests for continuous AI-era attack validation.",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "6 open-source AI pentesters, one OWASP Juice Shop, ranked (reproducible)",
-   "url": "https://dev.to/darkmoonx/6-open-source-ai-pentesters-one-owasp-juice-shop-ranked-reproducible-4cp2",
-   "date": "2026-08-02T13:35:44+00:00",
-   "summary": "Disclosure: Darkmoon is my project. But this is a reproducible benchmark, not a ranking I get to...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Strix claims 96% on XBEN — that number is vendor-reported",
-   "url": "https://dev.to/creeta/strix-claims-96-on-xben-that-number-is-vendor-reported-3en8",
-   "date": "2026-08-01T09:59:06+00:00",
-   "summary": "Strix scores 96% on XBEN — vendor-reported, not independently audited. How to run it, what it covers, and where Garak and PyRIT fit instead.",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Streamlining Pentest Scoping and Pricing: Automating Pre-Engagement Workflows for Efficiency and Consistency",
-   "url": "https://dev.to/kserude/streamlining-pentest-scoping-and-pricing-automating-pre-engagement-workflows-for-efficiency-and-144e",
-   "date": "2026-07-31T06:46:26+00:00",
-   "summary": "Introduction: The Pentest Scoping and Pricing Dilemma   For boutique and small-team...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Compared 6 AI Pentesting Tools. Here's How to Actually Tell Them Apart",
-   "url": "https://dev.to/jigar_online/i-compared-6-ai-pentesting-tools-heres-how-to-actually-tell-them-apart-22o8",
-   "date": "2026-07-30T15:30:00+00:00",
-   "summary": "A year ago, \"AI pentesting\" barely meant anything. In 2026 it means at least six different products...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "177: National Public Data",
@@ -564,6 +574,16 @@
    "kind": "podcast"
   },
   {
+   "title": "دورة الهاكر الاخلاقي | كالي لينكس Kali Linux (الدرس الأول)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MUhadXk5dTR5cXA4VVdRZTRxSzFnY3ZnR19xNDFzLTNjWENCX0JwbXIzWTJmdnBIT0FEc2Z5ZGpzOElPOHVVbXVIdWwyZnBJMUkwTmtB?oc=5",
+   "date": "2026-01-26T17:24:50+00:00",
+   "summary": "دورة الهاكر الاخلاقي | كالي لينكس Kali Linux (الدرس الأول) YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "أسرع وأسهل طريقة لتثبيت كالي لينكس داخل ويندوز | نظام المخترقين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQd0FKbEtLUGxRRjZsaDZqbDlZV1Q3emQtcE93NlFhYUtqRUllQmRrcTRyb2t1RWwzdDV6Zk9kQUFzUF80VTEyRi1uZ0NsekxlY2oyem1B?oc=5",
    "date": "2026-01-24T15:30:56+00:00",
@@ -630,6 +650,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0waDFLVHNGRHVjOFJMWnVSOUIxaURnYnotNGVqdlkzUTk5WU1GNHJjZWxMM2wzQjhjNkN0RC1ISVN2eHJjUmZGU1VpeTh6NkxsOTRIMjdn?oc=5",
    "date": "2025-12-22T14:00:50+00:00",
    "summary": "Kali Linux for Cyber Security Full Tutorial 2026 | Kali Linux | Beginner to Advanced YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "What is Kali Linux? | Introduction to Kali Linux for Cybersecurity #shorts #simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ya1paVkdOcDNxUnlaUzRHcXhoUEZldTVvdFA1T2VHTENvbmc0YzFIRjFfRzJFaTM3R1lzVk5CTS1GdHJYNVJpYnQwTTUwdEd5T0hWbQ?oc=5",
+   "date": "2025-12-15T16:30:21+00:00",
+   "summary": "What is Kali Linux? | Introduction to Kali Linux for Cybersecurity #shorts #simplilearn YouTube",
    "tech": "kali",
    "sourceId": "yt",
    "source": "YouTube",
@@ -876,6 +906,16 @@
    "lang": "ar"
   },
   {
+   "title": "روبوت الذكاء الاصطناعي Kali GPT | للاختراق والأمن السيبراني",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWTzhCenRfanh2TmtidllNXzkyVHFMckZzTFlSaEl3ZUVVSXdXV3RUWVdNQzdlWUVFTVdSTzdHM0lINnluTFVJZTBXM004cG1MYTJtRkd3?oc=5",
+   "date": "2025-07-08T16:30:19+00:00",
+   "summary": "روبوت الذكاء الاصطناعي Kali GPT | للاختراق والأمن السيبراني YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعرف على واجهة Kali Linux GUI – شرح كامل لجميع القوائم والأدوات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zWEo0clBXNjFkWUhmbl9UaEJwUTc3VjNLUWphSEVyZzJBZ0o4LXRKOVdJUzZGcGM0NG1lalZCZ1pwNnF4N2N5bkVlNG9UUlZidnV6VDBn?oc=5",
    "date": "2025-07-06T17:59:14+00:00",
@@ -1076,6 +1116,16 @@
    "lang": "ar"
   },
   {
+   "title": "How to Install Kali Linux in Arabic | شرح تثبيت كالي لينكس بطريقة الصحيحة للمبتدئين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVlFmaEt5ZGJjV2tueWNrVlo4enhpZEhFYmwxdWdJOTU4LU45QTIyeWgzU2VBZm1IdkJ1dFdFdXE3eFF6eGpuLXJBZDA4dkNjbXpUbTFn?oc=5",
+   "date": "2025-01-28T22:45:19+00:00",
+   "summary": "How to Install Kali Linux in Arabic | شرح تثبيت كالي لينكس بطريقة الصحيحة للمبتدئين YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Penetration Testing Using kali Linux 2026 | How To Pentest with Kali Linux 2026 | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Tk1BZHlvN2FzNHNHeWFZMUZZMnJDRFByUEtXdTliVDFwQlprdmRjUS1KYzRYUUtrQms2YkgwZ1JjaHA0a2FXemVfRVE4RTM4SjdNR1lR?oc=5",
    "date": "2025-01-27T18:05:44+00:00",
@@ -1116,10 +1166,30 @@
    "lang": "ar"
   },
   {
+   "title": "نصيحة احترافية : ماذا بعد تثبيت kali linux .",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ea2VmYUFOWE1WYjRuU0pHbTBvdnlaSHc2ZXJDdEpHbVNGdEdQLTh4LU13WmZ4SGdiOTNXYUx1VWJlOEpUZnM3MTJOM3JVRXhPMTFrVndB?oc=5",
+   "date": "2025-01-23T08:11:53+00:00",
+   "summary": "نصيحة احترافية : ماذا بعد تثبيت kali linux . YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Kali Linux Tutorial 2026 | Kali Linux For Beginners 2026 | Kali Linux Commands | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlTVJOR19kNjNXLVMtNDFHeFZrYmlMSVZ3cXR4NEtzUVR2UDVoaHFCenpoc1VzMVE2dTVDanVaWE5mUzRrQk5nZXhRekd2QWVReHp1cmV3?oc=5",
    "date": "2025-01-21T14:45:01+00:00",
    "summary": "Kali Linux Tutorial 2026 | Kali Linux For Beginners 2026 | Kali Linux Commands | Simplilearn YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "John the Ripper Tutorial | Password Cracking with John the Ripper | Edureka",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YRG1qOUpxUWh4MmZ0bzB3SHBaUGtSX3JXVXlVYmk5ZG1pVGdhS1VLVGMtMVY3ZDZVcVdHd0ctLXBWVkdxb2dYbU1oazdJdksyQWU1YTlR?oc=5",
+   "date": "2025-01-16T14:12:21+00:00",
+   "summary": "John the Ripper Tutorial | Password Cracking with John the Ripper | Edureka YouTube",
    "tech": "kali",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1150,6 +1220,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwLVdqTTQtdElCbzZTY0VJdVNldURKMmNsenFYbW9sZlJTd3h2WVdYdmh1RHVneHRqeW9qTHJxSFgzNGxrd2ljSkRLRHJORXp0QUJuVGF3?oc=5",
    "date": "2025-01-01T14:00:06+00:00",
    "summary": "احترف اختبار الاختراق: دورة مكثفة بخطوات عملية | 5 ساعات (2025) YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تثبيت كالي لينكس على الموبايل وحل جميع المشاكل | Kali Linux on Mobile",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUG42a3NYbjFIbUdqTXVkWGdrRWxxWkFPcExFeDJpU3p6bVktNU05S3poMjNoSUN6MVdDYUIxcWpOQ0h4bzFFUFBQNXNvMEhmNjAtYVd3?oc=5",
+   "date": "2024-12-25T14:51:45+00:00",
+   "summary": "تثبيت كالي لينكس على الموبايل وحل جميع المشاكل | Kali Linux on Mobile YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1336,6 +1416,16 @@
    "lang": "ar"
   },
   {
+   "title": "How to Add Kali Linux to EVE-NG Emulator: Complete Step-by-Step Guide ||sikholive.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsSkN6N25wMHJkcnB2cVZZcVh4WHVsNFBMUGFoUWhfU0hfRXpZRVlHWnN0dDFtbC1BbEVmSFgzaFV4cng5NE9ZUVZqYUt3bzVWZkROMjh3?oc=5",
+   "date": "2024-07-03T06:04:40+00:00",
+   "summary": "How to Add Kali Linux to EVE-NG Emulator: Complete Step-by-Step Guide ||sikholive.com YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "#02 - دورة القرصنة الاخلاقية - Kali Overview | (Ethical Hacking Course)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DWlk5SS1od3FJdFBaS19DWERVYmVHZ0dXdzZRM3hWS3pBSk1LLVJZX0RMOFVyNFljbmtNeHBKa1ltOUNkcGFQT2pVcEtJUnk2THlDRUdR?oc=5",
    "date": "2024-06-28T14:00:36+00:00",
@@ -1396,6 +1486,16 @@
    "lang": "ar"
   },
   {
+   "title": "Kali Linux for Ethical Hacking Tutorial Malayalam (PART 4) | Cybersecurity Tutorial Malayalam",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DTWc3WkNoTFlLS3d2N001enpsS09pZm5GWkZxQzNOOFd4RkhCenNmaVRyckxuMVdRb01IU3hZYnVEQ3FRbVdHeHcwc01jOEwxZ2N5TDVR?oc=5",
+   "date": "2024-04-05T12:30:18+00:00",
+   "summary": "Kali Linux for Ethical Hacking Tutorial Malayalam (PART 4) | Cybersecurity Tutorial Malayalam YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Kali Linux Full Course in Telugu | మన తెలుగు లో",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kUDNkMGJzNGdyVzNiYU16dnFwQ0NnZkN6emFLLWZUd1Z3VzVLdmdEZ0xkWVdNNWtxZVpjNXdqVkt2RE1uLV9CVEVXTTRyX3U2QXRXNzJB?oc=5",
    "date": "2024-04-02T11:20:40+00:00",
@@ -1420,6 +1520,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Kc0FabVVtcVl1VWhjUjJnTzlnNHNjMzNFYWRYeGJWbzRaaFhfcTZGcjFMeC1zWldiU1FDWGxYWGR4ZHNzeWFRTzlkTFQ3dER2TnZ0bmJR?oc=5",
    "date": "2024-02-22T17:00:35+00:00",
    "summary": "أداة تساعدك على تسريع عملية اختبار الاختراق | The Lazy Script YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "أفضل طريقة لاستخدام أنظمة الاختراق ( Kali Linux )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6cllMMjZTeWlpYlJ0dkRscjU3ZmhteEVTZmdYS0lqeXh0Sm93cks3Rm1LYkg2UVl6cG9oYkV1VFNuc09ORnhrY1ljQWNfU3lremZnWjNB?oc=5",
+   "date": "2024-02-18T17:00:44+00:00",
+   "summary": "أفضل طريقة لاستخدام أنظمة الاختراق ( Kali Linux ) YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1486,6 +1596,16 @@
    "lang": "ar"
   },
   {
+   "title": "Kali Linux Hacking Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZ3JkYV9mMC05dkh3LWNRQzlWcndpNTBtd2MwYWI5SDg4RzZIVGhhQVBOYlBHczRnOHFPMXJwZWdzQkItblMyYmowTFRRZVlDUXpIZHp3?oc=5",
+   "date": "2023-10-05T14:09:43+00:00",
+   "summary": "Kali Linux Hacking Tutorial for Beginners YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Kali Linux Basics for Beginners || Tutorial (2023/2024)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVnhmQlRTQXlNXzFoWjFSU09QM3hfNC1ra1hJaVV4LXIyZUhNbzR5SENrYW96ZG9fUmZmUVJYTGNEUlRZMjhUU3FQM25QT0lzRFRRZjBR?oc=5",
    "date": "2023-09-24T19:07:11+00:00",
@@ -1516,10 +1636,30 @@
    "lang": "ar"
   },
   {
+   "title": "Introduction, Downloading & Installation of Kali Linux - Setting Kali's [Hindi] - Kali Linux #1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWWxCYXJ0bEdTQzZvaWd1RTI2X0FUQklnRHpPNlM4WGcwMWhqcEU1OGpFSXN3WTlmbWF3ZDVxT1R6NGV1TXBZWmdUcWhRZm1pRlRWWi1n?oc=5",
+   "date": "2023-08-29T08:25:57+00:00",
+   "summary": "Introduction, Downloading & Installation of Kali Linux - Setting Kali's [Hindi] - Kali Linux #1 YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "NMAP Course | دورة فحص الانظمة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hd21DdmZNeGxSb3NfTDNuYzhkZzhVR3dmMWhSUFJfS3lGOEFVN2RZaW9Jc1gyaWtYaTBCTFNlLVZhQlN6X0hvaTVrTFNTa0FDYXpzTzVB?oc=5",
    "date": "2023-08-17T21:41:51+00:00",
    "summary": "NMAP Course | دورة فحص الانظمة YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس اختبار الاختراق من الصفر حتى المرحلة المتقدمة في 4 ساعات | Ethical Hacking",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1LTFwSUMzcFJRdWo1enhVSzJyRlRGUnVQeXBrOTM1bUd3RExjaXNQbU9VOV9mYWJjZDJwMXFDRnpMTHRrbTFjaVdlYnNTZFBNcS10VU5B?oc=5",
+   "date": "2023-07-23T14:15:02+00:00",
+   "summary": "كورس اختبار الاختراق من الصفر حتى المرحلة المتقدمة في 4 ساعات | Ethical Hacking YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1670,6 +1810,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYXVYelpwV3I4aVZoZGY3VGZONjNiSW9QYnRONmE4QWRzVkU5eVp1Y1NsM0pPOVJSbWVCT3F3dmNiTmEtRlRDUENJWGN3aGRaZ3JwZk1n?oc=5",
    "date": "2022-12-09T18:39:39+00:00",
    "summary": "منصة اختبار اختراق قوية | بديل Kali Linux لأصحاب القلوب الضعيفة YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Kali Linux أسرع طريقة لتثبيت و تشغيل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NaFphYXhNY3diWFFyc3JXOVF0eE5HRmg5Ym9zR2ZpYkZOcVBUOXgyc0dnY2VaOWR5TzJwZkpCQzAzYml3T3RYcVRDd0VDeFUtZ1oxWU5R?oc=5",
+   "date": "2022-11-29T13:00:09+00:00",
+   "summary": "Kali Linux أسرع طريقة لتثبيت و تشغيل YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2066,26 +2216,6 @@
    "lang": "ar"
   },
   {
-   "title": "Kali Linux For Ethical Hacking | Kali Linux For Beginners 2026 | Ethical Hacking | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBobzlSZ09CRGZaWFFNSEVKOG5wand4bEoyQWhzTGVvNXJJWWYyRHU5SVZ6am5hMVl5WjA5QVlOY3FZcnUxekN5Vm5nOWE1ZjhfbGxOb3lB?oc=5",
-   "date": "2021-11-06T15:30:02+00:00",
-   "summary": "Kali Linux For Ethical Hacking | Kali Linux For Beginners 2026 | Ethical Hacking | Simplilearn YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "YOU MUST Do THIS After Installing Kali Linux",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UZHl6OGRNcHRTQXJDS1RqSkVhVHBmQWRsYnVJMHdHN2xCWmxNZlZCWEc5c1RsT29ibm94Qm9vTDVCeUdRMHduNUI1bWNhdVl2LXZtMmh2eXBlUktLaG0wWG1xamhwVXhvdnI0OEZMZHdpQ2dzYXJHRERtdXo?oc=5",
-   "date": "2021-10-31T13:56:33+00:00",
-   "summary": "YOU MUST Do THIS After Installing Kali Linux YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "6 . كتابة أول برنامج لك بلغة البايثون على الكالي لينكس | Python & Kali Linux",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ucm9jQmwxcko5XzU1SnpyQnZnWk9NRG9ZWTZuMk1ob0QzOFdhRDU1Y0Q0MXo2TFlyS2VkYmR1YVJhZTgzbnRWSnNZQ29aN21pQnpsOEVR?oc=5",
    "date": "2021-10-20T17:00:26+00:00",
@@ -2094,36 +2224,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Kali Linux Tutorial 2026 | Kali Linux For Beginners | Learn Kali Linux | Ethical Hacking|Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UaVJ3Mm82ZjZMT2h3bnlnbVAtS2UySWtYZFBJOVFyeFRrOFJicXIySFgxUmg2cTZ2R1Qwbm93TlpuUXNoNTNiQ0h2OG5ORFJLd3E3N0NR?oc=5",
-   "date": "2021-10-14T16:00:26+00:00",
-   "summary": "Kali Linux Tutorial 2026 | Kali Linux For Beginners | Learn Kali Linux | Ethical Hacking|Simplilearn YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "What Is Kali Linux? | What Is Kali Linux And How To Use It? | Kali Linux Tutorial | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91RUt5OUozVmtuZW1mUmV4eE1BMzNKUzI5Qk80S2lwTnZVVHNwekdJTHdCZnh2THhfRW9WNlBaRl9lNl83ZjIyRVdLLWZBU3Nic1ZkTkt3?oc=5",
-   "date": "2021-10-01T06:30:07+00:00",
-   "summary": "What Is Kali Linux? | What Is Kali Linux And How To Use It? | Kali Linux Tutorial | Simplilearn YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kali Linux Basic to Advanced commands | हैकर्स Top Commands Everyone needs to learn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZnA0YWlNMUVqb0pkVGd1cmhTVVJ6bzIzQ2dmNTBQR2JmTTJhck1VWXVYSTN6R3RrUGgwUXNHZVdTQ2hUNVdKdnNpNFZ0WmVEbTNUNDB3?oc=5",
-   "date": "2021-09-06T09:23:06+00:00",
-   "summary": "Kali Linux Basic to Advanced commands | हैकर्स Top Commands Everyone needs to learn YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "أهم الأوامر الأساسية بالكالي لينكس basic commands kali linux 24 commands",
@@ -2136,70 +2236,10 @@
    "lang": "ar"
   },
   {
-   "title": "Free Latest Kali Linux Download & Install Step By Step in Hindi | Kali Linux latest Updates",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UdVVEWmpYYl9oN2dGbE5PRTJKNU1WXzN1Nl9mam5fS0d5cnU5UE96TTByYUJiTXNEbzYyWTN2YXNMeEFlZk9vZlhXd21aMGp4RjVMMnpn?oc=5",
-   "date": "2021-07-15T06:24:03+00:00",
-   "summary": "Free Latest Kali Linux Download & Install Step By Step in Hindi | Kali Linux latest Updates YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How To Get Free Kali Linux Advanced PWK Course Worth $2000",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SYkJiTWZLNWZWaEgyVWhZRWN6bjJZRF9KRTBNUDZhRk9QaGViWXo2emdPT0R0WEpGMW9rdjNzWjVDVWM2dTJ3bUhfWVh2SmpBa3JFUTNB?oc=5",
-   "date": "2021-04-23T15:18:39+00:00",
-   "summary": "How To Get Free Kali Linux Advanced PWK Course Worth $2000 YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Burp Suite - Web Application Basics for Beginners (Kali Linux Tutorial)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVVpsSFBBMFRLZ0wydGhrdmdOYkpjVmZ4Y182dnFIXzR2S0dJempVdzZuU0FFd2xOZFd3SUktUlc2YVBxbTZ5Nm5kbHlMRU5PSmg1MUhn?oc=5",
-   "date": "2021-02-05T13:41:10+00:00",
-   "summary": "Burp Suite - Web Application Basics for Beginners (Kali Linux Tutorial) YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Ethical Hacking Tutorial For Beginners In Hindi | Kali Linux | Great Learning",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcERPX2RTUTQ4XzUtZXhKRVVobXMteF8wejBGVjZNLWZKbDByR0VXY1E1RXBJZ0FkNmZmNE1CQlc1NWxYc1FjeVd1Rl8wbk90TFdjVGln?oc=5",
-   "date": "2021-02-02T12:05:31+00:00",
-   "summary": "Ethical Hacking Tutorial For Beginners In Hindi | Kali Linux | Great Learning YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كيفية تغيير مكان شريط المهام في كالي لينكس - - How to move Dash to Dock in Kali Linux",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXeHNVWTRzc3JVTVhFclFwdXdTbzhoY0xWMmwwdU5sbFAwcDZmY0Q1dkhDUUVPNjlkY0lRUDV1a0ZRWXU5d0ZZTE1kVnNvekFmZHpxNk5B?oc=5",
    "date": "2018-03-13T15:36:42+00:00",
    "summary": "كيفية تغيير مكان شريط المهام في كالي لينكس - - How to move Dash to Dock in Kali Linux YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الفرق بين كالي لينكس وباك تراك ومن الاقوى والافضل في الاختراق وماذا يجب عليك أن تستخدم ؟",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZFktdDNFUXJvVTJhU1B0NXhvWjJEOS1qeGU5NWNhMWpGUDJlVHlrQ0Q0NTFqR0QydjBJQVF4ZjBUeGpnWnUwNFZwbkNtYVRRQ2hzdldR?oc=5",
-   "date": "2017-06-17T17:51:43+00:00",
-   "summary": "الفرق بين كالي لينكس وباك تراك ومن الاقوى والافضل في الاختراق وماذا يجب عليك أن تستخدم ؟ YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دورة مهارات الهاكر الأخلاقي : الدرس الخامس والعشرون ( شرح اداة Hydra )",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92VkxHZXRPMGtvbzNhTjhnZG5Na21Idm1wS1N1RE5HNUhvMjE5WTNlbnF1UGN0NVJUVmNqb2hHeDdoSXVPZUVnVVI4THRYMXVGazdjNVZB?oc=5",
-   "date": "2017-03-04T13:00:03+00:00",
-   "summary": "دورة مهارات الهاكر الأخلاقي : الدرس الخامس والعشرون ( شرح اداة Hydra ) YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,8 +1,40 @@
 {
- "generated": "2026-08-15T04:27:26.275139+00:00",
+ "generated": "2026-08-16T05:05:31.235284+00:00",
  "tech": "arduino",
  "count": 220,
  "items": [
+  {
+   "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
+   "url": "https://medium.com/@neonmaxima/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-3c66178ba51d?source=rss------arduino-5",
+   "date": "2026-08-15T21:28:04+00:00",
+   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works. Continue reading on Medium »",
+   "tech": "arduino",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Day 2 — It Just… Worked",
+   "url": "https://dev.to/oza_parth_bdeafede3f4d4e9/day-2-it-just-worked-359e",
+   "date": "2026-08-15T19:03:04+00:00",
+   "summary": "Turns out I was solving the wrong problem the whole time.  Yesterday I ended on a cliffhanger: redo...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Lightweight Encryption Protocols for Resource-Constrained IoT Devices",
+   "url": "https://dev.to/fuadhusnan_f44f3e13/lightweight-encryption-protocols-for-resource-constrained-iot-devices-1k4n",
+   "date": "2026-08-15T07:55:28+00:00",
+   "summary": "Lightweight encryption protocols exist because standard cryptography assumes resources that most IoT...",
+   "points": 1,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why Is It Called Booting? The Bootstrap Origin",
    "url": "https://dev.to/fluidwire/why-is-it-called-booting-the-bootstrap-origin-55ji",
@@ -296,6 +328,17 @@
    "lang": "en"
   },
   {
+   "title": "NanoMind-S3: Fully-Dense 15.2M Param LLM on ESP32-S3",
+   "url": "https://www.hackster.io/6farsi/nanomind-s3-fully-dense-15-2m-param-llm-on-esp32-s3-73937f",
+   "date": "2026-08-07T11:29:53+00:00",
+   "summary": "NanoMind-S3 runs Andrej Karpathy's 15.2 million parameter LLaMA-2 Stories model on a single $4 ESP32-S3 chip — no cloud, no WiFi, no lookup",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
+  },
+  {
    "title": "# MyZubster Goes Green: Connecting Monero Payments, Urban Gardens, and Arduino Sensors",
    "url": "https://dev.to/danielioni/-myzubster-goes-green-connecting-monero-payments-urban-gardens-and-arduino-sensors-2lhl",
    "date": "2026-08-06T11:54:28+00:00",
@@ -406,15 +449,15 @@
    "lang": "en"
   },
   {
-   "title": "🌱 MyZubster goes green: grow your own food, map it, and trade it with Monero",
-   "url": "https://dev.to/danielioni/myzubster-goes-green-grow-your-own-food-map-it-and-trade-it-with-monero-5gbp",
-   "date": "2026-07-30T11:32:36+00:00",
-   "summary": "🌱 MyZubster goes green: grow your own food, map it, and trade it with Monero  How we're turning a...",
-   "points": 0,
+   "title": "Smart Study Space Monitor Assistant",
+   "url": "https://www.hackster.io/jhon-paul-baonil/smart-study-space-monitor-assistant-679226",
+   "date": "2026-07-23T15:15:44+00:00",
+   "summary": "Built to solve my own study challenges with AI, Arduino Uno Q, and smart automation for focus and energy savings.",
    "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
   },
   {
    "title": "RescueMesh — Off-Grid Encrypted SOS over LoRa",
@@ -496,6 +539,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "مشروع الحاجز الذكي لدخول المركبات الى الشركة باستخدام اردوينو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yR2I2dXl4VDBxYW92bVNpZ0pEZnAwd3hzR1Vic1ptSEQwMVI1Uy1SZ2VkMGM0Zi02Rkw4TzdEby1zVmRtVmhZbVRNVEJOdTRMUnE0dEpB?oc=5",
+   "date": "2026-01-18T15:03:02+00:00",
+   "summary": "مشروع الحاجز الذكي لدخول المركبات الى الشركة باستخدام اردوينو YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Arduino Forever Loop Using for(;;) | Infinite Loop Explained with Example",
@@ -638,6 +691,16 @@
    "lang": "en"
   },
   {
+   "title": "ESP32 - Getting Started with ESP-IDF",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sSzJGRXlJYVozangzYVRuVDRUYTd0M25aQlVXeFFudzNyUkR4MXR0elZQczhOR0N6Mjc4SGhySnlIQnR3Um1OTWpJWHp6UnJoMllEOXhn?oc=5",
+   "date": "2025-08-12T10:01:27+00:00",
+   "summary": "ESP32 - Getting Started with ESP-IDF YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "ألعاب تتفاعل مع العالم الحقيقي😱 - شرح توصيل الأردوينو مع يونتي ✅",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OQVFSTEZiUTY2b1JMSEZKYnh6U3FqOHVXYVBKTWp4SDVBR1NBcGFFVnQxeUo2WkZFajJvaTlXdTNFaXBUcEpZNlh6M05XRFNTVFhGWmFB?oc=5",
    "date": "2025-08-08T11:22:26+00:00",
@@ -686,6 +749,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Goto statement in an Arduino UNO. #coding #programming #microcontroller",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NRENodzdjZ1UxakVxUFNwTjhJbmJaaU5Va08tNjQ5TW0zMnhud3N2T0REOHc5ckhMX3cxOHhEb3VfUTZOaXZEQUg0QnhFd3RsUHZINg?oc=5",
+   "date": "2025-07-11T19:00:46+00:00",
+   "summary": "Goto statement in an Arduino UNO. #coding #programming #microcontroller YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Embedded Systems Course | What are Embedded Systems? | Embedded Systems Roadmap | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNSjJuekwzLThNS01KR1NaVi1ES251OEx4ZkZobWF3MXhGLXRwUFlNQXV5TGVBeVFZUy1KRF9yX2pITi1qMlVOdHRURmREamhWUjVGRF9n?oc=5",
+   "date": "2025-07-05T15:15:08+00:00",
+   "summary": "Embedded Systems Course | What are Embedded Systems? | Embedded Systems Roadmap | Simplilearn YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Arduino Programming for Beginners",
@@ -856,6 +939,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "04. How to Read Sensors? Analog vs. Digital | Arduino UNO R4 WIFI - IoT Development Crash Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KTXlpTXlLdDdVcjloZGd0VW9RSFBCai1ONjZjTkZwQTNfZ18zcHkwa2tXR0lkT0hUUWxDZFZ4S3M0RHZtWlU5WlBMMTJQcENueVc1UGZn?oc=5",
+   "date": "2024-06-30T01:36:24+00:00",
+   "summary": "04. How to Read Sensors? Analog vs. Digital | Arduino UNO R4 WIFI - IoT Development Crash Course YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "02. Master Arduino Programming in 40 minutes | Arduino UNO R4 WiFi - IoT Development Crash Course",
@@ -1698,10 +1791,10 @@
    "lang": "ar"
   },
   {
-   "title": "1. Learning to code C/C++ with Arduino: Arduino Uno Board Overview",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IcHpRVDJ1Q0UxOU1FT3pFLTVBempid1F0VTNhdnhlWkF1dHVub3RGOExPM0JKcTFzWW9WdGlidnJZWk9Iak1zVUJJa2llR1hMY2VFWXZB?oc=5",
-   "date": "2021-10-27T13:21:31+00:00",
-   "summary": "1. Learning to code C/C++ with Arduino: Arduino Uno Board Overview YouTube",
+   "title": "Getting Started with ESP32 - Step-By-Step Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CLTRGU1JsazFfVGZraUVKTHRUTVVBVGQydXlUTko4b3duVVJzZHRtRDUwN3dLSG1zTGZhRUFmejFRTi0tQVlzU29mSVJhZFdDSVM2cHhR?oc=5",
+   "date": "2021-10-28T20:35:59+00:00",
+   "summary": "Getting Started with ESP32 - Step-By-Step Tutorial YouTube",
    "tech": "arduino",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1738,16 +1831,6 @@
    "lang": "ar"
   },
   {
-   "title": "Arduino TinyML Kit Tutorial #7: Keyword spotting using the mic and EdgeImpulse",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUNWdCNFdMVTRPU1Q3MERDMTNOTVY4OWpxYkx2bE5iQUdLUFJIVEpuUHp3cVFVQWE2MWdYRkZ4blVKYTJsckp4OTNucGt0Vk1hYXllSlJn?oc=5",
-   "date": "2021-07-02T12:09:28+00:00",
-   "summary": "Arduino TinyML Kit Tutorial #7: Keyword spotting using the mic and EdgeImpulse YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "أردوينو للمبتدئين - (01) مقدمة و اعداد أول مشروع",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZaU5mX0h4bU5pblZ5RV9zUzczcHRPalJlVGxTTXhMX085aUdKUl9JZmdia2dnaVRjdzFHWi1ud2hYa1hhUmtVczBtM053QmFzNm5JZlpB?oc=5",
    "date": "2021-06-30T10:14:34+00:00",
@@ -1756,16 +1839,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "How to add any Arduino Library to Tinkercad for Simulation",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02YUxSbEp3NEVaOVFtbXB1ZmdYY01OZUhrYUhmODV1ZkZUX1V6ZFRwMVV2cTdOejdWbE5GNi12NzBuQkJpdjVINkFTU1JSbkdsendYSzl3?oc=5",
-   "date": "2021-06-27T05:28:06+00:00",
-   "summary": "How to add any Arduino Library to Tinkercad for Simulation YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "شرح استخدام الساعة مع الأردوينو - RTC",
@@ -1786,16 +1859,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Introduction to Arduino Beginner Course | Syllabus explained | What you will learn..?",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RUDF0Z0tlZlJkNVZLM2g1NEtpRV8tcUVwdDFTVVN1WGVpWmRoWFdGaVpTS0Yyb2trSFJiOEIxaWhES0loWHJCZDBZU25fSEVnU0Z0NERB?oc=5",
-   "date": "2021-05-24T15:25:33+00:00",
-   "summary": "Introduction to Arduino Beginner Course | Syllabus explained | What you will learn..? YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "اردوينو فتح الباب ببصمة الاصبع مع قفل تلقائي /مشروع مميز مع الكود 😍",
@@ -1826,26 +1889,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Top-4 Best Microcontroller Boards to Learn Embedded Systems",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XaDI1ZGZSeGZSbHdaZWFpMzBRNE14Y09WR0lJT09uTlRhZ0RVOVF0cUxlR2M0ZklkWGFOeUtVVTg5b1Y1SUMtcG5DWV9HRWJWaWNJMU5R?oc=5",
-   "date": "2021-04-24T11:45:04+00:00",
-   "summary": "Top-4 Best Microcontroller Boards to Learn Embedded Systems YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Download and Install Arduino Pro IDE 2.0.0",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94WkUzcTdxclN6OHMxNFkwbHZhNVBkdl90N2hkSWRQYWFGbUd0WlRwZHhfN01fU3BYZnd4ODZnVW5qNVU5d3p2R3QyUlBJOG1XZmlmWUFB?oc=5",
-   "date": "2021-03-19T11:37:33+00:00",
-   "summary": "Download and Install Arduino Pro IDE 2.0.0 YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "الاردوينو مع Push button (عملي)",
@@ -1898,20 +1941,20 @@
    "lang": "ar"
   },
   {
-   "title": "Organise large Arduino codebase with libraries, files and folders // Arduino CLI, Nano 33 BLE Sense",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VWkZWLTlKT3Fad1hXR1lFVXUxblhuQzZRWW9MdnV1cmRISHdybUhEcWpZNFBIR3RpUXN1ZU9kYmVuRzJLT3hBQllOTkkzZnVBNkt5YjNn?oc=5",
-   "date": "2021-01-15T13:27:03+00:00",
-   "summary": "Organise large Arduino codebase with libraries, files and folders // Arduino CLI, Nano 33 BLE Sense YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "03- ESP32 + Arduino | Development Boards | محمد يوسف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EN0hUQ21ldnZ5Vll5Q3Y5WVk0VlhfaFc3YXE3MWlhQUUzSERpbS1WNUt0djB2d2toZE9KSEFEZF9kdi05WlRfWTV1Z3JGempMRkFXdnBB?oc=5",
    "date": "2021-01-14T05:27:46+00:00",
    "summary": "03- ESP32 + Arduino | Development Boards | محمد يوسف YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "mBlock بكل سهولة #2 : كيف تبرمج الأردوينو باستعمال Arduino",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QbWllSElLU19CUnlBRUNBQ0NUX21ZMHBvWE9JS3A5R05NWWprTnczNklqNFp1ZmhXQ3dPX3ZBY1h4RzNCQzdPUGdwallJb2tSXy1pdGlR?oc=5",
+   "date": "2021-01-05T01:32:00+00:00",
+   "summary": "mBlock بكل سهولة #2 : كيف تبرمج الأردوينو باستعمال Arduino YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1936,26 +1979,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "U8.2: Arduino Continued, More Advanced Programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3LVZvcWRnQm9pdndqc1U5dkkwazlsSHhaM1BSbjRzdF9pXzR4SnV2MlFxeG5iVXBNWXJlTlNfaC1pdGNMWlU5VENVTGJEb2libWFqV2FR?oc=5",
-   "date": "2020-12-08T17:34:42+00:00",
-   "summary": "U8.2: Arduino Continued, More Advanced Programming YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Python Programming with Embedded Systems - Part 1: Intro | Embedded Systems & Microcontrollers",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HUFp1a1hGYnZDMG9qdHFkT1BtQ0o2SEVRNC0xUm1OamNYNkQwLVNuOFFVSDhqTnNzV3VJcWFUT2t4MWhsZGw2VWFiQUs1N2lvdmxnejBB?oc=5",
-   "date": "2020-11-07T20:13:32+00:00",
-   "summary": "Python Programming with Embedded Systems - Part 1: Intro | Embedded Systems & Microcontrollers YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "DC Motor - Part 1: Types, Interface & Drivers | Embedded Systems | دائرة قيادة محرك التيار المستمر",
@@ -2032,6 +2055,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VblEwVW5QR2VURjNQcmxXcVpxUDY3alZHLUV0RkhxbnNCakI1TXVuZnVXaUdscEV0N2Y0cnlfaWlkYk1YQnhtSWVZb0UtckxETGZoWElB?oc=5",
    "date": "2020-05-26T05:13:46+00:00",
    "summary": "LCD Functions & Commands - شرح الدوال والاوامر الخاصة بالشاشة | Embedded Systems | Kyrillos Refaat YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Ultrasonic Arduino | مشروع قياس المسافه بحساس الموجات فوق الصوتية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jdDR1YkZBb25aT05GRXozZ1YxN2U1cnZhVWNyWTYyUmJMaGJjWWF0LV9JVUNpOENXZllnODVYeFJCZmFUZUpGODFOQ2pWMTZDR01OUXFn?oc=5",
+   "date": "2020-05-04T17:43:14+00:00",
+   "summary": "Ultrasonic Arduino | مشروع قياس المسافه بحساس الموجات فوق الصوتية YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2202,36 +2235,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mQjd4QlFRbWxoSEYxbVB4bU11MXNPX1lzR1ROMmhFWmZiN3NyUDh4eVdWdWVKX292Z2xsWUhacWtTUUphZW4tUkdHMU8zcXRvNG1iX1d3?oc=5",
    "date": "2017-10-07T14:00:04+00:00",
    "summary": "بدون شك ستتعلم كيف تبدأ برمجة الأردوينو بعد هذا الدرس أنا متأكد YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Arduino in Arabic/أسهل شرح أردوينو",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WS1JxUERibHdQLVN3SHFZWmZ4b1RLTnJDcWRlNTlrVDFrZ1N5UkdDZVcwXzlSZVJUTGNjZE13bnVYWm1kZUZkU1hTRkJEZXJQeU9HSDQyc09SZzdYbVFfYmFtZ0lNYXNwNmlZcXZwWmxKN29iaktyQVVfVkY?oc=5",
-   "date": "2017-09-21T07:01:54+00:00",
-   "summary": "Arduino in Arabic/أسهل شرح أردوينو YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "️Arduino Tutorials-3 ᴴᴰ الدرس الثالث| تجربة تشغيل ال الضوء led ضمن نظام زمني محدد .دروس اردوينو",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NQjVhWjMtcHZpUTdlcnNfMW9NSXNSRVJpSmpyZEZWZURGUjBRZld2RVRIcDdBTHlJdFdHZUVEeVlKWUdVVzAxYVFfdFlpOVNObGRaZGFR?oc=5",
-   "date": "2017-06-20T22:36:08+00:00",
-   "summary": "️Arduino Tutorials-3 ᴴᴰ الدرس الثالث| تجربة تشغيل ال الضوء led ضمن نظام زمني محدد .دروس اردوينو YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تحميل وتثبيت برنامج الاردوينو وتعريف بوردة الاردوينو عليه (Arduino 2)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MeW8wZG91MDRoRkxLZkxpcnN0VmRyUzFwbFl6djVneGxNOHBfa1l5MWVTRVNBS3ZsQ041dFlTMGE3RUJlX2loYVI1aWZMTFE1eEU1SXp3?oc=5",
-   "date": "2017-06-10T03:48:31+00:00",
-   "summary": "تحميل وتثبيت برنامج الاردوينو وتعريف بوردة الاردوينو عليه (Arduino 2) YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",

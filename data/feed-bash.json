@@ -1,8 +1,193 @@
 {
- "generated": "2026-08-15T04:18:13.293008+00:00",
+ "generated": "2026-08-16T04:55:52.257935+00:00",
  "tech": "bash",
- "count": 145,
+ "count": 148,
  "items": [
+  {
+   "title": "Why GNU/Linux Isn't for Everyone - and That's a Good Thing",
+   "url": "https://dev.to/aiflux/why-gnulinux-isnt-for-everyone-and-thats-a-good-thing-44ba",
+   "date": "2026-08-15T21:10:47+00:00",
+   "summary": "We have been hearing \"Linux is ready for the desktop\" for twenty years. Maybe the question is the...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build a Prometheus Exporter in Bash in a Few Minutes",
+   "url": "https://medium.com/@u.mair/how-to-build-a-prometheus-exporter-in-bash-in-a-few-minutes-20ab60e759f2?source=rss------bash-5",
+   "date": "2026-08-15T19:18:29+00:00",
+   "summary": "Today, let&#x2019;s do something practical with Prometheus. Most people who work with Linux infrastructure are familiar with Prometheus and its&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Network Troubleshooting as a Stack: Find Which Layer Is Broken First",
+   "url": "https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6",
+   "date": "2026-08-15T18:34:37+00:00",
+   "summary": "The difference between a good infrastructure troubleshooter and someone who restarts services and...",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Networking Foundations: From OSI Layers to TCP Handshakes",
+   "url": "https://dev.to/dharam_in/networking-foundations-from-osi-layers-to-tcp-handshakes-31nh",
+   "date": "2026-08-15T17:54:31+00:00",
+   "summary": "OSI Model &amp; TCP IP Model            What a networking Model is   Networking model is a...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built a simple tool to automate Linux system updates across different package managers",
+   "url": "https://dev.to/swarajnerlekar28/i-built-a-simple-tool-to-automate-linux-system-updates-across-different-package-managers-36jk",
+   "date": "2026-08-15T17:31:14+00:00",
+   "summary": "It is a lightweight Bash script that probes the host environment, figures out the active package...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "System-Updater",
+   "url": "https://dev.to/swarajnerlekar28/system-updater-108j",
+   "date": "2026-08-15T17:12:37+00:00",
+   "summary": "Hey guys! i created my second project \"System-Updater\". it is written in bash, it checks your...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why logrotate silently does nothing and how to actually debug it",
+   "url": "https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd",
+   "date": "2026-08-15T17:04:58+00:00",
+   "summary": "A config that doesn't error is not a config that works.  logrotate misconfigurations don't fail...",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your drive says SMART PASSED and is already failing: the 5 attributes that actually predict it",
+   "url": "https://dev.to/ricco020/your-drive-says-smart-passed-and-is-already-failing-the-5-attributes-that-actually-predict-it-6g",
+   "date": "2026-08-15T15:52:24+00:00",
+   "summary": "SMART's PASSED verdict stays green long after sectors start going unreadable. The five attributes that predict failure, and the order of operations that decides whether the data survives.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Twenty-Hour Fuse",
+   "url": "https://dev.to/jeromefromhk/the-twenty-hour-fuse-4lcl",
+   "date": "2026-08-15T14:15:54+00:00",
+   "summary": "Two nights of debugging, one incident left to write about. The night of August 14th, a Claude Code...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-5: Ingress/Gateway]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-5-ingressgateway-4cbc",
+   "date": "2026-08-15T12:06:46+00:00",
+   "summary": "This is Level 5 of our Kubernetes networking series. So far, we've built up a solid...",
+   "points": 2,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-4: Services Discovery/DNS]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-4-services-discoverydns-3de9",
+   "date": "2026-08-15T11:04:40+00:00",
+   "summary": "This is Level 4 of our Kubernetes networking series. In Level 3, we introduced the Service — a stable...",
+   "points": 3,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-3: Services]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-3-services-5h3",
+   "date": "2026-08-15T10:35:02+00:00",
+   "summary": "This is Level 3 of our Kubernetes networking series. In Level 2, we traced how Pod-to-Pod...",
+   "points": 3,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-2: Pod-to-Pod Communication]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh",
+   "date": "2026-08-15T10:20:11+00:00",
+   "summary": "This is Level 2 of our Kubernetes networking series. In Level 0, we covered core Linux networking...",
+   "points": 3,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Happens When You Run a Program on Linux?",
+   "url": "https://medium.com/@mitul_digifello/what-happens-when-you-run-a-program-on-linux-2e049211aeda?source=rss------bash-5",
+   "date": "2026-08-15T09:33:58+00:00",
+   "summary": "You open a terminal, type: Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Cómo solucionar `Code exited (1)` en Docker en Raspberry Pi",
+   "url": "https://dev.to/erickeduardoramos03/como-solucionar-code-exited-1-en-docker-en-raspberry-pi-53bj",
+   "date": "2026-08-15T09:19:27+00:00",
+   "summary": "Cómo solucionar Code exited (1) en Docker en Raspberry Pi            ¿Por qué ocurre este...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-1: Pod Networking]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-1-pod-networking-3agp",
+   "date": "2026-08-15T06:30:00+00:00",
+   "summary": "This is Level 1 of our Kubernetes networking series. In Level 0, we built a foundation of core Linux...",
+   "points": 3,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Did That Free-Model Setup Script Actually Do? Audit It With Honeypot Files and Syscall Traces",
+   "url": "https://dev.to/github_7727/what-did-that-free-model-setup-script-actually-do-audit-it-with-honeypot-files-and-syscall-traces-4eg1",
+   "date": "2026-08-15T03:19:10+00:00",
+   "summary": "Here is why this article is worth your time: you cannot tell what a generated setup script does by...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "The One Flag That Makes a Linux Search Show You Where, Not Just What",
    "url": "https://medium.com/my-lifes-mirrow/the-one-flag-that-makes-a-linux-search-show-you-where-not-just-what-8fe3c4fc30c1?source=rss------bash-5",
@@ -189,50 +374,6 @@
    "lang": "en"
   },
   {
-   "title": "8 Linux Myths Even Senior Engineers Still Fall For (And How They Hurt Production)",
-   "url": "https://dev.to/asepsayyad007/8-linux-myths-even-senior-engineers-still-fall-for-and-how-they-hurt-production-1o01",
-   "date": "2026-08-12T16:39:23+00:00",
-   "summary": "Think years of experience make you immune to Linux misconceptions? Here are the bad habits,...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Actually Read Linux Logs When Something's Broken",
-   "url": "https://dev.to/alex_mitu_e264ef6e0d71197/how-to-actually-read-linux-logs-when-somethings-broken-2mhb",
-   "date": "2026-08-12T14:51:08+00:00",
-   "summary": "It's 3am, a service is down, and you have exactly one clue: something logged an error somewhere. This...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Server Administration: The Skills That Actually Make You Dangerous in Production",
-   "url": "https://dev.to/yashvikothari/linux-server-administration-the-skills-that-actually-make-you-dangerous-in-production-47h6",
-   "date": "2026-08-12T08:57:53+00:00",
-   "summary": "Linux Server Administration: The Skills That Actually Make You Dangerous in...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Copilot CLI 'Backed Up' Its Own Log With a Hardlink, Then Destroyed Both Copies",
-   "url": "https://dev.to/ramdai_bista/copilot-cli-backed-up-its-own-log-with-a-hardlink-then-destroyed-both-copies-b5e",
-   "date": "2026-08-12T05:47:35+00:00",
-   "summary": "ln events.jsonl events.jsonl.bak-20260624 : &gt; events.jsonl",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Bash Aliases That Will Save You Hours",
    "url": "https://medium.com/@bektiaw/bash-aliases-that-will-save-you-hours-7ab982cae507?source=rss------bash-5",
    "date": "2026-08-11T16:31:01+00:00",
@@ -260,127 +401,6 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "# Why I Used Bash, C and C# to Build One Linux Tool",
-   "url": "https://dev.to/yathartsalil/-why-i-used-bash-c-and-c-to-build-one-linux-tool-9pa",
-   "date": "2026-08-11T11:46:13+00:00",
-   "summary": "Using three programming languages to build a small Linux system-information tool sounds...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "5 Linux Terminal Combos Every Developer Should Know (Plus Automation Scripts)",
-   "url": "https://dev.to/astrosss/5-linux-terminal-combos-every-developer-should-know-plus-automation-scripts-1d12",
-   "date": "2026-08-11T00:58:21+00:00",
-   "summary": "Hey everyone! Over the last few years managing production servers and developer workstations, I...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your AI Coding Assistant Writes Shell Commands. Do You Actually Test Them Before They Run?",
-   "url": "https://dev.to/apppro_5726/your-ai-coding-assistant-writes-shell-commands-do-you-actually-test-them-before-they-run-1h3e",
-   "date": "2026-08-10T08:40:06+00:00",
-   "summary": "There's a popular conversation going around DEV right now about giving AI agents more tools and what...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Sign up and receive $100 on Google Play!",
-   "url": "https://dev.to/al_islam_92240b3be93b2b91/sign-up-and-receive-100-on-google-play-38me",
-   "date": "2026-08-09T13:52:11+00:00",
-   "summary": "https://sites.google.com/view/alislamall/home",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "useful-bash-functions",
-   "url": "https://dev.to/mike_e677ba7447/useful-bash-functions-5ajn",
-   "date": "2026-08-07T17:17:51+00:00",
-   "summary": "I have developed a useful set of more than 70 bash functions including: GET_ARGS: Define, parse and...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Quarantine Lanes for AI-Generated Patches: A Bash Gate You Can Run for Free",
-   "url": "https://dev.to/hackgo_6978/quarantine-lanes-for-ai-generated-patches-a-bash-gate-you-can-run-for-free-2ghe",
-   "date": "2026-08-07T03:01:37+00:00",
-   "summary": "Last month I watched a teammate demo an agent workflow: connect the model, point it at an open issue,...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Automating Java Servlet Deployments with Gradle and Bash",
-   "url": "https://dev.to/yogeth-dev/automating-java-servlet-deployments-with-gradle-and-bash-3kjd",
-   "date": "2026-08-05T07:55:47+00:00",
-   "summary": "Step 1: Configuring Gradle for Web Archives (.war)   To create standard web archives, ensure...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Let gzip Find the Signal in a Pile of Documents",
-   "url": "https://dev.to/jlmartel/how-to-let-gzip-find-the-signal-in-a-pile-of-documents-2o9g",
-   "date": "2026-08-03T23:19:53+00:00",
-   "summary": "Suppose you have a directory full of text documents.  Most are repetitive, padded with boilerplate,...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "git log tricks you really should know",
-   "url": "https://dev.to/pikotutorial/git-log-tricks-you-really-should-know-30gp",
-   "date": "2026-08-03T05:00:00+00:00",
-   "summary": "git log is one of the most powerful and yet most underused inspection tools in Git. While many...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your cron job did not fail. It never ran.",
-   "url": "https://dev.to/dcwiklik/your-cron-job-did-not-fail-it-never-ran-31o",
-   "date": "2026-08-02T20:41:24+00:00",
-   "summary": "Exit codes tell you how a job ended. They tell you nothing about a job that never started, which is the failure mode that actually costs you data.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Reinstall your VPS in one command - no control panel, no rescue ISO",
-   "url": "https://dev.to/codebyjawad/reinstall-your-vps-in-one-command-no-control-panel-no-rescue-iso-4h98",
-   "date": "2026-08-01T08:53:32+00:00",
-   "summary": "One-command network reinstall for VPS and bare-metal: Debian, Ubuntu, Alpine, AlmaLinux, Rocky, openEuler, or Windows from official images.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -824,6 +844,16 @@
    "lang": "en"
   },
   {
+   "title": "Learn Bash Shell Scripting from Zero to Hero (Part 1/2)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vd2dfSnZLYTZJd1psaEktSzNWNlFxUENoTXNCaUdZcXA1OS1sM0d2bGhBdlJhOXdCSjF0Zk5pZWtKR251UVJCNENEX0FMTlF5Um1EQjFn?oc=5",
+   "date": "2023-12-16T07:31:15+00:00",
+   "summary": "Learn Bash Shell Scripting from Zero to Hero (Part 1/2) YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "أوامر اللينكس (6) (chown chgrp chmod)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aa3dCRVJ6S0ZZT0Iwc1NOdW1MNUhGT1NJaWhUbEd3QjIwZWRrZXhBRzRUQmliTVhsOW5vTTJFMmtRdVhsMEF0clk1TGhJcExwdlphVW53?oc=5",
    "date": "2023-12-12T13:54:06+00:00",
@@ -984,6 +1014,16 @@
    "lang": "en"
   },
   {
+   "title": "Passing Arguments to the Script | Shell Scripting Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhbzVoY3R4ekdmNVNSV2FJWXFVeWVLc3Z3WmtWVU9qWnU3LWpFRG0tRlVKVkZTODhpemZtNUU1cnRDaXJ4SmY3MXhTQzMzM1F4NlFIOWN3?oc=5",
+   "date": "2022-12-03T21:34:48+00:00",
+   "summary": "Passing Arguments to the Script | Shell Scripting Tutorial for Beginners YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How To Write Bash Scripts In Linux - Complete Guide (Part 12 - Functions)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QUGhxczJtMnJ1ekFmclA4VzJtTHlNdlhsTUMzYzdNMlFUVnVza0FCci01R3pXek5uSGJCZ0VVNF9lc0JWRC1fbTJjNVZwMkJFeUVURVp3?oc=5",
    "date": "2022-11-28T17:00:08+00:00",
@@ -1082,6 +1122,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "كورس أساسيات Command Line | تعلم التيرمنال من الصفر",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pM1licmxObF8xQ0JuTTZqSW5uUFpiWnRCX2pCOXFMYUY4cW1YT0IweGlhbU1fSUV0a2tTbmVkUUZlWUlwZURGT2pfNWJHREVWUklsczF3?oc=5",
+   "date": "2022-08-26T10:55:56+00:00",
+   "summary": "كورس أساسيات Command Line | تعلم التيرمنال من الصفر YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮",
@@ -1444,40 +1494,20 @@
    "lang": "ar"
   },
   {
+   "title": "Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac Terminal",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdTlEOGxTWW82d0N1SG9VUHJMZXpod2toTDhuSVI5TzJ2Yk9FQUdDc3dQcVB3S2dibXFBRHZuQkdjdjBIZWxGNUt6SkJod0NsU1lqUE53?oc=5",
+   "date": "2017-12-13T17:30:00+00:00",
+   "summary": "Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac Terminal YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Bash Shell Scripting Tutorial | Shell Scripting Tutorial | Learn Shell Programming",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4SjU5RlhzbThLUGQxQjlOV1E4bXlLTkVjNnFaTzlJQlBaSFY4QThNQkdoeTZZTHJNV0Z1dDlkbmNHd1VrOFNJNzZ6SGFWN0xYUlg0WmZn?oc=5",
    "date": "2017-07-26T18:48:01+00:00",
    "summary": "Bash Shell Scripting Tutorial | Shell Scripting Tutorial | Learn Shell Programming YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Shell Scripting Tutorial for Beginners 28 - How to debug a bash script",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNTJKRkpVVXlPVHRQQTlHVXFWU0c1Rk13a25wbk1DbWZvdGI5SnhwVmNXRkRsZnMweEt4dGtXZ18zMEFQazN0UTNUaXdGN2xIN0ZhQ0xB?oc=5",
-   "date": "2017-06-05T16:38:02+00:00",
-   "summary": "Shell Scripting Tutorial for Beginners 28 - How to debug a bash script YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Shell Scripting Tutorial for Beginners 21 - Select loop",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdXFaQTljR0lFVVNFUXJzclgzMk5QbndNdlhRckNZX2VGOFhNUDBHQVI2OHV5Yk93S3ZVT2hYVlBSUDdaT2RvRlBhempDYTFhOEluWUpB?oc=5",
-   "date": "2017-05-14T20:52:54+00:00",
-   "summary": "Shell Scripting Tutorial for Beginners 21 - Select loop YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GTzVtMmxvaW9DSG4zTHF6VnRrMm9QVG1zYm11MXN1OHN2QVRLOGgzbWlrNzEyUHp1bmdkeHFlNGJRcG1DaDlCVnFJUFJDak4xeTN0LWNB?oc=5",
-   "date": "2017-04-09T11:37:59+00:00",
-   "summary": "Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",

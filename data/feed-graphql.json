@@ -1,8 +1,183 @@
 {
- "generated": "2026-08-15T04:27:52.185700+00:00",
+ "generated": "2026-08-16T05:05:57.306163+00:00",
  "tech": "graphql",
- "count": 118,
+ "count": 120,
  "items": [
+  {
+   "title": "10 Sites for Buying Aged Textnow Accounts In 2026",
+   "url": "https://dev.to/carlafarleyjy57g/10-sites-for-buying-aged-textnow-accounts-in-2026-nb4",
+   "date": "2026-08-16T04:59:43+00:00",
+   "summary": "Introduction TextNow is a communication service that allows users to connect with others through...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Support Call Audio in 2026: Choosing Batch Transcription APIs by Quality and Latency",
+   "url": "https://dev.to/noahhayes7250/support-call-audio-in-2026-choosing-batch-transcription-apis-by-quality-and-latency-3gip",
+   "date": "2026-08-16T04:07:45+00:00",
+   "summary": "Short answer: For a B2B SaaS support queue, choose an asynchronous batch transcription API with...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Ran REST, gRPC, and GraphQL in Production — Here's What I'd Pick Again",
+   "url": "https://dev.to/sirmax/i-ran-rest-grpc-and-graphql-in-production-heres-what-id-pick-again-1edg",
+   "date": "2026-08-16T02:06:34+00:00",
+   "summary": "Running REST, gRPC, and GraphQL side by side in production: the tradeoffs, the debugging pain, the caching problem, and what I'd pick again.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Paywall Any API Endpoint With Two Prices: Sats or Compute",
+   "url": "https://dev.to/zekebuilds/paywall-any-api-endpoint-with-two-prices-sats-or-compute-1jdh",
+   "date": "2026-08-16T02:02:59+00:00",
+   "summary": "Put a per-call price on any HTTP endpoint. Callers pay in Lightning sats or in proof-of-work compute. No accounts, no API keys, no billing dashboard. Real curl examples against a live server.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Getting 429 Too Many Requests? Fix the Client Before You Ask for a Higher Quota",
+   "url": "https://dev.to/libme/getting-429-too-many-requests-fix-the-client-before-you-ask-for-a-higher-quota-7c1",
+   "date": "2026-08-16T00:25:01+00:00",
+   "summary": "Why 429s keep coming back after you add retries, and how to build a client-side limiter that honors Retry-After.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why AI API Costs Are Harder to Estimate Than Price Per Million Tokens",
+   "url": "https://dev.to/silver_stone_19/why-ai-api-costs-are-harder-to-estimate-than-price-per-million-tokens-12hd",
+   "date": "2026-08-15T23:51:20+00:00",
+   "summary": "A single AI API request can cost less than a cent and still turn into a four-figure monthly...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Everything You Need for API Automation (A Complete Blueprint)",
+   "url": "https://dev.to/shefali_qa/everything-you-need-for-api-automation-a-complete-blueprint-44fn",
+   "date": "2026-08-15T21:44:51+00:00",
+   "summary": "Setting up an API automation framework requires aligning business goals, developer specifications,...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Test the second access path before you call a metric unreadable",
+   "url": "https://dev.to/jacksonxly/test-the-second-access-path-before-you-call-a-metric-unreadable-4m2j",
+   "date": "2026-08-15T19:38:19+00:00",
+   "summary": "I keep a list of surfaces whose numbers I could not read, with a short reason written next to each...",
+   "points": 1,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Daily Competitor SEO & Tech-Stack Monitor with n8n and a Single API Call",
+   "url": "https://dev.to/josejux/building-a-daily-competitor-seo-tech-stack-monitor-with-n8n-and-a-single-api-call-h8n",
+   "date": "2026-08-15T18:08:17+00:00",
+   "summary": "Manually checking a handful of competitor sites every week for SEO regressions or a tech-stack change...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Safely Fetch Metadata from User-Submitted URLs (Without Getting Hit by SSRF or DNS Rebinding)",
+   "url": "https://dev.to/josejux/how-to-safely-fetch-metadata-from-user-submitted-urls-without-getting-hit-by-ssrf-or-dns-rebinding-1nfo",
+   "date": "2026-08-15T17:53:33+00:00",
+   "summary": "If your app lets a user paste in a URL — a link preview, a \"import from website\" button, an AI agent...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Keyword search is the wrong tool for monitoring anything",
+   "url": "https://dev.to/tbalcewicz/keyword-search-is-the-wrong-tool-for-monitoring-anything-1eaa",
+   "date": "2026-08-15T17:04:17+00:00",
+   "summary": "There is a specific bug that shows up in almost every monitoring system I have seen, and it never...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building RupeeGPT: A Multilingual Voice AI Financial Assistant for Bharat",
+   "url": "https://dev.to/mayank_sharma_814005f2650/building-rupeegpt-a-multilingual-voice-ai-financial-assistant-for-bharat-f78",
+   "date": "2026-08-15T16:51:27+00:00",
+   "summary": "How I Built RupeeGPT: A Voice-First AI Financial Assistant for India in 10...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "You can tell which ATS a company uses by looking at its careers URL",
+   "url": "https://dev.to/udaninn/you-can-tell-which-ats-a-company-uses-by-looking-at-its-careers-url-3i5g",
+   "date": "2026-08-15T14:27:49+00:00",
+   "summary": "Every job-data project starts with the same question: this company has a careers page, but what is...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "# The Internet Is Slowly Becoming an API",
+   "url": "https://dev.to/yathartsalil/-the-internet-is-slowly-becoming-an-api-2627",
+   "date": "2026-08-15T13:19:09+00:00",
+   "summary": "For most of its history, the internet was designed for humans.  We open a browser.  We see a...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What do you know about GraphQL ?",
+   "url": "https://medium.com/@kariim.baggarii/what-do-you-know-about-graphql-cb84b3e2ce36?source=rss------graphql-5",
+   "date": "2026-08-15T09:27:26+00:00",
+   "summary": "Before we dive into GraphQL, let&#x2019;s answer the question you probably already have in mind: &#x201C;Isn&#x2019;t REST enough?&#x201D; Continue reading on Medium »",
+   "tech": "graphql",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Integrating with Poland's KSeF: five things that aren't in the docs",
+   "url": "https://dev.to/stackedboost/integrating-with-polands-ksef-five-things-that-arent-in-the-docs-4mff",
+   "date": "2026-08-15T08:39:33+00:00",
+   "summary": "Poland's e-invoicing system is mandatory now. Five things I got wrong shipping a production integration against it, including one that cost three weeks and turned out to be a bad row in a government database.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Let a Free Model Try to Break Your API Before Your Users Do",
    "url": "https://dev.to/codepy_1473/let-a-free-model-try-to-break-your-api-before-your-users-do-539m",
@@ -169,28 +344,6 @@
    "lang": "en"
   },
   {
-   "title": "WhatsApp Contact APIs: Add a Contact or Send a vCard?",
-   "url": "https://dev.to/unifyport/whatsapp-contact-apis-add-a-contact-or-send-a-vcard-3gj2",
-   "date": "2026-08-14T07:21:17+00:00",
-   "summary": "Two Similar Requests, Two Different Operations   “Add this person to WhatsApp contacts” and...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AgentDataHub: a data marketplace your agent can pay for by itself",
-   "url": "https://dev.to/logan_miller_4f1197f8b642/agentdatahub-a-data-marketplace-your-agent-can-pay-for-by-itself-9cl",
-   "date": "2026-08-14T07:14:33+00:00",
-   "summary": "I built something annoying to explain at parties, so here is the short version. AgentDataHub is 267...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "GraphQL as a Thin Orchestration Layer and When to Choose It Over REST",
    "url": "https://medium.com/@0l4m1de/can-graphql-replace-rest-api-ec740e343477?source=rss------graphql-5",
    "date": "2026-08-14T07:12:00+00:00",
@@ -201,17 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "Persisted GraphQL Queries: Test the APQ Fallback Before Your Interview",
-   "url": "https://dev.to/karuha/persisted-graphql-queries-test-the-apq-fallback-before-your-interview-1cb1",
-   "date": "2026-08-13T09:48:05+00:00",
-   "summary": "Build a small Node.js persisted-query contract, test APQ recovery versus strict safelisting, and explain the operational trade-offs in a GraphQL interview.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Warp | 20 , GraphQl",
    "url": "https://medium.com/@mikecode/warp-20-graphql-cd42704e1235?source=rss------graphql-5",
    "date": "2026-08-13T01:58:33+00:00",
@@ -219,17 +361,6 @@
    "tech": "graphql",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Your GraphQL client can't browse a schema? That's not a GraphQL client",
-   "url": "https://dev.to/arvindh_httpbot/your-graphql-client-cant-browse-a-schema-thats-not-a-graphql-client-2kdl",
-   "date": "2026-08-12T17:26:59+00:00",
-   "summary": "Here's a small test. Open whatever you're using to test GraphQL on your phone right now, and try to...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -273,28 +404,6 @@
    "lang": "en"
   },
   {
-   "title": "Meetup has no public API, and its Apollo cache keys change every page load",
-   "url": "https://dev.to/devil_scrapes/meetup-has-no-public-api-and-its-apollo-cache-keys-change-every-page-load-263a",
-   "date": "2026-08-11T18:36:29+00:00",
-   "summary": "Quick answer   Meetup has no public, callable API — every group, event-listing, and...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why your agent's tool list keeps drifting away from your database",
-   "url": "https://dev.to/michael_agentic/why-your-agents-tool-list-keeps-drifting-away-from-your-database-3hmb",
-   "date": "2026-08-11T08:56:17+00:00",
-   "summary": "The usual pitch for GraphQL and agents is that the model requests exactly the fields it needs, so you...",
-   "points": 2,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "اختبار Authentication في GraphQL باستخدام JWT Token واكتشاف الـ Unauthorized Cases.🔐",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQUVORDdlaFY2VWNxbDBUVy1SVHVMcWFlcEctRHk1WlJQNFJUTkxUU3pwdkFmWXltSHRjOW1tcEQ1UEtRb3hDbjdMVVM1ZEVqZkhjYkRR?oc=5",
    "date": "2026-08-11T08:18:07+00:00",
@@ -313,105 +422,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "140 Blog Posts To Learn About Graphql",
-   "url": "https://dev.to/learn_repo/140-blog-posts-to-learn-about-graphql-4fi6",
-   "date": "2026-08-07T07:00:26+00:00",
-   "summary": "Let's learn about Graphql via these 140 free blog posts. They are ordered by HackerNoon...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Two GraphQL Queries Against the Same Schema Can Differ in Cost by 1000x",
-   "url": "https://dev.to/dev_encyclopedia/why-two-graphql-queries-against-the-same-schema-can-differ-in-cost-by-1000x-gpe",
-   "date": "2026-08-06T04:34:46+00:00",
-   "summary": "REST has a nice property: each endpoint has a roughly fixed cost. GraphQL throws that out. A single...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Uptime Monitoring for GraphQL APIs (Free, Multi-Region)",
-   "url": "https://dev.to/vigilmon/uptime-monitoring-for-graphql-apis-free-multi-region-4kn8",
-   "date": "2026-08-05T22:14:50+00:00",
-   "summary": "GraphQL APIs always return 200 OK — even when they fail. Learn how to write proper health checks for GraphQL, detect resolver errors, and set up external monitoring that actually works.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Shopify's REST Admin API Has Been Legacy for Two Years and Still Has No Removal Date",
-   "url": "https://dev.to/alexandr_m_c387d9a4e6fde/shopifys-rest-admin-api-has-been-legacy-for-two-years-and-still-has-no-removal-date-11d0",
-   "date": "2026-08-05T17:15:49+00:00",
-   "summary": "Every few weeks a client forwards me the same kind of link: an article, a thread, a vendor page, all...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My Contribution Graph Broke and My Data Was Fine: Three Queries Told Me",
-   "url": "https://dev.to/hideyukimori/my-contribution-graph-broke-and-my-data-was-fine-three-queries-told-me-3b7j",
-   "date": "2026-08-05T16:48:23+00:00",
-   "summary": "GitHub's profile graph showed Something went wrong. Before assuming account damage or a platform outage, three control queries narrowed it to one timing-out aggregation — and the data was never at risk.",
-   "points": 3,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "FieldCount vs ResolverCount: a small but important distinction for GraphQL query cost in gqlgen",
-   "url": "https://dev.to/ducit247/fieldcount-vs-resolvercount-a-small-but-important-distinction-for-graphql-query-cost-in-gqlgen-25pm",
-   "date": "2026-08-04T09:22:09+00:00",
-   "summary": "The problem   gqlgen has extension.ComplexityLimit and there's a third-party depth-limit...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Resolvers",
-   "url": "https://dev.to/nandish_ug/resolvers-48jn",
-   "date": "2026-07-31T13:17:00+00:00",
-   "summary": "In GraphQL, a resolver is a background function that is responsible for fetching or computing the...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build a GraphQL API with Python and Strawberry",
-   "url": "https://dev.to/qingluan/build-a-graphql-api-with-python-and-strawberry-3iol",
-   "date": "2026-07-31T10:00:05+00:00",
-   "summary": "Build a GraphQL API with Python and Strawberry   tags: python, graphql, api,...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Understanding the N+1 Problem in GraphQL (and Why It’s Not Just GraphQL)",
-   "url": "https://dev.to/wundergraph/understanding-the-n1-problem-in-graphql-and-why-its-not-just-graphql-1dg2",
-   "date": "2026-07-29T23:02:05+00:00",
-   "summary": "TL;DR   The N+1 problem is a general data-access anti-pattern that can appear in REST,...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "If context is king, architecture is the castle",
@@ -744,6 +754,16 @@
    "lang": "en"
   },
   {
+   "title": "الدرس الرابع: تطبيق عملي على تجاوز حماية Bruteforce في GraphQL - portswigger",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnSTM0WjFrZjBTNEtaajJiMmpnVWhtbU1mcWlJTGdTR0pkTVlCYkdvZEVaQkFPbmsxSTdVbVJKNEdzZTdMUWYxRDkwelNRdmVaSVZibllB?oc=5",
+   "date": "2023-10-08T17:42:27+00:00",
+   "summary": "الدرس الرابع: تطبيق عملي على تجاوز حماية Bruteforce في GraphQL - portswigger YouTube",
+   "tech": "graphql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح ال GraphQL ف 100 ثانيه",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZUXFlTlJVMzFxcm9iYXF3c3M1T3FiUm9haEpjTlc5WjZySXlsSjJMQktOdUdwZXc3NG85VWRyVXl3THZXZldaMW03bHFwdzB4QUxuS05n?oc=5",
    "date": "2023-10-07T19:48:34+00:00",
@@ -808,6 +828,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDNXpNTFBZcDc4OW1yWV9EWmMyNjIxYkpXSzRhWE52dzRZbTF0bW5XTUJWU0ZWRzJpSDBhS0xxcU9SNGc4MndTSnZWbW9CSVNaaXZaX2F3?oc=5",
    "date": "2023-07-06T07:58:13+00:00",
    "summary": "GraphQL Crash Course #9 - Update Mutation YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "GraphQL Crash Course #8 - Mutations (Adding & Deleting Data)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CbHZmU3g1TjNTTHBnVTZwR21LSHBjc2tMbEVHR2h1c01wbkZocWt6c2VNdkdObGg1S3kybllWUFF2TWc3UmtsS2pJTUprakpBVjBBMm1B?oc=5",
+   "date": "2023-07-05T10:23:30+00:00",
+   "summary": "GraphQL Crash Course #8 - Mutations (Adding & Deleting Data) YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1198,16 +1228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MaUNwVHM0WnZyVFcyeWlQeVd2akdsVDE4YmRHN01fU0lkQnpQdHNGV3REVGR3QzdzVkNsUTZEcTF0ZmN5cEpqSEgtazBjWjlZa2NRVmh3?oc=5",
    "date": "2020-12-15T15:21:17+00:00",
    "summary": "GraphQL Tutorial Beginner - Learn GraphQL in NodeJS / ExpressJS YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "GraphQL User Registration and Authentication with JWT Backend",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUlpKcVYzUS1DMWlSbE51VHJ5anBfd2JtVGZsRmg0bmNvemlUUllfRE01V2JVRTNSVzBOZWtxMEVQNWxNT3VlZVljSE9YUjRGa0lOUHhR?oc=5",
-   "date": "2020-12-07T16:46:05+00:00",
-   "summary": "GraphQL User Registration and Authentication with JWT Backend YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",

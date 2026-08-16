@@ -1,8 +1,71 @@
 {
- "generated": "2026-08-15T04:18:43.699111+00:00",
+ "generated": "2026-08-16T04:56:22.979506+00:00",
  "tech": "php",
  "count": 220,
  "items": [
+  {
+   "title": "I built a Laravel package for LLM workflows with hard token and cost limits",
+   "url": "https://dev.to/para1992/i-built-a-laravel-package-for-llm-workflows-with-hard-token-and-cost-limits-1gb5",
+   "date": "2026-08-15T13:50:08+00:00",
+   "summary": "I'm working on a Laravel package for building reliable LLM workflows. One of the use cases is content...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Five Ways to Run Laravel: A Runtime Comparison Journey, Part 1",
+   "url": "https://oguzhankrcb.medium.com/five-ways-to-run-laravel-a-runtime-comparison-journey-part-1-3f310f46a3a0?source=rss------php-5",
+   "date": "2026-08-15T13:07:40+00:00",
+   "summary": "Hello, I had this idea to compare different runtimes for Laravel for a long time and finally I decided to run it. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building Vendzoo: How I Built a Full Business OS for SMEs — Fraud Detection, 4 Couriers, RFM Engine & More",
+   "url": "https://dev.to/polash/building-vendzoo-how-i-built-a-full-business-os-for-smes-fraud-detection-4-couriers-rfm-engine-2094",
+   "date": "2026-08-15T09:31:54+00:00",
+   "summary": "From COD fraud nightmares to automated intelligence: the story of building a business platform for...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel Database Performance: How to Find and Fix Slow Queries",
+   "url": "https://medium.com/@harristarstech/laravel-database-performance-how-to-find-and-fix-slow-queries-b4f1228b108a?source=rss------php-5",
+   "date": "2026-08-15T08:46:56+00:00",
+   "summary": "Laravel Database Performance: Finding and Fixing Slow Queries Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Using Zmanim-WP Shortcodes for Shabbat",
+   "url": "https://hackernoon.com/using-zmanim-wp-shortcodes-for-shabbat?source=rss",
+   "date": "2026-08-15T06:00:02+00:00",
+   "summary": "This installment in the free WordPress plugin tutorial covers Shabbat shortcodes: candle lighting, Torah portion, and holiday names.",
+   "tech": "php",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Full-Page Edge Caching for Laravel Behind Cloudflare: A Practical Guide",
+   "url": "https://dev.to/webpioneer/full-page-edge-caching-for-laravel-behind-cloudflare-a-practical-guide-2j98",
+   "date": "2026-08-15T05:44:11+00:00",
+   "summary": "Of every performance optimization we have shipped for Laravel clients — OPcache tuning, query fixes,...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Setting Up Php on a Windows Server EC2 Instance",
    "url": "https://medium.com/@srinidhi.m.n.sharma/setting-up-php-on-a-windows-server-ec2-instance-381beafe465b?source=rss------php-5",
@@ -31,6 +94,17 @@
    "tech": "php",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Verifying a WhatsApp webhook in Laravel: the three silent traps",
+   "url": "https://dev.to/dineshstack/verifying-a-whatsapp-webhook-in-laravel-the-three-silent-traps-25df",
+   "date": "2026-08-14T19:15:05+00:00",
+   "summary": "Three things go wrong when a Laravel application receives WhatsApp webhooks, and each produces a...",
+   "points": 1,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -991,10 +1065,10 @@
    "title": "🔥 PHP Full Course 2025 - Learn PHP from Scratch | PHP Tutorial for Beginners 🚀",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tR1FZM0M0MHVEYzZoMGMtbmZOT1JlS0Zhc0lJX3psREZ2ZkNFNl9ab1JGYWF0cU1iWE9yREIzWXBpTFRTenFfcmdPcnd4ekRxZXJEZEpn?oc=5",
    "date": "2025-02-19T21:38:42+00:00",
-   "summary": "🔥 PHP Full Course 2025 - Learn PHP from Scratch | PHP Tutorial for Beginners 🚀 youtube.com",
+   "summary": "🔥 PHP Full Course 2025 - Learn PHP from Scratch | PHP Tutorial for Beginners 🚀 YouTube",
    "tech": "php",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1448,6 +1522,16 @@
    "lang": "ar"
   },
   {
+   "title": "20 | Connect to a Database From a Website Using PHP | 2023 | Learn PHP Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Y3pUUU1VeTFVNm9oaWlnVWtaRFF2elJ6alJDNldvcXFTVFoxXzhNNERXTFlodUpQMFpxYWJWUWNQN0FGMnI4UDNuMzRtLXpDODdGZExR?oc=5",
+   "date": "2023-06-05T10:00:39+00:00",
+   "summary": "20 | Connect to a Database From a Website Using PHP | 2023 | Learn PHP Full Course for Beginners YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "أفضل مجال ولغة لل Backend هل Python ولا NodeJS ولا PHP ؟ مقارنة بين لغات الباك إند",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsRThmZnh1VFpmMkxaLVl4QndKc0Y4NEtHMmp2dXVjOWtPQTZBLXFERW5xajZualF1c0xNRkx6N3dFT3ozdTBCMFZVaE5CLTNOOUg0ZER3?oc=5",
    "date": "2023-05-14T21:57:30+00:00",
@@ -1718,6 +1802,16 @@
    "lang": "ar"
   },
   {
+   "title": "02- Set laravel database connection for laravel multi-tenancy",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qLTIyS0d2T3FXa2ZlVmRJOUo5eW1mTF9ZS21WT3gzTXVaNDhicEJIbGd1a0hoTGVQTng1OGwtcE5uTlR6bk0tcnpCd055dkxmVV9jLU5R?oc=5",
+   "date": "2022-10-24T20:42:57+00:00",
+   "summary": "02- Set laravel database connection for laravel multi-tenancy YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "23 - You are now ready to enter the sales course | دورة شرح لارافيل 9 كاملا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UVzg4Z0Z1bHZXcFVadTFQM2w1b1BwM2F4Y29DX0c0N0Z5eTJCZFliTFFXNGlFWjJ1YUVqX3dVNDRWNU5RUGVRWm02d0VsWHhKblA1alR3?oc=5",
    "date": "2022-10-20T00:20:24+00:00",
@@ -1762,6 +1856,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJV3hxaXYwamY5VHY2Tk1kWWlHMnRQcm92aFdDVi1wSmJMT3ltbF9VWmdtVDB1dm4tRE5mWTZOZ3o2UDhBMDlGbUp1NFFVekhpeDBsVTVR?oc=5",
    "date": "2022-08-26T19:57:32+00:00",
    "summary": "5 - تحميل لوحة التحكم - مشروع لارافيل كامل php laravel sales pos project #laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "3 - تحميل محرر بيئة العمل - مشروع لارافيل كامل php laravel sales pos project #laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03eUZJOEpmTzRBbGNGLXl5OUF5UVFSdjFvN1JFZFFtcTg0SzFrTTFjV0EtRXJkQ0JpQ3ZaXy1iVU1raFktcTdEUkxFS3BTa1BNZ1RtQ2Fn?oc=5",
+   "date": "2022-08-26T12:21:32+00:00",
+   "summary": "3 - تحميل محرر بيئة العمل - مشروع لارافيل كامل php laravel sales pos project #laravel YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1846,6 +1950,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "PHP Full Course For Beginners | PHP Full Course | PHP Tutorial | Intellipaat",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lYXMwNFVWb3gzX2VVcnByakNJbWNvZm13dVRQemJ4UVVvOV9mNFBsUEtQZnFjM3RmNmk1dkt3UFpmdlFXbmsyMWVNaVVoT1ZwdWQxYUNB?oc=5",
+   "date": "2022-07-23T12:59:52+00:00",
+   "summary": "PHP Full Course For Beginners | PHP Full Course | PHP Tutorial | Intellipaat YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "الجزء (الاول)تصميم وبرمجة موقع الكتروني نظام حجوزات php.html.css",
@@ -2038,26 +2152,6 @@
    "lang": "ar"
   },
   {
-   "title": "Learn PHP for WordPress | FREE COURSE",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xTTBtU0lqYkhsb0l3Vm9BM1RUMWtXVlhnX1V2RjgyRkwzNXlsbS13TjljOUtDTE1ESm9rak16V2dQU19nang1dzNLSFYzbGJvcndzR1hn?oc=5",
-   "date": "2022-04-06T15:00:45+00:00",
-   "summary": "Learn PHP for WordPress | FREE COURSE YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn PHP 8 In Arabic 2022 - #001 - Introduction And Important Information",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ETHM3TW5xMEpYN1A5RW1sZWd0SGlVVlFFR2ZSUG1ZbmxpTzNPdXRpTDV5MHhTSXFXekpiblFoWUdVaEczNUpKdFZiTi01bDljZEZPQjhn?oc=5",
-   "date": "2022-04-04T22:25:55+00:00",
-   "summary": "Learn PHP 8 In Arabic 2022 - #001 - Introduction And Important Information YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعلم تصميم وتطوير متجر الكتروني html5 , css3 , php , sql",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50OHJWbzZxOU5wSGlFbXVBaEttT1ZqblJTU0dTNnQ2WXVHUUZ2cGFubXFQeWc2U3k1c2FadS1JUzQya1ZQVnpyblZXbm52RGdIclhWN2hycWJ4cVNoYWhubk5kTHdMVXcxVHJrRTJPV3gtR2xJUEJGR2dKZjI?oc=5",
    "date": "2022-04-04T11:43:52+00:00",
@@ -2066,46 +2160,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "PHP For Beginners | 3+ Hour Crash Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rVC14QmEtRno3bG10WFkxMFlWdXlfaEVRcjhLTUFYczEwb3gxU1ZnREFLYm1tRmRVSGpmQWMtZVZkYmhseGp2aEI5REJlMGhpSFAzM1VB?oc=5",
-   "date": "2022-03-30T13:00:05+00:00",
-   "summary": "PHP For Beginners | 3+ Hour Crash Course YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PHP in 8 Minutes 🔥",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVG54blg4bjc0Z2JiVndoYk5YVGp2NGxvUW9BMWJ5bmNYSm5SQ1dnWDhoQW9RdEx6a004Ml9jQ1VtTWlYMEtvTzBiUjllWFdnM2I1TXJn?oc=5",
-   "date": "2022-03-28T12:01:35+00:00",
-   "summary": "PHP in 8 Minutes 🔥 YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PHP And MongoDB Full Course 2026 | PHP Tutorial For Beginners | MongoDB For Beginners | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MSWJZUVd0WTZvd2c3YXRoMlF6V2hhbHNnR18ySjd1R1pxdUdpQTByV0Yza2psdnFHbGJneWVmaEs2YkZHVTBmeEdnVFZ1UjNjVmlacV9n?oc=5",
-   "date": "2022-03-15T00:31:57+00:00",
-   "summary": "PHP And MongoDB Full Course 2026 | PHP Tutorial For Beginners | MongoDB For Beginners | Simplilearn YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PHP And MySQL Full Course in 2026 | PHP And MySQL Tutorial for Beginners 2026 | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wS3ZaYXQ2aVg1bWs3R3E3Y20tZ01tOWp3NnZudGNocXZfcVZRVktvelp0c09nNUlqaW84ZmVPcnpFX1lRQUdTRnlESDZoa0FBSm1wUWpB?oc=5",
-   "date": "2022-02-25T05:25:28+00:00",
-   "summary": "PHP And MySQL Full Course in 2026 | PHP And MySQL Tutorial for Beginners 2026 | Simplilearn YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "الدرس الاول || تثبيت لارفيل How to download laravel framwork",
@@ -2138,16 +2192,6 @@
    "lang": "ar"
   },
   {
-   "title": "PHP Tutorial for Beginners - Full Course | OVER 7 HOURS!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IdUxJSjhRbXNGZzFCLXRxT01yRGJ2QlMxV0IzQWdSbmhnUlo5aXd2MkIxQ1pYcVhRWm1iT2pjX3k4RndFa2NldjFzaVRDZ05wZFlyZk9R?oc=5",
-   "date": "2022-01-12T16:00:13+00:00",
-   "summary": "PHP Tutorial for Beginners - Full Course | OVER 7 HOURS! YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "مشروع عمل نظام تسجيل الدخول 🔥PHP+MYSQL 💯",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XSG1SNXRFN3lOVy1BSzEwSWR4VmlxY2VoMDFWS3dheHB1WTNOUDc0QW5xOWttSnJGY1piekQ1RDZmY0hyTlgzS0cxb2lQQ3RFb3hzNGtR?oc=5",
    "date": "2022-01-06T16:58:47+00:00",
@@ -2156,16 +2200,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "PHP Tutorial for Beginners | Full Course to Learn What is PHP in Hindi With Projects",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uakw4R3d2dGRpNDg2RnR5U3ZhZkFqTVJXR3RnR3l6STA3YlM0VUlmb2trdzZkc1VFREM1NXdyZ0lOTmRSVFc3cE1jajBULUxZMllTR2lR?oc=5",
-   "date": "2021-12-16T12:39:36+00:00",
-   "summary": "PHP Tutorial for Beginners | Full Course to Learn What is PHP in Hindi With Projects YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "تصميم وتطوير تطبيق شات دردشة متعدد المستخدمين بلغات html css js php sql - مقدمة المشروع درس #1",
@@ -2178,16 +2212,6 @@
    "lang": "ar"
   },
   {
-   "title": "PHP Full Course | PHP Tutorials for Beginners | PHP and MySQL Tutorial | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ySDVnZHBCeERRZVRtTEZCbVJHM3ZxSFg2UGNrVWVoS1p3QzRvSVN0OC1ndXd0cW9GTk1wRVJZMGZmQnV5eTdHN1dpbEdUcE5QZnQ1UTdB?oc=5",
-   "date": "2021-12-05T23:27:56+00:00",
-   "summary": "PHP Full Course | PHP Tutorials for Beginners | PHP and MySQL Tutorial | Simplilearn YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "learning html php css مشروع برمجة موقع الكتروني من الصفر الجزء الاول form,insert,connect,table,pdo",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FbnZWOU5oV0ZQWVdBSUx1RXdpY250c2Y2dkFVOEF2dHEwQW9OT05TTXY4WFlTWHZZdTZ4NzdGbGp3ZWNrZ3NqTFVFQkFMWk02TnlNZTJB?oc=5",
    "date": "2021-11-18T00:20:16+00:00",
@@ -2198,30 +2222,10 @@
    "lang": "ar"
   },
   {
-   "title": "Payment Gateways - Laravel Paddle Cashier Arabic - Intro - 01",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GNFdGdzdpVUxqcVNBdVc1eVVER3BidFNUVXZjd2ZLcHBIeXBpaDJoN0puZHZ0UFhrSS03ZGdyUE5uM1pKV0VIdDZGQVZ0MXdxUkEwNFpn?oc=5",
-   "date": "2021-09-01T04:38:45+00:00",
-   "summary": "Payment Gateways - Laravel Paddle Cashier Arabic - Intro - 01 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كورس تعلم اساسيات لغة البرمجة PHP 💯 البرمجة في الجزائر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3elJPVmstVlZKV2xJdk1lYzE0cWlNaXVpbmg0bmF4Z3JiTkhhdFpKbUIzNEVEb2NPWUNtal9nUk1YcjU4RE5yc2pMVmR4Q09RVHRUMExn?oc=5",
    "date": "2021-08-30T11:04:10+00:00",
    "summary": "كورس تعلم اساسيات لغة البرمجة PHP 💯 البرمجة في الجزائر YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح كيفية نشر موقعك على محركات البحث & جوجل مجانا | دورة تعلم PHP MySQL كاملة [39 من 45]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRVRXS20wQ2FqNURjbUhZRVFyU0Fna2hjYkRLdnI1ZEQ0WFdqOWh4bHp1MkhOTFpkZjhWWjVwaEljNVBLb3Rwb0k2RHZnYm5DSHowei13?oc=5",
-   "date": "2021-06-29T06:39:59+00:00",
-   "summary": "شرح كيفية نشر موقعك على محركات البحث & جوجل مجانا | دورة تعلم PHP MySQL كاملة [39 من 45] YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",

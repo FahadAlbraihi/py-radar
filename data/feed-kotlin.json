@@ -1,8 +1,68 @@
 {
- "generated": "2026-08-15T04:19:26.754426+00:00",
+ "generated": "2026-08-16T04:57:06.551026+00:00",
  "tech": "kotlin",
- "count": 181,
+ "count": 186,
  "items": [
+  {
+   "title": "Make Android Dependencies Point Toward Decisions",
+   "url": "https://medium.com/@gsrajeni/make-android-dependencies-point-toward-decisions-ad0657d5f56e?source=rss------android-5",
+   "date": "2026-08-16T03:08:55+00:00",
+   "summary": "Packages can look tidy while product rules still leak into screens, API clients, and database code. A dependency review should follow the&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Get iOS Style Widgets on Android",
+   "url": "https://praveenah.medium.com/how-to-get-ios-style-widgets-on-android-0a5163097d8b?source=rss------android-5",
+   "date": "2026-08-16T02:01:04+00:00",
+   "summary": "One of the biggest strengths of Android has been its customizability. iPhone users have slowly been provided more personalization options&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Android Data Encryption Made Simple: AES + Android Keystore in Kotlin",
+   "url": "https://medium.com/@mr.dhiraj.kumawat/android-data-encryption-made-simple-aes-android-keystore-in-kotlin-9fdede05324a?source=rss------android-5",
+   "date": "2026-08-16T01:35:21+00:00",
+   "summary": "When we build Android applications, we often need to store sensitive information such as: Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Your User’s Password Just Became a JPEG on Disk — and You Didn’t Save It",
+   "url": "https://medium.com/@salesfrancisco73/your-users-password-just-became-a-jpeg-on-disk-and-you-didn-t-save-it-78ce424bfb79?source=rss------android-5",
+   "date": "2026-08-15T22:52:53+00:00",
+   "summary": "The Android Recents snapshot, what FLAG_SECURE actually protects, and the three places where it quietly fails. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Set Up Parental Controls on Android",
+   "url": "https://medium.com/@hello.nesswick/how-to-set-up-parental-controls-on-android-4ba2169b3fe9?source=rss------android-5",
+   "date": "2026-08-15T20:45:48+00:00",
+   "summary": "Getting your child&#x2019;s first phone often raises a simple question: how do you put reasonable limits in place without paying for another app? Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "JJ Game App Download Latest Version for Android 2026",
+   "url": "https://medium.com/@newlatestpakpaks/jj-game-app-download-latest-version-for-android-2026-5a93064e0ab6?source=rss------android-5",
+   "date": "2026-08-15T20:39:31+00:00",
+   "summary": "JJ Game is a mobile gaming application associated with a range of entertainment categories for Android users in Pakistan. The official&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "A Clean Boundary Should Make One Change Boring",
    "url": "https://medium.com/@gsrajeni/a-clean-boundary-should-make-one-change-boring-71ef4572bdfc?source=rss------android-5",
@@ -209,26 +269,6 @@
    "url": "https://medium.com/@jasminjamadar6/my-android-development-internship-journey-at-oasis-infobyte-oibsip-building-production-grade-a5ddb31e1002?source=rss------android-5",
    "date": "2026-08-14T18:47:54+00:00",
    "summary": "Hello everyone! Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The 2 ms Android resource fix that was wrong",
-   "url": "https://medium.com/@viking_3580/the-2-ms-android-resource-fix-that-was-wrong-170bf01b1b7c?source=rss------android-5",
-   "date": "2026-08-14T16:25:33+00:00",
-   "summary": "Our own engine &#x2014; with blackjack and&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Best AI Photo Editing Apps for Android Beginners (2026)",
-   "url": "https://medium.com/@prince.mb40/best-ai-photo-editing-apps-for-android-beginners-2026-5c2eca161bec?source=rss------android-5",
-   "date": "2026-08-14T15:43:54+00:00",
-   "summary": "AI photo editing has become much easier in 2026, but choosing the right Android app can still be confusing. Almost every photo editor now&#x2026; Continue reading on Medium »",
    "tech": "kotlin",
    "sourceId": "medium",
    "source": "Medium",
@@ -1114,6 +1154,16 @@
    "lang": "en"
   },
   {
+   "title": "Simple Kotlin App | Android Studio | 2024",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50RGU2TW1faDg2NkVVVE92YlJnUXd0SVRMbzZxZEs0QzJfeW9CeUJXZTAzUG1mQkYybmVSeVhUNk1jOTl5QXMtcGNCWjE5eVh2QXotemNn?oc=5",
+   "date": "2023-09-09T12:31:43+00:00",
+   "summary": "Simple Kotlin App | Android Studio | 2024 YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Android App Development Kotlin Course 01 introduction",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkZHJnMzZaMXlDeW1udzdvcXdKOTdHalloSHdRRVczWWdOV09BTmM3bldlZXA3SzVLaGFWalNzMTgyeUhEaUE5X3FLV2N0YjhFUXZhTy1R?oc=5",
    "date": "2023-09-04T07:00:20+00:00",
@@ -1172,6 +1222,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "Kotlin basic programming language in Arabic شرح لغة كوتلن بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnU1E3QlpDR3NkejVmc0VweFFvQ051Z0dZb1FuUzRTYTVhMnBOZ2pvNlNkSVNmdmFpdFVDNWRST25MQlVDZnd5dXRQc3RqYm41RXg0ZHBCbHd5eXNRQVhueWpRNkFDdUdZRlk5NTRFYnd0ci14Z0FJNDQ0SlQ?oc=5",
+   "date": "2023-06-29T21:54:26+00:00",
+   "summary": "Kotlin basic programming language in Arabic شرح لغة كوتلن بالعربي YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Kotlin Tutorial For Beginners",
@@ -1528,16 +1588,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JbktISmI4dzZYLW1OczlvaUZFZTBteWMyb1kyV1VPWVhDZF9pTjBjR0xmODdGWTJGRVE4T1ViZTc2TThQakxBM3FiamJGUm1tU2ttNFlB?oc=5",
    "date": "2022-02-04T11:00:12+00:00",
    "summary": "Kotlin Tutorial for Beginners - Kotlin Operators YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Tutorial for Beginners - Kotlin Data Types",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIS2MzbWE3RGphdE9COTJ1cGN0cXZqUnRNeGdGLUh1aW9URjBGX0xSNXVnTTNhc016Mk1lNVpvQUFDLTNQamJqcW11LUtKaDNYYXVDMTJ3?oc=5",
-   "date": "2022-02-04T02:00:15+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Kotlin Data Types YouTube",
    "tech": "kotlin",
    "sourceId": "yt",
    "source": "YouTube",

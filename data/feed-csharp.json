@@ -1,8 +1,158 @@
 {
- "generated": "2026-08-15T04:18:28.445657+00:00",
+ "generated": "2026-08-16T04:56:07.574693+00:00",
  "tech": "csharp",
  "count": 220,
  "items": [
+  {
+   "title": "Cut Your 2D Draw Calls With Sprite Atlas",
+   "url": "https://dev.to/muhammad_talhamalikmal/cut-your-2d-draw-calls-with-sprite-atlas-54fl",
+   "date": "2026-08-16T03:06:23+00:00",
+   "summary": "Every sprite pulling from a different texture counts as a separate draw call, even small ones like UI...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ContextMemory v0.1.0-beta: what shipped",
+   "url": "https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl",
+   "date": "2026-08-15T22:46:33+00:00",
+   "summary": "ContextMemory v0.1.0-beta is out.  Agent memory you can open like a wiki — not a vector black box,...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Accepting Ambiguous JSON: Build a Secure API Ingress Guard in .NET 10",
+   "url": "https://medium.com/@michaelmaurice410/stop-accepting-ambiguous-json-build-a-secure-api-ingress-guard-in-net-10-9a1ee938db0a?source=rss------csharp-5",
+   "date": "2026-08-15T21:26:27+00:00",
+   "summary": "Reject duplicate keys, unknown fields, oversized bodies, and unsafe retries with a tested ASP.NET Core vertical slice. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Handling 1 Million Report Downloads with ASP.NET Core, CQRS, and Headless Browsers in 2026",
+   "url": "https://dev.to/kirandeepjassalcrypto/handling-1-million-report-downloads-with-aspnet-core-cqrs-and-headless-browsers-in-2026-i8b",
+   "date": "2026-08-15T18:27:26+00:00",
+   "summary": "Originally published at prepstack.co.in   Generating one PDF report takes 2–4 seconds in a headless...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Background Task Queues in ASP.NET Core: Stop Using Fire-and-Forget",
+   "url": "https://medium.com/@mariammaurice/background-task-queues-in-asp-net-core-stop-using-fire-and-forget-36e2ce5036a5?source=rss------csharp-5",
+   "date": "2026-08-15T17:01:03+00:00",
+   "summary": "Task.Run(() = SendEmail()) is not a background job. It&apos;s a bug with a delay. Here&apos;s the architecture that survives crashes, restarts, and&#x2026; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Graph Theory in C#",
+   "url": "https://dev.to/grantwatsondev/graph-theory-in-c-5h83",
+   "date": "2026-08-15T16:30:51+00:00",
+   "summary": "Using graph search to solve real-world problems in C# Most day-to-day C# work involves flat...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Upgraded a Real Application to C# 14. The Small Changes Were the Most Interesting",
+   "url": "https://medium.com/c-sharp-programming/i-upgraded-a-real-application-to-c-14-the-small-changes-were-the-most-interesting-6b21ed644077?source=rss------csharp-5",
+   "date": "2026-08-15T16:13:13+00:00",
+   "summary": "What actually changed in production code after moving to .NET 10, beyond the obvious language-feature demos. Continue reading on .Net Programming »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "When 50 Concurrent Requests Turned My “Async” API Into a Synchronous Mess",
+   "url": "https://medium.com/c-sharp-programming/when-50-concurrent-requests-turned-my-async-api-into-a-synchronous-mess-cfcc454d635a?source=rss------csharp-5",
+   "date": "2026-08-15T16:12:48+00:00",
+   "summary": "One .Result call, invisible in every test, until real load hit it Continue reading on .Net Programming »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Microservices: Building Applications as Independent, Communicating Services",
+   "url": "https://dev.to/rhuturaj_takle/microservices-building-applications-as-independent-communicating-services-2eo8",
+   "date": "2026-08-15T15:08:38+00:00",
+   "summary": "Microservices: Building Applications as Independent, Communicating Services   A practical,...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My JetBrains Rider Setup for Surviving Live-Coding Demos",
+   "url": "https://dev.to/lovelacecoding/my-jetbrains-rider-setup-for-surviving-live-coding-demos-lh",
+   "date": "2026-08-15T14:57:16+00:00",
+   "summary": "Hey lovely readers,  If you've read any of my Public Speaking at Tech Events 101 blog posts, you...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What I Learned About Exceptions in C#: Understanding Errors Instead of Hiding Them",
+   "url": "https://dev.to/maysam_ehab_/what-i-learned-about-exceptions-in-c-understanding-errors-instead-of-hiding-them-5b71",
+   "date": "2026-08-15T11:15:26+00:00",
+   "summary": "When I started learning C#, I thought exceptions were mainly about one thing:   Put the code inside...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Mojo 1.0 vs .NET: Which Problem Is Each One Actually Solving?",
+   "url": "https://dev.to/rehana_parveen_1b8844718a/mojo-10-vs-net-which-problem-is-each-one-actually-solving-345n",
+   "date": "2026-08-15T10:45:17+00:00",
+   "summary": "I initially looked at Mojo from a .NET developer's perspective and made the obvious mistake: I...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From Java to C#",
+   "url": "https://dev.to/gaucis1729/from-java-to-c-584b",
+   "date": "2026-08-15T05:34:55+00:00",
+   "summary": "Hi everyone!  I'm used to working in Java, but I recently got a job interview for a company that...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Eight Session-Boundary Tests I Run Before Trusting a Trading Bot",
+   "url": "https://dev.to/stratcorealpha/eight-session-boundary-tests-i-run-before-trusting-a-trading-bot-ofj",
+   "date": "2026-08-15T01:56:19+00:00",
+   "summary": "A session reset looks simple until a platform reloads data, reconnects or sends the same timestamp...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Your .NET API Works. But Is It Actually Production-Ready?",
    "url": "https://medium.com/@salomonakoa44/your-net-api-works-but-is-it-actually-production-ready-e0f2742a7977?source=rss------csharp-5",
@@ -324,39 +474,6 @@
    "lang": "en"
   },
   {
-   "title": "C# .NET Project",
-   "url": "https://dev.to/adam_mcdermott_c73eefc24e/c-net-project-3k0e",
-   "date": "2026-08-13T02:31:03+00:00",
-   "summary": "C# Digital Fare App  https://itemzbadger.runasp.net/  This is an App i developed using the .NET...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "2026-08-12 - 1 - ProForma - Guards",
-   "url": "https://dev.to/proforma/2026-08-12-1-proforma-guards-3bpp",
-   "date": "2026-08-12T15:52:28+00:00",
-   "summary": "Hello I'm Marlene and I invite you to follow my journey developing ProForma.net. But since this is my...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Two JWT Bearer Schemes, One API: A Real ASP.NET Core Setup",
-   "url": "https://dev.to/virendravyas/two-jwt-bearer-schemes-one-api-a-real-aspnet-core-setup-92k",
-   "date": "2026-08-11T23:47:09+00:00",
-   "summary": "Most ASP.NET Core auth tutorials assume a single JWT scheme: one token, one identity, one [Authorize]...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "الدرس الثالث سي شارب : تكملة شرح برمجة شاشة معالج إعداد وتهيئة النظام المحاسبي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sa2tjc0lIWi13aUlFbEhOblBTd1FRODJtWnNqRl9RZjhmYncyZ2prU2lxekNXcDVWUWdoMHMyTWlYWmdJRWd5MVB5MGFGd04zRkU4cWR3?oc=5",
    "date": "2026-08-10T16:01:05+00:00",
@@ -541,6 +658,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SUzUxeGxiRVpLWTJXdDRPMFRDSm9tSU9hbGpjUGJSa0ZhTWNCcURfUWNTSVBkaW5DeDZuTHRKUHdUWUlfdjNPM2dyeWJiQ0VoRmNvR2hB?oc=5",
    "date": "2025-11-13T13:01:02+00:00",
    "summary": "Build a .NET 10 Web API from Scratch (Controllers, EF Core, SQL Server, DTOs) YouTube",
+   "tech": "csharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Backend Development with .NET🚀 – Full Course (Beginner to Advanced)👨‍💻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TdFM0Y0NFb2hYWGFONEdDSGZOQ1kxb1Y3TklQSVRUSktjSnI1RTNVRG9ickFVTHAydEtocXFRZy1fbzRtbnhlMkc5MG9xeGx5NUFxNFFB?oc=5",
+   "date": "2025-11-08T10:45:24+00:00",
+   "summary": "Backend Development with .NET🚀 – Full Course (Beginner to Advanced)👨‍💻 YouTube",
    "tech": "csharp",
    "sourceId": "yt",
    "source": "YouTube",
@@ -757,6 +884,16 @@
    "lang": "ar"
   },
   {
+   "title": "How to Build an ASP.NET Core MVC Web App – Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04dm9jRERnaWZIdmZWdWp0YkpENTh2T2lpaEFHSEEwN1hoQmdiZTZXdGdDVG1PMGEzVGxpZFVaWng0WVhXRkhVVHZ4RVg3eC04cGdEQTFn?oc=5",
+   "date": "2025-02-18T17:44:39+00:00",
+   "summary": "How to Build an ASP.NET Core MVC Web App – Tutorial YouTube",
+   "tech": "csharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Docker Full Course For .NET Developers",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQlppVnJVY085ckVZdzNHZklVTERoQUJEdWg0UDk0MzB4dFYzb3Z5VThPWmJ5T3Z1cTRrRkhZaS1fa29HeFpBaWtOR3BNdmxqSlRxRFVn?oc=5",
    "date": "2025-02-12T14:30:26+00:00",
@@ -845,6 +982,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "VB.NET – Full Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DcXB3QUxPdHNqWTFVdEJuOHhWLTRMOGg2dWFnTHhCSjNReHJlM2MyZEN2TWQ0X0J4NDktaGNJbS1QY25OV2I4WG9fSXg2R2VxZ0JmNVNB?oc=5",
+   "date": "2024-11-12T05:30:04+00:00",
+   "summary": "VB.NET – Full Course for Beginners YouTube",
+   "tech": "csharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Learn C# FREE Tutorial Course Beginner to Advanced! [2026 - 12 HOURS]",
@@ -1357,16 +1504,6 @@
    "lang": "ar"
   },
   {
-   "title": ".NET full course 2023 | how to learn .NET in 2023 ? | .NET INTRODUCTION | lect 1 #aspdotnetcore,C#",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aM29MNzFfZ0R2TUMwa2t1X2FBWnZxTHRtV3o1aVhOT05qTExPcXhtLVlrWnU5d0JUUTliSEIwMFM1N1h1YjdTZjA1ekZBUWdOT2lFcFhB?oc=5",
-   "date": "2023-07-29T15:44:34+00:00",
-   "summary": ".NET full course 2023 | how to learn .NET in 2023 ? | .NET INTRODUCTION | lect 1 #aspdotnetcore,C# YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كورس البرمجة الشيئية لغة السي شارب | Object-Oriented Programming (OOP) in Arabic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQlV2ODJybG5nNlNvWkEyUHdUZjQzQ0VjQWlkVmF4RTB1NHBCcmpPck9BM2QwREZZRHpmal9yclhFOGx0cVhxNk1yeVpodGJINmJsZ3l3?oc=5",
    "date": "2023-07-27T13:45:37+00:00",
@@ -1375,16 +1512,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Introduction To ASP.NET Core Tutorials | ASP.NET Core Online Training",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yUFJ4aDI0TTEtWTVnSjlqeUFlcDduSUozc3VoazZ3djFDdDhnczlKWFBkVFNRaFp6blZNTkpMeDVKNlhmNmVwSk5UcmJGV1piNkEwUmtR?oc=5",
-   "date": "2023-07-20T13:03:15+00:00",
-   "summary": "Introduction To ASP.NET Core Tutorials | ASP.NET Core Online Training YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "أساسيات لغة السي شارب للمبتدئين | تعلم السي شارب من الصفر",
@@ -1407,16 +1534,6 @@
    "lang": "ar"
   },
   {
-   "title": "Introduction to .NET Microservices (.NET 8)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdkstUWhQRXJrVFpOd0lIMV83S1h2SE9uXzRrSnhGbU1kQkpJTlVVTDJTcHRXWTFtbzd6QWJWNGd3ZW91QmJfRmsxY0t5RVg2ZkpTM1JB?oc=5",
-   "date": "2023-06-27T19:02:03+00:00",
-   "summary": "Introduction to .NET Microservices (.NET 8) YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "6- بناء مشروع بلغة بايثون Python وربطه بواجهة برمجة التطبيقات (API) مبنية بلغة سي شارب ASP.NET Core",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtcjJNbTFJN0wzMjhDY0F6VzNvaTc4ZHJjc3ZsbWxVUjVvdjdEZkF4WmZHUW5tejlJRVkzbk5pbTVPLVEtaV9qVC1mTUMyU1c1aUttTjln?oc=5",
    "date": "2023-06-26T19:43:27+00:00",
@@ -1435,56 +1552,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "ASP.NET Core Tutorial for Beginners | .NET 7",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01X3VkNGNXXzdFMFNFVTNSNEhPLW5kZzRhLVh6X2o4dEExOWZwUi12UDU3bWppREdsaE1jMEttX0ZLQXFyU1E3SkZMYUE4dG5uR1FOSHRn?oc=5",
-   "date": "2023-05-30T13:00:11+00:00",
-   "summary": "ASP.NET Core Tutorial for Beginners | .NET 7 YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How To Use BenchmarkDotNet - A Beginner's Guide For C# Benchmarks",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13aGpTV2c2alVjNnFzNGFuQV90bDJIcTFCYWVQN0NycEhieDkxeFI5UHBWVE5sdDZNTFZZQk9SbVFzNXZXQ0VJQ1NNUnNLaW9JeXdSUnVn?oc=5",
-   "date": "2023-05-29T15:00:32+00:00",
-   "summary": "How To Use BenchmarkDotNet - A Beginner's Guide For C# Benchmarks YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "ASP.NET Core Web API and Entity Framework Core - Full Course Including CRUD",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZN2JZRjFVUjdjNHl5dW10Tmw1QW5LZXBGLWpKNVAyWE1QMVlmNVNJR3VBRFQ1dHdxaE4wVENtZUc4dUwyS3c5RWtXU2hUM21ISmZ2N21B?oc=5",
-   "date": "2023-05-24T06:23:28+00:00",
-   "summary": "ASP.NET Core Web API and Entity Framework Core - Full Course Including CRUD YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "C# Arrays, Lists, and Dictionaries (Quick dotnet tutorial)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZeGg2WHZuemEzNjBRbVFfN3h0enhZbmttVk4xdWFGQTI3U1pPSEowbVRHRE1QZFRnb1ljZ2NhTWxOaFJlUkpqdGV4ZEtHZE5weEVadlN3?oc=5",
-   "date": "2023-05-01T15:36:58+00:00",
-   "summary": "C# Arrays, Lists, and Dictionaries (Quick dotnet tutorial) YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to ASP.NET Core MVC (.NET 8)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zQnFublJQOXhYWldWcUdlSWxiZkRfOHVyUkVKN1FweHY2QUlwdi05ZmNwaDVSMDE0OXowTDlXdTdmV0lPbEpSMVhMZTZaU0N0elJ1OFF3?oc=5",
-   "date": "2023-04-18T00:52:24+00:00",
-   "summary": "Introduction to ASP.NET Core MVC (.NET 8) YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "1.Introduction To Clean Architecture Asp.Net Core Web Api شرح بالعربي",
@@ -1555,16 +1622,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Course 14 - C# Level 1 Coming Soon :-)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSWgyTmZEUmltTFJGeVo2UjZ5TGJmQmJGTXhJTWQ0YVNQYUdodk5zZlRvWDUxd1NKVXNHV1lZMTZjQno0QXZYNmp3dEQzb1dwaTJOQTFR?oc=5",
-   "date": "2023-02-08T15:31:25+00:00",
-   "summary": "Course 14 - C# Level 1 Coming Soon :-) YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "17. Polymorphism (Overriding Methods) in C# | شرح سي شارب",
@@ -2171,56 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oSzBELWhpdnRuTTdjU1Q0emNBSzlPclk3cGZHTF9ZQ2ttOXJYNk5JLTNXcTRoelh5YThqZXdhT1U0dHJQUTFJeGQxamxkTEx0ci0zbS1B?oc=5",
    "date": "2021-04-29T06:09:19+00:00",
    "summary": "#018 Debugging in C# [ شرح بالعربي ] #debugging #logical #runtime #syntax YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "سي شارب البرمجة كلها عملي في فيديو واحد Full Programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vTnNPN0VHblpkTnlKcUR0OWxVbjZzU2xUVlNheU9CU1VERDZhUExYclNKd0JCT0ZNdEU1WkJXcGptRnBYbVl2UUxYTTNhcUMxbno3dWZ3?oc=5",
-   "date": "2021-04-21T05:23:37+00:00",
-   "summary": "سي شارب البرمجة كلها عملي في فيديو واحد Full Programming YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#014 OOP - Events in C# [ شرح بالعربي ] #event",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RUXFTdjBEcjduSG4yeG5PSUM3SGRGemhEWGdadXBJNlJobExXUExZWFR2Mm5HRXIzVm5lZXkyNmFOU2pKNTdoZTYyelBIa1F4SlpaOXJR?oc=5",
-   "date": "2021-04-17T23:02:42+00:00",
-   "summary": "#014 OOP - Events in C# [ شرح بالعربي ] #event YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "المحاضرة الأولى: البرمجة الكائنية التوجه بلغة سي شارب : (Classes & Objects)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3SHpzWWtiU3M4YXhCb2U3RXN1Nzh3TVdEaDBNVzZXV2hwd3haeEZPVnJtUVJRVnJCd0sxQnFuSGU0Z0dnbXFYaEdfME0xLXFWZThKNy13?oc=5",
-   "date": "2021-04-10T19:26:01+00:00",
-   "summary": "المحاضرة الأولى: البرمجة الكائنية التوجه بلغة سي شارب : (Classes & Objects) YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#002 Solution And Project in C# [ شرح بالعربي ] #metigator #solution #project #csproj #sln",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55VVpPT3lLdHhPRFhhSTVZM3ZjY090dmVodGJLTDdGWjVLbEZCWk5Yc2NOZzQzeXZkaHZSYXZyX0VwcnJrMnRaTTdQMFc5QUdNeUlPM01B?oc=5",
-   "date": "2021-03-25T00:30:31+00:00",
-   "summary": "#002 Solution And Project in C# [ شرح بالعربي ] #metigator #solution #project #csproj #sln YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#001 Introduction to C#.NET [ شرح بالعربي ] #metigator #csharp",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SXzJIekVHY09YUktQd3l1c1Y0OUNkRnN3OUUzdTNKTU5peDJyVVZtRjV6Q2pMVm43Tm54cnVEaDdmM0R2RTlVZVpVZF91UmtDa0xZWG9B?oc=5",
-   "date": "2021-03-24T03:39:52+00:00",
-   "summary": "#001 Introduction to C#.NET [ شرح بالعربي ] #metigator #csharp YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,8 +1,193 @@
 {
- "generated": "2026-08-15T04:20:12.021424+00:00",
+ "generated": "2026-08-16T04:57:52.332338+00:00",
  "tech": "linux",
  "count": 220,
  "items": [
+  {
+   "title": "Free Kali Linux Course in India (2026): Complete Beginner’s Learning Guide",
+   "url": "https://bevijaygupta.medium.com/free-kali-linux-course-in-india-2026-complete-beginners-learning-guide-690247bdb788?source=rss------linux-5",
+   "date": "2026-08-16T04:31:07+00:00",
+   "summary": "Cybersecurity has become one of the fastest-growing career paths in India. With rising digital adoption, increasing cyberattacks, and&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why GNU/Linux Isn't for Everyone - and That's a Good Thing",
+   "url": "https://dev.to/aiflux/why-gnulinux-isnt-for-everyone-and-thats-a-good-thing-44ba",
+   "date": "2026-08-15T21:10:47+00:00",
+   "summary": "We have been hearing \"Linux is ready for the desktop\" for twenty years. Maybe the question is the...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Fedora + Xfce: The Distro You Get When You Refuse to Pick a Lane",
+   "url": "https://medium.com/@hameed_44880/fedora-xfce-the-distro-you-get-when-you-refuse-to-pick-a-lane-5f85772fca04?source=rss------linux-5",
+   "date": "2026-08-15T20:36:13+00:00",
+   "summary": "I&#x2019;ve been running the same Fedora install since 2018. Not &#x201C;Fedora&#x201D; as a rolling habit of reinstalling every year or two &#x2014; the same install&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Network Troubleshooting as a Stack: Find Which Layer Is Broken First",
+   "url": "https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6",
+   "date": "2026-08-15T18:34:37+00:00",
+   "summary": "The difference between a good infrastructure troubleshooter and someone who restarts services and...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Networking Foundations: From OSI Layers to TCP Handshakes",
+   "url": "https://dev.to/dharam_in/networking-foundations-from-osi-layers-to-tcp-handshakes-31nh",
+   "date": "2026-08-15T17:54:31+00:00",
+   "summary": "OSI Model &amp; TCP IP Model            What a networking Model is   Networking model is a...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built a simple tool to automate Linux system updates across different package managers",
+   "url": "https://dev.to/swarajnerlekar28/i-built-a-simple-tool-to-automate-linux-system-updates-across-different-package-managers-36jk",
+   "date": "2026-08-15T17:31:14+00:00",
+   "summary": "It is a lightweight Bash script that probes the host environment, figures out the active package...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "System-Updater",
+   "url": "https://dev.to/swarajnerlekar28/system-updater-108j",
+   "date": "2026-08-15T17:12:37+00:00",
+   "summary": "Hey guys! i created my second project \"System-Updater\". it is written in bash, it checks your...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why logrotate silently does nothing and how to actually debug it",
+   "url": "https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd",
+   "date": "2026-08-15T17:04:58+00:00",
+   "summary": "A config that doesn't error is not a config that works.  logrotate misconfigurations don't fail...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your drive says SMART PASSED and is already failing: the 5 attributes that actually predict it",
+   "url": "https://dev.to/ricco020/your-drive-says-smart-passed-and-is-already-failing-the-5-attributes-that-actually-predict-it-6g",
+   "date": "2026-08-15T15:52:24+00:00",
+   "summary": "SMART's PASSED verdict stays green long after sectors start going unreadable. The five attributes that predict failure, and the order of operations that decides whether the data survives.",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Twenty-Hour Fuse",
+   "url": "https://dev.to/jeromefromhk/the-twenty-hour-fuse-4lcl",
+   "date": "2026-08-15T14:15:54+00:00",
+   "summary": "Two nights of debugging, one incident left to write about. The night of August 14th, a Claude Code...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-5: Ingress/Gateway]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-5-ingressgateway-4cbc",
+   "date": "2026-08-15T12:06:46+00:00",
+   "summary": "This is Level 5 of our Kubernetes networking series. So far, we've built up a solid...",
+   "points": 2,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-4: Services Discovery/DNS]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-4-services-discoverydns-3de9",
+   "date": "2026-08-15T11:04:40+00:00",
+   "summary": "This is Level 4 of our Kubernetes networking series. In Level 3, we introduced the Service — a stable...",
+   "points": 3,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-3: Services]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-3-services-5h3",
+   "date": "2026-08-15T10:35:02+00:00",
+   "summary": "This is Level 3 of our Kubernetes networking series. In Level 2, we traced how Pod-to-Pod...",
+   "points": 3,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-2: Pod-to-Pod Communication]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh",
+   "date": "2026-08-15T10:20:11+00:00",
+   "summary": "This is Level 2 of our Kubernetes networking series. In Level 0, we covered core Linux networking...",
+   "points": 3,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cómo solucionar `Code exited (1)` en Docker en Raspberry Pi",
+   "url": "https://dev.to/erickeduardoramos03/como-solucionar-code-exited-1-en-docker-en-raspberry-pi-53bj",
+   "date": "2026-08-15T09:19:27+00:00",
+   "summary": "Cómo solucionar Code exited (1) en Docker en Raspberry Pi            ¿Por qué ocurre este...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kubernetes Networking [Level-1: Pod Networking]",
+   "url": "https://dev.to/iadiraj/kubernetes-networking-level-1-pod-networking-3agp",
+   "date": "2026-08-15T06:30:00+00:00",
+   "summary": "This is Level 1 of our Kubernetes networking series. In Level 0, we built a foundation of core Linux...",
+   "points": 3,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Did That Free-Model Setup Script Actually Do? Audit It With Honeypot Files and Syscall Traces",
+   "url": "https://dev.to/github_7727/what-did-that-free-model-setup-script-actually-do-audit-it-with-honeypot-files-and-syscall-traces-4eg1",
+   "date": "2026-08-15T03:19:10+00:00",
+   "summary": "Here is why this article is worth your time: you cannot tell what a generated setup script does by...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "How I Put Fedora Linux on a Pixelbook: A Small Hardware Hacking Project",
    "url": "https://medium.com/@nick.page.home/how-i-put-fedora-linux-on-a-pixelbook-a-small-hardware-hacking-project-80271f284ced?source=rss------linux-5",
@@ -94,6 +279,16 @@
    "tech": "linux",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SpriteLoop - Awesome FREE Animation Software - Windows|Mac|Linux",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5aFhsYXJlUHEwaTE1VExHclJBU0xoS3MyWVFjWnh6T211dkhUVmd3SVR5RjQ2S1VKejA0NkE3TDVVblpxa1V3UjUzUmctWEdUVUZPeGd3?oc=5",
+   "date": "2026-08-13T15:13:23+00:00",
+   "summary": "SpriteLoop - Awesome FREE Animation Software - Windows|Mac|Linux YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -239,50 +434,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Actually Read Linux Logs When Something's Broken",
-   "url": "https://dev.to/alex_mitu_e264ef6e0d71197/how-to-actually-read-linux-logs-when-somethings-broken-2mhb",
-   "date": "2026-08-12T14:51:08+00:00",
-   "summary": "It's 3am, a service is down, and you have exactly one clue: something logged an error somewhere. This...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Biggest Linux Myths Beginners Still Fall For",
-   "url": "https://dev.to/asepsayyad007/the-biggest-linux-myths-beginners-still-fall-for-326m",
-   "date": "2026-08-12T13:32:31+00:00",
-   "summary": "Let's be honest, when I first heard about Linux, I thought it was this scary hacker thing where you...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Server Administration: The Skills That Actually Make You Dangerous in Production",
-   "url": "https://dev.to/yashvikothari/linux-server-administration-the-skills-that-actually-make-you-dangerous-in-production-47h6",
-   "date": "2026-08-12T08:57:53+00:00",
-   "summary": "Linux Server Administration: The Skills That Actually Make You Dangerous in...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Practical Set D Solution – File Operations & Text Processing",
-   "url": "https://dev.to/teamworkfahad/linux-practical-set-d-solution-file-operations-text-processing-45p1",
-   "date": "2026-08-12T04:30:00+00:00",
-   "summary": "In this article, we will solve VNSGU TYBCA Semester 5 Linux (UNIX) Practical – Set D using shell...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "أوبنتو مش زي ما توقعت! | تجارب لينكس #2",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hS1gwMTRKVUFhU0J2YlR3RUV0dTZUZDdGbzNZYlhDYjZZRFV5OThORnMzd1cyTlJfVXVNZk02ZC1JcWY0TEVmeDRsNkhjRHJXTnBnMnNB?oc=5",
    "date": "2026-08-11T11:00:22+00:00",
@@ -293,102 +444,23 @@
    "lang": "ar"
   },
   {
-   "title": "How to Change or Reset MySQL Root Password on Ubuntu Linux",
-   "url": "https://dev.to/serveravatar/how-to-change-or-reset-mysql-root-password-on-ubuntu-linux-3m5p",
-   "date": "2026-08-11T07:56:41+00:00",
-   "summary": "You’re SSH’d into your Ubuntu server. You run mysql -u root -p, type your password, and hit Enter....",
-   "points": 0,
+   "title": "اساسيات الامن السيبراني #5 | نظام لينكس | +Linux",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMDM0VmNMM2V5RHdjQ3Y3SHJQTndMVWo2QzBEemFkLWtWLVg4QS10d3FmY09jMmF3Uld1dWNINldXaEVqd3lzNnRzdGN2OENhRTRDbUVn?oc=5",
+   "date": "2026-08-10T05:00:35+00:00",
+   "summary": "اساسيات الامن السيبراني #5 | نظام لينكس | +Linux YouTube",
    "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
-   "title": "My Journey With Linux",
-   "url": "https://dev.to/better_call_sriz/my-journey-with-linux-58ga",
-   "date": "2026-08-10T05:34:39+00:00",
-   "summary": "Looking back, my path to Linux was less of a conscious decision and more of a slow drift, one small...",
-   "points": 0,
+   "title": "Bootlin \"Understanding the Linux graphics stack\" training course introduction",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52VlMzTG1TLTdSTTNNZzB2TEoyLUN0cGJVTUlsaHdTVGRkbWttNURMOE1adEVuX19vT2VLdlc4VzVRSWprcXJRcmNqcHNId1h3b0VUUDBn?oc=5",
+   "date": "2026-08-09T20:54:48+00:00",
+   "summary": "Bootlin \"Understanding the Linux graphics stack\" training course introduction YouTube",
    "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Chạy Android Studio mượt hơn trên Linux nhưng phải đánh đổi thói quen",
-   "url": "https://dev.to/hungphatlaptop/chay-android-studio-muot-hon-tren-linux-nhung-phai-danh-doi-thoi-quen-40g2",
-   "date": "2026-08-10T02:05:14+00:00",
-   "summary": "Môi trường Linux giải phóng tài nguyên bộ nhớ cho các ứng dụng nặng như Android Studio, nhưng yêu cầu...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Unlocking Seamless Dev Workflows: Troubleshooting GitHub Integrations on Desktop",
-   "url": "https://dev.to/devactivity/unlocking-seamless-dev-workflows-troubleshooting-github-integrations-on-desktop-5926",
-   "date": "2026-08-08T13:00:33+00:00",
-   "summary": "In the fast-paced world of software development, seamless integration between our tools is not just a...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Installing SonarQube with PostgreSQL Using Docker on Ubuntu/Linux Introduction",
-   "url": "https://dev.to/gopikrishna_chodapaneedi/installing-sonarqube-with-postgresql-using-docker-on-ubuntulinuxintroduction-1pji",
-   "date": "2026-08-07T15:14:19+00:00",
-   "summary": "While setting up a CI/CD pipeline with Jenkins, Docker, Kubernetes, and ArgoCD, I faced several...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Install Caddy on Ubuntu 24.04: Production Reverse Proxy",
-   "url": "https://dev.to/jaksontate/how-to-install-caddy-on-ubuntu-2404-production-reverse-proxy-1j6o",
-   "date": "2026-08-07T05:43:50+00:00",
-   "summary": "Ditch Nginx complexity. Master the official Cloudsmith repository, unlock HTTP/3 with UFW, and build...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🚀 Cron vs Systemd Timers vs daemontools — Understanding the Evolution of Linux Job Scheduling & Service Management",
-   "url": "https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm",
-   "date": "2026-08-05T22:29:21+00:00",
-   "summary": "While diving deeper into Linux internals and modern SRE practices, I came across a question that many...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd",
-   "url": "https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de",
-   "date": "2026-08-04T23:35:35+00:00",
-   "summary": "Sometimes you genuinely want Docker Engine as the Kubernetes node runtime — a team standardized on...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "📦 Linux Package Management for DevOps Engineers: A Practical Guide",
-   "url": "https://dev.to/themdmohiuddin/linux-package-management-for-devops-engineers-a-practical-guide-2m6i",
-   "date": "2026-08-01T08:29:49+00:00",
-   "summary": "Every server, virtual machine, and container starts with a simple requirement: software needs to be...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -400,17 +472,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "How I Automated Ubuntu Server Hardening with One Script",
-   "url": "https://dev.to/tesddev/how-i-automated-ubuntu-server-hardening-with-one-script-209a",
-   "date": "2026-07-31T00:51:54+00:00",
-   "summary": "Securing and Automating a Cloud Server   The first time I spun up a cloud server, I thought...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "Day 7 | Linux Training | FREE SQL & Linux Training",
@@ -943,6 +1004,16 @@
    "lang": "en"
   },
   {
+   "title": "Pop OS 24.04 - COSMIC | تثبيت واستعراض كل جديد توزيعة لينكس الرائعة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSUZ2RFNrVXNoQ09YNWVCOXlmNElCS2Zob3IweGpPN3lYbFl1ZHdQdVdFNkJWUkI5SnUyX2pXQkVSQ1YyUVpUMXpoRC1GQTNuVE9wX1VR?oc=5",
+   "date": "2025-12-17T17:00:17+00:00",
+   "summary": "Pop OS 24.04 - COSMIC | تثبيت واستعراض كل جديد توزيعة لينكس الرائعة YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Install Arch Linux on Any Android Phone Without Root | Arch on Android Without Root",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03MjR3QnhuX3FLUkRqY1lDUF8zVUZTT2s1NmhRNFc5M2FEMHFRZzdXUGE5dTF0MlpvektkblRkNzVTLTA4UUR1ZExORVN5QzRMRGxQY1p3?oc=5",
    "date": "2025-12-12T04:47:35+00:00",
@@ -1383,6 +1454,16 @@
    "lang": "en"
   },
   {
+   "title": "How to Install Kali Linux in Arabic | شرح تثبيت كالي لينكس بطريقة الصحيحة للمبتدئين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVlFmaEt5ZGJjV2tueWNrVlo4enhpZEhFYmwxdWdJOTU4LU45QTIyeWgzU2VBZm1IdkJ1dFdFdXE3eFF6eGpuLXJBZDA4dkNjbXpUbTFn?oc=5",
+   "date": "2025-01-28T22:45:19+00:00",
+   "summary": "How to Install Kali Linux in Arabic | شرح تثبيت كالي لينكس بطريقة الصحيحة للمبتدئين YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Linux Tutorial For Beginners | Linux For Cloud Computing & DevOps | Learn Linux | Intellipaat",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSGY3Ty1aVm5qanBkSmhLVDluMzVpRmJKbWJZU1Q5WnVfbmdKOXI5TDBTLUl0QnZtQ3hiRWppUHFPaTFRdTU3Nk5PM1g5alFLT3czTjN3?oc=5",
    "date": "2025-01-23T14:00:06+00:00",
@@ -1571,6 +1652,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Linux Device Drivers Development Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHWU9EQUYzTHIxN0JYYnJxeFNURkZQNVUzc1UzNmhDY0VTRGZlb3NTNEpSZHJYRmNvYnY5Um5hR19SME5EU3VJc1hQZVVESmpKb1dLbkFB?oc=5",
+   "date": "2024-10-02T15:42:44+00:00",
+   "summary": "Linux Device Drivers Development Course for Beginners YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "openSUSE Leap | تنصيب ونظرة عامة على التوزيعة",
@@ -1953,6 +2044,16 @@
    "lang": "ar"
   },
   {
+   "title": "Fedora | شرح تحميل وتنصيب فيدورا 39",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYXljNDUyRUZFU2ZIb0lFMGFQWVdhalB0czdoblNZaEZ3YUxaeFlzcDdzYVEtbG0wblA5VXQtWjkzdUZnZXFGUVZ2OUcwa0huenpXMWp3?oc=5",
+   "date": "2023-11-10T15:30:19+00:00",
+   "summary": "Fedora | شرح تحميل وتنصيب فيدورا 39 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Home Server | ترقية توزيعة ديبان 11 إلى 12",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnVzh5QzdxMS1CbUdGNlhER1N2dnp4ZWlGSmpLaUVqVUoxcXNHWFNRMW1hMEsxVEwzTVJfc0NQY18xVENnWklNcEwtQnQ5cV9DOHo1Z0xn?oc=5",
    "date": "2023-11-08T15:30:13+00:00",
@@ -2003,26 +2104,6 @@
    "lang": "ar"
   },
   {
-   "title": "Linux Terminal for Beginners - The Complete Starter Guide",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwLWMtRE5WRWY3VVF4djI2OTR2Wm8xUElQVE1ueEkxZFk2c0RLMFZqS2xneF9QM0FKOVROZWp5TDlLZklHRmcybU1oMFNaRUYzNmpOVDNn?oc=5",
-   "date": "2023-10-02T12:00:12+00:00",
-   "summary": "Linux Terminal for Beginners - The Complete Starter Guide YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "[ DAY 1 ]FREE SQL & LINUX TRAINING BY LEARNOMATE TECHNOLOGIES PVT. LTD.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5elZMWGYxVjZUdVhLdVZQUGJObDdKWkJBVFV1V016NkV5M0xPcWtWUEdKa00yaEYtcWJpTnl2QVR4ZXFJQzFsbUxud25OSjNDZ2p3cUtn?oc=5",
-   "date": "2023-10-02T07:13:17+00:00",
-   "summary": "[ DAY 1 ]FREE SQL & LINUX TRAINING BY LEARNOMATE TECHNOLOGIES PVT. LTD. YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "المفيد في الجمع بين لينكس وويندوز على جهاز وحيد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QSUJIekJ4anl1WmljOENKMlJFTUFocmNtbEEtX084ekxyUzJYS1puT185dlBoSXpHZjJ6T24wVUgxVy1JU3R4SnNyQXNOWFJXaUlYY21n?oc=5",
    "date": "2023-09-30T14:15:03+00:00",
@@ -2033,16 +2114,6 @@
    "lang": "ar"
   },
   {
-   "title": "Kali Linux Basics for Beginners || Tutorial (2023/2024)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVnhmQlRTQXlNXzFoWjFSU09QM3hfNC1ra1hJaVV4LXIyZUhNbzR5SENrYW96ZG9fUmZmUVJYTGNEUlRZMjhUU3FQM25QT0lzRFRRZjBR?oc=5",
-   "date": "2023-09-24T19:07:11+00:00",
-   "summary": "Kali Linux Basics for Beginners || Tutorial (2023/2024) YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Debian | أهم الخطوات الواجب تنفيذها بعد تنصيب ديبيان",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUVdaOEYwREl6RV94TVJ1SmE5TkxEN0JrMmw0Q2dFbUEyU1JvZ0h0WmhwRnpIY1VVUC1uYnFTYnRVaE5NZ0VTTnhkT0JOV3gzaG5lN3lB?oc=5",
    "date": "2023-09-20T15:00:02+00:00",
@@ -2051,16 +2122,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Linux for Hackers Tutorial (And Free Courses)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wdGRZOC1KZjdYRU90d3EyZGVKa3FRMG1VcHlrcUtQSnB1b2VOUW5PRHVweU9JOU1oWlR3Y0ROeF9YUG5mT2pDWXA3a1lYNmZfX1UtYWd3?oc=5",
-   "date": "2023-09-10T14:00:31+00:00",
-   "summary": "Linux for Hackers Tutorial (And Free Courses) YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "استبدل ويندوز بـ ديبيان وحافظ على كل ملفاتك",
@@ -2133,16 +2194,6 @@
    "lang": "ar"
   },
   {
-   "title": "Red Hat Linux Server Administrator Full Course Beginner To Expert in 10+ Hours |RHEL Server Admin",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDQVJpOFlKMnU1MmxiZ1gwTEpxWkdTN2xsZHlweG9hZEdDQ2VfUWplN3NkQVRXeVdzTi02d2NxM2IxWE53Rnk1MHZ4bXVDX2JzX1Q0Y1dn?oc=5",
-   "date": "2023-05-27T04:38:18+00:00",
-   "summary": "Red Hat Linux Server Administrator Full Course Beginner To Expert in 10+ Hours |RHEL Server Admin YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "ما هو نظام الأختراق كالي لينكس ؟ | ? what's the kali linux hack system",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OXNwZ201TjRuaWxHUjF3SjF6amJxNmdRR3hDVGlwQWZESDNRWFU5UnZvR0tlNlJYdDR3REJ3bVdKY2ZFWXdlcV9ZUkVZYnBESVVPZHVB?oc=5",
    "date": "2023-05-24T19:57:51+00:00",
@@ -2151,16 +2202,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Linux For Complete Beginners - Full 5-Hour Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NeVk2TkJEWFRJRlhqMnY3SWVselpkTzF6ZkdXRkJMWlYzT0pjSnZFUTRKVzlLVFRtSm5ma21TUGRZSW9WekdkZE5CUHFRbjFvalQyeGNn?oc=5",
-   "date": "2023-05-14T20:11:17+00:00",
-   "summary": "Linux For Complete Beginners - Full 5-Hour Course YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "حل مشكلة تكبير الشاشة ونقل الملفات في توزيعة أوبونتو 23 تثبيت أدوات VMware Tools",
@@ -2187,46 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xLUFDZ2hFbXQzWUVZMXhrbjFwZTlDOVR0ZWQzSUxCVmY1NHpKQzhHWlp2MC11NkNJVkVFVnJUdzhrd2VrdFJqeWhLU0NyX1k3R0NnZU5n?oc=5",
    "date": "2023-04-13T18:30:28+00:00",
    "summary": "Linux Lite | توزيعة خفيفة وسهلة بديلة لـ ويندوز YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح اداه recon-ng - الفصل الثالث",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMXlENFQ2ZDh0WXhYSHJwcmxrWjBDR21idzFqS21OZkFFbVRDcndFeTNJd01EbkplQlAwSzJnTUtWbl9ZM0dzODM4T3M4bzJIbGZKWDJn?oc=5",
-   "date": "2023-02-22T12:30:47+00:00",
-   "summary": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح اداه recon-ng - الفصل الثالث YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#شرح تثبيت Kali Linux 2022.4 على UTM للماك M1/M2 مع حل جميع المشاكل.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mcXEyN3ViNjRaTTJqN3JtUUZraHNGVnpZSlhMcVFCSFlpVm5HWmMwN3VUUkQtYktVMXZVUzZVdmRGaThVdFNFWGxGQjdHUlRBWGRnMkRn?oc=5",
-   "date": "2022-12-19T15:35:42+00:00",
-   "summary": "#شرح تثبيت Kali Linux 2022.4 على UTM للماك M1/M2 مع حل جميع المشاكل. YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Kali Linux أسرع طريقة لتثبيت و تشغيل",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NaFphYXhNY3diWFFyc3JXOVF0eE5HRmg5Ym9zR2ZpYkZOcVBUOXgyc0dnY2VaOWR5TzJwZkpCQzAzYml3T3RYcVRDd0VDeFUtZ1oxWU5R?oc=5",
-   "date": "2022-11-29T13:00:09+00:00",
-   "summary": "Kali Linux أسرع طريقة لتثبيت و تشغيل YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Ubuntu 22.10 | خطوات يجب تنفيذها بعد تنصيب أوبونتو",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95SFRiek00azRFNmVMY3dmZ1pHWVQ1bzkzWUxIWnl2YlhGcWg5T0xqdVdqcGlTa1ZsNEVkWmMyOGNka1A5ZHJLNXp4UjluTTJiYUtNQW5B?oc=5",
-   "date": "2022-11-23T15:30:08+00:00",
-   "summary": "Ubuntu 22.10 | خطوات يجب تنفيذها بعد تنصيب أوبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
