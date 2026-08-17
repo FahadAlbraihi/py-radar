@@ -1,8 +1,85 @@
 {
- "generated": "2026-08-16T05:01:54.088607+00:00",
+ "generated": "2026-08-17T05:27:33.224124+00:00",
  "tech": "c",
- "count": 49,
+ "count": 57,
  "items": [
+  {
+   "title": "dog challenge",
+   "url": "https://dev.to/carynyx80/dog-challenge-2g44",
+   "date": "2026-08-16T23:42:35+00:00",
+   "summary": "This is a submission for Weekend Challenge: Dog Days Edition  http://petscope.lovable.app/  I built a...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Build a Crowd Runner Combat Game in Unity: A Technical Guide",
+   "url": "https://dev.to/unitysourcecode/build-a-crowd-runner-combat-game-in-unity-a-technical-guide-1pke",
+   "date": "2026-08-16T18:03:23+00:00",
+   "summary": "Crowd runner games have quietly become one of the most consistently profitable genres in mobile...",
+   "points": 1,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Having fun with SDL_Texture and C.",
+   "url": "https://dev.to/4deis/having-fun-with-sdltexture-and-c-2h8n",
+   "date": "2026-08-16T14:12:32+00:00",
+   "summary": "I have been learning Java for a year now, which made me come to conclusion that I've developed...",
+   "points": 1,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FreSH - First-Run Experience Shell",
+   "url": "https://dev.to/s42yt/fresh-first-run-experience-shell-22ce",
+   "date": "2026-08-16T08:08:47+00:00",
+   "summary": "FreSH GitHub Link A bash like shell i created for windows because powershell is just slow and sloppy....",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build Your Own SQLite Database From Scratch",
+   "url": "https://dev.to/farhadrahimiklie/how-to-build-your-own-sqlite-database-from-scratch-2lcm",
+   "date": "2026-08-16T05:31:33+00:00",
+   "summary": "Have you ever wondered what actually happens when you run a SQL query like:    SELECT name FROM users...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The regmap Subsystem: One Register API Across I2C, SPI and MMIO",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/the-regmap-subsystem-one-register-api-across-i2c-spi-and-mmio-38fp",
+   "date": "2026-08-16T05:03:21+00:00",
+   "summary": "Build a Linux I2C driver with the regmap subsystem: regmap_config, probe, the register cache, suspend and resume, and debugfs. Complete buildable code.",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Announcing Abscom — Python-flavored C11",
+   "url": "https://dev.to/rkriad585/announcing-abscom-python-flavored-c11-474n",
+   "date": "2026-08-16T02:31:00+00:00",
+   "summary": "I've spent a while building Abscom, a C11 library of reusable data structures with a Python-inspired...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Your Laptop Has Gigabytes of RAM. So Why Does Your Program Still Run Out of Memory?",
    "url": "https://blog.stackademic.com/your-laptop-has-gigabytes-of-ram-so-why-does-your-program-still-run-out-of-memory-ea24686fba5c?source=rss------c_programming-5",
@@ -11,6 +88,17 @@
    "tech": "c",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "8051 What does SDCC do part 3 ?",
+   "url": "https://dev.to/ddupard/8051-what-does-sdcc-do-part-3--3111",
+   "date": "2026-08-15T13:17:52+00:00",
+   "summary": "1. Introduction and Problem Statement   A good way to learn what a compiler really does when...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -324,6 +412,16 @@
    "lang": "ar"
   },
   {
+   "title": "C Programming for beginners - تعلم لغة سي من الصفر | First Code With C",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13NlRURWsxLTFmanlHdG1pbGdQVnRYTXlIU0ZSMzE4d1RoYzVKOHhXQzdiUmhYYncwNkNyVUNLUnZfSXFxM3Jxek9CU05CdEs3SWpyRHlR?oc=5",
+   "date": "2022-02-16T06:33:07+00:00",
+   "summary": "C Programming for beginners - تعلم لغة سي من الصفر | First Code With C YouTube",
+   "tech": "c",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "C Programming for beginners - تعلم لغة سي من الصفر | Course intro - المقدمة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13VVVMQ0dPR2tVenRzWC0yOUhhQzN0NnBiVXMzeWw1cUxYTEF4TFFULUs3NVJJdVFwaVpaSUhtY29jRzR4QWxkT2pUbmR2a3pISnpmTzB3?oc=5",
    "date": "2022-02-16T05:55:12+00:00",
@@ -460,17 +558,6 @@
    "date": "2018-12-17T06:50:57+00:00",
    "summary": "Swap two integers in 'C' programming using third variable",
    "points": 10,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Swap two integers in 'C' programming",
-   "url": "https://dev.to/programmerrush/swap-two-integers-in-c-progrmming-p2c",
-   "date": "2018-12-17T06:36:51+00:00",
-   "summary": "Swap two integers in 'C' programming using third variable",
-   "points": 8,
    "tech": "c",
    "sourceId": "devto",
    "source": "DEV.to",

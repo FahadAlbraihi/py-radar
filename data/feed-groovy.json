@@ -1,8 +1,173 @@
 {
- "generated": "2026-08-16T05:02:07.144222+00:00",
+ "generated": "2026-08-17T05:27:45.919367+00:00",
  "tech": "groovy",
  "count": 108,
  "items": [
+  {
+   "title": "Spring proxies: JDK dynamic vs CGLIB",
+   "url": "https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1",
+   "date": "2026-08-17T05:08:46+00:00",
+   "summary": "You put @Transactional on a method and a database transaction opens before it runs and commits when...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "BeanPostProcessor & BeanFactoryPostProcessor",
+   "url": "https://dev.to/ankit_verma_e2fa7fb2aa95d/beanpostprocessor-beanfactorypostprocessor-42b3",
+   "date": "2026-08-17T05:08:42+00:00",
+   "summary": "Two hooks with nearly the same name   Spring's container builds your objects so you don't...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The outbox pattern is four sentences in a blog post. Here are three incidents from running it.",
+   "url": "https://dev.to/danzizhangdev/the-outbox-pattern-is-four-sentences-in-a-blog-post-here-are-three-incidents-from-running-it-4iek",
+   "date": "2026-08-17T05:01:42+00:00",
+   "summary": "Write the event into the same transaction as the row. Poll the table. Send to Kafka. Mark it sent....",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Reasons Why You Should Use ReactJS for App Development",
+   "url": "https://dev.to/sahil_khurana_486f374ecf2/5-reasons-why-you-should-use-reactjs-for-app-development-565",
+   "date": "2026-08-17T04:59:20+00:00",
+   "summary": "The frontend landscape is noisy. Angular, Vue, Svelte, Solid — there's always a new contender. But...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Solon 4.0.5 Core: Migrating from Apache Fury to Apache Fory for Blazingly Fast Serialization",
+   "url": "https://dev.to/solonjava/solon-405-core-migrating-from-apache-fury-to-apache-fory-for-blazingly-fast-serialization-22n2",
+   "date": "2026-08-17T04:09:10+00:00",
+   "summary": "In the recently released Solon v4.0.5, a minor but strategically significant update is highlighted in...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Claude's System Prompt Grew From 358 to 3,235 Words. Here's What It Teaches Production AI Teams",
+   "url": "https://dev.to/jamilxt/claudes-system-prompt-grew-from-358-to-3235-words-heres-what-it-teaches-production-ai-teams-l5b",
+   "date": "2026-08-17T03:13:03+00:00",
+   "summary": "This week, Anthropic's system-prompt release notes became the top story on Hacker News. The page is...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Your JPA Counter Column Keeps Resetting to Zero",
+   "url": "https://dev.to/anand_rathnas_d5b608cc3de/why-your-jpa-counter-column-keeps-resetting-to-zero-2inh",
+   "date": "2026-08-17T02:22:16+00:00",
+   "summary": "Our denormalized click counters silently reset under load. The culprit was a one-line interaction between @Modifying @Query and @Version. Here's the fix.",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building AI Prompt Lab with Java 21, Spring Boot and React 19",
+   "url": "https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8",
+   "date": "2026-08-16T23:20:00+00:00",
+   "summary": "A full-stack AI prompt management application built with Java 21, Spring Boot, React 19, TypeScript, PostgreSQL and OpenRouter.",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "NetBeans: Exploring the Oracle-to-Apache IDE Platform (2026-08-16 22:09)",
+   "url": "https://dev.to/said_olano/netbeans-exploring-the-oracle-to-apache-ide-platform-2026-08-16-2209-ca4",
+   "date": "2026-08-16T22:09:15+00:00",
+   "summary": "NetBeans: Exploring the Oracle-to-Apache IDE Platform   NetBeans has long been a staple in...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Week 9 of #100DaysOfCode: A Week of Deep Spring Learning",
+   "url": "https://dev.to/onatade_abdulmajeed/week-9-of-100daysofcode-a-week-of-deep-spring-learning-4d57",
+   "date": "2026-08-16T19:23:22+00:00",
+   "summary": "Introduction   This week, I decided to slow down and go deeper into the Spring...",
+   "points": 10,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Really Happens When You Call a REST API in Spring Boot?",
+   "url": "https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h",
+   "date": "2026-08-16T17:29:45+00:00",
+   "summary": "If you are learning Spring Boot, you have probably written something like...",
+   "points": 1,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Complete Guide to Building a Scalable Java-Selenium Automation Framework",
+   "url": "https://dev.to/shell_qa/complete-guide-to-building-a-scalable-java-selenium-automation-framework-44fg",
+   "date": "2026-08-16T16:24:55+00:00",
+   "summary": "QA Automation - Best Practices Guide Framework: Hybrid Test Automation Framework  Stack: Java -...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "🚀 Building Spring by Example: Completing the Spring Events Module",
+   "url": "https://dev.to/iammujuzimoses/building-spring-by-example-completing-the-spring-events-module-184l",
+   "date": "2026-08-16T15:57:40+00:00",
+   "summary": "When I started learning Spring, I noticed something about many of the tutorials I found.  They often...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Api Testing Client App(Introducing Thundercall)",
+   "url": "https://dev.to/firoze/api-testing-client-appintroducing-thundercall-1n4",
+   "date": "2026-08-16T14:53:48+00:00",
+   "summary": "I’m building Thundercall, a free, self-hosted API client and team collaboration platform — built with...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Handle Global Exception Handling in a Spring Boot Application",
+   "url": "https://dev.to/keping_jiang_4cb350737cdb/how-i-handle-global-exception-handling-in-a-spring-boot-application-37hi",
+   "date": "2026-08-16T03:31:00+00:00",
+   "summary": "How I Handle Global Exception Handling in a Spring Boot Application   Exception handling is...",
+   "points": 0,
+   "tech": "groovy",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Moving Files Seamlessly from EPM Inbox/Outbox Explorer to Data Management File Manager Using Groovy…",
    "url": "https://medium.com/@SantoshHakki/moving-files-seamlessly-from-epm-inbox-outbox-explorer-to-data-management-file-manager-using-groovy-5c0733d2e59d?source=rss------groovy-5",
@@ -199,28 +364,6 @@
    "lang": "en"
   },
   {
-   "title": "Grow a Garden Pet Tier List (2026) – Best Pets Ranked from S Tier to D Tier",
-   "url": "https://dev.to/khan_sab_5765e3f15e0a8971/grow-a-garden-pet-tier-list-2026-best-pets-ranked-from-s-tier-to-d-tier-5618",
-   "date": "2026-07-04T12:19:30+00:00",
-   "summary": "Grow a Garden Pet Tier List (2026) – Best Pets Ranked from S Tier to D Tier  If you're looking for...",
-   "points": 0,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "SaaS Growth Framework: How to Get Your First 100 Paying Customers Without Burning Cash",
-   "url": "https://dev.to/feidou/saas-growth-framework-how-to-get-your-first-100-paying-customers-without-burning-cash-1i1c",
-   "date": "2026-06-29T08:48:59+00:00",
-   "summary": "The first 100 paying customers determine whether your SaaS survives. This framework breaks down the...",
-   "points": 5,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Coding the Haiku Kata in Smalltalk",
    "url": "https://donraab.medium.com/coding-the-haiku-kata-in-smalltalk-a2a3279fbea2?source=rss------groovy-5",
    "date": "2026-06-23T19:35:54+00:00",
@@ -261,17 +404,6 @@
    "lang": "en"
   },
   {
-   "title": "Building a Morpheus Plugin A Practical Walkthrough",
-   "url": "https://dev.to/emre_baykal_a4a7a479d48c5/building-a-morpheus-plugin-a-practical-walkthrough-3gbh",
-   "date": "2026-04-29T20:10:27+00:00",
-   "summary": "Morpheus is a hybrid cloud management platform with a plugin SDK that lets you extend almost...",
-   "points": 0,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Easy Funk Piano Tutorial | Groovy Riffs with Chord Progressions 🎶",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1SWtITnlsekZacC11NlM3LXk1ejZQX0FfV3FzU2lGRVFHbUs1RU5hX2c2cTFFcmZZekRBME9FQ3ZQUlRLTUgtNnpZODlCVy1LQkJXT01R?oc=5",
    "date": "2026-02-18T16:00:06+00:00",
@@ -282,61 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "Groovy 고급 기능 - DSL, Meta Object Programming, Template Engine",
-   "url": "https://dev.to/dss99911/groovy-gogeub-gineung-dsl-meta-object-programming-template-engine-546g",
-   "date": "2025-12-31T04:34:24+00:00",
-   "summary": "DSL (Domain Specific Language)   DSL 또는 도메인 특화 언어는 특정 도메인에 맞게 설계된 언어입니다.           메서드 괄호 및...",
-   "points": 1,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Groovy 기초 - 문법, 변수, 문자열, 연산자, 제어문",
-   "url": "https://dev.to/dss99911/groovy-gico-munbeob-byeonsu-munjayeol-yeonsanja-jeeomun-5fhm",
-   "date": "2025-12-31T04:33:52+00:00",
-   "summary": "Groovy 기초   Groovy는 JVM 기반 언어로, Java와 유사하면서도 더 간결한 문법을 제공합니다.           기본 문법   세미콜론은 생략...",
-   "points": 1,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Groovy 클래스와 메서드 - Class, Method, Closure, Trait",
-   "url": "https://dev.to/dss99911/groovy-keulraeseuwa-meseodeu-class-method-closure-trait-3p1l",
-   "date": "2025-12-31T04:33:03+00:00",
-   "summary": "Class (클래스)            인스턴스 초기화   생성자 없이 named parameter로 초기화 가능:    class User {     String...",
-   "points": 4,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Groovy 데이터 처리 - File, JSON, XML",
-   "url": "https://dev.to/dss99911/groovy-deiteo-ceori-file-json-xml-57a3",
-   "date": "2025-12-31T04:30:05+00:00",
-   "summary": "File 처리            상대 경로      new File('../aspectjx')        Enter fullscreen mode          ...",
-   "points": 4,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Groovy Collection - Set, List, Map, Range",
-   "url": "https://dev.to/dss99911/groovy-collection-set-list-map-range-2mhc",
-   "date": "2025-12-31T03:25:55+00:00",
-   "summary": "Groovy Collection   Groovy는 다양한 컬렉션 타입을 지원하며, Java보다 간결한 문법을 제공합니다.           Set      //...",
-   "points": 0,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Groovy Tutorial | Groovy Tutorial for Beginners | Groovy Programming Tutorial | Session 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zRlFtS0ZrUUl6NHpXenBXa3BhTW9yTzg4Y050bzMxYVM1dXdBaUZDQWN2NjZrNGpVVHc1Sm1WLVlSMDdiZzJoX2Z5dVBMNVJHbHRHOU93?oc=5",
    "date": "2025-12-16T09:30:06+00:00",
@@ -344,17 +421,6 @@
    "tech": "groovy",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Stop Waiting for Gradle: Turn Your Old Laptop into an Android/Kotlin Build Sanctuary",
-   "url": "https://dev.to/sanjayajoseph/stop-waiting-for-gradle-turn-your-old-laptop-into-an-androidkotlin-build-sanctuary-26mh",
-   "date": "2025-12-15T16:13:58+00:00",
-   "summary": "If you are a geek like me, you live in a multi-device environment. I have my Gaming PC for...",
-   "points": 1,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -375,17 +441,6 @@
    "tech": "groovy",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "QuPath Patch Extractor Pipeline",
-   "url": "https://dev.to/mariablancogonzalez/qupath-stain-extractor-pipeline-3h0h",
-   "date": "2025-09-11T15:08:07+00:00",
-   "summary": "This repository serves as documentation for the steps to follow with QuPath to extract tiles from a...",
-   "points": 0,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -599,17 +654,6 @@
    "lang": "ar"
   },
   {
-   "title": "Exploring Groovy: Features and Advantages Over Java",
-   "url": "https://dev.to/arun_karthickm_f4b9975c0/features-and-advantages-of-groovy-over-java-1hda",
-   "date": "2024-09-14T17:29:30+00:00",
-   "summary": "Groovy is a dynamic language built for the JVM. It seamlessly integrates with Java code and...",
-   "points": 0,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "59th Bridge Street Song (Feelin' Groovy) - Guitar Tutorial - Simon & Garfunkle - Free TAB",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aNHJaNUd2NnpaSjVhUWU1VDVweFdyNEc2X3hfU0FpS09lQmVEOXEwWlJCRWk0aWdRcFY1VmVWZ1poOFlteWtvSXcxMnRPdUt0dGxBb0FR?oc=5",
    "date": "2024-08-23T08:26:53+00:00",
@@ -630,39 +674,6 @@
    "lang": "en"
   },
   {
-   "title": "Tasting Groogle",
-   "url": "https://dev.to/jagedn/tasting-groogle-2n2p",
-   "date": "2024-07-23T11:43:39+00:00",
-   "summary": "As we saw in previous post, Groogle is an DSL oriented to interact with Google services. You can...",
-   "points": 1,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Machine Learning with Spark and Groovy",
-   "url": "https://dev.to/jagedn/machine-learning-with-spark-and-groovy-1301",
-   "date": "2024-07-21T00:00:00+00:00",
-   "summary": "In a previous post, machine-learning-groovy.html (spanish), I was playing to group similar customers...",
-   "points": 0,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Groogle 4.0.0 (Google DSL)",
-   "url": "https://dev.to/jagedn/groogle-400-google-dsl-39ca",
-   "date": "2024-07-11T14:00:49+00:00",
-   "summary": "Groogle is a DSL (Domain Specific Language) oriented to interact with Google Cloud services in an...",
-   "points": 4,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Decision making statements in groovy| (Groovy Tutorial - 5 )",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oVnhwbnEyaHRTcVE2aVBLbXFDWGpmNTlsYUZyQVk0bkFwZmtCMGlkaWxON09lcHRTcklxUXNQT1lDZzBuUUhqdzlRcmdxXzRqZVRYQVZn?oc=5",
    "date": "2024-07-04T12:30:27+00:00",
@@ -670,17 +681,6 @@
    "tech": "groovy",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Tutorial: Learn how to use the H2 Database with Spring Boot! 🤔",
-   "url": "https://dev.to/thospfuller/tutorial-learn-how-to-use-the-h2-database-with-spring-boot-2e1b",
-   "date": "2024-06-25T11:59:22+00:00",
-   "summary": "In this instructional we’ll review an example application which is written in the Groovy Programming...",
-   "points": 0,
-   "tech": "groovy",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -738,6 +738,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKLXpwVkNWbXc3aFJZMWY0c3JVS1BWNmdZQ3lIOFZEU3pUcWZnTUdvcFA1Q0xQbXR2d3dGaFpKUG1nbjUyU2ZfNzJxNVdiZTI0M210bTJn?oc=5",
    "date": "2023-08-08T05:30:00+00:00",
    "summary": "Master Groovy Scripting Techniques | Essential Groovy Operators | Groovy Tutorial - 3 YouTube",
+   "tech": "groovy",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Basics of Groovy Language | Groovy Language - Tutorial 1 | How to Install and Setup groovy?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02S1EwaUFjaHlrUS1GUkUtRGN2M25GTU1UUVVxMVRrcnNIZk5Jb1Y3OHBSVHZRSlMwZ3pGQVdGTFhsSDM3WWlEd3Q1c0tuUk1menliZ3ZR?oc=5",
+   "date": "2023-07-26T06:16:00+00:00",
+   "summary": "Learn Basics of Groovy Language | Groovy Language - Tutorial 1 | How to Install and Setup groovy? YouTube",
    "tech": "groovy",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1098,16 +1108,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zTDBYVmpoeE1uS1RRbHh0UXEyVXVOc3lsWjUyb1lTYkQzMXd1MUNpZTRBUHNZcEdIUF9aMVZiY3VybXpKY3k0YVhiMzJJV3J0YVYxbzBR?oc=5",
    "date": "2019-04-26T23:30:02+00:00",
    "summary": "Groovy Beginner Tutorial 31 | Regular Expressions YouTube",
-   "tech": "groovy",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Groovy Beginner Tutorial 24 | OOP | Example 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zR05XaEdXUTU5MGFWclVQSXlFcm1QYWxTNy1sUmFJclJ3bEgyc18tZ2YwTzFQcy1qYlhYNDRHX2RPQWF2OWZkbWpvWmdDeUdCbnFuOHRR?oc=5",
-   "date": "2019-04-16T23:30:00+00:00",
-   "summary": "Groovy Beginner Tutorial 24 | OOP | Example 1 YouTube",
    "tech": "groovy",
    "sourceId": "yt",
    "source": "YouTube",

@@ -1,8 +1,51 @@
 {
- "generated": "2026-08-16T05:01:40.718221+00:00",
+ "generated": "2026-08-17T05:27:20.117431+00:00",
  "tech": "dart",
- "count": 152,
+ "count": 159,
  "items": [
+  {
+   "title": "Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)",
+   "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
+   "date": "2026-08-16T18:12:39+00:00",
+   "summary": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your App Might Not Launch This Fall — Flutter 3.47 and Dart 3.13",
+   "url": "https://yiichenhi.medium.com/your-app-might-not-launch-this-fall-flutter-3-47-and-dart-3-13-f5606671e772?source=rss------dart-5",
+   "date": "2026-08-16T11:59:20+00:00",
+   "summary": "Material moves out of the SDK, iOS 27 forces UIScene, Impeller lands on desktop. Continue reading on Medium »",
+   "tech": "dart",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
+   "url": "https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4",
+   "date": "2026-08-15T18:45:56+00:00",
+   "summary": "Why persistent domain state is the wrong place for transient dialogs and snackbars, how classic BLoC solved it with bloc_presentation, and how to handle one-shot side effects in BlocSignal with zero dependencies.",
+   "points": 1,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Desktop Input Design — Where Does the Enter Key Actually Go?",
+   "url": "https://dev.to/yuelinghuashu/flutter-desktop-input-design-where-does-the-enter-key-actually-go-1d0i",
+   "date": "2026-08-15T09:37:15+00:00",
+   "summary": "From \"pressing Enter does nothing\" to \"the numpad Enter still inserts a newline\" — all these desktop input field pitfalls trace back to the same root cause: the Focus Chain. A deep dive into LogicalKeyboardKey, Shift+Ent",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "你的 App 今年秋天可能開不起來: Flutter 3.47 與 Dart 3.13",
    "url": "https://medium.com/flutter-taipei/%E4%BD%A0%E7%9A%84-app-%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%A4%A9%E5%8F%AF%E8%83%BD%E9%96%8B%E4%B8%8D%E8%B5%B7%E4%BE%86-flutter-3-47-%E8%88%87-dart-3-13-58a2e54b7bbf?source=rss------dart-5",
@@ -11,6 +54,17 @@
    "tech": "dart",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Where redundant API calls come from in a production Flutter app",
+   "url": "https://dev.to/shahryarahmad/where-redundant-api-calls-come-from-in-a-production-flutter-app-a7e",
+   "date": "2026-08-15T05:27:52+00:00",
+   "summary": "On an app that already has users, cutting unnecessary network traffic by around forty per cent did...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -253,6 +307,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VREh4SkRoQ2k0d01EUUhyaUVBZ2FDcHVOOW5HWGM1Q256cHNIdnVhVjE1dEdLNHJabHhQaVA0VFhpNVZUbHRidzAyQ3hnWHdIbElKaVd3?oc=5",
    "date": "2025-11-25T12:10:17+00:00",
    "summary": "Dart Crash Course for Beginners - Flutter Course for Beginners #4 YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Dart Programming Tutorial for Beginners - Master Dart in One hour",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmQ0J3azlvYmJiaFNRM3M1V1kxdU0zcE8wdWNFdlNtNXRLT3lyaHhGdlljQ0g2V2o1OTVXdUtld1hOLUhPYWEwWWREUDF6YzBvcnB3Y013?oc=5",
+   "date": "2025-10-24T19:21:20+00:00",
+   "summary": "Dart Programming Tutorial for Beginners - Master Dart in One hour YouTube",
    "tech": "dart",
    "sourceId": "yt",
    "source": "YouTube",
@@ -559,6 +623,16 @@
    "lang": "ar"
   },
   {
+   "title": "انواع البيانات في Dart (List): تعلم دارت من الصفر للإحتراف",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pWkRka2lYQ3VaSlNwMHpjc3FwdU1FeTJucUhfcEE1WXIxajI3SHB6ODN3SDFOWjFWdEpWd2xtY1NTNjBWTFRqZ2dWdlZWYkxvRllYSVVB?oc=5",
+   "date": "2024-08-14T14:00:57+00:00",
+   "summary": "انواع البيانات في Dart (List): تعلم دارت من الصفر للإحتراف YouTube",
+   "tech": "dart",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الفرق بين أنواع البيانات (const, final): تعلم Dart من الصفر للإحتراف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NWF6MEtFbk05VEJEeWNuZlVzT19mRXNKajlEY1BmNkdBX0RoTHBNbHBnUDQ3MFR0aW1GQ1ZELTdJa0tiYzFCR0RCVjRELXRsYnJQd1NB?oc=5",
    "date": "2024-07-27T14:00:17+00:00",
@@ -607,6 +681,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "تعلم Dart من الصفر للاحتراف: الأمر الأول",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95cGNvaVdHWEZkWXdaYjBoYXo0WC11aGdmZmhDM25wR2xpenA2aEhBSGFhbjJyRmdoYm1iWGtHN3dyTkVOLWw5RHREbm1NdnBpWUN3WXVR?oc=5",
+   "date": "2024-05-13T12:00:07+00:00",
+   "summary": "تعلم Dart من الصفر للاحتراف: الأمر الأول YouTube",
+   "tech": "dart",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "تعلم dart من الصفر للاحتراف: تجهيز الأدوات وبيئة العمل",
@@ -943,6 +1027,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mcVBiMnA3ZjVlUUlkQy1RY0VYR0VhUWxobDJmSG1qLTBQRWRfb21hUFo5M0tmeGRTTmRZcnF0S21jN3FTbTF1UFJwWUNGbFVjT2ktanR3?oc=5",
    "date": "2022-12-07T05:29:07+00:00",
    "summary": "Dart's Variables and Data Types - Learn About Final, Const, Late and Data Types in Dart YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Generics In Dart - Learn Dart Programming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQ3JiZ2h0aU5qdExFR09USVpZZjIxVWVTYlMweW5QYWotS3A3UElxNU5PbmVzLXI5SEY1aWlQbUIzcTNuMG1lLW1ZbGR3R0NmS2lxV1Vn?oc=5",
+   "date": "2022-12-01T13:15:02+00:00",
+   "summary": "Generics In Dart - Learn Dart Programming YouTube",
    "tech": "dart",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1309,6 +1403,16 @@
    "lang": "en"
   },
   {
+   "title": "Dart in 100 Seconds",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zR3VXa3UxODN3VmszMU1yWW1FVlViLVNQWm5GeGdCMl96Y09TbFBoRkxVOHJ1NndxT1RJM3BaSGJDd3BXVzByQjB6dzFBTmdsQVQ5QzJB?oc=5",
+   "date": "2021-10-13T16:53:20+00:00",
+   "summary": "Dart in 100 Seconds YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oM1Faa3JfM3hRQTJuOS1nNktQdUxKTVNKblFEd3hubjlQX09FY3MtMVJnQXpVcnRtUXV6cm96LUxIUWdTYi1OQ3RPRkJ2OFcwYXBuZC1R?oc=5",
    "date": "2021-09-22T12:04:36+00:00",
@@ -1409,26 +1513,6 @@
    "lang": "ar"
   },
   {
-   "title": "Introduction to Dart - From Novice to Expert Tutorial Series",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15N0pvWkZ5b1UzMnVrTExFMVhVSGxNcEQ0RFhwZFE5dmVUdDZKQlRWQkJwY3dFLWlrQWNwZTd6amZGVlZqNUpDRVozTmRrRFBGSTVLUTJR?oc=5",
-   "date": "2021-04-12T16:45:03+00:00",
-   "summary": "Introduction to Dart - From Novice to Expert Tutorial Series YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter App Development Course | Flutter & Dart | Build Flutter iOS and Android Apps",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KRnkxTWc4MlNCSzJBWVRjbWZWNGhwUmJIeGtMT3d2aHpWel9ZbS1lNzdGRTl1NUlJbHAzdEhNZ0dlZlU5Y0p2Z0wtQWRvYVEwbnpyRjRB?oc=5",
-   "date": "2021-04-04T07:00:09+00:00",
-   "summary": "Flutter App Development Course | Flutter & Dart | Build Flutter iOS and Android Apps YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تحميل وتثبيت الدارت(Dart) وفلاتر (Flutter) وبرنامج فيجوال استوديو (VS code) وربط الجوال بالكمبيوتر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OcVFaOWVBNTlMSnZibG5weHNwR1VEeVRfOVJvUXBlUVlYNFFRdDdDNC1jVDBOM0wtSDMzS1BZdWY0REk3RzJnb0lZMkd4SmxSVHFMcUJn?oc=5",
    "date": "2021-02-15T10:34:50+00:00",
@@ -1447,16 +1531,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Learn Flutter for App Development | Zero to Hero in Flutter Dart",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55RXhoeGJDY0o0bzdOQUNYVDkzRHlOVWtxT2N4Xzh6cmh1Y3ltSlNYNFBnZ0RGLUxqSExKdU51MHpZTUhyLWNmSzRLbmQ0bDdYczJENTlR?oc=5",
-   "date": "2021-02-07T04:30:08+00:00",
-   "summary": "Learn Flutter for App Development | Zero to Hero in Flutter Dart YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "خمسة برمجة - قصة لغة دارت Dart - ماهي و مميزاتها و عيوبها + مصادر تعليمية",

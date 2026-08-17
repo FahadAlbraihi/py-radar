@@ -1,8 +1,272 @@
 {
- "generated": "2026-08-16T04:54:24.329309+00:00",
+ "generated": "2026-08-17T05:20:13.459016+00:00",
  "tech": "sql",
  "count": 220,
  "items": [
+  {
+   "title": "An Index Suggestion Is a Hypothesis, Not a Patch",
+   "url": "https://dev.to/codepy_1473/an-index-suggestion-is-a-hypothesis-not-a-patch-20e4",
+   "date": "2026-08-17T05:15:52+00:00",
+   "summary": "An index suggestion from a language model is a hypothesis, not a patch. The moment you paste a slow...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Speed Up Your Queries: A Plain-English Guide to Database Indexing",
+   "url": "https://dev.to/saurav_tb_pandey/speed-up-your-queries-a-plain-english-guide-to-database-indexing-21a3",
+   "date": "2026-08-17T04:24:53+00:00",
+   "summary": "What is Database Indexing?   Database indexing is a technique used by software systems to...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The First SQL Engine for Apple Silicon GPUs Is Now a DuckDB Community Extension",
+   "url": "https://dev.to/aiexplore369zoho/the-first-sql-engine-for-apple-silicon-gpus-is-now-a-duckdb-community-extension-2kbi",
+   "date": "2026-08-17T04:20:02+00:00",
+   "summary": "In May 2026 I shipped gpudb v0.1 — the first SQL execution engine targeting Apple Silicon GPUs, built as a DuckDB extension with a CUDA backend on Lin",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Is MCP, and Why Should Anyone Working With a Database Care?",
+   "url": "https://dev.to/vivekdraxlr/what-is-mcp-and-why-should-anyone-working-with-a-database-care-472m",
+   "date": "2026-08-17T04:15:59+00:00",
+   "summary": "The Model Context Protocol lets AI assistants query your database without ever holding your credentials. Here's how it works, why it matters, and the gotchas to watch for.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "One Line, One NULL, One Noisy Error: Fixing usql's Tab Completion Crash",
+   "url": "https://dev.to/gouranga-das-khulna/one-line-one-null-one-noisy-error-fixing-usqls-tab-completion-crash-3fmn",
+   "date": "2026-08-17T04:00:00+00:00",
+   "summary": "Not every open-source contribution needs a saga. Sometimes the whole story is: hit an annoying...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Elasticsearch cmds",
+   "url": "https://dev.to/leroykayanda/elasticsearch-cmds-4fkp",
+   "date": "2026-08-17T03:43:00+00:00",
+   "summary": "Query for 1 record in an index    curl -u user:password \\   -X GET...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "DIA 0 -> Começando a documentar minha jornada DEV.",
+   "url": "https://dev.to/theusmpm/dia-0-comecando-a-documentar-minha-jornada-dev-2pe0",
+   "date": "2026-08-17T02:18:42+00:00",
+   "summary": "Olá! 👋  Meu nome é Matheus, sou estudante de Engenharia da Computação e estou começando a usar o...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Export a Database Data Dictionary: HTML, Markdown and Excel from Your ERD",
+   "url": "https://dev.to/tbson87/export-a-database-data-dictionary-html-markdown-and-excel-from-your-erd-4oo7",
+   "date": "2026-08-17T01:55:03+00:00",
+   "summary": "Schemity exports the diagram as a data dictionary in HTML, Markdown and Excel, covering every column, constraint and relationship, and closes by naming...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Prove a Generated Migration Can Undo Itself Before It Touches Your Data",
+   "url": "https://dev.to/codepy_1473/prove-a-generated-migration-can-undo-itself-before-it-touches-your-data-gi0",
+   "date": "2026-08-17T01:54:10+00:00",
+   "summary": "A migration has not earned a place in your deploy until its rollback path has been run against a...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Closing the Tax Gap with a Data Model: Invoice Traceability in SQL",
+   "url": "https://dev.to/ricardo_demelo_2a17a8dd9/closing-the-tax-gap-with-a-data-model-invoice-traceability-in-sql-62i",
+   "date": "2026-08-17T01:16:24+00:00",
+   "summary": "The U.S. tax gap—the difference between taxes owed and taxes paid on time—runs about $696 billion a...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Actually Happens When You UPDATE a Row in PostgreSQL?",
+   "url": "https://dev.to/ujjwal_011/what-actually-happens-when-you-update-a-row-in-postgresql-2nbk",
+   "date": "2026-08-16T23:15:49+00:00",
+   "summary": "Most developers think of a PostgreSQL table like this:           users            id | age   1  |...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "cannot index parallel arrays, the MongoDB error that improves your schema",
+   "url": "https://dev.to/saqibameen86/cannot-index-parallel-arrays-the-mongodb-error-that-improves-your-schema-4pp",
+   "date": "2026-08-16T21:41:53+00:00",
+   "summary": "MongoServerError: cannot index parallel arrays [certifications] [skills]        Enter fullscreen...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why a two-user Convex chat app read tens of MB a day",
+   "url": "https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k",
+   "date": "2026-08-16T19:43:18+00:00",
+   "summary": "In Convex, bandwidth isn't the size of your data, it's how many times your reactive queries re-read it. Here are the four traps that inflated my bill and the fixes for each.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "OrioleDB Multi-Version Concurrency Control",
+   "url": "https://dev.to/franckpachot/orioledb-multi-version-concurrency-control-43d",
+   "date": "2026-08-16T19:42:20+00:00",
+   "summary": "MVCC not only tracks row history but also records the search-key space. To better understand...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "View vs Materialized View: A Saved Question vs a Saved Answer",
+   "url": "https://dev.to/vahid_aghajani_60ce9dbec9/view-vs-materialized-view-a-saved-question-vs-a-saved-answer-fa8",
+   "date": "2026-08-16T18:29:32+00:00",
+   "summary": "You wrapped the slow query in a view and believed it made something faster. It did not. A view stores no data — it stores SQL text, so every SELECT re-runs the query from scratch. A materialized view stores the answer as",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Pasting Your Database Connection String Into AI Tools (Do This Instead)",
+   "url": "https://dev.to/vivekdraxlr/stop-pasting-your-database-connection-string-into-ai-tools-do-this-instead-23le",
+   "date": "2026-08-16T16:29:56+00:00",
+   "summary": "Pasting a DB connection string into an AI chat is one of the fastest ways to leak production credentials. Here's why it's risky and what a broker-based approach fixes.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Modeling Recurring vs One-Off Events in a Bilingual City Guide",
+   "url": "https://dev.to/member_5432fd74/modeling-recurring-vs-one-off-events-in-a-bilingual-city-guide-m5g",
+   "date": "2026-08-16T16:00:26+00:00",
+   "summary": "A weekly salsa night and a dated concert look like the same entity until you try to build URLs, sitemaps, and an archive policy for both. Notes on the split, using a bilingual events guide as the worked example.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "\"Power BI Error: The Key Didn't Match Any Rows in the Table\"",
+   "url": "https://dev.to/pbidocs/power-bi-error-the-key-didnt-match-any-rows-in-the-table-556a",
+   "date": "2026-08-16T15:45:17+00:00",
+   "summary": "description: \"The key didn't match any rows in the table\" comes from LOOKUPVALUE finding zero...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "InnoDB innodb_force_recovery Levels 1–6: What Each Level Actually Does",
+   "url": "https://dev.to/nisargupadhyay87/innodb-innodbforcerecovery-levels-1-6-what-each-level-actually-does-3anp",
+   "date": "2026-08-16T12:52:24+00:00",
+   "summary": "In this article, we will learn about innodb_force_recovery levels, what is their meaning and how it...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Database Seed File Maintenance: Stop Patching seed.sql",
+   "url": "https://dev.to/mikh-shytsko/database-seed-file-maintenance-stop-patching-seedsql-4oln",
+   "date": "2026-08-16T12:25:53+00:00",
+   "summary": "Why your team quietly stopped running seed.sql months ago. A practical guide for PostgreSQL, MySQL,...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Review SQL Migrations in 30 Seconds: Seed, Migrate, Compare",
+   "url": "https://dev.to/mikh-shytsko/review-sql-migrations-in-30-seconds-seed-migrate-compare-86i",
+   "date": "2026-08-16T12:25:40+00:00",
+   "summary": "When you review application code, the tests show what it does. A migration arrives as raw SQL that...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PostgreSQL Test Data: A Syntax Cookbook",
+   "url": "https://dev.to/mikh-shytsko/postgresql-test-data-a-syntax-cookbook-2h3n",
+   "date": "2026-08-16T12:24:08+00:00",
+   "summary": "TL;DR: PostgreSQL ships three primitives that cover most test-data work — generate_series() for...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Turn Plain-English Requirements into SQL You Can Actually Trust",
+   "url": "https://dev.to/craftloop/how-to-turn-plain-english-requirements-into-sql-you-can-actually-trust-l4a",
+   "date": "2026-08-16T10:17:10+00:00",
+   "summary": "\"Just write me a query for X\" is one of the most common requests thrown at whoever's closest to the...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Demystifying Vector Distance in PostgreSQL",
+   "url": "https://dev.to/rpi1337/demystifying-vector-distance-in-postgresql-40ol",
+   "date": "2026-08-16T08:50:55+00:00",
+   "summary": "A look into sliding window comparisons for image analysis.  When you need to perform complex...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why 'WHERE x = NULL' Never Works in SQL (And What to Use Instead)",
    "url": "https://dev.to/systemcraftdev/why-where-x-null-never-works-in-sql-and-what-to-use-instead-3p4h",
@@ -19,17 +283,6 @@
    "url": "https://dev.to/codepy_1473/split-a-name-column-the-migration-contract-catches-what-review-misses-3d3p",
    "date": "2026-08-15T22:58:14+00:00",
    "summary": "A migration that looks correct in review can still corrupt data because review sees intent, not edge...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "\"Power BI Error: The Key Didn't Match Any Rows in the Table\"",
-   "url": "https://dev.to/pbidocs/power-bi-error-the-key-didnt-match-any-rows-in-the-table-3fmi",
-   "date": "2026-08-15T22:14:50+00:00",
-   "summary": "tags: powerbi, dax, troubleshooting, tutorial           canonical_url:...",
    "points": 0,
    "tech": "sql",
    "sourceId": "devto",
@@ -91,138 +344,6 @@
    "lang": "en"
   },
   {
-   "title": "LioranDB TypeScript Series #8: Authentication, Users, Roles and Sessions",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-8-authentication-users-roles-and-sessions-38g6",
-   "date": "2026-08-15T20:10:12+00:00",
-   "summary": "LioranDB TypeScript Series #8: Authentication, Users, Roles and Sessions    LioranDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-7-building-aggregation-pipelines-in-typescript-4gcb",
-   "date": "2026-08-15T20:08:53+00:00",
-   "summary": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript    LioranDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60",
-   "date": "2026-08-15T20:07:39+00:00",
-   "summary": "LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes    LioranDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-5-cursors-query-shaping-and-full-text-search-57pk",
-   "date": "2026-08-15T20:06:04+00:00",
-   "summary": "LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search    LioranDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #4: Type-Safe CRUD with Databases and Collections",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-4-type-safe-crud-with-databases-and-collections-562f",
-   "date": "2026-08-15T20:04:21+00:00",
-   "summary": "LioranDB TypeScript Series #4: Type-Safe CRUD with Databases and Collections    LioranDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #3: Connection Strings, Transports and Client Lifecycle",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-3-connection-strings-transports-and-client-lifecycle-cjf",
-   "date": "2026-08-15T20:02:08+00:00",
-   "summary": "LioranDB TypeScript Series #3: Connection Strings, Transports and Client...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #1: Meet LioranDB V2, a Rust-Powered Document Database for TypeScript",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-1-meet-liorandb-v2-a-rust-powered-document-database-for-typescript-4ed5",
-   "date": "2026-08-15T20:00:06+00:00",
-   "summary": "LioranDB TypeScript Series #1: Meet LioranDB V2, a Rust-Powered Document Database for...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #2: Run LioranDB Locally with Docker and TypeScript",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-2-run-liorandb-locally-with-docker-and-typescript-5bd8",
-   "date": "2026-08-15T19:59:02+00:00",
-   "summary": "LioranDB TypeScript Series #2: Run LioranDB Locally with Docker and TypeScript    LioranDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stop Recreating Database Connections: An Illustrated Guide to Connection Pooling",
-   "url": "https://dev.to/saurav_tb_pandey/stop-recreating-database-connections-an-illustrated-guide-to-connection-pooling-4i64",
-   "date": "2026-08-15T04:07:14+00:00",
-   "summary": "If you have ever built an application that talks to a database, you have used a database connection....",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Optimizing Database Indexing for Write-Heavy AI Logging",
-   "url": "https://dev.to/kapil/optimizing-database-indexing-for-write-heavy-ai-logging-1mdi",
-   "date": "2026-08-15T03:30:46+00:00",
-   "summary": "Learn advanced techniques for database indexing tailored for write-heavy AI logging workloads to enhance performance and reduce costs.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Waitlist Promotion Should Be Determined Server-Side, Not Client-Side",
-   "url": "https://dev.to/hirodeath/why-waitlist-promotion-should-be-determined-server-side-not-client-side-4m84",
-   "date": "2026-08-15T00:29:10+00:00",
-   "summary": "This article is an English translation of the original Japanese article.  In an attendance system...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Reverse-Engineered a Restaurant ERP With No Documentation. Here's What It Taught Me About Being a Self-Taught Developer.",
-   "url": "https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e",
-   "date": "2026-08-15T00:19:56+00:00",
-   "summary": "There is no manual for TronSoft. No API reference, no schema diagram, no forum thread explaining why...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners 2026 | Advanced SQL Course | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q2NYaWh2T3RtXzU1QU45M0p6Mm80aGhacUZIV1JuN3R2Qk1tendockZCczNQSURsVzBqQ3V4YmVjaXg5YnlUU2lGWkhMYjRLaWhrQm13?oc=5",
    "date": "2026-08-14T23:19:00+00:00",
@@ -230,127 +351,6 @@
    "tech": "sql",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "One docker compose up, One Seeded Postgres",
-   "url": "https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh",
-   "date": "2026-08-14T22:31:58+00:00",
-   "summary": "Docker Compose made your dev database reproducible, one command bringing up the same Postgres for the...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Prisma Postgres Seed: prisma db seed, psql, and the Direct URL",
-   "url": "https://dev.to/mikh-shytsko/prisma-postgres-seed-prisma-db-seed-psql-and-the-direct-url-2ab5",
-   "date": "2026-08-14T22:31:09+00:00",
-   "summary": "Prisma Postgres seed in one command — or rewrite your seed script every time the schema changes....",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "PopSQL shutting down means a lot of people need a new way to get data from their database into Google Sheets.\r\n\r\nI've been building SaturnSQL for this. Schedule queries and the results go straight into Sheets. Check it out at https://saturnsql.com",
-   "url": "https://dev.to/infr/popsql-shutting-down-means-a-lot-of-people-need-a-new-way-to-get-data-from-their-database-into-381f",
-   "date": "2026-08-14T21:29:21+00:00",
-   "summary": "saturnsql.com",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database",
-   "url": "https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033",
-   "date": "2026-08-14T20:12:36+00:00",
-   "summary": "Zep and HydraDB both use temporal graphs, but they ask engineering teams to build at different...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "backend<app<db",
-   "url": "https://dev.to/iamry02/backendappdb-15jm",
-   "date": "2026-08-14T19:02:46+00:00",
-   "summary": "from app.db.sqlite import SQLiteDatabase  __all__ = [\"SQLiteDatabase\"]   sqlite.py  from...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "DB Connect: a database IDE that lets your AI assistant actually query your database",
-   "url": "https://dev.to/shubhesh07/-db-connect-a-database-ide-that-lets-your-ai-assistant-actually-query-your-database-4ea5",
-   "date": "2026-08-14T18:59:43+00:00",
-   "summary": "Most database GUIs were designed before \"AI coding assistant\" was a category. You'd find a bug,...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your acquisitions table needs a status field, not a boolean",
-   "url": "https://dev.to/corpdigest/your-acquisitions-table-needs-a-status-field-not-a-boolean-1gck",
-   "date": "2026-08-14T18:57:46+00:00",
-   "summary": "Most schemas model corporate acquisitions as a join table: acquirer_id, target_id, price,...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Caching & Redis: How to Reduce Database Load and Make APIs Faster",
-   "url": "https://dev.to/tanu_priya/caching-redis-how-to-reduce-database-load-and-make-apis-faster-25b9",
-   "date": "2026-08-14T17:57:43+00:00",
-   "summary": "Imagine you have an API like:    GET /api/products        Enter fullscreen mode            Exit...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Funnel Analysis in SQL: Find Exactly Where Users Drop Off",
-   "url": "https://dev.to/vivekdraxlr/funnel-analysis-in-sql-find-exactly-where-users-drop-off-kp2",
-   "date": "2026-08-14T17:30:09+00:00",
-   "summary": "A practical guide to building conversion funnels in SQL — ordered events, time windows, and the mistakes that silently inflate your numbers.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Read-Only Gate for Model-Generated SQL on Free Compute",
-   "url": "https://dev.to/hackrs_6393/a-read-only-gate-for-model-generated-sql-on-free-compute-3iaj",
-   "date": "2026-08-14T17:28:49+00:00",
-   "summary": "Never run model-generated SQL against real data first. Use a throwaway database on free compute to...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AWS News - S1E2",
-   "url": "https://dev.to/aws-builders/aws-news-s1e2-k67",
-   "date": "2026-08-14T15:00:00+00:00",
-   "summary": "Last week we kicked off a series covering the (data/storage/network) announcements that, in my view,...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -404,6 +404,16 @@
    "lang": "en"
   },
   {
+   "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQzNvS1dlcVVINWJXQ0hTd3QwdTJsOXZEdGZOQVI4b19palhMS3diaUdtcnRNUF9ZbkV4WGZrRzhIYU15VUVmSFlKazU5em8zWkcyU2RB?oc=5",
+   "date": "2026-07-08T15:30:29+00:00",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تعلم SQL شرح DDL و Create Table و Constraints خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByNWhWS2lMZzRIeEZWclZmcDdVM0I1TE5yZ0lHUGRXSEp2SjBPODdzTEwtay0ydjV0RVRoVDBOM0YwVkRXUmt3X0tNNEJNR1ZMNGNWM1VB?oc=5",
    "date": "2026-07-08T11:30:16+00:00",
@@ -422,6 +432,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | Advanced SQL Full Course | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iSkdBNmNjNjY2bnRXc2VFc0I0VTU3aEJIb1Z4MVE0eWd1WnI0U3U0VURQQS1rajdLVm1KOUZERU4tSGZzalhFRzdfaVU0U2xmX1JwTXVB?oc=5",
+   "date": "2026-06-16T16:31:36+00:00",
+   "summary": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | Advanced SQL Full Course | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "How to Build an MCP Server in Python",
@@ -786,6 +806,16 @@
    "lang": "ar"
   },
   {
+   "title": "SQL and PostgreSQL The Complete Training Course 27",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9reWQteU5pS0xHWXFGVlgxRHFCbjMyZi1PZHlJWFp0Rng5ajUtZHlBSzdDVXV4d1hHeEdIdlNpZ0E4WElWN2p1WnJ4eVdsV1ZWZXFXc0FMUGV6Tm5GNTg2cFRmbi1mWExMcTV1RENR?oc=5",
+   "date": "2025-09-02T07:00:00+00:00",
+   "summary": "SQL and PostgreSQL The Complete Training Course 27 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "SQL Tutorial for Beginners 2026 | SQL Beginner to Advanced Training | SQL Full Course | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WVHFsUnJYMjBVVzFwRG5FeFZ0MU9jb0J2QWhSNnhuaGVxWHFVQngtOHhwaVk5ZUpDYU1rREx5TTVrNXdkRFU2bzVCcUMzVEhoODJsZ1FB?oc=5",
    "date": "2025-09-02T04:30:20+00:00",
@@ -856,6 +886,16 @@
    "lang": "en"
   },
   {
+   "title": "SQL tutorial - How to learn SQL FAST in 5 steps",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50WmlSOUctU3g1b19EXzZIRFkzQUx5bzY3WGtnZl8wdVV4VzM0am1tMDVqX0tmdEZ5dXBLcm1EalBXTEM5RXBJUTM0NlpyanphemR6TjdB?oc=5",
+   "date": "2025-06-16T12:30:43+00:00",
+   "summary": "SQL tutorial - How to learn SQL FAST in 5 steps YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "SQL Tutorial for Beginners | Learn SQL in 5 Minutes with Real Examples",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzZlVjMzlKV2JVdnh1dHk3S2Fqc3c4MFNXY09QcGdnNFVOSVpjRlNZejdKYWdnWUw0TDJUclctODVuSEFKYkJPWWtMdHFYajI4bmhFWnBB?oc=5",
    "date": "2025-05-25T08:31:35+00:00",
@@ -876,6 +916,16 @@
    "lang": "ar"
   },
   {
+   "title": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CLW5aRHcxLUVRdVVuMl9RdWxBR25IeHFEZ2ZjeUFhMFpuSlZtQnRhRFJMejN0WExoX3ZMRU9qV3hLN1VqbVhUZjlNdU5UMXptYVB3RGR3?oc=5",
+   "date": "2025-05-06T14:00:26+00:00",
+   "summary": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "SQL Full Course 2025 | SQL Tutorial for Beginners | SQL Beginner to Advanced Training | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zeGNncEJubV9raVk1QkFOYlpxN1JaZlRmaW5ZVEozSVZ3SFJiWV9YTnVjdFVseFN3VVB3NzNoQko4LWRuMUZ4MFh3cUpwUlVXeXA1RjBn?oc=5",
    "date": "2025-04-24T21:26:15+00:00",
@@ -886,6 +936,16 @@
    "lang": "en"
   },
   {
+   "title": "ArcGIS Pro | فهم أسس عمليات تحديد البيانات الوصفية بواسطة SQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QTjFPZjhVLWRUWnBKcHNvdDMySjM5N3lMbUg3ZFh0NW9ydXJDRk85NTdQX0MwMlFkandidTZFOUd6bWk3UFlPa29uVXd5X0QzZk9XRGNR?oc=5",
+   "date": "2025-04-16T17:00:13+00:00",
+   "summary": "ArcGIS Pro | فهم أسس عمليات تحديد البيانات الوصفية بواسطة SQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "01 - ما لا تعرفه عن قواعد البيانات | أهم محاضرة لشرح Databases",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dV9UOVpRcGNCN2FtTXppUkc1ekFJM0gxWVU3X21RZUNyckt2Vi15c1hnSkljNDMzNVp0anRfR3ZyRGRoOS15bVR2NGxwUkxCcUVwR2h3?oc=5",
    "date": "2025-04-11T11:11:51+00:00",
@@ -894,16 +954,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeGRFWWdoRkFaZDhQVGNoOXExeDUxcXBORjBMT3JlME9QbUlULUI3NWlrU29hT3JGRG55MkNpdl8zWUtJMWp6SjVieEhKajlpTmlWWWFR?oc=5",
-   "date": "2025-04-07T19:15:10+00:00",
-   "summary": "Advanced SQL Full Course | SQL Advance Functions | Advanced SQL Tutorial for Beginners | Simplilearn YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "مدخل إلى قواعد البيانات | الاساسيات مع SQL SERVER | فيديو واحد",
@@ -930,6 +980,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZaGlaQkJDQV96UC1aeXpWUEpUc1ZOTTM0ZW8yVEdMZGk4VE5PMXFfOVo3ZG40X1pJZnVweW1xdGo1Mm96TXQ5MW5oRWN0NEhJN3AwdnFB?oc=5",
    "date": "2025-03-25T15:19:17+00:00",
    "summary": "Azure SQL Database for FREE Update YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Master SQL in 10 Hours: Complete SQL Course for Beginners | SQL Tutorial | Edureka",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENlkxUU1iV1VCUkNRVnhJdDIybXhJcnpwR0YxTEZPRkpjOEpKc2VlakloV3lHLUVPbTdUTUZxc05maG5UOUtBOVJhVS1QOF9oMG5sc2tn?oc=5",
+   "date": "2025-03-11T15:15:37+00:00",
+   "summary": "Master SQL in 10 Hours: Complete SQL Course for Beginners | SQL Tutorial | Edureka YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How I Would Learn SQL (If I Could Start Over in 2025) | #SQL Course 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1icmdUMEl1MGhmRGxQLXAtVXdQVkhwaG5XMzN2b19icXJmc3ZLR0x3eG1nRVhkRkx4c2hKSGs1Ti1aaTBSWXhUdThzVjI2SDZTUDV3T0h3?oc=5",
+   "date": "2025-03-10T11:06:55+00:00",
+   "summary": "How I Would Learn SQL (If I Could Start Over in 2025) | #SQL Course 1 YouTube",
    "tech": "sql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1174,6 +1244,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "SQL Window Functions Basics (Visually Explained) | PARTITION BY, ORDER BY, FRAME | #SQL Course 22",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JR3g0QVVTTm9EeEwtQUxRLUItMF9nRVh2bDNhQXFJM1VIakI3MGE2T0VSSEdodEZ4bjNvUHptOGpMT0hrVVhEVDF3RlItV21xdmNOZlFR?oc=5",
+   "date": "2024-04-16T10:06:18+00:00",
+   "summary": "SQL Window Functions Basics (Visually Explained) | PARTITION BY, ORDER BY, FRAME | #SQL Course 22 YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Full SQL Crash Course - Learn SQL in 90 Minutes",
@@ -1726,6 +1806,16 @@
    "lang": "ar"
   },
   {
+   "title": "25 قواعد بيانات MySql بالعربي | أنواع العلاقات بين الجداول MySQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3aTFneUk1QmZGXzlWT3doRHFsQmpRZUVManJ2Rl9XaG8yUDlLZ0piTlRseWZWdDZlcUpBSElMN21UWlFXdHhnT0pvRmpwQ1JCdWFGZHl3?oc=5",
+   "date": "2022-10-28T19:44:17+00:00",
+   "summary": "25 قواعد بيانات MySql بالعربي | أنواع العلاقات بين الجداول MySQL YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "#4 Relationships -العلاقات بين الجداول في لغة SQL",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nakpFRUx1QldQOFRCbTV4MW1hRGxYSk5OdEV0QkhyYnBSNUpDbm4zUzVKU0ZuaEdPUVFxZVcwX2wtay1aek11RzBJY09YUWxiZ3EySGh3?oc=5",
    "date": "2022-10-08T08:43:23+00:00",
@@ -1886,36 +1976,6 @@
    "lang": "ar"
   },
   {
-   "title": "Beginner to T-SQL [Full Course]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfaHR3WTdGT2FLeTQ4VURmNElIdldFYXRuaWMtc1NIYnpxR0xGRTdnN0NmTVFBODNDZm9ES28talpRM2VMblgya0FBM3gzVjBlVEZlRXh3?oc=5",
-   "date": "2022-04-07T17:59:45+00:00",
-   "summary": "Beginner to T-SQL [Full Course] YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SQL Tutorial - Full SQL Course for Beginners and Advanced Users",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nOU9ONVg3SjF3UTgtZlRDUVRZbzFub01LSl95OGdUeUd2TkhvcF9SamppZk5VMV9Gc0pCNVlvUXpDQ2lrRlNVRnFJcTJpalRXY3o3blk5Sm5qRXVQVldvUVkyS0tVZ0NfaGp1bDF5QVlrR2FTRkNGNllac3o?oc=5",
-   "date": "2022-03-23T16:10:04+00:00",
-   "summary": "SQL Tutorial - Full SQL Course for Beginners and Advanced Users YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SQL Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTby0xTlFHdzVVNTJGZWlOYldCS1VOV2ZhaG1SOGJNc0g3c1RTWWkwSHBTZkRzSUhZS3VyeWdpTUtKMlJ5ZC1oeDZiYTEyNnI3TzNBNmF3?oc=5",
-   "date": "2022-03-22T07:00:11+00:00",
-   "summary": "SQL Tutorial for Beginners YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "00. Course Intro || Learn SQL in Arabic - دورة كاملة للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LVWliVWVnejdBbnRudWplSEE0OGQzbFlraDNveVdKdnlWNXc1UnZKRlNWNkZJQ2t0VkU0Q2V2ZG42MTFaZHdZM2x4TVhLbWtuMGU2WldB?oc=5",
    "date": "2022-02-13T05:26:19+00:00",
@@ -1956,16 +2016,6 @@
    "lang": "ar"
   },
   {
-   "title": "Complete SQL Course by Sumit Sir | Learn SQL the right way | Trendytech",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZM2FVLThlcThZakFnalBKTWtpRlJ0czh2Zl95b2VpQnBydlV6SWFXMU9VX1Rab2dPR1RJMUJ2M2prT3Z6OHNtWG1KT2dsTDNhVjg1RWNB?oc=5",
-   "date": "2022-01-14T11:45:20+00:00",
-   "summary": "Complete SQL Course by Sumit Sir | Learn SQL the right way | Trendytech YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "020 قواعد بيانات MySql بالعربي | إضافة سجلات إلى جدول INSERT INTO",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00bnVwMnRjZDhBQmE4ZTZuUDRrY3NHbjlITWRQZnl6SEcxcHoyM2pFYnBMc1Bna2k5NlJnOXRhUGktUHI2NVcwVXBWeFgyVk1WYm52TVhR?oc=5",
    "date": "2022-01-14T09:00:34+00:00",
@@ -1976,26 +2026,6 @@
    "lang": "ar"
   },
   {
-   "title": "SQL Crash Course for Beginners | SQL for Data Analytics | Community Webinar",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxek5rQklBUUp1bmdCcXhaZFFvUE1yV1F6TEk4YkRXWEQ4UTNhQ0VmdFVadGhUbENYYTBJMlBwNnVOd2FpcVpjRGZaa3l6MHJWcVdzYjln?oc=5",
-   "date": "2022-01-12T21:10:07+00:00",
-   "summary": "SQL Crash Course for Beginners | SQL for Data Analytics | Community Webinar YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jQm14dU5jMXBpTnNQRjUyYVd3ZTFyZVlQQXFmRGpXX19tNVBrRGFCb25rVGFGTWg4ZWh3Z0N3NEVuSmxtWE9YWXVKWTM2ZjZ3VXdtdDZB?oc=5",
-   "date": "2022-01-06T13:00:00+00:00",
-   "summary": "SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 1 YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "SQL Server Search for Column or Table | كيف تبحث عن عمود او جدول في سكويل سيرفر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsYXFnazZUVnBjWmZGYmFnQnBZQjNtb1Jhc2Mxbi1uNDdHVXNIQmNFMlNaVzF0MEZmU21CNWsxMVVDMHN3eUd1ZU9PUy0yMTRCaUN3UHdn?oc=5",
    "date": "2021-12-30T22:26:01+00:00",
@@ -2004,16 +2034,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "BEST Online Courses to Learn SQL and Practice SQL Queries | BEST SQL Courses",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSlU3QmJFcllhckc1Q3ZCaVRfR2RpcEZSOVJxVU42WmJKbEhnb0hCNzdSTjU3VnZlLVhLa1pBamdyRi1iaWdxX1Z1dG0tdTItZGVDS1Zn?oc=5",
-   "date": "2021-12-22T13:11:25+00:00",
-   "summary": "BEST Online Courses to Learn SQL and Practice SQL Queries | BEST SQL Courses YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "أمر حذف البيانات من الجدول delete شرح mysql بالعربي [الدرس 14]",
@@ -2156,6 +2176,16 @@
    "lang": "ar"
   },
   {
+   "title": "67 حل مشكلة اللغة العربية في أس كيو أل سيرفر resolve the collation problem in sql server",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yY1J5SE5seWs0eS1EWHFXYmFrS0Z2bmUyelE1M3NVX0hsa1NxMWFuVnVFT2tDcGZJeDRxTlQzeElLTHlGTWFsVnFwaURTZk80RDg0dEFB?oc=5",
+   "date": "2021-04-06T08:30:02+00:00",
+   "summary": "67 حل مشكلة اللغة العربية في أس كيو أل سيرفر resolve the collation problem in sql server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "استيراد وتصدير قاعدة بيانات #MySql من خلال #PhpMyAdmin",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UVWIyQ2UzS09vLXdwRTRyTmRJcXNna1p5dnBFdGJINENNcDlOQjRsTG5ISmJvclNMeUg2RDRDc2xvSkdBanlJS1d2M2kzTnNYODFqeHZ3?oc=5",
    "date": "2021-03-29T19:22:55+00:00",
@@ -2210,36 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UWhFUWFOeGxYTXpUZ3ctYmdmUV9TWXhyRGtVamVuaUdGeFVMa2ZtRTRtN09ySmNaTmNpWGVKRmxvZ19NZF9vekFoT28wWlNabS1GSUF3?oc=5",
    "date": "2021-02-04T19:51:13+00:00",
    "summary": "افضل دورة تعلم SQL و ادارة قواعد البيانات MySQL من الصفر حتى الاحتراف YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "MySQL Workbench | تصميم جدوال قواعد البيانات والعلاقات فيما بينها",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QbEJGWEp5ZElDd3NwTXY0bTk0bGpjVk10ZWNDMjRTbldtb251R1RWYWtZa1BSTzVQUmJBdHUwVnU0SXFmM0gzZUw2NjFaak56NzAzeWtR?oc=5",
-   "date": "2021-01-28T14:46:29+00:00",
-   "summary": "MySQL Workbench | تصميم جدوال قواعد البيانات والعلاقات فيما بينها YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "مشروع ادارة طلاب بسيط student project : html , css , php , sql - لوحة تحكم مع عرض بيانات بالكامل",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBseU9lTEZnMV9obWpTVDNiS21pT1VidzUwVVFLd3NVcnBrX3gyci1QaXBob2p0c2EzNUdBOXA3OE5EYjdNNHJjb1pxVjk3QktSRmZpamRn?oc=5",
-   "date": "2021-01-22T13:26:41+00:00",
-   "summary": "مشروع ادارة طلاب بسيط student project : html , css , php , sql - لوحة تحكم مع عرض بيانات بالكامل YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة عمل نسخة احتياطية واستعادة قواعد بيانات MySQL | دورة تعلم SQL و MySQL كاملة 25",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQYU9WSVo2M2F6T3k2cFVGRGVCUU9CRF9hT2ZXMzlxTGFpNXV2SUw2Qi02aHhkU2JUcnBHZDB0S2NwQzc4MWhDZFBObzgwb2VTc3F0UC1n?oc=5",
-   "date": "2021-01-20T16:25:33+00:00",
-   "summary": "طريقة عمل نسخة احتياطية واستعادة قواعد بيانات MySQL | دورة تعلم SQL و MySQL كاملة 25 YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

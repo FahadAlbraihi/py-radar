@@ -1,8 +1,19 @@
 {
- "generated": "2026-08-16T05:01:00.984494+00:00",
+ "generated": "2026-08-17T05:26:41.361336+00:00",
  "tech": "haskell",
- "count": 108,
+ "count": 109,
  "items": [
+  {
+   "title": "Is Seseragi a Functional Programming Language? I'm Not Sure.",
+   "url": "https://dev.to/kentaromorishita/is-seseragi-a-functional-programming-language-im-not-sure-738",
+   "date": "2026-08-16T13:53:52+00:00",
+   "summary": "Seseragi has Maybe, Either, Functor, Applicative, Monad, ADTs, and match. Yet I still don't think of it as a language designed from an FP label first.",
+   "points": 0,
+   "tech": "haskell",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Haskell environment setup 2026",
    "url": "https://dev.to/simonhorlick/haskell-environment-setup-2026-afk",
@@ -221,6 +232,16 @@
    "tech": "haskell",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My First Padel Lesson | James Haskell",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTGJPalN1TGdFZGJSR1paTVdFNlVSbEdTN3dVOXlQMG9oTS1kWWdIdVpBd1N0VjRKV3VDNkdybHZnTmlOalVtMnRFdVRZYy0yTDh2MWp3?oc=5",
+   "date": "2026-05-31T14:44:28+00:00",
+   "summary": "My First Padel Lesson | James Haskell YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -487,6 +508,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3UG5ENmxOcTZsbGJsZXBuVVphYUxBN05UcG50cWloNFoxdW1WazA5dzU4Z25uTzJ4Mmx1N080Nkp2V0lVOUsxU09pZGZia2ZGVTZxV3J3?oc=5",
    "date": "2024-10-28T22:06:35+00:00",
    "summary": "Getting Started with Haskell Data Analysis YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Exploring Algebraic Data Types in Haskell",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zNTc1YXFULTRQeVdtVk5iWXJGc2hSSlJrdEFlR0VGZURfUDJxelYzNlJNd2VqSVVaMlVteTk0ckNFaTlRVWRHaUc5TlpNZTlNUUwwUGNB?oc=5",
+   "date": "2024-09-13T20:13:06+00:00",
+   "summary": "Exploring Algebraic Data Types in Haskell YouTube",
    "tech": "haskell",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1067,26 +1098,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZTE3czdBWFpFQmdmZENsQ3oxVkJ3YTF1SEVxeEI3TGJuTWF0VmN1VFRJR0xYT0VlekZnU1RVSng3eEE0bzFzaW5GVjZkNmM2dmNOc3V3?oc=5",
    "date": "2020-05-30T16:00:11+00:00",
    "summary": "Making Music with Haskell From Scratch YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Getting User Input - Haskell for Beginners (9)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzeGNwZEZqR3BzalBGN0JzbkVYbWk0YVZKMS01a1ItVTZ5bkdnamx5UUNFX2Qwb0I1and1WjQ1bnhEeHdQUlBrcjRmYVE3alhqZUY5WjJ3?oc=5",
-   "date": "2020-05-22T13:00:05+00:00",
-   "summary": "Getting User Input - Haskell for Beginners (9) YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Lists - Haskell for Beginners (11)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWjdZS25WVFduT0lDM29FVTNQWGYxYm5Td2kzamszR2FPbklpbWhuNWZzaFk4S3ZMUEVlUEVVT3FqN0M0MHZMdENORExWMXJQR2U2ZXhB?oc=5",
-   "date": "2020-05-22T12:59:56+00:00",
-   "summary": "Lists - Haskell for Beginners (11) YouTube",
    "tech": "haskell",
    "sourceId": "yt",
    "source": "YouTube",

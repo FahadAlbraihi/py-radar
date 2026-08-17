@@ -1,8 +1,173 @@
 {
- "generated": "2026-08-16T04:54:55.067616+00:00",
+ "generated": "2026-08-17T05:20:43.416593+00:00",
  "tech": "java",
- "count": 190,
+ "count": 208,
  "items": [
+  {
+   "title": "Spring proxies: JDK dynamic vs CGLIB",
+   "url": "https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1",
+   "date": "2026-08-17T05:08:46+00:00",
+   "summary": "You put @Transactional on a method and a database transaction opens before it runs and commits when...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "BeanPostProcessor & BeanFactoryPostProcessor",
+   "url": "https://dev.to/ankit_verma_e2fa7fb2aa95d/beanpostprocessor-beanfactorypostprocessor-42b3",
+   "date": "2026-08-17T05:08:42+00:00",
+   "summary": "Two hooks with nearly the same name   Spring's container builds your objects so you don't...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The outbox pattern is four sentences in a blog post. Here are three incidents from running it.",
+   "url": "https://dev.to/danzizhangdev/the-outbox-pattern-is-four-sentences-in-a-blog-post-here-are-three-incidents-from-running-it-4iek",
+   "date": "2026-08-17T05:01:42+00:00",
+   "summary": "Write the event into the same transaction as the row. Poll the table. Send to Kafka. Mark it sent....",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Reasons Why You Should Use ReactJS for App Development",
+   "url": "https://dev.to/sahil_khurana_486f374ecf2/5-reasons-why-you-should-use-reactjs-for-app-development-565",
+   "date": "2026-08-17T04:59:20+00:00",
+   "summary": "The frontend landscape is noisy. Angular, Vue, Svelte, Solid — there's always a new contender. But...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Solon 4.0.5 Core: Migrating from Apache Fury to Apache Fory for Blazingly Fast Serialization",
+   "url": "https://dev.to/solonjava/solon-405-core-migrating-from-apache-fury-to-apache-fory-for-blazingly-fast-serialization-22n2",
+   "date": "2026-08-17T04:09:10+00:00",
+   "summary": "In the recently released Solon v4.0.5, a minor but strategically significant update is highlighted in...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Claude's System Prompt Grew From 358 to 3,235 Words. Here's What It Teaches Production AI Teams",
+   "url": "https://dev.to/jamilxt/claudes-system-prompt-grew-from-358-to-3235-words-heres-what-it-teaches-production-ai-teams-l5b",
+   "date": "2026-08-17T03:13:03+00:00",
+   "summary": "This week, Anthropic's system-prompt release notes became the top story on Hacker News. The page is...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Your JPA Counter Column Keeps Resetting to Zero",
+   "url": "https://dev.to/anand_rathnas_d5b608cc3de/why-your-jpa-counter-column-keeps-resetting-to-zero-2inh",
+   "date": "2026-08-17T02:22:16+00:00",
+   "summary": "Our denormalized click counters silently reset under load. The culprit was a one-line interaction between @Modifying @Query and @Version. Here's the fix.",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building AI Prompt Lab with Java 21, Spring Boot and React 19",
+   "url": "https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8",
+   "date": "2026-08-16T23:20:00+00:00",
+   "summary": "A full-stack AI prompt management application built with Java 21, Spring Boot, React 19, TypeScript, PostgreSQL and OpenRouter.",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "NetBeans: Exploring the Oracle-to-Apache IDE Platform (2026-08-16 22:09)",
+   "url": "https://dev.to/said_olano/netbeans-exploring-the-oracle-to-apache-ide-platform-2026-08-16-2209-ca4",
+   "date": "2026-08-16T22:09:15+00:00",
+   "summary": "NetBeans: Exploring the Oracle-to-Apache IDE Platform   NetBeans has long been a staple in...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Week 9 of #100DaysOfCode: A Week of Deep Spring Learning",
+   "url": "https://dev.to/onatade_abdulmajeed/week-9-of-100daysofcode-a-week-of-deep-spring-learning-4d57",
+   "date": "2026-08-16T19:23:22+00:00",
+   "summary": "Introduction   This week, I decided to slow down and go deeper into the Spring...",
+   "points": 10,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Really Happens When You Call a REST API in Spring Boot?",
+   "url": "https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h",
+   "date": "2026-08-16T17:29:45+00:00",
+   "summary": "If you are learning Spring Boot, you have probably written something like...",
+   "points": 1,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Complete Guide to Building a Scalable Java-Selenium Automation Framework",
+   "url": "https://dev.to/shell_qa/complete-guide-to-building-a-scalable-java-selenium-automation-framework-44fg",
+   "date": "2026-08-16T16:24:55+00:00",
+   "summary": "QA Automation - Best Practices Guide Framework: Hybrid Test Automation Framework  Stack: Java -...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "🚀 Building Spring by Example: Completing the Spring Events Module",
+   "url": "https://dev.to/iammujuzimoses/building-spring-by-example-completing-the-spring-events-module-184l",
+   "date": "2026-08-16T15:57:40+00:00",
+   "summary": "When I started learning Spring, I noticed something about many of the tutorials I found.  They often...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Api Testing Client App(Introducing Thundercall)",
+   "url": "https://dev.to/firoze/api-testing-client-appintroducing-thundercall-1n4",
+   "date": "2026-08-16T14:53:48+00:00",
+   "summary": "I’m building Thundercall, a free, self-hosted API client and team collaboration platform — built with...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Handle Global Exception Handling in a Spring Boot Application",
+   "url": "https://dev.to/keping_jiang_4cb350737cdb/how-i-handle-global-exception-handling-in-a-spring-boot-application-37hi",
+   "date": "2026-08-16T03:31:00+00:00",
+   "summary": "How I Handle Global Exception Handling in a Spring Boot Application   Exception handling is...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Ollama REST API Tutorial: Integrate Local AI into Any App in 2026",
    "url": "https://dev.to/rajesh1761/ollama-rest-api-tutorial-integrate-local-ai-into-any-app-in-2026-4dn3",
@@ -280,6 +445,16 @@
    "lang": "en"
   },
   {
+   "title": "JAVA Full Course | Introduction to JAVA | Java Full Course for Beginners in 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ja2pYY184VGNzcngyLTNXTnhEdS1QX21USV9ON2NFekNxLW1nTzY5MmRoZlVHanZ5SUZ0YTdSMTM3b0xoNm5pbFdIemdVT1RaQkJPOWJ3?oc=5",
+   "date": "2026-02-16T12:30:23+00:00",
+   "summary": "JAVA Full Course | Introduction to JAVA | Java Full Course for Beginners in 2026 YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Advanced Java Full Course 2026 | Advance Java Tutorial | JDBC",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBveGVsanNvRGZ2ckxUTDlYU0JXSHBVbF9HcmtiRm5lWTRmeFpDbFNMeHRBcmRWMmxFYTVyTDJ3Rzd2T0MxRFdoNjBjT1hfZnI4MVBzNnhR?oc=5",
    "date": "2026-02-15T13:38:45+00:00",
@@ -334,6 +509,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82bzZtSUJXMjd1SHY0b3VDamZ5LUpmcnNxMy1fVVJfMVRqcGphVTh6R01lWm5BYVNOcGR5dmRLeF9zd2wyeEVuazFfVFM1U1dwWGI1Tm9n?oc=5",
    "date": "2025-09-29T12:59:48+00:00",
    "summary": "learn java in 10 minutes. NO MORE PSVM YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java Full Course 2026 | Core Java Tutorial For Beginners | Advanced Java Course | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TeDhzU01DVHVkd3NQSkRiSlE0SkhwRFlFa0lxRFpYa2NHdW5Ra3l6X0ZtbjY1UzByWUxObXFOckQ1X1lMekhNc2N2ejB3VElzVHQ3d05n?oc=5",
+   "date": "2025-09-22T13:30:08+00:00",
+   "summary": "Java Full Course 2026 | Core Java Tutorial For Beginners | Advanced Java Course | Simplilearn YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -460,10 +645,30 @@
    "lang": "en"
   },
   {
+   "title": "إنشاء مشروع جديد بالجافا - New Java Project - الدرس 4",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mQjA5NTVxR0lOdXJXc0FoVEhWcmpMbXNQR1ZVNldveHJFWDdQaWtsU2xzNHlkRWhBT1RUWXRwUzdhMHhGNUVxQlk5OVJtWW1ndzMxZU9R?oc=5",
+   "date": "2025-01-11T01:14:34+00:00",
+   "summary": "إنشاء مشروع جديد بالجافا - New Java Project - الدرس 4 YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Java Full Course for free ☕",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ybGh3R2ROTS1SWlN2eVRtYjAzeEt0bEUyb3lYRDVfbzR4cVEzdmhUQ1ZreGZTLWc4dDhSbHZ0Zi1zaHZ2aUFIY1FRblFxYVJKOE5nbDFR?oc=5",
    "date": "2025-01-02T15:06:40+00:00",
    "summary": "Java Full Course for free ☕ YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java Full Course 2026 | Core Java Tutorial For Beginners | Java Programming Course | Simplilearn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93cmhTclZmYkZCR29vYlB1MTdWYnBiUnBlWVBobjdWdmREanFkVVloNko4Y3dLUV9GWjVqUzNqT05uQlVaY09nOVJYLXpCbnY0dDlSRFBR?oc=5",
+   "date": "2024-12-19T20:41:17+00:00",
+   "summary": "Java Full Course 2026 | Core Java Tutorial For Beginners | Java Programming Course | Simplilearn YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -480,6 +685,16 @@
    "lang": "en"
   },
   {
+   "title": "Introduction to Programming Language | Lecture 1 | Complete DSA with JAVA Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JTHRoeVJrUURqanZrY3FFMW1HM3dGTTVmWW44bkVJRWFpdzVaQ0JPeHEzckFKUDFZQ0F3b2EtRGRBbjQySjZUNHNfRFdDZHVKVTdacTNB?oc=5",
+   "date": "2024-11-16T14:09:35+00:00",
+   "summary": "Introduction to Programming Language | Lecture 1 | Complete DSA with JAVA Course YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تنزيل البرامج المطلوبة للبرمجة بلغة جافا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjZWSFhDcWZuTl8zck96U21RYWtyakVJT0J0VFpGanJYQ1Q4SVRMazN2c1I3OFdWc0JkUWRibHAtMXJhWXcxcEJ6bGJrQXZsZEtGM3RB?oc=5",
    "date": "2024-11-03T15:20:10+00:00",
@@ -488,6 +703,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Java Masterclass | 10+ Hours of Java for Beginners #programming #coding #java",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DaHhxX0dlYTdHV002YWJaMTFxNDB2TWZ2cnB3TnJKWG4zejFCSHYwbU5tMVdrLU02ekxGRzc4M0Y5aXZLdzVQa3B4bk9ObGtRZHQtdUVn?oc=5",
+   "date": "2024-10-28T11:56:55+00:00",
+   "summary": "Java Masterclass | 10+ Hours of Java for Beginners #programming #coding #java YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java For Programmers in 2 hours",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PejE0WEY5aVZaSmJZWHotRUFHa1N4elhtX0ZSNS1IdmcwV3JGLUJDWnpqTTQ2cnVDVE0yLXdlNGVQcFRJbDVMT1dtLXBqS1p1MVRBSzNR?oc=5",
+   "date": "2024-09-16T14:05:53+00:00",
+   "summary": "Java For Programmers in 2 hours YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Java Tutorial - Java Full course for Beginners in Tamil | Error Makes Clever",
@@ -614,6 +849,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oWWdjTXBBemgyazhpSHVzWWVDY3Y5c1dQNFI4ZkFMQjFuQ2YtNEc2Z2NfMUU2SEc5b2k5SUZOdjBRUGNzNFVpWWRySlBncnlJVnF5TlJB?oc=5",
    "date": "2024-01-07T09:59:43+00:00",
    "summary": "Java Tutorial #1: Write your First Program using Netbeans (for beginners) YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "🚀🔥 JAVA Complete Course Part-2 (2024) | 100+ Programming Challenges",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zRUVDeG11a2ZWRVNJSTBDT2l1QXJtTTFnRG5nR2pvTlpjdG1RaHhUY2xBWTRvaXJoZHE3aE9jU3RRVk5JSG1zRnVkOS1FSnhwOW42eU1n?oc=5",
+   "date": "2023-12-31T02:30:23+00:00",
+   "summary": "🚀🔥 JAVA Complete Course Part-2 (2024) | 100+ Programming Challenges YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -770,6 +1015,16 @@
    "lang": "ar"
   },
   {
+   "title": "Free Java Course for Beginners (Programming Tutorial)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YWWExcV9NUVJRQktOTnkwMmhnMVRvX3pOODR0d1J0eHpNWE1lTUkxYWx3bnlwWjdrTU5fbEhERnowdHpycXBSOU9PNzJUWVdGUnlkNU1n?oc=5",
+   "date": "2023-01-25T14:56:50+00:00",
+   "summary": "Free Java Course for Beginners (Programming Tutorial) YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "اقوى كورس تعلم جافا من الصفر حتى الاحتراف Learn Java in Arabic 2024",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44aW0zSTl4WUFEX3dtbzRNamZDZTZWQ04wMk40Ujg1UzFIN2NWZTRYR05heHlzaHhSaG12dE9uUGkxdmtFVzVDRlhVMmFZOEY0WW1GTzVR?oc=5",
    "date": "2023-01-25T12:18:39+00:00",
@@ -838,6 +1093,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "[16] Multi Threading In Java | تعدد المهام في لغة جافا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13RzRhVGNqWGJRZmlWOE9sa19Bcld3eVRkdk50OGN1TjBpVDNPdWIxOXgzSE1uUnNQc2VHOVNTV0tSamdvMERvTFlmR0JrQzVXbHdtUHhR?oc=5",
+   "date": "2022-12-09T12:38:04+00:00",
+   "summary": "[16] Multi Threading In Java | تعدد المهام في لغة جافا YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "[15] Exceptions Handling In Java | الاستثناءات في لغة جافا",
@@ -944,6 +1209,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YOUl2d1Y2Sm1KcWU4Y21XNldscUFjc1hNYlZPYWp5Vk45TzlTbGc3dWtaQTZfWWN3MURPNVlwT3hMVk93RmtDQUdYU3M2VDBScmliV0l3?oc=5",
    "date": "2022-11-13T17:32:31+00:00",
    "summary": "Java Tutorial For Beginners - Inheritance in Java YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Java tutorial in Hindi for beginners #1 Introduction of course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oeE1yZG9MZUxSUjBRcXdicVZxRHVIblhPRFNWV2NHXy1tM3ZwY1J6WlN6bGMwRE9fYmZNTldTcFU4Zy1CVE9FV1pWZHFla0tOZ2t1Z1Nn?oc=5",
+   "date": "2022-11-07T15:30:11+00:00",
+   "summary": "Java tutorial in Hindi for beginners #1 Introduction of course YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1068,6 +1343,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Java Collections Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YMXBZVHotZ1FoRmduSVBidUhpYzFVd0s2OF9NQ0IwX0NGOGpTOXN6S3F1YmhILXVqaVliZnAtYVEycjJURGlJdTF5bEhjSW5ZdC1wcU13?oc=5",
+   "date": "2022-03-01T14:00:18+00:00",
+   "summary": "Java Collections Tutorial YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "3- (Learn JAVA Language)|| بداية لغة الجافا + تحميل و تثبيت JDK و NetBeans",
@@ -1204,6 +1489,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BYVZhUy0wRGYxbGtTemIwQTdNcGtzSGJKV1dHOEdJVXpSNkROY2VJd19ERFdGeHBTVTYtQkxrZEcwVHdwazR1cnRWeVN6Ulg3bHhnenFR?oc=5",
    "date": "2021-09-27T14:00:32+00:00",
    "summary": "Java Constructors - Full Tutorial YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to Java Language | Lecture 1 | Complete Placement Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WTdXb2x6X2pMVkFaSWJTaF8xb0g5Zmd6RGVvNUVQbFB2aTNjX3IxbTdKS0RpUUV4WW1yaFpGWmJYblZhQ2tCbVVRdV8wN0NqSGVLLUlB?oc=5",
+   "date": "2021-09-16T17:20:40+00:00",
+   "summary": "Introduction to Java Language | Lecture 1 | Complete Placement Course YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1520,26 +1815,6 @@
    "lang": "en"
   },
   {
-   "title": "Java Tutorial: Literals in Java",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94eGZvTGNWd2ZpMUh6cUJLMjhXMWFoOVNXS2ZzeTZoODB1UjVJZS1UOWxzeFVJZWNMS243S3ZDTnBKVEwxX2NJWEtNZ2dwR1psVkFYejlR?oc=5",
-   "date": "2020-09-02T14:47:18+00:00",
-   "summary": "Java Tutorial: Literals in Java YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to Java + Installing Java JDK and IntelliJ IDEA for Java",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5V2o4NDlXejF4RXZva05UQkE0dDEzREhyRlpqM0VRRHhkRnhmMmEwdHpDMDNPT19lM3ZqN0YzVnRCMEx2cWlLUVFlSmF4elJFR2h4OVpn?oc=5",
-   "date": "2020-08-30T16:01:22+00:00",
-   "summary": "Introduction to Java + Installing Java JDK and IntelliJ IDEA for Java YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "اسهل طريقة في تعلم لغة جافا من البداية الي الاحتراف | البرمجة Java Zero To Hero فيديو واحد دليلك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtYmhOMDNiQngtdUJreWVnU0RSUkZsVktFS2FscG1POWI1eEJ6XzM5aW02OUxvcHZWVWt1TG54UHUxMDJkc1V4a2gya3JWWEFlRGVEUVp3?oc=5",
    "date": "2020-08-17T10:00:14+00:00",
@@ -1550,24 +1825,14 @@
    "lang": "ar"
   },
   {
-   "title": "Java Tutorial in Hindi | Learn Java in One video for Beginners [2022] | Anuj Bhaiya Java🔥",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUlV0Z09TTnpqRkgwNGgwMm1NR1c0YS1lWkNqckZOUG41YVJTMkdOQUVWeG9pX0hHWnF1bUdBdUM0MFc3bDNpbDllbTdKWTBya0lBREtB?oc=5",
-   "date": "2020-08-11T14:03:36+00:00",
-   "summary": "Java Tutorial in Hindi | Learn Java in One video for Beginners [2022] | Anuj Bhaiya Java🔥 YouTube",
+   "title": "Java: for-each loop شرح",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QT3Njb0h3c3pnQy1kcnVxWndvVldHLUdOOFpiaDBsbXZiOVhTeUcyeUtXSlhuNTAwb3MxcEFpZ182MkF4WHN3U0tUcGxxWlRVWTE2Zml3?oc=5",
+   "date": "2020-07-05T07:06:21+00:00",
+   "summary": "Java: for-each loop شرح YouTube",
    "tech": "java",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Creating CLASSES and OBJECTS in Java Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5YUdtQmNEMGxrbWh5bThhMTFueWI1QmNnNWtheURLOXB5Y1VzdWh2NHNwUWZPSDdnNDZEbzJQSFBSd3NaUVc1UF81aUdYLWR0cW9PY253?oc=5",
-   "date": "2020-06-25T15:00:01+00:00",
-   "summary": "Creating CLASSES and OBJECTS in Java Tutorial YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "البرمجة بلغة جافا 2",
@@ -1610,46 +1875,6 @@
    "lang": "ar"
   },
   {
-   "title": "Functional Programming in Java - Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52QnFEVGx1d2wwQzBMelhpZ05wdU1oTFZoWEhHemNPWGVIWExKd1Z6UkY1S3BnaVpmbklwUWZVRFBNbG43M1Vlb3RRbk1XSE1DT3gxcjhn?oc=5",
-   "date": "2020-02-24T16:45:24+00:00",
-   "summary": "Functional Programming in Java - Full Course YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Functional Programming | Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GWUFWY0lMQ1VnMWxzcjNsWTZ5MnpVQU1XeEh1REtsYTV4em1Ec3B6aHQwV2xER1FNNEgzSkNLVDBCYmUwWFBJanZwRHU1eFd2Mm1BSWNn?oc=5",
-   "date": "2020-02-04T23:53:11+00:00",
-   "summary": "Java Functional Programming | Full Course YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Classes - How To Use Classes in Java #72",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MTEpGM3k1VUlNLUpWanRyMVZCODdBUTRSaDgtTHAzR2lNOUFsNThWVndiVk1jRV9YQmFORjd3eGZodUxZT25VdDY3M3ZOMTBmNXdfa3dB?oc=5",
-   "date": "2019-12-12T20:00:05+00:00",
-   "summary": "Java Classes - How To Use Classes in Java #72 YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Programming All-in-One Tutorial Series (6 HOURS!)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5weVFCVW8xMWVQdERDQmhPeFR5ODdlYkw5MVFfWk9DSzE0QnBqWWZkZTNFZm5GZThCUFRoMTdKTEZ3R19lRzM3eUY1bEFFQ095OFZRVWF3?oc=5",
-   "date": "2019-09-27T20:22:57+00:00",
-   "summary": "Java Programming All-in-One Tutorial Series (6 HOURS!) YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعليم البرمجة للأطفال و للمبتدئين باستخدام لغة سكراتش Scratch ومبادئ لغة جافا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sOFpyVENiYU5jMlFxamViV3QzajkzMFNtdzFqYXloVExiQWZSMjBmc3ZUWWNxRzZSY3FPclJlWFRfb0c2cGRCdkdodVNXMk9zTkVZdXFB?oc=5",
    "date": "2019-09-10T19:18:12+00:00",
@@ -1658,36 +1883,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Java Full Course for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95dVQ4bTA5ZHh6YnRqaXRtNkxfMm9rWks1YWlyeEc3VFdNQl9iUHJWelNCeXFZUDJPMTVDR0Y0ZHpxR3pqSXRNSGxkbFBxOE13VEZIaVVR?oc=5",
-   "date": "2019-07-15T16:00:12+00:00",
-   "summary": "Java Full Course for Beginners YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Tutorial for Beginners #20 - Inner Classes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5POUUyVUM0WG91RTRkcV9QaEo4MVdzNVg3UmplRkk2UUFfLUx0bWYxbmMxdS00TW44cDRzS3NmdEtZNXBUb2trTHc5VXByUVpxYWtCdXp3?oc=5",
-   "date": "2019-01-13T20:00:03+00:00",
-   "summary": "Java Tutorial for Beginners #20 - Inner Classes YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Tutorial for Beginners #1 - Introduction",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Yd2pDOHVwMDI5Zl91VjcxRnVTSmtmOEdqZEc2SE5hdjQ0UzhRNGpsOW9lbjNWRWd0UVRsQnBGWExlTHlXOXZvRTZaZE51bTlIb3FMaTZn?oc=5",
-   "date": "2018-12-23T19:30:00+00:00",
-   "summary": "Java Tutorial for Beginners #1 - Introduction YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "02 - Java - What IS Object Oriented Programming ? - Part 2 - برمجة 2",

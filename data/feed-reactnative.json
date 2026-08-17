@@ -1,8 +1,213 @@
 {
- "generated": "2026-08-16T04:58:49.261127+00:00",
+ "generated": "2026-08-17T05:24:32.843967+00:00",
  "tech": "reactnative",
- "count": 131,
+ "count": 136,
  "items": [
+  {
+   "title": "React Memo",
+   "url": "https://dev.to/vidhya_murali_5aabe7784bd/react-memo-13e5",
+   "date": "2026-08-17T05:09:43+00:00",
+   "summary": "React memo is a Higher Order Component (HOC) introduced in React v16.6. As the name suggests, Memo...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Reasons Why You Should Use ReactJS for App Development",
+   "url": "https://dev.to/sahil_khurana_486f374ecf2/5-reasons-why-you-should-use-reactjs-for-app-development-565",
+   "date": "2026-08-17T04:59:20+00:00",
+   "summary": "The frontend landscape is noisy. Angular, Vue, Svelte, Solid — there's always a new contender. But...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Fluentic Style: The Anatomy of Debuggable Atomic CSS",
+   "url": "https://dev.to/omnidev/building-fluentic-style-the-anatomy-of-debuggable-atomic-css-5ca3",
+   "date": "2026-08-17T04:29:04+00:00",
+   "summary": "This is part of my Building Fluentic Style series, where I’m writing down the design decisions,...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Native vs Flutter in 2026: New Architecture vs Impeller",
+   "url": "https://karthikponnam.medium.com/react-native-vs-flutter-in-2026-new-architecture-vs-impeller-a74b90d5e71e?source=rss------react_native-5",
+   "date": "2026-08-17T04:16:38+00:00",
+   "summary": "React Native changed the communication layer. Flutter changed the rendering pipeline. Let&#x2019;s see what that means for performance. Continue reading on Medium »",
+   "tech": "reactnative",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed",
+   "url": "https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih",
+   "date": "2026-08-17T02:39:23+00:00",
+   "summary": "This is a submission for Weekend Challenge: Dog Days Edition           What I Built   I built...",
+   "points": 5,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)",
+   "url": "https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3",
+   "date": "2026-08-17T02:35:15+00:00",
+   "summary": "Here's a checkout flow that loses the customer at step three:    function Checkout() {   const [step,...",
+   "points": 5,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Period Doors: Oak, Victorian & Cottage Styles | Period House",
+   "url": "https://dev.to/davitparkltd/period-doors-oak-victorian-cottage-styles-period-house-1kbi",
+   "date": "2026-08-17T02:31:24+00:00",
+   "summary": "Period doors are more than a functional feature—they help establish the character of a home before...",
+   "points": 5,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Knurled Connaught Lever Handle in Satin Brass | Modern Bathroom",
+   "url": "https://dev.to/mattjoshi/knurled-connaught-lever-handle-in-satin-brass-modern-bathroom-b35",
+   "date": "2026-08-17T01:58:10+00:00",
+   "summary": "A great bathroom design is often defined by the details.  The Connaught lever handle is a perfect...",
+   "points": 6,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Hooks: Mastering useState and useEffect – The Matrix of State",
+   "url": "https://dev.to/timevolt/react-hooks-mastering-usestate-and-useeffect-the-matrix-of-state-5eae",
+   "date": "2026-08-16T23:59:29+00:00",
+   "summary": "The Quest Begins (The \"Why\")   Honestly, I remember the first time I tried to make a...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building AI Prompt Lab with Java 21, Spring Boot and React 19",
+   "url": "https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8",
+   "date": "2026-08-16T23:20:00+00:00",
+   "summary": "A full-stack AI prompt management application built with Java 21, Spring Boot, React 19, TypeScript, PostgreSQL and OpenRouter.",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Remix 3 leaves React: what a web-standards full stack means for route performance",
+   "url": "https://dev.to/apogeewatcher/remix-3-leaves-react-what-a-web-standards-full-stack-means-for-route-performance-4keh",
+   "date": "2026-08-16T22:12:07+00:00",
+   "summary": "Remix 3 beta rebuilds on web primitives and a Preact fork, not React. Migration is a rewrite. Soft navigations and CWV still matter while frameworks change.",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React: valida email sin mover el layout",
+   "url": "https://dev.to/silviutech/react-valida-email-sin-mover-el-layout-3086",
+   "date": "2026-08-16T20:23:52+00:00",
+   "summary": "React: valida email sin mover el layout   He visto un problema muy comun en formularios...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why a two-user Convex chat app read tens of MB a day",
+   "url": "https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k",
+   "date": "2026-08-16T19:43:18+00:00",
+   "summary": "In Convex, bandwidth isn't the size of your data, it's how many times your reactive queries re-read it. Here are the four traps that inflated my bill and the fixes for each.",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Does State Management Suddenly Need a Whole New Programming Model?",
+   "url": "https://dev.to/kentaromorishita/why-does-state-management-suddenly-need-a-whole-new-programming-model-1792",
+   "date": "2026-08-16T13:55:34+00:00",
+   "summary": "A String that changes over time is still related to a String. I wanted state in Seseragi to feel like adding a time axis to a value, not joining a different programming religion.",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Hooks: The Matrix of useState and useEffect",
+   "url": "https://dev.to/timevolt/react-hooks-the-matrix-of-usestate-and-useeffect-4fik",
+   "date": "2026-08-16T13:53:28+00:00",
+   "summary": "The Quest Begins (The \"Why\")   I still remember the first time I tried to make a component...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Native Toast: Lightweight package for Native Android and iOS Toasts",
+   "url": "https://medium.com/@svbala99/react-native-toast-lightweight-package-for-native-android-and-ios-toasts-0773cf1c9771?source=rss------react_native-5",
+   "date": "2026-08-16T13:37:34+00:00",
+   "summary": "Why ToastAndroid is Android-only, why its position option no longer works, and how to show a real system toast on both platforms with one&#x2026; Continue reading on Medium »",
+   "tech": "reactnative",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Tried to \"Disable Inspect\" — and Learned the Right Question to Ask Instead",
+   "url": "https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb",
+   "date": "2026-08-16T13:36:22+00:00",
+   "summary": "It started, like a lot of rabbit holes do, with an observation: Gemini stops its JavaScript when you...",
+   "points": 1,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "App State in React Native: Foreground, Background & Killed State",
+   "url": "https://medium.com/@hunny592003/app-state-in-react-native-foreground-background-killed-state-b6c1b99044a6?source=rss------react_native-5",
+   "date": "2026-08-16T12:20:27+00:00",
+   "summary": "Introduction Continue reading on Medium »",
+   "tech": "reactnative",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Hand-Rolling Chat UIs: Streaming LLM Tokens Into React Native Without the Jank",
+   "url": "https://hackernoon.com/stop-hand-rolling-chat-uis-streaming-llm-tokens-into-react-native-without-the-jank?source=rss",
+   "date": "2026-08-16T10:26:32+00:00",
+   "summary": "Streaming LLM replies can make React Native chats jump and stutter. Learn why keyboard and layout updates collide and how to keep scrolling smooth.",
+   "tech": "reactnative",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
   {
    "title": "Building Decide: A Social Platform for Decision-Making",
    "url": "https://dev.to/ege-tutumlu/building-decide-a-social-platform-for-decision-making-27o5",
@@ -239,72 +444,6 @@
    "lang": "en"
   },
   {
-   "title": "I published my digital product's refund rate",
-   "url": "https://dev.to/lucas_martin_8cb158b9a81b/i-published-my-digital-products-refund-rate-5735",
-   "date": "2026-08-14T07:00:50+00:00",
-   "summary": "7-day no-questions refund on React Native templates. Refund rate came in at 3.8%. Here is the actual math, the policy text, and what it costs.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19",
-   "url": "https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o",
-   "date": "2026-08-14T06:16:27+00:00",
-   "summary": "We just shipped EverShop 2.2.1 — the largest release since 2.0. It folds in the React 19 work that...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Porting a Lovable App to React Native: The Translation Table Nobody Gives You",
-   "url": "https://dev.to/hugo_rus_630dd942fcf7cc62/porting-a-lovable-app-to-react-native-the-translation-table-nobody-gives-you-17ho",
-   "date": "2026-08-14T06:08:28+00:00",
-   "summary": "Lovable outputs React DOM, not React Native. Here is the component-by-component port, and the Apple guideline that kills the wrapper shortcut.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-   "url": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-   "date": "2026-08-14T06:02:54+00:00",
-   "summary": "Headline: A Content Security Policy (CSP) is an HTTP response header that tells the browser which...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Type-Safe Email Checks in React Forms",
-   "url": "https://dev.to/ryanlee91/type-safe-email-checks-in-react-forms-1cg4",
-   "date": "2026-08-14T05:25:42+00:00",
-   "summary": "If your React signup form still treats email validation like a boolean, you're probably carrying more...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Excited to join the DEV Community!",
-   "url": "https://dev.to/jorgelepasana/excited-to-join-the-dev-community-2kbl",
-   "date": "2026-08-14T04:02:55+00:00",
-   "summary": "I’ll be sharing practical insights, projects, and lessons learned in software development, Python,...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Three analytics events are enough",
    "url": "https://medium.com/@engineering_44587/three-analytics-events-are-enough-8675c65b36d8?source=rss------react_native-5",
    "date": "2026-08-13T17:00:45+00:00",
@@ -312,105 +451,6 @@
    "tech": "reactnative",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Mastering Micro-Frontends with Module Federation in 2026: Patterns & Pitfalls",
-   "url": "https://dev.to/lakshanmuruganandam/mastering-micro-frontends-with-module-federation-in-2026-patterns-pitfalls-3bnc",
-   "date": "2026-08-13T15:19:30+00:00",
-   "summary": "Mastering Micro-Frontends with Module Federation in 2026: Patterns &amp; Pitfalls   As...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Lancé 4 apps yo solo desde Windows (sin Mac), y esto es lo que aprendí",
-   "url": "https://dev.to/codeascent_admin/lance-4-apps-yo-solo-desde-windows-sin-mac-y-esto-es-lo-que-aprendi-3013",
-   "date": "2026-08-13T15:19:29+00:00",
-   "summary": "Soy dev en solitario. Sin equipo, sin inversión, en una PC con Windows. En los últimos meses saqué...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built an app that OCRs every screenshot on your phone — here's the architecture",
-   "url": "https://dev.to/raj_chavan524/i-built-an-app-that-ocrs-every-screenshot-on-your-phone-heres-the-architecture-2ik3",
-   "date": "2026-08-13T06:13:46+00:00",
-   "summary": "We all have that folder of 500+ screenshots we can never find anything in. I got tired of scrolling...",
-   "points": 2,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie",
-   "url": "https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2",
-   "date": "2026-08-13T06:12:57+00:00",
-   "summary": "TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently...",
-   "points": 1,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Mobile App Analytics in React Native: What to Track (and What to Skip)",
-   "url": "https://dev.to/rapidnative-ai/mobile-app-analytics-in-react-native-what-to-track-and-what-to-skip-25jp",
-   "date": "2026-08-13T05:01:19+00:00",
-   "summary": "A working developer's guide to instrumenting a React Native or Expo app: the four metric buckets, the wrapper pattern, and the metrics to delete.",
-   "points": 1,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Patch Delivery and Full-Bundle Reliability in React Native OTA",
-   "url": "https://dev.to/gfean/patch-delivery-and-full-bundle-reliability-in-react-native-ota-1l4c",
-   "date": "2026-08-12T08:21:05+00:00",
-   "summary": "Most OTA releases do not replace most of an application.  A production update might fix one...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Build a HIPAA-Compliant App: A Founder's Guide for 2026",
-   "url": "https://dev.to/rapidnative-ai/how-to-build-a-hipaa-compliant-app-a-founders-guide-for-2026-ha0",
-   "date": "2026-08-12T07:09:30+00:00",
-   "summary": "The six technical requirements, which vendors actually sign a BAA, whether you can use LLMs with PHI, and what it really costs in 2026.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React Native Authentication in 2026: The Refresh-Token Pattern That Actually Scales",
-   "url": "https://dev.to/angel_rose/react-native-authentication-in-2026-the-refresh-token-pattern-that-actually-scales-4i74",
-   "date": "2026-08-12T06:03:55+00:00",
-   "summary": "The two-token auth pattern that survived three production React Native apps: secure storage, refresh middleware, and the TestFlight keychain trap.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ad-Hoc distribution vs TestFlight in React Native — a practical comparison",
-   "url": "https://dev.to/hameedurrehman/ad-hoc-distribution-vs-testflight-in-react-native-a-practical-comparison-1nid",
-   "date": "2026-08-12T03:50:33+00:00",
-   "summary": "If you're testing an iOS build with real devices, you've got two main paths: Apple's TestFlight, or...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -478,6 +518,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RVFpDdzk4Z2lRc193cmxOc1ZCSUwxUmlSMXluV0FKYjdtV2FTRFlHd3dxNWt1akx5MHNnbzBQeFc1MmhWUThJdjRNWkIxM0VhYV9sZzFn?oc=5",
    "date": "2026-03-31T11:00:58+00:00",
    "summary": "FREE React Native Bootcamp: 13 Projects, Beginner to Advanced | Part 1 YouTube",
+   "tech": "reactnative",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "React Native Full Course 2026 | Build, Publish and Monetize a Full Stack Mobile App to App Store",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CT1JyclkwbzJXMmYtZC01R09DTS1XZWpBRGR1bDV4SGZ0UVVuYVRMeEEwWGFXY3phNUZpdmw0RHhPczFNbjBYdjl6ME9UR1FDQWc?oc=5",
+   "date": "2026-03-28T07:00:00+00:00",
+   "summary": "React Native Full Course 2026 | Build, Publish and Monetize a Full Stack Mobile App to App Store YouTube",
    "tech": "reactnative",
    "sourceId": "yt",
    "source": "YouTube",
@@ -562,6 +612,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "React Native for Dummies 2026 – Full Beginner Crash Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Z3l6NlV3d01oOE9aNTE3R1E0SVpocjVrUW0xNGdWSGlZTVVBVmRKa0dXWGxxMjBCSUdxVHN1OUZQWkN2NGlncFJUeko2WU9QeTBOVGVn?oc=5",
+   "date": "2025-10-24T10:54:35+00:00",
+   "summary": "React Native for Dummies 2026 – Full Beginner Crash Course YouTube",
+   "tech": "reactnative",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "React Native Tutorial for Absolute Beginners - Build a Mobile App in 2 Hours",
@@ -1084,6 +1144,16 @@
    "lang": "en"
   },
   {
+   "title": "React Native Full Course | Build Video Streaming App | React Native Tutorial with AWS, Expo",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yeWl4WU5sR2VuT2NGalhhLU1VZHdQdU05UmM5SE9xd3dBaHZLY0J4YlhMZlBHSnE2SjI2Z1lYR2cxRzJmMGJsWm9VcXdYcE4xUFZwTkt3?oc=5",
+   "date": "2024-04-15T13:00:17+00:00",
+   "summary": "React Native Full Course | Build Video Streaming App | React Native Tutorial with AWS, Expo YouTube",
+   "tech": "reactnative",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "React Native Course for Beginners in 2024 | Build a Full Stack React Native App",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fajBfMEJ2TTdENTNoVXZrbnpZRWs1Qmd6R2dROFVweER5Q3drYVRBeXRfZm94bXhqa2Q5RHJDNHJ3ejRFSXdDN2lvdkw5M2dIYU1tY3Rn?oc=5",
    "date": "2024-04-12T08:51:42+00:00",
@@ -1214,6 +1284,16 @@
    "lang": "en"
   },
   {
+   "title": "React Native Tutorial - 2 - Expo vs React Native",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91aE9teG1ZdlZkenQ4VFdQeGs0cWdlQ0FaR0cwRmUwakdONEJjVllpeDk1MXh6bE14U3NadEZ5OGhJbnc4TTRTbFlOdXdFd0xFWmM0d1pn?oc=5",
+   "date": "2023-07-10T11:00:16+00:00",
+   "summary": "React Native Tutorial - 2 - Expo vs React Native YouTube",
+   "tech": "reactnative",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "React Native Tutorial - 1 - Introduction",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPaWltOXhwcnZFU19mTUQ1LUxTMHl4ZV9ZTFRZQkZCQjh1R25INzYtRHB6aU55UkpwRkRha0kzbWM2aU1udUhRWDFRXzZNSVVzWUhlTWxn?oc=5",
    "date": "2023-07-09T11:00:35+00:00",
@@ -1244,36 +1324,6 @@
    "lang": "en"
   },
   {
-   "title": "React Native tutorial #19 Class Component",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NdGNMWlJ1MDNDWXRYNi16aVFJdURtdnFDWlBXdlgxY3RXSXcxdzJJeWhRQ0NlZ1ZoWUlLWGlBUU1Lbi0wTDJXd0xqcXlkbmlQT0RPTmhR?oc=5",
-   "date": "2023-06-27T04:30:06+00:00",
-   "summary": "React Native tutorial #19 Class Component YouTube",
-   "tech": "reactnative",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Build React Native app from Scratch : React Native, Expo, Strapi, MySql | React Native Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4LVNkdGxZaE1TZjc5ZzFTTWQ1Qk1uSGhtaFR6aC10QkNZQi1EQ2VMNmhIcVlvcHlscmZBMFdIaXVKT3h0c0s2elRyTk9IYWtfUUVJTVln?oc=5",
-   "date": "2023-06-24T01:45:00+00:00",
-   "summary": "Build React Native app from Scratch : React Native, Expo, Strapi, MySql | React Native Full Course YouTube",
-   "tech": "reactnative",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "React Native tutorial #13 Simple Form in React-Native | form with state",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wdHRFUWtScldEZEoxUzBqelNtNHVfN1UzMzJ3cjg2RndqbVlSaFl0R0o2VnRDdmFjMjBTTXo0N191M0Q4OGpjM1A4bnZTTERFUlN5aFV3?oc=5",
-   "date": "2023-06-15T04:30:02+00:00",
-   "summary": "React Native tutorial #13 Simple Form in React-Native | form with state YouTube",
-   "tech": "reactnative",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "هل لازم اتعلم HTML و CSS قبل JavaScript عشان اتعلم React Native ؟؟!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xQ3FoQUNBZjRramx3RXFfdEJBdzhJRExGVE9pVVM1Z3h3WU1sSUV6ZExPQ3VzeXItQkk0OGR2TVZqTTNLdHUwbkxYOGx4S0hCTmNYWmJB?oc=5",
    "date": "2023-06-10T21:23:39+00:00",
@@ -1294,16 +1344,6 @@
    "lang": "ar"
   },
   {
-   "title": "Facebook Login with React Native Expo | Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRMXFKTXJEYzRHOWxVaVJzMXBpNVdjamNtYkpGNC1KNmlVck85TDF6alFxekxtaGVTR0VZSGlpWnEtd1VzSGlCTXUwcUZ6UnJ6VHNCTUd3?oc=5",
-   "date": "2023-04-03T15:49:48+00:00",
-   "summary": "Facebook Login with React Native Expo | Tutorial YouTube",
-   "tech": "reactnative",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "مقارنة بين React Native و Flutter في الأداء والإنتاجية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aN2NucjNRamY1QmpkNF8xd0hRTXphNk5LQmlCT0p0MGxvaDNRMXF4M3FSZVlyS214bDdoUzE3NXNhazQyblppMHJHNlhsYlZlMXVHMXh3?oc=5",
    "date": "2023-01-18T08:05:16+00:00",
@@ -1318,6 +1358,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14blhOdWRhNmowczdkSUN6NnB2T2FOclVZeTNVZmpXQkszUWFScjUtQ19SV1I5S1BaUzhQWkpSb05sMl9lU3BWRUhIZ1hwTGhTNk1MRnJR?oc=5",
    "date": "2021-10-27T14:00:23+00:00",
    "summary": "أساسيات React Native YouTube",
+   "tech": "reactnative",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ما هو React Native؟ وما استخدامته؟",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80OTVhVk4yM1IzRHJuNmFnX0YtOWNOMzhHZlBSUFNsM0puU3hnZ2tlTDVoVDE3a0xLWTh0bU9HZDNkcG5tQkJOMWM0S2Vka0I3SWpPYmxn?oc=5",
+   "date": "2021-04-21T23:21:50+00:00",
+   "summary": "ما هو React Native؟ وما استخدامته؟ YouTube",
    "tech": "reactnative",
    "sourceId": "ar-yt",
    "source": "YouTube",

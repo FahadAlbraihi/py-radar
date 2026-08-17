@@ -1,8 +1,162 @@
 {
- "generated": "2026-08-16T05:00:47.889987+00:00",
+ "generated": "2026-08-17T05:26:28.535229+00:00",
  "tech": "objectivec",
  "count": 78,
  "items": [
+  {
+   "title": "The Tech World’s Best Kept Secret: What Actually is an Operating System?",
+   "url": "https://dev.to/prasanambigai_sivakumar_0/the-tech-worlds-best-kept-secret-what-actually-is-an-operating-system-1l2o",
+   "date": "2026-08-16T19:44:49+00:00",
+   "summary": "If you’ve ever felt like tech people are speaking a completely different language when they say...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why programmatic inserts don't wrap on iOS multiline TextInput, and the one-line native fix",
+   "url": "https://dev.to/dheerajakula/why-programmatic-inserts-dont-wrap-on-ios-multiline-textinput-and-the-one-line-native-fix-3di1",
+   "date": "2026-08-16T19:43:26+00:00",
+   "summary": "Why iOS multiline TextInput stops wrapping on programmatic inserts, and the one setNativeProps call that fixes it.",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Firefox para iOS bloquea anuncios con la Content Blocker API de Apple",
+   "url": "https://dev.to/lu1tr0n/firefox-para-ios-bloquea-anuncios-con-la-content-blocker-api-de-apple-3d05",
+   "date": "2026-08-16T14:23:15+00:00",
+   "summary": "Firefox para iOS bloquea anuncios y rastreadores con la Content Blocker API de Apple, la misma tecnología de Safari, aplicada con reglas JSON procesad",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why HEIC breaks every browser-based image tool, and what it costs to fix",
+   "url": "https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g",
+   "date": "2026-08-16T14:00:40+00:00",
+   "summary": "Every image tool that runs in the browser hits the same wall eventually: someone drops in a photo...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓",
+   "url": "https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k",
+   "date": "2026-08-16T11:02:30+00:00",
+   "summary": "This is a submission for Weekend Challenge: Dog Days Edition              What I Built   Pawford...",
+   "points": 15,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "{{ $('Get Ready Post').item.json.Title }}",
+   "url": "https://dev.to/qmshahzad/-get-ready-postitemjsontitle--22e6",
+   "date": "2026-08-16T09:43:11+00:00",
+   "summary": "Cloud-based AI has two persistent problems for mobile developers: latency, because every inference...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MapKit Integration with SwiftUI",
+   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/mapkit-integration-with-swiftui-de8",
+   "date": "2026-08-16T09:23:05+00:00",
+   "summary": "Explore integrating Apple's powerful MapKit framework with SwiftUI, from displaying maps and annotations to handling user interaction and drawing routes.",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why your App Tracking Transparency prompt doesn't show up (and how it got my app rejected)",
+   "url": "https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob",
+   "date": "2026-08-16T06:12:52+00:00",
+   "summary": "App Review rejected my iOS app under Guideline 2.1. The note said reviewers were unable to locate the...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Sunday setup for stopping iPhone doomscrolling before Monday",
+   "url": "https://dev.to/godnick/a-sunday-setup-for-stopping-iphone-doomscrolling-before-monday-31b6",
+   "date": "2026-08-16T00:23:24+00:00",
+   "summary": "Sunday night is a good time to set the blocker rule because Monday morning is a terrible time to...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Mathastic Twice: One Math Puzzle Game, Two Native Architectures",
+   "url": "https://dev.to/tapadyutichatterjee/building-mathastic-twice-one-math-puzzle-game-two-native-architectures-1og6",
+   "date": "2026-08-15T23:29:23+00:00",
+   "summary": "I recently released Mathastic, a fast-paced math puzzle game for iOS and Android.  I’m Tapadyuti...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your VPN Is Fine. iOS Swapped the Address.",
+   "url": "https://dev.to/harrisonsec/your-vpn-is-fine-ios-swapped-the-address-56nh",
+   "date": "2026-08-15T22:34:59+00:00",
+   "summary": "Here is a failure that survives every reasonable thing you can check.  One app, on an iPhone, on...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The download button that silently did nothing on mobile",
+   "url": "https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k",
+   "date": "2026-08-15T17:38:15+00:00",
+   "summary": "For about a year, the save button in my collage editor did nothing on phones. Not \"threw an error.\"...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Saturday reset Screen Time alternative setup for iPhone doomscrolling",
+   "url": "https://dev.to/godnick/a-saturday-reset-screen-time-alternative-setup-for-iphone-doomscrolling-32ko",
+   "date": "2026-08-15T15:22:36+00:00",
+   "summary": "Saturday is where a lot of iPhone blocking setups quietly fail.  Workweek rules end. The morning has...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Getting a Flutter app through App Review",
+   "url": "https://dev.to/shahryarahmad/getting-a-flutter-app-through-app-review-3did",
+   "date": "2026-08-15T05:17:02+00:00",
+   "summary": "Most App Review rejections are not surprises. They come from a small, stable set of guidelines, and...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "The one-open rule for stopping social media loops on iPhone",
    "url": "https://dev.to/godnick/the-one-open-rule-for-stopping-social-media-loops-on-iphone-52nk",
@@ -240,28 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "I outlined every window in its own color so I can tell my apps apart",
-   "url": "https://dev.to/crazyathlete220stack/i-outlined-every-window-in-its-own-color-so-i-can-tell-my-apps-apart-4je0",
-   "date": "2026-06-04T14:57:05+00:00",
-   "summary": "When I have a lot of apps open, I lose track of which window is which.  These days everything has the...",
-   "points": 1,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I turned a 2011 iMac into a second display by faking a monitor in macOS",
-   "url": "https://dev.to/crazyathlete220stack/i-turned-a-2011-imac-into-a-second-display-by-faking-a-monitor-in-macos-2db5",
-   "date": "2026-06-04T08:41:27+00:00",
-   "summary": "I have a 2011 iMac I can't bring myself to throw away. I just like the way it looks. But a machine...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "SWIFT & OBJECTIVE-C iOS DEVELOPMENT COURSE | LEARN iOS PROGRAMMING FROM SCRATCH",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MRlRFQVBFaHZQOWlKa293elgwOWZfVk5UanNkSVRSc3BXa1Z4SjRBQ0VtQ2docnRrNjVZVXlxUGZubnZxcGJFMFNCNFpyWUlDejlZemF3?oc=5",
    "date": "2025-12-24T08:30:15+00:00",
@@ -269,17 +401,6 @@
    "tech": "objectivec",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "E-commerce management system",
-   "url": "https://dev.to/mprog10/e-commerce-management-system-4m6e",
-   "date": "2025-02-10T02:21:56+00:00",
-   "summary": "Written in Objective-C. SQL integration is in progress! Source code is found here....",
-   "points": 1,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -313,57 +434,13 @@
    "lang": "en"
   },
   {
-   "title": "Objective C Interview Questions and Answers",
-   "url": "https://dev.to/lalyadav/objective-c-interview-questions-and-answers-47nh",
-   "date": "2024-06-14T11:55:09+00:00",
-   "summary": "Objective-C — the language that powers iOS and macOS development. Whether you’re a fresh-faced...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Adding SwiftUI to an Objective-C Xcode Project from iOS 6 - Speed Coding",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ISkt6clQ5by1CLWVzVWFOM0o0RVYyVDc5ODVLRUFjZS1LWmJQcUJrQ2xDY2FWMzVRZ2tyY0h0M2dYalFLVkJiQWhnS3RGdW5GOEpRRndR?oc=5",
    "date": "2024-04-24T11:00:06+00:00",
-   "summary": "Adding SwiftUI to an Objective-C Xcode Project from iOS 6 - Speed Coding youtube.com",
+   "summary": "Adding SwiftUI to an Objective-C Xcode Project from iOS 6 - Speed Coding YouTube",
    "tech": "objectivec",
    "sourceId": "yt",
-   "source": "youtube.com",
-   "lang": "en"
-  },
-  {
-   "title": "What is the best architecture in Objective-C for 3 page application",
-   "url": "https://dev.to/sagar_prajapati_e51d27360/what-is-the-best-architecture-in-objective-c-for-3-page-application-2ghg",
-   "date": "2024-03-23T18:29:58+00:00",
-   "summary": "Can any one suggest me the best app architecture for small 3 page ios app in Objective-C in which i...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "iOS development Weak and Strong Dance: How it breaks cycle reference?",
-   "url": "https://dev.to/blitzdex27/ios-development-weak-and-strong-dance-how-it-breaks-cycle-reference-5f36",
-   "date": "2023-08-13T08:37:07+00:00",
-   "summary": "This article will try to describe as simple as possible the cycle reference, and the behavior of...",
-   "points": 1,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to fix \"Cannot find module 'node-darwin-arm64/package.json\"",
-   "url": "https://dev.to/krishna121996/how-to-fix-cannot-find-module-node-darwin-arm64packagejson-10i2",
-   "date": "2023-06-11T13:58:27+00:00",
-   "summary": "These issues were commonly occurring in M1 chip users. This can be noticed after taking the clone of...",
-   "points": 11,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -427,17 +504,6 @@
    "lang": "en"
   },
   {
-   "title": "A Proto Uber Eats",
-   "url": "https://dev.to/clsource/a-proto-uber-eats-2e40",
-   "date": "2021-07-21T23:08:57+00:00",
-   "summary": "A food delivery app prototype made in 2013/2014",
-   "points": 2,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Introduction to Objective C - Part 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13TzdnYWR5czEyRnRtOEE1WUFqUEhvZUg1MTZQS1ZEZEY2VDFUbk1vYW9md1NsR2NVQTVYd09KWmFSS2M3QldpWmpjb0x5R3Z4NFk2d3BB?oc=5",
    "date": "2021-02-04T20:15:06+00:00",
@@ -448,17 +514,6 @@
    "lang": "en"
   },
   {
-   "title": "Translucent Sidebar with React Native for MacOS ",
-   "url": "https://dev.to/edvinasbartkus/translucent-sidebar-with-react-native-for-macos-2l5i",
-   "date": "2020-06-08T19:54:34+00:00",
-   "summary": "Using Cocoa API for React Native for MacOS to create native translucent sidebar style",
-   "points": 9,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How to Create TableView in Objective-C (iOS 2020)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yU1VIMzJPSWswNDkxR1hxZzZHTVhYN2VKMHU3bVRxV1UxdkFGN3JrcGNGdkFNS1M2Q0xUb2Q1akdhZm5mVFVwVkVnTTQ4VzJIeXhkSTN3?oc=5",
    "date": "2020-05-21T13:32:10+00:00",
@@ -466,28 +521,6 @@
    "tech": "objectivec",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Objective-C 供養",
-   "url": "https://dev.to/szktty/objective-c-59gm",
-   "date": "2020-01-23T15:15:38+00:00",
-   "summary": "※この記事は 2015年12月24日 に Qiita に投稿したものです。  世間はクリスマスモードだと言うのに、辛気臭いタイトルですみません。「勝手に殺すな」とか「お前は何様だ」などとなんだか怒られそ...",
-   "points": 6,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to interop between Objective-C and C++?",
-   "url": "https://dev.to/andreicalazans/how-to-interop-between-objective-c-and-c-5dgp",
-   "date": "2020-01-22T21:09:46+00:00",
-   "summary": "This post covers the different ways you can communicate between Objective-C and C++ code.",
-   "points": 10,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -508,39 +541,6 @@
    "tech": "objectivec",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Variable declaration in switch-case and Objective-C",
-   "url": "https://dev.to/zeitschlag/variable-declaration-in-switch-case-and-objective-c-20mi",
-   "date": "2019-01-19T12:50:52+00:00",
-   "summary": "Welcome back to Objective-C-land! Last week, I doubted my own sanity more than once. One day, for example, I refactored some code to use an enum and I nearly dispaired on a simple switch-case, until I reminded myself tha",
-   "points": 7,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "📺 Fullscreen Xcode and Simulator",
-   "url": "https://dev.to/zdnk/-fullscreen-xcode-and-simulator-42ng",
-   "date": "2018-08-08T08:48:19+00:00",
-   "summary": "The best way to debug applications during development is to run them in simulator and the best way to run simulator is right next to Xcode in fullscreen!",
-   "points": 29,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Explain iOS development like I'm five",
-   "url": "https://dev.to/ben/explain-ios-development-like-im-five-1a8h",
-   "date": "2018-08-02T18:45:16+00:00",
-   "summary": "I've been getting into iOS development and Swift, and I'm getting to like it. I sort of know how I...",
-   "points": 109,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {

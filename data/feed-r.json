@@ -1,8 +1,162 @@
 {
- "generated": "2026-08-16T04:59:15.636563+00:00",
+ "generated": "2026-08-17T05:24:58.552741+00:00",
  "tech": "r",
  "count": 42,
  "items": [
+  {
+   "title": "A top-10 list was the wrong answer, so I used greedy set cover instead",
+   "url": "https://dev.to/horushe/a-top-10-list-was-the-wrong-answer-so-i-used-greedy-set-cover-instead-1lbm",
+   "date": "2026-08-17T04:59:38+00:00",
+   "summary": "I had a ranking problem that looked trivial and turned out to have the wrong shape.  Contexto is a...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The arbitrage that wasn't: when two markets are identical but their oracles aren't",
+   "url": "https://dev.to/mikefrol/the-arbitrage-that-wasnt-when-two-markets-are-identical-but-their-oracles-arent-4pga",
+   "date": "2026-08-16T21:57:29+00:00",
+   "summary": "The arbitrage that wasn't   I build a scanner that looks for cross-venue arbitrage in...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The World Clock Time-Zone Landscape: what 162 places reveal about time zones",
+   "url": "https://dev.to/lucian_lkb_1f009d/the-world-clock-time-zone-landscape-what-162-places-reveal-about-time-zones-1a4m",
+   "date": "2026-08-16T18:21:25+00:00",
+   "summary": "Time zones look like a tidy grid of whole hours. They aren't. I read the standard UTC offset of all...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Statistics Matters in Data Science",
+   "url": "https://dev.to/sharonnyabuto/why-statistics-matters-in-data-science-4ihl",
+   "date": "2026-08-16T17:45:47+00:00",
+   "summary": "Introduction   When we hear the term data science, the first things that may come to mind...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The easiest numbers to fake are the hardest to catch. That is one property, not two.",
+   "url": "https://dev.to/lizhuojunx86/the-easiest-numbers-to-fake-are-the-hardest-to-catch-that-is-one-property-not-two-23k9",
+   "date": "2026-08-16T14:56:54+00:00",
+   "summary": "Six batches of a pharmaceutical extraction process. Yields sit at σ ≈ 0.02 percentage points, every...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Happens When an LLM Only Sees Fifth-Grade Content? This Experiment Revealed Something Unexpected",
+   "url": "https://dev.to/trismegistus/what-happens-when-an-llm-only-sees-fifth-grade-content-this-experiment-revealed-something-547h",
+   "date": "2026-08-16T13:51:58+00:00",
+   "summary": "What happens if you train a large language model exclusively on content at a fifth-grade reading...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Starting My Journey with Data Science and AI Analytics: What I've Learned So Far",
+   "url": "https://dev.to/leonardmwilu139/starting-my-journey-with-data-science-and-ai-analytics-what-ive-learned-so-far-2dcf",
+   "date": "2026-08-16T08:47:04+00:00",
+   "summary": "Hello DEV Community! 👋  I'm starting a new chapter in my career journey and wanted to document my...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Data Analyst Dilemma: Finding the Perfect Home for My Projects.",
+   "url": "https://dev.to/nyandiatech/data-analyst-dilemma-finding-the-perfect-home-for-my-projects-5gkb",
+   "date": "2026-08-15T18:36:02+00:00",
+   "summary": "Let’s start our story with a bit of honesty. Picture this: I’ve just wrapped up a series of data...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Mindset Shift: Data Cleaning in Data Science vs. Data Engineering",
+   "url": "https://dev.to/datawithnaomi/the-mindset-shift-data-cleaning-in-data-science-vs-data-engineering-24ka",
+   "date": "2026-08-15T14:49:56+00:00",
+   "summary": "I could have written about another tool I’ve picked up on my data engineering journey, but I found...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bot timing has an entropy signature, and you can measure it on live Nostr data",
+   "url": "https://dev.to/zekebuilds/bot-timing-has-an-entropy-signature-and-you-can-measure-it-on-live-nostr-data-4bho",
+   "date": "2026-08-15T14:03:57+00:00",
+   "summary": "Inter-event gap-entropy tells scheduled bots apart from humans on real Nostr relays. Here are the actual numbers, and where it breaks.",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From 1-2 to 4-2: A Data Pipeline for Lyon’s Two-Leg Turnaround",
+   "url": "https://dev.to/klelugies/from-1-2-to-4-2-a-data-pipeline-for-lyons-two-leg-turnaround-7bb",
+   "date": "2026-08-15T13:14:43+00:00",
+   "summary": "A two-leg tie can change direction without any mystery in the arithmetic. Sparta Praha beat Lyon 2–1...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Reconstructing a 6-5 Aggregate: What Bodø/Glimt’s Tie Teaches Data Pipelines",
+   "url": "https://dev.to/klelugies/reconstructing-a-6-5-aggregate-what-bodoglimts-tie-teaches-data-pipelines-2fj0",
+   "date": "2026-08-15T13:12:46+00:00",
+   "summary": "The most useful way to understand Bodø/Glimt’s 6–5 qualification is not to search for one decisive...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Measure the Premier League’s Goalkeeper Timeout Trial Without Fooling Yourself",
+   "url": "https://dev.to/klelugies/how-to-measure-the-premier-leagues-goalkeeper-timeout-trial-without-fooling-yourself-25j0",
+   "date": "2026-08-15T11:27:14+00:00",
+   "summary": "The rule is simple to explain and surprisingly hard to evaluate.  For the 2026–27 season, English...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The head of your CSV is lying: how 9,291 invoice numbers almost vanished",
+   "url": "https://dev.to/ahmedabdeltawab/the-head-of-your-csv-is-lying-how-9291-invoice-numbers-almost-vanished-3891",
+   "date": "2026-08-15T06:19:41+00:00",
+   "summary": "Real transaction data is never clean — and the worst part is that it looks clean. This is a short...",
+   "points": 0,
+   "tech": "r",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "The zero we almost published belonged to a different column",
    "url": "https://dev.to/yotta-fish/the-zero-we-almost-published-belonged-to-a-different-column-47g8",
@@ -180,17 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "Landscape of ODE Solvers in R: A Practical Overview",
-   "url": "https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7",
-   "date": "2026-05-05T07:00:00+00:00",
-   "summary": "An overview of ODE solvers in R, highlighting their capabilities, performance, and practical considerations.",
-   "points": 0,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "الدرس (21): تحليل القياسات المتكررة Repeated Measures بلغة R عبر #rstudio",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zRkNBVUJPMWJoenFiaG9nSXVEWFpqSFd6a3hBODA3SWg4blgxT0N1ZXo3c1ZBLW00SjVBYnlkRnpBRmh4WFd0cm03VkJvRzZIZjFWMm9R?oc=5",
    "date": "2026-02-04T02:17:45+00:00",
@@ -199,39 +342,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Quartify: Transform Your R Scripts into Quarto Documentation in One Click",
-   "url": "https://dev.to/ddotta/quartify-transform-your-r-scripts-into-quarto-documentation-in-one-click-3d6f",
-   "date": "2026-01-26T12:49:10+00:00",
-   "summary": "Introduction: The Challenge of Code Documentation   How many times have you written a...",
-   "points": 0,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ast2ast v0.5: Translate R Functions to Optimized C++: Now with automatic differentiation!",
-   "url": "https://dev.to/konrad1991/ast2ast-v05-translate-r-functions-to-optimized-c-now-with-automatic-differentiation-mf1",
-   "date": "2026-01-18T18:57:28+00:00",
-   "summary": "Why ast2ast?   Want C++ speed without writing C++? ast2ast does it for you:    a &lt;- runif...",
-   "points": 0,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Keep R Awake During Long Jobs with NoSleepR",
-   "url": "https://dev.to/metelkin/keep-r-awake-during-long-jobs-with-nosleepr-21jj",
-   "date": "2025-11-28T07:00:00+00:00",
-   "summary": "A lightweight R package that prevents your computer from sleeping while long-running computations are active - without changing global system settings. Cross-platform (Windows, macOS, Linux), simple API, and safe by desi",
-   "points": 0,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "الدرس 20: تحليل التباين الثنائي 2 Way ANOVA مع التفاعل بلغة R عبر #rstudio",
@@ -274,39 +384,6 @@
    "lang": "en"
   },
   {
-   "title": "Rlinguo — Why Did We Build It?",
-   "url": "https://dev.to/colinfay/rlinguo-why-did-we-build-it-5eh1",
-   "date": "2025-02-03T18:00:00+00:00",
-   "summary": "Why spending hours building an app that runs R?",
-   "points": 1,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Setting values in R6 classes, and testing with shiny::MockShinySession",
-   "url": "https://dev.to/colinfay/setting-values-in-r6-classes-and-testing-with-shinymockshinysession-23l1",
-   "date": "2025-01-08T17:00:00+00:00",
-   "summary": "Where mobile meets R",
-   "points": 1,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Rlinguo, a native mobile app that runs R",
-   "url": "https://dev.to/colinfay/introducing-rlinguo-a-native-mobile-app-that-runs-r-2bl3",
-   "date": "2024-12-23T15:00:00+00:00",
-   "summary": "Where mobile meets R",
-   "points": 20,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "ابسط واسرع طريقة لتحميل لغة R و RStudio في ثواني شرح بالعربي حصة 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyX21ic3hYeTJGcGNxZXNndjk3eHdTczhLZklCNkdHV0t3RFpmOUt5WndvRGlsb0Z6QVFLZTVvVzhycGhfWjJzR0hzRWRmajRIRUV0cWtR?oc=5",
    "date": "2024-10-07T19:56:15+00:00",
@@ -317,28 +394,6 @@
    "lang": "ar"
   },
   {
-   "title": "Linking R to iRODS’ new HTTP API 🥳",
-   "url": "https://dev.to/martinschobben/linking-r-to-irods-new-http-api-58a3",
-   "date": "2024-03-18T07:14:02+00:00",
-   "summary": "NOTE:  This article is about the release of rirods 0.2.0 (see the documentation). iRODS C++ HTTP...",
-   "points": 0,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "webrcli & spidyr: A starter pack for building NodeJS projects with webR inside",
-   "url": "https://dev.to/colinfay/webrcli-spidyr-a-starter-pack-for-building-nodejs-projects-with-webr-inside-5d79",
-   "date": "2024-03-06T00:00:00+00:00",
-   "summary": "This post is the sixth one of a series of post about webR:   Using webR in an Express JS REST API The...",
-   "points": 5,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Data Cleaning with the tidyverse (by Statistics Globe)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EaVRfdkNKWktqQ3NoXzgyZy1fR2UyelZNUmRULUt2blpNREVrNkRjcFMwZDRRalpMLWlrd1BvOEVFNVR5Y1lwVTRKRWlNZ2tFVmxxQjV3?oc=5",
    "date": "2023-11-19T15:00:08+00:00",
@@ -346,17 +401,6 @@
    "tech": "r",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Reproducible data science with Nix, part 2 -- running {targets} pipelines with Nix",
-   "url": "https://dev.to/brodrigues/reproducible-data-science-with-nix-part-2-running-targets-pipelines-with-nix-g17",
-   "date": "2023-07-20T09:10:00+00:00",
-   "summary": "This is the second post in a series of posts about Nix. Disclaimer: I’m a super beginner with Nix. So...",
-   "points": 1,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -380,17 +424,6 @@
    "lang": "ar"
   },
   {
-   "title": "Manage Dependencies with the deps R Package for Docker Containers",
-   "url": "https://dev.to/analythium/manage-dependencies-with-the-deps-r-package-for-docker-containers-1hg8",
-   "date": "2022-11-11T13:00:00+00:00",
-   "summary": "By: Peter Solymos  The deps package gives you a lightweight option to manage package dependencies and...",
-   "points": 1,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "مقدمة في تحليل البيانات بلغة R",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbFgwOEFVYmM3eTFUOUhyTU1SZE9UdkZ3NFRzMkdmRDBSaDYwOXpDamtuWjMyUlFSZnNLckthck0zTllaT1prUjdxdFFHLXNiYmFHWjlB?oc=5",
    "date": "2021-10-17T22:22:41+00:00",
@@ -399,39 +432,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "How to Host Shiny Apps on the DigitalOcean App Platform",
-   "url": "https://dev.to/analythium/how-to-host-shiny-apps-on-the-digitalocean-app-platform-43h4",
-   "date": "2021-10-02T17:08:38+00:00",
-   "summary": "By: Peter Solymos  The DigitalOcean App Platform is another PaaS offering that allows you to publish...",
-   "points": 9,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dimensionality reduction for Billboard Top 100 songs 🎶",
-   "url": "https://dev.to/juliasilge/dimensionality-reduction-for-billboard-top-100-songs-48g8",
-   "date": "2021-09-15T00:00:00+00:00",
-   "summary": "Songs on the Billboard Top 100 have many audio features! We can use data preprocessing recipes to implement dimensionality reduction and understand how these features are related. ",
-   "points": 4,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Use racing methods to tune xgboost models and predict home runs ⚾️",
-   "url": "https://dev.to/juliasilge/use-racing-methods-to-tune-xgboost-models-and-predict-home-runs-301m",
-   "date": "2021-08-10T00:00:00+00:00",
-   "summary": "This is the latest in my series of screencasts demonstrating how to use the tidymodels packages, from...",
-   "points": 3,
-   "tech": "r",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "1- مقدمة عن لغة R",

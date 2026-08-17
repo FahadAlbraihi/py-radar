@@ -1,8 +1,96 @@
 {
- "generated": "2026-08-16T05:00:21.316550+00:00",
+ "generated": "2026-08-17T05:26:02.723577+00:00",
  "tech": "assembly",
  "count": 154,
  "items": [
+  {
+   "title": "dog challenge",
+   "url": "https://dev.to/carynyx80/dog-challenge-2g44",
+   "date": "2026-08-16T23:42:35+00:00",
+   "summary": "This is a submission for Weekend Challenge: Dog Days Edition  http://petscope.lovable.app/  I built a...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Build a Crowd Runner Combat Game in Unity: A Technical Guide",
+   "url": "https://dev.to/unitysourcecode/build-a-crowd-runner-combat-game-in-unity-a-technical-guide-1pke",
+   "date": "2026-08-16T18:03:23+00:00",
+   "summary": "Crowd runner games have quietly become one of the most consistently profitable genres in mobile...",
+   "points": 1,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Having fun with SDL_Texture and C.",
+   "url": "https://dev.to/4deis/having-fun-with-sdltexture-and-c-2h8n",
+   "date": "2026-08-16T14:12:32+00:00",
+   "summary": "I have been learning Java for a year now, which made me come to conclusion that I've developed...",
+   "points": 1,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FreSH - First-Run Experience Shell",
+   "url": "https://dev.to/s42yt/fresh-first-run-experience-shell-22ce",
+   "date": "2026-08-16T08:08:47+00:00",
+   "summary": "FreSH GitHub Link A bash like shell i created for windows because powershell is just slow and sloppy....",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build Your Own SQLite Database From Scratch",
+   "url": "https://dev.to/farhadrahimiklie/how-to-build-your-own-sqlite-database-from-scratch-2lcm",
+   "date": "2026-08-16T05:31:33+00:00",
+   "summary": "Have you ever wondered what actually happens when you run a SQL query like:    SELECT name FROM users...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The regmap Subsystem: One Register API Across I2C, SPI and MMIO",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/the-regmap-subsystem-one-register-api-across-i2c-spi-and-mmio-38fp",
+   "date": "2026-08-16T05:03:21+00:00",
+   "summary": "Build a Linux I2C driver with the regmap subsystem: regmap_config, probe, the register cache, suspend and resume, and debugfs. Complete buildable code.",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Announcing Abscom — Python-flavored C11",
+   "url": "https://dev.to/rkriad585/announcing-abscom-python-flavored-c11-474n",
+   "date": "2026-08-16T02:31:00+00:00",
+   "summary": "I've spent a while building Abscom, a C11 library of reusable data structures with a Python-inspired...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "8051 What does SDCC do part 3 ?",
+   "url": "https://dev.to/ddupard/8051-what-does-sdcc-do-part-3--3111",
+   "date": "2026-08-15T13:17:52+00:00",
+   "summary": "1. Introduction and Problem Statement   A good way to learn what a compiler really does when...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "How Buffer Overflows Actually Hijack Program Execution",
    "url": "https://dev.to/sakramen/how-buffer-overflows-actually-hijack-program-execution-29op",
@@ -276,94 +364,6 @@
    "lang": "en"
   },
   {
-   "title": "Building an Operating System In Rust Part 2",
-   "url": "https://dev.to/benkaythe1st/building-an-operating-system-in-rust-part-2-30ci",
-   "date": "2026-07-24T10:12:51+00:00",
-   "summary": "In Part 1 we built the foundation of our operating system using Rust, dove deep into murky low level...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building an Operating System In Rust Part 1",
-   "url": "https://dev.to/benkaythe1st/building-an-operating-system-in-rust-part-1-1ol",
-   "date": "2026-07-24T09:48:23+00:00",
-   "summary": "Building an operating system is a project I have had my eyes set on ever since I discovered free will...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How does code make hardware work ???🤐",
-   "url": "https://dev.to/vedamnn/how-does-code-make-hardware-work-systemsprogramming-embeddedsystems-1hgm",
-   "date": "2026-07-21T06:35:37+00:00",
-   "summary": "Have you ever wondered how a few lines of code can make your keyboard respond ⌨️, your SSD store data...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I made assembly language interactive — a free x86-64 lesson that runs entirely in your browser",
-   "url": "https://dev.to/stackframe-hq/i-made-assembly-language-interactive-a-free-x86-64-lesson-that-runs-entirely-in-your-browser-5be4",
-   "date": "2026-07-20T19:16:52+00:00",
-   "summary": "Assembly has a reputation for being brutally hard to learn. I don't think the language is the problem...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Undefined Behavior in C: What It Actually Is (With Real Assembly)",
-   "url": "https://dev.to/j_samyn/undefined-behavior-in-c-what-it-actually-is-with-real-assembly-19ic",
-   "date": "2026-07-19T23:47:52+00:00",
-   "summary": "What Is Undefined Behavior in C?   Undefined behavior, or UB, shows up constantly in...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "NyxOS",
-   "url": "https://dev.to/kazahpng/nyxos-1dnc",
-   "date": "2026-07-13T04:53:12+00:00",
-   "summary": "I'm building an OS from scratch and I'm looking for collaborators in every sense—whether it's to...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The fixed point: a compiler written in its own language just reproduced itself, byte for byte",
-   "url": "https://dev.to/arcker/the-fixed-point-a-compiler-written-in-its-own-language-just-reproduced-itself-byte-for-byte-2bf0",
-   "date": "2026-07-12T09:08:49+00:00",
-   "summary": "Verbose is a small proof-carrying language whose compiler is written in Verbose itself. Its self-hosted emitter, fed its own 855 KB source, produced a binary bit-identical to the one that built it — gen1 == gen2, same sh",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "PAC - Pheonix Assembler Collection",
-   "url": "https://dev.to/akshudev_36/pac-pheonix-assembler-collection-5b3j",
-   "date": "2026-07-07T11:00:24+00:00",
-   "summary": "About me   Hey im AkshuDev (Akshobhya Sasun is my actual name). I work under an independent...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "FROM HISTORICAL TRIUMPH TO MYSTICAL KUPALA: COSTA MESA’S 250TH US INDEPENDENCE WEEK BRINGS GLOBAL…",
    "url": "https://medium.com/@queent1203/from-historical-triumph-to-mystical-kupala-costa-mesas-250th-us-independence-week-brings-global-29a37553734e?source=rss------assembly-5",
    "date": "2026-07-06T23:35:44+00:00",
@@ -507,10 +507,20 @@
    "title": "Dental X-ray Rinn Assembly - Dental Assistant Training and Certification School",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHaGcxUjNuXzA4c3B6RUNZYUNVdzRtSkNSQW9ia3VocHlWZlVNNXJMTjQtM3dOY3lIN1JLYS1JMHB2NmJJZkFDS2VMaE5RaFZfVjQyRXJR?oc=5",
    "date": "2025-11-05T15:05:13+00:00",
-   "summary": "Dental X-ray Rinn Assembly - Dental Assistant Training and Certification School youtube.com",
+   "summary": "Dental X-ray Rinn Assembly - Dental Assistant Training and Certification School YouTube",
    "tech": "assembly",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Master Siemens NX Assembly Basics in Just 40 Minutes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Rng4VDY0OG50c29OWm9XcDR3R3F2dW83bmNrMXhlcHNKTzYwcTlIOGU1NVprWmpBcTljajJEMkZlMDVRbDl4N2lXQVR3YWVpZjlaamZR?oc=5",
+   "date": "2025-10-28T14:01:21+00:00",
+   "summary": "Master Siemens NX Assembly Basics in Just 40 Minutes YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -538,6 +548,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZnBoWXRqLUNGSFUyaVprVVRPOGlxUG11NzFxVzUwNGhKS2JhX0hMMkxMZjJZQ0x5ZVdxVmdiRXFab0lZeHZrTmM4el9VTVkzTlNhendR?oc=5",
    "date": "2025-07-15T13:01:42+00:00",
    "summary": "Workday Studio Assembly | Workday Studio Online Tutorial | Workday Studio Course | UppTalk YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Why choose General Assembly for tech training in Singapore?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vdGd4bEtFRnJrVzM2OGNuLUIwbmphLTZsOXJDWGE0aE4xaGFwRkVGa2ZKSms1bmZiOGJ2eFctdmczOFFxOGszd1VGLUQtUzVoQ2hJMTBB?oc=5",
+   "date": "2025-07-09T13:01:56+00:00",
+   "summary": "Why choose General Assembly for tech training in Singapore? YouTube",
    "tech": "assembly",
    "sourceId": "yt",
    "source": "YouTube",
@@ -572,6 +592,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "How to Build a Gaming PC in 2026! 🛠️ [Full Tutorial w/ Assembly, BIOS, Drivers & Windows]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sbTNqNmZnVmwwUkxzejdJcTh2VlREeEJCMU5Vczk4RzRnWlhQbF9GRE1vel9OMU9JYi1YTUlBalN6Yl82c014SndEbzhVRXNjRkFuMi1n?oc=5",
+   "date": "2025-02-17T22:00:03+00:00",
+   "summary": "How to Build a Gaming PC in 2026! 🛠️ [Full Tutorial w/ Assembly, BIOS, Drivers & Windows] YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "FreeCAD 1.0 Assembly in 30 minutes Beginners Crash Course / Tutorial 2025",
@@ -848,6 +878,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RRHFscnlvSFBWQmNBdkNiUXQxSTFVWldCeXFvUHpnWmttYXlNUHpmVXVDZ1lUU3FoMTREMW1tZlMzTXVpTkV1bTl6S3FRdktjdW1WQ25n?oc=5",
    "date": "2023-07-16T06:22:28+00:00",
    "summary": "x64 Assembly course: 9. Using the Stack YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "x64 Assembly course: 7. The CMP instruction and Conditional branches",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qN0prOTVDbFVacnlabUZBejNIMFl5eUQ3RW1KMUQ0RjBTVUZtTTZZS1VsRHlmb2p3akd2MUs4dDJiXzhaTnE0OFlDNGlPWWVMRXFlODZn?oc=5",
+   "date": "2023-07-13T02:57:13+00:00",
+   "summary": "x64 Assembly course: 7. The CMP instruction and Conditional branches YouTube",
    "tech": "assembly",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1518,46 +1558,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uTFpaeS1PVE5ZNzFQSzUyN1NucEJveWhWWmxDSVA2dHF0cjB2R1gzZ3VHQU1Ob0t6ckZQQ1NUSnh4Qi1nekF6am9PREJVOWhQUU1zT0lR?oc=5",
    "date": "2019-07-12T18:35:52+00:00",
    "summary": "10.2.1 Intro to Assembly Language YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Augmented reality training for BMW assembly line workers",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55M2FYOXd6NWVNY2hmYWMxcG5peDBCTmV3Uk1pU0dCTVFIMGZXMXRQZlI2ZWJDSTl1Rk8weFBjUGdKRmlPWjRodm5QWVlybDB4Tjd4LWtB?oc=5",
-   "date": "2019-04-09T15:13:36+00:00",
-   "summary": "Augmented reality training for BMW assembly line workers YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "AGORA Portable Flat Training Soccer Goal | Assembly Guide",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yeFpkV0lsc3RLaU5hQnlnMGRkNXlGMVg0MDN6ellqX2ZLcGlnZnJMVDhwOHFOanVRVklpZk9PMzVvVlhwSWxyWEd2RnlsUHBCd2hYT2F3?oc=5",
-   "date": "2018-05-25T23:26:31+00:00",
-   "summary": "AGORA Portable Flat Training Soccer Goal | Assembly Guide YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to Assembly Language Programming Tutorial in Urdu Hindi | best intro",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LSkloVjhhM2dxeVA0S3UwQnB1amd0SDN0eFdZU1BJTVl6MjJzUjB1eE1DN1dEd3dlZTlHblBPblh5RVlXQjJNeGdyNXhEWFZPeWVKM1RDR19uMkJwdXNrQUEtM3p3RDRsY2NPNXdUOWRaNlJnTVFhSy1UQ1Y?oc=5",
-   "date": "2017-10-04T10:51:55+00:00",
-   "summary": "Introduction to Assembly Language Programming Tutorial in Urdu Hindi | best intro YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "5-Step Assembly - How to Assemble a Huffy 12\" or 16\" Kids Bike with Training Wheels",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PUElhc0RTcXJiUFVfa19OajVpa2dRaWdFSW41VWRQb2RaSDVwVEthTGktMVR4VEhaT2xGSjdianBvRExGV2RueldNSHVKem1za2lJSWhB?oc=5",
-   "date": "2017-06-13T17:31:43+00:00",
-   "summary": "5-Step Assembly - How to Assemble a Huffy 12\" or 16\" Kids Bike with Training Wheels YouTube",
    "tech": "assembly",
    "sourceId": "yt",
    "source": "YouTube",

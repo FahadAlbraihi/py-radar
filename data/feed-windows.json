@@ -1,8 +1,62 @@
 {
- "generated": "2026-08-16T04:57:37.096194+00:00",
+ "generated": "2026-08-17T05:23:21.930378+00:00",
  "tech": "windows",
  "count": 220,
  "items": [
+  {
+   "title": "How to Build an Offline Windows App with HTML, CSS and JavaScript",
+   "url": "https://dev.to/emmawilson1234/how-to-build-an-offline-windows-app-with-html-css-and-javascript-dh0",
+   "date": "2026-08-16T18:32:53+00:00",
+   "summary": "If you already have an HTML, CSS, and JavaScript project, you can turn it into a Windows desktop...",
+   "points": 0,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PowerShell 5.1 eats the byte after Japanese text — but only if it is 0x40 or higher",
+   "url": "https://medium.com/@ilovewalking7/powershell-5-1-eats-the-byte-after-japanese-text-but-only-if-it-is-0x40-or-higher-ce753010250d?source=rss------powershell-5",
+   "date": "2026-08-16T12:49:26+00:00",
+   "summary": "I tested all 545 Japanese characters against all 95 ASCII characters. Here is exactly which ones disappear. Continue reading on Medium »",
+   "tech": "windows",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Built a Windows Security Suite That Doesn't Need Your Account",
+   "url": "https://dev.to/akhourianmolkumar/i-built-a-windows-security-suite-that-doesnt-need-your-account-2424",
+   "date": "2026-08-16T07:14:13+00:00",
+   "summary": "What if a security application didn't need your email?  No account.  No cloud dashboard.  No...",
+   "points": 9,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Hermes on Windows: Fixing the MSYS2 Phantom C:\\c\\ Path Bug",
+   "url": "https://dev.to/milkyway008/hermes-on-windows-fixing-the-msys2-phantom-cc-path-bug-8e2",
+   "date": "2026-08-15T17:07:17+00:00",
+   "summary": "Files going missing on your Windows box, and you're running Hermes (or anything else) through...",
+   "points": 0,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Exporting ANTHROPIC_BASE_URL does not reach the Claude Code panel in VSCode",
+   "url": "https://dev.to/vinhnguyenthanhdn/exporting-anthropicbaseurl-does-not-reach-the-claude-code-panel-in-vscode-49n9",
+   "date": "2026-08-15T16:56:49+00:00",
+   "summary": "export ANTHROPIC_BASE_URL=http://127.0.0.1:20128 in your shell routes the claude CLI to a local...",
+   "points": 0,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "From X/Twitter Bookmarks to a Searchable Static Site",
    "url": "https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd",
@@ -370,17 +424,6 @@
    "lang": "en"
   },
   {
-   "title": "Building a Multi‑Language Weather Report System Using PowerShell, GitHub Pages, and OpenWeatherMap API",
-   "url": "https://dev.to/kawaka/building-a-multi-language-weather-report-system-using-powershell-github-pages-and-openweathermap-4mjj",
-   "date": "2026-07-18T14:38:56+00:00",
-   "summary": "Introduction I built a fully automated weather reporting system called weather2, which updates every...",
-   "points": 0,
-   "tech": "windows",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "الـ CMD بيكتب عربي مشقلب؟ الحل النهائي لمشكلة الحروف المعكوسة في PowerShell",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xYVV1Z0tYUlRTTWVmVFYwV09kZERNeHRQSHJmZ2VpZm8wN3NzOFZkZ3RVZzZoTVp6YzFZbk55Q2VRWml2VHgxckVZci11Zk5OVmJPREVB?oc=5",
    "date": "2026-07-08T14:00:41+00:00",
@@ -501,6 +544,16 @@
    "lang": "en"
   },
   {
+   "title": "🚨 لتسريع ويندوز 11و10 احذف ميزات وأدوات وبرامج الذكاء الاصطناعي نهائيًا بكود واحد بس! 💻🔥",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FelZHZzhRR2Rvc1ZTVmxlMWdsWHdaYVNHQXNaN2dZM3p1azN5OVR4Tmk5NUQ1Q3lRNzBhNDJKdVFiaDRVWDE5NzRsLVZGX3dsa3drM0ZB?oc=5",
+   "date": "2026-02-24T11:00:16+00:00",
+   "summary": "🚨 لتسريع ويندوز 11و10 احذف ميزات وأدوات وبرامج الذكاء الاصطناعي نهائيًا بكود واحد بس! 💻🔥 YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Learn PowerShell!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iT2FoZGN5ZlkyN2x2Z3hDLW1hQWFwZ2ZCb1RQdWJlVUhRU05lNkpMNnJaajNsa2dWWFBTakRzMzluZkRTVWcxSTBzcEZnNUtKMUNlMWxR?oc=5",
    "date": "2026-02-20T19:23:03+00:00",
@@ -519,6 +572,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Why You Need to Learn PowerShell",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfTWhDVzFDdVFXUjRZdFRvTm1EREd3VDh2UEprenVuSFlfR082RTRTcWstOWpTdVZDeEtOejUwd1YxNXhKbDBNSHJQSjJvRnVOWjhUck93?oc=5",
+   "date": "2026-02-20T17:08:45+00:00",
+   "summary": "Why You Need to Learn PowerShell YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Advanced PowerShell Scripting Full Course (Part 2) - Learn Window PowerShell Scripting",
@@ -821,6 +884,16 @@
    "lang": "en"
   },
   {
+   "title": "PowerShell Command Line to Scripting | Course Introduction",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZ2N0U1hFc1BiV2dxcXJmWmRGSFBWUFY4NWxIRFB3MDhJdzNTUzBadGl3VGJCUGU5Wk43Y2tFWWFDV0xBNk40ZW1sQ2Fkb0w5U0tSaVRn?oc=5",
+   "date": "2025-07-17T14:31:01+00:00",
+   "summary": "PowerShell Command Line to Scripting | Course Introduction YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How to Disable PowerShell using Group Policy (GPO) | Block PowerShell for Security",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJa1BmTTFQWU9OQTRtXzFYMXVXSzd1RjM1Nk1hVy12WG51RWZ3dmdEMjhxdkV1QVNmMG84RUhYakNhbmxmMzJLUkZqWjEtckVOdHJ4SlFR?oc=5",
    "date": "2025-07-15T19:44:04+00:00",
@@ -919,6 +992,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "How to Filter Objects in PowerShell? | Using Where Object with Real Examples",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91aEZLRW00Wk5wb3FyV1NwOUM0TDZqLWJvU3hKSlJMclNHZktnWTl0RjJxV1JlVUhjdksyODQzTnBiSW1KUmo5aTFYVEJ4a0ZhWHhoa3ln?oc=5",
+   "date": "2025-04-18T07:00:00+00:00",
+   "summary": "How to Filter Objects in PowerShell? | Using Where Object with Real Examples YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Introduction to PowerShell | PowerShell Basics",
@@ -1211,6 +1294,36 @@
    "lang": "ar"
   },
   {
+   "title": "اسرع ويندوز وأخف ويندوز 11 و10 للأجهزة الضعيفة وغير المدعومة | التثبيت في 5 دقائق",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WTWhsMU5zVmpwNGtUUTY3SENXblF5QVFiRXJ2QjByTDBpX0VkRV91d05ZTTVzNG1zdFp1ZUtuQzZRZUczamNRZWVBR0hxLWpPeE9uZWVn?oc=5",
+   "date": "2024-10-01T09:00:17+00:00",
+   "summary": "اسرع ويندوز وأخف ويندوز 11 و10 للأجهزة الضعيفة وغير المدعومة | التثبيت في 5 دقائق YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "📂 إتقان إدارة الملفات (ويندوز 11): انقل، انسخ، والصق أي ملف كالمحترفين (من USB للحاسوب!)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LR2p5UmRCZnd6M2dwUF9tYUNjZm5QdVEwUVVKZndCdVZPN3FrZGRCckNrbFRIRXBuQW9JYjhiZzJhVUZuSEQwc2N1ajFYbnFudmNxSVlR?oc=5",
+   "date": "2024-09-29T23:02:56+00:00",
+   "summary": "📂 إتقان إدارة الملفات (ويندوز 11): انقل، انسخ، والصق أي ملف كالمحترفين (من USB للحاسوب!) YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Quick Guide to PnP PowerShell",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxWmRlN2FOWW5PcjcweVdUckRicG1qd05KcjRFZFVWU0F1c1pCaHZVYS02aW1nd0lTX2htUXM2QVNzNExuZDNlTWM1SGFXMHFNOEhzRkVn?oc=5",
+   "date": "2024-09-20T11:45:30+00:00",
+   "summary": "Quick Guide to PnP PowerShell YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "طريقة تحديث اداةPowerShell 7 4 5 win x64 من الاصدار5 4 الي 7 الاخير",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Y1VvZk5ZRmFSVURWdEx6YTRKcmxmUFZqbVF2Y1U0QWFWOWYzU0ppTlR6TllHRUhZTENxeGZ6TkhpVy1CSkVrODZ2bEVwMjRnQ0V5WlBB?oc=5",
    "date": "2024-09-02T15:00:07+00:00",
@@ -1275,6 +1388,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sVlNtY3FHV1pTLWhmWkxlM05rOGlaaFZpNU1qaGhPWk9IeWphQ1ZFbzNaR3BpNUJxNGJrcXJ4ZldSRFJYQlF0WlpwUW40UmpKV2NZX2hn?oc=5",
    "date": "2024-08-14T14:54:34+00:00",
    "summary": "28 خدمة داخل الويندوز يستهلكوا كتيييير من المعالج || اقفلهم حالآ YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "آداة مجانيه لا غني عنها لكل مستخدمي ويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NZ2w0c0tLNlNPeHYxSE9RaV9XTTdFWU1sQ05PODRVYkYxU3p3dnp5QS1sbmU4ZTdEQnRwckN4TDc3RmxXSEh4Skd5MGhpTTdxZzJwcDd3?oc=5",
+   "date": "2024-07-22T12:09:15+00:00",
+   "summary": "آداة مجانيه لا غني عنها لكل مستخدمي ويندوز YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1359,6 +1482,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "How Do i Get status From Multiple Server Using PowerShell | Advance Powershell Course |",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIajJwR0NhRmhpbmpOMFRmS3dmWVNpVnhHYmtyaGNtQUg0U3M0M2lnRjN0TVZfZmdkTVpRc25QNGU2WlItWUY1TE9SbVhhMUpXbnlhYVBR?oc=5",
+   "date": "2024-05-07T10:12:31+00:00",
+   "summary": "How Do i Get status From Multiple Server Using PowerShell | Advance Powershell Course | YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "تويك شامل للبي سي - ويندوز 10 و11 | لأفضل اداء (2025)",
@@ -1811,6 +1944,16 @@
    "lang": "ar"
   },
   {
+   "title": "Beginner-friendly tutorial on PowerShell remoting",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lbW1CeDBkc1ptYUVfY2ZZQXFhdThPc1NWZjN0RGRCVUVSbDhiQkhManc0a1BoWWNNdjZmeVpKc2k3YlhJTHhTRzAwM2o3X09SWjNwVjRB?oc=5",
+   "date": "2023-05-14T16:00:01+00:00",
+   "summary": "Beginner-friendly tutorial on PowerShell remoting YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "اشهر الـ Commands المستخدمة فى الـ Powershell | اساسيات Powershell",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aN3FfZGR0em4tN1VOb29aaVpwdU1NT185eklrTlBQWXNjRFdjVUhsLTVDcV9UZjUyTHg4ZkdvTzVmUDZzc3B3UzdzUzlDOGJhYUh6Tjl3?oc=5",
    "date": "2023-04-15T20:00:01+00:00",
@@ -1941,86 +2084,6 @@
    "lang": "en"
   },
   {
-   "title": "PowerShell Pro Tools Training Course",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10a1V1RVMtbHgxSTN1TmhjUk9qZlJDQTQ0UUVyVWZITWRlSkowdzVpdUVGZDIyWC13STdGakRlVlZBaXdmQVY4LU8wLXRiWjktZDU5Sk90WC1reVpMUEVpQ2RsWldVbzdnY2VQWUpURHBISVVwc1BoNWVacmQ?oc=5",
-   "date": "2022-10-03T12:09:46+00:00",
-   "summary": "PowerShell Pro Tools Training Course YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Universal Training - Automation - Triggers",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wWUQ1VS1oS2hlTkdkdVU3ellRSjQtT3dUOXJ5YVNQdmlsMXhQSGs0MXAxNER6aDFtMllNQ2Q5cE5fZlJMSE04c2hKVDdCNlU4QVdIT2JB?oc=5",
-   "date": "2022-10-03T01:39:16+00:00",
-   "summary": "PowerShell Universal Training - Automation - Triggers YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Universal Training - Platform - Secret Management",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3eHR0UC1IQnRrcmZKejg2YUg0dWdvZlppcmRGSTVUaF9Jakd0NHFtcGtmdV9UeGlWUW83bjFtZjdldUIzWlVwMGV0a1ViWURweUdRcUlB?oc=5",
-   "date": "2022-09-29T21:24:57+00:00",
-   "summary": "PowerShell Universal Training - Platform - Secret Management YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Universal Training - Getting Started - About this Course",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zLUxZaXhIczB1bmpFQ0x1UkxsOUV6eUlKcVRxeDhGODhtaGExWEtJNEFiblFrNVlpNjBfUkp1N1huQnNHQXpObmRsWTFfcnpCV1dhLTZ1QkpURmFJT0FjZzFkZms4X0ZFbEZhVWh5TzROeTlvNlpsUHNjVXk?oc=5",
-   "date": "2022-09-28T12:21:46+00:00",
-   "summary": "PowerShell Universal Training - Getting Started - About this Course YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Universal Training - Getting Started - What is PowerShell Universal?",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wM3VpTHYzWnlVeGdMWE55UHk5QS0yNUo5QmxnczZIMFVjYUpsZzRaSDdDa0NXUjVCTXNuZTctQi0zNXg5VDYxbV9fdjRRd0xpRVh2U0hn?oc=5",
-   "date": "2022-09-27T22:36:13+00:00",
-   "summary": "PowerShell Universal Training - Getting Started - What is PowerShell Universal? YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Universal Training - Configuration - Port and HTTPS Certificate",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQMDdnanlPZkNBbDNZcEQ3NlplU2ZMVlgxdTU0czJPT2dJMkpVZ3I5UHZ2WlRlQ2lSUFVhTlZtWUs5YWxCUEhiR1draGRHTzBieUtNcVZ3?oc=5",
-   "date": "2022-09-27T22:36:06+00:00",
-   "summary": "PowerShell Universal Training - Configuration - Port and HTTPS Certificate YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Universal Training - Automation - Scripts",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MUlVKVlE4cHRZWXdDbjEtUVc5QV9lR2pJaXhYMWhXRkJnT0Z3NktQZ09QdjJSbEZHOFZLX3hWRmxLZFhmTHVadHV5enZJSE9vSFZKbTlB?oc=5",
-   "date": "2022-09-27T22:35:46+00:00",
-   "summary": "PowerShell Universal Training - Automation - Scripts YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "PowerShell Universal Training - API - Basics",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkd3QyRkVfV3hGQTNzTkRMclJ2Y0V1VXZlNkxRSnpYaHJMSWFKRFJFVEhWZnJCekpTVnA5V3FiTFNQQ29XMGV4RXVJMktrZ0x0UzlwTnJR?oc=5",
-   "date": "2022-09-27T22:35:44+00:00",
-   "summary": "PowerShell Universal Training - API - Basics YouTube",
-   "tech": "windows",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "طرق فعاله لحل مشكلة ويندوز 10 و11 و 8 و 7 Side By Side Configuration Error",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96S0w5eFFOVEpEdE1kcGp6VW1VVkR5M3lUOVBfLVd6OHdKbzgwMV9mRFd3cTd3YXprYmtKWHdRVnhKZmdLRThPZjZMVDFDT3NvQ3hadGd3?oc=5",
    "date": "2022-08-08T21:07:41+00:00",
@@ -2131,6 +2194,16 @@
    "lang": "ar"
   },
   {
+   "title": "WINDOWS KEYBOARD SHORTCUTS - اهم اختصارات الويندوز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbVpHMDVHVHZvMGlYOEhsa0JkVE5nc05Icy05RW5jRkxtYmMwMlE5dTF5V05fckZHNTFyV2NRZ2YyS2E2MDhDYjRlT092MC1VRmF0bXRR?oc=5",
+   "date": "2021-06-10T19:38:01+00:00",
+   "summary": "WINDOWS KEYBOARD SHORTCUTS - اهم اختصارات الويندوز YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "10. Terminal | إنشاء مفاتيح SSH على نظام الويندوز Mac",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRGdZMGs5dkpqQVhkTDE3Tk0zdnVaNTRMeWhBVV9aLUQ4c09sRTJsNmFOYUd5MlZ0aWg0aE5tY0FNV0MyZ3h0MWpTR2tDTVhPdGg2b1JB?oc=5",
    "date": "2021-05-18T08:02:06+00:00",
@@ -2155,76 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUWlkUUtJS1liR0xrSlRTNkVFbDVWbmtTMW5rclM2LWthY1R0cmJyQVpTM0hLeXMwNDUzWjV3Zmgzbnc2dkM0SFJ2UGFyOUdDc21DVDF3?oc=5",
    "date": "2021-03-25T20:42:40+00:00",
    "summary": "تجربة عملية على PowerShell و CMD الجزء الأول YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "New Laptop Setup 🆕 Windows ضبط اعدادات كمبيوتر جديد أو بعد الفورمات 💻 10 🔧",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFaWZkWDhZWUZjRlMwQmt2Wjd4VlpBcWJiaDJOZU9fY25zYk9RY3ZDcXZsVGdHRDJLanR5UmQwNDd0aVpKX2RjUkw3RlBlV2RqRzdhNF9B?oc=5",
-   "date": "2021-02-23T14:11:14+00:00",
-   "summary": "New Laptop Setup 🆕 Windows ضبط اعدادات كمبيوتر جديد أو بعد الفورمات 💻 10 🔧 YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح تثبيت واستخدام برنامج Windows Terminal",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uYWNaRFN1Q1N1UmVpNFRhQmtKSXVPRlZzWUVVVUFINTY4TFNpS0t5T0dYSW10bXZmcVExOWhheTJpLUdpTkpZNDZTMGh0anQzWlhiMExB?oc=5",
-   "date": "2021-02-02T18:00:04+00:00",
-   "summary": "شرح تثبيت واستخدام برنامج Windows Terminal YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تنظيف وتسريع ويندوز 10,8,7عن طريق أوامر قائمة Run Windows 10 ,8,7 Run command",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MEY2dGR4WG5NeF91NWpYcWNCeG5oWWtkNXJqbGpwS1M1dFl1ZGZhcnRTdEtwNGp3UFRQb3JnYTY0b1l5QkN3eUJNMFZoMkdyVk1wQUNB?oc=5",
-   "date": "2021-01-24T17:06:21+00:00",
-   "summary": "تنظيف وتسريع ويندوز 10,8,7عن طريق أوامر قائمة Run Windows 10 ,8,7 Run command YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم ويندوز 10 - شريط المهام",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZkpPNnQtb3otcEJtb3NVVG9qQkpCd2JJZ2dkUTdrekNVUGFWcXFFQjJLSkQwbzRkWGt2VkFILUY3aHBZSWtac0dmb292M1duVjhkVFVR?oc=5",
-   "date": "2021-01-13T16:16:22+00:00",
-   "summary": "تعلم ويندوز 10 - شريط المهام YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "🔴اظهار باسورد Wi-Fi باستخدام | CMD",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZm5TSGFRRFRkVlBsY1F4b1NlajcxUkJJQ1hJQ0RyRkdkaEJvd1Nxa2NyTE1UNEtQWkI3Zkc1bndZU0lUUHBZZURJM1RxUkg4NXBSM1BR?oc=5",
-   "date": "2020-10-14T19:27:38+00:00",
-   "summary": "🔴اظهار باسورد Wi-Fi باستخدام | CMD YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الفرق بين اصدارات windows 10 و الفرق بين مفاتيح ترخيص الويندوز وما هو ويندوز الشعب !!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsdTBvUTY4dm1rR1JEcmlReEFCNmNXaUU0QUd0S0tteHVValZnRXU2ZjlveVFockVYSEV1MEU1V0F4OTJZZ2pyTy14Q0hIWkk0X0YyNlVB?oc=5",
-   "date": "2020-09-08T15:45:25+00:00",
-   "summary": "الفرق بين اصدارات windows 10 و الفرق بين مفاتيح ترخيص الويندوز وما هو ويندوز الشعب !! YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Windows Server 2019 | Microsoft دورة ويندوز سيرفر",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsQ1pocjVxZ25zd1hNaV9PbkpwZXh6R1Y3YVJ1WjRWdlBJRFY2RHVuNDlYZDlGUmMyRDRKd3gxRURmY0xEd0dZWEtLUl9jWVYzTmtDVDgxc2ZOektmMmFXcm1OTkkwcWs1dFU4WEhBNEUwQlNxQjVYTUJ3blo?oc=5",
-   "date": "2020-06-03T10:56:27+00:00",
-   "summary": "Windows Server 2019 | Microsoft دورة ويندوز سيرفر YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",

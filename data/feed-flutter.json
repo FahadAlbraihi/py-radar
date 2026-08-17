@@ -1,8 +1,153 @@
 {
- "generated": "2026-08-16T04:57:21.850444+00:00",
+ "generated": "2026-08-17T05:23:06.942758+00:00",
  "tech": "flutter",
  "count": 220,
  "items": [
+  {
+   "title": "Building an AI Assistant: flutter nodejs ai browser automation",
+   "url": "https://dev.to/umair24171/building-an-ai-assistant-flutter-nodejs-ai-browser-automation-533d",
+   "date": "2026-08-17T04:37:20+00:00",
+   "summary": "Built a personal AI assistant with flutter nodejs ai browser automation. Here's how I orchestrated LLM decisions with Playwright to cut busywork by 60%.",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "When NOT to Use Clean Architecture in Flutter",
+   "url": "https://medium.com/@savaliya.ravi.rs/when-not-to-use-clean-architecture-in-flutter-048dfc813c59?source=rss------flutter-5",
+   "date": "2026-08-17T04:36:01+00:00",
+   "summary": "Learn when Clean Architecture is overkill in Flutter, how to spot unnecessary complexity, and choose a simpler architecture that scales. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "React Native vs Flutter in 2026: New Architecture vs Impeller",
+   "url": "https://karthikponnam.medium.com/react-native-vs-flutter-in-2026-new-architecture-vs-impeller-a74b90d5e71e?source=rss------flutter-5",
+   "date": "2026-08-17T04:16:38+00:00",
+   "summary": "React Native changed the communication layer. Flutter changed the rendering pipeline. Let&#x2019;s see what that means for performance. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Is Dead in 2026? The Truth Behind the Hype, Myths, and Reality",
+   "url": "https://medium.com/@ak644448/flutter-is-dead-in-2026-the-truth-behind-the-hype-myths-and-reality-732fc1bccc15?source=rss------flutter-5",
+   "date": "2026-08-17T03:15:58+00:00",
+   "summary": "Every year someone declares Flutter &#x201C;dead.&#x201D; Every year it ships more releases, lands more enterprise wins, and picks up more downloads&#x2026; Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Layout & Constraints in Flutter",
+   "url": "https://medium.com/@aly.route/layout-constraints-in-flutter-a887e5bab348?source=rss------flutter-5",
+   "date": "2026-08-16T21:24:18+00:00",
+   "summary": "In Flutter, almost everything is a widget which categorize in:- Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Widget Previewer 的兩三事",
+   "url": "https://zonble.medium.com/flutter-widget-previewer-%E7%9A%84%E5%85%A9%E4%B8%89%E4%BA%8B-a775b518589b?source=rss------flutter-5",
+   "date": "2026-08-16T18:37:28+00:00",
+   "summary": "Flutter &#x5927;&#x6982;&#x662F;&#x5728; 3.35 &#x7248;&#x672C;&#x958B;&#x59CB;&#x5BE6;&#x9A57;&#x6027;&#x5F15;&#x5165; Widget Previewer&#xFF0C;&#x6700;&#x8FD1;&#x5728; 3.47 &#x7248;&#x672C;&#x4E2D;&#xFF0C;&#x5BA3;&#x5E03;&#x6210;&#x70BA;&#x",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)",
+   "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
+   "date": "2026-08-16T18:12:39+00:00",
+   "summary": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Offline-First Flutter: Syncing Local and Remote Data Reliably",
+   "url": "https://dev.to/bimal-py/offline-first-flutter-syncing-local-and-remote-data-reliably-4fdh",
+   "date": "2026-08-16T15:55:08+00:00",
+   "summary": "Build offline-first Flutter apps that work without a connection: local source of truth, an outbox sync queue, conflict resolution, and failure handling, with real Dart code.",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter CI/CD with GitHub Actions and Fastlane: A Real Pipeline",
+   "url": "https://dev.to/bimal-py/flutter-cicd-with-github-actions-and-fastlane-a-real-pipeline-4do4",
+   "date": "2026-08-16T15:55:02+00:00",
+   "summary": "Build a real Flutter CI/CD pipeline with GitHub Actions and Fastlane: PR checks, signed iOS/Android builds, and uploads to TestFlight and the Play Store on a tag.",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Clean Architecture in Flutter with BLoC: A Practical Guide",
+   "url": "https://dev.to/bimal-py/clean-architecture-in-flutter-with-bloc-a-practical-guide-npa",
+   "date": "2026-08-16T15:36:26+00:00",
+   "summary": "A practical guide to clean architecture in Flutter with BLoC: split your app into domain, data, and presentation layers with a real, testable feature example.",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Learning Flutter in 2026? Skip These 5 Mistakes Everyone Makes",
+   "url": "https://shindekalpesharun.medium.com/learning-flutter-in-2026-skip-these-5-mistakes-everyone-makes-b48636aa1ff2?source=rss------flutter-5",
+   "date": "2026-08-16T14:38:37+00:00",
+   "summary": "So you&#x2019;ve decided to learn Flutter in 2026. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Your App Might Not Launch This Fall — Flutter 3.47 and Dart 3.13",
+   "url": "https://yiichenhi.medium.com/your-app-might-not-launch-this-fall-flutter-3-47-and-dart-3-13-f5606671e772?source=rss------flutter-5",
+   "date": "2026-08-16T11:59:20+00:00",
+   "summary": "Material moves out of the SDK, iOS 27 forces UIScene, Impeller lands on desktop. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "DeepSeek Raises API Prices Up to 4.6x Today — Top 10 AI & Flutter News August 16, 2026",
+   "url": "https://blurbrahlab.medium.com/deepseek-raises-api-prices-up-to-4-6x-today-top-10-ai-flutter-news-august-16-2026-7acd369aebc4?source=rss------flutter-5",
+   "date": "2026-08-16T11:06:01+00:00",
+   "summary": "Claude / Anthropic Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Clean State Architecture for Flutter: A Practical Feature-First Structure",
+   "url": "https://medium.com/@jagadeeshchoudhary/clean-state-architecture-for-flutter-a-practical-feature-first-structure-1659b95c8298?source=rss------flutter-5",
+   "date": "2026-08-16T10:58:11+00:00",
+   "summary": "As a Flutter application grows, keeping the code organized becomes just as important as writing the code itself. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Mastering SOLID in Flutter: A Deep Dive Example",
    "url": "https://sagargaikwadsg07.medium.com/mastering-solid-in-flutter-a-deep-dive-example-03254fd4cf93?source=rss------flutter-5",
@@ -31,6 +176,17 @@
    "tech": "flutter",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
+   "url": "https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4",
+   "date": "2026-08-15T18:45:56+00:00",
+   "summary": "Why persistent domain state is the wrong place for transient dialogs and snackbars, how classic BLoC solved it with bloc_presentation, and how to handle one-shot side effects in BlocSignal with zero dependencies.",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -64,23 +220,58 @@
    "lang": "en"
   },
   {
-   "title": "Flutter in 2026: 10 Things I Would Learn If I Started Today",
-   "url": "https://medium.com/@yashnariya003248/flutter-in-2026-10-things-i-would-learn-if-i-started-today-3dd6de8ab2df?source=rss------flutter-5",
-   "date": "2026-08-15T11:01:07+00:00",
-   "summary": "If I were starting my Flutter journey again in 2026, I wouldn&#x2019;t spend all my time memorizing widgets. Continue reading on Medium »",
+   "title": "Flutter Desktop Input Design — Where Does the Enter Key Actually Go?",
+   "url": "https://dev.to/yuelinghuashu/flutter-desktop-input-design-where-does-the-enter-key-actually-go-1d0i",
+   "date": "2026-08-15T09:37:15+00:00",
+   "summary": "From \"pressing Enter does nothing\" to \"the numpad Enter still inserts a newline\" — all these desktop input field pitfalls trace back to the same root cause: the Focus Chain. A deep dive into LogicalKeyboardKey, Shift+Ent",
+   "points": 0,
    "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
-   "title": "Feature-Based Folder Structure vs Layer-Based Structure in Flutter",
-   "url": "https://medium.com/@savaliya.ravi.rs/feature-based-folder-structure-vs-layer-based-structure-in-flutter-81f9dca56db6?source=rss------flutter-5",
-   "date": "2026-08-14T14:46:01+00:00",
-   "summary": "Two popular ways to organize Flutter projects &#x2014; but which structure actually keeps your code clean as the application grows? Continue reading on Medium »",
+   "title": "What a Flutter app actually costs to build",
+   "url": "https://dev.to/shahryarahmad/what-a-flutter-app-actually-costs-to-build-11ai",
+   "date": "2026-08-15T05:30:58+00:00",
+   "summary": "Almost every page answering this question gives you a table: simple app $20,000 to $50,000, complex...",
+   "points": 0,
    "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Where redundant API calls come from in a production Flutter app",
+   "url": "https://dev.to/shahryarahmad/where-redundant-api-calls-come-from-in-a-production-flutter-app-a7e",
+   "date": "2026-08-15T05:27:52+00:00",
+   "summary": "On an app that already has users, cutting unnecessary network traffic by around forty per cent did...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Getting a Flutter app through App Review",
+   "url": "https://dev.to/shahryarahmad/getting-a-flutter-app-through-app-review-3did",
+   "date": "2026-08-15T05:17:02+00:00",
+   "summary": "Most App Review rejections are not surprises. They come from a small, stable set of guidelines, and...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AI Agent Product Testing: My Bot Found 3 Critical UX Flaws",
+   "url": "https://dev.to/umair24171/ai-agent-product-testing-my-bot-found-3-critical-ux-flaws-33gf",
+   "date": "2026-08-15T04:25:37+00:00",
+   "summary": "My custom AI agent, built with Node.js and Flutter using Gemini-Vision, exposed 3 critical UX flaws in my app, proving next-gen ai agent product testing is h...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -92,16 +283,6 @@
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Serializing 100,000 Objects in Flutter: Where 68% of Your CPU Time Actually Goes",
-   "url": "https://medium.com/@mdzarepour/serializing-100-000-objects-in-flutter-where-68-of-your-cpu-time-actually-goes-b6904cfd53d8?source=rss------flutter-5",
-   "date": "2026-08-14T13:18:34+00:00",
-   "summary": "The hidden cost of serializing large datasets in Dart and Flutter. Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -123,26 +304,6 @@
    "tech": "flutter",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter Unit Testing: Building Reliable Apps with Confidence",
-   "url": "https://medium.com/@smrakibulalam586/flutter-unit-testing-building-reliable-apps-with-confidence-9c83b1bee755?source=rss------flutter-5",
-   "date": "2026-08-14T10:20:15+00:00",
-   "summary": "Building a Flutter application is more than writing code that works. As an application grows, new features, dependencies, and business&#x2026; Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How I Shipped a Flutter App to Google Play in 30 Hours (9h Work) with Vibe Coding",
-   "url": "https://medium.com/@tori.showapp/how-i-shipped-a-flutter-app-to-google-play-in-30-hours-9h-work-with-vibe-coding-4be2595a60ce?source=rss------flutter-5",
-   "date": "2026-08-14T09:26:44+00:00",
-   "summary": "A real-world retrospective on building Mood Canvas using Antigravity, Devin, and GitHub Copilot. Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -333,83 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "Building a Production-Ready REST API Client with Dio in Flutter",
-   "url": "https://dev.to/vmodal_ai/building-a-production-ready-rest-api-client-with-dio-in-flutter-5b9b",
-   "date": "2026-08-11T18:27:04+00:00",
-   "summary": "Building a Production-Ready REST API Client with Dio in Flutter   Calling a REST API is...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Real-Time GPS Tracking with Flutter and WebSockets",
-   "url": "https://dev.to/vmodal_ai/real-time-gps-tracking-with-flutter-and-websockets-2hdf",
-   "date": "2026-08-11T18:26:36+00:00",
-   "summary": "Real-Time GPS Tracking with Flutter and WebSockets   Real-time location tracking is a core...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Seven Technical Checks Before You Hire a Flutter Team",
-   "url": "https://dev.to/fadieiev_a/seven-technical-checks-before-you-hire-a-flutter-team-55bo",
-   "date": "2026-08-11T15:16:51+00:00",
-   "summary": "Most \"how to pick a dev agency\" advice is unfalsifiable. Check their portfolio. Look at reviews. Make...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Everyone Complains About Flutter. Almost Nobody Fixes It.",
-   "url": "https://dev.to/pranta/everyone-complains-about-flutter-almost-nobody-fixes-it-3342",
-   "date": "2026-08-10T15:21:42+00:00",
-   "summary": "I have written a lot of posts complaining about Flutter.  \"I Love Flutter, But Sometimes It Feels...",
-   "points": 2,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Comparing Dart & Flutter package registries",
-   "url": "https://dev.to/another1dd/comparing-dart-flutter-package-registries-o3j",
-   "date": "2026-08-10T13:18:37+00:00",
-   "summary": "dart.dev's custom package repositories page lists six providers for hosting private Dart/Flutter...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dart User Input ?",
-   "url": "https://dev.to/m_rtuhin/dart-user-input--4bi1",
-   "date": "2026-08-09T15:00:32+00:00",
-   "summary": "💙 Dart Basics: Taking User Input  User input is an important part of programming. It allows a program...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Privacy Shield for Flutter Apps: Screenshots, App Switcher Protection, Biometrics, and Root Detection",
-   "url": "https://dev.to/ag1rin/building-a-privacy-shield-for-flutter-apps-screenshots-app-switcher-protection-biometrics-and-5gbh",
-   "date": "2026-08-09T12:11:08+00:00",
-   "summary": "When we talk about mobile app security, we often focus on authentication, APIs, encryption, and...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "هل فلاتر يستحق التعلم في 2026 ؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QOFhUZ1BJOU1HUUJCamxsS1lPLXBCdFFSOUMzNnVvVlpKb2t6XzlMSlZBeFM1cHBVZDU2ejZHRXRJZm5kdThrSEh1QkNaVVdxZ290cEN3?oc=5",
    "date": "2026-06-05T18:11:41+00:00",
@@ -524,6 +608,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OYV8xbndPdnFQS1NMMTd3NDU3MWxMMmZkWlFHMUxud3M2QVNsUVBXcDMyZXNkZlFsbkdqLU16UW5ROVFycDFWd3BEUVFuS1YxSmNnRUV3?oc=5",
    "date": "2025-07-28T08:30:16+00:00",
    "summary": "Flutter Full Course 2026 | Free Flutter App Development Course | Dart & Flutter Training | MindMajix YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Firebase Tutorial For Beginners | Firebase Auth, Firestore DB, Storage | Flutter Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Z215NGtkdGFiV2JGTGtmRnd1a2NNVXRDYjRuLWlYWTY0VXJEX1EzNnYteG45UWpZdXFsLWtra29SckRlbnFRSWJDZm5Oajl6bUFpWXNB?oc=5",
+   "date": "2025-07-26T07:00:06+00:00",
+   "summary": "Flutter Firebase Tutorial For Beginners | Firebase Auth, Firestore DB, Storage | Flutter Course YouTube",
    "tech": "flutter",
    "sourceId": "yt",
    "source": "YouTube",
@@ -788,6 +882,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZUhyUlZPajFaZkFLZW1rWVI1Nk5aM3NiOXYyMHhSVTdtQWlEQ29rSkVMemRkNnJEOXlDOVkzUEhHRU5XRXpBLTBsdHRaZUlLelROdmNn?oc=5",
+   "date": "2024-11-14T16:45:25+00:00",
+   "summary": "Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "25 - List ( Mastering Dart 2024 )",
@@ -1330,6 +1434,16 @@
    "lang": "en"
   },
   {
+   "title": "📱 FULL Flutter Beginner Course • Programming Basics / Widgets / Navigation / User Input / UI",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGT1A3WWFZc1pGb0ctdE92QkM4UGg1MXZJX3VPbjNaWWVBU1g5SHU1WTE5ZFNPdmtwd1FQWENUOUp3dGtXNGlvSTk5cENKY3UyUFpmN0RB?oc=5",
+   "date": "2023-09-17T12:47:36+00:00",
+   "summary": "📱 FULL Flutter Beginner Course • Programming Basics / Widgets / Navigation / User Input / UI YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Flutter Course for Shop App With State Management | Backend | Restful API | Part 2",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlcEdMNTh6cEF3QkxvWVV0RGk1NGxqLWRNZDlZOEFIYjZCNV9rVkU1dUQ3OEU3cmJDM081eEFZdjNsWXJGSzlmeW9rYkxSZkhkTHVYbU5R?oc=5",
    "date": "2023-08-22T06:43:54+00:00",
@@ -1680,6 +1794,16 @@
    "lang": "en"
   },
   {
+   "title": "How To Learn Flutter For Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pRXlyWkpNRERYMWNRdXppTHNKZ3NUekF2bFZhbmZXcHFCVE5xeGFTaXRIWFJoNkIxUDk1UW8zWnVsbG9Ed2YtaUtvZHJReld4R0gzN0hB?oc=5",
+   "date": "2022-10-01T23:14:30+00:00",
+   "summary": "How To Learn Flutter For Beginners YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "بناء تطبيق مبيعات كامل من الصفر بفلاتر Complete ECommerce app with flutter 3",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCR21HSUlGZWNlanJlODlJN3J2MzFvbUsyQkxrNUJMNVNqNXlEVkh5OExnczdNemIyZ3Z0M29jeHp3RURvdnQ2TVB1X0ZoTFNNd3hMYmhR?oc=5",
    "date": "2022-09-23T12:00:31+00:00",
@@ -1750,16 +1874,6 @@
    "lang": "en"
   },
   {
-   "title": "Flutter Firebase Master Class Tutorial Complete App | Backend Data Storage",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05TlU0cmNlQ3BCYnc4V0s1bGM1bkNjYVBXYjNPbkFjS3BKaVhiaDVuTGhfWGpCbkxrbHJsRGtsV1lQWXlmWnRQVlUtRFJCZU9Zbldrd3VR?oc=5",
-   "date": "2022-08-11T09:02:39+00:00",
-   "summary": "Flutter Firebase Master Class Tutorial Complete App | Backend Data Storage YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعلم لغة دارت من الصفر في فيديو واحد Learn Dart in Arabic | حسونة اكاديمي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xZFkxRUo2T0NaU190VUpuMXRDRGRtQWNZblE3elVLdC1qdFM3ZHpPcWNwenNNTlgtOFpwNUZNN0U4b3AxYWUwb3FCU2JvNi12QldwRThn?oc=5",
    "date": "2022-08-06T12:00:14+00:00",
@@ -1770,16 +1884,6 @@
    "lang": "ar"
   },
   {
-   "title": "What is Flutter? & How it is Better than it's Counterparts? - Cross Platform | Full Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12SHNOM2swRnRKemJ3TkFacWp2YVFNRkFqQU43UlNOY2I1NkQ2VUNfQzZrUnUzYkQ2LVR1NGUwVnJ3OUp3WXZfM2dvUXZBSHRMZjdrUWJR?oc=5",
-   "date": "2022-07-18T15:30:08+00:00",
-   "summary": "What is Flutter? & How it is Better than it's Counterparts? - Cross Platform | Full Tutorial YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "13 #flutter Dart OOP Class, Object, Constructor - فلاتر بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PbkF2N3c2b2xZTzBXUVBlaXpMTEtYY0xkZ0tSQXN4MlUxSENoWk1mc1IxRS03Mml0N0dVcG1IUklucjZFdG5FbmFCVkZWN1NjOUJHWC1B?oc=5",
    "date": "2022-07-15T03:34:03+00:00",
@@ -1788,36 +1892,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Flutter Tutorial For Beginners In 1 Hour",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iTC1yZUR3aVBTNVpwN2kzVXRCeGkwb0p1cUhMRENuSGd6cnZpNVlKVzFwaExOczlITi12c2hOblk4NENWMDlzMnRyS2NaT3d3bFUtclJB?oc=5",
-   "date": "2022-06-09T09:00:05+00:00",
-   "summary": "Flutter Tutorial For Beginners In 1 Hour YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "🔥Introduction To Flutter Free Course With Certificate | Flutter Tutorial | SkillUp | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JU2xKVXY4UU9NcEdSSVJYa0FmbHUxTWtneHo0bnRlMXFPbWlYWExOeVozS0k0ZExTS1NGT2NjcDJtdlNmeS00UUlOVWNrSW5NbkQtVHpB?oc=5",
-   "date": "2022-05-06T16:00:33+00:00",
-   "summary": "🔥Introduction To Flutter Free Course With Certificate | Flutter Tutorial | SkillUp | Simplilearn YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter Tutorial For Beginners in 3 Hours",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vbTRBaTZIT3Q4ZkFhbm9SU1BwV0R4cVF4RHBxMWxlbFdEbS00aENxWkJzZ2NFSHJuMjFOTjF4UzFiTlM0eWF0NjlycFlXTmNzdU9ldXFB?oc=5",
-   "date": "2022-04-07T09:00:11+00:00",
-   "summary": "Flutter Tutorial For Beginners in 3 Hours YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "Dart Programming Tutorial - 1: Print - تعلم لغة دارت بالعربي",
@@ -1840,36 +1914,6 @@
    "lang": "ar"
   },
   {
-   "title": "Flutter Network Tutorial for Beginners | Full Course in 2 hours",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5eVpmVW9JMkQyUkR1aHhtSFYxeVhGaDlKNmtnUVFBeDRMZjM0ZDY4bWx5Tm15SWRiZTV3NmZaU3VqVWlrQkZmZkVjMHpLcUZtcGFOc3dR?oc=5",
-   "date": "2022-02-28T00:00:00+00:00",
-   "summary": "Flutter Network Tutorial for Beginners | Full Course in 2 hours YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6T3NDWnI2cjlIRVhuNlJrb1hMT0VUb0dBRmpqa1lEUjFoRF9pckhUTDlPblF6TkFMTWdvb2JTVU9BRFprM3ZMR21OTmg5TExkbGRoYWRB?oc=5",
-   "date": "2022-02-24T13:52:39+00:00",
-   "summary": "Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter Web Development Course in Android Studio with Null Safety 2022 - Firebase Web App Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MbFFTQkFTMGVrcDJCYlB5eVlYeHBYOTJwbExyY3dEUE1sai1TaUlYWG5aYnlEQ3M0a3FJMVpzSVlrY3ItbnFLR0xpekh4NWp3LWxZcm1n?oc=5",
-   "date": "2022-02-22T07:48:05+00:00",
-   "summary": "Flutter Web Development Course in Android Studio with Null Safety 2022 - Firebase Web App Tutorial YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تطبيقات كاملة مع فلاتر - Full flutter apps",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GUFZfR2hIU1h0bmlnbWdpRENGYlRIY1QwNC02U09QRXJfbTdpN0t1NE5vaXowMGp2My13VWZGc0lXRVdxZ1pEWVJ4VWZKR0NfRjBTLW5LMmJwMXA5bG9yVElDZllCX2M1UFJqaS13a1BhUFVPa1NPVmlHZ3k?oc=5",
    "date": "2022-02-16T02:47:56+00:00",
@@ -1880,16 +1924,6 @@
    "lang": "ar"
   },
   {
-   "title": "Flutter complete course in Arabic - #1 Introduction",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rRXMzLS1hUnJRb3o1QlNFbjFFaTNJeFp2YkZqWlFGLTh0T05tWjZFY0QyOElIdnJHc2VvTTgtcVREZGo0bXhlQnA3MlJ2b2d4eUM4Yzl3?oc=5",
-   "date": "2022-02-12T21:21:21+00:00",
-   "summary": "Flutter complete course in Arabic - #1 Introduction YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "برمجة تطبيق مهام كامل مع البروفايدر : Todo app - Flutter & Provider",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLejNoSzR4Q1A3R24xaks2TV9DbU1hNXdjQmdVRGs1V3BHUTJ1T1VjbkNMZE9hV0RHamhPSVNTdVlIUWZCV21DM3RnVnZTMDk4OTA4NDZ3?oc=5",
    "date": "2022-02-08T17:18:03+00:00",
@@ -1898,36 +1932,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "1.5 - Organize Your Flutter Code - Flutter Fat Arrows - Flutter tutorial for beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qT2tOYU1MYURzdUNQdlY5ZWl6WVF6c1pQMjgxTWQxRUFLdDVUTGZiRUZ2NFlRMG5UUjMxVm03R05oTC1LU1M1RW10d3g0Q1FLSGdaQ2F3?oc=5",
-   "date": "2022-01-26T13:17:50+00:00",
-   "summary": "1.5 - Organize Your Flutter Code - Flutter Fat Arrows - Flutter tutorial for beginners YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter For React Native Developers Complete Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DWXBkZFBLR0J3MUU3OWdjUXUyTU5idDNTb3dxNm9Hc3d1ZE1uRXJaSVVicFROX25iU2pqUkpqY1lMRlFpM25JNFh2OUlJaFVoV1hYZkhn?oc=5",
-   "date": "2022-01-25T05:01:56+00:00",
-   "summary": "Flutter For React Native Developers Complete Course YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Free Flutter Course (Full Flutter Course for Beginners)",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BanVNT29fd0Zvam95amREeGhxbjZ3R1R6QzN3a1FfWmR0clJzb2xSTm80cTRwU3NPSHBHZFhzNHdqckhnZVkwTGNiX3BxNzh4cmhwdEpHTUlHTDVUWFBhSldZdTdKZFhGSWh1eVhMTGIzZm9rWm1DMENVMDA?oc=5",
-   "date": "2022-01-21T03:41:26+00:00",
-   "summary": "Free Flutter Course (Full Flutter Course for Beginners) YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "1 الفرق بين Dart و Flutter و قواعد البيانات",

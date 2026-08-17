@@ -1,13 +1,205 @@
 {
- "generated": "2026-08-16T04:56:22.979506+00:00",
+ "generated": "2026-08-17T05:22:09.361733+00:00",
  "tech": "php",
  "count": 220,
  "items": [
   {
+   "title": "Semantic Search Over Video Metadata With pgvector and OpenAI Embeddings",
+   "url": "https://dev.to/ahmet_gedik778845/semantic-search-over-video-metadata-with-pgvector-and-openai-embeddings-40ld",
+   "date": "2026-08-17T05:00:02+00:00",
+   "summary": "Adding semantic search to a 61k-video catalog without dropping SQLite FTS5: document construction ru",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Home Moving & Relocation Management Dashboard | PHP & MySQL",
+   "url": "https://dev.to/janrosedev/home-moving-relocation-management-dashboard-php-mysql-187d",
+   "date": "2026-08-17T04:49:52+00:00",
+   "summary": "Manage your home moving and relocation business with a modern Moving Service Management Dashboard...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AI Model Prices Just Crashed 80% — Here Is What That Actually Means for Your Laravel App’s AI…",
+   "url": "https://sadiqueali.medium.com/ai-model-prices-just-crashed-80-here-is-what-that-actually-means-for-your-laravel-apps-ai-daae8bc5b60c?source=rss------php-5",
+   "date": "2026-08-17T04:23:38+00:00",
+   "summary": "GPT-5.6 Luna at $0.20 per million tokens. Claude Opus 5 at half the previous price. DeepSeek V4 Flash at $0.14 per million tokens. The&#x2026; Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Dev Log: 2026-08-13 — machines that state their own identity, and four fakes that certified nothing",
+   "url": "https://dev.to/nasrulhazim/dev-log-2026-08-13-machines-that-state-their-own-identity-and-four-fakes-that-certified-nothing-2onn",
+   "date": "2026-08-17T02:31:05+00:00",
+   "summary": "Twenty-six commits across six repos, and the day had one accidental theme running through it: things...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Ask the machine what it is before you change it",
+   "url": "https://dev.to/nasrulhazim/ask-the-machine-what-it-is-before-you-change-it-54k6",
+   "date": "2026-08-17T02:30:34+00:00",
+   "summary": "I spent today on a control plane that provisions plain VMs over SSH — the kind of app where a wrong...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "DIA 0 -> Começando a documentar minha jornada DEV.",
+   "url": "https://dev.to/theusmpm/dia-0-comecando-a-documentar-minha-jornada-dev-2pe0",
+   "date": "2026-08-17T02:18:42+00:00",
+   "summary": "Olá! 👋  Meu nome é Matheus, sou estudante de Engenharia da Computação e estou começando a usar o...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "I built a Laravel package for LLM workflows with hard token and cost limits",
-   "url": "https://dev.to/para1992/i-built-a-laravel-package-for-llm-workflows-with-hard-token-and-cost-limits-1gb5",
-   "date": "2026-08-15T13:50:08+00:00",
-   "summary": "I'm working on a Laravel package for building reliable LLM workflows. One of the use cases is content...",
+   "url": "https://medium.com/@favorable_seashell_fly_869/i-built-a-laravel-package-for-llm-workflows-with-hard-token-and-cost-limits-254724496d32?source=rss------php-5",
+   "date": "2026-08-17T00:14:13+00:00",
+   "summary": "I&#x2019;m building Laravel Rick, a durable workflow runtime around Laravel AI. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here's the stack.",
+   "url": "https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf",
+   "date": "2026-08-17T00:04:53+00:00",
+   "summary": "I live on the Taghazout coast in Morocco - a strip of Atlantic between Agadir and Imsouane that's...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "10 Tricks for Troubleshooting a PHP App on AWS Before You Reboot Everything and Call It Science",
+   "url": "https://medium.com/@DaveLumAI/10-tricks-for-troubleshooting-a-php-app-on-aws-before-you-reboot-everything-and-call-it-science-879faa139bdb?source=rss------php-5",
+   "date": "2026-08-16T23:56:26+00:00",
+   "summary": "I am Dave LumAI, an AI persona who has never personally broken production, mostly because nobody sensible has given me root access. This&#x2026; Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Hardening a PHP Video Admin Panel with Signed Double-Submit CSRF Cookies",
+   "url": "https://dev.to/ahmet_gedik778845/hardening-a-php-video-admin-panel-with-signed-double-submit-csrf-cookies-4adb",
+   "date": "2026-08-16T22:00:01+00:00",
+   "summary": "How a CSRF guard that only ran on form-encoded bodies left our JSON admin endpoints wide open, and t",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ZCPE: PHP 8.4 Certification Practice Tests",
+   "url": "https://dev.to/walternascimentobarroso/zcpe-php-84-certification-practice-tests-40lo",
+   "date": "2026-08-16T20:36:18+00:00",
+   "summary": "I created a ZCPE PHP 8.4 Practice Tests course 🚀   Hey PHP developers! 👋  While studying PHP...",
+   "points": 1,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building TrustLog: A Simple Yet Effective Complaint Management System Using PHP & MySQL",
+   "url": "https://medium.com/@samarthscoe/building-trustlog-a-simple-yet-effective-complaint-management-system-using-php-mysql-1d7647f7ed31?source=rss------php-5",
+   "date": "2026-08-16T15:42:31+00:00",
+   "summary": "Every organization, whether it&#x2019;s a college, company, or public office, receives complaints that need to be tracked, managed, and resolved&#x2026; Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "WordPress Block Themes vs Classic Themes: Should You Switch in 2026?",
+   "url": "https://dev.to/muhammadmedhat/wordpress-block-themes-vs-classic-themes-should-you-switch-in-2026-2e1d",
+   "date": "2026-08-16T15:17:39+00:00",
+   "summary": "If you've been developing WordPress websites for several years, there's a good chance you've spent a...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why We Moved Video Metadata Primary Keys From Bigserial To UUID v7",
+   "url": "https://dev.to/ahmet_gedik778845/why-we-moved-video-metadata-primary-keys-from-bigserial-to-uuid-v7-1k91",
+   "date": "2026-08-16T14:00:01+00:00",
+   "summary": "How we replaced random UUID v4 primary keys with RFC 9562 UUID v7 across a 41M-row Postgres video me",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Live Reverse Auction on Symfony: Anti-Sniping, Redis and Mercure SSE",
+   "url": "https://medium.com/@aleksander_frolov/a-live-reverse-auction-on-symfony-anti-sniping-redis-and-mercure-sse-36dbcbeac5fe?source=rss------php-5",
+   "date": "2026-08-16T08:33:41+00:00",
+   "summary": "A live reverse auction looks simple: participants bid below the current price, the lowest bid wins. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel Request Lifecycle — Browser ကနေ Response ပြန်ရတဲ့အထိ",
+   "url": "https://medium.com/@codewall_edu/laravel-request-lifecycle-browser-%E1%80%80%E1%80%94%E1%80%B1-response-%E1%80%95%E1%80%BC%E1%80%94%E1%80%BA%E1%80%9B%E1%80%90%E1%80%B2%E1%80%B7%E1%80%A1%E1%80%91%E1%80%AD-aa5be632f1a7?source=rss------php-5",
+   "date": "2026-08-16T07:59:22+00:00",
+   "summary": "Laravel Project &#x1010;&#x1005;&#x103A;&#x1001;&#x102F;&#x1019;&#x103E;&#x102C; User &#x1000; Browser &#x1000;&#x1014;&#x1031; URL &#x1010;&#x1005;&#x103A;&#x1001;&#x102F; &#x101B;&#x102D;&#x102F;&#x1000;&#x103A;&#x1015;&#x103C;&#x102E;&#x",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Modern IT Helpdesk & Ticketing System Built with PHP Native & MySQL",
+   "url": "https://dev.to/janrosedev/modern-it-helpdesk-ticketing-system-built-with-php-native-mysql-504p",
+   "date": "2026-08-16T06:12:01+00:00",
+   "summary": "Are you looking for a clean, efficient, and modern way to manage IT support requests? Stop dealing...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Build a Complete Padel Court Booking System & Admin Dashboard",
+   "url": "https://dev.to/janrosedev/build-a-complete-padel-court-booking-system-admin-dashboard-4mg1",
+   "date": "2026-08-16T05:33:18+00:00",
+   "summary": "Want to build a professional Padel court booking website? In this video, we explore a complete Padel...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PHP FFI on Apple Silicon: your ioctl call is lying to you",
+   "url": "https://dev.to/croustibat44/php-ffi-on-apple-silicon-your-ioctl-call-is-lying-to-you-23kj",
+   "date": "2026-08-15T21:18:27+00:00",
+   "summary": "I spent an evening building pseudo-terminal support for PHP and lost an hour of it to a bug that...",
    "points": 0,
    "tech": "php",
    "sourceId": "devto",
@@ -236,33 +428,14 @@
    "lang": "en"
   },
   {
-   "title": "Zero-Config OpenTelemetry Tracing for Every Symfony 8 Service",
-   "url": "https://medium.com/@laurentmn/zero-config-opentelemetry-tracing-for-every-symfony-8-service-aa87aca85c5d?source=rss------php-5",
-   "date": "2026-08-14T08:12:58+00:00",
-   "summary": "&#x1F3AF; The Problem With Manual Tracing Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "5 New Laravel Packages You Should Try Right Now",
-   "url": "https://medium.com/codex/5-new-laravel-packages-you-should-try-right-now-726a2b143966?source=rss------php-5",
-   "date": "2026-08-14T07:22:39+00:00",
-   "summary": "Picture this: it&#x2019;s 11 PM, you&#x2019;re debugging a Laravel app, and the only clue you have is a generic error message that tells you nothing. Or&#x2026; Continue reading on CodeX »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Rate Limiting in Laravel and PHP — How to Stop Brute Force Before It Starts",
-   "url": "https://medium.com/@jnchiminyi/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-c74e41884f54?source=rss------php-5",
-   "date": "2026-08-14T07:01:03+00:00",
-   "summary": "Without rate limiting an automated attacker can send far more login attempts than your application should ever accept. Here is how to stop&#x2026; Continue reading on Medium »",
+   "url": "https://dev.to/kriosa/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-4241",
+   "date": "2026-08-14T07:00:00+00:00",
+   "summary": "ORIGINALLY PUBLISHED ON MEDIUM  This is the thirteenth article in a series on PHP and Laravel...",
+   "points": 0,
    "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -310,26 +483,6 @@
    "lang": "en"
   },
   {
-   "title": "Laravel Time Machine: The Request Lifecycle Profiler That Found My 3-Second Bug in One Click",
-   "url": "https://medium.com/@dixit99304/laravel-time-machine-the-request-lifecycle-profiler-that-found-my-3-second-bug-in-one-click-af4f3259f918?source=rss------php-5",
-   "date": "2026-08-13T21:44:44+00:00",
-   "summary": "How a zero-config Laravel performance profiler showed me exactly why a Livewire request was taking 3 seconds &#x2014; and how it compares to&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Why a match Query and a term Query Return Different Results in PHP",
-   "url": "https://medium.com/codex/why-a-match-query-and-a-term-query-return-different-results-in-php-d4c2e12f7251?source=rss------php-5",
-   "date": "2026-08-13T21:21:01+00:00",
-   "summary": "term looks for exact tokens in the index. match analyzes your query first. Same field, different results. Verified PHP walkthrough. Continue reading on CodeX »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "This Week In PHP Internals | August 12, 2026",
    "url": "https://dev.to/projektgopher/this-week-in-php-internals-august-12-2026-3ejb",
    "date": "2026-08-13T19:55:59+00:00",
@@ -348,137 +501,6 @@
    "tech": "php",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
-   "lang": "en"
-  },
-  {
-   "title": "Stop repeating your where() clauses in Laravel 🔁",
-   "url": "https://dev.to/devtalk94/stop-repeating-your-where-clauses-in-laravel-5169",
-   "date": "2026-08-13T13:06:14+00:00",
-   "summary": "If you've ever needed multiple aggregate queries (count, sum, avg) on the same filtered data, you've...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Video API SDK in Rust with reqwest and serde for Multi-Region Feeds",
-   "url": "https://dev.to/ahmet_gedik778845/building-a-video-api-sdk-in-rust-with-reqwest-and-serde-for-multi-region-feeds-4kjk",
-   "date": "2026-08-13T13:00:01+00:00",
-   "summary": "The PHP cron pulling trending video feeds for nine Asia-Pacific regions took 38 minutes. Here is the",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "We built an all-in-one WordPress image toolkit. Here's the architecture behind it",
-   "url": "https://dev.to/softminal/we-built-an-all-in-one-wordpress-image-toolkit-heres-the-architecture-behind-it-cl",
-   "date": "2026-08-13T11:03:01+00:00",
-   "summary": "We want to talk about why most WordPress image plugins exist as separate, single-purpose tools — and...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "PHP 8.4 Lazy Objects, Part 2: From Generated Proxies to Native Lazy Objects: How Symfony and…",
-   "url": "https://towardsdev.com/php-8-4-lazy-objects-part-2-from-generated-proxies-to-native-lazy-objects-how-symfony-and-144c255b6bf9?source=rss------php-5",
-   "date": "2026-08-13T10:54:02+00:00",
-   "summary": "Before PHP 8.4, frameworks had to generate proxies and ghosts in userland. Now PHP provides lazy objects at the engine level&#x2014;and Symfony&#x2026; Continue reading on Towards Dev »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Laravel Eloquent ORM (Object-Relational Mapper) Relationships",
-   "url": "https://dev.to/mohamed_fakhr_eldin/laravel-eloquent-orm-object-relational-mapper-relationships-2aea",
-   "date": "2026-08-13T10:21:05+00:00",
-   "summary": "One-to-One Relationship:  users id - integer name - string  phones id - integer user_id - integer  In...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Pest 5 Makes Agent Verification Feel Like a Real Testing Workflow",
-   "url": "https://dev.to/saqueib/pest-5-makes-agent-verification-feel-like-a-real-testing-workflow-830",
-   "date": "2026-08-13T05:23:40+00:00",
-   "summary": "If coding agents are touching your Laravel app, verification needs clearer boundaries. I wrote this to show what belongs in tests, static analysis, evals, and human review so the workflow stays fast without getting slopp",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🚀 Laravel 13.24 Added a Small Rule That Solves a Really Common API Headache",
-   "url": "https://dev.to/devtalk94/laravel-1324-added-a-small-rule-that-solves-a-really-common-api-headache-52e3",
-   "date": "2026-08-13T02:50:24+00:00",
-   "summary": "Ever had a client send extra, unexpected keys inside a filter or settings array? A typo, stale...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dev Log: 2026-08-11 — a tenant for every account, four frontend traps that never error, and the fourth comparison site",
-   "url": "https://dev.to/nasrulhazim/dev-log-2026-08-11-a-tenant-for-every-account-four-frontend-traps-that-never-error-and-the-3dp3",
-   "date": "2026-08-12T23:36:00+00:00",
-   "summary": "Thirty commits across three repos, and the day split cleanly into two halves: standing a control...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dev Log: 2026-08-12 — a 96s suite that became 42s, a capability that wasn't a scope, and four steps to a passkey",
-   "url": "https://dev.to/nasrulhazim/dev-log-2026-08-12-a-96s-suite-that-became-42s-a-capability-that-wasnt-a-scope-and-four-steps-c0a",
-   "date": "2026-08-12T23:35:24+00:00",
-   "summary": "Fifteen commits, three repos, and the bulk of it in one: a control plane that got an MCP surface, a...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Not Found is the wrong answer to a permission problem",
-   "url": "https://dev.to/nasrulhazim/not-found-is-the-wrong-answer-to-a-permission-problem-25cm",
-   "date": "2026-08-12T23:35:04+00:00",
-   "summary": "I spent today putting an MCP surface on a multi-tenant Laravel control plane — the kind of app where...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to migrate Laravel 13 + Next.js to Zero-Downtime VPS Releases",
-   "url": "https://dev.to/dineshstack/how-to-migrate-laravel-13-nextjs-to-zero-downtime-vps-releases-17i3",
-   "date": "2026-08-12T08:12:06+00:00",
-   "summary": "Part 9 of the CI/CD for Laravel Developers series. Migrate Laravel 13 + Next.js to zero-downtime VPS...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI review can help with Laravel upgrades, but it should not make the decisions",
-   "url": "https://dev.to/saqueib/ai-review-can-help-with-laravel-upgrades-but-it-should-not-make-the-decisions-4lcf",
-   "date": "2026-08-12T04:53:13+00:00",
-   "summary": "I use AI as a second pass during Laravel upgrades, but not as a substitute for upgrade notes, tests, or architectural judgment. This post covers what it catches, what it misses, and how that changed my process.",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -1042,6 +1064,16 @@
    "lang": "en"
   },
   {
+   "title": "PHP Tutorial for Beginners - PHP Crash Course (2025)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzc1hkYTVXV2NQc1VMcDZsbHNnUk5RN2tpaVVvMVhFYnJ6MDdQSUlPVHNhSndSbTM0MTBzM1FHOHNFdnVxVWVIZkpNNFZVdzZOZkMwOHhB?oc=5",
+   "date": "2025-03-10T13:01:18+00:00",
+   "summary": "PHP Tutorial for Beginners - PHP Crash Course (2025) YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "948 - إستكمال اضافة الخدمات الرئيسية للنظام-مشروع عيادات لارافيل php laravel #laravel_development",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xQUNPcWl5SVA5WHI2VkU2SmlzaVNEVHg3SzFxeFNITU9KTnRYeWEzaWlqMGQySUM4c0l3X01Ob3htZXBrc05WSVN6MHlBQ0h4SXkxVi1R?oc=5",
    "date": "2025-02-20T08:00:00+00:00",
@@ -1196,6 +1228,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIc2s0SnNlY2ZWR0ZwbllNNUppUHJpUE5PY3I4UzA1d2F4ZWpwQlZNM1J1Ry13QlVKaEpXUWIyRGV3SklRbXNyVFU1dVJJYTFDZzRTNE9R?oc=5",
    "date": "2024-10-17T09:00:09+00:00",
    "summary": "Complete PHP & MySQL Project Tutorial from Scratch Blog App using HTML CSS JavaScript PHP & MySQL YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "PHP Crash Course For Beginners in 3 Hours | Learn PHP Tutorial with Practical (2026)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GYmE2bWZDeW5LVDJZZDZ3YnpMLTlaNk5WWGRncVZrck92Q2tId2ZLUXV4MmxLTVBXaW1OcVN1bmpTUDJWVlhaWkxvSjF1amEyZjd6ZWJR?oc=5",
+   "date": "2024-10-14T13:37:57+00:00",
+   "summary": "PHP Crash Course For Beginners in 3 Hours | Learn PHP Tutorial with Practical (2026) YouTube",
    "tech": "php",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1672,6 +1714,16 @@
    "lang": "ar"
   },
   {
+   "title": "PHP 8 Crash Course for Beginners - Learn PHP 8 in 1 Hour",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMm55a2FQeXBzRVdOWGJVdldCcXNUSUYwY3RyYk9qdFZGOHNfSllOcVpuYkd1dERNVkRHY2VnVkZKZ1dlV0ZLbmEtTU9pbnN5TVQ1RU53?oc=5",
+   "date": "2023-02-01T12:00:37+00:00",
+   "summary": "PHP 8 Crash Course for Beginners - Learn PHP 8 in 1 Hour YouTube",
+   "tech": "php",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "1- Laravel darija (شرح بالدارجة)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jeVloWTZOU25jTS04ZmNlS0ZjUjRKek5iZG5wcXRaejRfdVpGSzNJQ3ZiaE5EMkxzdnJ6RGNIVTBCNldyRkZMcGNtellyaERyWWtkd3d3?oc=5",
    "date": "2023-01-23T14:00:09+00:00",
@@ -1982,16 +2034,6 @@
    "lang": "ar"
   },
   {
-   "title": "Complete PHP beginner tutorial with practical project | source code included | Quick programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6dWJsbnZrcFlGUngteW5jaUc0aDVRaEJFMnNvbDJyUDNid1JnWWpKWmxrcjMyUTdoaURWOGVlTkFoQ0RYa1p1MGlHZTRaVzVQYThNN3hn?oc=5",
-   "date": "2022-06-05T14:00:00+00:00",
-   "summary": "Complete PHP beginner tutorial with practical project | source code included | Quick programming YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كورس تعلم laravel api في ساعتين (خد الزبدة وكمل عليها) Full course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzNnFXcU5jZXFrUno2cTQ1N3ctZWhmRXF2XzVxY0hZUUZfamdtaHpuOV9pS3RiN2RXTUNYVmQ1MjNiUGZGdFozYnBHWE43Z1pWWmRiUVpR?oc=5",
    "date": "2022-06-05T00:22:13+00:00",
@@ -2012,16 +2054,6 @@
    "lang": "ar"
   },
   {
-   "title": "#1 laravel 9 introduction to the course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KTUJHSjRqSjlseFduSE9XQXVaSjJpRkI2ODYxM2YzTTRqU0VPUzRQa0h5azRJSEMzWUFKZUN2YnNwbGpjQzZRSENGRThyUWFCOXQzcFpB?oc=5",
-   "date": "2022-05-28T19:07:44+00:00",
-   "summary": "#1 laravel 9 introduction to the course YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Docker Practical Course in Arabic | #18 - Docker with Laravel | بالعربي docker شرح",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lUU02b2NaRkdGa1huQWlhMzVLSUtvajkxMngtbmtuVjRzV01td3lEZ2NkWHRRRTh6NmNjR1lDQ1lkdTJacFJkZnVOblM0Y1ltSWdRVGNn?oc=5",
    "date": "2022-05-27T06:02:09+00:00",
@@ -2030,36 +2062,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Learn Object Oriented PHP - 3 Hour PHP OOP Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56YVJlS282ZlpaUTR2YWRiR2gtR2tKeWVhVDJSdnFtQW9yZEpiVWpQczMzQTR4T3dJUzVid2E0NHRQSzJzQ2UwVl8tV2NmMmdYZ2lkYkZ3?oc=5",
-   "date": "2022-05-23T06:00:21+00:00",
-   "summary": "Learn Object Oriented PHP - 3 Hour PHP OOP Course YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "1 - App with Laravel API and React JS",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UVRCdWNQUzloT29ZalBLMWpQbXBuTnBOYUlBQUdBNDEwaXFlWndvMWpfZGpFRF9faEo2X1JKZGNmdEVSek5tb0Fzd2U4RU02dUkyVlVB?oc=5",
-   "date": "2022-05-16T01:21:51+00:00",
-   "summary": "1 - App with Laravel API and React JS YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "4 - Laravel | Payment -credit card, visa, mastercard",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91eFp5RFlsM2szYWwzcjA3VmJCMUhaYmItNUVVaVRMa1ZTYlc4bjJzSC0yRVZndEZITk81Zi0tRUFJajk4M3YxYXplMl9YX0pLLXZ3SE9R?oc=5",
-   "date": "2022-05-14T23:59:58+00:00",
-   "summary": "4 - Laravel | Payment -credit card, visa, mastercard YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "Repository Pattern in PHP Laravel شرح مع مثال",
@@ -2116,6 +2118,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vb01LZ1VqLTZraXZ1V0JEX3dNQWtZNDd5V29tUEJ6YnMzU19nOWY5cENRV2YwYzg2ZlVnMUVrZzVJWVJ6TWVJaHhITk1zNW1QcjMtbUpB?oc=5",
    "date": "2022-04-18T19:28:17+00:00",
    "summary": "تصميم وتطوير متجر اونلاين لبيع المنتجات الدرس #5 تعديل المنتجات html css php sql YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مقدمة عن لغة PHP 8 إزاى تربط بين HTML و PHP و اساسيات اللغة #1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fRTJZMEE1YnVPRHZ5QjZlLU53SHFEMm94eFFQU0F6d0ZUSWhkcUhCSDB3eTJla2c0RUtqX1RrOVl2eE9NaXZobDcwZ09Pa3owVmpvN1hn?oc=5",
+   "date": "2022-04-14T18:17:23+00:00",
+   "summary": "مقدمة عن لغة PHP 8 إزاى تربط بين HTML و PHP و اساسيات اللغة #1 YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2216,16 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FbnZWOU5oV0ZQWVdBSUx1RXdpY250c2Y2dkFVOEF2dHEwQW9OT05TTXY4WFlTWHZZdTZ4NzdGbGp3ZWNrZ3NqTFVFQkFMWk02TnlNZTJB?oc=5",
    "date": "2021-11-18T00:20:16+00:00",
    "summary": "learning html php css مشروع برمجة موقع الكتروني من الصفر الجزء الاول form,insert,connect,table,pdo YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس تعلم اساسيات لغة البرمجة PHP 💯 البرمجة في الجزائر",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3elJPVmstVlZKV2xJdk1lYzE0cWlNaXVpbmg0bmF4Z3JiTkhhdFpKbUIzNEVEb2NPWUNtal9nUk1YcjU4RE5yc2pMVmR4Q09RVHRUMExn?oc=5",
-   "date": "2021-08-30T11:04:10+00:00",
-   "summary": "كورس تعلم اساسيات لغة البرمجة PHP 💯 البرمجة في الجزائر YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",

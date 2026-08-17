@@ -1,8 +1,63 @@
 {
- "generated": "2026-08-16T05:01:27.493070+00:00",
+ "generated": "2026-08-17T05:27:07.076424+00:00",
  "tech": "vb",
- "count": 200,
+ "count": 202,
  "items": [
+  {
+   "title": "C# ExceptionDispatchInfo Class",
+   "url": "https://dev.to/karenpayneoregon/c-exceptiondispatchinfo-class-1je2",
+   "date": "2026-08-16T17:57:12+00:00",
+   "summary": "Introduction   Learn about the ExceptionDispatchInfo object, which stores the stack trace...",
+   "points": 1,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies",
+   "url": "https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73",
+   "date": "2026-08-16T17:15:09+00:00",
+   "summary": "When a test process dies, a red CI job is not enough. I need to know what completed and what was...",
+   "points": 5,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "This week in Cursor + .NET — 7 rules (week ending August 16, 2026)",
+   "url": "https://dev.to/agentic_architect/this-week-in-cursor-net-7-rules-week-ending-august-16-2026-988",
+   "date": "2026-08-16T10:40:29+00:00",
+   "summary": "A weekly digest from the Agentic Architect persistence kit: 7 senior C#/.NET rules for engineers keeping Cursor honest across sessions.",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "When a Blazor Component Quietly Becomes HTML",
+   "url": "https://dev.to/iqtechsolutions/when-a-blazor-component-quietly-becomes-html-2f2m",
+   "date": "2026-08-16T09:02:29+00:00",
+   "summary": "A green build usually gives us useful confidence: the types line up, required references exist, and...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Domain-Driven Design: Modeling Software Around the Business",
+   "url": "https://dev.to/rhuturaj_takle/domain-driven-design-modeling-software-around-the-business-1h3",
+   "date": "2026-08-16T08:06:02+00:00",
+   "summary": "Domain-Driven Design: Modeling Software Around the Business   A practical guide to...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "ContextMemory v0.1.0-beta: what shipped",
    "url": "https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl",
@@ -379,17 +434,6 @@
    "lang": "en"
   },
   {
-   "title": "My Free .NET Resource File Management Tool: Shen Resources Tool",
-   "url": "https://dev.to/iccb1013/my-free-net-resource-file-management-tool-shen-resources-tool-2m9l",
-   "date": "2025-03-18T15:35:55+00:00",
-   "summary": "This is a tool I developed to assist in the development of multilingual user interfaces for .NET...",
-   "points": 1,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "برومو 1 كورس برنامج ادارة المستشفيات و العيادات سي شارب - فيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nanRucjZ1QzRhYUxzaUxpWG9LVTBiWHpCbWVINjhiR3FFTmtCMEhZTUJFX1JHS3EzVlZwcmd5SlluN2hRN3BuMC0tSnQ5UmVYbHd4M2ln?oc=5",
    "date": "2025-03-04T20:08:07+00:00",
@@ -418,28 +462,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Asp .Net: Create a Simple 'Web User Control'",
-   "url": "https://dev.to/vblover_programmer/asp-net-create-a-simple-web-user-control-122",
-   "date": "2024-12-11T15:28:46+00:00",
-   "summary": "Web User Control:    &lt;%@ Control Language=\"vb\" AutoEventWireup=\"false\"...",
-   "points": 1,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "VB .Net: Secure Password",
-   "url": "https://dev.to/vblover_programmer/vb-net-secure-password-3lpp",
-   "date": "2024-12-09T02:22:57+00:00",
-   "summary": "SecurePassword Class:    Imports System.Text Imports System.Security.Cryptography Public Class...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "\"الدرس الخامس: القوائم في فيجوال بيسك - احتراف تصميم واجهات المستخدم! 🖱️📋\"",
@@ -476,6 +498,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rcXNfWDltZmVrNjRDVlRZNlRkWE1PMGFOczVLTXJTYTdpU1RPeTZ1Z2g0dzJidkJEenNGdUo4WFhhNEFrelpJMEhDUE02WEd2eHBXUWpB?oc=5",
    "date": "2024-10-31T02:46:47+00:00",
    "summary": "Learning Do While Loop in VB.NET - Visual Basic .NET Tutorial YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Adding Comments In VB.NET | Visual Basic Tutorial- Comments And Whitespace",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DMjJZamo2dlJWZDdsUTZUUHkzMUtIX1k3RUw4Q2ptdGpuZEdaS2J3ME9nOHpWNi1iMUd3eTBycFEzV0xMYnBLS3ZUeUc3VnVsT1I5WGNn?oc=5",
+   "date": "2024-10-06T04:45:00+00:00",
+   "summary": "Adding Comments In VB.NET | Visual Basic Tutorial- Comments And Whitespace YouTube",
    "tech": "vb",
    "sourceId": "yt",
    "source": "YouTube",
@@ -530,17 +562,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Evaluating VB.NET to C# converters",
-   "url": "https://dev.to/jesperhoy/evaluating-vbnet-to-c-converters-391n",
-   "date": "2024-01-02T11:03:00+00:00",
-   "summary": "I am converting several projects from VB.NET to C#. In preparation for this, I tested 4 different...",
-   "points": 7,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "29- جمل التفرع if الشرطية /دورة تعليم الفيجوال بيسك # / Visual Basicdotnet course",
@@ -893,6 +914,16 @@
    "lang": "ar"
   },
   {
+   "title": "Visual Basic Full Course for Beginners | Visual Basic Tutorial 2022",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9scGlEUHhIbkJOU3NvT00yVnViMG9HUW42VUJ0OHlSTFJPVUxieENOWEJ2aTZfc3dURWFMT2tHVjg1WmJpUGl1M1J4SU1sUFpzSE9DazNTaS1ORXdOSWRQV2FZR3c1bzZQS1VnWU9iQ2JTMXpERlVxZlU2Nlk?oc=5",
+   "date": "2022-02-27T15:23:37+00:00",
+   "summary": "Visual Basic Full Course for Beginners | Visual Basic Tutorial 2022 YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "#1 Visual Basic 6.0 بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzVlZSeUZWa3NOaEdfSlY0cE1jYkdBYUY4RS1UTUEwTkljOUpMRWNwU19xanB4a2NnSk1fQUJxQjZ0VFNLeEhxSE8xZUxNS2N2aWJHR2Fn?oc=5",
    "date": "2022-01-27T14:24:15+00:00",
@@ -1013,6 +1044,16 @@
    "lang": "ar"
   },
   {
+   "title": "VB.NET Programming. Intermediate Lesson 1. Event Handling",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85V3lRcFJIbXY3NW9ZQTVMcVVYOVRFa3RuUnFtTWZPRUN4S3h5eThGY0VUcE9Pbm5uNmVoZXdPaEN2UzQwREdRaVBTLWdyN0NYMDBSSDlB?oc=5",
+   "date": "2021-03-28T17:48:17+00:00",
+   "summary": "VB.NET Programming. Intermediate Lesson 1. Event Handling YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "كورس الفيجوال بيسك دوت نت 2019 | Tool box in vb.net 2019 الدرس 6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QWFV6ZE5wejY2eVM2WFNWYWdQMXZuS0tPWW1rOWVwalVtUnlFdW5BQUFidW5KbTN6OXRvbUhLRmdxWTBhdklkNFREbGlONXI4TTAtZVNn?oc=5",
    "date": "2021-03-11T21:50:08+00:00",
@@ -1081,6 +1122,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Visual Basic.NET Programming. Beginner Lesson 1. Hello Visual Studio",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1paU4xZmVlME16S0RhYXBjVUpTNVc2eGl0bFlHRW1Nbm5KaDk3UE9adFFtTXgtRXZEeWFTeC1tUnlwTG1nSW5wNDg0UXRSMEQySmRRWlhn?oc=5",
+   "date": "2020-12-06T07:49:35+00:00",
+   "summary": "Visual Basic.NET Programming. Beginner Lesson 1. Hello Visual Studio YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "البرمجة بلغة (فيجوال بيسك ستوديو ) - حاسب 1 مقررات",
@@ -1343,17 +1394,6 @@
    "lang": "ar"
   },
   {
-   "title": "XojoTalk 032 – Copy, Paste, Search and Replace",
-   "url": "https://dev.to/lefebvre/xojotalk-032--copy-paste-search-and-replace-34c",
-   "date": "2017-06-14T10:07:00+00:00",
-   "summary": "Paul talks with Terry Eutsler, of Softbase Development, Inc, about how he migrated a large enterprise...",
-   "points": 6,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "طريقة عمل برنامج الة حاسبة بالفيجوال بيسك6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yLVB2NGgxTHBjaWFnOFNxTGJRLVRRUkQxY3d0WUROV09hTXh0SFNCUFJSQjFhcHRPSDc1SW1pMTVqLUpLQlprQS1UU0ZaZ2RYLVg5ZDdR?oc=5",
    "date": "2017-06-05T16:13:59+00:00",
@@ -1388,6 +1428,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KdlZqZnZOQTBfU2NRN2NEajBQbVpPeElIMGZ2aDZhYUpWQnFTcDU0aGVveXpWWFYyaUtQVF9ham1FaW9CT3c1MVdNUXJ6SnREX3QwU1B3?oc=5",
    "date": "2017-02-05T19:28:43+00:00",
    "summary": "فيجوال بيسك - 4 : شرح أدوات ToolBox - الجزء الأول : vb.net YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "فيجوال بيسك -1 : شرح خصائص الفورم - vb.net : Form Properties",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QRDNhdmpqeEh6VU5xVEhjM21oRml2S0VQY1VlNWNVU05tcFJOTUtiNDFoLVpvRnZFb2J4dFhnNjNyejdMNmxzdDZfc2tDZUQxeDl1YTFR?oc=5",
+   "date": "2017-01-25T17:25:16+00:00",
+   "summary": "فيجوال بيسك -1 : شرح خصائص الفورم - vb.net : Form Properties YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1528,6 +1578,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42N1UtdjY2WUpxTldFX3IxRFZBMGZYT0owd0hnT2g1NV9wd2VfNXdCTnpLMmhzM2NRNXlPVWFuOEM0eUlRVENBa2RkWjdTdGljTVV4aGVn?oc=5",
    "date": "2015-06-14T19:16:47+00:00",
    "summary": "Visual Basic .NET Tutorial 12 - How to create Password Protection using Textbox in VB.Net YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Visual Basic Tutorial - Object Oriented Programming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XbjVYM0NaX19ZaHNnNHRVaVVGV2FzWGN4bzJMcm1Pb252Q0I0RXZnM2JhRFNnX05MbGhvMXN0MkdxMW5vSVpJcTBRZ2w3NFNpaHd4Sm5n?oc=5",
+   "date": "2015-02-02T18:08:44+00:00",
+   "summary": "Visual Basic Tutorial - Object Oriented Programming YouTube",
    "tech": "vb",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1764,6 +1824,16 @@
    "lang": "ar"
   },
   {
+   "title": "دورة تعليم فيجوال بيسك 2008 visual basic.net من الصفر للاحتراف المحاضرة رقم 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HNEdMTW4yZlhZYmVOTVU0Z2JXamdBUERZMEczeXlMTDR4WHVFaFhlNE5FNDREU21FUXRjdnljcE1GT0FKSWZzeDRENzJ6QUdXcVhwa2d3?oc=5",
+   "date": "2013-10-06T15:15:09+00:00",
+   "summary": "دورة تعليم فيجوال بيسك 2008 visual basic.net من الصفر للاحتراف المحاضرة رقم 1 YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "03شرح فيجوال بيسك 6 الحفظ والتعديل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aeEF4NmxHWFRCU0hDdzQxV1lIeG40ODNNRl9lWDluaGtpVktZOWYyZGc2d0xyLUN3LWtEQTRrdlN6QmYtMkg1bmtzdlgzUWptTlFGMjN3?oc=5",
    "date": "2013-07-24T17:27:36+00:00",
@@ -1884,6 +1954,16 @@
    "lang": "en"
   },
   {
+   "title": "Visual Basic Tutorial - 126 - More On FileStreams",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbzBmeWZMOWRtb3g4d3RHUzFGa2FlNTluQ1oxY1k4cjUwYm5yUG9kNm1ldnVKZ1lfZVAyWXVabEJtUjFWM29KMDJrU0hjUHQ5RFZ2a3pB?oc=5",
+   "date": "2011-06-05T14:39:46+00:00",
+   "summary": "Visual Basic Tutorial - 126 - More On FileStreams YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Visual Basic Tutorial - 106 - Car Part 1 Creating The Car Class",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TRzNPVlI2OEFrU2xfVnE5OV9ibV9IbWhud29LS0Q1Z3Mwc1U3a0pWZjF6OGhjVGNYUGdfYkpyVldOTkluM25JWmtUNk55Q1FETGxTLWZn?oc=5",
    "date": "2011-06-05T14:21:09+00:00",
@@ -1968,66 +2048,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mdWlWbGlYMzhiNXlxR01BWm53TXVQYXNWeGYtSUhfRjRCbG5YTF9GelVrRVVabkNKRDVDeTBIQjRaU1ZPUHF5bHAwYVZOUlNydjdYRnh3?oc=5",
    "date": "2011-06-05T03:25:45+00:00",
    "summary": "Visual Basic Tutorial - 42 - User Defined Subs YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 36 - Introduction To Windows Forms",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPMzVMeEV4XzdoeXBUc0VBZmZsUE8xcjVZOG9vcjUxZ214T2hHSnhfTVdLc242b0hlS1oxelZnRmM2NmlwMU82OUFHejlGX29QcU9MUkdB?oc=5",
-   "date": "2011-06-04T19:22:06+00:00",
-   "summary": "Visual Basic Tutorial - 36 - Introduction To Windows Forms YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 29 - Continue For",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBobTU3ZXFFZGZUZFZybUgtUEhyNXpLWHhVYVRsNThONDduYWRYWjhXeFdyUDE2N3ROUTNqSU5EVllyZEx1UDVlbmlkRG8wN0FzaXpJOHJn?oc=5",
-   "date": "2011-06-04T19:15:07+00:00",
-   "summary": "Visual Basic Tutorial - 29 - Continue For YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 26 - For Next Loop",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SbUdMck1LUG9vNDQzUTBTOU5pWHNhY0dmVEpzUjZ3c2doM1VEYWxXQTdYRVdHMVU5MWlheFFCWTF1OHMxUGJjbmxKZlpIcnFHd1NDOUdR?oc=5",
-   "date": "2011-06-04T19:14:36+00:00",
-   "summary": "Visual Basic Tutorial - 26 - For Next Loop YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 4 - Hello World",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNLVNZZkVtMnA3TzNSRlVYUF9FczFGWmlGX0w3QWFyUU45VWw2OWp0RDhMMmRzYngxV0ZTaE4yeEp3UkVqdHQ1ZnN4Q3dZNVNsNkV6VlJR?oc=5",
-   "date": "2011-06-04T18:59:07+00:00",
-   "summary": "Visual Basic Tutorial - 4 - Hello World YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 6 - Comments And Whitespace",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1US0R1OF9kSVZ1YVo2NUpqSTBiaElLQTVSVXQzOC04bEtHNElIdlF3NGxjZklOYVU5b2djSGF5X0xheVRSV1NDVC1PMWtMbXNwMGNIUVZB?oc=5",
-   "date": "2011-06-04T18:58:45+00:00",
-   "summary": "Visual Basic Tutorial - 6 - Comments And Whitespace YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 1 - What Is Visual Basic",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVGhFZm1vWWJ6cDEwVmRaTUZ2VlBhbHlmV1loaS1sZzltLTktc1RyS1p5T0JxaUlOaDZkRFU2TlRhTFBHZlpwOUtNWDBEVjFNazhLRFZ3?oc=5",
-   "date": "2011-06-04T18:53:16+00:00",
-   "summary": "Visual Basic Tutorial - 1 - What Is Visual Basic YouTube",
    "tech": "vb",
    "sourceId": "yt",
    "source": "YouTube",

@@ -1,16 +1,28 @@
 {
- "generated": "2026-08-16T05:05:31.235284+00:00",
+ "generated": "2026-08-17T05:30:47.340305+00:00",
  "tech": "arduino",
  "count": 220,
  "items": [
   {
-   "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
-   "url": "https://medium.com/@neonmaxima/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-3c66178ba51d?source=rss------arduino-5",
-   "date": "2026-08-15T21:28:04+00:00",
-   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works. Continue reading on Medium »",
+   "title": "Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud & More Compared",
+   "url": "https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c",
+   "date": "2026-08-16T20:08:01+00:00",
+   "summary": "An independent, hands-on comparison of the IoT dashboard and device-management platforms makers and...",
+   "points": 0,
    "tech": "arduino",
-   "sourceId": "medium",
-   "source": "Medium",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
+   "url": "https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f",
+   "date": "2026-08-15T21:30:22+00:00",
+   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works.  I have a lot of...",
+   "points": 6,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -18,6 +30,28 @@
    "url": "https://dev.to/oza_parth_bdeafede3f4d4e9/day-2-it-just-worked-359e",
    "date": "2026-08-15T19:03:04+00:00",
    "summary": "Turns out I was solving the wrong problem the whole time.  Yesterday I ended on a cliffhanger: redo...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ESP32-S3 CH32V003 SWIO Programmer",
+   "url": "https://www.hackster.io/ishantj1519/esp32-s3-ch32v003-swio-programmer-d6d3c7",
+   "date": "2026-08-15T16:41:38+00:00",
+   "summary": "ESP32-S3 based SWIO programmer for CH32V003 with verified flash programming, readback verification, reset/run and Python host tool.",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
+  },
+  {
+   "title": "This ATmega328P Clock Keeps Swatch's Failed Internet Time Alive",
+   "url": "https://dev.to/circuitrocks/this-atmega328p-clock-keeps-swatchs-failed-internet-time-alive-mko",
+   "date": "2026-08-15T09:06:12+00:00",
+   "summary": "ATmega328P Clock Keeps Swatch's: Swatch's 1998 .beat time died fast, but one maker rebuilt it around an ATmega328P, a DS3231 and a 1990s HPDL-1414 bubble display.",
    "points": 0,
    "tech": "arduino",
    "sourceId": "devto",
@@ -416,39 +450,6 @@
    "lang": "en"
   },
   {
-   "title": "QuadBoat: Raspberry Pi Spider Robot That Rescues Swimmers",
-   "url": "https://dev.to/circuitrocks/quadboat-raspberry-pi-spider-robot-that-rescues-swimmers-36i3",
-   "date": "2026-08-01T04:07:51+00:00",
-   "summary": "QuadBoat Raspberry Pi Spider: QuadBoat is a spider-inspired rescue robot that pulls drowning swimmers from the water, run by a Raspberry Pi 4 and a cluster of Arduino motor boards.",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🌱 From Code to Soil: How We Built an Arduino-Powered Smart Garden API for MyZubster",
-   "url": "https://dev.to/danielioni/from-code-to-soil-how-we-built-an-arduino-powered-smart-garden-api-for-myzubster-4dpi",
-   "date": "2026-07-30T12:03:23+00:00",
-   "summary": "🌱 From Code to Soil: How We Built an Arduino-Powered Smart Garden API for MyZubster  And how you can...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Future of MyZubster: When Technology Meets Nature, Electronics, and People",
-   "url": "https://dev.to/danielioni/the-future-of-myzubster-when-technology-meets-nature-electronics-and-people-2oj",
-   "date": "2026-07-30T11:36:44+00:00",
-   "summary": "The Future of MyZubster: When Technology Meets Nature, Electronics, and People  When people hear...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Smart Study Space Monitor Assistant",
    "url": "https://www.hackster.io/jhon-paul-baonil/smart-study-space-monitor-assistant-679226",
    "date": "2026-07-23T15:15:44+00:00",
@@ -601,6 +602,16 @@
    "lang": "en"
   },
   {
+   "title": "Detecting tilt with an Arduino UNO. #circuit #arduino #tutorial #beginners #diy #project #coding",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aTGRESjhlcFc3VUVaX1NETkgwR3JLX2t6d2Q0NUloTmNYLUVzVzV5d19QTWR6M1paNkhiRFNFUTIzc281cjAwUXdWWFJUT2wxbXlDVw?oc=5",
+   "date": "2025-11-21T01:47:54+00:00",
+   "summary": "Detecting tilt with an Arduino UNO. #circuit #arduino #tutorial #beginners #diy #project #coding YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "ESP32 for Beginners: Selecting module + Starting with Arduino and Espressif IDE",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCSloyOEJqN0Z1SnRJM0RMdDhPeHVvWHg4QnRudWo4ZERYbUx5Ql9mQnRPeXI0OTM4eC1rTGVCdjlXeDJLWnlxbFpVS3o3THJTLXRBUDJn?oc=5",
    "date": "2025-11-19T01:20:22+00:00",
@@ -675,6 +686,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNWVd6cXRNOWw2RlQ5cTYtWkFzdEt2X3NBRlJPRnlqR0lqblhsYUJ2Z2tDMlVNQmhsVTQwckIta2c1T2NkRmZHRGo1NDg3dm9xcm9yTlh3?oc=5",
    "date": "2025-08-22T12:39:10+00:00",
    "summary": "أفضل 3 مشاريع أردوينو 🚀 | شرح عملي بالتفصيل YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حولت لوحة الأردوينو إلى مقود سباق 🚗 في برنامج يونتي ⚡",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Tm40eTA4UnpOZTdmaFlnTEpCSEZOS1FBQVUyek9JLVoyZzUyNF9XM1BDV2NpWjV5bmE3Sl9KMGREdEdrZWxxM25uNGp6NjAtTHU2UURn?oc=5",
+   "date": "2025-08-15T09:05:23+00:00",
+   "summary": "حولت لوحة الأردوينو إلى مقود سباق 🚗 في برنامج يونتي ⚡ YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -811,6 +832,16 @@
    "lang": "en"
   },
   {
+   "title": "Build Your Own Smart Devices with Arduino – Complete Beginner’s Guide!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qaUdYT0FFeVJVZ05va0V3aG9Ud1NRMnpjVFVrcm5HeFpjM2NPQkJQWWt4ZUVac2N1bWVkUG52bDRHRkFlaHBYcnNJaFM5Yll2NEZyZ1Vn?oc=5",
+   "date": "2025-03-18T14:52:32+00:00",
+   "summary": "Build Your Own Smart Devices with Arduino – Complete Beginner’s Guide! YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Build Your Own Arduino Projects: Easy DIY Guide for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OTzdXdU1JMGhIckhkbTRVODhyLTRpeklDVVpQT3RWeXpRT1VVOW5oY3lEYWRES050SlloMU1jc3drMWFYTUFWQzJuMDdEejRJR3Q4UA?oc=5",
    "date": "2025-03-13T07:00:00+00:00",
@@ -829,6 +860,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "بناء جهاز لقراءة ورسم معدل نبضات القلب باستخدام الأردوينو وحساس MAX30102",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44TnFyUFJKZWxLT0N0ckwtRmlnMWFUSkw1SkdtSXpRc0xLamFFZkpuMjF2SFFxbjVadEhLN19PS21vdWxuTXpYLUVrRmxBbXo2QU41ZUFB?oc=5",
+   "date": "2025-02-27T08:05:34+00:00",
+   "summary": "بناء جهاز لقراءة ورسم معدل نبضات القلب باستخدام الأردوينو وحساس MAX30102 YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Simulate Arduino in TINKERCAD tutorial محاكاة الأردوينو على تينكركاد",
@@ -865,6 +906,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zYlhkQlZHTDFCRmk5eU9tQ3RMVExnR0Q4TmJLbmsyMXFsM2VrN2FGbkExeVVwSEdyel8zcm9pNThZMG1PSE9CanRwX01IUXd0YWlEQi1R?oc=5",
    "date": "2025-01-30T04:28:12+00:00",
    "summary": "L1: Introduction to embedded systems & embedded c programming YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How to Design a Custom ESP32 PCB in 19 Minutes (Full Tutorial)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOTTJjYW5nQml1bF9wRzN6WXJzcXFUaW15UEhlbkRnVGV5dElXUm1pMFFsUGs2azM0UHBOSFUwWlNaM2p2ZEhkcDB1NmNTNVhPcEhHWi1n?oc=5",
+   "date": "2024-12-18T15:34:32+00:00",
+   "summary": "How to Design a Custom ESP32 PCB in 19 Minutes (Full Tutorial) YouTube",
    "tech": "arduino",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1531,6 +1582,16 @@
    "lang": "ar"
   },
   {
+   "title": "مشروع رقم 1 بأستخدام الاردوينو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sUHRYbXN1bEZtN0Z5dXktU2M3X2Q5U3Y5T004YmxUM2lTdVJvVkxKVnJQeG00b1JDMXpsQkQ2ZGNlOWgySnRDYTQ0MTJvcVcwbVROOWhR?oc=5",
+   "date": "2022-06-26T09:08:43+00:00",
+   "summary": "مشروع رقم 1 بأستخدام الاردوينو YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "هكذا يتم التحكم في الاحمال بإستخدام الاردوينو بشكل عملي /كورس الاردوينو",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByVmZkTVdoT3hBM0NwS0tvVmR1WURpSEx4VjlsalR3ZEZrZi1xSy1MVnZOVG95YXZsa29ZdjU3R1FnaTlXTlhiZ2FLWmZpSmZ4WGZTM29R?oc=5",
    "date": "2022-06-20T20:05:37+00:00",
@@ -1721,16 +1782,6 @@
    "lang": "ar"
   },
   {
-   "title": "Embedded Programming with Arduino Uno",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPel9zM0d1Q0hjbkhNRTBjeEwzSkx0c0FXT1d3aFJUX0NpVUlFZm1sZVlBczNLMVU0Yk94WWZJMERVTnRPOWRlWXQ5UnNoOV9uWU9sREt3?oc=5",
-   "date": "2022-01-23T20:25:38+00:00",
-   "summary": "Embedded Programming with Arduino Uno YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "☑️ \"L298N\" DC أردوينو للمبتدئين - كيفية التحكم في محركات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSR0Y1eTNXX09tdGhEUjd5NElaQ3pIRGdub3ZBUGQzMElyeDVsSlNnMzhzZ0k3T1hJTkxFZnFuZW96cVljOW9TWHk4bndaYmNtMUZ1T25B?oc=5",
    "date": "2022-01-12T12:52:07+00:00",
@@ -1761,16 +1812,6 @@
    "lang": "ar"
   },
   {
-   "title": "Building an Embedded System with Arduino using Tinkercad #E14 | Vaibhav Sugandhi",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44SXhod0R4RGJFckgtYWFoZVAwSzlkdmNDQU1YVWVzcmhaQjctaFJDSEtFZ2FFQ2VZR0pNZGVtWC12dmxHMkR0WHJoSDRTdEhGLS1FVVZn?oc=5",
-   "date": "2021-12-10T14:00:31+00:00",
-   "summary": "Building an Embedded System with Arduino using Tinkercad #E14 | Vaibhav Sugandhi YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "☑️ LCD أردوينو للمبتدئين - (26) فهم واستخدام شاشة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWXVMV3BNSDBuQUtyZFl5RkQtblZubHJLZWZPY0g2bExqOG9FZTRmNmMwa01UWHNyVUFEbHpDNE9Tek1TZFpVbzlEUDhaQjRKNnRJZHl3?oc=5",
    "date": "2021-12-08T09:30:07+00:00",
@@ -1789,16 +1830,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Getting Started with ESP32 - Step-By-Step Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CLTRGU1JsazFfVGZraUVKTHRUTVVBVGQydXlUTko4b3duVVJzZHRtRDUwN3dLSG1zTGZhRUFmejFRTi0tQVlzU29mSVJhZFdDSVM2cHhR?oc=5",
-   "date": "2021-10-28T20:35:59+00:00",
-   "summary": "Getting Started with ESP32 - Step-By-Step Tutorial YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "01- ARM32 | Introduction To Embedded Systems | محمد يوسف",
@@ -2011,6 +2042,16 @@
    "lang": "ar"
   },
   {
+   "title": "Smart Home Using Smart Phone, Arduino, Keypad, PIR, LM35 Temp. & Gas Sensors | مشروع البيت الذكي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6U2xXSEF6VUFMa1AtRU9RbXBlTXU3Z0x6Z21GTGtBczV0NXlXZ2FQejd3ckkxeXBUSmxUd2Q3cExNVENGSlVtbTBNcGxfWTR2QTR1ejBn?oc=5",
+   "date": "2020-07-21T00:08:35+00:00",
+   "summary": "Smart Home Using Smart Phone, Arduino, Keypad, PIR, LM35 Temp. & Gas Sensors | مشروع البيت الذكي YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Seven Segment Display - Part 2 | Embedded Systems & Microcontrollers | العارضات السباعية مع المتحكم",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pYk1KT0RnazF5dkVjazNGMHRIdGkyeWxSMkxvM09pTXotYzVsQXhfOVZWcU5BNmVuT2dqczRQNlg2ZV9jQnJsYXZJbGVyM0d1bjU3VkR3?oc=5",
    "date": "2020-07-16T18:47:27+00:00",
@@ -2045,6 +2086,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4MG1YUVpSSTc5YWxRWTRrc0JqLVNKWXpnRHlia3BweERqWEY3Wm9NeDFTVmhPWG5DRDRnLXRoTzZYVzJIMnNsdFhsQkNZTV9wcmY2UkdB?oc=5",
    "date": "2020-06-21T12:19:21+00:00",
    "summary": "مداخل ومخارج الأردوينو و نظرة سريعة علي برنامج برمجة أردوينو YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "YL-83 with arduino | ربط حساس المطر مع الاردوينو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByYzdWdVVSZFhRckRKZ0M4U1V2bWJZcVNZazBlY0o2Xy1xQ3dfcE53WTVQQUEtNTBsaXBkbVduYWxaWnlUUUV0VnFkUXJST0lwanZZOElB?oc=5",
+   "date": "2020-06-01T05:44:25+00:00",
+   "summary": "YL-83 with arduino | ربط حساس المطر مع الاردوينو YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2185,56 +2236,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bzVRV0ZvNGppVlBzbExSODE3QjE3MThTNXJlMTZpTzVVWENaeUlMUS1NMlJ1TEFHdnJoR3F4ZGZxT0RtYmtGeXRrNTloYzlXYWhFN1BB?oc=5",
    "date": "2018-07-03T15:02:14+00:00",
    "summary": "Embedded Systems Course Trailer | كورس برمجة ميكروكنترولر | مقدمة لدورة تعلم برمجة الأنظمة المدمجة YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Embedded Systems Course - PIC Microcontrollers Tutorials [Arabic] كورس ميكروكنترولر عربى",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XRjdWRFhRdllmbzhHdUlpVFY2RW9PcmdJRVZ4ZkZiN3ByRGdLNWsxNnFFT0tvVFlEM19GMlpBNFdMclNJSzdBTjNKbnNSNUFaZkdJUHIzSVhqOFR5RW53ZVVwLTE2YkZWVWk4WXpwQldENDNzN2xhOGlESGQ?oc=5",
-   "date": "2018-07-03T12:23:03+00:00",
-   "summary": "Embedded Systems Course - PIC Microcontrollers Tutorials [Arabic] كورس ميكروكنترولر عربى YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "أسهل شرح لبرمجة الأردوينو (لن تصعب عليك أي برمجة بعد الآن)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkbm51bU1SRkJJSERreVFDSmlIZkg5eFQ0SFJTLXlESk9NbmU3QXFLcVlwUncwaWRFMy1hNjdBYXdYT1EzLW1FRVMzMHFESjBWcEtyRDJ3?oc=5",
-   "date": "2018-04-12T22:54:44+00:00",
-   "summary": "أسهل شرح لبرمجة الأردوينو (لن تصعب عليك أي برمجة بعد الآن) YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "مقدمة سلسلة تعلم برمجة الأنظمة المدمجة والمتحكم الدقيق STM32 المعتمد على نواة ARM Cortex-M4",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRZEpuVWNFLWsyWmlTSFNZWUstNzZqbEktbUEtY3lrOWJSSWtzSUF6ejMweVNOOXUzdkozU0RBNG1OTEVmM2dLaEpPdFp1YjlYejNLSFRR?oc=5",
-   "date": "2018-02-15T23:57:01+00:00",
-   "summary": "مقدمة سلسلة تعلم برمجة الأنظمة المدمجة والمتحكم الدقيق STM32 المعتمد على نواة ARM Cortex-M4 YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "✔️Arduino Tutorials-7 ᴴᴰ -Relay 5V برمجة | ما يجب معرفته حول المرحل (تحذير) هام",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PZUpnb19WM3phN1gtWnNBU1A1MFJtRDZMSG1zTE5rRWhCbFZOWHFGVGdTWXlHOFNIemxzYkdiaksydW1aVjRULWlqclhkRmpOWkl0a2lR?oc=5",
-   "date": "2017-11-26T12:02:06+00:00",
-   "summary": "✔️Arduino Tutorials-7 ᴴᴰ -Relay 5V برمجة | ما يجب معرفته حول المرحل (تحذير) هام YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "بدون شك ستتعلم كيف تبدأ برمجة الأردوينو بعد هذا الدرس أنا متأكد",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mQjd4QlFRbWxoSEYxbVB4bU11MXNPX1lzR1ROMmhFWmZiN3NyUDh4eVdWdWVKX292Z2xsWUhacWtTUUphZW4tUkdHMU8zcXRvNG1iX1d3?oc=5",
-   "date": "2017-10-07T14:00:04+00:00",
-   "summary": "بدون شك ستتعلم كيف تبدأ برمجة الأردوينو بعد هذا الدرس أنا متأكد YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",

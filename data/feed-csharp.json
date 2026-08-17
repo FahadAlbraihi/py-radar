@@ -1,8 +1,143 @@
 {
- "generated": "2026-08-16T04:56:07.574693+00:00",
+ "generated": "2026-08-17T05:21:54.175208+00:00",
  "tech": "csharp",
  "count": 220,
  "items": [
+  {
+   "title": "C# params Collections: The Small Feature That Can Change How You Design APIs",
+   "url": "https://medium.com/@shemeenasrawther/c-params-collections-the-small-feature-that-can-change-how-you-design-apis-f4a0343273be?source=rss------csharp-5",
+   "date": "2026-08-17T04:01:28+00:00",
+   "summary": "From params T[] to modern collection-aware APIs &#x2014; with real C# examples and performance considerations. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Capacity Is Not a Number: Atomic Admission and Scale-Out with Redis Lua in .NET",
+   "url": "https://medium.com/@m.marano2k14/capacity-is-not-a-number-atomic-admission-and-scale-out-with-redis-lua-in-net-1318c3b3a388?source=rss------csharp-5",
+   "date": "2026-08-17T03:29:19+00:00",
+   "summary": "Why deterministic selection is still unsafe without distributed reservation, how Redis Lua closes the race, and how bounded runtime and&#x2026; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Started Designing C# Applications Around Failure Instead of the Happy Path",
+   "url": "https://medium.com/c-sharp-programming/i-started-designing-c-applications-around-failure-instead-of-the-happy-path-13da334dfe05?source=rss------csharp-5",
+   "date": "2026-08-17T00:53:37+00:00",
+   "summary": "The more production systems I built, the more I realized that reliable software is mostly about deciding what happens when everything goes&#x2026; Continue reading on .Net Programming »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "C# ExceptionDispatchInfo Class",
+   "url": "https://dev.to/karenpayneoregon/c-exceptiondispatchinfo-class-1je2",
+   "date": "2026-08-16T17:57:12+00:00",
+   "summary": "Introduction   Learn about the ExceptionDispatchInfo object, which stores the stack trace...",
+   "points": 1,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From dotnet run to SQL",
+   "url": "https://medium.com/@prenitharajesh/from-dotnet-run-to-sql-a13961217a5b?source=rss------csharp-5",
+   "date": "2026-08-16T17:38:01+00:00",
+   "summary": "The complete journey of ASP.NET Core request, from Kestrel and middleware to DI, EF Core and PostgreSQL Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft.Testing.Platform Crash-Resilient TRX",
+   "url": "https://medium.com/c-sharp-programming/microsoft-testing-platform-crash-resilient-trx-e62f7cb6e16d?source=rss------csharp-5",
+   "date": "2026-08-16T17:15:19+00:00",
+   "summary": "Keep Evidence When the Host Dies Continue reading on .Net Programming »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies",
+   "url": "https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73",
+   "date": "2026-08-16T17:15:09+00:00",
+   "summary": "When a test process dies, a red CI job is not enough. I need to know what completed and what was...",
+   "points": 5,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Response Compression in ASP.NET Core: Faster APIs Without Wasting CPU",
+   "url": "https://medium.com/@mariammaurice/response-compression-in-asp-net-core-faster-apis-without-wasting-cpu-6f2d3a7060d4?source=rss------csharp-5",
+   "date": "2026-08-16T17:01:02+00:00",
+   "summary": "Your 2MB JSON payload compresses to 296KB. But if you&#x2019;re compressing on every request, you&#x2019;re burning CPU cycles for nothing. Here&#x2019;s the&#x2026; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "C# init Keyword: Cleaner Code Without Constructor Boilerplate",
+   "url": "https://medium.com/@hafsatariq277/c-init-keyword-cleaner-code-without-constructor-boilerplate-bf1ff03dba7e?source=rss------csharp-5",
+   "date": "2026-08-16T12:21:13+00:00",
+   "summary": "Meta Description: Learn how C# init-only properties prevent bugs and remove constructor boilerplate. Complete guide with code examples for&#x2026; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "This week in Cursor + .NET — 7 rules (week ending August 16, 2026)",
+   "url": "https://dev.to/agentic_architect/this-week-in-cursor-net-7-rules-week-ending-august-16-2026-988",
+   "date": "2026-08-16T10:40:29+00:00",
+   "summary": "A weekly digest from the Agentic Architect persistence kit: 7 senior C#/.NET rules for engineers keeping Cursor honest across sessions.",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 .NET Performance Fixes You Can Do in 10 Minutes",
+   "url": "https://medium.com/@mohsho10/5-net-performance-fixes-you-can-do-in-10-minutes-98f233fd90c8?source=rss------csharp-5",
+   "date": "2026-08-16T10:06:01+00:00",
+   "summary": "You don&#x2019;t always need a major refactoring project to make a .NET application faster. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "When a Blazor Component Quietly Becomes HTML",
+   "url": "https://dev.to/iqtechsolutions/when-a-blazor-component-quietly-becomes-html-2f2m",
+   "date": "2026-08-16T09:02:29+00:00",
+   "summary": "A green build usually gives us useful confidence: the types line up, required references exist, and...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Domain-Driven Design: Modeling Software Around the Business",
+   "url": "https://dev.to/rhuturaj_takle/domain-driven-design-modeling-software-around-the-business-1h3",
+   "date": "2026-08-16T08:06:02+00:00",
+   "summary": "Domain-Driven Design: Modeling Software Around the Business   A practical guide to...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Cut Your 2D Draw Calls With Sprite Atlas",
    "url": "https://dev.to/muhammad_talhamalikmal/cut-your-2d-draw-calls-with-sprite-atlas-54fl",
@@ -195,16 +330,6 @@
    "lang": "en"
   },
   {
-   "title": "⚖️I Built a .NET Tool to Monitor Portuguese Court Distributions Automatically",
-   "url": "https://medium.com/@andreneves.gomes/%EF%B8%8Fi-built-a-net-tool-to-monitor-portuguese-court-distributions-automatically-4d4048754e1e?source=rss------csharp-5",
-   "date": "2026-08-14T16:37:12+00:00",
-   "summary": "From a &#x201C;small script&#x201D; idea to a production-ready automation with Excel reports, email, Teams alerts, and GitHub Actions. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Health Checks: Verifying Application and Dependency Health",
    "url": "https://dev.to/rhuturaj_takle/health-checks-verifying-application-and-dependency-health-47h1",
    "date": "2026-08-14T16:01:41+00:00",
@@ -213,16 +338,6 @@
    "tech": "csharp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built a Zero-Cost AI Agent in C# and Deployed It Locally",
-   "url": "https://medium.com/@shemeenasrawther/i-built-a-zero-cost-ai-agent-in-c-and-deployed-it-locally-e8aeef9a80a4?source=rss------csharp-5",
-   "date": "2026-08-14T15:51:25+00:00",
-   "summary": "Using Microsoft Agent Framework, Ollama, and Qwen3:4B to build a task assistant without a cloud AI API. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -292,16 +407,6 @@
    "lang": "en"
   },
   {
-   "title": "Day 19: Turning FocusBoard Into a Real Task Dashboard",
-   "url": "https://medium.com/@madaakhilreddy/day-18-turning-focusboard-into-a-real-task-dashboard-b4a0279630bd?source=rss------csharp-5",
-   "date": "2026-08-14T12:08:27+00:00",
-   "summary": "Learning MudBlazor | Blazor | Dynamic UI | Task Management | Component-Based Development | Internship Journal Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "WAV Is Not Automatically High Quality in Unity: PCM, ADPCM, Vorbis, and Load Types",
    "url": "https://dev.to/gamedevtoollab/wav-is-not-automatically-high-quality-in-unity-pcm-adpcm-vorbis-and-load-types-49dh",
    "date": "2026-08-14T11:52:56+00:00",
@@ -313,36 +418,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Set Up Production-Ready Monitoring With ASP.NET Core Health Checks",
-   "url": "https://medium.com/codex/how-to-set-up-production-ready-monitoring-with-asp-net-core-health-checks-1cc6566efb7e?source=rss------csharp-5",
-   "date": "2026-08-14T08:18:26+00:00",
-   "summary": "Deploying an application to production is only the beginning. You need to know whether your application is healthy and whether your&#x2026; Continue reading on CodeX »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Create and Validate Digitally Signed PDF Files in C# and .NET Using SautinSoft",
-   "url": "https://medium.com/@olga_93844/how-to-create-and-validate-digitally-signed-pdf-files-in-c-and-net-using-sautinsoft-6fcb3ba67df5?source=rss------csharp-5",
-   "date": "2026-08-14T08:00:16+00:00",
-   "summary": "Ensuring the authenticity and integrity of documents is a critical task for modern Electronic Document Management (EDM). In this article&#x2026; Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Set Content-Type Correctly in C# HttpClient",
-   "url": "https://medium.com/@mayank_parmar/how-to-set-content-type-correctly-in-c-httpclient-f6934a133e6e?source=rss------csharp-5",
-   "date": "2026-08-14T07:55:13+00:00",
-   "summary": "When working with APIs in C#, HttpClient makes it easy to send and receive data. But one small detail can cause confusion: trying to add&#x2026; Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "# I Built a Linux System-Intelligence Tool Using Bash, C and C#",
    "url": "https://dev.to/yathartsalil/-i-built-a-linux-system-intelligence-tool-using-bash-c-and-c-bl1",
    "date": "2026-08-14T07:40:58+00:00",
@@ -351,16 +426,6 @@
    "tech": "csharp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Blazor Blueprint, Part 4: The Toast That Forced the Interactivity Question",
-   "url": "https://medium.com/@quentinsims89/the-blazor-blueprint-part-4-the-toast-that-forced-the-interactivity-question-c65ab354d4a2?source=rss------csharp-5",
-   "date": "2026-08-14T06:43:30+00:00",
-   "summary": "Series: The Blazor Blueprint Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -412,61 +477,6 @@
    "url": "https://dev.to/jnbridge/c-and-java-interprocess-communication-sockets-apis-and-bridges-compared-bf4",
    "date": "2026-08-13T13:23:32+00:00",
    "summary": "When Java and C# need to cooperate, a lot of teams jump straight to \"just expose a REST API.\"...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ASP.NET Core Background Services: How to Run Reliable Background Tasks in .NET",
-   "url": "https://dev.to/toolbenchapp/aspnet-core-background-services-how-to-run-reliable-background-tasks-in-net-7p2",
-   "date": "2026-08-13T12:30:08+00:00",
-   "summary": "ASP.NET Core Background Services: How to Run Reliable Background Tasks in .NET   Not every...",
-   "points": 1,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Making Generic Virtual Methods Faster in .NET 11",
-   "url": "https://dev.to/hez2010/making-generic-virtual-methods-faster-in-net-11-lgc",
-   "date": "2026-08-13T11:06:59+00:00",
-   "summary": "Generic Methods   Generic methods in .NET are defined with one or more type parameters,...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Delete the Event Switch: Runtime Dispatch with dynamic in C#",
-   "url": "https://dev.to/hiteshk97/delete-the-event-switch-runtime-dispatch-with-dynamic-in-c-19mk",
-   "date": "2026-08-13T04:36:07+00:00",
-   "summary": "A switch over event types is dynamic dispatch. You just wrote it by hand, took on the maintenance...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Your Unity NavMesh Agent Won't Cross That Gap",
-   "url": "https://dev.to/muhammad_talhamalikmal/why-your-unity-navmesh-agent-wont-cross-that-gap-593m",
-   "date": "2026-08-13T03:53:00+00:00",
-   "summary": "Baked NavMesh only connects walkable surfaces that physically touch each other. The moment there's a...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Silent Killer of ASP.NET Core Performance: The N+1 Query Problem",
-   "url": "https://dev.to/azhadsuhaimi/the-silent-killer-of-aspnet-core-performance-the-n1-query-problem-1akc",
-   "date": "2026-08-13T03:26:10+00:00",
-   "summary": "It’s a classic story:   You build an API endpoint in ASP.NET Core using Entity Framework Core. You...",
    "points": 0,
    "tech": "csharp",
    "sourceId": "devto",
@@ -1464,16 +1474,6 @@
    "lang": "en"
   },
   {
-   "title": "Advanced C# Training | Day - 1 | Introduction to C# Training | Dot Net Tutorials | By Pranaya Rout",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lU3FoMmJ5RzlpX0ZCRlRnTFJrdGJuc1lwME5yUGJxZUZ3VFFxYUU0LVRvLVl3bGlGR3R1QTJsQlhqWXVzbXNNdFpMOFNOWmpKb1hKeFhn?oc=5",
-   "date": "2023-09-06T07:14:38+00:00",
-   "summary": "Advanced C# Training | Day - 1 | Introduction to C# Training | Dot Net Tutorials | By Pranaya Rout YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "1.introduction To Unit Test In C# شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XcjhjV0l6YW1UU2hvdW0zeW1yd2NybmlGV21NMUp0R0V4R1dVVGFkbzV5am5EeE9kRmt5ZjB1amxDTEZ3TFRsVG5EMzJMRFdObTJ3b0NR?oc=5",
    "date": "2023-08-23T16:43:52+00:00",
@@ -1794,6 +1794,16 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم فيجوال بيسك دوت نت (حلقة 4) Visual Basic.NET Programming for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83N3pBR3Q3d3VTc01rNmFxMzdPWTBrYUtXY2lWTG4wXzBWUXNZTm9SX3V1SXNRQVdKZzd2Uk85S3hadGlRckdmWjF4MVJUOC12Zkx4RTRB?oc=5",
+   "date": "2022-10-16T18:49:59+00:00",
+   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 4) Visual Basic.NET Programming for Beginners YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "007 برنامج حساب العمر | برامج وتطبيقات سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lTHJsekR3cnlvb3d3eWxMWTVib21YVExLRmc5RUstbWVBaTlGMWF1OE9jVU9zWmZGdFV3eFlQMGdYOGRFN1RUelN1Tl9yV0lwWUUxRmR3?oc=5",
    "date": "2022-10-09T17:55:43+00:00",
@@ -2064,6 +2074,16 @@
    "lang": "ar"
   },
   {
+   "title": "#12 C Sharp | C# | Comments | التعليقات | شرح كورس سى شارب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KT2ZVd2ZVT1BxNngwUWVRbHVRUlBQSTFCSnQ5b2J5SWlQTFV5RkpxbC11LW9xcDBBQkpyUUN4bllkMFVjdGh3SnZtX3Nqb04wdnZsNDVB?oc=5",
+   "date": "2022-02-05T15:47:15+00:00",
+   "summary": "#12 C Sharp | C# | Comments | التعليقات | شرح كورس سى شارب YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "001 مدخل إلى عالم ال سي شارب C# Basic | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yLXR5ekNEcU9udjlCYXZUdHJQc0Uza1V6Q1RpRFVfa0MtSFltc3c1RkdLNE9Ud0xRRVNrVVRrVEtlTWNkdXJiekd5MlNqSjVnWTZ4aXZR?oc=5",
    "date": "2022-02-01T23:27:02+00:00",
@@ -2208,26 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiUEZ0a0VYLWxJOERyejVLR3hiWFZhTmZUUV8yXzhDS3pDdVBJTGt1N09DV0x2dXZrV0tIYll2b05mQ25QT2RBb2xtSHpQUEEtRTZxRGRR?oc=5",
    "date": "2021-05-08T10:46:51+00:00",
    "summary": "#021 Inheritance in C# [ شرح بالعربي ] #inheritance #oop YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#019 Struct in C# [ شرح بالعربي ] #struct #valuetype",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5URTBPZXBXUGpKWXdzTHMzRUlXTWdCVk5sNnBGMXowOHJJS0Q4c1pYQjdQeWZWYUp3eDgxZ1RMd0RVOVBHYzZCTS02MzNfTm01LTBEOW5B?oc=5",
-   "date": "2021-05-01T07:48:37+00:00",
-   "summary": "#019 Struct in C# [ شرح بالعربي ] #struct #valuetype YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#018 Debugging in C# [ شرح بالعربي ] #debugging #logical #runtime #syntax",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oSzBELWhpdnRuTTdjU1Q0emNBSzlPclk3cGZHTF9ZQ2ttOXJYNk5JLTNXcTRoelh5YThqZXdhT1U0dHJQUTFJeGQxamxkTEx0ci0zbS1B?oc=5",
-   "date": "2021-04-29T06:09:19+00:00",
-   "summary": "#018 Debugging in C# [ شرح بالعربي ] #debugging #logical #runtime #syntax YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
    "source": "YouTube",

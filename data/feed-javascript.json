@@ -1,8 +1,377 @@
 {
- "generated": "2026-08-16T04:54:09.024107+00:00",
+ "generated": "2026-08-17T05:19:58.559434+00:00",
  "tech": "javascript",
  "count": 220,
  "items": [
+  {
+   "title": "React Memo",
+   "url": "https://dev.to/vidhya_murali_5aabe7784bd/react-memo-13e5",
+   "date": "2026-08-17T05:09:43+00:00",
+   "summary": "React memo is a Higher Order Component (HOC) introduced in React v16.6. As the name suggests, Memo...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Reasons Why You Should Use ReactJS for App Development",
+   "url": "https://dev.to/sahil_khurana_486f374ecf2/5-reasons-why-you-should-use-reactjs-for-app-development-565",
+   "date": "2026-08-17T04:59:20+00:00",
+   "summary": "The frontend landscape is noisy. Angular, Vue, Svelte, Solid — there's always a new contender. But...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Making a dog talk with zero backend. 🐶✨\n\nBuilt an entirely client-side pipeline to animate talking pets:\n - ✂️ In-browser image segmentation\n - 👄 Real-time WebGL lip-syncing\n - 🎬 Native MP4 export (all in the browser)\n\nNo servers, no GPU compute bills",
+   "url": "https://dev.to/singhamandeep007/making-a-dog-talk-with-zero-backend-built-an-entirely-client-side-pipeline-to-animate-3mkd",
+   "date": "2026-08-17T04:47:46+00:00",
+   "summary": "Making a dog talk with zero backend: in-browser segmentation, WebGL lip sync and real MP4...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Angel One SDE 2 Frontend Interview Experience | 2026",
+   "url": "https://medium.com/frontend-army/angel-one-sde-2-frontend-interview-experience-2026-af0c1ee64a42?source=rss------javascript-5",
+   "date": "2026-08-17T04:31:05+00:00",
+   "summary": "I recently came across an interview experience for the SDE 2 &#x2014; Frontend role at Angel One. The process was strongly focused on JavaScript&#x2026; Continue reading on Frontend Army ⭐ »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building Fluentic Style: The Anatomy of Debuggable Atomic CSS",
+   "url": "https://dev.to/omnidev/building-fluentic-style-the-anatomy-of-debuggable-atomic-css-5ca3",
+   "date": "2026-08-17T04:29:04+00:00",
+   "summary": "This is part of my Building Fluentic Style series, where I’m writing down the design decisions,...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-550",
+   "date": "2026-08-17T04:12:24+00:00",
+   "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Symbols and Well-Known Symbols in JavaScript",
+   "url": "https://medium.com/@budhdevkaushik/symbols-and-well-known-symbols-in-javascript-1e039cf73d58?source=rss------javascript-5",
+   "date": "2026-08-17T03:31:01+00:00",
+   "summary": "You probably know that for...of works on arrays, strings, Maps, and Sets &#x2014; but not on plain objects. Have you thought about why? What&#x2026; Continue reading on Medium »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I found code in my repo I'd never seen. All 82 tests passed. I quarantined it for three days anyway.",
+   "url": "https://dev.to/achiya-automation/i-found-code-in-my-repo-id-never-seen-all-82-tests-passed-i-quarantined-it-for-three-days-anyway-33go",
+   "date": "2026-08-17T03:22:43+00:00",
+   "summary": "During a routine morning triage of my open-source project, git status showed a modified file I had no...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Analysis of a JavaScript leads to LxBase RAT",
+   "url": "https://medium.com/@shubhandrew/analysis-of-a-javascript-leads-to-lxbase-rat-0c8dc4f5ea13?source=rss------javascript-5",
+   "date": "2026-08-17T03:12:20+00:00",
+   "summary": "Summary Continue reading on Medium »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Production-Ready Chat Application: From Zero to Live",
+   "url": "https://dev.to/engineersabir/building-a-production-ready-chat-application-from-zero-to-live-55dl",
+   "date": "2026-08-17T02:59:28+00:00",
+   "summary": "Building a Production-Ready Chat Application: A Full-Stack Journey           ...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed",
+   "url": "https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih",
+   "date": "2026-08-17T02:39:23+00:00",
+   "summary": "This is a submission for Weekend Challenge: Dog Days Edition           What I Built   I built...",
+   "points": 5,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)",
+   "url": "https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3",
+   "date": "2026-08-17T02:35:15+00:00",
+   "summary": "Here's a checkout flow that loses the customer at step three:    function Checkout() {   const [step,...",
+   "points": 5,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Period Doors: Oak, Victorian & Cottage Styles | Period House",
+   "url": "https://dev.to/davitparkltd/period-doors-oak-victorian-cottage-styles-period-house-1kbi",
+   "date": "2026-08-17T02:31:24+00:00",
+   "summary": "Period doors are more than a functional feature—they help establish the character of a home before...",
+   "points": 5,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Writing Formatting Helpers: The Intl API Already Did It",
+   "url": "https://medium.com/@saneekadam1326/stop-writing-formatting-helpers-the-intl-api-already-did-it-4787d1f61117?source=rss------javascript-5",
+   "date": "2026-08-17T01:59:59+00:00",
+   "summary": "Open any mature JavaScript codebase and look for a file called formatters.ts, Continue reading on Medium »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Knurled Connaught Lever Handle in Satin Brass | Modern Bathroom",
+   "url": "https://dev.to/mattjoshi/knurled-connaught-lever-handle-in-satin-brass-modern-bathroom-b35",
+   "date": "2026-08-17T01:58:10+00:00",
+   "summary": "A great bathroom design is often defined by the details.  The Connaught lever handle is a perfect...",
+   "points": 6,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Built a Browser-Only Bubble Text Generator with SVG and Canvas",
+   "url": "https://dev.to/luhw/how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas-i65",
+   "date": "2026-08-17T01:30:13+00:00",
+   "summary": "Visual text generators look simple from the outside: type a phrase, choose a style, and download an...",
+   "points": 1,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Hooks: Mastering useState and useEffect – The Matrix of State",
+   "url": "https://dev.to/timevolt/react-hooks-mastering-usestate-and-useeffect-the-matrix-of-state-5eae",
+   "date": "2026-08-16T23:59:29+00:00",
+   "summary": "The Quest Begins (The \"Why\")   Honestly, I remember the first time I tried to make a...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Banx Walk Safe: same sidewalk, two heat loads",
+   "url": "https://dev.to/kenielzep97/banx-walk-safe-same-sidewalk-two-heat-loads-51ib",
+   "date": "2026-08-16T23:38:37+00:00",
+   "summary": "This is a submission for the DEV Weekend Challenge: Dog Days Edition.           What I Built   Same...",
+   "points": 6,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building AI Prompt Lab with Java 21, Spring Boot and React 19",
+   "url": "https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8",
+   "date": "2026-08-16T23:20:00+00:00",
+   "summary": "A full-stack AI prompt management application built with Java 21, Spring Boot, React 19, TypeScript, PostgreSQL and OpenRouter.",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Sitemaps Are Free SEO — Here's the Vite Plugin That Generates Yours",
+   "url": "https://dev.to/3ni8ma/sitemaps-are-free-seo-heres-the-vite-plugin-that-generates-yours-3lg4",
+   "date": "2026-08-16T22:59:14+00:00",
+   "summary": "The Problem   Every static site I've shipped has gone through the same ritual: build the...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Remix 3 leaves React: what a web-standards full stack means for route performance",
+   "url": "https://dev.to/apogeewatcher/remix-3-leaves-react-what-a-web-standards-full-stack-means-for-route-performance-4keh",
+   "date": "2026-08-16T22:12:07+00:00",
+   "summary": "Remix 3 beta rebuilds on web primitives and a Preact fork, not React. Migration is a rewrite. Soft navigations and CWV still matter while frameworks change.",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why await Doesn't Make JavaScript Run in Order",
+   "url": "https://dev.to/designly/why-await-doesnt-make-javascript-run-in-order-1h0o",
+   "date": "2026-08-16T22:06:08+00:00",
+   "summary": "Learn why await only pauses one async function—not the whole program—with a two-function example, log timeline, and when Promise.all() is better.",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Angular pattern that needs no Provider",
+   "url": "https://dev.to/playfulprogramming-angular/the-angular-pattern-that-needs-no-provider-2ee4",
+   "date": "2026-08-16T22:00:00+00:00",
+   "summary": "Services are often the default abstraction for reusable Angular logic. But what if the logic is local...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The arbitrage that wasn't: when two markets are identical but their oracles aren't",
+   "url": "https://dev.to/mikefrol/the-arbitrage-that-wasnt-when-two-markets-are-identical-but-their-oracles-arent-4pga",
+   "date": "2026-08-16T21:57:29+00:00",
+   "summary": "The arbitrage that wasn't   I build a scanner that looks for cross-venue arbitrage in...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bulk-adding events to a calendar app: the .ics format from scratch",
+   "url": "https://dev.to/caseymarlin/bulk-adding-events-to-a-calendar-app-the-ics-format-from-scratch-578g",
+   "date": "2026-08-16T21:41:41+00:00",
+   "summary": "Last month I had a spreadsheet with ~40 shifts — date, start, end, who's on call — and needed them in...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Balan Coffee & Roastery — A Slow-Drip Vietnamese Coffee Landing Page",
+   "url": "https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep",
+   "date": "2026-08-16T20:41:25+00:00",
+   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React: valida email sin mover el layout",
+   "url": "https://dev.to/silviutech/react-valida-email-sin-mover-el-layout-3086",
+   "date": "2026-08-16T20:23:52+00:00",
+   "summary": "React: valida email sin mover el layout   He visto un problema muy comun en formularios...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
+   "url": "https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6",
+   "date": "2026-08-16T20:06:27+00:00",
+   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why a two-user Convex chat app read tens of MB a day",
+   "url": "https://dev.to/dheerajakula/why-a-two-user-convex-chat-app-read-tens-of-mb-a-day-360k",
+   "date": "2026-08-16T19:43:18+00:00",
+   "summary": "In Convex, bandwidth isn't the size of your data, it's how many times your reactive queries re-read it. Here are the four traps that inflated my bill and the fixes for each.",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Comfort Food Companion 🍲",
+   "url": "https://dev.to/nandhutee/comfort-food-companion-1k83",
+   "date": "2026-08-16T19:30:13+00:00",
+   "summary": "A warm, interactive comfort-food experience created for the DEV Frontend Challenge — Comfort Food...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Does State Management Suddenly Need a Whole New Programming Model?",
+   "url": "https://dev.to/kentaromorishita/why-does-state-management-suddenly-need-a-whole-new-programming-model-1792",
+   "date": "2026-08-16T13:55:34+00:00",
+   "summary": "A String that changes over time is still related to a String. I wanted state in Seseragi to feel like adding a time axis to a value, not joining a different programming religion.",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Hooks: The Matrix of useState and useEffect",
+   "url": "https://dev.to/timevolt/react-hooks-the-matrix-of-usestate-and-useeffect-4fik",
+   "date": "2026-08-16T13:53:28+00:00",
+   "summary": "The Quest Begins (The \"Why\")   I still remember the first time I tried to make a component...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Tried to \"Disable Inspect\" — and Learned the Right Question to Ask Instead",
+   "url": "https://dev.to/shreeharsha_boyapati/i-tried-to-disable-inspect-and-learned-the-right-question-to-ask-instead-1nfb",
+   "date": "2026-08-16T13:36:22+00:00",
+   "summary": "It started, like a lot of rabbit holes do, with an observation: Gemini stops its JavaScript when you...",
+   "points": 1,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Hand-Rolling Chat UIs: Streaming LLM Tokens Into React Native Without the Jank",
+   "url": "https://hackernoon.com/stop-hand-rolling-chat-uis-streaming-llm-tokens-into-react-native-without-the-jank?source=rss",
+   "date": "2026-08-16T10:26:32+00:00",
+   "summary": "Streaming LLM replies can make React Native chats jump and stutter. Learn why keyboard and layout updates collide and how to keep scrolling smooth.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
   {
    "title": "Trees in JavaScript: Solving DSA Problems Step by Step",
    "url": "https://medium.com/codetodeploy/trees-in-javascript-solving-dsa-problems-step-by-step-a0aa801e52d7?source=rss------javascript-5",
@@ -24,66 +393,11 @@
    "lang": "en"
   },
   {
-   "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa",
-   "date": "2026-08-16T04:08:32+00:00",
-   "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
    "url": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
    "date": "2026-08-16T02:38:31+00:00",
    "summary": "Here's an autosave button that lies to the user:    function Editor({ docId }: { docId: string }) {  ...",
    "points": 5,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Paywall Any API Endpoint With Two Prices: Sats or Compute",
-   "url": "https://dev.to/zekebuilds/paywall-any-api-endpoint-with-two-prices-sats-or-compute-1jdh",
-   "date": "2026-08-16T02:02:59+00:00",
-   "summary": "Put a per-call price on any HTTP endpoint. Callers pay in Lightning sats or in proof-of-work compute. No accounts, no API keys, no billing dashboard. Real curl examples against a live server.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Browser Automation Clicks Might Be Landing 25% Off — And Nothing Will Tell You",
-   "url": "https://dev.to/hidenari/your-browser-automation-clicks-might-be-landing-25-off-and-nothing-will-tell-you-2da",
-   "date": "2026-08-16T01:52:34+00:00",
-   "summary": "I spent a day pointing an AI agent at a browser to publish one product across four marketplaces. Most...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Build a Real-Time Markdown Previewer with Synchronized Scrolling",
-   "url": "https://dev.to/ggwork/how-to-build-a-real-time-markdown-previewer-with-synchronized-scrolling-4jfm",
-   "date": "2026-08-16T01:26:00+00:00",
-   "summary": "While working on a side project recently, I found myself constantly switching between my editor and a...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Retry budgets by language: Python, Go, and JavaScript",
-   "url": "https://dev.to/loopandretry/retry-budgets-by-language-python-go-and-javascript-3hcb",
-   "date": "2026-08-15T22:04:05+00:00",
-   "summary": "A retry budget is a language-agnostic idea, but the place you enforce it is not. Python's tenacity decorators, Go's context-plus-backoff, and JavaScript's promise chains each make a different mistake easy and a different",
-   "points": 0,
    "tech": "javascript",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -100,28 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "JWT Authentication in Express That You Can Actually Revoke",
-   "url": "https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i",
-   "date": "2026-08-15T21:38:04+00:00",
-   "summary": "Access tokens, refresh token rotation, and theft detection: the parts most Node.js tutorials leave...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas",
-   "url": "https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb",
-   "date": "2026-08-15T21:21:44+00:00",
-   "summary": "Why AI-optimized docs and a curated system prompt allow LLMs to write clean, idiomatic ZIM code without falling back to outdated CreateJS boilerplate.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "JavaScript Fundamentals: Deep Dive into Functions",
    "url": "https://medium.com/@asifrazartu/javascript-fundamentals-deep-dive-into-functions-82ce627a941e?source=rss------javascript-5",
    "date": "2026-08-15T21:06:07+00:00",
@@ -132,28 +424,6 @@
    "lang": "en"
   },
   {
-   "title": "Framework Comparison Report: ZIM vs. PixiJS",
-   "url": "https://dev.to/zimlearn/framework-comparison-report-zim-vs-pixijs-a20",
-   "date": "2026-08-15T20:45:36+00:00",
-   "summary": "NOTE: Prompted by Dr Abstract who also requested article from Gemini.  When building interactive 2D...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What actually breaks when you process PDFs in the browser",
-   "url": "https://dev.to/bellsal_b44bf6d/what-actually-breaks-when-you-process-pdfs-in-the-browser-4o91",
-   "date": "2026-08-15T20:38:57+00:00",
-   "summary": "Doing PDF work entirely in the browser is a nicer story than it sounds. pdf-lib loads a document from...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "7 useEffect Mistakes Every React Developer Makes",
    "url": "https://blog.devgenius.io/7-useeffect-mistakes-every-react-developer-makes-43b146f06e80?source=rss------javascript-5",
    "date": "2026-08-15T20:36:01+00:00",
@@ -161,61 +431,6 @@
    "tech": "javascript",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The download button that silently did nothing on mobile",
-   "url": "https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k",
-   "date": "2026-08-15T17:38:15+00:00",
-   "summary": "For about a year, the save button in my collage editor did nothing on phones. Not \"threw an error.\"...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents",
-   "url": "https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd",
-   "date": "2026-08-15T17:05:20+00:00",
-   "summary": "How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents The...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Overlaying a design on a live page: four things that bit me",
-   "url": "https://dev.to/ss2/overlaying-a-design-on-a-live-page-four-things-that-bit-me-5h10",
-   "date": "2026-08-15T15:49:21+00:00",
-   "summary": "I spent the last few weeks building a Chrome extension that puts a design frame on top of a running...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Karachi Ki Raatein: A Love Letter to Midnight Street Food",
-   "url": "https://dev.to/abdul_rehman_314626de0dd6/karachi-ki-raatein-a-love-letter-to-midnight-street-food-5c1b",
-   "date": "2026-08-15T15:33:29+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Claude Code vs Cursor vs Windsurf in 2026: Which Agentic IDE Actually Ships Production Code",
-   "url": "https://dev.to/jsmanifest/claude-code-vs-cursor-vs-windsurf-in-2026-which-agentic-ide-actually-ships-production-code-3maj",
-   "date": "2026-08-15T15:20:40+00:00",
-   "summary": "Claude Code vs Cursor vs Windsurf in 2026: Which Agentic IDE Actually Ships Production...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -256,160 +471,6 @@
    "tech": "javascript",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "DogSpeak Pro - Interactive Behavioral Sandbox & Procedural Acoustic Synthesizer",
-   "url": "https://dev.to/batuta/dogspeak-pro-interactive-behavioral-sandbox-procedural-acoustic-synthesizer-gio",
-   "date": "2026-08-14T19:59:41+00:00",
-   "summary": "What I Built   I built DogSpeak Pro, an interactive acoustic and behavioral sandbox that...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI API Costs Are Surprising People — Here's How to Check First",
-   "url": "https://dev.to/sameermoin21/ai-api-costs-are-surprising-people-heres-how-to-check-first-3phc",
-   "date": "2026-08-14T19:34:01+00:00",
-   "summary": "The bill that surprises everyone eventually   You're building something with the OpenAI or...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your MCP server didn't break. The protocol did.",
-   "url": "https://dev.to/bazzz/your-mcp-server-didnt-break-the-protocol-did-3abp",
-   "date": "2026-08-14T19:01:30+00:00",
-   "summary": "MCP 2026-07-28 deleted the initialize handshake, sessions, and server-initiated requests. Here's every error you'll see, what it means, and what to do about it.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "جعلنا موقعنا غير قابل للضغط مرتين، ولم يكن الخطأ في الكود",
-   "url": "https://dev.to/kouanahesham/jln-mwqn-gyr-qbl-lldgt-mrtyn-wlm-ykn-lkht-fy-lkwd-2h9g",
-   "date": "2026-08-14T18:50:55+00:00",
-   "summary": "مرتين خلال أسابيع صار موقعنا يبدو سليمًا تمامًا ولا يستجيب للضغط. الصفحة تُحمَّل، والتصميم في مكانه،...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "ar"
-  },
-  {
-   "title": "Morse Code: How Do You Handle Real-Time Translation in a Web App?",
-   "url": "https://dev.to/gete_ahk_da6741fab7a/morse-code-how-do-you-handle-real-time-translation-in-a-web-app-37l7",
-   "date": "2026-08-14T18:28:32+00:00",
-   "summary": "What’s the best approach for handling Morse Code conversion while a user is typing? For a simple...",
-   "points": 2,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Color Math Was Never the Slow Part",
-   "url": "https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2",
-   "date": "2026-08-14T18:17:42+00:00",
-   "summary": "The first version of my image-to-Minecraft-blocks converter locked up the browser tab for long enough...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A planet in a browser tab",
-   "url": "https://dev.to/intframe/a-planet-in-a-browser-tab-4m5",
-   "date": "2026-08-14T18:14:15+00:00",
-   "summary": "Real satellite imagery, forty-six thousand city lights, and one line of spherical trigonometry that fixed the camera, in about 1.5 megabytes.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "From X/Twitter Bookmarks to a Searchable Static Site",
-   "url": "https://dev.to/asynchronope/from-xtwitter-bookmarks-to-a-searchable-static-site-jd",
-   "date": "2026-08-14T18:01:48+00:00",
-   "summary": "I wanted my X bookmarks to feel like a personal archive. The saved posts lived inside one account,...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why I’m Building FormatForge.org as a Browser-First Data Tools Platform",
-   "url": "https://dev.to/gajendra_paliwal_278ab8aa/why-im-building-formatforgeorg-as-a-browser-first-data-tools-platform-3emo",
-   "date": "2026-08-14T17:41:48+00:00",
-   "summary": "As developers and data engineers, we regularly use online tools to convert, validate, compare,...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React: microestados que calman formularios",
-   "url": "https://dev.to/silviutech/react-microestados-que-calman-formularios-4kg0",
-   "date": "2026-08-14T17:24:42+00:00",
-   "summary": "Los formularios largos no suelen fallar por un bug gigante. Fallan por una suma de pequenas dudas:...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
-   "url": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
-   "date": "2026-08-14T17:22:21+00:00",
-   "summary": "You build a React application. It works perfectly locally. Everything is fast, your state is...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Toolcrib Taste-Test: An AI agent argued with my prompt, demanded N=3 trials, and wrote a post-mortem on Cascading Style 💩",
-   "url": "https://dev.to/g_dollar/toolcrib-taste-test-an-ai-agent-argued-with-my-prompt-demanded-n3-trials-and-wrote-a-2222",
-   "date": "2026-08-14T17:20:58+00:00",
-   "summary": "Vibe coding is beautiful. Right up until day three when the conversational context drifts, variables...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Two npm worms shipped with valid provenance this year",
-   "url": "https://dev.to/booyaka101/two-npm-worms-shipped-with-valid-provenance-this-year-22io",
-   "date": "2026-08-14T17:16:36+00:00",
-   "summary": "I spent most of this year believing a green provenance check on npm meant something stronger than it...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Environment Config the Clean Way",
-   "url": "https://dev.to/stackhorizon/environment-config-the-clean-way-2alm",
-   "date": "2026-08-14T16:08:12+00:00",
-   "summary": "Stop Hardcoding: Start with a Config Layer   Every app needs configuration. API keys,...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -460,17 +521,6 @@
    "tech": "javascript",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Ordexa: a Next.js 16 admin dashboard template I actually finished",
-   "url": "https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4",
-   "date": "2026-08-14T14:55:44+00:00",
-   "summary": "I just shipped Ordexa — a production-ready admin dashboard template built on Next.js 16 (App Router),...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -936,6 +986,16 @@
    "lang": "en"
   },
   {
+   "title": "JavaScript Crash Course before learning LWC | Chapter 16 | Lightning Web Components",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUdkRfTjdidGtQQUx6M2JGNDlwUHF2MDhFMWtoMG4wWVhKZS1sNjNYc09neXo5V2k2OVdPUWNFeXRQOWcwdDFZY0U0Nm5HMllGVTlnZmpB?oc=5",
+   "date": "2025-02-18T04:00:31+00:00",
+   "summary": "JavaScript Crash Course before learning LWC | Chapter 16 | Lightning Web Components YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "مجالات العمل بلغة جافاسكريبت JavaScript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YeDVXTWtEazZKd3RVYU1JQnprc0EwRFV5Wk9JdkdKYmgzenQ4dnZieXhEYWJVMUJWaHk4a3hhR2Q3cEsxZG8xaWE2RmlEX25MWklEaHFn?oc=5",
    "date": "2025-02-11T14:01:18+00:00",
@@ -1276,6 +1336,16 @@
    "lang": "en"
   },
   {
+   "title": "JavaScript Advanced full Course Tutorial🔥15+ Projects + Free Notes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yNVlpMkNkWWZuNTVCRnZvZWRmYndrbEJkOTRJazRrY3ByUW9hcFBGaTJwSU1BVWNIVHJ0MFFqd0x0X0xGbFhmMXp5bFZ1WEs0YmducHBB?oc=5",
+   "date": "2024-02-29T13:30:14+00:00",
+   "summary": "JavaScript Advanced full Course Tutorial🔥15+ Projects + Free Notes YouTube",
+   "tech": "javascript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "JavaScript Tutorial for Beginners [JS Crash Course]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uOWIyZ09CTk9haTBkQXEtb3pYd0JHYVVnYVdySDgtVnNpMUtzZ3BCQl9ZRi1GLVpEenl2Tmd0d2hWMXZLSXIwLWRvU2ZZWDhJYjJTbDRn?oc=5",
    "date": "2024-02-28T15:03:22+00:00",
@@ -1289,10 +1359,10 @@
    "title": "Learn JavaScript in 60 minutes (seriously)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRFZ5UVJpSnZhNThHQlNqdFJ1LXpoUUh0bUVoQUhiMkdzVGtRSS1xa1Nwb29ZbU1FZEZ3MVI0T0gzYzhZYVBDNFlrM0ZuZ05rQXR1eHp3?oc=5",
    "date": "2024-02-15T09:58:52+00:00",
-   "summary": "Learn JavaScript in 60 minutes (seriously) youtube.com",
+   "summary": "Learn JavaScript in 60 minutes (seriously) YouTube",
    "tech": "javascript",
    "sourceId": "yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1326,56 +1396,6 @@
    "lang": "en"
   },
   {
-   "title": "JavaScript Bangla Crash Course - Reactive Accelerator course by Learn with Sumit",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LUUpjVTNFUUdVR0VtazBWRS1DUzh1ZnZxcmF6eUcyOEc2TWNUanhRRVVPV1lqX2huUUhYNkRhY185SUkxSW9GTVo0OHcwRXppVXEzXzFB?oc=5",
-   "date": "2023-12-14T14:48:47+00:00",
-   "summary": "JavaScript Bangla Crash Course - Reactive Accelerator course by Learn with Sumit YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "The JavaScript DOM explained in 5 minutes! 🌳",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pd1pTVjY5LWhKa2hRQ29SRUV1M19aczdxRFpkanpZN3JjaDdZZFVJcTFkaXpHcTJvT2ZxdVl0SXZjWGN2c2RBS21xQ1h1dkl1M2Y0bGl3?oc=5",
-   "date": "2023-12-05T11:50:27+00:00",
-   "summary": "The JavaScript DOM explained in 5 minutes! 🌳 YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Developer essentials: JavaScript console methods",
-   "url": "https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/",
-   "date": "2023-11-30T00:00:00+00:00",
-   "summary": "The JavaScript console is an essential tool for web development. Learn new and fun ways to use the console to display data and debug your code.",
-   "tech": "javascript",
-   "sourceId": "sites",
-   "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Learn JavaScript CLASSES in 6 minutes! 🏭",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iM0tGT0dHN2ZwVWlnQmRySW1RdXo3dWpNeDdtSHVmS091VVNueFIwRV9ncG4wdy1IdXQ2M1BzSkVOMzdudWdPdGZ1cW43bFQxczBtLUFR?oc=5",
-   "date": "2023-11-17T17:38:25+00:00",
-   "summary": "Learn JavaScript CLASSES in 6 minutes! 🏭 YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Deploying Node.js applications with PM2 on Vultr",
-   "url": "https://developer.mozilla.org/en-US/blog/deploying-node-js-applications-with-pm2-on-vultr/",
-   "date": "2023-11-08T00:00:00+00:00",
-   "summary": "Learn how to deploy a Node.js application on Vultr using PM2 to create persistent services. This guide shows how to efficiently use resources via PM2 cluster mode. It also covers Nginx server setup and SSL security.",
-   "tech": "javascript",
-   "sourceId": "sites",
-   "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
    "title": "ببساطة : async و await في جافا سكريبت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BQzJGM245cThPYjlMNlNyWkVrWGJCbUNyb2p6MzdnTU9jTmE3VmZXUzhhWEpQVkpZZ1VpaFV3ZzJ0UW9mbGpNaTNQMjlBb1NJMEVhWklR?oc=5",
    "date": "2023-10-22T08:03:31+00:00",
@@ -1386,16 +1406,6 @@
    "lang": "ar"
   },
   {
-   "title": "JavaScript Tutorial For Beginners Chapter04",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oSlpBQ1RSdFRmZVY0VUwyZnZWZzlPcHRfTkQwSkZ6c3VJVmNvMnZhN2llcmswN1hnM1htcXVKUjVWSHdIS0UyTkx2cU9tOGNrX2lNOFZ3?oc=5",
-   "date": "2023-09-25T01:35:00+00:00",
-   "summary": "JavaScript Tutorial For Beginners Chapter04 YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "مشروع تطبيقي جافا سكريبت انشاء موقع حساب العمر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93UXAtczgtSldXcGJySWgxWGdmaUEtOVdGRFlCRUt5bm4xYjJHY0lUdHgxUUU0Sm1uUVhIcGducEgwc2VvVktUbVhsZmxaNzJySktIVktB?oc=5",
    "date": "2023-09-17T09:39:15+00:00",
@@ -1404,26 +1414,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85R2xsVkx3cDAxbkRFY3BXRVFpaG9lUDBlTXdkYWhnUm56bm9RblQ1M21ScVBBWFNYc1MzQ01vWDN5akRiWmZqdmdDODdsQ1NDTHlzbDd3?oc=5",
-   "date": "2023-09-11T13:00:10+00:00",
-   "summary": "Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00Z09lNE1TMHQwUkFnWTdtaDRaZURudTB1MnNsNUFhUVhiWGtORS16TGxrV3JxT1Z3bVdwRHA3OGI3MnBiejBmZnRweXJpYjJ5TmVZdmhn?oc=5",
-   "date": "2023-09-06T12:30:10+00:00",
-   "summary": "JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners YouTube",
-   "tech": "javascript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "( #80 ) كورس جافا سكريبت من الصفر - الدرس",
@@ -1796,6 +1786,16 @@
    "lang": "ar"
   },
   {
+   "title": "18: المصفوفات في الجافا سكريبت - arrays",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMFFma2FiRHZDLXhPTk1FcXlCRmdhUE1NbjdFcV90Q2N5TXB2VHFZdnFQYXF4VjFjTlo4VUxMbGtzR3N4Q19FTTRLcVF6VGlNV3JxaE9B?oc=5",
+   "date": "2022-03-21T15:35:11+00:00",
+   "summary": "18: المصفوفات في الجافا سكريبت - arrays YouTube",
+   "tech": "javascript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "9: الأرقام في جافا سكريبت - numbers in Java Script",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GdlZPbndpTFllc3B4ME93WUxuNHRzOE9fQzJ3WFdsbzdURjc5TUcwQ1ZieElXamJ0QU1zMXBDeVlFZFgyWl95YVNzQmlIWjJQMDIzTXhB?oc=5",
    "date": "2022-03-14T15:47:01+00:00",
@@ -1880,6 +1880,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iR1NzcGpjZi1aLXg3TmQ5NEEtNWFSSFhzRlZvQUx2ajdINEw1TkJaS2JTZjNkUFZ0NVlTaEZtRzFfRk9GYUhzdXZKUXUyTXhUTjRnZjRB?oc=5",
    "date": "2022-01-14T16:00:04+00:00",
    "summary": "03 المتغيرات في لغة جافا سكريبت variables in javascript YouTube",
+   "tech": "javascript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "02 أول تطبيق عملي ب جافا سكريبت first project with javascript",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14czNyenVaZXJSaFVhWlA4T25vY0o4SVV3aEZBUnFOMkhwT3ZIOF9FNDJFLUtCcWFJNFMyeFBxeEd6RGttaXQ3ME5RSGRrbzRWXzZMbG1R?oc=5",
+   "date": "2022-01-14T07:00:14+00:00",
+   "summary": "02 أول تطبيق عملي ب جافا سكريبت first project with javascript YouTube",
    "tech": "javascript",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2230,16 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54a0tTY2Q1WkpHcW9SSUNEVHpzTWVrcGRhYmFKNVZma2h2MWFkUmpLSUVPMTZQRHNFSW1pemh1UUtSVk5YOE5fZzNiNkJnRm1LNzVRNG9B?oc=5",
    "date": "2020-06-09T10:11:27+00:00",
    "summary": "طريقة حذف او نقر عناصر HTML بإستخدام جافا سكريبت | دورة تعلم JavaScript كاملة - الدرس 68 YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة إنشاء ملفات JavaScript وربطها بملفات HTML بسهولة | دورة تعلم JavaScript كاملة - الدرس 3",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pcUNsYUxVNUJUMnJBd0pTQi1MbVFQMEJxSE1sQ3FUTjhZbUFBajY5X3dUQy14NFR1WGRxb0dMX19FNFI5NXFMdjd4SS16MVRxTE02aEdn?oc=5",
-   "date": "2020-05-06T12:21:29+00:00",
-   "summary": "طريقة إنشاء ملفات JavaScript وربطها بملفات HTML بسهولة | دورة تعلم JavaScript كاملة - الدرس 3 YouTube",
    "tech": "javascript",
    "sourceId": "ar-yt",
    "source": "YouTube",

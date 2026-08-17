@@ -1,8 +1,173 @@
 {
- "generated": "2026-08-16T05:05:44.187266+00:00",
+ "generated": "2026-08-17T05:31:00.136314+00:00",
  "tech": "verilog",
- "count": 101,
+ "count": 111,
  "items": [
+  {
+   "title": "Building Zero-Latency Event Architecture: Integrating LED RFID with Cloud Dashboards",
+   "url": "https://dev.to/stampiq/building-zero-latency-event-architecture-integrating-led-rfid-with-cloud-dashboards-379d",
+   "date": "2026-08-17T05:29:33+00:00",
+   "summary": "Building Zero-Latency Event Architecture: Integrating LED RFID with Cloud Dashboards Building...",
+   "points": 1,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AMD Buys Taalas: The Chip That Bakes Weights Into Silicon",
+   "url": "https://dev.to/max_quimby/amd-buys-taalas-the-chip-that-bakes-weights-into-silicon-50e8",
+   "date": "2026-08-17T05:22:20+00:00",
+   "summary": "AMD acquired a startup that hardwires LLM weights into transistors. At 17,000 tokens/sec, the real question: was the GPU always just a phase?",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SIMD in the 90s: When Intel's Pentium MMX Changed Everything",
+   "url": "https://dev.to/trismegistus/simd-in-the-90s-when-intels-pentium-mmx-changed-everything-3i0p",
+   "date": "2026-08-17T02:09:08+00:00",
+   "summary": "In 1996, Intel released the Pentium MMX, and with it introduced something that would reshape how...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Chestnut: The $249 eGPU Dock With Open-Source Firmware That Could Disrupt a Closed Market",
+   "url": "https://dev.to/trismegistus/chestnut-the-249-egpu-dock-with-open-source-firmware-that-could-disrupt-a-closed-market-2j64",
+   "date": "2026-08-16T13:55:24+00:00",
+   "summary": "Comma AI, the company behind open-source automated driving software, just announced the Chestnut — an...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RISC-V: They Should Have Known Better — A Blistering Technical Critique From a Hardware Veteran",
+   "url": "https://dev.to/trismegistus/risc-v-they-should-have-known-better-a-blistering-technical-critique-from-a-hardware-veteran-374k",
+   "date": "2026-08-16T13:53:01+00:00",
+   "summary": "Dmitry Grinberg, a well-known hardware hacker and embedded systems engineer, just published a...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cerebras Just Made GPT-5.6 Sol 10x Faster — and It Changes the Economics of AI Inference",
+   "url": "https://dev.to/trismegistus/cerebras-just-made-gpt-56-sol-10x-faster-and-it-changes-the-economics-of-ai-inference-403g",
+   "date": "2026-08-16T13:51:30+00:00",
+   "summary": "Cerebras Systems just announced that they're accelerating GPT-5.6 Sol to ultrafast speeds on their...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AMD Just Bought a Startup That Etches AI Models Directly Into Silicon — Here's Why That Matters",
+   "url": "https://dev.to/trismegistus/amd-just-bought-a-startup-that-etches-ai-models-directly-into-silicon-heres-why-that-matters-1c32",
+   "date": "2026-08-16T13:50:19+00:00",
+   "summary": "AMD just acquired Taalas, a Toronto-based AI chip startup that does something radical: it etches...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Nvidia's $500B AI financing deal, explained",
+   "url": "https://dev.to/akashdas/nvidias-500b-ai-financing-deal-explained-2idk",
+   "date": "2026-08-16T09:51:46+00:00",
+   "summary": "Nvidia's $500 billion AI financing deal, explained: what the press release says, where the 25% chip-value backstop came from, and why it reaches your AI bill.",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What the browser can actually tell you about your hardware (and what it can't)",
+   "url": "https://dev.to/member_2ef2ebd8/what-the-browser-can-actually-tell-you-about-your-hardware-and-what-it-cant-2d2j",
+   "date": "2026-08-16T06:24:10+00:00",
+   "summary": "I spent a while building browser-based hardware diagnostics and came away with a much clearer sense...",
+   "points": 1,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RISC-V gasta 44 ciclos en una interrupción, Cortex-M0 solo 27",
+   "url": "https://dev.to/lu1tr0n/risc-v-gasta-44-ciclos-en-una-interrupcion-cortex-m0-solo-27-kl5",
+   "date": "2026-08-16T02:38:26+00:00",
+   "summary": "Un análisis de Dmitry Grinberg muestra que un handler de interrupción en RV32I cuesta al menos 44 ciclos antes de llegar a código C, frente a 27 en Co",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Spaghettifying DRAM: When Memory Chips Meet Physics Gone Wrong",
+   "url": "https://dev.to/trismegistus/spaghettifying-dram-when-memory-chips-meet-physics-gone-wrong-3lk1",
+   "date": "2026-08-16T01:38:26+00:00",
+   "summary": "A bizarre hardware project exploring DRAM behavior under extreme conditions has captured Hacker News. Here's what it reveals about memory reliability, security, and the gap between specs and reality.",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RISC-V: They Should Have Known Better — A Hardware Engineer's Blunt Critique",
+   "url": "https://dev.to/trismegistus/risc-v-they-should-have-known-better-a-hardware-engineers-blunt-critique-e1",
+   "date": "2026-08-15T19:33:29+00:00",
+   "summary": "RISC-V will eventually own the cheap-as-dirt single-use microcontroller space. Not due to its ISA...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Longest Life in Compute",
+   "url": "https://dev.to/aronchick/the-longest-life-in-compute-5amn",
+   "date": "2026-08-15T18:01:39+00:00",
+   "summary": "On Monday, Nvidia announced memorandums of understanding with Apollo, BlackRock, Blackstone,...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your drive says SMART PASSED and is already failing: the 5 attributes that actually predict it",
+   "url": "https://dev.to/ricco020/your-drive-says-smart-passed-and-is-already-failing-the-5-attributes-that-actually-predict-it-6g",
+   "date": "2026-08-15T15:52:24+00:00",
+   "summary": "SMART's PASSED verdict stays green long after sectors start going unreadable. The five attributes that predict failure, and the order of operations that decides whether the data survives.",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AI Is Making Chips More Expensive",
+   "url": "https://dev.to/techytcm/ai-is-making-chips-more-expensive-3ej9",
+   "date": "2026-08-15T05:50:52+00:00",
+   "summary": "When we talk about the AI boom, we usually talk about:  ChatGPT Claude Gemini AI...",
+   "points": 0,
+   "tech": "verilog",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why Is It Called Booting? The Bootstrap Origin",
    "url": "https://dev.to/fluidwire/why-is-it-called-booting-the-bootstrap-origin-55ji",
@@ -114,17 +279,6 @@
    "lang": "en"
   },
   {
-   "title": "Cerebras Just Made GPT-5.6 Sol 10x Faster — and It Changes the Economics of AI Inference",
-   "url": "https://dev.to/trismegistus/cerebras-just-made-gpt-56-sol-10x-faster-and-it-changes-the-economics-of-ai-inference-3clc",
-   "date": "2026-08-14T00:43:38+00:00",
-   "summary": "Cerebras Systems announced ultrafast acceleration for GPT-5.6 Sol. Here's what it means for developers and the future of AI compute.",
-   "points": 0,
-   "tech": "verilog",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "I'm 16. I have never built hardware. So I published the parts I got wrong.",
    "url": "https://dev.to/vyldor/im-16-i-have-never-built-hardware-so-i-published-the-parts-i-got-wrong-4h3m",
    "date": "2026-08-13T19:02:40+00:00",
@@ -184,6 +338,17 @@
    "url": "https://www.hackster.io/robertfletcher1582/build-ddr4-memory-tester-with-skhynix-h5an8g6ncjr-vkc-fpga-e812a9",
    "date": "2026-08-10T07:11:54+00:00",
    "summary": "A low-cost FPGA-based DDR4 memory validation platform designed to test, initialize, and analyze SK hynix H5AN8G6NCJR-VKC DDR4 SDRAM chips. T",
+   "tech": "verilog",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
+  },
+  {
+   "title": "LabVIEW XADC Reader for Arty Z7",
+   "url": "https://www.hackster.io/jolobotero/labview-xadc-reader-for-arty-z7-af10bf",
+   "date": "2026-08-05T03:17:09+00:00",
+   "summary": "Read analog signals from the Arty Z7 XADC directly in LabVIEW through a custom FPGA interface for real-time data acquisition.",
    "tech": "verilog",
    "sourceId": "projects",
    "source": "مشاريع",
@@ -348,28 +513,6 @@
    "tech": "verilog",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "2. Lexical Tokens",
-   "url": "https://dev.to/silicon_monks/2-lexical-tokens-59na",
-   "date": "2026-02-09T11:36:21+00:00",
-   "summary": "Verilog source text files consists of the following lexical tokens:   White Space   White spaces...",
-   "points": 0,
-   "tech": "verilog",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "1. Introduction to Verilog",
-   "url": "https://dev.to/silicon_monks/getting-started-with-verilog-e4c",
-   "date": "2026-02-04T07:26:43+00:00",
-   "summary": "Verilog HDL is one of the two most common Hardware Description Languages (HDL) used by integrated...",
-   "points": 0,
-   "tech": "verilog",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -673,6 +816,16 @@
    "lang": "en"
   },
   {
+   "title": "VHDL and Verilog languages | Comparison | Digital Systems Design | Lec-33",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92UDgzQWVqMFctVkFBZmd0U0F1R3dUanAtSnJmZFRnd1g4SHN1Rm9jRVd4WllXWkF5X2RCV0ZzY29SdS01cGlpVHpyZkFtV2lreGwycUpn?oc=5",
+   "date": "2024-09-27T00:30:04+00:00",
+   "summary": "VHDL and Verilog languages | Comparison | Digital Systems Design | Lec-33 YouTube",
+   "tech": "verilog",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How To Do Ethernet in FPGA - Easy Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XRVBNaW5MalBFbEdTVE9LN2M1VERRSDQ0ZE1nVl9KSF8zMVZqWUtCRzhudFFrVmdTZ0thM1NxSExubFNhUUhxV0x4M2VmZ3IzRXJ0QWVn?oc=5",
    "date": "2024-08-07T07:59:44+00:00",
@@ -813,17 +966,6 @@
    "lang": "en"
   },
   {
-   "title": "Começando com Verilog",
-   "url": "https://dev.to/marlonhenq/comecando-com-verilog-13n0",
-   "date": "2023-09-16T05:54:14+00:00",
-   "summary": "Opa, eae?   Demorou, mas chegamos a um dos posts que realmente tinha uma galera me cobrando...",
-   "points": 148,
-   "tech": "verilog",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The Ultimate Guide to FPGA Development Tools | What is VHDL Design Flow ?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZTThwOEJQVGgtdzd1NUN4YTBPVmttRFNwWF9XMUZ6RzFQT0owbEZWSV9jUlo2eG55OXAxWHNjSWlESEtEQTRTaWlFSHF0SnVLbERSdW13?oc=5",
    "date": "2023-08-22T06:03:30+00:00",
@@ -881,17 +1023,6 @@
    "tech": "verilog",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Verilog: Mux 2 to 1 (Multiplexer)",
-   "url": "https://dev.to/iw4p/verilog-mux-2-to-1-multiplexer-3kn4",
-   "date": "2023-01-05T17:24:36+00:00",
-   "summary": "Understanding the low levels always helps me to know and learn better and touch the reality of...",
-   "points": 2,
-   "tech": "verilog",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -1002,27 +1133,6 @@
    "tech": "verilog",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "VHDPlus IDE for Pros and University with VHDL or Verilog",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjRxY1kwNGRXZnFodGI4TGlTWTV5ejR3Zkw3UWlKWm1QaTJ3ei1fR0NkcXJCYXIwT3U2TVM4eThRbFk3OXQ2SFc5cm5xZGlNYkwtRl9n?oc=5",
-   "date": "2022-02-07T18:39:48+00:00",
-   "summary": "VHDPlus IDE for Pros and University with VHDL or Verilog YouTube",
-   "tech": "verilog",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Making fancy FPGA projects with external I/O using the GPIO",
-   "url": "https://dev.to/lambdamamba/using-the-gpio-for-external-inputs-and-outputs-for-fancy-fpga-projects-2697",
-   "date": "2021-08-14T18:47:19+00:00",
-   "summary": "Nothing to see here.",
-   "points": 7,
-   "tech": "verilog",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {

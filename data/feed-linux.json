@@ -1,8 +1,58 @@
 {
- "generated": "2026-08-16T04:57:52.332338+00:00",
+ "generated": "2026-08-17T05:23:36.806286+00:00",
  "tech": "linux",
  "count": 220,
  "items": [
+  {
+   "title": "Linux Kullanıcı Yönetimi: Shell Türleri: Interactive ve Non-Interactive",
+   "url": "https://medium.com/@ozcankaraa/linux-kullan%C4%B1c%C4%B1-y%C3%B6netimi-shell-t%C3%BCrleri-interactive-non-interactiv-ve-alias-variable-2103acffb7f8?source=rss------linux-5",
+   "date": "2026-08-17T00:37:16+00:00",
+   "summary": "Alias, Variable, Environment Variable, History Komutlar&#x131; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Linux vs. Windows: What the Economics Actually Says About Open Source and Proprietary Platforms.",
+   "url": "https://medium.com/@garythatcher608/linux-vs-windows-what-the-economics-actually-says-about-open-source-and-proprietary-platforms-1bcd1ec019c9?source=rss------linux-5",
+   "date": "2026-08-16T19:34:22+00:00",
+   "summary": "For two decades, the rivalry between Linux and Windows has been treated mostly as a cultural story &#x2014; hackers versus a corporation, freedom&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Learning Linux Permissions: Understanding Who Can Do What.",
+   "url": "https://medium.com/@tubonemi.orris/learning-linux-permissions-understanding-who-can-do-what-545a4e398acf?source=rss------linux-5",
+   "date": "2026-08-16T18:57:05+00:00",
+   "summary": "When I started learning IT Support, I knew that Linux was something I would eventually need to understand. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "5 Things I Check First When a Linux Server Goes Down",
+   "url": "https://asepsayyad007.medium.com/5-things-i-check-first-when-a-linux-server-goes-down-db7f61a1080d?source=rss------linux-5",
+   "date": "2026-08-16T16:56:37+00:00",
+   "summary": "When a production machine drops offline or stops responding, guessing waste precious minutes. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building Your Own Custom Ubuntu ISO (and Hardening It While You’re At It)",
+   "url": "https://mehmetozgenozdogan.medium.com/building-your-own-custom-ubuntu-iso-and-hardening-it-while-youre-at-it-87af75d6e9e4?source=rss------linux-5",
+   "date": "2026-08-16T16:22:25+00:00",
+   "summary": "I got tired of doing the same thing over and over: fresh Ubuntu install, then an hour of apt install this, apt install that, tweak SSH&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Free Kali Linux Course in India (2026): Complete Beginner’s Learning Guide",
    "url": "https://bevijaygupta.medium.com/free-kali-linux-course-in-india-2026-complete-beginners-learning-guide-690247bdb788?source=rss------linux-5",
@@ -117,6 +167,17 @@
    "date": "2026-08-15T12:06:46+00:00",
    "summary": "This is Level 5 of our Kubernetes networking series. So far, we've built up a solid...",
    "points": 2,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Install Hadoop on WSL2 Ubuntu (2026): Complete Step-by-Step Guide",
+   "url": "https://dev.to/bigdatatoday/install-hadoop-on-wsl2-ubuntu-2026-complete-step-by-step-guide-388j",
+   "date": "2026-08-15T11:29:13+00:00",
+   "summary": "If you've searched \"install Hadoop on WSL,\" you've probably found guides from 2020–2023, most written...",
+   "points": 0,
    "tech": "linux",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -282,6 +343,16 @@
    "lang": "en"
   },
   {
+   "title": "انتقلت إلى لينكس؟ هذا هو التطبيق الوحيد الذي ستحتاجه",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VTjdoWngyaV90cVVyRU9ZeS1PcmFEcUkydlZjMnZkMmNIdmZ2S0Q0NzR6MFM3eXdac1VCc0JZMFlzdEtId0hRTGxUejY3cWxvREVDQjhn?oc=5",
+   "date": "2026-08-13T15:55:26+00:00",
+   "summary": "انتقلت إلى لينكس؟ هذا هو التطبيق الوحيد الذي ستحتاجه YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "SpriteLoop - Awesome FREE Animation Software - Windows|Mac|Linux",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5aFhsYXJlUHEwaTE1VExHclJBU0xoS3MyWVFjWnh6T211dkhUVmd3SVR5RjQ2S1VKejA0NkE3TDVVblpxa1V3UjUzUmctWEdUVUZPeGd3?oc=5",
    "date": "2026-08-13T15:13:23+00:00",
@@ -423,17 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "8 Linux Myths Even Senior Engineers Still Fall For (And How They Hurt Production)",
-   "url": "https://dev.to/asepsayyad007/8-linux-myths-even-senior-engineers-still-fall-for-and-how-they-hurt-production-1o01",
-   "date": "2026-08-12T16:39:23+00:00",
-   "summary": "Think years of experience make you immune to Linux misconceptions? Here are the bad habits,...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "أوبنتو مش زي ما توقعت! | تجارب لينكس #2",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hS1gwMTRKVUFhU0J2YlR3RUV0dTZUZDdGbzNZYlhDYjZZRFV5OThORnMzd1cyTlJfVXVNZk02ZC1JcWY0TEVmeDRsNkhjRHJXTnBnMnNB?oc=5",
    "date": "2026-08-11T11:00:22+00:00",
@@ -458,6 +518,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52VlMzTG1TLTdSTTNNZzB2TEoyLUN0cGJVTUlsaHdTVGRkbWttNURMOE1adEVuX19vT2VLdlc4VzVRSWprcXJRcmNqcHNId1h3b0VUUDBn?oc=5",
    "date": "2026-08-09T20:54:48+00:00",
    "summary": "Bootlin \"Understanding the Linux graphics stack\" training course introduction YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Packaging Formats: Deb, RPM, Flatpak, Snap & AppImage",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00d2Eta3hGYjFSekE2alRsLXQtMHVwUGs0YzNoM0UyRHN3OGJzRkJSTzhneDdBNGtGN0c2SDNmQnVuOXNkNGJqY0lRSnYtaEhjYlU4RzhB?oc=5",
+   "date": "2026-08-09T13:00:06+00:00",
+   "summary": "Linux Packaging Formats: Deb, RPM, Flatpak, Snap & AppImage YouTube",
    "tech": "linux",
    "sourceId": "yt",
    "source": "YouTube",
@@ -752,6 +822,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Linux Full Course for Beginners 2026 - Complete Beginner Guide 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqWktiSWc5TEFQMWhIUUFqc1ljOUpwOVd1c1JqRGFVbHZDLVRLSm5BS2p1czZrS2V0MEpfQi1rWkY1LXVVaGVVRENKWThFYzEweDl4M1l3?oc=5",
+   "date": "2026-04-13T07:00:50+00:00",
+   "summary": "Linux Full Course for Beginners 2026 - Complete Beginner Guide 2026 YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Manjaro: the most popular Arch distro but should you?",
@@ -1154,6 +1234,16 @@
    "lang": "ar"
   },
   {
+   "title": "Oracle DBA Journey Begins | Day 2 - Linux Training",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBseFpQV3ZLVWtLUE13WEZrWkRVTjRvcFlEem1fVlZiVzZ2ZHV6S3hfams5S3VINEh3cXZHWGV3U05oZFF6NFF3ZUVvT2lPbDN5VEViOGZR?oc=5",
+   "date": "2025-10-07T03:10:57+00:00",
+   "summary": "Oracle DBA Journey Begins | Day 2 - Linux Training YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Linux Full Course - 10 Hours [2026] | Linux Tutorial For Beginners | Linux Training | Edureka Live",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBub2tRSG1HSDM5X2FEQWVHODhJbm9FZXNUZmQzak5DNndXX1ZMZGh5WEVydDZhbkxXT3NMTXFVb1JqTXFDX01QMDM5dHpaQjdXU3BwdFZn?oc=5",
    "date": "2025-09-23T17:09:18+00:00",
@@ -1198,6 +1288,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11aUlwU1B5UnF2aHBLd3JwVXpDSGE4LXd3QkoyUlJObnhqdFhDcFFGRHZnSkNJaVJjcElaSkp5b1ZRNXl5ZHkyY1A3LVFtb1pzek1LY1Fn?oc=5",
    "date": "2025-08-22T17:00:50+00:00",
    "summary": "Debian 13 Upgrade | الترقية خطوة بخطوة وحل مشاكل الإقلاع GRUB YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الدرس السادس تنصيب ويب سيرفر على لينكس وتنصيب الفايروول والتحكم فى الجهاز",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15Z0c3SWdvM1l0QVEtd1E5cFNrUkhNY3pFbklvaEh0aWpGUHowSm13YXBxOXExaW42dzllWDZLSVAta2cwdEJEYWhLRTNnOFU4dzF3NndR?oc=5",
+   "date": "2025-08-20T13:02:58+00:00",
+   "summary": "الدرس السادس تنصيب ويب سيرفر على لينكس وتنصيب الفايروول والتحكم فى الجهاز YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1282,6 +1382,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "SELinux - Complete Linux Security & Hardening with Practical Examples",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YSzNLVXR6dFhpOERXeDZ5eWsxSm1EOTIwVDltWGNLR3hBTjJWd0FidDJMekFGdC1fTW56YlZ6ZkFZMm9BNmJySldnYVdEMDVJc0lDbXN3?oc=5",
+   "date": "2025-06-16T05:58:07+00:00",
+   "summary": "SELinux - Complete Linux Security & Hardening with Practical Examples YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "وداعًا ويندوز 🚨 Q4OS Linux النظام العتيق الذي دمر ويندوز ويعمل على 1GB RAM 🚀 بديل خارق يحتل العرش",
@@ -1424,6 +1534,16 @@
    "lang": "ar"
   },
   {
+   "title": "طريقة تحميل وتنصيب وحذف البرامج على #لينكس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QZng1ZWp4Z0ZYZFBHN3dDUk5PZ2ZDRnBtQm1mM0NUUUljaWE0dWZNX1BNLUNGUlVwRzlmR3VGYVJOSGFJSHhtMjhFSFlnZWFqRmlNVi1R?oc=5",
+   "date": "2025-03-18T13:45:00+00:00",
+   "summary": "طريقة تحميل وتنصيب وحذف البرامج على #لينكس YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تجربة وشرح استخدام لينكس Linux Mint",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRXFOaTFOa01uZkFVWlJja01nXzQ5NlpTRzZHeU52RTdabUw5ZHNqTHc4WGpURkF4TElyU1JORGJwUEZaMllELUZCaDViNTg1NGRUVzF3?oc=5",
    "date": "2025-03-18T11:05:55+00:00",
@@ -1554,6 +1674,16 @@
    "lang": "ar"
   },
   {
+   "title": "Complete Linux Training Course to Get Your Dream IT Job - Part 2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OFRvMDNnRDA2OG9uTGhHVGE0T1Q0eFR2SmhHVjZoNkMwVUh2OGtTSmwwdWJWcWcxX1FkVUkxWEtkOVJzNnBySXVibjhGbHdWRU42ejF3?oc=5",
+   "date": "2024-12-04T00:53:10+00:00",
+   "summary": "Complete Linux Training Course to Get Your Dream IT Job - Part 2 YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "لينكس للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTUVYNmItQllNaGJxcTM0SUpzdWl1bU85M0ZYaW5NZUFRQms4U1NaNnVJTndJcVA2blI3c0tOdnItVXlVQXgxMWkwdy1DVXo2T3dVTlhB?oc=5",
    "date": "2024-12-01T11:00:20+00:00",
@@ -1674,26 +1804,6 @@
    "lang": "ar"
   },
   {
-   "title": "Install Docker Engine on Ubuntu",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44OUtKZFdLQUNfYmliY3psYWQwZWhNaFF5R2YzWmZWeENxNnJISU0zTkVEcU9rMUFNVFlVTFBZcUxhSVRBTi1iWWFNZWpPQTRBWnF2cHRn?oc=5",
-   "date": "2024-08-15T04:32:59+00:00",
-   "summary": "Install Docker Engine on Ubuntu YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Tutorial 2024 for Beginners | Learn Linux in Kannada | MicroDegree",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fQUxnbVV3VVdIVUd1c3VPVnlMTGd0MFRmbmlKem4zemVQTEp6dXRyZmlPbTg0UEY5aHFZWktBYVdCMHFGUnZfcmJkUi12dGtpQlI0U2h3?oc=5",
-   "date": "2024-08-10T06:11:14+00:00",
-   "summary": "Linux Tutorial 2024 for Beginners | Learn Linux in Kannada | MicroDegree YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "شرح بنية نظام ملفات لينكس والفرق بينها وويندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3V0ZUUFlBdmJqZ2g2bjR3b0s1aENKVE9mb2M1Mk0xUWluTUUtcU1iN1RLNVRMVDh4RlhFYXZ2TFlkNGlCazg5VzFvM3ZDNVBvS3pGcjF3?oc=5",
    "date": "2024-08-10T05:32:11+00:00",
@@ -1732,16 +1842,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Linux Full Course - 10 Hours | Linux Tutorial For Beginners | Linux Training | Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rNWs1c1Z3OENzYnZoa1JfN05SVmdkMWRqdlN1dHFfeTJyXzNhc2JLdjhHVHlxZ2luR2NRYmN2RHlMRnI4VTBzVVdibi1pa3I3OHFJVXRR?oc=5",
-   "date": "2024-07-20T15:16:49+00:00",
-   "summary": "Linux Full Course - 10 Hours | Linux Tutorial For Beginners | Linux Training | Edureka YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "Ubuntu 24.04 | الانتقال الآمن من ويندوز إلى أوبونتو والحفاظ على كل ملفاتك الشخصية",
@@ -1854,16 +1954,6 @@
    "lang": "ar"
   },
   {
-   "title": "Linux Command Line for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UaTRuVGpqSWI3ZXdXbDR5NHY0aU9kVE9xaEtIM0tHNzVXdGVkdWFPMXNDOWZlYS1LWS1MNkd5QU52b195ODRpZjZiWWNJRUV0TjdRMEpn?oc=5",
-   "date": "2024-04-22T14:05:00+00:00",
-   "summary": "Linux Command Line for Beginners YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Arch | أسهل طريقة لتنصيب أرش لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SRnZWdDBseHpyQ3JRUEl5ZXJRVGhoVkRfMmVTTmp4ZHV6VXIySkMyanlqajFmU0pmdFg1WkVRWUJyVkFXM1BpX1NORnAtQkw3Qkt3ampB?oc=5",
    "date": "2024-04-19T17:00:23+00:00",
@@ -1874,16 +1964,6 @@
    "lang": "ar"
   },
   {
-   "title": "Linux Full Course for Beginners in 3 Hours|Linux Full Course 2026|Linux Tutorial 2026|Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsVDNmTlpUNG1aQWtLMFBhcTRzd2tDWWVpQXhfeVUtRnJZLWY1VkFtbEQybE8zVUMtNHpjRXFSaDEtWWsxUVpJZTVCN085SE12RGptWWJR?oc=5",
-   "date": "2024-04-17T15:30:05+00:00",
-   "summary": "Linux Full Course for Beginners in 3 Hours|Linux Full Course 2026|Linux Tutorial 2026|Simplilearn YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Wubuntu | تنصيب ومراجعة لتوزيعة ويندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Wb2VPN2daZ0NzTC03d0RxbHcwUHdGSEFNckkxTFZSMlktMVh4VTFmQ01yc0JPczJLc013R09wQmpYbWo1Z0tLTkdOdGJkNWFCTGo2UTF3?oc=5",
    "date": "2024-03-08T15:00:18+00:00",
@@ -1892,16 +1972,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Day-01 : Linux Tutorial | Ashok IT",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZYkhuUzYzbWVMTWl1N05sTVpaZWJaRmJycGZSYzFuRjVkZzA2TzhUTndXSXhIdTlhUGJha2FVTVRXTDJJWHhSVGJGbUJ1UWp6RVJZRHV3?oc=5",
-   "date": "2024-02-29T02:38:04+00:00",
-   "summary": "Day-01 : Linux Tutorial | Ashok IT YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "دورة كالي لينكس|kali linux course",
@@ -1954,16 +2024,6 @@
    "lang": "ar"
   },
   {
-   "title": "Complete Linux Training For Beginners: Learn Basics & Commands In 2025 - FREE",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1TDJBa09nRHNKYlJmX01oZ0xjX3VBWUtZRGVFYTl0b3hqLVg5SHhQZEVSM192d3o2SzhrZ2RWYUlSd3EwNFJIU1VsR29RczU1bGNyWnZ3?oc=5",
-   "date": "2024-01-08T05:00:16+00:00",
-   "summary": "Complete Linux Training For Beginners: Learn Basics & Commands In 2025 - FREE YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "طريقة تثبيت التطبيقات فى نظام الابونتو ubuntu من المتجر المدمج بالنظام app center",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Za0dFR29NY0Fkd0JXUHdadjFvVDZtbHNxYXBGMzJWR25SQlpsQnN4Zjd5aFR3UzRsdmtBVlgxOXBMQUljajZZQ3R0WnZTVnlrNWt0ZVdB?oc=5",
    "date": "2024-01-07T11:54:20+00:00",
@@ -1984,14 +2044,14 @@
    "lang": "ar"
   },
   {
-   "title": "001-Intro and Linux History - Linux course 2024",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01V3NKRU9DQ2FpMUFTVmVNczhDbjRvQ2JQb0M3M0ZwZFNWYUhxSHJKaXRoM3oxRWlMQzNNcTFjZDUzanF0TlQ3bjlMSDZVTGdkUnB1RHRR?oc=5",
-   "date": "2023-12-19T09:00:42+00:00",
-   "summary": "001-Intro and Linux History - Linux course 2024 YouTube",
+   "title": "تعريب نظام الابونتو ubuntu بالكامل | تعريب القوائم والواجهة والاعدادات",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PT2N5QkQ5SjJXSndyYWJ4R0VrRUlORDBPblQtSmM2OW8ydldXWFNwRnB1TWJkRlpBcERta3FHUmlhTExXY25NZDRfTm9rN0V4UmI0YTVR?oc=5",
+   "date": "2024-01-05T12:38:03+00:00",
+   "summary": "تعريب نظام الابونتو ubuntu بالكامل | تعريب القوائم والواجهة والاعدادات YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "تصطيب و تشغيل بورتابل كل الانظمة من فلاشة واحدة كالي لينكس وويندوز و Kali لينكس واندرويد وهايرنز USB",
@@ -2024,14 +2084,14 @@
    "lang": "ar"
   },
   {
-   "title": "Linux For Beginners - Full Course [NEW]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDNncyN0huWG4zZFNaSGt3QU9ueVNURjZCLXBOMlFMb3lUWnRqSDZrc1dwY0pmRU01ektEbU02eUQ1cFRodkkyVjR2bFA0T2JHa0FYQXpR?oc=5",
-   "date": "2023-12-04T13:10:49+00:00",
-   "summary": "Linux For Beginners - Full Course [NEW] YouTube",
+   "title": "الدرس الأول - مقدمة دورة أساسيات سطر الأوامر في لينكس | Linux Command Line Essentials",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IbDJELWtKMVREb1d1bC1LLWFJWjMzdTBfUWJzTzlFN0ZUTWtVZW4tSDgtdDRlR1Y5TnBHanMzZlVtMFVsdFZaT0VDNk9oRGQtWTlsNDJPUXJ3NGdkcjZjdlhacjJ2QVpMcVJNRjlLb1ZmVHdxWnppdUVwckM?oc=5",
+   "date": "2023-11-30T13:38:59+00:00",
+   "summary": "الدرس الأول - مقدمة دورة أساسيات سطر الأوامر في لينكس | Linux Command Line Essentials YouTube",
    "tech": "linux",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "Fedora | جديد فيدورا 39 وتجربتي بعد الترقية",
@@ -2072,16 +2132,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "🔥 Kali Linux Course 2026 | Kali Linux Tutorial 2026 | Kali Linux Full Course | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXUHRVbEozZlRtUXkyMHdBZFJQcVM3MVVYYTVkT2dLRTlZbWJNX3c0bF9QRk02ajFLOUZtYUtna2hzRGRKMkFmaFlxVFFaMC1WenpMblhB?oc=5",
-   "date": "2023-11-05T15:30:15+00:00",
-   "summary": "🔥 Kali Linux Course 2026 | Kali Linux Tutorial 2026 | Kali Linux Full Course | Simplilearn YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox",
@@ -2178,56 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcmtkeHRjbDZ4aVRMbWhzR1RoZVM1WDZRTkxrR2VFdmtlZW10OElKV2RTVlhEeGNsdHhkOTBLRk5iX2o1RnFLaklEd0lrYlV0dFBTNHBB?oc=5",
    "date": "2023-07-03T16:00:41+00:00",
    "summary": "Peppermint OS | تنصيب ونظرة على توزيعة خفيفة وسهلة YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Debian 12 | Plasma | تنصيب أسهل وواجهة رائعة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tdWM3bHBzUzhPWVpLbURZTFh5bFhIeXNjQVV1VmhzaUhXM09NRDQ0OVd3OF84S3hneTd2eU9NQnoxdE12RG1GMWtQVUY5Z1lhWkwxN3dR?oc=5",
-   "date": "2023-06-23T16:00:14+00:00",
-   "summary": "Debian 12 | Plasma | تنصيب أسهل وواجهة رائعة YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "ما هو نظام الأختراق كالي لينكس ؟ | ? what's the kali linux hack system",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OXNwZ201TjRuaWxHUjF3SjF6amJxNmdRR3hDVGlwQWZESDNRWFU5UnZvR0tlNlJYdDR3REJ3bVdKY2ZFWXdlcV9ZUkVZYnBESVVPZHVB?oc=5",
-   "date": "2023-05-24T19:57:51+00:00",
-   "summary": "ما هو نظام الأختراق كالي لينكس ؟ | ? what's the kali linux hack system YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "حل مشكلة تكبير الشاشة ونقل الملفات في توزيعة أوبونتو 23 تثبيت أدوات VMware Tools",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tZzlfTldCeWVtakNjQ1pZQTZMRHNMS2huY3p3RlRieWxQdDVJRTB1THF1N2xOb2NaS1lfZjE1RHdZa0VsdmRLRm5pYTdCVG1OcmdPbE1R?oc=5",
-   "date": "2023-04-30T20:34:55+00:00",
-   "summary": "حل مشكلة تكبير الشاشة ونقل الملفات في توزيعة أوبونتو 23 تثبيت أدوات VMware Tools YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "انتقل من ويندوز إلى أوبونتو وحافظ على كل ملفاتك",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnY0lydnk0SzZMS3hDbDZzQ1NjUWhqZTR2c18tZUpmRGZwcFg1T2NsMzRrbmZqVy1EclB4MG9vZ28xblhKYUlzZVVWc2lLZGpjS3JPR2hB?oc=5",
-   "date": "2023-04-17T18:30:26+00:00",
-   "summary": "انتقل من ويندوز إلى أوبونتو وحافظ على كل ملفاتك YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Linux Lite | توزيعة خفيفة وسهلة بديلة لـ ويندوز",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xLUFDZ2hFbXQzWUVZMXhrbjFwZTlDOVR0ZWQzSUxCVmY1NHpKQzhHWlp2MC11NkNJVkVFVnJUdzhrd2VrdFJqeWhLU0NyX1k3R0NnZU5n?oc=5",
-   "date": "2023-04-13T18:30:28+00:00",
-   "summary": "Linux Lite | توزيعة خفيفة وسهلة بديلة لـ ويندوز YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",

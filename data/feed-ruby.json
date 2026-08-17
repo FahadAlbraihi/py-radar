@@ -1,8 +1,51 @@
 {
- "generated": "2026-08-16T04:56:36.250291+00:00",
+ "generated": "2026-08-17T05:22:22.374697+00:00",
  "tech": "ruby",
- "count": 112,
+ "count": 117,
  "items": [
+  {
+   "title": "Fixing \"g++ Not Found\" When Debugging Rails in RubyMine on Fedora",
+   "url": "https://dev.to/dannyslee1996/fixing-g-not-found-when-debugging-rails-in-rubymine-on-fedora-2nl2",
+   "date": "2026-08-17T03:10:57+00:00",
+   "summary": "Fixing \"g++ Not Found\" When Debugging Rails in RubyMine on Fedora   TL;DR: If clicking...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Built active_record-undo",
+   "url": "https://bugfree.medium.com/why-i-built-active-record-undo-68dbf0a2d576?source=rss------ruby-5",
+   "date": "2026-08-16T11:35:22+00:00",
+   "summary": "Solving Cascading Restorations in Complex Rails Domains Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "When a build breaks, the bug fixes itself",
+   "url": "https://dev.to/shipeasy/when-a-build-breaks-the-bug-fixes-itself-3nmm",
+   "date": "2026-08-16T00:02:19+00:00",
+   "summary": "When a build breaks, the bug fixes itself  We stopped babysitting CI failures. Now a red build files...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "78 seconds to 2: the covering index that fixed our slowest page",
+   "url": "https://dev.to/nitish_anand/78-seconds-to-2-the-covering-index-that-fixed-our-slowest-page-3eaj",
+   "date": "2026-08-15T23:50:32+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           The...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Your Rails Database Isn’t a Landfill: Introducing Cold Storage",
    "url": "https://medium.com/@afshmini/your-rails-database-isnt-a-landfill-introducing-cold-storage-dd1ebdae957f?source=rss------ruby-5",
@@ -11,6 +54,17 @@
    "tech": "ruby",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Built a Blog App with Rails & PostgreSQL – Looking for Code Review!",
+   "url": "https://dev.to/soham_chavan07/built-a-blog-app-with-rails-postgresql-looking-for-code-review-30a4",
+   "date": "2026-08-15T15:01:51+00:00",
+   "summary": "Hey DEV community! 👋  I've been working on a Blog Application built with Ruby on Rails to practice...",
+   "points": 2,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -377,6 +431,16 @@
    "lang": "en"
   },
   {
+   "title": "Ruby UNLOCKS Laser Eyes and Super Strength in Kraken Training! | Ruby Gillman, Teenage Kraken",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LWmxvZWN5YUU1dlFoMnpLQVVhMFZBbEctSEg4QmFzR0MwNFpvTk1kOUpzOWdkTXdaQUhtbklOZzNqMTRzU1o2YWtTNzBkX1Y1QjEwMENB?oc=5",
+   "date": "2026-07-12T16:00:02+00:00",
+   "summary": "Ruby UNLOCKS Laser Eyes and Super Strength in Kraken Training! | Ruby Gillman, Teenage Kraken YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Absolute Beginners Guide to Deploying Rails 8 to Production (Kamal Tutorial)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oa043YUkteDU3VWg3ZC1rMjktTV85Z0FuOGI5Y2dlMGxWSktMWVVtckVLTEJ5R2tHSVduRjg3YmVlUEFfWUdITEp6N043cjhDMU0xN1NR?oc=5",
    "date": "2026-01-26T13:01:48+00:00",
@@ -631,6 +695,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OYldPcTRIeXFVbndxaUhDTmVvcThOU0VjMmo1X1VIMGx1VkctYjV4RW15b0dacUl1NF85S1FYVVRFQWU4ak0wNnFMdjN4bmszUEtCVHRB?oc=5",
    "date": "2024-04-08T16:15:09+00:00",
    "summary": "Reddit Clone with Ruby on Rails 7 - Full Course YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "01 - Open and Close - Beginners Guide to Gosu in Ruby",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5T3FuQl94ZE5QN2VLZFFaNlA5UFgxWlZLbEJReE9zQS1FNWxBbXNsYzN3bTVKcUthNUdZOEtIQVUtZjNFWWJuY1M4ZER0WHl5WWMyNmF3?oc=5",
+   "date": "2024-03-18T00:15:00+00:00",
+   "summary": "01 - Open and Close - Beginners Guide to Gosu in Ruby YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -967,6 +1041,16 @@
    "lang": "en"
   },
   {
+   "title": "Advanced Ruby Modules & Class Inheritance",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HblZWWXRleVVVLTR3Z3RZVnB3b05pdy1laXJ0R3NXdXlQWjdlVUNUWXAxb3B2eTJISDV1ZENtQ3YtNzV3NVBTRExKWUk5UnFMVVFxbmFB?oc=5",
+   "date": "2021-06-07T19:06:43+00:00",
+   "summary": "Advanced Ruby Modules & Class Inheritance YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Learn Ruby on Rails Course in Tamil | Ruby on Rails Complete Basic Course in Tamil",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PeFRLblJ4dVFBUDRyamVzOWdkMktxRUh2T1N5SlFTZDgwYUVQUkxhZ0ZEb3Y3UXBGdE9HbXotNXh0VV9fM0RVdlVlS29lLS1mQ0pzLVJR?oc=5",
    "date": "2021-06-03T05:25:35+00:00",
@@ -1091,36 +1175,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mYnZSY3lhSF8tNXJyNk5OQkx2QWd0UzZHTExlRVBBeXA3YWtBbTBaN1BPQU5aME5ab3hVMjZJcklTU0wta1dWblBYaUdFQnlpUEg4T2JR?oc=5",
    "date": "2020-11-06T20:49:40+00:00",
    "summary": "BABY ALIVE Twins Max and Ruby Training Routine YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Ruby on Rails - Part 1 | Ruby on Rails Tutorial | Ruby on Rails Course | Ruby on Rails Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBROHI5Uzl1UGxGSkRFd1J2a0oyekNSMGdXMi1ISVB6N3hmdElLX2JRNlZiRGFIZHBPNldvU05xR2UxR1pUdXdNNTVHMGlJNHpxTFc1VExR?oc=5",
-   "date": "2020-10-28T13:47:48+00:00",
-   "summary": "Ruby on Rails - Part 1 | Ruby on Rails Tutorial | Ruby on Rails Course | Ruby on Rails Full Course YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Ruby On Rails Crash Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXTjVfZ0dlU1RyY1MySzE4UWpNdVR4aHY0bVZkanE2TkpCdWJBaUNvTURSMGFkSndTUFRTVEowbzZ3ZUU4dThtLTAtVnJUaHVpeWRHYzB3?oc=5",
-   "date": "2020-09-20T10:13:58+00:00",
-   "summary": "Ruby On Rails Crash Course YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn Ruby in One Hour | An Hour of Ruby - Episode 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55bi1NSnFNZWJ5WVhybkFwRzBVcjhNZHQ0Y2pMUnp1ZVNPdm1qcVR3VjZHSk5aMXhLTlU0NlF5MjQ0MHlvMEVnX1FYSXVQRUpZS0E0a1NB?oc=5",
-   "date": "2020-08-18T04:12:53+00:00",
-   "summary": "Learn Ruby in One Hour | An Hour of Ruby - Episode 1 YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",

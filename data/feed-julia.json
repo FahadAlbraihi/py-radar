@@ -1,8 +1,18 @@
 {
- "generated": "2026-08-16T05:01:14.154349+00:00",
+ "generated": "2026-08-17T05:26:54.032496+00:00",
  "tech": "julia",
- "count": 96,
+ "count": 97,
  "items": [
+  {
+   "title": "Applying Julia’s Programming Philosophy To Application Architecture",
+   "url": "https://medium.com/chifi-media/applying-julias-programming-philosophy-to-application-architecture-5edb4a34ecb2?source=rss------julia-5",
+   "date": "2026-08-16T11:42:13+00:00",
+   "summary": "I built (and am building) an application entirely on the back of multiple dispatch. Continue reading on chifi »",
+   "tech": "julia",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Julia: Working with vectors and matrices — Part 4",
    "url": "https://medium.com/@angelogalvao/julia-working-with-vectors-and-matrices-part-4-8312b8133f2e?source=rss------julia-5",
@@ -769,6 +779,16 @@
    "lang": "en"
   },
   {
+   "title": "Data Visualization with Julia: An Introduction 2021-05-17",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wYm5yVGNacEExclhseFRVWG9OY2NlTGFxSHQ1QlMwVlJjamJNT21wV0sweFlMamx3WUthemhxUEtqbFZKQ3h3Y0VEdGpiM3NuckxwOHJn?oc=5",
+   "date": "2021-05-20T04:58:54+00:00",
+   "summary": "Data Visualization with Julia: An Introduction 2021-05-17 YouTube",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Julia: Making Animations with Macros in Plots",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESlY2Q0VWaXdSV2luaTF2M1MxV1hzSEZnWXZ3MzdWcGUxN25qMmI4V0s4NWVFOUtSc09abC14dXRVWkJ4Z3ZuM1k2UEtlRzVFcm1CZVlB?oc=5",
    "date": "2021-05-01T00:56:22+00:00",
@@ -879,6 +899,16 @@
    "lang": "en"
   },
   {
+   "title": "[01x09] Algorithms (part 1 of 2) and Recursion in Julia | Tutorial 9 of 13 | Julia for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYzNmREtfM0MtTXNseXFDUk53YnRNaG93OERSUFFMYzZFa3l3SkM1a2wxcXBTeFQ4OVFsUHJQNmhPdG1PWXZqZF9ucHJBZXpPSmdjNDhR?oc=5",
+   "date": "2020-11-08T14:50:42+00:00",
+   "summary": "[01x09] Algorithms (part 1 of 2) and Recursion in Julia | Tutorial 9 of 13 | Julia for Beginners YouTube",
+   "tech": "julia",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Julia Basics 4: Step Ranges, List Comprehension and Multi-Dimension Arrays",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WcTNfZUF1SDhkR2JZVjNqOGYxa0ZCeDZhRVNWdTh3aFZGcy1HbmpmQ3pSOHFuZ3NXa3M1YldaQWdxTTlZbTZDeFF3eWNXdmJFalpNWjh3?oc=5",
    "date": "2020-10-24T00:00:07+00:00",
@@ -943,26 +973,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wS1drOWEzOFZxcllkMG5ZeG5kWm1HN3VqeTJIYVRyMFlaMTJwVUtmSnVzQ0Z2V3JZRHhZUC1ybFVVMDBGVGhxSXlJQnV0bnp5ZUYtdFZB?oc=5",
    "date": "2020-07-26T18:10:01+00:00",
    "summary": "Doing Scientific Machine Learning (SciML) With Julia | Workshop | JuliaCon 2020 YouTube",
-   "tech": "julia",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Packages in Julia: How to Add and Remove",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Fd29LWGNlcDNaWUVid1BYcm1XSThKNGpmY09nM1V3VGZQZlpyTDdYNVNmT2k2N0o3T1FoMFUyRF96cHQ5eGVUREpqUTd0WGtrLUhIQXRB?oc=5",
-   "date": "2020-07-17T01:00:00+00:00",
-   "summary": "Packages in Julia: How to Add and Remove YouTube",
-   "tech": "julia",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "The Julia Programming Language",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RSWhVcTZSaTdISjk1cHE1akFwNEFQdjN6NG5CVFBWb1ZiUUpiRVoxVXhNV2NVRmhZTC1OVGpNMzJmaWE4X2lFaWpnR1J5YWxkc1NPSw?oc=5",
-   "date": "2020-07-11T18:56:19+00:00",
-   "summary": "The Julia Programming Language YouTube",
    "tech": "julia",
    "sourceId": "yt",
    "source": "YouTube",

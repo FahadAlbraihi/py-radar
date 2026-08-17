@@ -1,8 +1,172 @@
 {
- "generated": "2026-08-16T04:55:21.618931+00:00",
+ "generated": "2026-08-17T05:21:09.188384+00:00",
  "tech": "rust",
- "count": 99,
+ "count": 113,
  "items": [
+  {
+   "title": "\"I built a lying MCP server on purpose — here's how you catch it\"",
+   "url": "https://dev.to/wolfejam/i-built-a-lying-mcp-server-on-purpose-heres-how-you-catch-it-102g",
+   "date": "2026-08-17T05:06:18+00:00",
+   "summary": "TL;DR — A server's README can say anything. Its tools/list response either backs that up or it...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ARTF is a gRPC hop. VAST is a different one.",
+   "url": "https://dev.to/aleksuix/artf-is-a-grpc-hop-vast-is-a-different-one-5e4",
+   "date": "2026-08-17T00:57:37+00:00",
+   "summary": "ARTF mutates OpenRTB. The creative in adm is VAST. vastlint-grpc puts the same catalog on the pipeline that already speaks protobuf.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We catalogued 55+ AI-agent failures in low-level code — and shipped 124 verified skills to fix them",
+   "url": "https://dev.to/trothbyte/we-catalogued-55-ai-agent-failures-in-low-level-code-and-shipped-124-verified-skills-to-fix-them-369l",
+   "date": "2026-08-16T22:26:06+00:00",
+   "summary": "A source-traced catalog of how AI coding agents fail at C, C++, Rust, and assembly — and a 124-skill library that fixes exactly those failures.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The 22 Rust errors every beginner hits, in the order they hit them",
+   "url": "https://dev.to/yetmike/the-22-rust-errors-every-beginner-hits-in-the-order-they-hit-them-13gi",
+   "date": "2026-08-16T20:50:35+00:00",
+   "summary": "Rust's compiler is the best teacher in the language and almost nobody reads it properly. Below are...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Pylint Was Too Slow, So I Built Arid",
+   "url": "https://dev.to/spongeb0b/pylint-was-too-slow-so-i-built-arid-2h60",
+   "date": "2026-08-16T15:11:47+00:00",
+   "summary": "I didn't set out to write a duplicate-code checker.  I was working on Polaris, a fairly large Python...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Should the Language Change the Moment I Build a UI?",
+   "url": "https://dev.to/kentaromorishita/why-should-the-language-change-the-moment-i-build-a-ui-fgd",
+   "date": "2026-08-16T13:56:42+00:00",
+   "summary": "I wanted UI code to remain an extension of ordinary data, functions, match, Signal, and Html instead of becoming a separate programming world.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Can Barely Read Rust, but I'm Building a Compiler in Rust",
+   "url": "https://dev.to/kentaromorishita/i-can-barely-read-rust-but-im-building-a-compiler-in-rust-1d59",
+   "date": "2026-08-16T13:55:02+00:00",
+   "summary": "Codex writes a large part of Seseragi's Rust compiler. That hasn't made architecture less important — it has made bad architecture faster to complete.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What If a Function Definition Looked Like Its Type?",
+   "url": "https://dev.to/kentaromorishita/what-if-a-function-definition-looked-like-its-type-4b8c",
+   "date": "2026-08-16T13:53:16+00:00",
+   "summary": "Seseragi's function syntax looks unusual because it has no parameter-list parentheses. The part I actually like is that removing parameter names leaves the function type almost unchanged.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Common Programming Concepts - Part 2 (Data Types)",
+   "url": "https://dev.to/aditya_verma_22/common-programming-concepts-part-2-data-types-f5c",
+   "date": "2026-08-16T13:20:31+00:00",
+   "summary": "What are Data Types?   As we discussed in the last article that we can store any data in...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Build an MCP server in Rust with rmcp: a walk-through 🦀",
+   "url": "https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif",
+   "date": "2026-08-16T12:32:56+00:00",
+   "summary": "Step-by-step: scaffolding a real MCP server in Rust with the official rmcp SDK — tools, JSON schemas, AWS calls, stdio transport, testing the protocol by hand, and wiring it into Claude Code.",
+   "points": 2,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
+   "url": "https://dev.to/wiseai/sushi-rs-svg-sushi-components-for-rust-frontends-2n1o",
+   "date": "2026-08-16T08:57:35+00:00",
+   "summary": "Sup Guys 👋!  I am back! It has been a long time no see!   So I came across the Frontend Challenge:...",
+   "points": 6,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript",
+   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-7-building-aggregation-pipelines-in-typescript-4gcb",
+   "date": "2026-08-15T20:08:53+00:00",
+   "summary": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript    LioranDB...",
+   "points": 1,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Roadmap: Building a Sub-Microsecond HFT Triangular Arbitrage Engine in Elixir",
+   "url": "https://dev.to/matheuscamarques/roadmap-building-a-sub-microsecond-hft-triangular-arbitrage-engine-in-elixir-4ji2",
+   "date": "2026-08-15T19:07:15+00:00",
+   "summary": "A step-by-step engineering roadmap for building an ultra-low latency cryptocurrency HFT engine using Elixir, Rust, and the Notification-Oriented Paradigm (PON).",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Installing Rust for vLLM on Graviton: a G5g walk-through 🦀",
+   "url": "https://dev.to/aws-builders/installing-rust-for-vllm-on-graviton-a-g5g-walk-through-599a",
+   "date": "2026-08-14T20:37:16+00:00",
+   "summary": "Step-by-step: getting vLLM's Rust frontend built and running on an aarch64 EC2 G5g box. rustup, setuptools-rust, protoc, the release flag, and how to prove the Rust frontend is actually the one answering.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Nexus progress, Frogs! Hackweek | Rust Update 14th August 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Oa1F4SjM3V3VLdWF1Y3JwcDdRTTJTaW5sU3V1Q1U2c2NxcUR0elRySkExT21wZ05faUo1UnpTMkV6RkRFTUMzRTR3MHpWRy0tM0Z0MW5B?oc=5",
+   "date": "2026-08-14T15:42:03+00:00",
+   "summary": "Nexus progress, Frogs! Hackweek | Rust Update 14th August 2026 YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
   {
    "title": "Moments: The Photo App I Built to Win an Argument",
    "url": "https://dev.to/fromthearchitect/moments-the-photo-app-i-built-to-win-an-argument-1edm",
@@ -539,6 +703,16 @@
    "lang": "ar"
   },
   {
+   "title": "How to Play Rust SOLO - Ultimate Beginner’s Guide",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tdUhuNDY3VEFsRkp0aFpaUTBGY2J2RFVjZjhZcGxiSEF4YUkzV3cwb212VHhHNmtoWjlSTUJYTm9LSXBCSl9IdHh2WE1tQ1BTZkhHSFR3?oc=5",
+   "date": "2025-03-09T12:14:47+00:00",
+   "summary": "How to Play Rust SOLO - Ultimate Beginner’s Guide YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Intro to Rust with Nathan Stocks",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQ2FLNVc0dHNmLXZjeE0zYlNkTEtfNFFsTHlLRWZKN1dPYmNDXzdyeEZnNmczeE92NXVzaWdCMER5TmIxVEdLUXU3SmRrbzB0SmFOTmRn?oc=5",
    "date": "2025-02-28T05:56:58+00:00",
@@ -913,26 +1087,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVURNSmRYOGlZT3hlVTJzSkM0SGQtbG9zRWphMVJyZDhpekRjUXhWcE1OYUJtOWpYRjd1cUZPY3F0S1g2cXJVaEJOT0FiMkZ4ZDdPdUJn?oc=5",
    "date": "2024-01-09T14:01:30+00:00",
    "summary": "Rust Installation, Hello World, Hello Cargo - Full Crash Rust Tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Complete Rust Course 2 Model To Master Rust Programming language",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kbnRTY1g3YWNISWM5LTFJX3F0MmstUk8ydUdaaGdlZzZQUjFLSmE3WHZKbUpxSkQ3enRzcFo5allnQzdxMHZqTjNZVE51VWtCNEx4SzJn?oc=5",
-   "date": "2023-12-29T17:00:08+00:00",
-   "summary": "Complete Rust Course 2 Model To Master Rust Programming language YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Rust Programming Introduction - Beginner Crash Course (1 Hour!)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PZDZXSWM1Y01YcjVWTmZuZHJZZjdMbEFvOVhQS0pnZDZkSF8yOHVEaFB5MklTVklxZFVPYU9NV3RGLW9QWFFvUWRmbUdTTC1QU2lWWVFn?oc=5",
-   "date": "2023-12-11T19:18:51+00:00",
-   "summary": "Rust Programming Introduction - Beginner Crash Course (1 Hour!) YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",

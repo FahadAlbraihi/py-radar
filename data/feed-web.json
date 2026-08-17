@@ -1,12 +1,44 @@
 {
- "generated": "2026-08-16T04:58:36.092405+00:00",
+ "generated": "2026-08-17T05:24:19.817314+00:00",
  "tech": "web",
  "count": 220,
  "items": [
   {
+   "title": "The CSS Box Model: The One Concept That Explains Almost Everything",
+   "url": "https://medium.com/@ishwaryagopinathan/the-css-box-model-the-one-concept-that-explains-almost-everything-3368d1255eff?source=rss------css-5",
+   "date": "2026-08-17T04:37:17+00:00",
+   "summary": "If there&#x2019;s one CSS concept that, once it clicks, makes everything else make sense &#x2014; it&#x2019;s this one. Spacing that looks &#x201C;off,&#x201D; elements that&#x2026; Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building Fluentic Style: The Anatomy of Debuggable Atomic CSS",
+   "url": "https://dev.to/omnidev/building-fluentic-style-the-anatomy-of-debuggable-atomic-css-5ca3",
+   "date": "2026-08-17T04:29:04+00:00",
+   "summary": "This is part of my Building Fluentic Style series, where I’m writing down the design decisions,...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Fluentic Style: Bringing the `css` Prop to SolidJS",
+   "url": "https://dev.to/omnidev/building-fluentic-style-bringing-the-css-prop-to-solidjs-1i82",
+   "date": "2026-08-17T04:15:29+00:00",
+   "summary": "This is part of my Building Fluentic Style series, where I’m writing down the design decisions,...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa",
-   "date": "2026-08-16T04:08:32+00:00",
+   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-550",
+   "date": "2026-08-17T04:12:24+00:00",
    "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
    "points": 0,
    "tech": "web",
@@ -15,21 +47,10 @@
    "lang": "en"
   },
   {
-   "title": "No Passport Required — Comfort Food Around the World",
-   "url": "https://dev.to/pawanatoshi/no-passport-required-comfort-food-around-the-world-4dfj",
-   "date": "2026-08-16T03:59:05+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your prompt is not a security boundary",
-   "url": "https://dev.to/dosai/your-prompt-is-not-a-security-boundary-382e",
-   "date": "2026-08-16T03:56:19+00:00",
-   "summary": "If your AI agent owns tools with side effects, one question decides whether it is safe to ship: what...",
+   "title": "I built five code generators to delete Go boilerplate",
+   "url": "https://dev.to/mickamy/i-built-five-code-generators-to-delete-go-boilerplate-h65",
+   "date": "2026-08-17T03:43:22+00:00",
+   "summary": "Writing Go means writing the same mechanical code over and over: constructor wiring, conversions...",
    "points": 0,
    "tech": "web",
    "sourceId": "devto",
@@ -37,10 +58,21 @@
    "lang": "en"
   },
   {
-   "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
-   "url": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
-   "date": "2026-08-16T02:38:31+00:00",
-   "summary": "Here's an autosave button that lies to the user:    function Editor({ docId }: { docId: string }) {  ...",
+   "title": "I verified 51 sets of US tax rules by hand and turned them into a static site",
+   "url": "https://dev.to/rizwan_haider_d8b26a1d5b8/i-verified-51-sets-of-us-tax-rules-by-hand-and-turned-them-into-a-static-site-f4e",
+   "date": "2026-08-17T03:12:19+00:00",
+   "summary": "Run the same salary through three different paycheck calculators and you'll get three different...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed",
+   "url": "https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih",
+   "date": "2026-08-17T02:39:23+00:00",
+   "summary": "This is a submission for Weekend Challenge: Dog Days Edition           What I Built   I built...",
    "points": 5,
    "tech": "web",
    "sourceId": "devto",
@@ -48,186 +80,10 @@
    "lang": "en"
   },
   {
-   "title": "Your Browser Automation Clicks Might Be Landing 25% Off — And Nothing Will Tell You",
-   "url": "https://dev.to/hidenari/your-browser-automation-clicks-might-be-landing-25-off-and-nothing-will-tell-you-2da",
-   "date": "2026-08-16T01:52:34+00:00",
-   "summary": "I spent a day pointing an AI agent at a browser to publish one product across four marketplaces. Most...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build Your Bowl - A CSS Only Arroz Caldo You Actually Get to Season",
-   "url": "https://dev.to/larrymargerum01/build-your-bowl-a-css-only-arroz-caldo-you-actually-get-to-season-22kd",
-   "date": "2026-08-16T01:26:14+00:00",
-   "summary": "Inspiration   Arroz caldo is the dish that shows up in my kitchen uninvited. Someone's sick,...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Build a Real-Time Markdown Previewer with Synchronized Scrolling",
-   "url": "https://dev.to/ggwork/how-to-build-a-real-time-markdown-previewer-with-synchronized-scrolling-4jfm",
-   "date": "2026-08-16T01:26:00+00:00",
-   "summary": "While working on a side project recently, I found myself constantly switching between my editor and a...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A stale response can quietly break a recommendation tool",
-   "url": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
-   "date": "2026-08-16T01:23:06+00:00",
-   "summary": "A recommendation page can perform the correct calculation and still show the wrong result. The...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.",
-   "url": "https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la",
-   "date": "2026-08-15T23:00:58+00:00",
-   "summary": "Anonymous paste services get scripted into spam dumps, phishing kits, and credential lists. Instead of forcing accounts or reCAPTCHA, I made posting cost energy — a little CPU (free) or 10 sats over Lightning. Full flow ",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Now Karma Bandhana is Adhomukhi and Aatma breath pulse with white glow.",
-   "url": "https://dev.to/weirdcodesofficial/now-karma-bandhana-is-adhomukhi-and-aatma-breath-pulse-with-white-glow-1jmm",
-   "date": "2026-08-15T22:33:00+00:00",
-   "summary": "MOKSHA Development Log — 2026-08-15   Repository: weirdcodesofficial/MOKSHA Project...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "YOUTHTREND-Beyond the group chat",
-   "url": "https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7",
-   "date": "2026-08-15T22:20:26+00:00",
-   "summary": "https://youthtrend-frontend.vercel.app https://youtu.be/aMLlWtQF9SI           The...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What actually breaks when you process PDFs in the browser",
-   "url": "https://dev.to/bellsal_b44bf6d/what-actually-breaks-when-you-process-pdfs-in-the-browser-4o91",
-   "date": "2026-08-15T20:38:57+00:00",
-   "summary": "Doing PDF work entirely in the browser is a nicer story than it sounds. pdf-lib loads a document from...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Word actually puts on your clipboard",
-   "url": "https://dev.to/smrifat1411/what-word-actually-puts-on-your-clipboard-kgk",
-   "date": "2026-08-15T20:12:52+00:00",
-   "summary": "I was building an exam authoring tool. Teachers wrote their questions in Word — full of maths — and...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Cutting Chai — the comfort food that isn't food, drawn in CSS",
-   "url": "https://dev.to/maneesh_thakur_d16c2852fa/cutting-chai-the-comfort-food-that-isnt-food-drawn-in-css-1c27",
-   "date": "2026-08-15T19:33:12+00:00",
-   "summary": "This is a submission for Frontend Challenge: Comfort Food Edition, CSS Art: Comfort Food          ...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Midnight Fridge Raid — comfort food isn't a dish, it's 2am",
-   "url": "https://dev.to/maneesh_thakur_d16c2852fa/midnight-fridge-raid-comfort-food-isnt-a-dish-its-2am-1l04",
-   "date": "2026-08-15T19:23:20+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I checked what 6 AI coding tools write to disk to stop the agent forgetting its plan. Half write nothing.",
-   "url": "https://dev.to/mayank_b4b824331985d19b42/i-checked-what-6-ai-coding-tools-write-to-disk-to-stop-the-agent-forgetting-its-plan-half-write-5bck",
-   "date": "2026-08-15T18:48:11+00:00",
-   "summary": "Every AI coding tool has the same top complaint: \"it forgot what we were doing.\"  I spent weeks...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
-   "url": "https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4",
-   "date": "2026-08-15T18:45:56+00:00",
-   "summary": "Why persistent domain state is the wrong place for transient dialogs and snackbars, how classic BLoC solved it with bloc_presentation, and how to handle one-shot side effects in BlocSignal with zero dependencies.",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I made a bowl of ramen breathe with CSS, then left the JavaScript almost alone",
-   "url": "https://dev.to/aniruddha_adak/i-made-a-bowl-of-ramen-breathe-with-css-then-left-the-javascript-almost-alone-2d76",
-   "date": "2026-08-15T18:29:49+00:00",
-   "summary": "A comfort-food CSS art study built from ordinary shapes, layers, and a single purposeful interaction.",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Minimal WebRTC: building a 1:1 call where camera, mic, and screen are independent tracks",
-   "url": "https://dev.to/oleh_apostol_7292215e1668/minimal-webrtc-building-a-11-call-where-camera-mic-and-screen-are-independent-tracks-3fj5",
-   "date": "2026-08-15T17:54:01+00:00",
-   "summary": "Most WebRTC tutorials show one getUserMedia stream with audio+video, one RTCPeerConnection, and a...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The download button that silently did nothing on mobile",
-   "url": "https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k",
-   "date": "2026-08-15T17:38:15+00:00",
-   "summary": "For about a year, the save button in my collage editor did nothing on phones. Not \"threw an error.\"...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your dog's camera roll is a wellness history. BarkPass makes it speak.",
-   "url": "https://dev.to/himanshu_748/your-dogs-camera-roll-is-a-wellness-history-barkpass-makes-it-speak-1m5j",
-   "date": "2026-08-15T17:36:46+00:00",
-   "summary": "This is a submission for Weekend Challenge: Dog Days Edition.  Dog owners take hundreds of photos,...",
+   "title": "React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)",
+   "url": "https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3",
+   "date": "2026-08-17T02:35:15+00:00",
+   "summary": "Here's a checkout flow that loses the customer at step three:    function Checkout() {   const [step,...",
    "points": 5,
    "tech": "web",
    "sourceId": "devto",
@@ -235,10 +91,10 @@
    "lang": "en"
   },
   {
-   "title": "BITE-TRACK",
-   "url": "https://dev.to/lohitha_super_08a39a49bbf/bite-track-hn4",
-   "date": "2026-08-15T16:46:55+00:00",
-   "summary": "Enter fullscreen mode            Exit fullscreen mode              Inspiration Comfort food...",
+   "title": "I built a forum where rooms die when people stop talking",
+   "url": "https://dev.to/seongjinkang/i-built-a-forum-where-rooms-die-when-people-stop-talking-30mc",
+   "date": "2026-08-17T02:32:27+00:00",
+   "summary": "I got tired of two things about online communities.  The first is that they don't die well. A...",
    "points": 0,
    "tech": "web",
    "sourceId": "devto",
@@ -246,10 +102,10 @@
    "lang": "en"
   },
   {
-   "title": "Overlaying a design on a live page: four things that bit me",
-   "url": "https://dev.to/ss2/overlaying-a-design-on-a-live-page-four-things-that-bit-me-5h10",
-   "date": "2026-08-15T15:49:21+00:00",
-   "summary": "I spent the last few weeks building a Chrome extension that puts a design frame on top of a running...",
+   "title": "A support chatbot needs to be designed for what it won't answer, not just what it will",
+   "url": "https://dev.to/susumun/a-support-chatbot-needs-to-be-designed-for-what-it-wont-answer-not-just-what-it-will-3j3m",
+   "date": "2026-08-17T02:32:16+00:00",
+   "summary": "Background   The support chatbot on our landing page has a simple job: answer questions...",
    "points": 0,
    "tech": "web",
    "sourceId": "devto",
@@ -257,9 +113,118 @@
    "lang": "en"
   },
   {
-   "title": "Building an Adjarian Khachapuri in Pure CSS",
-   "url": "https://dev.to/inushathathsara/building-an-adjarian-khachapuri-in-pure-css-4e2d",
-   "date": "2026-08-15T15:44:58+00:00",
+   "title": "I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here's the stack.",
+   "url": "https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf",
+   "date": "2026-08-17T00:04:53+00:00",
+   "summary": "I live on the Taghazout coast in Morocco - a strip of Atlantic between Agadir and Imsouane that's...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Banx Walk Safe: same sidewalk, two heat loads",
+   "url": "https://dev.to/kenielzep97/banx-walk-safe-same-sidewalk-two-heat-loads-51ib",
+   "date": "2026-08-16T23:38:37+00:00",
+   "summary": "This is a submission for the DEV Weekend Challenge: Dog Days Edition.           What I Built   Same...",
+   "points": 6,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Glassmorphism Is Back — and This Tailwind Plugin Makes It Painless",
+   "url": "https://dev.to/3ni8ma/glassmorphism-is-back-and-this-tailwind-plugin-makes-it-painless-3hn8",
+   "date": "2026-08-16T22:59:13+00:00",
+   "summary": "The Problem   Frosted-glass UI is everywhere again — every dashboard, every AI chat sidebar,...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PawPal is your New Dog's AI Sidekick 🐶⭐",
+   "url": "https://dev.to/ishikathakur7802/pawpal-is-your-new-dogs-ai-sidekick-3bc8",
+   "date": "2026-08-16T22:13:40+00:00",
+   "summary": "What I Built   Bringing a new dog home is exciting... and also confusing.  Why are they...",
+   "points": 2,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Sidewalk to Summit — build log",
+   "url": "https://dev.to/ohkpond/sidewalk-to-summit-build-log-4kp4",
+   "date": "2026-08-16T22:10:12+00:00",
+   "summary": "Catching up a build log I let go quiet for a few weeks: a property test finds a plan engine bug that's been undercounting since day one, CI lands and immediately flags four dependency holes, a friend hand-draws a mountai",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "📱 Touch Controls — Equal Spacing Fix | समान-अंतर लेआउट",
+   "url": "https://dev.to/weirdcodesofficial/touch-controls-equal-spacing-fix-smaan-antr-leaautt-32p7",
+   "date": "2026-08-16T20:49:00+00:00",
+   "summary": "📱 Touch Controls — Equal Spacing Fix | समान-अंतर लेआउट    Project: मोक्ष (MOKSHA) — Vedic...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
+   "url": "https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6",
+   "date": "2026-08-16T20:06:27+00:00",
+   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cooking with CSS: Coding 'One More Bite' — The Steaming Comfort Food Oracle",
+   "url": "https://dev.to/sandeep_chakravartty_219e/cooking-with-css-coding-one-more-bite-the-steaming-comfort-food-oracle-16o6",
+   "date": "2026-08-16T19:56:23+00:00",
+   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art._  Inspiration When...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Frontend Weekly Digest #479 (10–16 August 2026)",
+   "url": "https://frontender-ua.medium.com/frontend-weekly-digest-479-10-16-august-2026-fceb02d2158d?source=rss------css-5",
+   "date": "2026-08-16T19:30:26+00:00",
+   "summary": "Web Dev Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build an Offline Windows App with HTML, CSS and JavaScript",
+   "url": "https://dev.to/emmawilson1234/how-to-build-an-offline-windows-app-with-html-css-and-javascript-dh0",
+   "date": "2026-08-16T18:32:53+00:00",
+   "summary": "If you already have an HTML, CSS, and JavaScript project, you can turn it into a Windows desktop...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Art: Comfort Food — A Steaming Bowl of Ramen",
+   "url": "https://dev.to/samiya_dev_5185e3c9022ffb/css-art-comfort-food-a-steaming-bowl-of-ramen-3bjp",
+   "date": "2026-08-16T16:47:38+00:00",
    "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
    "points": 0,
    "tech": "web",
@@ -268,14 +233,134 @@
    "lang": "en"
   },
   {
-   "title": "CSS Gradients in One Screen: linear, radial, conic, and the rules nobody spells out",
-   "url": "https://dev.to/toolsura/css-gradients-in-one-screen-linear-radial-conic-and-the-rules-nobody-spells-out-4g02",
-   "date": "2026-08-15T15:24:00+00:00",
-   "summary": "If you've only ever shipped linear-gradient(to right, blue, red), you're using about one-third of...",
+   "title": "🍜 Comfort Food CSS Art — A Warm Bowl of Noodles Made with HTML & CSS",
+   "url": "https://dev.to/vaishnavi_sahu_33bd58e270/comfort-food-css-art-a-warm-bowl-of-noodles-made-with-html-css-5hc4",
+   "date": "2026-08-16T16:04:52+00:00",
+   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.  This is a submission...",
    "points": 1,
    "tech": "web",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "HTML and CSS - Questions",
+   "url": "https://dev.to/mahalakshmi_c_48a15c7871b/html-and-css-questions-1jge",
+   "date": "2026-08-16T15:45:48+00:00",
+   "summary": "1. What is HTML?  HTML stands for HyperText Markup Language. It is a markup language used to create...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Breed Whisperer — know any dog with Google AI (and pure CSS)",
+   "url": "https://dev.to/migbolivar/breed-whisperer-know-any-dog-with-google-ai-and-pure-css-45m2",
+   "date": "2026-08-16T15:31:14+00:00",
+   "summary": "Breed Whisperer — know any dog with Google AI (and pure CSS)   A dog breed identifier for...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The last mile of AI slides: a local-first HTML editing workflow",
+   "url": "https://dev.to/mrlianggithub/the-last-mile-of-ai-slides-a-local-first-html-editing-workflow-1p0d",
+   "date": "2026-08-16T15:16:26+00:00",
+   "summary": "AI can produce a surprisingly good presentation draft in one prompt. The difficult part usually...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Dabba — the box somebody packed for you before you were awake",
+   "url": "https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7",
+   "date": "2026-08-16T12:21:52+00:00",
+   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Schema.org Markup Every Client Site Should Ship With",
+   "url": "https://dev.to/richardlemon/the-schemaorg-markup-every-client-site-should-ship-with-4fl3",
+   "date": "2026-08-16T12:13:46+00:00",
+   "summary": "My default structured data bundle  I got tired of treating Schema.org like a research project.  You...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Container Queries In Production: Where They Shine And Where Media Queries Still Win",
+   "url": "https://dev.to/richardlemon/css-container-queries-in-production-where-they-shine-and-where-media-queries-still-win-448d",
+   "date": "2026-08-16T12:12:27+00:00",
+   "summary": "Refactoring a real project to container queries   I stopped reading hot takes about container queries...",
+   "points": 1,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "🍲 Just built Cozy Hearth for the Comfort Food Challenge! \r\nPure CSS Art ramen, hot cocoa & grilled cheese with live \r\ninteractive controls — no libraries, no frameworks, just \r\nHTML + CSS + vanilla JS. Come cook with me! 🍜☕🥪",
+   "url": "https://dev.to/swatiicfai/just-built-cozy-hearth-for-the-comfort-food-challenge-pure-css-art-ramen-hot-cocoa-grilled-2h79",
+   "date": "2026-08-16T11:54:05+00:00",
+   "summary": "Cozy Hearth: An Interactive Comfort Food Sanctuary &amp; CSS Art Kitchen 🍲            Frontend...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I audited every post on my 200-post blog. Here's what was quietly broken.",
+   "url": "https://dev.to/javapark/i-audited-every-post-on-my-200-post-blog-heres-what-was-quietly-broken-4j7",
+   "date": "2026-08-16T11:43:31+00:00",
+   "summary": "I've been running a technical blog for years. Posts accumulate — but so does everything around them:...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
+   "url": "https://dev.to/wiseai/sushi-rs-svg-sushi-components-for-rust-frontends-2n1o",
+   "date": "2026-08-16T08:57:35+00:00",
+   "summary": "Sup Guys 👋!  I am back! It has been a long time no see!   So I came across the Frontend Challenge:...",
+   "points": 6,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a 100% In-Browser Image Compressor & Converter with Zero Server Uploads",
+   "url": "https://dev.to/sanjeev_tripathisanjeev_/building-a-100-in-browser-image-compressor-converter-with-zero-server-uploads-21i0",
+   "date": "2026-08-16T07:54:06+00:00",
+   "summary": "Most online image compressors require uploading photos to remote cloud servers. For private identity...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Your Website Feels Boring: 5 CSS Animation Techniques That Make Interfaces Feel Better",
+   "url": "https://medium.com/@muhammadrafay9865/why-your-website-feels-boring-5-css-animation-techniques-that-make-interfaces-feel-better-9ed1e6e27516?source=rss------css-5",
+   "date": "2026-08-16T07:18:36+00:00",
+   "summary": "When I first started learning CSS, I thought making a website look good was mostly about colors, fonts, spacing, and layouts. Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
    "lang": "en"
   },
   {
@@ -286,17 +371,6 @@
    "tech": "web",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "mmy-css: An Ultra-Lightweight CSS Framework Under 1.2 KB",
-   "url": "https://dev.to/mmy-lana/mmy-css-an-ultra-lightweight-css-framework-under-12-kb-59hg",
-   "date": "2026-08-15T15:00:50+00:00",
-   "summary": "Most CSS frameworks ship dozens of kilobytes of unused rules. I built mmy-css — an ultra-lightweight...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -330,17 +404,6 @@
    "lang": "en"
   },
   {
-   "title": "CONTINENTAL EPICTURE",
-   "url": "https://dev.to/gift_trust_44882a016531d7/continental-epicture-18e3",
-   "date": "2026-08-15T09:51:39+00:00",
-   "summary": "Liquid syntax error: Variable '{{% raw %}' was not properly terminated with regexp: /\\}\\}/",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "$8K/Month With Just HTML & CSS-No React, No Fancy Stack",
    "url": "https://moneytent.medium.com/8k-month-with-just-html-css-no-react-no-fancy-stack-577d20e7a098?source=rss------css-5",
    "date": "2026-08-15T08:26:07+00:00",
@@ -348,39 +411,6 @@
    "tech": "web",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "\"Image Optimization: The Complete 2026 Checklist for Faster Websites\"",
-   "url": "https://dev.to/_544bf5cbd223c35a49756/image-optimization-the-complete-2026-checklist-for-faster-websites-3pi5",
-   "date": "2026-08-15T04:00:28+00:00",
-   "summary": "Images are the single biggest performance lever on almost every website. They average over 1MB of...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Comfort Food Challenge — Tell Me Your Day, I'll Feed Your Soul",
-   "url": "https://dev.to/jb_0dd10973b389/comfort-food-challenge-tell-me-your-day-ill-feed-your-soul-fe2",
-   "date": "2026-08-15T03:56:04+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing.          ...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳",
-   "url": "https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6",
-   "date": "2026-08-15T03:21:08+00:00",
-   "summary": "Building Roshni: An Ultra-Low Latency, Multi-Agent Financial Voice Assistant for Bharat...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -1574,16 +1604,6 @@
    "lang": "ar"
   },
   {
-   "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lay1mWVk2blJ0ZXZGWlhOaHNreVVWZkk4QXZ3ZjlhaU4yUEVsTGVsMDRwVGZnRzdXNDdQTzJ0OUllUUIwTHk0WVlONFZ3eHNSTFJ0RWR3?oc=5",
-   "date": "2022-11-01T16:39:15+00:00",
-   "summary": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB) YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "برمجة موقع انترنت كامل HTML CSS JAVASCRIPT",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Vjd2QnNHUlNoYlVFZ3ZtN21YMmxuMzR5c05SbVl2cm52TDZYd2JJcElqTFJ4YXRQdVJWM1dJeXZYVmhpNVlzSVV5aEd5QXVZbGVrRVdn?oc=5",
    "date": "2022-10-21T18:00:25+00:00",
@@ -1592,16 +1612,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Learn HTML & CSS – Full Course for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SbDN4a2huLUJJS0h1SlpGMjRjY3pGOUwtSFVGckUwXzVoRThiRjlHWHBzMU5vV1Vjd25HaV9lcERYV25VNWdRcnlzMVdCY3o0dzZzUm9R?oc=5",
-   "date": "2022-09-14T15:04:16+00:00",
-   "summary": "Learn HTML & CSS – Full Course for Beginners YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "الفيديو الكامل مشروع المكتبة html css php sql شرح تصميم وبرمجة",
@@ -1614,14 +1624,14 @@
    "lang": "ar"
   },
   {
-   "title": "[Arabic] HTML And CSS Design 3 In 2022 in One Video",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9na0JfZGMxWXlSaTM2Rk8yeTJnUnlfZmdxQzMwRDk3cnY0V1ZQWl9ucUFTcHdFb1hvSTdGQ2hoRG85QzZpMEdmT1h4bEtxMk1XQ2VRSUZB?oc=5",
-   "date": "2022-08-30T14:12:07+00:00",
-   "summary": "[Arabic] HTML And CSS Design 3 In 2022 in One Video YouTube",
+   "title": "9 HTML Tutorial | CSS | HTML CSS Course | HTML Create responsive websites | كورس تعلم html",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNQ2dZR3V3MC1JQzhSUExYRmFORGYzdDAzVUNia08zU18xNjlPZXZDUUkzU1B2YjFGbkZwNFJEWjdFMjNhR3pOeXEzNTkxMjRVZkxjUV9n?oc=5",
+   "date": "2022-09-04T11:24:21+00:00",
+   "summary": "9 HTML Tutorial | CSS | HTML CSS Course | HTML Create responsive websites | كورس تعلم html YouTube",
    "tech": "web",
    "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "3- تصميم موقع ويب متكامل html css bootstrap شرح تنسيق المنيو menu",
@@ -1858,6 +1868,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HS24xamxqQThDeGQwWnFXRzNmWHE3WFVEaXA1VGozLXlJYlFyOUx0anVLZUFHS2RMamNQWUhmYTB5VWtjUENhM1FXcEZveFYwRHM4T1hn?oc=5",
    "date": "2022-04-10T13:50:14+00:00",
    "summary": "تصميم وتطوير متجر اونلاين لبيع المنتجات الدرس #1 html css php sql YouTube",
+   "tech": "web",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مشروع بيع المنتجات وعرضها في الموقع اونلاين المقدمة html css php sql",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Yll2SHZOT1RiMS1QQjhSNFM5MVp2eld3QkhDTDFxZ0xFcTJDLTYwWF9BTWZKRDZ0bnVIOGxOaDlNZ1dzSEo0NkRzVDZEZlJLakQ4cllB?oc=5",
+   "date": "2022-04-09T11:32:48+00:00",
+   "summary": "مشروع بيع المنتجات وعرضها في الموقع اونلاين المقدمة html css php sql YouTube",
    "tech": "web",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2208,26 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yX1A5WEgzb0RPQW9CUXR3U01YN3lNSkhnNFQ3eHZpOXBxVWxFVVJQeEF4N2hiNkZHSnlvWUpfc00xeFBscTJIUnpHT2xlMnBCTkFEUk9B?oc=5",
    "date": "2020-09-28T16:29:06+00:00",
    "summary": "رفع ونشر الموقع الخاص بنا على الانترنت بكل سهولة ومجانا html css webiste publish on net YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تصميم موقع كامل بلغة html css فقط",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82V3lUeVBmbTVTLWhtSHlsTlR5WXV6Z01Nb1NYc2hDODVOT1J6dEdzRHhRWVFWeHR2RXVDb1ZyMTAza2RfcTZOV05JR2tMZ2cxemY3elJVS2RzMmNvYTIxTXZiZDBCZWswcFhlRTBoWHNIR2t1a1VOLTlEaVU?oc=5",
-   "date": "2020-09-27T18:16:14+00:00",
-   "summary": "تصميم موقع كامل بلغة html css فقط YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تصميم موقع للبرمجة تصميم الجزء السفلي للموقع footer ووضع اقسام الموقع بداخله باحترافية #6",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LM0VNQ0x0Tkd1SlFWeENvei1wc2F5MjdNaFpwNFBSdlU1OWlpNmVqVFlId010OW5HV25sN2ZfV2pCYmNIbmEyYmtjV2ZEWWN2WVJISmJR?oc=5",
-   "date": "2020-09-27T18:09:00+00:00",
-   "summary": "تصميم موقع للبرمجة تصميم الجزء السفلي للموقع footer ووضع اقسام الموقع بداخله باحترافية #6 YouTube",
    "tech": "web",
    "sourceId": "ar-yt",
    "source": "YouTube",

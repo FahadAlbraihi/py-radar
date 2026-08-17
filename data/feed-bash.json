@@ -1,8 +1,95 @@
 {
- "generated": "2026-08-16T04:55:52.257935+00:00",
+ "generated": "2026-08-17T05:21:39.212066+00:00",
  "tech": "bash",
- "count": 148,
+ "count": 150,
  "items": [
+  {
+   "title": "Your Cron Job Exits 0 and Does Nothing: Reading Chrome's Cookie SQLite to Know If a Session Is Actually Alive",
+   "url": "https://dev.to/bokuwalily/your-cron-job-exits-0-and-does-nothing-reading-chromes-cookie-sqlite-to-know-if-a-session-is-3c55",
+   "date": "2026-08-17T05:00:06+00:00",
+   "summary": "An automation job can fail for days without making a single sound. Mine did: one Instagram lane ran...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Four Failures That Made a Weekly launchd Job Actually Run",
+   "url": "https://dev.to/bokuwalily/four-failures-that-made-a-weekly-launchd-job-actually-run-5hhb",
+   "date": "2026-08-17T00:00:07+00:00",
+   "summary": "Every skill my AI setup learns lives in one folder on my laptop — and none of it reaches the repo I...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A green test is not a running reflex, and a running one is not a placed one",
+   "url": "https://dev.to/ilya_mozerov_867dbdd91feb/a-green-test-is-not-a-running-reflex-and-a-running-one-is-not-a-placed-one-2cl2",
+   "date": "2026-08-16T21:07:40+00:00",
+   "summary": "We run about 283 scheduled jobs across a handful of machines. Each one is a shell script...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Fixing Low USB-C Audio on Fedora Linux: My Battle with the Razer Leviathan",
+   "url": "https://dev.to/dannyslee1996/fixing-low-usb-c-audio-on-fedora-linux-my-battle-with-the-razer-leviathan-1bie",
+   "date": "2026-08-16T19:35:00+00:00",
+   "summary": "TL;DR: If you have a Razer Leviathan connected via USB-C on Linux and the volume is incredibly quiet...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Adding Auto-Closing Quotes and Brackets to Bash",
+   "url": "https://medium.com/@u.mair/adding-auto-closing-quotes-and-brackets-to-bash-d51d9fa6f2a7?source=rss------bash-5",
+   "date": "2026-08-16T19:20:37+00:00",
+   "summary": "Bash is usually associated with commands, scripts, pipes, and environment variables. With a little help from Readline, however, you can&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "A Practical Guide to jq in Shell Scripts",
+   "url": "https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6",
+   "date": "2026-08-16T18:01:26+00:00",
+   "summary": "Learn how to use jq effectively in shell programming, including the correct way to pass bash arrays into jq filters.",
+   "points": 5,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs",
+   "url": "https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02",
+   "date": "2026-08-16T11:00:06+00:00",
+   "summary": "Losing your job costs you a paycheck. What I didn't expect was to spend that same afternoon...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90",
+   "url": "https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij",
+   "date": "2026-08-16T05:00:06+00:00",
+   "summary": "\"Claude Code gets smarter the more you use it\" is only half the story. The other half is that it gets...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why GNU/Linux Isn't for Everyone - and That's a Good Thing",
    "url": "https://dev.to/aiflux/why-gnulinux-isnt-for-everyone-and-thats-a-good-thing-44ba",
@@ -84,6 +171,17 @@
    "url": "https://dev.to/ricco020/your-drive-says-smart-passed-and-is-already-failing-the-5-attributes-that-actually-predict-it-6g",
    "date": "2026-08-15T15:52:24+00:00",
    "summary": "SMART's PASSED verdict stays green long after sectors start going unreadable. The five attributes that predict failure, and the order of operations that decides whether the data survives.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "read stops at the newline, and your delivery check will not tell you",
+   "url": "https://dev.to/ilya_mozerov_867dbdd91feb/read-stops-at-the-newline-and-your-delivery-check-will-not-tell-you-49fl",
+   "date": "2026-08-15T15:25:47+00:00",
+   "summary": "A bot on one of my machines sends me things. Mostly short: an alert, a status line, a...",
    "points": 0,
    "tech": "bash",
    "sourceId": "devto",
@@ -178,10 +276,32 @@
    "lang": "en"
   },
   {
+   "title": "Two Weeks of Silent Failure: Idempotent Scheduling and Self-Healing for a launchd + Claude Code Pipeline",
+   "url": "https://dev.to/bokuwalily/two-weeks-of-silent-failure-idempotent-scheduling-and-self-healing-for-a-launchd-claude-code-3gb5",
+   "date": "2026-08-15T05:00:06+00:00",
+   "summary": "Every morning at 5, launchd wakes up, and by the time I do, articles I never wrote are already...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "What Did That Free-Model Setup Script Actually Do? Audit It With Honeypot Files and Syscall Traces",
    "url": "https://dev.to/github_7727/what-did-that-free-model-setup-script-actually-do-audit-it-with-honeypot-files-and-syscall-traces-4eg1",
    "date": "2026-08-15T03:19:10+00:00",
    "summary": "Here is why this article is worth your time: you cannot tell what a generated setup script does by...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A macOS cache and system-file cleaner for the Terminal. It is built as a single Bash script with zero dependencies and is fully compatible with native macOS (Bash 3.2+).\r\n\r\nhttps://github.com/ombak/clean-shit",
+   "url": "https://dev.to/ombak/a-macos-cache-and-system-file-cleaner-for-the-terminal-it-is-built-as-a-single-bash-script-with-5np",
+   "date": "2026-08-15T01:47:13+00:00",
+   "summary": "...",
    "points": 0,
    "tech": "bash",
    "sourceId": "devto",
@@ -254,17 +374,6 @@
    "lang": "en"
   },
   {
-   "title": "The Case of the Vanishing Clipboard: Debugging a VirtualBox Guest Additions Conflict on Kali Linux",
-   "url": "https://dev.to/oyebobs/the-case-of-the-vanishing-clipboard-debugging-a-virtualbox-guest-additions-conflict-on-kali-linux-5cda",
-   "date": "2026-08-13T09:35:04+00:00",
-   "summary": "If you've ever run a Linux VM in VirtualBox and had copy-paste between your host and guest just......",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Understanding >/dev/null, 2>/dev/null, 2>&1, and Shell Redirection Without Memorizing Them",
    "url": "https://medium.com/@geek-convert/understanding-dev-null-2-dev-null-2-1-and-shell-redirection-without-memorizing-them-07bc0915d6ef?source=rss------bash-5",
    "date": "2026-08-13T09:07:06+00:00",
@@ -272,105 +381,6 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Terminal Productivity Tips That Actually Save Time",
-   "url": "https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa",
-   "date": "2026-08-13T08:00:17+00:00",
-   "summary": "Stop Typing the Same Commands   If you spend more than a few minutes a day in the terminal,...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My Linux Journey",
-   "url": "https://dev.to/mrfoshi/my-linux-journey-5hbp",
-   "date": "2026-08-13T07:23:54+00:00",
-   "summary": "Intro  My Linux journey started with curiosity. I wanted to understand how computers really work, not...",
-   "points": 2,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Know Your Environment: The Terminal",
-   "url": "https://dev.to/gmcjr/know-your-environment-the-terminal-2ini",
-   "date": "2026-08-13T06:17:32+00:00",
-   "summary": "The command line remains the most direct way to drive an operating system, one instruction at a time....",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your 32-bit Product Will Fail in 2038. Your Build Will Not Stop It.",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/your-32-bit-product-will-fail-in-2038-your-build-will-not-stop-it-2kml",
-   "date": "2026-08-13T05:56:09+00:00",
-   "summary": "A 32-bit time_t stops working in 2038. OE-core fixes it by default only since Yocto 4.3, and the QA check that would catch it is a warning, not an error.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Fix: Linux PC Wakes Up Instantly After You Suspend It",
-   "url": "https://dev.to/better_call_sriz/fix-linux-pc-wakes-up-instantly-after-you-suspend-it-30bp",
-   "date": "2026-08-13T05:43:49+00:00",
-   "summary": "The Problem   You hit suspend. Screen goes black. A second later, it's back on, showing the...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Embedded Linux Boot Time — Part 2: Measuring the Kernel and User Space",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/embedded-linux-boot-time-part-2-measuring-the-kernel-and-user-space-3906",
-   "date": "2026-08-13T05:21:30+00:00",
-   "summary": "A long initcall is usually a blocked initcall, and the log cannot tell you which. Read initcall_debug without being misled, find the real blocker with systemd-analyze critical-chain, and act on the timeline.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Practical Set F Solution – Count Files and Directories",
-   "url": "https://dev.to/teamworkfahad/linux-practical-set-f-solution-count-files-and-directories-58l7",
-   "date": "2026-08-13T04:30:00+00:00",
-   "summary": "In this article, we will solve VNSGU TYBCA Semester 5 Linux (UNIX) Practical – Set F using shell...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Homelab barato en Japón (y cómo instalarlo) 2026",
-   "url": "https://dev.to/kilydev/homelab-barato-en-japon-2026-1pb9",
-   "date": "2026-08-13T01:33:50+00:00",
-   "summary": "La guía que preparé para quienes vivimos en Japón y queremos montar un servidor local sin gastar una...",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Escribir Caracteres del Español con Teclado Inglés en Linux: Hackeando XKB sin Permisos de Root",
-   "url": "https://dev.to/fefeco/escribir-caracteres-del-espanol-con-teclado-ingles-en-linux-hackeando-xkb-sin-permisos-de-root-48h8",
-   "date": "2026-08-12T17:41:25+00:00",
-   "summary": "Cómo escribir vocales acentuadas (á, é, í, ó, ú) y la ñ en un teclado en inglés bajo Linux sin lidiar con teclas muertas ni requerir root.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -944,6 +954,16 @@
    "lang": "en"
   },
   {
+   "title": "سطر الأوامر في ويندوز CMD : DIR",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WVA0VVBLZ3NlSkRlcXpwNlc0V2hPcHRGcDRjV3hkVmpEREdUWFJRcWdKdDM0Tkw4RDdZY2lwTEUyS295X1dJV19JUTlnUDBJRFROVlJB?oc=5",
+   "date": "2023-07-02T15:26:27+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : DIR YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Bash Shell Scripting Tutorial | Full Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMkZWWS1rbmNTdHBnMndQVzItdVMxNE94XzFnVUt0V3VJUE1uYWMwWHV5emdVanp0SWVzNWNZeFo4U0lyZUczbE0xYzkwUzBLY1M1dEJR?oc=5",
    "date": "2023-02-12T16:00:08+00:00",
@@ -1168,6 +1188,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0waDlKZUVXUW94N0pOeXFaLVk4ZkxWSnE2R0ZORlBadWRGbmI5Ujk3bDRvVDhra0s3di1RcHFCc0oxUGRpMG9jWEpvYWw4cTNQTW9QQVFn?oc=5",
    "date": "2022-03-25T15:36:31+00:00",
    "summary": "you need to learn BASH Scripting RIGHT NOW!! // EP 1 YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Crash Course - Bash History",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UWmo3dWJ5R19mcjUwN3pUSzJ3cWE5VEtkU3hOTHo4bkJuYlpucW8yMXFWeXd4YW5nNjVqcGE0aUpMS0kyQ2lNQmdBUEhiQnQtbEVScS1B?oc=5",
+   "date": "2022-03-10T16:00:22+00:00",
+   "summary": "Linux Crash Course - Bash History YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1498,16 +1528,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdTlEOGxTWW82d0N1SG9VUHJMZXpod2toTDhuSVI5TzJ2Yk9FQUdDc3dQcVB3S2dibXFBRHZuQkdjdjBIZWxGNUt6SkJod0NsU1lqUE53?oc=5",
    "date": "2017-12-13T17:30:00+00:00",
    "summary": "Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac Terminal YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Bash Shell Scripting Tutorial | Shell Scripting Tutorial | Learn Shell Programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4SjU5RlhzbThLUGQxQjlOV1E4bXlLTkVjNnFaTzlJQlBaSFY4QThNQkdoeTZZTHJNV0Z1dDlkbmNHd1VrOFNJNzZ6SGFWN0xYUlg0WmZn?oc=5",
-   "date": "2017-07-26T18:48:01+00:00",
-   "summary": "Bash Shell Scripting Tutorial | Shell Scripting Tutorial | Learn Shell Programming YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",

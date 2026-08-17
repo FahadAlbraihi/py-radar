@@ -1,8 +1,63 @@
 {
- "generated": "2026-08-16T05:02:33.015934+00:00",
+ "generated": "2026-08-17T05:28:11.423237+00:00",
  "tech": "fsharp",
- "count": 101,
+ "count": 103,
  "items": [
+  {
+   "title": "C# ExceptionDispatchInfo Class",
+   "url": "https://dev.to/karenpayneoregon/c-exceptiondispatchinfo-class-1je2",
+   "date": "2026-08-16T17:57:12+00:00",
+   "summary": "Introduction   Learn about the ExceptionDispatchInfo object, which stores the stack trace...",
+   "points": 1,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies",
+   "url": "https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73",
+   "date": "2026-08-16T17:15:09+00:00",
+   "summary": "When a test process dies, a red CI job is not enough. I need to know what completed and what was...",
+   "points": 5,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "This week in Cursor + .NET — 7 rules (week ending August 16, 2026)",
+   "url": "https://dev.to/agentic_architect/this-week-in-cursor-net-7-rules-week-ending-august-16-2026-988",
+   "date": "2026-08-16T10:40:29+00:00",
+   "summary": "A weekly digest from the Agentic Architect persistence kit: 7 senior C#/.NET rules for engineers keeping Cursor honest across sessions.",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "When a Blazor Component Quietly Becomes HTML",
+   "url": "https://dev.to/iqtechsolutions/when-a-blazor-component-quietly-becomes-html-2f2m",
+   "date": "2026-08-16T09:02:29+00:00",
+   "summary": "A green build usually gives us useful confidence: the types line up, required references exist, and...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Domain-Driven Design: Modeling Software Around the Business",
+   "url": "https://dev.to/rhuturaj_takle/domain-driven-design-modeling-software-around-the-business-1h3",
+   "date": "2026-08-16T08:06:02+00:00",
+   "summary": "Domain-Driven Design: Modeling Software Around the Business   A practical guide to...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "ContextMemory v0.1.0-beta: what shipped",
    "url": "https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl",
@@ -299,58 +354,13 @@
    "lang": "en"
   },
   {
-   "title": "Stylish Highlights From Sweet Magnolias 2026 Outfits You Need To Try",
-   "url": "https://dev.to/stardom_jackets_8df0040d1/stylish-highlights-from-sweet-magnolias-2026-outfits-you-need-to-try-1lja",
-   "date": "2026-06-12T10:55:28+00:00",
-   "summary": "Fashion inspiration often comes from the characters we admire on screen, and few television series...",
-   "points": 0,
+   "title": "F# vs C#— Conclusions",
+   "url": "https://medium.com/@it-fach-bereich/f-vs-c-3-conclusions-67c37b272fdc?source=rss------fsharp-5",
+   "date": "2026-05-27T15:29:31+00:00",
+   "summary": "What can I say. Continue reading on Medium »",
    "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "F# vs C# — Conclusions",
-   "url": "https://dev.to/it-fach-bereich/f-vs-c-3-conclusions-3jgl",
-   "date": "2026-06-03T15:56:59+00:00",
-   "summary": "What can I say.  Anyone claiming that F# is good mostly for finance and data processing and C# for...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "F# vs C# — Token Efficiency",
-   "url": "https://dev.to/it-fach-bereich/f-vs-c-token-efficiency-5h4d",
-   "date": "2026-06-03T15:56:41+00:00",
-   "summary": "In this second part of the article, we will discuss the changes made to the shopping app by adding...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "F# vs C# — No Interfaces, No DI, Same Result",
-   "url": "https://dev.to/it-fach-bereich/f-vs-c-cn",
-   "date": "2026-06-03T15:56:22+00:00",
-   "summary": "This article is dedicated to F# language, more precisely how it is compared to C#.  Writing this...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Maybe Monad in F#",
-   "url": "https://dev.to/thierrypfister/the-maybe-monad-in-f-35ho",
-   "date": "2026-05-28T13:20:26+00:00",
-   "summary": "The Problem   Consider fetching a user, then their profile, then their avatar URL. In...",
-   "points": 1,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "medium",
+   "source": "Medium",
    "lang": "en"
   },
   {
@@ -358,6 +368,16 @@
    "url": "https://medium.com/@Lanayx/how-i-use-rider-for-f-web-development-b6534e7cd969?source=rss------fsharp-5",
    "date": "2026-05-25T22:29:08+00:00",
    "summary": "Although the AI era has already started and some people claim that they don&#x2019;t write code anymore, that&#x2019;s not the case for me. While agents&#x2026; Continue reading on Medium »",
+   "tech": "fsharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "F# vs C# — Token Efficiency",
+   "url": "https://medium.com/@it-fach-bereich/f-vs-c-2-81c82a832bc2?source=rss------fsharp-5",
+   "date": "2026-05-25T09:19:49+00:00",
+   "summary": "In this second part of the article, we will discuss the changes made to the shopping app by adding two more subdomains to make the web&#x2026; Continue reading on Medium »",
    "tech": "fsharp",
    "sourceId": "medium",
    "source": "Medium",
@@ -398,6 +418,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXVU1uQkc2RGNLY3Zrc2tVUkU3Ul90d2xxUW1weGEwNWRpZ3N3WXhkUk5UMFJBNF9WTURZZEd5ekdmWXBXTzREdU12dlRwSmp1MTNZWFdn?oc=5",
    "date": "2025-12-02T16:12:27+00:00",
    "summary": "F Sharp Tutorial For Beginners ( Instructor- Emmanuel) YouTube",
+   "tech": "fsharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced Gospel chords In F Sharp ( Instructor: Caleb Fadhili)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DZllxM1ZJakxFZ08tRUtSazNFVTF2YkQ3eTVUUm1fVHdONndqVUpYOGl4YTdKZlM5V2R3NGZJQnRDM3RBYXJZSWN4dXYtczdsd0pTVGh3?oc=5",
+   "date": "2025-09-14T21:00:06+00:00",
+   "summary": "Advanced Gospel chords In F Sharp ( Instructor: Caleb Fadhili) YouTube",
    "tech": "fsharp",
    "sourceId": "yt",
    "source": "YouTube",
@@ -734,6 +764,16 @@
    "lang": "en"
   },
   {
+   "title": "F# Tutorial: Mutually recursive types",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95NUl2QlJmTE1McF84M3I5YTBPbTlpOWhOZkM1cXZDb2V1aHNQTVVlWXdrejBZWlZiX1lqa282bTA1VG9xOFlOMWVhNmpnRmdZYmNPcXp3?oc=5",
+   "date": "2023-06-17T15:00:08+00:00",
+   "summary": "F# Tutorial: Mutually recursive types YouTube",
+   "tech": "fsharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "F# Tutorial: The Bind function in computation expressions",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Z1pxWmFmQTNnSl94c2VwQzBiZGZzRjNwRFEzMmJlaXRPbHNVTjB2NVdUTjBpR2g4dGhnOUw0ZVh3NkpoUzk1UlVRWGdXMWVnMzdwWTBn?oc=5",
    "date": "2023-06-07T15:00:20+00:00",
@@ -1018,26 +1058,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sN1h2V0lCeHRSY1daWjFTdVJVc0Rub1RLem0xVG5MWTJTcUlYQ0JGMDNlV3laSHQ5YXJocXh6aUxiODl5dlZBSDB4MXQzOFZRaW1lYXJR?oc=5",
    "date": "2020-07-27T06:00:01+00:00",
    "summary": "Florence Mureithi - Tunakuabudu Mungu Mtakatifu- F Sharp Piano Tutorial-(Instructor - Emmanuel) YouTube",
-   "tech": "fsharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "We Are Here For You Piano Tutorial ( In Key C And F Sharp)-(Instructor - Emmanuel)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wdkR6XzNiT0NTZnFNWVBvTUVLZzZNYUEwOVFxcGpxMGlocjBEUXdTZVVmZlJMMlRlcmpFRHI2Y0tUdEpaQXZXOVhpOVIwYk9MaTZvNHJR?oc=5",
-   "date": "2020-05-29T21:00:09+00:00",
-   "summary": "We Are Here For You Piano Tutorial ( In Key C And F Sharp)-(Instructor - Emmanuel) YouTube",
-   "tech": "fsharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Nani Kama Wewe Bwana Piano Tutorial ( Key C And F Sharp )-(Instructor - Emmanuel)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OMVhiSE1wR2tPMkRDeFE0Zkw4Q1dLaTVpVkc5bTlzQnhDRjlDNFdvbUstOWNwVm9velFBUTA3QTkyeTd1R2VfTGJyUUpGejJpMVRjMUxR?oc=5",
-   "date": "2020-05-26T21:00:14+00:00",
-   "summary": "Nani Kama Wewe Bwana Piano Tutorial ( Key C And F Sharp )-(Instructor - Emmanuel) YouTube",
    "tech": "fsharp",
    "sourceId": "yt",
    "source": "YouTube",

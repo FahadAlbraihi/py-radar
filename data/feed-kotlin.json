@@ -1,8 +1,200 @@
 {
- "generated": "2026-08-16T04:57:06.551026+00:00",
+ "generated": "2026-08-17T05:22:52.005356+00:00",
  "tech": "kotlin",
- "count": 186,
+ "count": 198,
  "items": [
+  {
+   "title": "The microSD Card Is the Weakest Part of a 24/7 Phone Camera (Silent Write Failure, Wear Cycles, and the Only Honest Test)",
+   "url": "https://dev.to/superfunicular/the-microsd-card-is-the-weakest-part-of-a-247-phone-camera-silent-write-failure-wear-cycles-and-3lf9",
+   "date": "2026-08-17T04:43:24+00:00",
+   "summary": "A phone recording 24/7 is not really a camera problem. It is a sustained-write problem wearing a...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What I Learned Migrating an Android App to a New Brand and Domain",
+   "url": "https://dev.to/_44474bf1334efd85513fb/what-i-learned-migrating-an-android-app-to-a-new-brand-and-domain-5a14",
+   "date": "2026-08-17T04:07:21+00:00",
+   "summary": "Renaming an existing app turned out to be much more than changing a logo and a store title.  When we...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Architecting for Zero-Network: Managing State Locally in Android",
+   "url": "https://dev.to/haseebthedev0/architecting-for-zero-network-managing-state-locally-in-android-2afn",
+   "date": "2026-08-17T01:50:32+00:00",
+   "summary": "It was the middle of a Friday sermon. The mosque was silent, save for the speaker, when suddenly, a...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Recording Is the Easy Half: Timestamps, Motion Clips, and Time-Range Retrieval on an Android Phone Camera",
+   "url": "https://dev.to/superfunicular/recording-is-the-easy-half-timestamps-motion-clips-and-time-range-retrieval-on-an-android-phone-nnd",
+   "date": "2026-08-16T22:43:04+00:00",
+   "summary": "Every \"turn an old Android phone into a security camera\" guide ends at the same place: the phone is...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why an Interrupted Android Recording Won't Play (moov Atom, Scoped Storage, and Two Fixes)",
+   "url": "https://dev.to/superfunicular/why-an-interrupted-android-recording-wont-play-moov-atom-scoped-storage-and-two-fixes-59d5",
+   "date": "2026-08-16T18:43:53+00:00",
+   "summary": "Every phone-as-a-camera project treats \"recording started\" as the finish line. Capture is the demo....",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Happens When an Android App Is Rebranded Without Changing Its Package Name?",
+   "url": "https://dev.to/tsaeru_norek_5ced3b58b781/what-happens-when-an-android-app-is-rebranded-without-changing-its-package-name-4405",
+   "date": "2026-08-16T16:52:56+00:00",
+   "summary": "Rebranding an Android application sounds simple at first.  Change the app name, update the icon,...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Migrate Android Architecture One Decision at a Time",
+   "url": "https://medium.com/@gsrajeni/migrate-android-architecture-one-decision-at-a-time-6480b0000a5c?source=rss------android-5",
+   "date": "2026-08-16T16:25:43+00:00",
+   "summary": "Large rewrites promise consistency. Smaller migrations make it easier to see whether the new boundary is actually helping. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Your First Unit Test in Android: Start With the Repository",
+   "url": "https://medium.com/@aloksingh191196/your-first-unit-test-in-android-start-with-the-repository-8ff78f97901c?source=rss------android-5",
+   "date": "2026-08-16T16:16:00+00:00",
+   "summary": "Part 1 of 2 &#x2014; testing the data layer with MockK and coroutines-test Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "[Android — SP.2] — Securenotes Write-Up",
+   "url": "https://medium.com/@pat.sanitjairak/android-sp-2-secureno-write-up-e244e33bb816?source=rss------android-5",
+   "date": "2026-08-16T16:08:02+00:00",
+   "summary": "How insecure ContentProvider implementation can lead to data exfiltration Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "APK vs Google Play: Different Ways to Install Android Apps",
+   "url": "https://medium.com/@maasiliy21/apk-vs-google-play-different-ways-to-install-android-apps-1a806b25c364?source=rss------android-5",
+   "date": "2026-08-16T15:45:34+00:00",
+   "summary": "APK vs Google Play: Different Ways to Install Android Apps Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Two Phones, One Interface: An RPC Framework for Android Device-to-Device",
+   "url": "https://medium.com/@donlyconanpc/two-phones-one-interface-an-rpc-framework-for-android-device-to-device-f7a86de7091b?source=rss------android-5",
+   "date": "2026-08-16T14:41:09+00:00",
+   "summary": "Introducing a Kotlin framework that turns BLE, Bluetooth Classic, and local Wi-Fi into a single typed service call &#x2014; and is honest about&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Firefox para iOS bloquea anuncios con la Content Blocker API de Apple",
+   "url": "https://dev.to/lu1tr0n/firefox-para-ios-bloquea-anuncios-con-la-content-blocker-api-de-apple-3d05",
+   "date": "2026-08-16T14:23:15+00:00",
+   "summary": "Firefox para iOS bloquea anuncios y rastreadores con la Content Blocker API de Apple, la misma tecnología de Safari, aplicada con reglas JSON procesad",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "171 Blog Posts To Learn About Kotlin",
+   "url": "https://hackernoon.com/171-blog-posts-to-learn-about-kotlin?source=rss",
+   "date": "2026-08-16T14:00:03+00:00",
+   "summary": "Learn everything you need to know about Kotlin via these 171 free HackerNoon blog posts.",
+   "tech": "kotlin",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "USB First: A Faster Way to Debug Android Mirroring on macOS",
+   "url": "https://dev.to/laicaiapp/usb-first-a-faster-way-to-debug-android-mirroring-on-macos-1opi",
+   "date": "2026-08-16T09:45:36+00:00",
+   "summary": "The fastest way to debug Android mirroring on a Mac is not to start wirelessly. Start with the...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Paying 30 dollars for 12 Google Play testers, or trading with someone who needs the same thing",
+   "url": "https://dev.to/devconnect/paying-30-dollars-for-12-google-play-testers-or-trading-with-someone-who-needs-the-same-thing-2n5b",
+   "date": "2026-08-16T08:15:03+00:00",
+   "summary": "If your Play developer account is newer than 13 November 2023, you need 12 testers opted in for 14...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Marble Sudoku World TOP-10 🌍 16.08.2026",
+   "url": "https://dev.to/lumaplay/marble-sudoku-world-top-10-16082026-47ho",
+   "date": "2026-08-16T07:23:31+00:00",
+   "summary": "Marble Sudoku World TOP-10 🌍 16.08.2026 1. 🇺🇸 Sara - 1565252 2. 🇷🇺 Opy - 1117318 3. 🇩🇪 #8344 - 1031615 4. 🇦🇹 #9426 - 719950 5. 🇨🇺 #0928 - 440848 6. 🇩🇪 #7238 - 2",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "\"Local-Only\" Is Not the Same as \"Private\": The LAN Threat Model for a Phone-as-Camera Server",
+   "url": "https://dev.to/superfunicular/local-only-is-not-the-same-as-private-the-lan-threat-model-for-a-phone-as-camera-server-4jpi",
+   "date": "2026-08-16T07:07:40+00:00",
+   "summary": "Short answer: \"Local-only\" means your video never leaves your network. It does not automatically...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Android’s Walled Garden: Google’s Developer Verification Lockdown That Changes Everything",
+   "url": "https://dev.to/ezhil_sivarajsr/androids-walled-garden-googles-developer-verification-lockdown-that-changes-everything-27po",
+   "date": "2026-08-16T06:45:31+00:00",
+   "summary": "1. What Is Android Developer Verification and Why Google Introduced It   In August 2025,...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Make Android Dependencies Point Toward Decisions",
    "url": "https://medium.com/@gsrajeni/make-android-dependencies-point-toward-decisions-ad0657d5f56e?source=rss------android-5",
@@ -34,6 +226,28 @@
    "lang": "en"
   },
   {
+   "title": "Architecting a Low-Power Geofencing Engine for Android Background Services",
+   "url": "https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0",
+   "date": "2026-08-16T00:04:26+00:00",
+   "summary": "Opening hook   It happened during a quiet Friday Jumu'ah prayer. The imam had just reached...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Mathastic Twice: One Math Puzzle Game, Two Native Architectures",
+   "url": "https://dev.to/tapadyutichatterjee/building-mathastic-twice-one-math-puzzle-game-two-native-architectures-1og6",
+   "date": "2026-08-15T23:29:23+00:00",
+   "summary": "I recently released Mathastic, a fast-paced math puzzle game for iOS and Android.  I’m Tapadyuti...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Your User’s Password Just Became a JPEG on Disk — and You Didn’t Save It",
    "url": "https://medium.com/@salesfrancisco73/your-users-password-just-became-a-jpeg-on-disk-and-you-didn-t-save-it-78ce424bfb79?source=rss------android-5",
    "date": "2026-08-15T22:52:53+00:00",
@@ -61,6 +275,17 @@
    "tech": "kotlin",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The download button that silently did nothing on mobile",
+   "url": "https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k",
+   "date": "2026-08-15T17:38:15+00:00",
+   "summary": "For about a year, the save button in my collage editor did nothing on phones. Not \"threw an error.\"...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -112,46 +337,6 @@
    "tech": "kotlin",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "P999 Game 2026 Download APK Latest Version For Android",
-   "url": "https://medium.com/@newlatestpakpaks/p999-game-2026-download-apk-latest-version-for-android-7458fb3a8730?source=rss------android-5",
-   "date": "2026-08-14T21:01:45+00:00",
-   "summary": "P999 Game is an online gaming platform that has attracted attention among Pakistani mobile users looking for simple games and reward-based&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Android 17 (Cinnamon Bun) Just Dropped: 5 Features That Actually Change How You Use Your Phone",
-   "url": "https://medium.com/the-tech-notes/android-17-cinnamon-bun-just-dropped-5-features-that-actually-change-how-you-use-your-phone-4c4fca6590a9?source=rss------android-5",
-   "date": "2026-08-14T21:01:01+00:00",
-   "summary": "Forget boring under-the-hood stability improvements. Google just turned Android into a pocket production studio, revived the Nintendo DS&#x2026; Continue reading on The Tech Notes »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "AI-Driven UI Testing with Android Studio Journeys",
-   "url": "https://proandroiddev.com/ai-driven-ui-testing-with-android-studio-journeys-ed98ae9ea89b?source=rss------android-5",
-   "date": "2026-08-14T20:16:07+00:00",
-   "summary": "Stop Writing Brittle Espresso and UI Automator Tests Continue reading on ProAndroidDev »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Playpkr Game Download 2026 — Latest APK For Android 2026",
-   "url": "https://medium.com/@pkrgames845/playpkr-game-download-2026-latest-apk-for-android-2026-35129f2df33d?source=rss------android-5",
-   "date": "2026-08-14T19:41:37+00:00",
-   "summary": "Playpkr Game is presented as an online gaming and entertainment platform for Pakistani Android users. The platform combines different game&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -265,16 +450,6 @@
    "lang": "en"
   },
   {
-   "title": "My Android Development Internship Journey at Oasis Infobyte (OIBSIP) | Building Production-Grade…",
-   "url": "https://medium.com/@jasminjamadar6/my-android-development-internship-journey-at-oasis-infobyte-oibsip-building-production-grade-a5ddb31e1002?source=rss------android-5",
-   "date": "2026-08-14T18:47:54+00:00",
-   "summary": "Hello everyone! Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Pair a Phone to a Mac AI Agent Without Putting the API Key in the QR Code",
    "url": "https://dev.to/igorganapolsky/pair-a-phone-to-a-mac-ai-agent-without-putting-the-api-key-in-the-qr-code-hlh",
    "date": "2026-08-14T14:37:32+00:00",
@@ -313,61 +488,6 @@
    "date": "2026-08-14T10:40:07+00:00",
    "summary": "Forking a plugin, fighting Gradle and AAR packaging, migrating a repo to Git LFS, and chasing a...",
    "points": 1,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Deep Link Is an App-Lifecycle Event",
-   "url": "https://dev.to/iqtechsolutions/a-deep-link-is-an-app-lifecycle-event-4gfg",
-   "date": "2026-08-14T05:58:00+00:00",
-   "summary": "A deep link can be syntactically correct, reach the right application, and still resume the wrong...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Architecting Offline Geofencing Without Battery Drain: The Muffle Journey",
-   "url": "https://dev.to/haseebthedev0/architecting-offline-geofencing-without-battery-drain-the-muffle-journey-4f0a",
-   "date": "2026-08-14T02:22:25+00:00",
-   "summary": "It happened during a quiet afternoon at the local library. I was deep in a focused debugging session...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Koin Scope Bug That Teaches You What single vs. factory Actually Means",
-   "url": "https://dev.to/dgbarreto/the-koin-scope-bug-that-teaches-you-what-single-vs-factory-actually-means-3992",
-   "date": "2026-08-13T23:34:24+00:00",
-   "summary": "The Koin Scope Bug That Teaches You What single vs. factory Actually Means   Dependency...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built an Android App That Tracks Screens Using Computer Vision",
-   "url": "https://dev.to/justpres/i-built-an-android-app-that-tracks-screens-using-computer-vision-42of",
-   "date": "2026-08-13T21:58:00+00:00",
-   "summary": "I Built an Android App That Tracks Screens Using Computer Vision  Most of my earlier projects were...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Architecting a Low-Power Geofencing Engine for Android",
-   "url": "https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-2nil",
-   "date": "2026-08-13T02:18:51+00:00",
-   "summary": "Opening hook   The silence of the boardroom was absolute, the kind of stillness that...",
-   "points": 0,
    "tech": "kotlin",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -854,10 +974,30 @@
    "lang": "en"
   },
   {
+   "title": "KOTLIN Crash Course for Absolute Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLUFZxQ1FYU1BHcTBGbU5Kc2VZdGUzUVVVemxyRXljamMxNWFLcWRfQi1sWkhVc1gwUlJlT1BQTmJ0bkhoRDc4cGswbjdGVmNGeU1KSXpn?oc=5",
+   "date": "2025-03-02T11:13:12+00:00",
+   "summary": "KOTLIN Crash Course for Absolute Beginners YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Advanced Kotlin Course for Pro Android Developers by Meta",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WeDA4Y3pnajhDaTNBX3BWb3kwbjN4elUwNW1KcW8yYmtKb2hZM3VHRW5iS3cwYmdhZGhsRk52czdvd3B5TGNjVnZmSFBkRWl1U0RXR2NR?oc=5",
    "date": "2025-02-28T16:49:23+00:00",
    "summary": "Advanced Kotlin Course for Pro Android Developers by Meta YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "MASTER Kotlin Programming from ZERO Experience! 💻✨",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CNEVsaDdkMnJsZzhmaGNNWGg3a0xKTEZkOEQ4VFRYazdUMEdyNlhmWHhWaFA4SUdoVms3RXdiRmptRVYzb1paZGVOV3RqQU1SMV9pdkVR?oc=5",
+   "date": "2025-02-27T21:09:21+00:00",
+   "summary": "MASTER Kotlin Programming from ZERO Experience! 💻✨ YouTube",
    "tech": "kotlin",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1042,6 +1182,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 3 - Object-Oriented Programming in Kotlin",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZNzY3LVJmQkpUbEoxVkl2bGw4UGtIOTRPTFB3TWhZdTJhOEFkTGpiTDBsel9BYXVEM3VfeVU1c2stVWZTdHltZVAtVGVLNnRkWUNEaWVB?oc=5",
+   "date": "2024-03-08T14:59:13+00:00",
+   "summary": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 3 - Object-Oriented Programming in Kotlin YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Hands-on Kotlin Tutorial - Kotlin at Light Speed, Part 1: Getting started",
@@ -1414,6 +1564,16 @@
    "lang": "en"
   },
   {
+   "title": "Kotlin Tutorial for Beginners - Kotlin Program to Calculate the Power of a Number",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KZTRvcXFHWGpwMW9ENm9ZdGZTVWJFYmFBVnF6TlJFcXJrNDU3dGNucUFKYm5oREFzY0ZKUGpaQ2t5RExwc3V5bTVtRE1WalZ0SnZzXzd3?oc=5",
+   "date": "2022-04-11T05:43:07+00:00",
+   "summary": "Kotlin Tutorial for Beginners - Kotlin Program to Calculate the Power of a Number YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Kotlin Tutorial for Beginners - Kotlin Program to Count Number of Digits in an Integer",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRRGhYMjB2LW9VbDBvTjQ2OEo4cnloeGxMRHlIaWh2MUFfMl94Tkl3bE9WVjdzWDNaeDNxenZlcUNqRy1XYUEzeDRCMzJoTGtSWDVPb2dR?oc=5",
    "date": "2022-04-09T22:34:35+00:00",
@@ -1514,6 +1674,16 @@
    "lang": "en"
   },
   {
+   "title": "Kotlin Tutorial for Beginners - In expression in Kotlin (With Example)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVVdYTDBoaWx1U05GTVlkUWxoU1V4TDcwZFNxZXdfTVc2a0I3WkpIZ3VXMW11QlhqZnYyOV9jLVBscnJEZnFoUWpZb2JzVzZ1U3dRODB3?oc=5",
+   "date": "2022-02-26T16:30:01+00:00",
+   "summary": "Kotlin Tutorial for Beginners - In expression in Kotlin (With Example) YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Kotlin Tutorial for Beginners - Logical Operators in Kotlin (With Example)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HNTR2S3Y4cmpTcHhya1NzenhqWEdmTVR5OG90OFdUU2RqMGtQUnBkckFfeXhVTjhpUmNLcy1Jckl3cHZkbnh5bTk4MElqbkFoNktmN1NR?oc=5",
    "date": "2022-02-22T02:00:08+00:00",
@@ -1538,56 +1708,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JMk00dmdLSjI3SkwyNGlSLUh6ZVYzbHpDaUplUnZXTTB4S1hkbVJTajZKdkxlMHhXVnFNcDB4YUhhWWNVb29aM2JyLWIzdHRPMktnNm93?oc=5",
    "date": "2022-02-19T03:00:24+00:00",
    "summary": "Kotlin Tutorial for Beginners - Kotlin if-else expression (With Example) YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Tutorial for Beginners - Returning Values From Kotlin Functions (With Example)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HdjR5VU5zcDJxX3JUbW14M1pUdlVEOEk5dUVVS1hLdk5IY0dwNE4yVzlKMEh4ZkJ1am9sYkRCa0U5c3Fnb3RoTk85ellRTS1ORTVFTXZR?oc=5",
-   "date": "2022-02-16T15:30:08+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Returning Values From Kotlin Functions (With Example) YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Tutorial for Beginners - Kotlin Function (With Example)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrWmNjU2FnWV9IWjVBR3lHbHUxNlRQR3lTbTdLVTJuWjlEOGxWdkhqRDJDaGNhNXhxejAwam1TUjN6TDNJS25rcDNOdUZRdFQzSk5YaVZB?oc=5",
-   "date": "2022-02-08T15:00:00+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Kotlin Function (With Example) YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Tutorial for Beginners - Kotlin String and String Templates (With Examples)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIeFBKOEpJNTd3Zl9jN1VaUzA5dlRleXI4XzdTNDZobExLU0ZYdUJ2Ql9mU0hCQ1dWVkxlNkJqdVo3VjhteXlOU0RRZXRJbzIyTkJZSkJR?oc=5",
-   "date": "2022-02-07T08:00:12+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Kotlin String and String Templates (With Examples) YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Tutorial for Beginners - Kotlin Operator Precedence and Type Conversion",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCLUpoUFk1U3UxWWZYUWd2UFVEZXU1dWhna2F5emxMbEc0NXpPRXRlbDVwbTFTcUNIWHlFMVFMUFdYM0tReUdra0NTM2RnMkwxU0NaX193?oc=5",
-   "date": "2022-02-07T02:00:09+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Kotlin Operator Precedence and Type Conversion YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Tutorial for Beginners - Kotlin Operators",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JbktISmI4dzZYLW1OczlvaUZFZTBteWMyb1kyV1VPWVhDZF9pTjBjR0xmODdGWTJGRVE4T1ViZTc2TThQakxBM3FiamJGUm1tU2ttNFlB?oc=5",
-   "date": "2022-02-04T11:00:12+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Kotlin Operators YouTube",
    "tech": "kotlin",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1648,6 +1768,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPUzVJRFZQdkpycXJiQlBWczVoUDB2VzJ6TmdYZmI4M0llbVQ2akpTTS01N09aS3JDdFZhTmo1ZTZHNklDbkhlLTJkLWpFbnVUOE5NRUt3?oc=5",
    "date": "2021-06-05T09:51:51+00:00",
    "summary": "7- تجربة التطبيق في أندرويد ستوديو علي محاكي خارجي | Memu Play Emulator |android Studio | Flutter YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "حصريًا لكم كيف تقوم بتمرير السوفتوير عن طريق | MicroSd Android Box",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41cU1GVzE1eUJSbVR3dmh3YmZWYjJnMTNIWklsSERpWG9Zb2k0Uk83NG9rbTdGVjZhcVQxVXVfMGE0Tm16dGFidnZZZjRid184NjlpeUxn?oc=5",
+   "date": "2021-04-30T20:00:22+00:00",
+   "summary": "حصريًا لكم كيف تقوم بتمرير السوفتوير عن طريق | MicroSd Android Box YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",

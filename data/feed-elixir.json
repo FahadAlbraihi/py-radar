@@ -1,8 +1,52 @@
 {
- "generated": "2026-08-16T04:59:55.112371+00:00",
+ "generated": "2026-08-17T05:25:37.149398+00:00",
  "tech": "elixir",
- "count": 89,
+ "count": 93,
  "items": [
+  {
+   "title": "Roadmap: Building a Sub-Microsecond HFT Triangular Arbitrage Engine in Elixir",
+   "url": "https://dev.to/matheuscamarques/roadmap-building-a-sub-microsecond-hft-triangular-arbitrage-engine-in-elixir-4ji2",
+   "date": "2026-08-15T19:07:15+00:00",
+   "summary": "A step-by-step engineering roadmap for building an ultra-low latency cryptocurrency HFT engine using Elixir, Rust, and the Notification-Oriented Paradigm (PON).",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Zenoh's put is fire-and-forget, get isn't — a read-after-write race in Elixir",
+   "url": "https://dev.to/kikuyuta/zenohs-put-is-fire-and-forget-get-isnt-a-read-after-write-race-in-elixir-o6l",
+   "date": "2026-08-15T18:53:59+00:00",
+   "summary": "put/4 in Zenohex returns as soon as the write is queued locally, not once the remote storage has applied it. Here's how I found the race, confirmed it against zenoh's own tracking issue, and fixed it with a small Elixir ",
+   "points": 1,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build Elixir Blog App With Phoenix in Less Than 15min",
+   "url": "https://dev.to/noopur0210/how-to-build-elixir-blog-app-with-phoenix-in-less-than-15min-43ie",
+   "date": "2026-08-15T14:11:57+00:00",
+   "summary": "Okay, let’s get real for a second. No-one can actually build a production-ready blog application from...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Learning Elixir: Alias, Import, Require and Use",
+   "url": "https://dev.to/abreujp/learning-elixir-alias-import-require-and-use-2hk2",
+   "date": "2026-08-15T11:17:12+00:00",
+   "summary": "I like to think of the four tools in this article — alias, import, require, and use — as four...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Building Distributed Systems in Elixir: Part 4 — Process Linking",
    "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb",
@@ -422,6 +466,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OUGsyT19uZHZ1LUpveDIyYkdqNzlKcnVIa2E4M01CVWxKcndkVUgyT08tdHlveFpNTi1JYkN3VG9BbXdrNnVYZUYtanRPSzVmNmJXbERR?oc=5",
    "date": "2024-12-11T16:00:14+00:00",
    "summary": "Elixir Full Course: 24 - Named Functions YouTube",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir Full Course: 23 - Modules",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nVWE4Qng0d2U4Mm5OWDItSTR1TlBkekZwWXN2UDI1VUVvMm9VbExLQURnaDJ6RVI5cHNNUGhfZGJYR2k0TVJpYnhQNE4tOGo4SEpDMk9R?oc=5",
+   "date": "2024-12-09T16:13:02+00:00",
+   "summary": "Elixir Full Course: 23 - Modules YouTube",
    "tech": "elixir",
    "sourceId": "yt",
    "source": "YouTube",
@@ -892,16 +946,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBieDlCUDBfWElYcEMxXzdSMC1hZ0phNEtCTkthNTYtUUIxLWR5bHRmeUtoZktxTEtJdkQ1b0xEQW1lSDlOclBSdVBZSHhVMlk1Yzd0dXpR?oc=5",
    "date": "2017-10-02T14:06:01+00:00",
    "summary": "Elixir Tutorial - An Introduction to Elixir YouTube",
-   "tech": "elixir",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Elixir Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zalZpTkdYSVdnd2YzVkdCeHVmV21SbWNBRnJ5U1F6YWZqeVotWDZlZWtvQW5zYkVUVzk0dTJ3TnNUWmlsRjF1aVA0Rlludk0wVUl6eTFn?oc=5",
-   "date": "2017-04-19T13:13:59+00:00",
-   "summary": "Elixir Tutorial YouTube",
    "tech": "elixir",
    "sourceId": "yt",
    "source": "YouTube",
