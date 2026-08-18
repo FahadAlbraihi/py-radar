@@ -1,8 +1,183 @@
 {
- "generated": "2026-08-17T05:23:51.777999+00:00",
+ "generated": "2026-08-18T05:00:46.590726+00:00",
  "tech": "kali",
  "count": 220,
  "items": [
+  {
+   "title": "A Security Fix Should Show Where the Attack Stopped",
+   "url": "https://dev.to/demivalerith/a-security-fix-should-show-where-the-attack-stopped-3kgh",
+   "date": "2026-08-18T03:20:37+00:00",
+   "summary": "The concrete problem   A security pull request can be green for the wrong reason. Unit tests...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "2026 NestJS Customer Support Backend for SMS OTP Abuse Budgets and Audit",
+   "url": "https://dev.to/ironspiredraven77/2026-nestjs-customer-support-backend-for-sms-otp-abuse-budgets-and-audit-5epd",
+   "date": "2026-08-18T02:43:17+00:00",
+   "summary": "A NestJS two-factor authentication backend using SMS has one hard operational job: decide, under...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A header scan says 16/16. Here's what it can't see.",
+   "url": "https://dev.to/maclessdev/a-header-scan-says-1616-heres-what-it-cant-see-14ab",
+   "date": "2026-08-18T01:48:57+00:00",
+   "summary": "A few days after how I built and shipped an iOS app without a Mac went up here, a reader named Amit...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Free Model vs 30 Security Advisory Records: An Accuracy Test You Can Rerun",
+   "url": "https://dev.to/gitlab_3188/a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun-67h",
+   "date": "2026-08-18T01:30:03+00:00",
+   "summary": "A single wrong severity label can push a bad dependency upgrade into production.  An advisory said...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users",
+   "url": "https://dev.to/anoymask/f-revocrm-cve-2026-71368-cross-site-scripting-targeting-logged-in-users-26lj",
+   "date": "2026-08-18T00:45:05+00:00",
+   "summary": "F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users            1. Basic...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft's AI Defense Research: Generating Detection Test Logs from Attack Procedures",
+   "url": "https://dev.to/anoymask/microsofts-ai-defense-research-generating-detection-test-logs-from-attack-procedures-5hbh",
+   "date": "2026-08-18T00:44:55+00:00",
+   "summary": "Microsoft's AI Defense Research: Generating Detection Test Logs from Attack Procedures     ...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CrowdStrike's AI Triage Research: How Well Can AI Automatically Judge SOC Alerts?",
+   "url": "https://dev.to/anoymask/crowdstrikes-ai-triage-research-how-well-can-ai-automatically-judge-soc-alerts-5ahg",
+   "date": "2026-08-18T00:44:31+00:00",
+   "summary": "CrowdStrike's AI Triage Research: How Well Can AI Automatically Judge SOC Alerts?           ...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ShieldBreak (CVE-2026-69414): Unpatched Local Vulnerability for Privilege Escalation from Defender to SYSTEM",
+   "url": "https://dev.to/anoymask/shieldbreak-cve-2026-69414-unpatched-local-vulnerability-for-privilege-escalation-from-defender-49d5",
+   "date": "2026-08-18T00:44:20+00:00",
+   "summary": "ShieldBreak (CVE-2026-69414): Unpatched Local Vulnerability for Privilege Escalation from...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "微软 Agent Governance Toolkit 详解：AI Agent 安全治理的操作系统级方案",
+   "url": "https://dev.to/sanyaduan/wei-ruan-agent-governance-toolkit-xiang-jie-ai-agent-an-quan-zhi-li-de-cao-zuo-xi-tong-ji-fang-an-52c6",
+   "date": "2026-08-18T00:35:45+00:00",
+   "summary": "深度解析微软开源的 Agent Governance Toolkit（AGT）：AI智能体安全治理的操作系统级方案。涵盖架构设计、五大核心组件、快速入门教程、OWASP全覆盖分析，以及2026年的实战部署建议。",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "深度解析 OWASP LLM Top 10 与 Agentic AI Top 10：智能体时代的安全攻防图谱",
+   "url": "https://dev.to/sanyaduan/shen-du-jie-xi-owasp-llm-top-10-yu-agentic-ai-top-10zhi-neng-ti-shi-dai-de-an-quan-gong-fang-tu-pu-4d97",
+   "date": "2026-08-18T00:25:52+00:00",
+   "summary": "深度解析 OWASP LLM Top 10（2025版）与 Agentic AI Top 10两大框架，梳理内在联系与演进逻辑，结合2025—2026年前沿安全实践，提出系统性解法和核心防御重心。",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant",
+   "url": "https://dev.to/magopredator/crosssessionmemoryguard-vigilando-la-exfiltracion-de-memoria-cross-session-en-agentes-multi-tenant-1g14",
+   "date": "2026-08-18T00:15:49+00:00",
+   "summary": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes...",
+   "points": 1,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Architecting a Custom Purple Team Infrastructure Scanner in Go.",
+   "url": "https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7",
+   "date": "2026-08-17T20:54:48+00:00",
+   "summary": "By Mohamed Medjahdi — Security Engineer &amp; DevSecOps Specialist  As a Security Engineer, one of...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Parsing numbers from JSON in Python",
+   "url": "https://dev.to/pomidoroshev/parsing-numbers-from-json-in-python-2e8c",
+   "date": "2026-08-17T20:25:39+00:00",
+   "summary": "Consider this hypothetical endpoint in a Python-based web-server:    # withdraw.py import json from...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I was tired of clunky PGP tools, so i built my own cross-platform solution: PGP Manager",
+   "url": "https://dev.to/developaaah/i-was-tired-of-clunky-pgp-tools-so-i-built-my-own-cross-platform-solution-pgp-manager-1fpn",
+   "date": "2026-08-17T19:57:47+00:00",
+   "summary": "I work with PGP regularly and I work with it across multiple operating systems. Linux on my...",
+   "points": 1,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Week 17: Network Scanning with Nmap — A Beginner’s Guide",
+   "url": "https://meetcyber.net/week-17-network-scanning-with-nmap-a-beginners-guide-5706868f9d9b?source=rss------penetration_testing-5",
+   "date": "2026-08-17T15:48:37+00:00",
+   "summary": "If you&#x2019;re starting your journey into cybersecurity, there&#x2019;s one tool you&#x2019;ll hear about again and again &#x2014; Nmap. It&#x2019;s one of the first tools&#x2026; Continue reading on MeetCyber »",
+   "tech": "kali",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "SPI, I2C, UART: How To Trigger On What Matters Instead Of Drowning In Noise",
+   "url": "https://dev.to/numbpill3d/spi-i2c-uart-how-to-trigger-on-what-matters-instead-of-drowning-in-noise-5ac5",
+   "date": "2026-08-17T14:41:17+00:00",
+   "summary": "If you have ever opened Saleae Logic or PulseView and stared at 40 seconds of SPI at 8MHz, you know...",
+   "points": 4,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Evooo1Bot: A Multi-Functional Linux Botnet That Turns Compromised Gateways into SOCKS5 Relays, SSH Spreaders, and DDoS Tools",
    "url": "https://dev.to/anoymask/evooo1bot-a-multi-functional-linux-botnet-that-turns-compromised-gateways-into-socks5-relays-ssh-27kg",
@@ -172,171 +347,6 @@
    "url": "https://dev.to/hdevv/i-scanned-55-public-lovable-apps-all-55-had-a-gdpr-or-security-finding-p1h",
    "date": "2026-08-16T12:06:12+00:00",
    "summary": "AI app builders are genuinely remarkable. You describe an app, and minutes later it is deployed on a...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Find and Fix Security Vulnerabilities for Money",
-   "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-4eoc",
-   "date": "2026-08-16T04:00:10+00:00",
-   "summary": "How to Find and Fix Security Vulnerabilities for Money   tags: security, bugbounty, money,...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Permission Boundary My MCP Server Doesn't Actually Have",
-   "url": "https://dev.to/enjoy_kumawat/the-permission-boundary-my-mcp-server-doesnt-actually-have-3k98",
-   "date": "2026-08-16T03:36:23+00:00",
-   "summary": "There's a theme showing up a lot in agent-tooling posts this week: agents holding tools they can...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Proof-of-Fix in GSC: An Architecture for Provable Vulnerability Remediation Verification",
-   "url": "https://dev.to/alexey_polyakov_cfe2095e3/proof-of-fix-in-gsc-an-architecture-for-provable-vulnerability-remediation-verification-29ck",
-   "date": "2026-08-16T02:12:08+00:00",
-   "summary": "Abstract   GSC is a self-learning AppSec platform implementing the full pipeline detect →...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Deny-by-Default Manifest for AI-Generated Services on a Free Server",
-   "url": "https://dev.to/github_7727/a-deny-by-default-manifest-for-ai-generated-services-on-a-free-server-49ko",
-   "date": "2026-08-16T02:11:19+00:00",
-   "summary": "Why this is worth reading: a free model can hand you a working service in one prompt, and a free...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I shipped an MCP server that reported success without signing anything",
-   "url": "https://dev.to/edycutjong/i-shipped-an-mcp-server-that-reported-success-without-signing-anything-6oh",
-   "date": "2026-08-16T00:30:27+00:00",
-   "summary": "I built an MCP server that lets an AI assistant trade tokens and claim creator fees on Solana. Then I...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Don't Hand Your Inbox to an Agent",
-   "url": "https://dev.to/net_tab_ddf9dfbe0c308827e/dont-hand-your-inbox-to-an-agent-5dl8",
-   "date": "2026-08-16T00:01:34+00:00",
-   "summary": "A Reddit thread on connecting Claude Code to a Yahoo Mail account turned into a solid field guide for...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.",
-   "url": "https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la",
-   "date": "2026-08-15T23:00:58+00:00",
-   "summary": "Anonymous paste services get scripted into spam dumps, phishing kits, and credential lists. Instead of forcing accounts or reCAPTCHA, I made posting cost energy — a little CPU (free) or 10 sats over Lightning. Full flow ",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "JWT Authentication in Express That You Can Actually Revoke",
-   "url": "https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i",
-   "date": "2026-08-15T21:38:04+00:00",
-   "summary": "Access tokens, refresh token rotation, and theft detection: the parts most Node.js tutorials leave...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
-   "url": "https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f",
-   "date": "2026-08-15T21:30:22+00:00",
-   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works.  I have a lot of...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Safely Fetch Metadata from User-Submitted URLs (Without Getting Hit by SSRF or DNS Rebinding)",
-   "url": "https://dev.to/josejux/how-to-safely-fetch-metadata-from-user-submitted-urls-without-getting-hit-by-ssrf-or-dns-rebinding-1nfo",
-   "date": "2026-08-15T17:53:33+00:00",
-   "summary": "If your app lets a user paste in a URL — a link preview, a \"import from website\" button, an AI agent...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Writing an IAM Policy That's Actually Least Privilege",
-   "url": "https://dev.to/mariogongora/writing-an-iam-policy-thats-actually-least-privilege-386k",
-   "date": "2026-08-15T17:23:33+00:00",
-   "summary": "I wrote the IAM policy for my solar agent myself, on the first try, thinking I had done it right.  I...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "L4 vs L7 Stress Testing: What Actually Breaks First",
-   "url": "https://dev.to/zerodawnipstress/l4-vs-l7-stress-testing-what-actually-breaks-first-3k7p",
-   "date": "2026-08-15T17:17:24+00:00",
-   "summary": "Why Layer 4 and Layer 7 stress tests are different disciplines, and how to find which resource exhausts first.",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "trelix v2.11.0 to v3.1.1: Six Feature Areas, Every One of Them Off By Default",
-   "url": "https://dev.to/sai_ram_0000/trelix-v2110-to-v311-six-feature-areas-every-one-of-them-off-by-default-1go1",
-   "date": "2026-08-15T15:33:10+00:00",
-   "summary": "Seed three events into an audit database, then reach past the application and change one row by...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI Vulnerability Detection Feedback Loop: Attacker Advantage in Detection Evasion",
-   "url": "https://dev.to/satyam_rastogi/ai-vulnerability-detection-feedback-loop-attacker-advantage-in-detection-evasion-275d",
-   "date": "2026-08-15T13:07:53+00:00",
-   "summary": "AI vulnerability scanning creates a feedback loop attackers weaponize. We analyze how defenders' AI solutions become attacker training data, enabling ",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My AI Agent Tried to Delete Every Customer Record. Here's What Stopped It.",
-   "url": "https://dev.to/frederikvonderheyden/my-ai-agent-tried-to-delete-every-customer-record-heres-what-stopped-it-39ip",
-   "date": "2026-08-15T12:04:37+00:00",
-   "summary": "Last Tuesday, 2:47 AM.  I was asleep. My AI coding agent was not. It had been running autonomously...",
    "points": 0,
    "tech": "kali",
    "sourceId": "devto",
@@ -780,6 +790,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSkZELVg1bTdNY1p4ZTNjWnYtdXVVWng4NEU3cng4cFBweEQzckp3SlFtTzNBbkVpcUdnWU5SRk00cWpick8tQ0VBcl96dTlONVI3VW5n?oc=5",
    "date": "2025-10-11T15:30:23+00:00",
    "summary": "How to Install Kali Linux on Mac (M1/M2/M3/M4) | Run Kali Linux on Apple Silicon Using UTM YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Guessing! Find Network Interfaces in Kali Linux (ip a Command Explained)!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aa29na0lYR0hjd1J4WTFmUFUzcFd5NEl0OXBpdjV6b2NWTjFlVDUzeHNuZFE0ZzJ0MG9zVVhCMFBCdk9QOG9Jck9lUzlKcVVleWs4aDF3?oc=5",
+   "date": "2025-10-10T04:01:15+00:00",
+   "summary": "Stop Guessing! Find Network Interfaces in Kali Linux (ip a Command Explained)! YouTube",
    "tech": "kali",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1260,6 +1280,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUG42a3NYbjFIbUdqTXVkWGdrRWxxWkFPcExFeDJpU3p6bVktNU05S3poMjNoSUN6MVdDYUIxcWpOQ0h4bzFFUFBQNXNvMEhmNjAtYVd3?oc=5",
    "date": "2024-12-25T14:51:45+00:00",
    "summary": "تثبيت كالي لينكس على الموبايل وحل جميع المشاكل | Kali Linux on Mobile YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "معسكر الأمن السيبراني واختبار الاختراق الشامل والمتقدم | في فيديو واحد !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5dUlCR1MwcFBOY04wakN3Ujk1a290NWxhYVFCa3ppN0diLUJsTVEwZW5qVUgweGNFdUpQRzJWZFJ0TTdmRklfNWxlYVJxVW5oblROLVFB?oc=5",
+   "date": "2024-11-13T16:41:12+00:00",
+   "summary": "معسكر الأمن السيبراني واختبار الاختراق الشامل والمتقدم | في فيديو واحد ! YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1886,6 +1916,16 @@
    "lang": "ar"
   },
   {
+   "title": "اهم اوامر التعامل مع كالي لينكس | kali linux command line",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zSlAwbENOVVB1QnBUUUprQTQtdnBCWTdUdmlWTWstbVVyNldGazctLUg2WmE3OXBtMmtvbUxBdGxuWUFLaHc4eFMyc0FkRWI5QnJZOXhB?oc=5",
+   "date": "2022-10-09T12:55:10+00:00",
+   "summary": "اهم اوامر التعامل مع كالي لينكس | kali linux command line YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تثبيت كالي لينكس اقوى نظام اختبار اختراق | install kali linux and vmware workstation",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4NXhVX1pfT05QSVpNNi1fNW45Rm9rLWEybDhYa2J3TjRPY0FxRFJ3WHl2bi1XdlVSckEwUjV3c1ZCQ0k2YjhhVFN0djM4UnRvYWJHUXV3?oc=5",
    "date": "2022-10-08T17:02:59+00:00",
@@ -2046,16 +2086,6 @@
    "lang": "en"
   },
   {
-   "title": "What is Kali Linux? | Kali Linux Tutorial | Cybersecurity Training | Edureka Rewind - 4",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NemR6RTNRQS1HS05sMGtpMlFnbFN6NDhvYUwxamx5aTgtdmIzMG5BbG05anZBSUd3SXBlMTdXY0dzbDdrcDFQR3F4dFRTZWhxY2hwVmdR?oc=5",
-   "date": "2022-07-03T21:23:13+00:00",
-   "summary": "What is Kali Linux? | Kali Linux Tutorial | Cybersecurity Training | Edureka Rewind - 4 YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعلم الاختراق تثبيت نظام كالي لينكس واهم 100 امر للتعامل مع النظام | Ethical Hacking",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HVWZuU0tTMENFNmpYTVYtbW4xdFpvaUJ6WGh1WnE5X3k4WU1MSXkwMmZHelVfdktidURTcFg4aHg3cHpYdVFfekd3SHN3N2k5a3VyUG9R?oc=5",
    "date": "2022-07-02T10:35:11+00:00",
@@ -2124,16 +2154,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "macof & macchanger tools in kali linux | complete ethical hacking course | network security tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qb19kREJ1VV9zS3g4WmR4SkJ2aS1OdVZOSVprbjRVc0d6NkdfRE5JU08yTVdhZjhhakd3aExZenBvdFU3d1A0aHZfalQyU0JaR2RmdE5B?oc=5",
-   "date": "2022-04-19T06:00:26+00:00",
-   "summary": "macof & macchanger tools in kali linux | complete ethical hacking course | network security tutorial YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح برنامج Maltego",
@@ -2220,26 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vbUtPTGswRm1WUjNCU0V6YUJBRmwxM3VLWUZocUtReXRwMVdSTnpTNnN0UVlkSXQ3b3FyellHLXBEQ3llc2Z4Tm1ZcG40dF9pYkJzNkRR?oc=5",
    "date": "2022-01-04T18:00:06+00:00",
    "summary": "creat wordlists crunch kali linux crunch انشاء ملف كلمات السر عبر أداة YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "ازاى تختار واى فاى مناسب للكالى لينكس | How to choose a suitable wifi for kali linux ?",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nOXVhWTJyQ3VPLXpaa29YeHR5N1hGOFE3UWRhenlTMHdlNUpKM3Bsd1BHc1o5QW02cy1kVjdRbTRJWkItUGl3M093UFhkWG92WVUzRUhR?oc=5",
-   "date": "2021-12-29T23:37:39+00:00",
-   "summary": "ازاى تختار واى فاى مناسب للكالى لينكس | How to choose a suitable wifi for kali linux ? YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "dont start using kali befor active proxychains أقوى أداة للخصوصية في الكالي لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yNy1BXzMyX0ZQUE1LcWJlLXlIa2N5N1JPcGVZOTdCbjR5S1lWT1JMMklZSGg3eDkxN0xKdlRMNEFDNjZHdTJuNnc5OXZYRGV3enlLS1RR?oc=5",
-   "date": "2021-12-28T16:16:25+00:00",
-   "summary": "dont start using kali befor active proxychains أقوى أداة للخصوصية في الكالي لينكس YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",

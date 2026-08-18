@@ -1,14 +1,45 @@
 {
- "generated": "2026-08-17T05:27:20.117431+00:00",
+ "generated": "2026-08-18T05:04:51.568096+00:00",
  "tech": "dart",
- "count": 159,
+ "count": 165,
  "items": [
+  {
+   "title": "Dart: Control Flow",
+   "url": "https://medium.com/@fajardanangdwi/dart-control-flow-50154239a788?source=rss------dart-5",
+   "date": "2026-08-18T03:50:44+00:00",
+   "summary": "Control Flow (Alur Kontrol) dalam bahasa Dart, mencakup percabangan (If-Else, Switch-Case) dan perulangan (Loops), lengkap dengan&#x2026; Continue reading on Medium »",
+   "tech": "dart",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Pengenalan Dart: Variabel, Data Types, & Final vs Const",
+   "url": "https://medium.com/@fajardanangdwi/pengenalan-dart-variabel-data-types-final-vs-const-edaca022c1c8?source=rss------dart-5",
+   "date": "2026-08-18T03:30:41+00:00",
+   "summary": "Dart adalah bahasa pemrograman berorientasi objek (Object-Oriented Programming / OOP) yang dikembangkan oleh Google. Dart dirancang khusus&#x2026; Continue reading on Medium »",
+   "tech": "dart",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Hello, DEV Community",
+   "url": "https://dev.to/ali_cimen/hello-dev-community-1bhp",
+   "date": "2026-08-17T17:58:33+00:00",
+   "summary": "I'm a newly graduated developer currently focusing on Flutter and mobile app development.  I've been...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)",
    "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
    "date": "2026-08-16T18:12:39+00:00",
    "summary": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
-   "points": 0,
+   "points": 2,
    "tech": "dart",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -293,6 +324,16 @@
    "lang": "en"
   },
   {
+   "title": "تعلم دارت فى فيديو واحد شرح أساسيات البرمجه بالعربى | Learn Dart for Flutter - Beginners Full Course",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IUTFRUmMwWTRPZFZUWWVyNGlWLUp2d2Z1c1JqeWRKRXdqT2UyaFZOMFZWZlRwYnB3Nzc4OTJNcjZyMG9fQzJjMS1jbzN6aFgxVGNuSWx5RVVzZnEyRjQ4eUdYdFlpTUp2UlFRSzJRMFhfMTQ1TWtza3h5c2w?oc=5",
+   "date": "2026-02-02T23:18:44+00:00",
+   "summary": "تعلم دارت فى فيديو واحد شرح أساسيات البرمجه بالعربى | Learn Dart for Flutter - Beginners Full Course YouTube",
+   "tech": "dart",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Object-Oriented Programming (OOP) in Dart for Beginners - Flutter Course for Beginners #13",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCNVdtNnJPMUNPelhwM0xiVldFNzVvVGtSc05iR283LVJWblZiVVc2b1hHeVJZWVBkV2gyaDczeEkyMmhTZWx5MHVfSTFoZllIYXlhdHdB?oc=5",
    "date": "2026-01-06T14:36:25+00:00",
@@ -307,6 +348,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VREh4SkRoQ2k0d01EUUhyaUVBZ2FDcHVOOW5HWGM1Q256cHNIdnVhVjE1dEdLNHJabHhQaVA0VFhpNVZUbHRidzAyQ3hnWHdIbElKaVd3?oc=5",
    "date": "2025-11-25T12:10:17+00:00",
    "summary": "Dart Crash Course for Beginners - Flutter Course for Beginners #4 YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to Dart & Dart Pad - Flutter Course for Beginners #3",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11VmtpRnQ2RDlvQWVoaWxQUHBKNnFHWWIzZzVaZV9KT2tqOEo4NHBGcjE0emN3T2d3M2FoMjM4TEVDeVFLYUh1cG1zcFlLVjd0d2txRmVn?oc=5",
+   "date": "2025-11-21T12:49:23+00:00",
+   "summary": "Introduction to Dart & Dart Pad - Flutter Course for Beginners #3 YouTube",
    "tech": "dart",
    "sourceId": "yt",
    "source": "YouTube",
@@ -473,6 +524,16 @@
    "lang": "ar"
   },
   {
+   "title": "32- لغة برمجة Null Safety - Dart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Rb3ZBSXVqY0pNVG1rLWtwOVhydDlJX3F6OW9UQVJ1WTNWaEdwTU10ZXBIcG16b0E0NE4takR4dkt1V0RfTDIyZm1OVUNnWWtYMUVpb3l3?oc=5",
+   "date": "2025-01-06T07:58:26+00:00",
+   "summary": "32- لغة برمجة Null Safety - Dart YouTube",
+   "tech": "dart",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "31- لغة برمجة Getter & Setter - Dart",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rdmh1b1poRm5nZHFDSEVPandSQjdENFU4b1Z6NFRhWjFxQWJGb2wyQmtYMmswMVU1RFFuUUNHbDg5T1VaeUNDdnRMWGVFcUFtZTE3MEJ3?oc=5",
    "date": "2025-01-06T07:45:58+00:00",
@@ -543,6 +604,16 @@
    "lang": "en"
   },
   {
+   "title": "7 - increment & decrement Operators ( Mastering Dart 2024 )",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fRzkzbWRzZkJ3LXJDMzdfVF9vcWwzcU5pb0o1MFZoek1nOW9OdnV2OFYwYXNRdXVBNkYwclNzQzBaTzRVVzJ1NGtHT1BJYXd1SGZfZllB?oc=5",
+   "date": "2024-10-31T08:28:43+00:00",
+   "summary": "7 - increment & decrement Operators ( Mastering Dart 2024 ) YouTube",
+   "tech": "dart",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "2 - void main & print (mastering Dart 2024)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FYnlRNXZ5R3UzaW5GUkd3aC1BR1VsbG43cEtWU3J1a2F1ZGdqVTVnbEFTSjlqVEdpZ1plRVdvbEE4TkNPSC12dlRvZGFNUElSOUhJMmR3?oc=5",
    "date": "2024-10-30T08:05:56+00:00",
@@ -587,16 +658,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Edl9lVHNHdUQ3cVF3ZU92NlZSUXR5ZE9BcFdscDZoRUxhYUVLWkdRdEpPRGhKd0FNQnA2SHZlWGF4ZnVyZFEyMldiNkUyblZfUHNyWWVR?oc=5",
    "date": "2024-10-11T09:12:29+00:00",
    "summary": "2- لغة برمجة Dart - استخدام محرر اﻻكواد Dartpad وبناء اول برنامج YouTube",
-   "tech": "dart",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم دارت فى فيديو واحد شرح أساسيات البرمجه بالعربى | Learn Dart for Flutter - Beginners Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZWVNNk1UQzVoNzRoYUd2SkZsXzZmaVJHMmNZYThZdTZvaTNSMTJyY3NZekgzMmRRYnppZUViaHhGVFZhQi05NWE2MnVYeHFDb0JPRmpn?oc=5",
-   "date": "2024-10-02T15:46:51+00:00",
-   "summary": "تعلم دارت فى فيديو واحد شرح أساسيات البرمجه بالعربى | Learn Dart for Flutter - Beginners Full Course YouTube",
    "tech": "dart",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -773,6 +834,16 @@
    "lang": "en"
   },
   {
+   "title": "Dart Crash Course #1 - What is Dart?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aFNBUERlRW9tSzBjcldEMnR1RFRUVnRxS0F6Q25vbjhzMVdpaTRKUUx3aXR1OW5URFZZTTFGb21lNHI4Ujh5bU5pSE9ORnJXYTNwZFFn?oc=5",
+   "date": "2024-01-08T09:06:07+00:00",
+   "summary": "Dart Crash Course #1 - What is Dart? YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Practical Functional Programming in Dart & Flutter",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSTU3WWpoZWxSRlZZODN3OVdaalEyMFlHb3J5NFdZemUtelF5VXZLU1dwS1RhbEdzejhaWm1WamQwd0JKNmVGNkc1VFNJQXNiTnM2UHBR?oc=5",
    "date": "2023-12-05T14:00:09+00:00",
@@ -837,6 +908,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KclFfYTJKMFY3VllhakpmYzNkcUw1UWxqRFpvbEZvQVdOVGx3aFNKXzcyUEhpQmV0STNxYk85czVJSjFyalJnZzVvRkpRZzdhWkg2UFBR?oc=5",
    "date": "2023-08-03T13:08:27+00:00",
    "summary": "The Complete Dart & Flutter Developer Course | Full Tutorial For Beginners to Advanced YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Dart Course Tutorials in Urdu/Hindi",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oRFVnN21uQ1lPRnNUcVpIdi1pU0dMS2Faay1ZWGJlUWtjcC1wUXlsZVZFOWc0OV9rOUREY09GNnRLUDlRMGVGNm0wTHBIRThCZHNuNEhnclBiMmdHTHlWUkxsV24yelQ5Z2JuQzBheTdUTXVPOThvcWlDbmY?oc=5",
+   "date": "2023-07-30T22:52:15+00:00",
+   "summary": "Flutter Dart Course Tutorials in Urdu/Hindi YouTube",
    "tech": "dart",
    "sourceId": "yt",
    "source": "YouTube",
@@ -971,6 +1052,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "البرمجة بلغة دارت - الدرس الثامن ـ Future - await and async",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSWRXSlJjNmdHc01PSmdMX0hBZjVsMWt6OEFGSkZiOEtKVHRQVEhIaWVEM2hPMEdkazdBT0FkdExmdnZTd0lOdVItTlhDbjRsZHhlSVRB?oc=5",
+   "date": "2022-12-28T14:41:24+00:00",
+   "summary": "البرمجة بلغة دارت - الدرس الثامن ـ Future - await and async YouTube",
+   "tech": "dart",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "2. Dart DataTypes | Dart Bangla Tutorial",
@@ -1243,10 +1334,30 @@
    "lang": "en"
   },
   {
+   "title": "Dart Tutorial #22 - Recursive functions in Dart Programming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USFdWQ0tzazZQVXFoUmd6MWthd2VJVlBQemQ2Tk1objZ6dHBQZk5DQWRnN1ZIUTRPWnVvX0RnU3l1azlxUUNSYTk3VW4wanNrYVlHb0p3?oc=5",
+   "date": "2022-04-26T14:30:05+00:00",
+   "summary": "Dart Tutorial #22 - Recursive functions in Dart Programming YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How To Install Dart On Windows - Learn Dart Programming 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rNDdudm45cTNVdkxUUGhTZ0tFZGFEYW9hQW1NWU92X25wUjQwWmd5bkZEeEduN2FFcndGS3FIaExnZmlFSnBtTnJ3bXo2WnA2MzBISDRB?oc=5",
    "date": "2022-04-25T18:30:11+00:00",
    "summary": "How To Install Dart On Windows - Learn Dart Programming 1 YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Dart Tutorial #19 - List & Lists Methods in Dart Programming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RY19ZeTNQZENsWXpHMl9yWkVlVmtnZURxanNrb2NORl9YWF83aVo2ZDdTNUhEUjlWdjBUQWc1cVh5MWtEQ1JRZTRfVTVrT29hdTlNcENB?oc=5",
+   "date": "2022-04-23T14:30:03+00:00",
+   "summary": "Dart Tutorial #19 - List & Lists Methods in Dart Programming YouTube",
    "tech": "dart",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1287,6 +1398,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12U0ZWcC1pS2Z6T3lVYm56YWFMRWdrblpOdjdyQUJMVnZBMW0yVkREd2E4SnJ2MFJVUll4X0dQNUFFY3ROWUxMN1AxTnplUTlzZ2MtNVdn?oc=5",
    "date": "2022-03-28T16:00:10+00:00",
    "summary": "Dart Tutorial #1 - Introduction to Dart and How to write First Dart Code YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Public & private members in Dart | Dart visibility | Dart Tutorial #35",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UdFlOQ010YnVpZkJSVElfQ2pZMTlCdnh1YlVCeWs3RGs0T2JXU283WXZkbC1vM3pzZUFSem5ReGlFRWplV3VLVW4tYUN4NEQwVTl4ZVdR?oc=5",
+   "date": "2022-02-25T15:30:06+00:00",
+   "summary": "Public & private members in Dart | Dart visibility | Dart Tutorial #35 YouTube",
    "tech": "dart",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1363,16 +1484,6 @@
    "lang": "ar"
   },
   {
-   "title": "Dart Programming Language Tutorial for Beginners | Full Course in 3 hours",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05cWdNYnVEclpRdGdJWXdwVmszbGw5b1VsVmdidmxIZ3pldXVyNVdnQ3NtTnhNUWM0NVQwdnRkS3VaNUI2dVBaWHN3cGEzbV9mSmlVODhB?oc=5",
-   "date": "2021-12-30T00:00:02+00:00",
-   "summary": "Dart Programming Language Tutorial for Beginners | Full Course in 3 hours YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "1 الفرق بين Dart و Flutter و قواعد البيانات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56eDR2QzdzWmR4Q3hOZHJUeC11UnU3dHNEeTRIaVRkNkd3SGhId2o0N19Ud0dRWGRiZVZKVTgwVW1qd19nUEF2cWlfdUx4bS1INDhtMldR?oc=5",
    "date": "2021-12-17T16:35:23+00:00",
@@ -1383,42 +1494,12 @@
    "lang": "ar"
   },
   {
-   "title": "Complete Introduction to Strings in Dart Programming | Dart course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yOFpJTmhIODQ1c25mV3Z2UTdTVW92cTRZX0tyVmJHR3Uwb1J1ZEctNGFabDZhMFgteXZ0YnAwWVF4WVhTYmFzYzRULVV1TnJNdERXMkpR?oc=5",
-   "date": "2021-11-23T10:00:25+00:00",
-   "summary": "Complete Introduction to Strings in Dart Programming | Dart course YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "How to download and install Dart SDK Using Chocolate",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DSzRFV3ZxRW9PMjNhQkpOSHgyQWdaSGM1RFFkSEFnVGYtYUZoOUtxV3hVQTBpZFZDbUM4dVktVjVJNm5DY1M5b2MxVWxwT2N2cDNTM2F3?oc=5",
    "date": "2021-11-04T03:09:58+00:00",
    "summary": "How to download and install Dart SDK Using Chocolate YouTube",
    "tech": "dart",
    "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Dart in 100 Seconds",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zR3VXa3UxODN3VmszMU1yWW1FVlViLVNQWm5GeGdCMl96Y09TbFBoRkxVOHJ1NndxT1RJM3BaSGJDd3BXVzByQjB6dzFBTmdsQVQ5QzJB?oc=5",
-   "date": "2021-10-13T16:53:20+00:00",
-   "summary": "Dart in 100 Seconds YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oM1Faa3JfM3hRQTJuOS1nNktQdUxKTVNKblFEd3hubjlQX09FY3MtMVJnQXpVcnRtUXV6cm96LUxIUWdTYi1OQ3RPRkJ2OFcwYXBuZC1R?oc=5",
-   "date": "2021-09-22T12:04:36+00:00",
-   "summary": "The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts! YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -1453,16 +1534,6 @@
    "lang": "ar"
   },
   {
-   "title": "Dart Classes Explained I - All Fields, Methods, Constructors, Operators, Getters/Setters & Singleton",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BMUtXTHAyZDByMHRUdE5sOFdBVmJGMWhaelNsbGxQY1RxWE5DOEh6TUh4Y0VFM0l5ekZ4NWJQZE5TT29jR1Fid3VIWjI4aHRZUkg1YUhn?oc=5",
-   "date": "2021-07-26T09:31:22+00:00",
-   "summary": "Dart Classes Explained I - All Fields, Methods, Constructors, Operators, Getters/Setters & Singleton YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "فوق المتوسط 17 - ما هي الـ ماب في لغة البرمجة دارت وكيفية استخدامها : Travel Mobile app - Flutter",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9naXFKeWRhZi1YUkJ6RUVYTlI1YnhBcmFSNWRZWFAyeGxiVDVfaXpxVF9PUkxTNGJBVFc0Vm9Wb0VBUWtRZXZQeUJwVWRNWDgtMUg5TnhR?oc=5",
    "date": "2021-06-24T16:45:01+00:00",
@@ -1481,16 +1552,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Learn Dart from Andrea Bizzotto (Google Developer Expert) | Dart: The Complete Developer's Guide",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmUGN2aEJ4MlcyQXhXMy1vaWtBQzNNcFdTcWxvTFoyVHZBSGdvbzVjQWE0NmJscjlLRGlhWlFmQVl4TjdxZVhBY3dPb1A0aTVqTGFMcDZB?oc=5",
-   "date": "2021-05-25T12:19:51+00:00",
-   "summary": "Learn Dart from Andrea Bizzotto (Google Developer Expert) | Dart: The Complete Developer's Guide YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "Classes & Objects (OOP) in Dart - Flutter & Dart For Beginners",
@@ -1563,6 +1624,16 @@
    "lang": "en"
   },
   {
+   "title": "00- Dart Programming Language كورس كامل لشرح لغة برمجة دارت بالعربى",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EaDAtSENMUEpQUm8wcUZXcG9XYzVvbXItdUl1Y19SMkt6QkRfRlk1M3d1QzhEOEV5WUxiaFhJXzNOdF9rOEIzRl9WM1dTdzl4NW5nNWdn?oc=5",
+   "date": "2020-09-24T13:24:57+00:00",
+   "summary": "00- Dart Programming Language كورس كامل لشرح لغة برمجة دارت بالعربى YouTube",
+   "tech": "dart",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "21- Dart Object Oriented Programming (Classes and objects) شرح لغة برمجة دارت بالعربى",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fNGFMRExFWndsV2hRQVppN2VnMi00Xzd3RGgyWDVxV0g0c0pvTUo0UHlnaDBkQkJ1eGlwX1VPVC1mTU10ZEs4SFloOTFnUGhGTmNCcmtB?oc=5",
    "date": "2020-09-18T15:41:39+00:00",
@@ -1577,16 +1648,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kbHVUOW8tX09sMHpaZWdwZk5Ec1owOTVFZWdYbDU4cXBLZTRtblVFN1ZuQzJQY25Iam5fYV9aaHRxM2gyNVRfNFNNaV8zRDU0bXBCQVV3?oc=5",
    "date": "2020-09-14T17:39:57+00:00",
    "summary": "15- Dart Functions شرح لغة برمجة دارت بالعربى YouTube",
-   "tech": "dart",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "00- Dart Programming Language كورس كامل لشرح لغة برمجة دارت بالعربى",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rV1hZLWhFQ2cxOVNacmdidmdyeVhrd0xfNWVENWxnV2FycVphV05ybVE5UTd6YVRoblY5SHFpanh4TW9MNzRjRnVuVXFuU0tzcExBemxfRnd0SlBLcTkxbUJXbDZCR1JNN1NjMnZrZFpMR3FrZkoxa09kUVg?oc=5",
-   "date": "2020-09-09T15:17:10+00:00",
-   "summary": "00- Dart Programming Language كورس كامل لشرح لغة برمجة دارت بالعربى YouTube",
    "tech": "dart",
    "sourceId": "ar-yt",
    "source": "YouTube",

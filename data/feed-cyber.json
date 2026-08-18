@@ -1,8 +1,367 @@
 {
- "generated": "2026-08-17T05:21:24.326259+00:00",
+ "generated": "2026-08-18T04:58:16.465285+00:00",
  "tech": "cyber",
  "count": 220,
  "items": [
+  {
+   "title": "I Started With PenTest+ Notes in Obsidian. Things Escalated.",
+   "url": "https://medium.com/@raulscholar/i-started-with-pentest-notes-in-obsidian-things-escalated-1abceaf0de2b?source=rss------cybersecurity-5",
+   "date": "2026-08-18T04:46:32+00:00",
+   "summary": "Part 1 Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The Real Reason Vulnerability Management Breaks Down",
+   "url": "https://medium.com/@threatwise.io/the-real-reason-vulnerability-management-breaks-down-3f45d6e6d0b5?source=rss------cybersecurity-5",
+   "date": "2026-08-18T04:46:17+00:00",
+   "summary": "Ask any security team what the hardest part of vulnerability management is, and you&#x2019;ll probably hear different answers. Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Free, Structured Resources for Cybersecurity Foundations: Networking, OS, Databases, Linux, Windows, Bash, Python",
+   "url": "https://dev.to/kserude/free-structured-resources-for-cybersecurity-foundations-networking-os-databases-linux-5dbo",
+   "date": "2026-08-18T04:20:09+00:00",
+   "summary": "Foundational Technical Skills for Cybersecurity: A Mechanistic Approach   Cybersecurity...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TryHackMe : Bugged - Writeup",
+   "url": "https://dev.to/exploitnotes/tryhackme-bugged-writeup-579c",
+   "date": "2026-08-18T04:15:29+00:00",
+   "summary": "Overview   Bugged is an easy TryHackMe box built around an MQTT broker (Mosquitto) that...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "17,600 Moves in Four Days: How OpenAI’s Own Model Broke Out and Hit Hugging Face",
+   "url": "https://medium.com/@trends24/17-600-moves-in-four-days-how-openais-own-model-broke-out-and-hit-hugging-face-b000e97d64e4?source=rss------cybersecurity-5",
+   "date": "2026-08-18T03:31:01+00:00",
+   "summary": "Hi everyone, I am Trends 24/7 and in this blog I want to walk through one of the strangest security stories of 2026: an OpenAI model that&#x2026; Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "A Security Fix Should Show Where the Attack Stopped",
+   "url": "https://dev.to/demivalerith/a-security-fix-should-show-where-the-attack-stopped-3kgh",
+   "date": "2026-08-18T03:20:37+00:00",
+   "summary": "The concrete problem   A security pull request can be green for the wrong reason. Unit tests...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "2026 NestJS Customer Support Backend for SMS OTP Abuse Budgets and Audit",
+   "url": "https://dev.to/ironspiredraven77/2026-nestjs-customer-support-backend-for-sms-otp-abuse-budgets-and-audit-5epd",
+   "date": "2026-08-18T02:43:17+00:00",
+   "summary": "A NestJS two-factor authentication backend using SMS has one hard operational job: decide, under...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What a Single File Name Taught Me About IDOR (PortSwigger Lab)",
+   "url": "https://dev.to/david_essien/what-a-single-file-name-taught-me-about-idor-portswigger-lab-42l2",
+   "date": "2026-08-18T02:01:42+00:00",
+   "summary": "My transcript downloaded as 2.txt. That was the entire vulnerability, sitting right there in a file...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A header scan says 16/16. Here's what it can't see.",
+   "url": "https://dev.to/maclessdev/a-header-scan-says-1616-heres-what-it-cant-see-14ab",
+   "date": "2026-08-18T01:48:57+00:00",
+   "summary": "A few days after how I built and shipped an iOS app without a Mac went up here, a reader named Amit...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Free Model vs 30 Security Advisory Records: An Accuracy Test You Can Rerun",
+   "url": "https://dev.to/gitlab_3188/a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun-67h",
+   "date": "2026-08-18T01:30:03+00:00",
+   "summary": "A single wrong severity label can push a bad dependency upgrade into production.  An advisory said...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users",
+   "url": "https://dev.to/anoymask/f-revocrm-cve-2026-71368-cross-site-scripting-targeting-logged-in-users-26lj",
+   "date": "2026-08-18T00:45:05+00:00",
+   "summary": "F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users            1. Basic...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Microsoft's AI Defense Research: Generating Detection Test Logs from Attack Procedures",
+   "url": "https://dev.to/anoymask/microsofts-ai-defense-research-generating-detection-test-logs-from-attack-procedures-5hbh",
+   "date": "2026-08-18T00:44:55+00:00",
+   "summary": "Microsoft's AI Defense Research: Generating Detection Test Logs from Attack Procedures     ...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CrowdStrike's AI Triage Research: How Well Can AI Automatically Judge SOC Alerts?",
+   "url": "https://dev.to/anoymask/crowdstrikes-ai-triage-research-how-well-can-ai-automatically-judge-soc-alerts-5ahg",
+   "date": "2026-08-18T00:44:31+00:00",
+   "summary": "CrowdStrike's AI Triage Research: How Well Can AI Automatically Judge SOC Alerts?           ...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ShieldBreak (CVE-2026-69414): Unpatched Local Vulnerability for Privilege Escalation from Defender to SYSTEM",
+   "url": "https://dev.to/anoymask/shieldbreak-cve-2026-69414-unpatched-local-vulnerability-for-privilege-escalation-from-defender-49d5",
+   "date": "2026-08-18T00:44:20+00:00",
+   "summary": "ShieldBreak (CVE-2026-69414): Unpatched Local Vulnerability for Privilege Escalation from...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "微软 Agent Governance Toolkit 详解：AI Agent 安全治理的操作系统级方案",
+   "url": "https://dev.to/sanyaduan/wei-ruan-agent-governance-toolkit-xiang-jie-ai-agent-an-quan-zhi-li-de-cao-zuo-xi-tong-ji-fang-an-52c6",
+   "date": "2026-08-18T00:35:45+00:00",
+   "summary": "深度解析微软开源的 Agent Governance Toolkit（AGT）：AI智能体安全治理的操作系统级方案。涵盖架构设计、五大核心组件、快速入门教程、OWASP全覆盖分析，以及2026年的实战部署建议。",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "深度解析 OWASP LLM Top 10 与 Agentic AI Top 10：智能体时代的安全攻防图谱",
+   "url": "https://dev.to/sanyaduan/shen-du-jie-xi-owasp-llm-top-10-yu-agentic-ai-top-10zhi-neng-ti-shi-dai-de-an-quan-gong-fang-tu-pu-4d97",
+   "date": "2026-08-18T00:25:52+00:00",
+   "summary": "深度解析 OWASP LLM Top 10（2025版）与 Agentic AI Top 10两大框架，梳理内在联系与演进逻辑，结合2025—2026年前沿安全实践，提出系统性解法和核心防御重心。",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant",
+   "url": "https://dev.to/magopredator/crosssessionmemoryguard-vigilando-la-exfiltracion-de-memoria-cross-session-en-agentes-multi-tenant-1g14",
+   "date": "2026-08-18T00:15:49+00:00",
+   "summary": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes...",
+   "points": 1,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "WordPress Malware Removal for Developers & Site Owners — Built from Real Cleanup Cases",
+   "url": "https://dev.to/md_pabel_fe07e07449db7326/wordpress-malware-removal-for-developers-site-owners-built-from-real-cleanup-cases-3f2b",
+   "date": "2026-08-17T21:46:34+00:00",
+   "summary": "Why WordPress malware cleanup requires more than scanners, and what I’m covering in my evidence-led book for developers and site owners.",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AI Made Bugs Cheap to Find",
+   "url": "https://dev.to/prpatel05/ai-made-bugs-cheap-to-find-2j6g",
+   "date": "2026-08-17T21:03:08+00:00",
+   "summary": "The most important AI security story right now is not that models can find bugs.  It is that models...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Architecting a Custom Purple Team Infrastructure Scanner in Go.",
+   "url": "https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7",
+   "date": "2026-08-17T20:54:48+00:00",
+   "summary": "By Mohamed Medjahdi — Security Engineer &amp; DevSecOps Specialist  As a Security Engineer, one of...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Parsing numbers from JSON in Python",
+   "url": "https://dev.to/pomidoroshev/parsing-numbers-from-json-in-python-2e8c",
+   "date": "2026-08-17T20:25:39+00:00",
+   "summary": "Consider this hypothetical endpoint in a Python-based web-server:    # withdraw.py import json from...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I was tired of clunky PGP tools, so i built my own cross-platform solution: PGP Manager",
+   "url": "https://dev.to/developaaah/i-was-tired-of-clunky-pgp-tools-so-i-built-my-own-cross-platform-solution-pgp-manager-1fpn",
+   "date": "2026-08-17T19:57:47+00:00",
+   "summary": "I work with PGP regularly and I work with it across multiple operating systems. Linux on my...",
+   "points": 1,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Come proteggere il tuo sito web: guida completa",
+   "url": "https://dev.to/cub4nh1/come-proteggere-il-tuo-sito-web-guida-completa-18fl",
+   "date": "2026-08-17T19:35:04+00:00",
+   "summary": "Meta description: Scopri come proteggere il tuo sito web dalle minacce più comuni. Guida completa con...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "HUMINT in Threat Hunting: Introducing Digital Passive HUMINT into Your CTI Program",
+   "url": "https://dev.to/aetherintel/humint-in-threat-hunting-introducing-digital-passive-humint-into-your-cti-program-3cng",
+   "date": "2026-08-17T15:46:43+00:00",
+   "summary": "Most cyber threat intelligence teams from small corporate security groups to large,...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Programming for Cybersecurity: What You Actually Need to Know",
+   "url": "https://dev.to/xyberghost007/programming-for-cybersecurity-what-you-actually-need-to-know-1d99",
+   "date": "2026-08-17T15:36:54+00:00",
+   "summary": "When I first got interested in cybersecurity, I thought it was all about tools. Nmap, Metasploit,...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Introduction to my series",
+   "url": "https://dev.to/glenw/introduction-to-my-series-l9",
+   "date": "2026-08-17T15:02:39+00:00",
+   "summary": "I've spent some time the last couple of months updating my home network configuration. The goal was...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SPI, I2C, UART: How To Trigger On What Matters Instead Of Drowning In Noise",
+   "url": "https://dev.to/numbpill3d/spi-i2c-uart-how-to-trigger-on-what-matters-instead-of-drowning-in-noise-5ac5",
+   "date": "2026-08-17T14:41:17+00:00",
+   "summary": "If you have ever opened Saleae Logic or PulseView and stared at 40 seconds of SPI at 8MHz, you know...",
+   "points": 4,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cybersecurity from Zero to Hero #1: The CIA Triad, or Why Your Bank App Keeps Logging You Out",
+   "url": "https://dev.to/sachinpk/cybersecurity-from-zero-to-hero-1-the-cia-triad-or-why-your-bank-app-keeps-logging-you-out-225j",
+   "date": "2026-08-17T14:14:50+00:00",
+   "summary": "Welcome to post one of my new series, Cybersecurity from Zero to Hero. I am learning security from...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Azure Data Theft Campaign: F500 Breach Anatomy & Operator TTPs",
+   "url": "https://dev.to/satyam_rastogi/azure-data-theft-campaign-f500-breach-anatomy-operator-ttps-3oho",
+   "date": "2026-08-17T13:21:15+00:00",
+   "summary": "Threat actors claiming millions of records from Fortune 500 companies via Azure infrastructure compromise. Analysis of attack chain, credential harves",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Israel v. Alkamalat and the Legal Standard for AI-Assisted Forensics",
+   "url": "https://hackernoon.com/israel-v-alkamalat-and-the-legal-standard-for-ai-assisted-forensics?source=rss",
+   "date": "2026-08-17T12:58:57+00:00",
+   "summary": "How Israel v. Alkamalat marked an early milestone for AI-assisted forensic evidence by surviving judicial scrutiny from investigation to final verdict.",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "When a Vendor You Use Gets Breached: What to Do Next",
+   "url": "https://dev.to/sheersafe/when-a-vendor-you-use-gets-breached-what-to-do-next-47nh",
+   "date": "2026-08-17T12:47:41+00:00",
+   "summary": "When a vendor is breached, don't wait for their update page: figure out fast what that vendor can see...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ATLOCK v4: Building a Local-First Windows Security Suite with NTFS ACLs, Fernet, PBKDF2 and Intrusion Detection",
+   "url": "https://dev.to/akhourianmolkumar/atlock-v4-building-a-local-first-windows-security-suite-with-ntfs-acls-fernet-pbkdf2-and-3gbl",
+   "date": "2026-08-17T10:23:17+00:00",
+   "summary": "There is a point in almost every security project where you realize:  The cryptography isn't the...",
+   "points": 6,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Importance of a Risk Framework in Corporate Cybersecurity",
+   "url": "https://dev.to/marco_altomare_0e7674642c/the-importance-of-a-risk-framework-in-corporate-cybersecurity-3ki0",
+   "date": "2026-08-17T09:20:06+00:00",
+   "summary": "My Risk Framework for Corporate Cybersecurity   When I was entrusted with security...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "When AI Agents Attack Infrastructure: Hugging Face Lessons",
    "url": "https://ai.plainenglish.io/when-ai-agents-attack-infrastructure-hugging-face-lessons-a639f3a1d701?source=rss------cybersecurity-5",
@@ -45,160 +404,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Compare Direct SMS Send and OTP APIs for Simple 2FA Login",
-   "url": "https://dev.to/garrisonsterling2693/how-to-compare-direct-sms-send-and-otp-apis-for-simple-2fa-login-li6",
-   "date": "2026-08-17T02:25:52+00:00",
-   "summary": "Short answer: use a dedicated SMS OTP endpoint for a simple 2FA login or short-expiry password reset,...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Usage Metering in Go SDKs: Cryptographic Receipts, Tamper-Evident Counters, and the Offline Grace Problem",
-   "url": "https://dev.to/neeraj_singhi_golang/usage-metering-in-go-sdks-cryptographic-receipts-tamper-evident-counters-and-the-offline-grace-c3m",
-   "date": "2026-08-17T01:54:02+00:00",
-   "summary": "How to build production-grade usage metering into a Go SDK: signed receipts, atomic counters, offline grace windows, and license enforcement tradeoffs.",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Making a remote service look local - (dsh as a case study)",
-   "url": "https://dev.to/neil_agentic/making-a-remote-service-look-local-dsh-as-a-case-study-4gnd",
-   "date": "2026-08-17T00:40:49+00:00",
-   "summary": "I wrote Kepos as a general-purpose, end-to-end encrypted P2P tunnel. The publisher shares a TCP...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "You can't trust assembly an AI wrote. Here's the 3-command gate.",
-   "url": "https://dev.to/trothbyte/you-cant-trust-assembly-an-ai-wrote-heres-the-3-command-gate-4ige",
-   "date": "2026-08-16T22:29:09+00:00",
-   "summary": "AI assistants are confident about assembly and wrong in specific, repeatable ways. Here's a mechanical gate (assemble → disassemble → compare bytes) that catches the real failures.",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "We catalogued 55+ AI-agent failures in low-level code — and shipped 124 verified skills to fix them",
-   "url": "https://dev.to/trothbyte/we-catalogued-55-ai-agent-failures-in-low-level-code-and-shipped-124-verified-skills-to-fix-them-369l",
-   "date": "2026-08-16T22:26:06+00:00",
-   "summary": "A source-traced catalog of how AI coding agents fail at C, C++, Rust, and assembly — and a 124-skill library that fixes exactly those failures.",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Designing a referral system that can't be gamed by throwaway accounts",
-   "url": "https://dev.to/jexx/designing-a-referral-system-that-cant-be-gamed-by-throwaway-accounts-3dmn",
-   "date": "2026-08-16T21:15:45+00:00",
-   "summary": "I just shipped a referral system for Adsyte, my free directory for indie projects, and the design...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "2030 Starts Today: Why Enterprise Software Is Entering a New Architectural Era",
-   "url": "https://dev.to/hardit/2030-starts-today-why-enterprise-software-is-entering-a-new-architectural-era-3i7j",
-   "date": "2026-08-16T20:02:02+00:00",
-   "summary": "When an architectural era ends   Most technology shifts happen gradually. New programming...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Fighting Fire with Fire: Using LLMs to Conduct In-House Security Audits",
-   "url": "https://dev.to/codisfy/fighting-fire-with-fire-using-llms-to-conduct-in-house-security-audits-20jf",
-   "date": "2026-08-16T19:34:33+00:00",
-   "summary": "The Problem with Traditional Pentesting   Three weeks ago, I was tasked with performing a...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Suite Was Green. Four Binding Controls Hadn't Established Their Claims.",
-   "url": "https://dev.to/kenielzep97/the-suite-was-green-four-binding-controls-hadnt-established-their-claims-5d01",
-   "date": "2026-08-16T18:13:16+00:00",
-   "summary": "Part three of: OpenAI Says Verified Defenders Get More Access. I'm Going to Test That.   On August 5...",
-   "points": 8,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "InferGuard: a security gateway for your self-hosted LLM",
-   "url": "https://dev.to/kevin_006e7cd38256a1f6b33/inferguard-a-security-gateway-for-your-self-hosted-llm-5h89",
-   "date": "2026-08-16T17:35:44+00:00",
-   "summary": "You stood up vLLM on a box with a GPU. It works. You share the URL with a couple of teams and go back...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Security questions every senior backend engineer should handle",
-   "url": "https://dev.to/moputa/security-questions-every-senior-backend-engineer-should-handle-2n3g",
-   "date": "2026-08-16T14:57:00+00:00",
-   "summary": "You are not being interviewed as a security engineer. You are being checked for one habit: whether,...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "agent-authz: Least-Privilege Authorization for AI Agent Tool Calls",
-   "url": "https://dev.to/sanyaduan/agent-authz-least-privilege-authorization-for-ai-agent-tool-calls-4889",
-   "date": "2026-08-16T14:55:42+00:00",
-   "summary": "A minimal-privilege policy engine for AI agent tool calls: YAML policies, three-state decisions (allow/deny/ask), semantic constraints, MCP gateway, and SPIFFE/OCSF audit.",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Protect an API From DDoS Attacks: A Complete Guide",
-   "url": "https://dev.to/avijitbera/how-to-protect-an-api-from-ddos-attacks-a-complete-guide-5fkn",
-   "date": "2026-08-16T14:37:49+00:00",
-   "summary": "How to Protect an API From DDoS Attacks: A Complete Guide   APIs are the backbone of modern...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I scanned 55 public Lovable apps — all 55 had a GDPR or security finding",
-   "url": "https://dev.to/hdevv/i-scanned-55-public-lovable-apps-all-55-had-a-gdpr-or-security-finding-p1h",
-   "date": "2026-08-16T12:06:12+00:00",
-   "summary": "AI app builders are genuinely remarkable. You describe an app, and minutes later it is deployed on a...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Coldcard’s Entropy Bug Exposed a Hidden Weakness in Hardware Wallet Security",
    "url": "https://hackernoon.com/coldcards-entropy-bug-exposed-a-hidden-weakness-in-hardware-wallet-security?source=rss",
    "date": "2026-08-16T09:24:13+00:00",
@@ -219,17 +424,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Find and Fix Security Vulnerabilities for Money",
-   "url": "https://dev.to/qingluan/how-to-find-and-fix-security-vulnerabilities-for-money-4eoc",
-   "date": "2026-08-16T04:00:10+00:00",
-   "summary": "How to Find and Fix Security Vulnerabilities for Money   tags: security, bugbounty, money,...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Zero Trust Network Access (ZTNA): The Complete Guide for 2026",
    "url": "https://medium.com/@panktisavaliya/zero-trust-network-access-ztna-the-complete-guide-for-2026-2c9b49992be8?source=rss------cybersecurity-5",
    "date": "2026-08-16T03:40:55+00:00",
@@ -237,160 +431,6 @@
    "tech": "cyber",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The Permission Boundary My MCP Server Doesn't Actually Have",
-   "url": "https://dev.to/enjoy_kumawat/the-permission-boundary-my-mcp-server-doesnt-actually-have-3k98",
-   "date": "2026-08-16T03:36:23+00:00",
-   "summary": "There's a theme showing up a lot in agent-tooling posts this week: agents holding tools they can...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Proof-of-Fix in GSC: An Architecture for Provable Vulnerability Remediation Verification",
-   "url": "https://dev.to/alexey_polyakov_cfe2095e3/proof-of-fix-in-gsc-an-architecture-for-provable-vulnerability-remediation-verification-29ck",
-   "date": "2026-08-16T02:12:08+00:00",
-   "summary": "Abstract   GSC is a self-learning AppSec platform implementing the full pipeline detect →...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Deny-by-Default Manifest for AI-Generated Services on a Free Server",
-   "url": "https://dev.to/github_7727/a-deny-by-default-manifest-for-ai-generated-services-on-a-free-server-49ko",
-   "date": "2026-08-16T02:11:19+00:00",
-   "summary": "Why this is worth reading: a free model can hand you a working service in one prompt, and a free...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I shipped an MCP server that reported success without signing anything",
-   "url": "https://dev.to/edycutjong/i-shipped-an-mcp-server-that-reported-success-without-signing-anything-6oh",
-   "date": "2026-08-16T00:30:27+00:00",
-   "summary": "I built an MCP server that lets an AI assistant trade tokens and claim creator fees on Solana. Then I...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Don't Hand Your Inbox to an Agent",
-   "url": "https://dev.to/net_tab_ddf9dfbe0c308827e/dont-hand-your-inbox-to-an-agent-5dl8",
-   "date": "2026-08-16T00:01:34+00:00",
-   "summary": "A Reddit thread on connecting Claude Code to a Yahoo Mail account turned into a solid field guide for...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.",
-   "url": "https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la",
-   "date": "2026-08-15T23:00:58+00:00",
-   "summary": "Anonymous paste services get scripted into spam dumps, phishing kits, and credential lists. Instead of forcing accounts or reCAPTCHA, I made posting cost energy — a little CPU (free) or 10 sats over Lightning. Full flow ",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "JWT Authentication in Express That You Can Actually Revoke",
-   "url": "https://dev.to/mmushood/jwt-authentication-in-express-that-you-can-actually-revoke-1b7i",
-   "date": "2026-08-15T21:38:04+00:00",
-   "summary": "Access tokens, refresh token rotation, and theft detection: the parts most Node.js tutorials leave...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
-   "url": "https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f",
-   "date": "2026-08-15T21:30:22+00:00",
-   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works.  I have a lot of...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Endpoint Wasn't Vulnerable. The Attack Chain Was.",
-   "url": "https://dev.to/blackcipher/the-endpoint-wasnt-vulnerable-the-attack-chain-was-2jlp",
-   "date": "2026-08-15T19:47:13+00:00",
-   "summary": "Introduction  The first finding wasn't critical.  It wasn't even particularly interesting.  There was...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Added ML Anamoly Detection to My Cybersecurity Tool - Here's What the Numbers Actually Showed",
-   "url": "https://dev.to/atenahfr/i-added-ml-anamoly-detection-to-my-cybersecurity-tool-heres-what-the-numbers-actually-showed-4jpp",
-   "date": "2026-08-15T19:25:45+00:00",
-   "summary": "A few weeks ago, I built Log Sentinel, a log analysis dashboard that detects brute force attacks,...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Safely Fetch Metadata from User-Submitted URLs (Without Getting Hit by SSRF or DNS Rebinding)",
-   "url": "https://dev.to/josejux/how-to-safely-fetch-metadata-from-user-submitted-urls-without-getting-hit-by-ssrf-or-dns-rebinding-1nfo",
-   "date": "2026-08-15T17:53:33+00:00",
-   "summary": "If your app lets a user paste in a URL — a link preview, a \"import from website\" button, an AI agent...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Expired Domains Are Becoming a New Cybersecurity Attack Surface",
-   "url": "https://dev.to/cyberbezpieczenstwo/expired-domains-are-becoming-a-new-cybersecurity-attack-surface-1bj6",
-   "date": "2026-08-15T17:40:24+00:00",
-   "summary": "An expired domain might look like nothing more than an abandoned website address.  From a...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Writing an IAM Policy That's Actually Least Privilege",
-   "url": "https://dev.to/mariogongora/writing-an-iam-policy-thats-actually-least-privilege-386k",
-   "date": "2026-08-15T17:23:33+00:00",
-   "summary": "I wrote the IAM policy for my solar agent myself, on the first try, thinking I had done it right.  I...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "L4 vs L7 Stress Testing: What Actually Breaks First",
-   "url": "https://dev.to/zerodawnipstress/l4-vs-l7-stress-testing-what-actually-breaks-first-3k7p",
-   "date": "2026-08-15T17:17:24+00:00",
-   "summary": "Why Layer 4 and Layer 7 stress tests are different disciplines, and how to find which resource exhausts first.",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -458,36 +498,6 @@
    "url": "https://medium.com/@ghazisantino/from-pending-admin-approval-to-super-admin-in-3-requests-my-first-pentest-writeup-34d2330f206a?source=rss------cybersecurity-5",
    "date": "2026-08-14T22:40:55+00:00",
    "summary": "A case study on Broken Access Control and Mass Assignment in a Next.js internship-management app &#x2014; written for educational purposes, with&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Mengupas Tuntas Proses Pentest: Dari Reconnaissance Sampai Nemu Celah IDOR",
-   "url": "https://medium.com/@stevanzaky87/mengupas-tuntas-proses-pentest-dari-reconnaissance-sampai-nemu-celah-idor-ecc6696bc913?source=rss------cybersecurity-5",
-   "date": "2026-08-14T22:30:12+00:00",
-   "summary": "Sebagai orang yang terjun di dunia keamanan siber, momen presentasi hasil pengujian keamanan (penetration testing atau pentest) ke klien&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "E-mail with malware in my spam folder",
-   "url": "https://medium.com/@ObscurityThroughSecurity/email-with-malware-in-my-spam-folder-a61106f9caaf?source=rss------cybersecurity-5",
-   "date": "2026-08-14T22:00:13+00:00",
-   "summary": "From: admin@learnstax.com Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Hands-On UFW Firewall on Ubuntu 24.04: Testing Network Ports with Kali Linux and Nmap",
-   "url": "https://tanya-bhardwaj20.medium.com/hands-on-ufw-firewall-on-ubuntu-24-04-testing-network-ports-with-kali-linux-and-nmap-fd57c5bf3268?source=rss------cybersecurity-5",
-   "date": "2026-08-14T21:10:58+00:00",
-   "summary": "Building a small virtual security lab to understand how firewall rules affect network connectivity. Continue reading on Medium »",
    "tech": "cyber",
    "sourceId": "medium",
    "source": "Medium",
@@ -565,6 +575,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Learn Complete Cyber Security Course Free 2026 | Intellipaat",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZUDRwOFRPbk9yTHlHTHV6cFR1OTk4R3hvY1ZEQ2djYVRTMk84bnJ2RTNySjhpNmZsVllpaW5PRUd0ZGlkU1I2Y1pPTXNXUmkwVURVTTl3?oc=5",
+   "date": "2026-07-14T17:08:09+00:00",
+   "summary": "Learn Complete Cyber Security Course Free 2026 | Intellipaat YouTube",
+   "tech": "cyber",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "تعلم الأمن السيبراني من الصفر | دورة Cyber Security كاملة في 6 ساعات (2026)",
@@ -814,6 +834,16 @@
    "lang": "en"
   },
   {
+   "title": "دليلك للنجاح في شهادة مختبر الاختراق eJPT | من أول مرة !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9saDUyQlBycjUxR1VJNHZwT01qajNkbDhuMS01NjFkWmMtMVN6el9Zc1B1XzdkQWEzWUUwQmtxdGRLQVJBcVB4WEM3b2ctbS1vOVluX0dB?oc=5",
+   "date": "2026-01-30T16:00:27+00:00",
+   "summary": "دليلك للنجاح في شهادة مختبر الاختراق eJPT | من أول مرة ! YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "اختبار الاختراق (من الصفر إلى أول وظيفة)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Z2d4ZEE4M0dOTWg3MWphU21LZVRrdlU1MHU1MnpaX0ZMenVHeGwzSDg1N0ltVkpoY0tCT0h0X2M1OEZuRlRzYzZmVDFIMGE5U1hUX2Rn?oc=5",
    "date": "2026-01-27T18:57:39+00:00",
@@ -856,10 +886,30 @@
    "kind": "podcast"
   },
   {
+   "title": "مقدمة ومواضيع دورة اختبار الاختراق للمبتدئين | Junior Penetration Tester (eJPTv2)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aDlqcndkRThZZUI0RTdtQU5nUENtWXVWWHI5dWhpT2JwZ080Si1keDZoTHdrYmNGSEJyZGN4YzBKbVlQZHNFWVlBTnM1ejZYSHlMMmRR?oc=5",
+   "date": "2025-12-11T13:26:20+00:00",
+   "summary": "مقدمة ومواضيع دورة اختبار الاختراق للمبتدئين | Junior Penetration Tester (eJPTv2) YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الفيديو #1: البداية الصحيحة في الأمن السيبراني | شرح Junior Security Analyst Intro #1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LXzlRV2UzS25tRVVyOXhGRTVBYWRqTHNxVnVENG1xYXNFbDktRzZTMW9Bc0NleTRDTzRxWXpib3RWQzlSZjJwVlFXa0hBbVA2MUhESGNB?oc=5",
    "date": "2025-12-10T18:51:15+00:00",
    "summary": "الفيديو #1: البداية الصحيحة في الأمن السيبراني | شرح Junior Security Analyst Intro #1 YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "ازاي تبقي محترف في مجال امن المعلومات ال Cyber Security ؟",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pY2lqenFqQVJkZ2ktbkZ1X09MOFBoOUYtUkxiaXduTlVBYW9lSmJRYXhBam9xMExmNTU1aGhuN0JhUE56UGY5R2dHdUhEalY1OHRHdnRR?oc=5",
+   "date": "2025-12-06T06:00:00+00:00",
+   "summary": "ازاي تبقي محترف في مجال امن المعلومات ال Cyber Security ؟ YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1046,6 +1096,16 @@
    "lang": "ar"
   },
   {
+   "title": "كيف يعمل الهاكرز || اختبار اختراق عملي !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkbU5KVkpwUHBJNTQ5VHZoNW9hWjRVbVgxcU1SbFZieUJrY1BpUFVhRmo2RnVuMUZma3dxRk9iZENFUE1DQVdxUHFRRjVEaFpaZXBqZnB3?oc=5",
+   "date": "2025-08-18T17:00:34+00:00",
+   "summary": "كيف يعمل الهاكرز || اختبار اختراق عملي ! YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Cyber Security Mastery | Complete Cybersecurity Course For Beginners | Cybersecurity | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BY0stUVg4WGdXSlJQajdXeGtLUU1NZ0hJUXBURWdiX19HRm9VSFZBdHppbjVmeHd2cVMtU3BJUUJ6U21IOUJlNDNVcENNMmxWQmxPTjF3?oc=5",
    "date": "2025-08-17T15:11:15+00:00",
@@ -1196,6 +1256,16 @@
    "lang": "en"
   },
   {
+   "title": "الدليل الشامل لأمن المعلومات وأمن الشبكات | Cybersecurity & Network Security Simplified",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVTEZUdVdyUkNEOXhMUHh1UkZPTHJMWkxoSXdFd2lQaFl3LVJ2WHF3TVg0dnEySzdPSDZKcDFBLVF1UHRYQktmNGpJSjR5dlhHYUYtUktB?oc=5",
+   "date": "2025-05-03T20:23:36+00:00",
+   "summary": "الدليل الشامل لأمن المعلومات وأمن الشبكات | Cybersecurity & Network Security Simplified YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "اقوى دورة عربية لتعلم اختبار الاختراق 👌💪",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ldl8ybEtvYlFFd0JoMkVaZkwwYVdUQ2NzWXRFUkszX3ZBWFBqSkNiSVEzeU1UU1ZQd2dqbElibkhWam5aVTBPc3hVTWx1TVVuajdXLTVR?oc=5",
    "date": "2025-04-23T12:04:36+00:00",
@@ -1280,6 +1350,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoWTFEcVgzQ3VoTWlOZGE0bWVxdy11aEFhX1F1dFV4RWVjbU5KUGVXcHlPQ0tranducUhSQVNYWDRaeXFCTk9RandjWVFSWU1yZmgtamF3?oc=5",
    "date": "2025-03-23T05:10:30+00:00",
    "summary": "Session 1 CompTIA Security+ Course Intro محاضرة تعريفية YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيف حصلت على شهادة +OSCP من أول محاولة! | شهادة محترف اختبار الاختراق 2025",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sOXJEWDZzVUJsZWU4MUlnRnNGWHJBdUJmNUg5ZWJyZTlpZzZCZUJVYUlJbUtpLTJoTF9XSUpjMnFET3FKU2NTQkMtTUNZc0hxV05PNEpB?oc=5",
+   "date": "2025-03-12T13:09:25+00:00",
+   "summary": "كيف حصلت على شهادة +OSCP من أول محاولة! | شهادة محترف اختبار الاختراق 2025 YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1416,6 +1496,16 @@
    "lang": "en"
   },
   {
+   "title": "3 خرافات تمنعك من تعلم الأمن السيبراني والاختراق!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5laWh6WFJZeGVBbGF3cW45a0pUNVFfWC1xeTBEOUxQWjE4ajFiMlI4NGxjeTQ4RWgtTUhaVXlCNnJjQnhUUGRzOUJVNi12MnBsSWhUQXhB?oc=5",
+   "date": "2024-12-02T17:00:18+00:00",
+   "summary": "3 خرافات تمنعك من تعلم الأمن السيبراني والاختراق! YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "عملية حقيقية لاختراق احد الحسابات البنكية شرح لغرض نشر الوعى",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzV2xaTHpCWFF5bkZsVzNSLWE4Vm1HNWtZUlY0MG9NOFZlcXhJVUlhM0JBZlNvUVprY0ttNGo3VXdscWZGazVhLUFRYjZhMVlCY1FYTHVn?oc=5",
    "date": "2024-11-19T22:48:51+00:00",
@@ -1514,6 +1604,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "حل تحدي \" Basic Pentesting \" من Tryhackme | شرح خطوة بخطوة #1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TbG5jWTZJLW1INDhtUTRTeTdrWkRnVlhXRGFTdUNObTRLWXk3MVdmYlk4OWlnTTNTSG0weWp3cEV4NEllSG1HV1djTTZTcWpGRm1oQnBn?oc=5",
+   "date": "2024-08-31T14:41:11+00:00",
+   "summary": "حل تحدي \" Basic Pentesting \" من Tryhackme | شرح خطوة بخطوة #1 YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "تحدي اختراق الموقع في أقل من 15 دقيقة | تدريب عملي - غرفة العمليات",
@@ -1786,6 +1886,16 @@
    "lang": "ar"
   },
   {
+   "title": "Torr Security School",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13MU9tR2NyOFFjOHZfb2lzQWJzVjAzdjZzTHFEelR1UmppWUdMd0ZxcnI1Y1o2RFg2Nk4yNHRlSENyaXp6bC1SZVplV2J3SzRzbS1zYkRRMVkwMFVtU3pZbUp0MA?oc=5",
+   "date": "2023-12-26T17:38:13+00:00",
+   "summary": "Torr Security School YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How to Setup your Cyber Security Lab By Eng-Mohamed Atef",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZVTdrMk1TRXQ0QXE5N2lPNDZBVjdQbUN0dWlWRW5YV1RUM0NiQ1hVZDlFeVVyZnlzRFFDZFNtS1pDU3JuN3JESjhlRVp1b1NZbVFRcW1B?oc=5",
    "date": "2023-12-14T06:57:05+00:00",
@@ -1866,20 +1976,20 @@
    "lang": "ar"
   },
   {
+   "title": "مفاهيم أمن الشبكات (1) Network Security Concepts",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SYlZhQ1BIQWhnUGtIWFFvQTF5RnhZM3Y1V1V2ZldHTG5YQnhvV0JDRkNmSERrcTVoODFINzNGR2ctbXBfU3dOYUY0RnJlSjJ5N24yeFhR?oc=5",
+   "date": "2023-09-23T11:26:28+00:00",
+   "summary": "مفاهيم أمن الشبكات (1) Network Security Concepts YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Master Real-time Cyber Security in Just 18 Hours for FREE Part -1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKT0lMSGRINllYNDExMEVPTVY3MUN3bU5SNnh0NXpnYkNPaUliUG9QOWVGaGxpRURqSUZhVVBOU0lNcUM1MTRRa2swMVNFb1JJLTVZQkh3?oc=5",
    "date": "2023-09-19T10:22:09+00:00",
    "summary": "Master Real-time Cyber Security in Just 18 Hours for FREE Part -1 YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Become a CyberSecurity Expert in 12 Hours | Cyber Security Training For Beginner 2026 | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4cmp2RkNZLTNpN2QwOUpsMDBZdHdzWGxlcV93cU1Vekp5VkFjSnZlVkVHaUpUcTkzNGJZY3lieUYwdjNqNERqU2gxWlVVTFBubFhnQUxR?oc=5",
-   "date": "2023-08-31T23:31:34+00:00",
-   "summary": "Become a CyberSecurity Expert in 12 Hours | Cyber Security Training For Beginner 2026 | Simplilearn YouTube",
    "tech": "cyber",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1936,16 +2046,6 @@
    "lang": "ar"
   },
   {
-   "title": "Complete Cyber Security Course For 2026 | Cyber Security Full Course for Beginners | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53UTVhZnVnUDNKXzhaVEFINW1iUGY0ZUQzTVVURXZyYnRfNFRtQjRGQ01rVUtMa1ZscV9CZG84cTdmNXF5Rkd0djdrSHhwVDIwcWJ0YTNn?oc=5",
-   "date": "2023-07-25T14:30:11+00:00",
-   "summary": "Complete Cyber Security Course For 2026 | Cyber Security Full Course for Beginners | Simplilearn YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كورس اختبار الاختراق من الصفر حتى المرحلة المتقدمة في 4 ساعات | Ethical Hacking",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1LTFwSUMzcFJRdWo1enhVSzJyRlRGUnVQeXBrOTM1bUd3RExjaXNQbU9VOV9mYWJjZDJwMXFDRnpMTHRrbTFjaVdlYnNTZFBNcS10VU5B?oc=5",
    "date": "2023-07-23T14:15:02+00:00",
@@ -1964,16 +2064,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Advanced Cyber Security Course | Cybersecurity Training for 2026 | Cyber Security | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXYlpYcjlYV29pOTBkTEFlWFI2R2NEZmQtbXg4YjEtbjcxcmRtcElfekVmNlhyZTFpZ3dnaUE5OGRKeWN6OGpkRkJMcDVKSHAwdmRDSGJR?oc=5",
-   "date": "2023-07-04T15:30:03+00:00",
-   "summary": "Advanced Cyber Security Course | Cybersecurity Training for 2026 | Cyber Security | Simplilearn YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "دليلك الكامل لعمل مختبر الاختراق الخاص بك",
@@ -2150,96 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KYXVYelpwV3I4aVZoZGY3VGZONjNiSW9QYnRONmE4QWRzVkU5eVp1Y1NsM0pPOVJSbWVCT3F3dmNiTmEtRlRDUENJWGN3aGRaZ3JwZk1n?oc=5",
    "date": "2022-12-09T18:39:39+00:00",
    "summary": "منصة اختبار اختراق قوية | بديل Kali Linux لأصحاب القلوب الضعيفة YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اكتشاف الثغرات وزيادة خطورتها عند الإختراق - شرح عملي | Bug Bounty",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNY3RNX05lbFJjcFJvdm13VmFoY1J2b2w1dXBvNjNkbUhqMW0yV2wxWU1ZTUFiRFU4dWtFNUNoM005dlFmTWpoRXFiZmROTkRsV1lGQWtB?oc=5",
-   "date": "2022-11-28T17:00:15+00:00",
-   "summary": "اكتشاف الثغرات وزيادة خطورتها عند الإختراق - شرح عملي | Bug Bounty YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اختبار الاختراق خارج الشبكة - Android & IOS | الطريقة الصحيحة - تعليمي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kNk0yaTV2VTFEZ3ktQTZjaFM1d045MjZBVzhYb0NBa0hUUlNlQ2RBTnBZc2ptMlFxdy1QYm9IVkZuWDJHbFlneU45MVhHUjk2cUFhT3BR?oc=5",
-   "date": "2022-11-06T16:30:00+00:00",
-   "summary": "اختبار الاختراق خارج الشبكة - Android & IOS | الطريقة الصحيحة - تعليمي YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "نسخ رات مدفوعه ومجانيه جاهزه لمحبي تعلم الـ Penetration Test & Cyber Security 🧑‍💻🔥",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pVEgyckFrTjZxWTE3Y0tyTl9sSzBQR0dUUFpoM0ZmOFZZbDY4SkJjSFVuQlloa0wzeUdHeGpIZGEyRjRKdzhFOVRBRW5GRW1MWXpYa2N3?oc=5",
-   "date": "2022-10-12T15:00:11+00:00",
-   "summary": "نسخ رات مدفوعه ومجانيه جاهزه لمحبي تعلم الـ Penetration Test & Cyber Security 🧑‍💻🔥 YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كورس الامن السيبراني-7: اختبار الاختراق ونظام كالي لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RY2l2Z3hvVEpZZWM1aGZRNFJmMHJoU3hpQ2ppWXluY3EyaGxjbUZCWGh2Y0RXMER6Wm1CRGI1YkRUX08wa1hYZHphRzJlQ0FZZWRRb2xB?oc=5",
-   "date": "2022-09-25T10:36:26+00:00",
-   "summary": "كورس الامن السيبراني-7: اختبار الاختراق ونظام كالي لينكس YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "حصريّا : مقتطف من أسلوب التدريب في دورة جمع المعومات والاختراق المخابراتي | Intelligence Gathering",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DaEJtUlhhSXAyMEtRZkhxX3IyZGd6MHJNRWdDdFI4OWx2TVVkQmdtaG0xZUNIYUVUT2hha0J6UGdBVFVyZjlPYlA4cWJHcWdoOFJRWHRn?oc=5",
-   "date": "2022-08-20T16:30:12+00:00",
-   "summary": "حصريّا : مقتطف من أسلوب التدريب في دورة جمع المعومات والاختراق المخابراتي | Intelligence Gathering YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "ما هو الاختراق الأخلاقى؟ | ما هي أنواع الهاكرز؟ | (002) Ethical Hacking Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UeUlkUVM1dDhTazUzNnpiTEFhT0x2bGdIM3JNNGRjZXBvdXJ6REFDLVRaY2N0SmRSVEpCNU9FZjZTNTEycmNteHRhT3dZVHZlMWt2dGJn?oc=5",
-   "date": "2022-08-20T10:42:00+00:00",
-   "summary": "ما هو الاختراق الأخلاقى؟ | ما هي أنواع الهاكرز؟ | (002) Ethical Hacking Course YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "( Phishing ) هجوم التصيد - عمل صفحة مزيفة للاختراق",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jc2JJUE53eENtb0ZuZTE2OGdaMGZ4VUUtejQ1VHBxSTVzTnBLc1FlYm53T2NSUDhLQ3FGS1JhY2dnalZpck81X2RuVXFxTmt0enQ1ZGRB?oc=5",
-   "date": "2022-08-16T01:07:44+00:00",
-   "summary": "( Phishing ) هجوم التصيد - عمل صفحة مزيفة للاختراق YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "كيفية إكتشاف الثغرات الأمنية لمواقع الويب | Web Penetration Testing",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MNWxycHB6QlhRVVhFajNFMEQ1dmNLVjBicnppdXpVLWgwNUFtN013SXBkaml5U0R1cEhPbXFmeVVBb25tU3FnelJQUjUzdHFiaEV0ZEVR?oc=5",
-   "date": "2022-08-05T15:51:14+00:00",
-   "summary": "كيفية إكتشاف الثغرات الأمنية لمواقع الويب | Web Penetration Testing YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم الاختراق تثبيت نظام كالي لينكس واهم 100 امر للتعامل مع النظام | Ethical Hacking",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HVWZuU0tTMENFNmpYTVYtbW4xdFpvaUJ6WGh1WnE5X3k4WU1MSXkwMmZHelVfdktidURTcFg4aHg3cHpYdVFfekd3SHN3N2k5a3VyUG9R?oc=5",
-   "date": "2022-07-02T10:35:11+00:00",
-   "summary": "تعلم الاختراق تثبيت نظام كالي لينكس واهم 100 امر للتعامل مع النظام | Ethical Hacking YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
    "source": "YouTube",

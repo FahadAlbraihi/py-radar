@@ -1,8 +1,83 @@
 {
- "generated": "2026-08-17T05:22:22.374697+00:00",
+ "generated": "2026-08-18T04:59:15.278998+00:00",
  "tech": "ruby",
- "count": 117,
+ "count": 122,
  "items": [
+  {
+   "title": "How Scalelite Playback Broke Tenant Isolation in BigBlueButton Multitenancy",
+   "url": "https://dev.to/f00dat/how-scalelite-playback-broke-tenant-isolation-in-bigbluebutton-multitenancy-1o9b",
+   "date": "2026-08-17T22:47:36+00:00",
+   "summary": "While researching the BigBlueButton bug bounty program on YesWeHack, I found an access control issue...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Ruby on Rails development company: Rails 7.2 security support ended 9 August 2026",
+   "url": "https://dev.to/mr_manushukla/ruby-on-rails-development-company-rails-72-security-support-ended-9-august-2026-5e4f",
+   "date": "2026-08-17T20:50:07+00:00",
+   "summary": "Ruby on Rails development company: Rails 7.2 security support ended 9 August 2026   Summary....",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Rails Routing & APIs: What Actually Happens Between the URL and Your Controller",
+   "url": "https://dev.to/lucasldemello/rails-routing-apis-what-actually-happens-between-the-url-and-your-controller-4elj",
+   "date": "2026-08-17T18:41:58+00:00",
+   "summary": "When I started studying APIs more seriously, I realized there was a problem with the way I was...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Learning Go as a Ruby Developer #5: Strings and formatting",
+   "url": "https://dev.to/shroukabozeid/learning-go-as-a-ruby-developer-part-5-strings-and-formatting-57j5",
+   "date": "2026-08-17T14:24:35+00:00",
+   "summary": "A Go string is essentially a sequence of bytes.  That sounds like a small implementation detail, but...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Performance Gains After a Rails Upgrade from 7 to 8",
+   "url": "https://dev.to/railsfactory_sedin/performance-gains-after-a-rails-upgrade-from-7-to-8-3m4d",
+   "date": "2026-08-17T11:45:47+00:00",
+   "summary": "Between deprecation warnings, gem compatibility checks, and the inevitable late-night debugging...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Production-Ready Payment Processing System with Idempotency in Ruby on Rails",
+   "url": "https://medium.com/@raviskit2012/building-a-production-ready-payment-processing-system-with-idempotency-in-ruby-on-rails-7b04226090f7?source=rss------ruby-5",
+   "date": "2026-08-17T11:30:46+00:00",
+   "summary": "Because Charging a Customer Twice Is Not a Retry Strategy. &#x1F680; Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Implementing CQRS in Ruby on Rails",
+   "url": "https://medium.com/@raviskit2012/implementing-cqrs-in-ruby-on-rails-0f300da5d502?source=rss------ruby-5",
+   "date": "2026-08-17T10:52:09+00:00",
+   "summary": "Separate the Work That Changes Data From the Work That Reads It &#x26A1; Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Fixing \"g++ Not Found\" When Debugging Rails in RubyMine on Fedora",
    "url": "https://dev.to/dannyslee1996/fixing-g-not-found-when-debugging-rails-in-rubymine-on-fedora-2nl2",
@@ -392,28 +467,6 @@
    "url": "https://dev.to/shroukabozeid/design-patterns-in-ruby-5-abstract-factory-pattern-4ioa",
    "date": "2026-08-05T16:02:00+00:00",
    "summary": "In the previous article, we explored the Factory Method pattern and saw how it delegates object...",
-   "points": 0,
-   "tech": "ruby",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "User Registration Is Never Just a Form",
-   "url": "https://dev.to/doolay/user-registration-is-never-just-a-form-2hb5",
-   "date": "2026-08-05T14:36:59+00:00",
-   "summary": "\"Add user registration\" sounds like a checkbox, but what does that actually entail? What does a...",
-   "points": 0,
-   "tech": "ruby",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why App Maintenance and Support Matter More Than Ever as Rails 7.2 Approaches End of Life",
-   "url": "https://dev.to/railsfactory_sedin/why-app-maintenance-and-support-matter-more-than-ever-as-rails-72-approaches-end-of-life-3nnp",
-   "date": "2026-08-05T07:37:43+00:00",
-   "summary": "If your product runs on Ruby on Rails, mark your calendar: Rails 7.2 reaches end of life on August 9,...",
    "points": 0,
    "tech": "ruby",
    "sourceId": "devto",
@@ -1111,6 +1164,16 @@
    "lang": "en"
   },
   {
+   "title": "Ruby Tutorial For Beginners - How to use Conditions and Operators in Ruby",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMGlIQ0ZDMWxtZHhoM2ZmYWVqdGs0bFV1RkgxNnA2OVRLUDVUYUdnTUZPWjFsRWJHVXd4UXl6R1F0OXNwZHBubU1jUGZqbFpocTRmOGhn?oc=5",
+   "date": "2021-03-30T03:30:00+00:00",
+   "summary": "Ruby Tutorial For Beginners - How to use Conditions and Operators in Ruby YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Ruby Tutorial For Beginners - Getting Started With Ruby",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PN1lZWE1scWp0cDFJNVJseURJVWNfMmVRT1hzVUZNcXlwVFl0eUpGaWlYeTA4Nk54MFNwVTZvUVYzcHh2SExJcVdJWXFwcTdMeUpIYlhn?oc=5",
    "date": "2021-03-29T03:30:01+00:00",
@@ -1165,16 +1228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWXlkUk4yeXUxb1VoUEFaTWJ3Z3Z4NDA5WW9GM0dMSXdJdGk3Q0hseml1c1lyaEtCUmVXRllJLUJOdHkwY1RZd0ZSc1E4UzZENWN0SGdR?oc=5",
    "date": "2020-11-09T14:50:57+00:00",
    "summary": "Learn Ruby on Rails - Full Course YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "BABY ALIVE Twins Max and Ruby Training Routine",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mYnZSY3lhSF8tNXJyNk5OQkx2QWd0UzZHTExlRVBBeXA3YWtBbTBaN1BPQU5aME5ab3hVMjZJcklTU0wta1dWblBYaUdFQnlpUEg4T2JR?oc=5",
-   "date": "2020-11-06T20:49:40+00:00",
-   "summary": "BABY ALIVE Twins Max and Ruby Training Routine YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",

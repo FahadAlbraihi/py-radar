@@ -1,8 +1,40 @@
 {
- "generated": "2026-08-17T05:27:58.622345+00:00",
+ "generated": "2026-08-18T05:05:30.139434+00:00",
  "tech": "clojure",
- "count": 42,
+ "count": 47,
  "items": [
+  {
+   "title": "Quoting Difficulties",
+   "url": "https://dev.to/quoll/quoting-difficulties-4mad",
+   "date": "2026-08-17T21:13:20+00:00",
+   "summary": "In my last post I discussed DSLs for database querying in Clojure. These typically take the form of...",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Clojure Query DSLs",
+   "url": "https://dev.to/quoll/clojure-query-dsls-137m",
+   "date": "2026-08-17T20:11:03+00:00",
+   "summary": "Domain Specific Languages (DSLs) are a popular technique for writing database queries. There are a...",
+   "points": 0,
+   "tech": "clojure",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Workflow Engine in Clojure: Why Everything is Data",
+   "url": "https://sanchezsanchezsergio418.medium.com/building-a-workflow-engine-in-clojure-why-everything-is-data-275b1f562e07?source=rss------clojure-5",
+   "date": "2026-08-17T18:45:03+00:00",
+   "summary": "How I built a production-ready workflow engine using Clojure&#x2019;s data-first philosophy &#x2014; and why it changed how I think about software&#x2026; Continue reading on Medium »",
+   "tech": "clojure",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "I Built a Clojure That Runs on Go(cljgo) . Then I Made It Run a Real AI Agent.",
    "url": "https://muthuishere.medium.com/i-built-a-clojure-that-runs-on-go-cljgo-then-i-made-it-run-a-real-ai-agent-594391ddf00e?source=rss------clojure-5",
@@ -293,6 +325,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVTRGeDRRbWZ6TjR6TkhwUDl2U1E2R05xVGM3Ulh1WkE0cmh5dEZQcWg4SldCNnNzalJGazE4eHdEZF9UOV9OWWpIVjN0Q3hxZEVXclhB?oc=5",
    "date": "2024-09-06T12:19:53+00:00",
    "summary": "Building Web Applications with Clojure YouTube",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Clojure – Testing",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Bc3ZXM3lYLWEyajVZWURaeG5DbGwtWVBxODNUV01Ba2YwaTAzQ2U1bS1IT3BmcFlHVTNFbWg2UU8yenplTFJEWU9iT2pZQzBDYzJXNTVn?oc=5",
+   "date": "2024-08-29T05:42:56+00:00",
+   "summary": "Learn Clojure – Testing YouTube",
+   "tech": "clojure",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Electric Clojure v3: Differential Dataflow for UI (by Dustin Getz)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV01FU0FQQTNtV1FWOERFRHlrRE1xTlZ3STdCVWhjNk5fSXVZc0ZUeHN4Njk3UlNPakVVTnBaamNVRlRfOUhTVEhpS1FDMGctWkFmSVp3?oc=5",
+   "date": "2024-08-21T10:11:36+00:00",
+   "summary": "Electric Clojure v3: Differential Dataflow for UI (by Dustin Getz) YouTube",
    "tech": "clojure",
    "sourceId": "yt",
    "source": "YouTube",

@@ -1,13 +1,196 @@
 {
- "generated": "2026-08-17T05:21:39.212066+00:00",
+ "generated": "2026-08-18T04:58:31.416203+00:00",
  "tech": "bash",
- "count": 150,
+ "count": 155,
  "items": [
+  {
+   "title": "A Fleet of Self-Healing EC2 Instances (Built Out of Bash and Spite)",
+   "url": "https://medium.com/@shawnastaff/a-fleet-of-self-healing-ec2-instances-built-out-of-bash-and-spite-f39414583b36?source=rss------bash-5",
+   "date": "2026-08-18T04:47:26+00:00",
+   "summary": "How I ran a weeks-long cosmology simulation on cheap, disposable spot instances, and taught the fleet to bring its own dead back to life Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "7 Bash Scripts Every Devops Engineer Should Have",
+   "url": "https://medium.com/@muhammadpahrizal790/7-bash-scripts-every-devops-engineer-should-have-35db71bb931a?source=rss------bash-5",
+   "date": "2026-08-18T04:12:56+00:00",
+   "summary": "A production server rarely fails in a convenient way. Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How Bash Runs Scripts Without a Shebang",
+   "url": "https://medium.com/@u.mair/how-bash-runs-scripts-without-a-shebang-4bc14415a7b4?source=rss------bash-5",
+   "date": "2026-08-17T20:20:49+00:00",
+   "summary": "For anything running on the Linux kernel, process creation happens in two stages. The process is first created with the fork() or clone()&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding chmod Without Memorizing Numbers",
+   "url": "https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h",
+   "date": "2026-08-17T18:28:18+00:00",
+   "summary": "How Linux file permissions actually work under the hood, why symbolic mode is your best friend, and...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Dangerous Docker Firewall Bypass (And How to Fix It Using UFW)",
+   "url": "https://dev.to/sadaf_botanist/the-dangerous-docker-firewall-bypass-and-how-to-fix-it-using-ufw-59h1",
+   "date": "2026-08-17T16:53:40+00:00",
+   "summary": "Every backend engineer and systems administrator knows the importance of running a solid firewall....",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Run AI-Proposed Shell Commands in a systemd Probe Before You Run Them for Real",
+   "url": "https://dev.to/github_7727/run-ai-proposed-shell-commands-in-a-systemd-probe-before-you-run-them-for-real-2aed",
+   "date": "2026-08-17T16:36:40+00:00",
+   "summary": "Disclosure: This article was prepared as part of MonkeyCode's product outreach. A free model can...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Overview of the RTOS Kernel Project",
+   "url": "https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca",
+   "date": "2026-08-17T16:14:35+00:00",
+   "summary": "In previous tutorial, I've gave you the theoretical background about ARM Cortex-M3/4 processors. In...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built a small AI-native Linux desktop as a PoC",
+   "url": "https://dev.to/johnny_jakobsson_1508441a/i-built-a-small-ai-native-linux-desktop-as-a-poc-4ifc",
+   "date": "2026-08-17T15:54:04+00:00",
+   "summary": "GitHub: https://github.com/Johnny70/ladanaOS  I've been working on Ladana OS for a little over two...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Programming for Cybersecurity: What You Actually Need to Know",
+   "url": "https://dev.to/xyberghost007/programming-for-cybersecurity-what-you-actually-need-to-know-1d99",
+   "date": "2026-08-17T15:36:54+00:00",
+   "summary": "When I first got interested in cybersecurity, I thought it was all about tools. Nmap, Metasploit,...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Automating Nginx Installation on a Fresh Debian Server",
+   "url": "https://dev.to/pranjal-sharma/automating-nginx-installation-on-a-fresh-debian-server-5e1l",
+   "date": "2026-08-17T14:59:16+00:00",
+   "summary": "I started building a small Linux server administration project around managing a Debian VPS from the...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Noroboto: Lying Fonts y mitigación en Rust — lectura técnica sin hype",
+   "url": "https://dev.to/jtorchia/noroboto-lying-fonts-y-mitigacion-en-rust-lectura-tecnica-sin-hype-33k1",
+   "date": "2026-08-17T14:30:25+00:00",
+   "summary": "Las fuentes mienten. Noroboto documenta cómo el subsistema de texto puede devolver métricas incorrectas y propone mitigaciones en Rust. Antes de copiarlo a producción, hay que entender qué problema resuelve, dónde falla ",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Commands, Part 2: grep, awk, and sed — Turning Raw Logs into Answers",
+   "url": "https://medium.com/@z3r0secops/linux-commands-part-2-grep-awk-and-sed-turning-raw-logs-into-answers-5a160d17fbb3?source=rss------bash-5",
+   "date": "2026-08-17T13:06:08+00:00",
+   "summary": "The follow-up to the Linux starter set &#x2014; grep, awk, and sed explained simply with real verified examples, plus the one pipeline that turns&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time",
+   "url": "https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7",
+   "date": "2026-08-17T11:25:52+00:00",
+   "summary": "If cp or npm install feels impossibly slow in WSL2, crossing the Windows/Linux boundary is the tax — and workloads made of many small operat",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Writing a Minimal sched_ext Scheduler",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/writing-a-minimal-schedext-scheduler-5b8d",
+   "date": "2026-08-17T08:59:38+00:00",
+   "summary": "How to write a minimal sched_ext scheduler: the four callbacks, the dispatch queue model, and how to build, load and verify it on a current kernel.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish",
+   "url": "https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1",
+   "date": "2026-08-17T06:06:10+00:00",
+   "summary": "Part 1 of 2. This part covers getting a kernel that can actually host virtual machines.             ...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Linux vs Unix: Which Should You Choose for Development in 2026?",
+   "url": "https://dev.to/vickybuilds/linux-vs-unix-which-should-you-choose-for-development-in-2026-34ia",
+   "date": "2026-08-17T05:01:47+00:00",
+   "summary": "Author: Vicky    [🔹 Profile] vickybuilds on Dev.to             Linux vs Unix: Which Should You Choose...",
+   "points": 5,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Your Cron Job Exits 0 and Does Nothing: Reading Chrome's Cookie SQLite to Know If a Session Is Actually Alive",
    "url": "https://dev.to/bokuwalily/your-cron-job-exits-0-and-does-nothing-reading-chromes-cookie-sqlite-to-know-if-a-session-is-3c55",
    "date": "2026-08-17T05:00:06+00:00",
    "summary": "An automation job can fail for days without making a single sound. Mine did: one Instagram lane ran...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Niri Monitors - Mange Connected Monitors",
+   "url": "https://dev.to/xwaleedahmad/niri-monitors-mange-connected-monitors-261g",
+   "date": "2026-08-17T04:44:10+00:00",
+   "summary": "🚀 Excited to share something I've been building: Niri Monitors — an extension for Vicinae that lets...",
    "points": 0,
    "tech": "bash",
    "sourceId": "devto",
@@ -211,39 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "Kubernetes Networking [Level-4: Services Discovery/DNS]",
-   "url": "https://dev.to/iadiraj/kubernetes-networking-level-4-services-discoverydns-3de9",
-   "date": "2026-08-15T11:04:40+00:00",
-   "summary": "This is Level 4 of our Kubernetes networking series. In Level 3, we introduced the Service — a stable...",
-   "points": 3,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kubernetes Networking [Level-3: Services]",
-   "url": "https://dev.to/iadiraj/kubernetes-networking-level-3-services-5h3",
-   "date": "2026-08-15T10:35:02+00:00",
-   "summary": "This is Level 3 of our Kubernetes networking series. In Level 2, we traced how Pod-to-Pod...",
-   "points": 3,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kubernetes Networking [Level-2: Pod-to-Pod Communication]",
-   "url": "https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh",
-   "date": "2026-08-15T10:20:11+00:00",
-   "summary": "This is Level 2 of our Kubernetes networking series. In Level 0, we covered core Linux networking...",
-   "points": 3,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "What Happens When You Run a Program on Linux?",
    "url": "https://medium.com/@mitul_digifello/what-happens-when-you-run-a-program-on-linux-2e049211aeda?source=rss------bash-5",
    "date": "2026-08-15T09:33:58+00:00",
@@ -254,61 +404,6 @@
    "lang": "en"
   },
   {
-   "title": "Cómo solucionar `Code exited (1)` en Docker en Raspberry Pi",
-   "url": "https://dev.to/erickeduardoramos03/como-solucionar-code-exited-1-en-docker-en-raspberry-pi-53bj",
-   "date": "2026-08-15T09:19:27+00:00",
-   "summary": "Cómo solucionar Code exited (1) en Docker en Raspberry Pi            ¿Por qué ocurre este...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kubernetes Networking [Level-1: Pod Networking]",
-   "url": "https://dev.to/iadiraj/kubernetes-networking-level-1-pod-networking-3agp",
-   "date": "2026-08-15T06:30:00+00:00",
-   "summary": "This is Level 1 of our Kubernetes networking series. In Level 0, we built a foundation of core Linux...",
-   "points": 3,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Two Weeks of Silent Failure: Idempotent Scheduling and Self-Healing for a launchd + Claude Code Pipeline",
-   "url": "https://dev.to/bokuwalily/two-weeks-of-silent-failure-idempotent-scheduling-and-self-healing-for-a-launchd-claude-code-3gb5",
-   "date": "2026-08-15T05:00:06+00:00",
-   "summary": "Every morning at 5, launchd wakes up, and by the time I do, articles I never wrote are already...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Did That Free-Model Setup Script Actually Do? Audit It With Honeypot Files and Syscall Traces",
-   "url": "https://dev.to/github_7727/what-did-that-free-model-setup-script-actually-do-audit-it-with-honeypot-files-and-syscall-traces-4eg1",
-   "date": "2026-08-15T03:19:10+00:00",
-   "summary": "Here is why this article is worth your time: you cannot tell what a generated setup script does by...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A macOS cache and system-file cleaner for the Terminal. It is built as a single Bash script with zero dependencies and is fully compatible with native macOS (Bash 3.2+).\r\n\r\nhttps://github.com/ombak/clean-shit",
-   "url": "https://dev.to/ombak/a-macos-cache-and-system-file-cleaner-for-the-terminal-it-is-built-as-a-single-bash-script-with-5np",
-   "date": "2026-08-15T01:47:13+00:00",
-   "summary": "...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The One Flag That Makes a Linux Search Show You Where, Not Just What",
    "url": "https://medium.com/my-lifes-mirrow/the-one-flag-that-makes-a-linux-search-show-you-where-not-just-what-8fe3c4fc30c1?source=rss------bash-5",
    "date": "2026-08-14T11:01:01+00:00",
@@ -316,61 +411,6 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "# I Built a Linux System-Intelligence Tool Using Bash, C and C#",
-   "url": "https://dev.to/yathartsalil/-i-built-a-linux-system-intelligence-tool-using-bash-c-and-c-bl1",
-   "date": "2026-08-14T07:40:58+00:00",
-   "summary": "I wanted to build something that would force me to work with Linux at a level deeper than simply...",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine",
-   "url": "https://dev.to/anvaysingh/1setting-up-my-first-linux-server-on-a-mac-and-the-scary-messages-that-are-actually-fine-3lph",
-   "date": "2026-08-13T18:02:23+00:00",
-   "summary": "TL;DR   I set up a real Ubuntu Server VM on an Apple Silicon Mac using UTM, as step one toward...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "You don't need to restart WireGuard to add a peer",
-   "url": "https://dev.to/ricco020/you-dont-need-to-restart-wireguard-to-add-a-peer-2b3l",
-   "date": "2026-08-13T15:09:57+00:00",
-   "summary": "Most guides answer \"how do I add a WireGuard peer\" with this:    wg-quick down wg0 &amp;&amp;...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ChatGPT Desktop for Linux: A new way to interact!",
-   "url": "https://dev.to/mgobea/chatgpt-desktop-for-linux-a-new-way-to-interact-47ic",
-   "date": "2026-08-13T11:01:36+00:00",
-   "summary": "Architectural Analysis of LLM Integration within Linux Desktop Environments   The emergence...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Cómo solucionar `docker run` con exit code 1 en Raspberry Pi",
-   "url": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-559n",
-   "date": "2026-08-13T09:56:36+00:00",
-   "summary": "Cómo solucionar docker run con exit code 1 en Raspberry Pi            ¿Por qué ocurre este...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -804,6 +844,16 @@
    "lang": "ar"
   },
   {
+   "title": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zV053TWNJdU1IZVFXT3JlN2VYYUVZV3ZnUE9ZaGItQXFCejZlTGMyV0duZUFrbGZJUkxybGFnX0hSaG9pd1lMMEw4RWNGOXh1Q01vc1pB?oc=5",
+   "date": "2024-03-30T18:00:06+00:00",
+   "summary": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Become a bash scripting pro - full course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbkxUYkpVeG4tak5vVjNFb0tjR0dyYUhqRmF2cURkS0RTeVpIWEFzWko5TFFOd1hnMDNUSDRpdTVKOUVDUHphTkdrOVZCSXNJdVVCeGVR?oc=5",
    "date": "2024-03-05T14:00:04+00:00",
@@ -962,6 +1012,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Learn Bash Scripting in 1 Hour - Bash Programming Crash Course for Beginners (Hindi / Urdu)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nNExENGZIY3RlcnA1SmtiUjh0d1RzdC1KTFhTNzVaMkVQQnBXLTJPNlN6eXJCeUFHVWtLMTRMVWdyQXJ5UmxhQl9XMzdkaUZfdFN0Z1Rn?oc=5",
+   "date": "2023-06-27T03:00:13+00:00",
+   "summary": "Learn Bash Scripting in 1 Hour - Bash Programming Crash Course for Beginners (Hindi / Urdu) YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Mastering Bash and Z Shell Scripting Syntax",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05QTJJX0g4MGRuUWlLRHR0WF9BbVRGMXB2TFhEYmt5eU9JUm1SMFJyckhmd2JlNmZOYzJ3M1l4VjZFcHNDTXllZE1CczB0NlpOUllRakVn?oc=5",
+   "date": "2023-05-20T07:01:43+00:00",
+   "summary": "Mastering Bash and Z Shell Scripting Syntax YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Bash Shell Scripting Tutorial | Full Course",
@@ -1152,6 +1222,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Linux Command Line Tutorial - Learn Linux Terminal in 40 minutes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKUzBUQUszcUFBdC10YzBpWTM1MnFrUWFOaXM5b09Tb2xFTEFyOGpKeHRobFZCX2g5R3JrMHNmZDZLT1ZDblJUd2F0TW1UdUJIcGpTVVhB?oc=5",
+   "date": "2022-08-11T10:30:17+00:00",
+   "summary": "Linux Command Line Tutorial - Learn Linux Terminal in 40 minutes YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮",
@@ -1394,6 +1474,16 @@
    "lang": "ar"
   },
   {
+   "title": "Shell Scripting Full Course 2022 | Become a expert | Tech Arkit",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVTExc1A1OFIwXzRCUDVNOTVvc0RVaEY5dU9VajBBVnFXdFBSZ2dhZFdUQnpZdmFpX3NYM0J6dTJoNTVjSVRCMlpobjVyLU5mdnd2ZlpR?oc=5",
+   "date": "2020-12-21T09:24:04+00:00",
+   "summary": "Shell Scripting Full Course 2022 | Become a expert | Tech Arkit YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "كورس تعليم اوبنتو | 1 | مقدمة عن اللينكس | مقدمة عن نظم التشغيل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XYVJmVU5sS044NkU4S1R6TWUzRFd4czNhM0lpdGRPLW5JY3RuT01fRFBJanN3OG80eE95RGFCanFSemw2MVhkY1JpZmc1THliZC16ZjFn?oc=5",
    "date": "2020-10-04T18:52:58+00:00",
@@ -1484,36 +1574,6 @@
    "lang": "ar"
   },
   {
-   "title": "Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00S1o5cUJrNFJrQWt3LUJJN19tbE9qLVdjWjRBclpEVTk1N1MwbUhmVk43UUQ3TW9UMnJzNnoteHZWRFBpbG5uMHRWdjVpems4WEFjYVJR?oc=5",
-   "date": "2019-04-18T13:57:05+00:00",
-   "summary": "Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Bash Terminal for Beginners (Linux / Mac / WSL / WSL2)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xUTJGUDFrT3dRSU5SZjA5eFVBcGstcTdkbFFPWGNfc21GYjRrcjlhcml2cVhGTHY5b2lBYUU0R01Mb2NJQnFKRnl5bDRYdlUyNXRab2xR?oc=5",
-   "date": "2019-03-13T11:58:32+00:00",
-   "summary": "Bash Terminal for Beginners (Linux / Mac / WSL / WSL2) YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Shell Scripting Crash Course - Beginner Level",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xZXA3T2FwYy1wOTNTcWlDU2lVTVB0TnJBYUxBdGdrMmRHTVItNkxwUVBlX245TVljVUJjQ0RtUWlMYWt3R0lmazNuc1hKZ2pTNlVSS2FB?oc=5",
-   "date": "2018-05-17T21:09:21+00:00",
-   "summary": "Shell Scripting Crash Course - Beginner Level YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "حرق توزيعات لينكس على الفلاشة باسخدام DD",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11ZVpkYURKNVI0aUZtN0RiNXpUUGF4ZFF4MENHdU1aUmJ5Q2FFYU5EakVKOHFCdGxJUjRqZVhLMWJmbkhpVEY0ZXAzem5sMXRndnZIZ2xR?oc=5",
    "date": "2018-03-09T20:14:59+00:00",
@@ -1522,16 +1582,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac Terminal",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdTlEOGxTWW82d0N1SG9VUHJMZXpod2toTDhuSVI5TzJ2Yk9FQUdDc3dQcVB3S2dibXFBRHZuQkdjdjBIZWxGNUt6SkJod0NsU1lqUE53?oc=5",
-   "date": "2017-12-13T17:30:00+00:00",
-   "summary": "Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac Terminal YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   }
  ]
 }

@@ -1,8 +1,162 @@
 {
- "generated": "2026-08-17T05:20:43.416593+00:00",
+ "generated": "2026-08-18T04:57:34.625437+00:00",
  "tech": "java",
- "count": 208,
+ "count": 212,
  "items": [
+  {
+   "title": "SimpleDownloader - an Android downloader manager library designed to simplify complex file downloading behind a simple API",
+   "url": "https://dev.to/simpledownloader/simpledownloader-an-android-downloader-manager-library-designed-to-simplify-complex-file-3hpl",
+   "date": "2026-08-18T04:48:49+00:00",
+   "summary": "SimpleDownloader got new features, API, and improved the stability.  SimpleDownloader on GitHub:...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Smart Strategies to Buy Old GitHub Accounts Efficiently",
+   "url": "https://dev.to/lexiebrandtys83m/5-smart-strategies-to-buy-old-github-accounts-efficiently-ohc",
+   "date": "2026-08-18T04:31:48+00:00",
+   "summary": "Buy Old GitHub Accounts – Complete Guide to GitHub Profile Management, Security &amp; Developer...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Self-Healing Software Development: Automating Code Generation, Testing, and Fixing with Solon AI Loop Engine",
+   "url": "https://dev.to/solonjava/self-healing-software-development-automating-code-generation-testing-and-fixing-with-solon-ai-856",
+   "date": "2026-08-17T22:44:39+00:00",
+   "summary": "Software agents are transitioning from stateless assistants to autonomous, loop-driven operators....",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "iBatis: A Practical Guide to the SQL Mapper Framework (2026-08-17 22:12)",
+   "url": "https://dev.to/said_olano/ibatis-a-practical-guide-to-the-sql-mapper-framework-2026-08-17-2212-5cd6",
+   "date": "2026-08-17T22:12:19+00:00",
+   "summary": "iBatis: SQL Mapper Framework   When it comes to persistence frameworks in the Java...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Build Your First Spring AI Application with OpenAI Using Spring Boot",
+   "url": "https://dev.to/ayshriv/build-your-first-spring-ai-application-with-openai-using-spring-boot-c3b",
+   "date": "2026-08-17T19:44:38+00:00",
+   "summary": "Build Your First Spring AI Application with OpenAI Using Spring Boot   If you have been...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Off-heap memory: where the JVM’s RAM goes",
+   "url": "https://dev.to/glatfi/off-heap-memory-where-the-jvms-ram-goes-41kk",
+   "date": "2026-08-17T19:38:38+00:00",
+   "summary": "The heap is stable, the GC logs are clean, and yet the process RSS keeps climbing, day after day. A...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Java Variables, Data and int : 8 Questions I Had as a Beginner",
+   "url": "https://dev.to/poushmita_paul_fddcbe1a2f/java-variables-data-and-int-8-questions-i-had-as-a-beginner-3p4j",
+   "date": "2026-08-17T17:59:10+00:00",
+   "summary": "Java Learning Notes — Telusko Core Java | Video 05   After learning how to set up Java and write my...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "JVM, JRE, JDK, Bytecode & main(): 8 Questions I Had as a Beginner",
+   "url": "https://dev.to/poushmita_paul_fddcbe1a2f/jvm-jre-jdk-bytecode-main-8-questions-i-had-as-a-beginner-4hl2",
+   "date": "2026-08-17T17:21:52+00:00",
+   "summary": "Java Learning Notes — Telusko Core Java | Video 04   In the previous lesson, I finally wrote my...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Writing Your First Java Code: 5 Questions I Had as a Beginner",
+   "url": "https://dev.to/poushmita_paul_fddcbe1a2f/writing-your-first-java-code-5-questions-i-had-as-a-beginner-18nf",
+   "date": "2026-08-17T17:13:10+00:00",
+   "summary": "Java Learning Notes — Telusko Core Java | Video 03   After installing the JDK and setting up VS...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Setting Up Java: 6 Questions I Had About JDK, VS Code, LTS and PATH",
+   "url": "https://dev.to/poushmita_paul_fddcbe1a2f/setting-up-java-6-questions-i-had-about-jdk-vs-code-lts-and-path-n96",
+   "date": "2026-08-17T17:07:47+00:00",
+   "summary": "Java Learning Notes — Telusko Core Java | Video 02   After understanding the basic introduction and...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Java Introduction: 8 Questions I Had as a Beginner and Their Easy Answers",
+   "url": "https://dev.to/poushmita_paul_fddcbe1a2f/java-introduction-8-questions-i-had-as-a-beginner-and-their-easy-answers-52am",
+   "date": "2026-08-17T16:55:48+00:00",
+   "summary": "Java Learning Notes — Telusko Core Java | Video 01   When I started learning Core Java, the first...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Java Introduction: What Is Java, Who Created It, and How Sun Microsystems Became Oracle?",
+   "url": "https://dev.to/poushmita_paul_fddcbe1a2f/java-introduction-what-is-java-who-created-it-and-how-sun-microsystems-became-oracle-4abp",
+   "date": "2026-08-17T16:30:32+00:00",
+   "summary": "Part of my Java Learning Series — Telusko Core Java   If you are starting to learn Java, you will...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Virtual threads didn't scale your app. They just moved the crash to your database.",
+   "url": "https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i",
+   "date": "2026-08-17T10:18:35+00:00",
+   "summary": "When Java 21 was released with virtual threads, everyone celebrated, including myself.  Then...",
+   "points": 2,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Built a Blog Recommendation Engine Using Spring Boot & MySQL",
+   "url": "https://dev.to/maitri_tyagi_76e2634f6dba/how-i-built-a-blog-recommendation-engine-using-spring-boot-mysql-4ojf",
+   "date": "2026-08-17T05:30:12+00:00",
+   "summary": "Introduction   Most blog platforms have thousands of articles, but finding the right article...",
+   "points": 0,
+   "tech": "java",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Spring proxies: JDK dynamic vs CGLIB",
    "url": "https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1",
@@ -180,160 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "Composable Async Pipelines with Java CompletableFuture",
-   "url": "https://dev.to/toolloom/composable-async-pipelines-with-java-completablefuture-2o73",
-   "date": "2026-08-14T01:00:54+00:00",
-   "summary": "Learn to build robust async pipelines in Java using CompletableFuture with real‑world checkout...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Verify AI Token Cost Cuts with MgntUtils Stacktrace Filtering on your own data — Before You Touch Production",
-   "url": "https://dev.to/mgantman/verify-ai-token-cost-cuts-with-mgntutils-stacktrace-filtering-on-your-own-data-before-you-touch-k96",
-   "date": "2026-08-13T17:26:33+00:00",
-   "summary": "This article is for mid- and high-level managerial and technical decision makers. It is a follow-up...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Tailscale's 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams",
-   "url": "https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf",
-   "date": "2026-08-13T16:32:40+00:00",
-   "summary": "\"Our uptime was pretty shaky.\" That is how Alex Chan, an engineer at Tailscale, opens the postmortem...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Happy 8th Birthday, JEP 8209434 — Here's Your Preview Implementation",
-   "url": "https://dev.to/verhasi/happy-8th-birthday-jep-8209434-heres-your-preview-implementation-4de9",
-   "date": "2026-08-13T16:03:09+00:00",
-   "summary": "Today, August 13, 2026, marks exactly 8 years since Brian Goetz filed JEP 8209434: Concise Method...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Java evolution with AI.",
-   "url": "https://dev.to/divyanshnigam14/java-evolution-with-ai-4nl1",
-   "date": "2026-08-13T14:19:25+00:00",
-   "summary": "Java isn't just about legacy anymore. Native libraries like Deeplearning4j, Deep Java Library (DJL),...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "DeepSeek V4 Pro Is Out. Here's How to Wire It Into Spring Boot With Spring AI",
-   "url": "https://dev.to/jamilxt/deepseek-v4-pro-is-out-heres-how-to-wire-it-into-spring-boot-with-spring-ai-213m",
-   "date": "2026-08-13T12:23:27+00:00",
-   "summary": "This morning my team's chat exploded the way it only does when a frontier model drops. The trigger...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Google Says Go Is Ideal for AI Coding. I Build With Java. Here Is My Honest Rebuttal",
-   "url": "https://dev.to/jamilxt/google-says-go-is-ideal-for-ai-coding-i-build-with-java-here-is-my-honest-rebuttal-15dm",
-   "date": "2026-08-13T09:05:46+00:00",
-   "summary": "Google's developer blog published an argument this week that Go is the ideal language for AI-assisted...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The 40-Minute Supply Chain Attack That Leaked Microsoft, Amazon and Cisco Secrets",
-   "url": "https://dev.to/jamilxt/the-40-minute-supply-chain-attack-that-leaked-microsoft-amazon-and-cisco-secrets-2mkf",
-   "date": "2026-08-13T09:05:40+00:00",
-   "summary": "A 40-minute window in March was all it took. In that span, a poisoned version of LiteLLM, an open...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Spring Batch chunk processing explained with examples — Complete Guide",
-   "url": "https://dev.to/rajesh1761/spring-batch-chunk-processing-explained-with-examples-complete-guide-b6",
-   "date": "2026-08-13T08:18:58+00:00",
-   "summary": "A practical, in-depth guide to Spring Batch chunk processing explained with examples with examples.",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Production AI Agent in Spring Boot: The Append-Only Audit Trail (Part 13)",
-   "url": "https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-the-append-only-audit-trail-part-13-4nfl",
-   "date": "2026-08-13T06:23:39+00:00",
-   "summary": "The security page of an AI meeting recorder with over two million users is a trophy case. SOC2...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stop Naive Vector Lookup: Boost RAG Recall with Spring AI HyDE Query Rewriting",
-   "url": "https://dev.to/machinecodingmaster/stop-naive-vector-lookup-boost-rag-recall-with-spring-ai-hyde-query-rewriting-2i83",
-   "date": "2026-08-13T04:27:16+00:00",
-   "summary": "Stop Naive Vector Lookup: Boost RAG Recall with Spring AI HyDE Query Rewriting   Direct...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Production AI Agent in Spring Boot: Tenant Isolation (Part 12)",
-   "url": "https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-tenant-isolation-part-12-22a2",
-   "date": "2026-08-13T03:16:20+00:00",
-   "summary": "An AI meeting recorder with over two million users stored every meeting on the platform in one...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "O que tem em um .class do Java?",
-   "url": "https://dev.to/edysilva/o-que-tem-em-um-class-do-java-2agm",
-   "date": "2026-08-13T01:47:10+00:00",
-   "summary": "Na parte 1 a gente construiu um interpretador de Brainfuck com tokenizer, parser e uma Representação...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Incident AI Agent: A Memory-Powered AI for Cyber Incident Response",
-   "url": "https://dev.to/shivamjaiswal008/building-incident-ai-agent-a-memory-powered-ai-for-cyber-incident-response-49n7",
-   "date": "2026-08-12T17:56:01+00:00",
-   "summary": "Introduction   Cybersecurity incident response often has a frustrating problem: the same...",
-   "points": 0,
-   "tech": "java",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The Power of JDK Flight Recorder: Efficient Profiling and Troubleshooting for Java Applications",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KUkV2RVkxREZvcWJXWVZrM2pjcTlPLS04cTFhR2VPT0VETTlCOUZyMXE2Wk8zb2Q3MmtUUThKTDh0d2FOdEFjMEt6ck5fbkhVQ05hQzhB?oc=5",
    "date": "2026-08-11T10:14:27+00:00",
@@ -393,6 +393,17 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "PlatypusLab",
+   "url": "https://www.hackster.io/matthew-garza/platypuslab-af9dd2",
+   "date": "2026-08-05T21:30:15+00:00",
+   "summary": "PlatypusLab is a Java 26 desktop bench that runs antenna experiments hands-free",
+   "tech": "java",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
   },
   {
    "title": "Java Generics Explained: Benefits, Examples, and Best Practices",
@@ -635,6 +646,16 @@
    "lang": "en"
   },
   {
+   "title": "ماهي الدالة function في لغة جافا سكربت للمبتدئين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeXo1N3l0NWo4V0NjcDJyQ2otcjNBdVdNS0lCOW40aUx0SFhzZVFQWlg5UU4zTmF6TDRXMDNPRnBQOGhuX01HS1dTZUxlcmc0aFhXQnRn?oc=5",
+   "date": "2025-01-29T13:59:48+00:00",
+   "summary": "ماهي الدالة function في لغة جافا سكربت للمبتدئين YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Master Java FAST: Ultimate One-Video Java Crash Course for 2026!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PWjhpazhhUVJuVFRXSkNzM05sOW1XaHZuUEpVdno3S2wtNFEtQnpLSTU0eGcxRVdBeWduNWVmU0hJSzM5bFVJMmtNRmRxNEhuaGpuNG5n?oc=5",
    "date": "2025-01-21T12:12:25+00:00",
@@ -679,6 +700,16 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xU1huRHo0XzNMb0VSYVV4cFFYZzktQkNsQUdvTjc5UERkOHpJc1VLVy1tdjNmcllZbWdCSFd6WTl3UWhxZGIxZmx6Yl9zb1BoWTJacHRLT3hHeUpTTi1xb2l5aWhHTi1UTjJNVFp4YTBUOHJQNk5NSTdMRno?oc=5",
    "date": "2024-12-06T12:26:52+00:00",
    "summary": "Java tutorial for beginners YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Java arrays in 9 minutes! 🍎",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVzhFVzhGSW5kS3ZaOGlvWW93WmFYZkhhQ2tDWjFmMEFLNnAxR3VKQ3pQUVBoVTNHWVhheHpsUHZnNC1Fei1WWi1BV2ZLcnNnVFJvQ0hB?oc=5",
+   "date": "2024-12-05T16:59:12+00:00",
+   "summary": "Learn Java arrays in 9 minutes! 🍎 YouTube",
    "tech": "java",
    "sourceId": "yt",
    "source": "YouTube",
@@ -845,6 +876,16 @@
    "lang": "en"
   },
   {
+   "title": "Complete Java Programming Course 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RRTFrSXhzTHlwZVhjdGFYcDhRR2lzcHFSbE5sWUstanl1WTIzZ3Jxc1VEY1Y2YTNtRXptb2VMaVM5MnpQS0NKSmtwajJaUGJJMGhpZWl5eXgzSmRXR1Q5SVc3OU5WMzdTY0FMVHVKd25fVlh1aU9UR1Z5bEM?oc=5",
+   "date": "2024-01-16T16:43:51+00:00",
+   "summary": "Complete Java Programming Course 2026 YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Java Tutorial #1: Write your First Program using Netbeans (for beginners)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oWWdjTXBBemgyazhpSHVzWWVDY3Y5c1dQNFI4ZkFMQjFuQ2YtNEc2Z2NfMUU2SEc5b2k5SUZOdjBRUGNzNFVpWWRySlBncnlJVnF5TlJB?oc=5",
    "date": "2024-01-07T09:59:43+00:00",
@@ -933,6 +974,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "لغة برمجة ١ -جافا-، Lecture 2 Java Basics 1 part 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJS1BCVWNUTFoxVWc5Tl9WTnlsbG44YWhwX0tMRzBQSWRRMVBtRW1sVHR5SGN0ZDdLaVRhZkNxdFVGQUFLOGVCZWU1aTFmSUQtSkQzMzNB?oc=5",
+   "date": "2023-09-05T07:12:41+00:00",
+   "summary": "لغة برمجة ١ -جافا-، Lecture 2 Java Basics 1 part 1 YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "برمجة الكيانات بلغة جافا -02- Object Oriented Programming(OOP) with JAVA",
@@ -1235,6 +1286,16 @@
    "lang": "ar"
   },
   {
+   "title": "Java Tutorial for Beginners - Operators and Precedence",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zYUhWZHlDcWtQSlRSRHI4cTE1ZDl6V1BwZWhjV2RFTnZQbDR4VzNESGhuUU1GTm5ia1NuRUtOOTJQWXhvUm53WFFHN040TnBGeVBFaVZB?oc=5",
+   "date": "2022-10-15T12:30:12+00:00",
+   "summary": "Java Tutorial for Beginners - Operators and Precedence YouTube",
+   "tech": "java",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Java Tutorial For Beginners - Exercise 1 Solution",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWNVNOd2NXenhrZV9DS2VrU0FmbGlrNUlBaTZ4NE4tMXM0MGxFNWRlTTQ0WU1TcEtnTThPQXEzZWJKQXItam1QWDBDYnU3bWg3ZVBrMUR3?oc=5",
    "date": "2022-10-12T14:30:12+00:00",
@@ -1535,6 +1596,16 @@
    "lang": "en"
   },
   {
+   "title": "#053 [JAVA] - Abstract Class part 1 (Examples, Abstract rules)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rZW1Ybm9KRGc4UFpaTG4zZVNZcW1IWjlRSjMyU2x4cGhDMWk1anI1eWdfTXpXMUE5enNWVzNFLWEwZG91RHNGRkZuVUN5ZWQ4TTBUVHlB?oc=5",
+   "date": "2021-08-10T09:16:50+00:00",
+   "summary": "#053 [JAVA] - Abstract Class part 1 (Examples, Abstract rules) YouTube",
+   "tech": "java",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "#048 [JAVA] - ArrayList Class",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45c2xnOWdrM3RGYjFCaEZHWFIydFZuSlpNcm5rNHctV3VxUUE4bU9rZUdIemI5NzVfTC1ualhubTctSlFjLUFrVzNXb292MDFiVEY3dWtB?oc=5",
    "date": "2021-06-26T13:34:55+00:00",
@@ -1725,16 +1796,6 @@
    "lang": "en"
   },
   {
-   "title": "Java Classes & Objects",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MbHB4VU1mdUEtSE1mTG9SMnI5V3pQaGNwVWo1enh4Y2JaOGpHdnZ5UTdLN21TZ3VPSnJpaXZuVDdhMi0wNnl4ajVCeHZDdG9Kcm1HYjZR?oc=5",
-   "date": "2020-12-13T18:46:10+00:00",
-   "summary": "Java Classes & Objects YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Java||Basic Arithmetic Operators العمليات الحسابية الاساسية في الجافا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45Zk5BWWJPVTdXQi1IMEtXUTJVVFZIMHFGTUpVTl9OdU9yTE9WR0pSdXNNVi05bEMwVEdYX0dfU3FMVEFiazhueXZLVVdjc3JKU3pYYUN3?oc=5",
    "date": "2020-11-18T16:43:32+00:00",
@@ -1791,26 +1852,6 @@
    "summary": "Java | Chapter 2 | Elementary Programming YouTube",
    "tech": "java",
    "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Swing GUI Full Course ☕",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MX2VranlTZ1FjeWt2dGxoMmx4YlZqdERSSVhseEE4cjdSZFF4LU44dmEtZUVoYllCRUppVEhRUDBHM2lLMU8zdWJ3ZTdGTmgzVEhmNEVB?oc=5",
-   "date": "2020-09-14T15:00:12+00:00",
-   "summary": "Java Swing GUI Full Course ☕ YouTube",
-   "tech": "java",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Java Full Course [NEW]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OdU8xb0pZWlQwcXJCZVdFZ3NUY2FiM0NiRm1IZ0lJN1dNM0hEZHJ3ckp1bmRCWjBUdnRGbDhMOGIwMWgtZi02TjR6b3JKcm9qUmh6Rk5n?oc=5",
-   "date": "2020-09-09T14:02:52+00:00",
-   "summary": "Java Full Course [NEW] YouTube",
-   "tech": "java",
-   "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },

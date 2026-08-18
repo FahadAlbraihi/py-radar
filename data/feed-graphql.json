@@ -1,8 +1,184 @@
 {
- "generated": "2026-08-17T05:31:12.978766+00:00",
+ "generated": "2026-08-18T05:09:06.167347+00:00",
  "tech": "graphql",
  "count": 122,
  "items": [
+  {
+   "title": "The JSON Schema bug that only fires on a customer's first real query",
+   "url": "https://dev.to/devil_scrapes/the-json-schema-bug-that-only-fires-on-a-customers-first-real-query-34g2",
+   "date": "2026-08-18T04:31:49+00:00",
+   "summary": "There is a category of bug that passes every test you write, ships to production, and then fails on a...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The day our scraper fleet shipped nothing — and the afternoon it shipped three",
+   "url": "https://dev.to/devil_scrapes/the-day-our-scraper-fleet-shipped-nothing-and-the-afternoon-it-shipped-three-4jjo",
+   "date": "2026-08-18T04:30:46+00:00",
+   "summary": "We spent an entire working day last week shipping nothing. Nine scrapers were queued, every piece of...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Idempotency: The Secret to Preventing Double Payments and Network Glitches",
+   "url": "https://dev.to/saurav_tb_pandey/idempotency-the-secret-to-preventing-double-payments-and-network-glitches-1e8d",
+   "date": "2026-08-18T04:19:45+00:00",
+   "summary": "Idempotency is a property of an operation where executing it multiple times has the exact same effect...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Simple Wallet API From Scratch",
+   "url": "https://dev.to/obinna_justice/building-a-simple-wallet-api-from-scratch-2j3c",
+   "date": "2026-08-18T03:48:24+00:00",
+   "summary": "I'm starting something new.  Instead of building another project and only showing the final result, I...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Escaping the Walled Garden: My 2026 Multimodal API Journey",
+   "url": "https://dev.to/gentlenode/escaping-the-walled-garden-my-2026-multimodal-api-journey-3mcj",
+   "date": "2026-08-18T03:21:28+00:00",
+   "summary": "Escaping the Walled Garden: My 2026 Multimodal API Journey  I'll be honest with you. I'm the kind of...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
+   "url": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
+   "date": "2026-08-18T03:21:20+00:00",
+   "summary": "Sometimes you have GPS coordinates like:    40.7128, -74.0060        Enter fullscreen mode           ...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Unified Image Generation API: One Key, Multiple Models, Wrong for Invoice Extraction",
+   "url": "https://dev.to/yatesholloway6872/unified-image-generation-api-one-key-multiple-models-wrong-for-invoice-extraction-3ack",
+   "date": "2026-08-18T02:40:01+00:00",
+   "summary": "Short answer: a unified image generation API is a sensible one-key boundary for generating game...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Returning Bare 500s: A Practical Guide to RFC 9457 Problem Details",
+   "url": "https://dev.to/sirmax/stop-returning-bare-500s-a-practical-guide-to-rfc-9457-problem-details-4cel",
+   "date": "2026-08-18T02:07:56+00:00",
+   "summary": "How to design API error responses that developers can actually act on, using RFC 9457 Problem Details with a working FastAPI example.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect's Take",
+   "url": "https://dev.to/bolddeck/deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take-278m",
+   "date": "2026-08-18T01:29:48+00:00",
+   "summary": "DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect's Take  I've been running LLM workloads in...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built an open dataset tracking Africa's nuclear energy programs, here's what I learned",
+   "url": "https://dev.to/n3on/i-built-an-open-dataset-tracking-africas-nuclear-energy-programs-heres-what-i-learned-3h4i",
+   "date": "2026-08-17T22:00:46+00:00",
+   "summary": "Only one African country operates a commercial nuclear reactor. Egypt is building one. A growing...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Build a Daily Tech-News Bot for Slack or Discord in 15 Minutes (Node.js + NewTqnia API)",
+   "url": "https://dev.to/samymassoud/build-a-daily-tech-news-bot-for-slack-or-discord-in-15-minutes-nodejs-newtqnia-api-5gmp",
+   "date": "2026-08-17T19:29:49+00:00",
+   "summary": "Every team I've been on has a #general channel that goes quiet by 11am. A daily digest bot is the...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Rails Routing & APIs: What Actually Happens Between the URL and Your Controller",
+   "url": "https://dev.to/lucasldemello/rails-routing-apis-what-actually-happens-between-the-url-and-your-controller-4elj",
+   "date": "2026-08-17T18:41:58+00:00",
+   "summary": "When I started studying APIs more seriously, I realized there was a problem with the way I was...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a GraphQL Video Discovery API with Strawberry and FastAPI over SQLite",
+   "url": "https://dev.to/ahmet_gedik778845/building-a-graphql-video-discovery-api-with-strawberry-and-fastapi-over-sqlite-3maa",
+   "date": "2026-08-17T17:00:02+00:00",
+   "summary": "How we replaced four REST round trips with one GraphQL query using Strawberry and FastAPI over a rea",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We built a CLI that turns frontend code into API contracts, mock servers, and database schemas",
+   "url": "https://dev.to/medievalbatman/we-built-a-cli-that-turns-frontend-code-into-api-contracts-mock-servers-and-database-schemas-37no",
+   "date": "2026-08-17T15:01:32+00:00",
+   "summary": "We didn’t set out to build a whole product. We just kept running into the same problem over and over:...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "DeepSeek V4 Flash Got Expensive. I Kept the Model and Cut the API Cost Anyway",
+   "url": "https://dev.to/sergeisolod/deepseek-v4-flash-got-expensive-i-kept-the-model-and-cut-the-api-cost-anyway-125i",
+   "date": "2026-08-17T13:31:20+00:00",
+   "summary": "DeepSeek changed its API pricing, and my spending jumped almost overnight. Instead of replacing the...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Node.js REST APIs That Scale to 50k+ Requests Per Second",
+   "url": "https://dev.to/abinschandran/building-nodejs-rest-apis-that-scale-to-50k-requests-per-second-4c6b",
+   "date": "2026-08-17T08:07:45+00:00",
+   "summary": "How I Build High-Performance Node.js REST APIs That Handle 50k+ Requests Per Second published:...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "I Ran the Numbers on Open-Source AI APIs vs GPUs — Here's the Verdict",
    "url": "https://dev.to/eagerspark/i-ran-the-numbers-on-open-source-ai-apis-vs-gpus-heres-the-verdict-58dp",
@@ -168,17 +344,6 @@
    "lang": "en"
   },
   {
-   "title": "Putting an MCP server in front of a real product: four things I got wrong first",
-   "url": "https://dev.to/dosai/putting-an-mcp-server-in-front-of-a-real-product-four-things-i-got-wrong-first-1no2",
-   "date": "2026-08-16T11:04:31+00:00",
-   "summary": "If you ship an MCP server for a product that already has a REST API, the tempting move is to wire the...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Beyond REST: Why Facebook Created GraphQL",
    "url": "https://medium.com/@anantshukla1402/beyond-rest-why-facebook-created-graphql-7c5cd9cc6d00?source=rss------graphql-5",
    "date": "2026-08-16T10:04:26+00:00",
@@ -189,160 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "10 Sites for Buying Aged Textnow Accounts In 2026",
-   "url": "https://dev.to/carlafarleyjy57g/10-sites-for-buying-aged-textnow-accounts-in-2026-nb4",
-   "date": "2026-08-16T04:59:43+00:00",
-   "summary": "Introduction TextNow is a communication service that allows users to connect with others through...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Support Call Audio in 2026: Choosing Batch Transcription APIs by Quality and Latency",
-   "url": "https://dev.to/noahhayes7250/support-call-audio-in-2026-choosing-batch-transcription-apis-by-quality-and-latency-3gip",
-   "date": "2026-08-16T04:07:45+00:00",
-   "summary": "Short answer: For a B2B SaaS support queue, choose an asynchronous batch transcription API with...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Ran REST, gRPC, and GraphQL in Production — Here's What I'd Pick Again",
-   "url": "https://dev.to/sirmax/i-ran-rest-grpc-and-graphql-in-production-heres-what-id-pick-again-1edg",
-   "date": "2026-08-16T02:06:34+00:00",
-   "summary": "Running REST, gRPC, and GraphQL side by side in production: the tradeoffs, the debugging pain, the caching problem, and what I'd pick again.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Paywall Any API Endpoint With Two Prices: Sats or Compute",
-   "url": "https://dev.to/zekebuilds/paywall-any-api-endpoint-with-two-prices-sats-or-compute-1jdh",
-   "date": "2026-08-16T02:02:59+00:00",
-   "summary": "Put a per-call price on any HTTP endpoint. Callers pay in Lightning sats or in proof-of-work compute. No accounts, no API keys, no billing dashboard. Real curl examples against a live server.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Getting 429 Too Many Requests? Fix the Client Before You Ask for a Higher Quota",
-   "url": "https://dev.to/libme/getting-429-too-many-requests-fix-the-client-before-you-ask-for-a-higher-quota-7c1",
-   "date": "2026-08-16T00:25:01+00:00",
-   "summary": "Why 429s keep coming back after you add retries, and how to build a client-side limiter that honors Retry-After.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why AI API Costs Are Harder to Estimate Than Price Per Million Tokens",
-   "url": "https://dev.to/silver_stone_19/why-ai-api-costs-are-harder-to-estimate-than-price-per-million-tokens-12hd",
-   "date": "2026-08-15T23:51:20+00:00",
-   "summary": "A single AI API request can cost less than a cent and still turn into a four-figure monthly...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Everything You Need for API Automation (A Complete Blueprint)",
-   "url": "https://dev.to/shefali_qa/everything-you-need-for-api-automation-a-complete-blueprint-44fn",
-   "date": "2026-08-15T21:44:51+00:00",
-   "summary": "Setting up an API automation framework requires aligning business goals, developer specifications,...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Test the second access path before you call a metric unreadable",
-   "url": "https://dev.to/jacksonxly/test-the-second-access-path-before-you-call-a-metric-unreadable-4m2j",
-   "date": "2026-08-15T19:38:19+00:00",
-   "summary": "I keep a list of surfaces whose numbers I could not read, with a short reason written next to each...",
-   "points": 1,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Daily Competitor SEO & Tech-Stack Monitor with n8n and a Single API Call",
-   "url": "https://dev.to/josejux/building-a-daily-competitor-seo-tech-stack-monitor-with-n8n-and-a-single-api-call-h8n",
-   "date": "2026-08-15T18:08:17+00:00",
-   "summary": "Manually checking a handful of competitor sites every week for SEO regressions or a tech-stack change...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Safely Fetch Metadata from User-Submitted URLs (Without Getting Hit by SSRF or DNS Rebinding)",
-   "url": "https://dev.to/josejux/how-to-safely-fetch-metadata-from-user-submitted-urls-without-getting-hit-by-ssrf-or-dns-rebinding-1nfo",
-   "date": "2026-08-15T17:53:33+00:00",
-   "summary": "If your app lets a user paste in a URL — a link preview, a \"import from website\" button, an AI agent...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Keyword search is the wrong tool for monitoring anything",
-   "url": "https://dev.to/tbalcewicz/keyword-search-is-the-wrong-tool-for-monitoring-anything-1eaa",
-   "date": "2026-08-15T17:04:17+00:00",
-   "summary": "There is a specific bug that shows up in almost every monitoring system I have seen, and it never...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building RupeeGPT: A Multilingual Voice AI Financial Assistant for Bharat",
-   "url": "https://dev.to/mayank_sharma_814005f2650/building-rupeegpt-a-multilingual-voice-ai-financial-assistant-for-bharat-f78",
-   "date": "2026-08-15T16:51:27+00:00",
-   "summary": "How I Built RupeeGPT: A Voice-First AI Financial Assistant for India in 10...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "You can tell which ATS a company uses by looking at its careers URL",
-   "url": "https://dev.to/udaninn/you-can-tell-which-ats-a-company-uses-by-looking-at-its-careers-url-3i5g",
-   "date": "2026-08-15T14:27:49+00:00",
-   "summary": "Every job-data project starts with the same question: this company has a careers page, but what is...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "# The Internet Is Slowly Becoming an API",
-   "url": "https://dev.to/yathartsalil/-the-internet-is-slowly-becoming-an-api-2627",
-   "date": "2026-08-15T13:19:09+00:00",
-   "summary": "For most of its history, the internet was designed for humans.  We open a browser.  We see a...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "What do you know about GraphQL ?",
    "url": "https://medium.com/@kariim.baggarii/what-do-you-know-about-graphql-cb84b3e2ce36?source=rss------graphql-5",
    "date": "2026-08-15T09:27:26+00:00",
@@ -350,17 +361,6 @@
    "tech": "graphql",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Integrating with Poland's KSeF: five things that aren't in the docs",
-   "url": "https://dev.to/stackedboost/integrating-with-polands-ksef-five-things-that-arent-in-the-docs-4mff",
-   "date": "2026-08-15T08:39:33+00:00",
-   "summary": "Poland's e-invoicing system is mandatory now. Five things I got wrong shipping a production integration against it, including one that cost three weeks and turned out to be a bad row in a government database.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -474,6 +474,26 @@
    "lang": "en"
   },
   {
+   "title": "How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1MEJfam5zV2pDQXNLMEJBajdUNmIyNmdNM1FOX2F1YlhTZ2Q5RVFvOURvVVEwbFRLSFhyS0ozQUNSMmNLY2UyNjllQ0VDb082WTF6d2lB?oc=5",
+   "date": "2025-08-25T13:00:12+00:00",
+   "summary": "How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security) YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Migrate REST API to GraphQL API with Java Spring Boot",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uUlcxMmVCVE5WTE85bXdPT1pCTnktZ0Ryam5XY2Z6enRfVm1SZTZGaWswZ2dIRXd2dFRlX2xXajVqSThaeUNlaENzTWJDV1E2RkE0bg?oc=5",
+   "date": "2025-08-07T07:00:00+00:00",
+   "summary": "Migrate REST API to GraphQL API with Java Spring Boot YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Java Spring Boot + GraphQL Crash Course: Modern API Development in Java",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UVDl1ZWowREx5QnI2bVhXVUNmT09DSUtjdDFhd01CV0dDLU43dTJ5Um80MldMaktlT2loc2hRT0V5Vm9IMU9uelV5cWdyYjBnRktDM0Rn?oc=5",
    "date": "2025-08-06T13:26:30+00:00",
@@ -498,6 +518,26 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBWENNZ21HY3Nham1vSjZ0LWswblY5MkZJbGh4bVc5Ti04X2JUODVYVHBqbVdSWjJuWDZvRTN2UERRTk9IQldYVnV6X2NLRDhKdmxzbGN3?oc=5",
    "date": "2025-07-13T18:30:19+00:00",
    "summary": "Spring Boot with GraphQL Integration| Build Smart APIs using GraphQL YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "GraphQL server setup with Apollo | Step-by-Step Beginner Guide | ep2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OVDNHcG9nLWc1Tmk2UWkwTGh4M05fV1gtcGJPWmpibGkwZV9zWkVhcldUdE42amx0MXk5bVlrdEZDU0FSTkJiR1JfV3YzaEVCbUNXSUxn?oc=5",
+   "date": "2025-06-30T15:30:33+00:00",
+   "summary": "GraphQL server setup with Apollo | Step-by-Step Beginner Guide | ep2 YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "GraphQL Explained SIMPLY for Beginners! | GraphQl vs REST explained",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZUttSUJEaHFKcFQxYjhkZjdHSXlwZlpwUzd2RzFUZEtqLXpOSy1OSkRMXzFQQVB0cGJxXzlWMkY3d2l2dnpIWDlrSVhiaUdJQjlvT1RB?oc=5",
+   "date": "2025-06-29T15:30:22+00:00",
+   "summary": "GraphQL Explained SIMPLY for Beginners! | GraphQl vs REST explained YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -534,6 +574,26 @@
    "lang": "en"
   },
   {
+   "title": "Supabase + GraphQL: The Ultimate Backend Combo That’s Powerful and Easy to Use (Full Tutorial)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzcGRBVFExNGkxNGgxdl9qelZHRkFQVUhsdTJDYzU3V1BYVlhNVHF0X3B0b0N6anQ1UnVnc01WNTZWX1gyd0hSbHBWY0ExWUdoTmFvSUVB?oc=5",
+   "date": "2025-04-13T18:07:03+00:00",
+   "summary": "Supabase + GraphQL: The Ultimate Backend Combo That’s Powerful and Easy to Use (Full Tutorial) YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "GraphQL Meets SQL: Modern Data Access for SQL Developers in Microsoft Fabric",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FZ3dOX3J3cG0wdWQ4Um9qMWJkbEtsUFZtbE1kaFF4azNIanEtZzM4anlKRFNHMVNLU3RWNm5UUzVlaHoxdkFBMm9EanpSX1VpS0ZLUWx3?oc=5",
+   "date": "2025-03-11T14:00:29+00:00",
+   "summary": "GraphQL Meets SQL: Modern Data Access for SQL Developers in Microsoft Fabric YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Kotlin Apollo Client 4 GraphQL Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nNERiWkJPV3Z4TnoyQmE5MllSNkdabG5IZFYwUzFJMTdrYkE3ZnBxdjNlR3FkME9rTk03eTUzM3FEV0duUG1SZkxqUG5GYUZXRUxkcFdB?oc=5",
    "date": "2025-02-02T16:00:06+00:00",
@@ -558,6 +618,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSFVWcWxaZDE3Q2Flb2pWWmhjVlRUa0RlMVFCNGl6bHJScVREeWtncDZvNWdnc2kyVnJaZ3lJazZQNTdHVlMzbG1kRzNRVEk4T3dDakpn?oc=5",
    "date": "2025-01-23T13:33:02+00:00",
    "summary": "Supercharge Your Spring GraphQL APIs: Advanced Performance Tips (2025) YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "🔒 GraphQL Authentication & Role-Based Authorization in NestJS 🚀",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hZ2w5NGhhc0JYeTFRSlh5SjNvRE5lLUIzSE0wSmNVbjBYT2tnWTg1cUtSZzFqUzF5UUd6dHZYVUZRQTVGaHUybGZFWUF1NklpMkFsV3BR?oc=5",
+   "date": "2025-01-06T11:01:48+00:00",
+   "summary": "🔒 GraphQL Authentication & Role-Based Authorization in NestJS 🚀 YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -604,10 +674,30 @@
    "lang": "en"
   },
   {
+   "title": "Build an Entire App with a Single API: GraphQL Python Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FRS05Y1oyaXJ4eGFGXzJBc3ZVdXJOV0VDVE5raHdJRW1Gdlh4ZWVzSldDRU1sU1pWVEZneVBtUGdMYXpNRWNRQWRrb09uei04LTVTU1h3?oc=5",
+   "date": "2024-09-26T13:15:09+00:00",
+   "summary": "Build an Entire App with a Single API: GraphQL Python Tutorial YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "GraphQL with Django: Installation, Integration and querying",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ra195QVFrTnRiVEdiOXc0V0ljQzJHVmQxNk5zQmpISU44UzljOEhmSVVhV0owNlRhcDZNSDl4bkIxSVV3STdZQVhndDZTRlhxYW9sQUJ3?oc=5",
    "date": "2024-09-25T01:00:00+00:00",
    "summary": "GraphQL with Django: Installation, Integration and querying YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "GraphQL API with NodeJS, Apollo Server & PostgreSQL - Full Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CNklpbWM1NnljMlI5NVlsb2ZMdWRBSl9mN0FZUW13SE5ZM3F6dm9qWV9oRHNSc0lhTE1TM2p4cjJoWEU3cTNsOWNNUG9hbDlkRDJkU0RB?oc=5",
+   "date": "2024-09-06T20:36:48+00:00",
+   "summary": "GraphQL API with NodeJS, Apollo Server & PostgreSQL - Full Tutorial YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -622,6 +712,26 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Building GraphQL APIs with AWS AppSync | AWS CDK | AWS Amplify | Zero to Hero Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdDN4R0ZqcEluRFhjenhlc29nancwNk9fd19VaEh1VC1mZWNScWdRQVZ0aTFKZzJWd200VlZEZmFxNjNlQUN6aHVBUGZHUzMzNV8yMzhR?oc=5",
+   "date": "2024-08-30T10:19:32+00:00",
+   "summary": "Building GraphQL APIs with AWS AppSync | AWS CDK | AWS Amplify | Zero to Hero Tutorial for Beginners YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn GraphQL In 22 Minutes (crash course) #graphql #nodejs",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wTTREQjJacVVKaVFpSlRmR0JHQW9KYzgyR29ZSU1fV0lPRDdEczJtNnBKVFVTVVVPWkdlUE1FMHBzQmRSX0Z5dy00NDRnRzZKbjBqQWRR?oc=5",
+   "date": "2024-08-27T10:00:32+00:00",
+   "summary": "Learn GraphQL In 22 Minutes (crash course) #graphql #nodejs YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "14 - كورس Express GraphQL Sequelize كامل شرح apollo client in react app to connect to backend",
@@ -704,6 +814,16 @@
    "lang": "en"
   },
   {
+   "title": "Best Video on GraphQL",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nbkluTTJKWHQtQUdtempaVDJ5MFNhRFI4TndkV2YwUzk5RnFoVkpmZGdaMlFSUTlfc0t2RjFKTTZQbGl6Z0owZnR5ci03eGUwcXdQLVl3?oc=5",
+   "date": "2024-05-25T11:50:03+00:00",
+   "summary": "Best Video on GraphQL YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "10 - كورس Express GraphQL Sequelize كامل مع React.js شرح Google OAuth",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQT01pa3dYMGx0Y2lCU0xPam05dnRBbHF2OV8xQlJ5UW1yc2MwOVJFTzYtQnpkTlowWi0xWEFhaFRJM1hLSFNYd243T1JSYU43Z1VraS1n?oc=5",
    "date": "2024-05-19T07:00:07+00:00",
@@ -718,6 +838,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hWWlDR2gxeHd1M2dSbWhzV1lBSXJCMkJ6YjVMWFVndWpySDJnemJ1RkVLUG1DREdYZzVsZUFacVpRd0QtVU1GNjhabkl5RkhNRHZ2X1pR?oc=5",
    "date": "2024-03-26T11:25:23+00:00",
    "summary": "🔥 Master building apis with GraphQL and spring boot | Crash Course | Hindi YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How to Use the Shopify API and Make GraphQL Requests",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iXzNocE10RW1oZ3VtVXl6X3d0d3R5MThVOHBycWtPSFR1bzRGM3BROENZbzdYb3pMNFBjQlFqLVVJckJaRFU0UW0tY2pXa0VpcS1UUG93?oc=5",
+   "date": "2024-03-25T12:45:03+00:00",
+   "summary": "How to Use the Shopify API and Make GraphQL Requests YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -834,10 +964,50 @@
    "lang": "ar"
   },
   {
+   "title": "Connecting to GraphQL: A Step-by-Step Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zMi1HcWd5MXhyUTloLThzREhTM3ZpNzAtUEp0c01uX1V1R2E1VVJxUjBOcVBTUVVMMGo5amVNcHU2alExY25SdHhNNmtSbC1VTEhrMnBB?oc=5",
+   "date": "2023-10-05T03:00:11+00:00",
+   "summary": "Connecting to GraphQL: A Step-by-Step Tutorial for Beginners YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Your First GraphQL API: A Spring Boot Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TQ2hfUjJtVkxFcXRqcTNTVlZ3Z2w3U0IwSENoTTRLMndqakpyc25HVFc1UXZWZFQ1Q3FDZDlxeFpKRmlnamJPN2ZfQTdxLXRoeEp1RHF3?oc=5",
+   "date": "2023-10-01T12:39:36+00:00",
+   "summary": "Your First GraphQL API: A Spring Boot Tutorial YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Training and Using Generative AI Models with GraphQL - Idit Levine, Solo.io",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mRm96MjNFY25vbGtpdlJJaUl1bnFUeEg4Si01SlQ3N2hSdmEzclk5Y1REUzdKRGY0bGRSejBqazFuTzhtWXFJVlRUdlVQN3EwSWJjM2p3?oc=5",
+   "date": "2023-09-21T19:47:38+00:00",
+   "summary": "Training and Using Generative AI Models with GraphQL - Idit Levine, Solo.io YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "GraphQL Course for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ma1A1a185ZVU4MWNKeHk3a01COEFxU20xRUFvVGdHMkZYWUV6dUJpLVFzRTRpczZ2TnoyZmdiLTQ2M2hHSFdGYjE4bHQzeEM4UTVzVlF3?oc=5",
    "date": "2023-09-01T13:39:37+00:00",
    "summary": "GraphQL Course for Beginners YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Testing and Developing GraphQL APIs | Postman Intergalactic",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YV0ZtVEZwemlsVVNIclhpWlVVRTBJSGJ2aVlMV2RtS0k4RnEwOUlkcUFqM0ozMXFNVzRaZU9hRXR1aHZRbHZZakloM0hWYVdoSjFHU1hR?oc=5",
+   "date": "2023-08-25T18:53:06+00:00",
+   "summary": "Testing and Developing GraphQL APIs | Postman Intergalactic YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1044,200 +1214,30 @@
    "lang": "ar"
   },
   {
-   "title": "GraphQL with Quarkus Tutorial #java #graphql #programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOMGRSLW5zNmZWR0wxYmpqN043dFZXTC00VVQ3ZXhBMkZ2b1F0aU5HWGdwQ2dIZlVoZE9ETXRRY21fWXNLQzk3R1lpUGMzRWR2UjlVQWZ3?oc=5",
-   "date": "2022-11-14T08:30:11+00:00",
-   "summary": "GraphQL with Quarkus Tutorial #java #graphql #programming YouTube",
+   "title": "Shopify Admin API Tutorial | GraphQL & Rest Queries",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XYmpOdXZMSnU5TkYzTHR5YTBVRkdHdGk0VW5zdHVFMW13NGczRDk4Sjk1T2thekstTE5nZkhRaHhuNko5cnh0R0JZRm9ETE9UenJGUjZ3?oc=5",
+   "date": "2023-02-05T04:32:56+00:00",
+   "summary": "Shopify Admin API Tutorial | GraphQL & Rest Queries YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Nest.js GraphQL Integration Testing Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZ2xjd05udk9qczZZaDdRLXVNb3lQSUFxSFY5bWxJSVJYeDdrMjEydlp3T2s1T3ZTTUcxMHlsQnVkT2FELTZkRzNuZTg5ZVdvLU1nU3ln?oc=5",
-   "date": "2022-09-21T22:43:35+00:00",
-   "summary": "Nest.js GraphQL Integration Testing Tutorial YouTube",
+   "title": "How to build GraphQL API using NestJs framework",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4bWhOeHRzVHU4cURvQ2JxbDFGa2NTaFU1OTUtM1k1MGNwN2lDNEZWTmZLbktJa2xGSllMcVhodHZDdTVfdWpGZjNMWHQ5c2VnNWtFajhn?oc=5",
+   "date": "2022-12-07T15:15:00+00:00",
+   "summary": "How to build GraphQL API using NestJs framework YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Learn GraphQL and Strawberry for Python | Intro : Demo of official tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVDhFMWw2N1NIWEU3bzJ1TEZUakQ5dm4xZWwtZHFpTlNxQTRPMWNpQmU1TDZLbGJpd2RUQkVsc0RaRmJSSUFGTVVFZU80OENUVDZZZ3Jn?oc=5",
-   "date": "2022-08-22T12:00:00+00:00",
-   "summary": "Learn GraphQL and Strawberry for Python | Intro : Demo of official tutorial YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "FastAPI + GraphQL + Sqlalchemy Complete Tutorial | Strawberry | Docker | MySQL",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FaFR3dkxmV25aY0JYLXhSV3dSQVNVS3E2TG5qRG83S2hkNWMwLW1pVlVqN1c4OElWdWZvMFBURE5kQTk1T1EyZkp6ai1UbTg0blMyY1J3?oc=5",
-   "date": "2022-08-15T00:25:52+00:00",
-   "summary": "FastAPI + GraphQL + Sqlalchemy Complete Tutorial | Strawberry | Docker | MySQL YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "GraphQL + Python with Graphene Tutorial | CRUD Using python and GraphQL",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLSWdOZGpBWWxzQTUyQUlrNWI2RHRWc1BxZnppNDJ3NkdSWk9oX2N4eFVOSWVLV0RZUlpOSThfVFE0Y2xYTkhEb2NpRDBFdmJ4V3phSW13?oc=5",
-   "date": "2022-08-13T18:57:39+00:00",
-   "summary": "GraphQL + Python with Graphene Tutorial | CRUD Using python and GraphQL YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "GraphQL Crash Course With Full Stack MERN Project",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Hc0k0VkpTb2tsd2xaaTZtRnJ1MTNYUFpDdkxzVmhvb2V0ZmVZdnRIWkVqdUdBSlNvOG1JbEM5Zl9mdEZhaDl1YmNuQkFqem84cEpZdl93?oc=5",
-   "date": "2022-06-06T13:00:10+00:00",
-   "summary": "GraphQL Crash Course With Full Stack MERN Project YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "React Tutorial - Build A Blog With GraphQL in 60 minutes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcVVhWG1TQ2xBVEtraUZOazMyYW5TTk5lUTJraGJMMDRqNmJHeEZfT05KYkhLSVlDNEhsNmEyMlFEaVFpS2hwUEhTNXd5SjRuUWVoeWxn?oc=5",
-   "date": "2022-05-23T17:15:00+00:00",
-   "summary": "React Tutorial - Build A Blog With GraphQL in 60 minutes YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "GraphQL Spring Boot - How to get started with Spring for GraphQL",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93NkhBTnNFRi1mWVRtUzJRRkdTYjhXNWg0OFBlbV92UnFsVDRDM0ZWcmZnc3lQU0tJSEo0WTNyNFgzZzJ2NU54c2oxS2lVazJ6MjhRWExB?oc=5",
-   "date": "2022-05-18T18:04:29+00:00",
-   "summary": "GraphQL Spring Boot - How to get started with Spring for GraphQL YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn GraphQL in 7 Minutes For Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12MFZPNnJzd0tCNmhBcHFGQkt1SFhsQ1Y5RnRZUFlOVVY0a0p1Qzl0REtyNWJRTGVOaFhOellFOGxFVjJZNGJ4SHhvamNiQ242VXhQcTJn?oc=5",
-   "date": "2022-05-10T13:00:17+00:00",
-   "summary": "Learn GraphQL in 7 Minutes For Beginners YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "GraphQL & Apollo server full course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53YWJBbHlPVWc5aTk4bFhnalR2NHgzdTQ0cEMyeDVRZXNyNHJUV3dmTzFaX0hld29mblBJRVkzQ1p5X2JoNUR5YTd2NDB0QmxfNUNYTXhB?oc=5",
-   "date": "2021-12-29T05:00:21+00:00",
-   "summary": "GraphQL & Apollo server full course YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Apollo GraphQL with SwiftUI Crash Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MmxpNDUwMEIyZVd2dm5BZk9ELUJsZGN5OVdUTXRsTXpUamJuM2VodGtPcmx3N0VFMjU1ZTlMY2lZSTBLUWRyTFZZeWdIWlh3U3VaQ1lB?oc=5",
-   "date": "2021-11-26T15:38:19+00:00",
-   "summary": "Apollo GraphQL with SwiftUI Crash Course YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn GraphQL in 4 Hours - From Beginner to Expert",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BdndKRXR4MUFjajZ3Z0FqSWJPdk1wdHZrT0dBVzdNRnRZZ2ZkWGRybGdzZnI3S1I5eHpnSm5udlZDR296cXdIbmNYdGVfQ2hfQ1hSV093?oc=5",
-   "date": "2021-10-01T14:00:35+00:00",
-   "summary": "Learn GraphQL in 4 Hours - From Beginner to Expert YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Prisma Auto Generate GraphQL Inputs with Validation from class-validator | NestJS Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSUE0cEtOSUZ1WXRtYS1kRHR1QTZjT3dzSHd2dXp1ZHFWYXJUTS1UempHT2FxTmluaVpJNkRwbHpUdDFhR2RVb2lSbU1NYW8wQnhpSDRn?oc=5",
-   "date": "2021-09-25T20:47:49+00:00",
-   "summary": "Prisma Auto Generate GraphQL Inputs with Validation from class-validator | NestJS Tutorial YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "React With GraphQL (Apollo Client) Crash Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WY2QyczVZZFREQXFpZzFRZ0lHalRvd1gyanBZOFNsd240bEhFZy0yYjZackNWVGRQM3JVYWdoU0ZRSWNJNFJmcThPY0xPcE9hN2xGTklB?oc=5",
-   "date": "2021-09-25T10:51:28+00:00",
-   "summary": "React With GraphQL (Apollo Client) Crash Course YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "GraphQL with React Tutorial (Apollo Client): Build a Rick and Morty App | Crash Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRckdlSXlSMGg2M25PM0lvVHF5NVRKeXM0MDNORE9Nd205T0JJZFRESjdDWFVoTUJuZmlaTGdtOUJIbTRaU3pMTzVmTENqNUZhYVlWOGN3?oc=5",
-   "date": "2021-09-09T09:00:18+00:00",
-   "summary": "GraphQL with React Tutorial (Apollo Client): Build a Rick and Morty App | Crash Course YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "UseQuery Hook in Apollo Client | GraphQL Course For Beginners Ep. 6",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCb3Q5YnhIQm9QQk1DNEFwMko1dER0bUJ3ZTd0dEd5TEtzS0ZoX3BhNzNlbFBiRUlmQ2JsQS1neWdWSTRwa0phajVBdWM2ejhQZG5xNEJn?oc=5",
-   "date": "2021-09-08T14:00:22+00:00",
-   "summary": "UseQuery Hook in Apollo Client | GraphQL Course For Beginners Ep. 6 YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "What Is GraphQL? | GraphQL Course For Beginners Ep. 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sNmJraEtvOVNrN1VzVHp0UDVFa01UZE9lMVZPTWxFM2l0b2ZTejE3M1J6SlBYU1QwQmVZWDVVLXVrY29lYWZYTFh3SHVTNWJ4VW5WNjJn?oc=5",
-   "date": "2021-08-16T14:00:00+00:00",
-   "summary": "What Is GraphQL? | GraphQL Course For Beginners Ep. 1 YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to GraphQL for iOS Developers - Recorded at @VanXcoders Meetup",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11bTR6SkhEc0JDSnYzdHFlZUMxSlI0bW1laTJIaFhCeS1kZW9IY1YxV0NPY1g4bFYyYW9TQmg2UFJlVjgtdU93VmtvaEJQN3J0MjBvMDNn?oc=5",
-   "date": "2021-08-13T12:23:45+00:00",
-   "summary": "Introduction to GraphQL for iOS Developers - Recorded at @VanXcoders Meetup YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Strapi Crash Course (with React & GraphQL) #9 - Apollo Client Setup",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ud0Vjcm9DdTJtbzA2aUd4NF9qeDJEeEVMMGUzME9LaUlCWm16SG8xVFh3NTRhYWw2enAwbDRid3NoODA0cThZampwbzhNYWNXdHFBZkV3?oc=5",
-   "date": "2021-07-23T08:15:00+00:00",
-   "summary": "Strapi Crash Course (with React & GraphQL) #9 - Apollo Client Setup YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Strapi Crash Course (with React & GraphQL) #5 - Creating a React App",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aMFkyY242cEU4aUtxa09EeVpzaWRaNHU2Z014WlhIU003RFZILVB4UDU1d2d2VEVNZ1JnVFBtVjdQc1Fkbm1aaUdwUVdXa2p1a1c0Z2Vn?oc=5",
-   "date": "2021-07-21T08:15:00+00:00",
-   "summary": "Strapi Crash Course (with React & GraphQL) #5 - Creating a React App YouTube",
+   "title": "Postman Tutorial #6 - SOAP vs REST vs GraphQL | API Type Comparision",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pM2tfUzRfZmVOMzlpeThjR00wVW15ZG4xamhZX3cxQjJ3TVNweTM2eVlVNXBNTFBCTS1sR2pNSFZzRjByUlNiWnp6MWlzQlkzUi1SLW5R?oc=5",
+   "date": "2022-12-01T11:00:09+00:00",
+   "summary": "Postman Tutorial #6 - SOAP vs REST vs GraphQL | API Type Comparision YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",

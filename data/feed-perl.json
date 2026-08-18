@@ -1,14 +1,25 @@
 {
- "generated": "2026-08-17T05:25:24.209269+00:00",
+ "generated": "2026-08-18T05:02:20.191444+00:00",
  "tech": "perl",
- "count": 94,
+ "count": 95,
  "items": [
+  {
+   "title": "Perl 🐪 Weekly #786 - CPAN Day",
+   "url": "https://dev.to/szabgab/perl-weekly-786-cpan-day-373m",
+   "date": "2026-08-17T09:07:39+00:00",
+   "summary": "Originally published at Perl Weekly 786  Hi there,  Every year on August 16th, the Perl community...",
+   "points": 0,
+   "tech": "perl",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "25+ useful and commonly used Regular Expressions",
    "url": "https://dev.to/developaaah/25-useful-and-commonly-used-regular-expressions-10d",
    "date": "2026-08-14T23:19:42+00:00",
    "summary": "Regular Expressions (Regex) are expressions that define a search pattern. Regex can be implemented in...",
-   "points": 1,
+   "points": 2,
    "tech": "perl",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -258,6 +269,16 @@
    "tech": "perl",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Extract Substrings in Perl FAST | 3 Real File & String Parsing Examples 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGajZHamJCX0lURUdacG9zV2RHVElDekpCRlhoZnRRVGY3bnRQYjRHSG0wQk11UHN0ZnlSUTJyQXpreHlueGtNaTk4dWpwemtOUE5Qemt3?oc=5",
+   "date": "2026-05-10T13:45:03+00:00",
+   "summary": "Extract Substrings in Perl FAST | 3 Real File & String Parsing Examples 2026 YouTube",
+   "tech": "perl",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -555,6 +576,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yTWVYdi1xQ1h4V2drSkNkalVwd0NWU1NBaVp4U0pRQ19rWGJHYWZUS1VjekN1cG9YVkJQM3dmQU56X3FCTFpBeGtVaUtkNlVXZVM4NUhR?oc=5",
    "date": "2025-01-07T09:15:03+00:00",
    "summary": "How to Copy Array Elements to a Text File in Perl: Easy Tutorial! YouTube",
+   "tech": "perl",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Perl Project: Search Words On Webpage 2024",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2VlpvM21DeE5WYm0zaGZUSW8temh3NE93YnZtWnBmc0ZHYWoyRVpiM1VrbWpDLVRtU0RVSHNrT21EUEtQalJHVks4MXoxd1ZTbHYyT2hR?oc=5",
+   "date": "2024-12-03T05:30:06+00:00",
+   "summary": "Perl Project: Search Words On Webpage 2024 YouTube",
    "tech": "perl",
    "sourceId": "yt",
    "source": "YouTube",
@@ -901,6 +932,16 @@
    "lang": "en"
   },
   {
+   "title": "Perl - Hash of Hashes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMU0yX3JxQmtkV19FNUVWZ3hTT1A4cEJGb1BFRHlrUEVQbHdmSEZPWExTa1BjUEJQWjl6aVVJUFZITk1xbmJ4TnJweERkMGtvMm1oNnZR?oc=5",
+   "date": "2018-07-12T07:27:59+00:00",
+   "summary": "Perl - Hash of Hashes YouTube",
+   "tech": "perl",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Perl - Regular Expression",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uOUhsTGdLZEc4S1dOU1BEbWw5UkpWMjJ4NXMzdWFOdnAtbFNXdkRMNVBscjVRdWNrSTE1dHF1cGZSVExHLTgwT1Foa1BVTkd5c1AtYTVB?oc=5",
    "date": "2018-07-12T07:27:43+00:00",
@@ -925,36 +966,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jTVhOQWJBMXY5bWx2M3R1UjNjLXljQUo1Y1dHNHNQRDFLZG5pZ21TSDBuamtTcjBIZDRSZ1lYNEdLeWlDVDFJcmxYSDVRSlJVUDJwZUV3?oc=5",
    "date": "2017-07-27T05:17:19+00:00",
    "summary": "PERL Tutorial - 1 | PERL Tutorial for Beginners - 1 | Perl Scripting Language Tutorial | DevOps YouTube",
-   "tech": "perl",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Creating and Executing Perl Scripts",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlUktkdnZia214UTVhVVdVRU5ha3d3UHNFaE5uc0haRDVoOHFFQm10TzNoLXRXOGczeWVBX1RqckhXbVRyX3l3M1VOSUJMbEFyZGJpVm1R?oc=5",
-   "date": "2017-05-04T14:45:27+00:00",
-   "summary": "Creating and Executing Perl Scripts YouTube",
-   "tech": "perl",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Perl Tutorial: Object Oriented Programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uMDRrb2p2c1JHV0k4Y1ZZLUQyUVc1MjVSNElzRmQ3S09FMGxHQ2VkTk92LU9RWmlLTGo4bm5jQTRMY291bXlZNGFuZ2doVm9RcVJkRFFB?oc=5",
-   "date": "2016-06-13T21:16:11+00:00",
-   "summary": "Perl Tutorial: Object Oriented Programming YouTube",
-   "tech": "perl",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Tutorial: Introduction to Shell and Perl Scripting for Network Operators",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCTjdjc3lmQ1lUOHRwTzN0RjJhLTd6ZDJVTGl3bmlxWEdFcndDemdFWl9oZGVQeWVmZ0VWUE9pSzFQU0dPZFcwMlFXVWhmS3NadmNkNy1n?oc=5",
-   "date": "2016-05-17T21:18:46+00:00",
-   "summary": "Tutorial: Introduction to Shell and Perl Scripting for Network Operators YouTube",
    "tech": "perl",
    "sourceId": "yt",
    "source": "YouTube",

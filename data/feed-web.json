@@ -1,8 +1,363 @@
 {
- "generated": "2026-08-17T05:24:19.817314+00:00",
+ "generated": "2026-08-18T05:01:15.210738+00:00",
  "tech": "web",
  "count": 220,
  "items": [
+  {
+   "title": "Learning CSS",
+   "url": "https://medium.com/@kentakbaradhitya21/learning-css-da6d2f3b4606?source=rss------css-5",
+   "date": "2026-08-18T04:23:43+00:00",
+   "summary": "Pada minggu ke-4, saya mulai mempelajari CSS (Cascading Style Sheets). Saya belajar bahwa CSS digunakan untuk mengatur tampilan website&#x2026; Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Idempotency: The Secret to Preventing Double Payments and Network Glitches",
+   "url": "https://dev.to/saurav_tb_pandey/idempotency-the-secret-to-preventing-double-payments-and-network-glitches-1e8d",
+   "date": "2026-08-18T04:19:45+00:00",
+   "summary": "Idempotency is a property of an operation where executing it multiple times has the exact same effect...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Tag Is More Complicated Than You Think: It Can Overflow Itself",
+   "url": "https://er-raj-aryan.medium.com/your-img-tag-is-more-complicated-than-you-think-it-can-overflow-itself-464153ccbfc8?source=rss------css-5",
+   "date": "2026-08-18T04:17:46+00:00",
+   "summary": "A deep dive into object-fit, object-position, replaced elements, and a few surprisingly powerful CSS tricks Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
+   "date": "2026-08-18T04:08:34+00:00",
+   "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
+   "url": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
+   "date": "2026-08-18T04:07:53+00:00",
+   "summary": "In my previous post, I introduced Kudzu, a compiler-first framework that turns a statically...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Vibe-Coded a 100% Client-Side JSON-LD Schema Generator for Technical SEO",
+   "url": "https://dev.to/hoangvibecode/how-i-vibe-coded-a-100-client-side-json-ld-schema-generator-for-technical-seo-3m9l",
+   "date": "2026-08-18T03:53:20+00:00",
+   "summary": "Hey DEV community! 👋  As an SEO specialist, I generate JSON-LD structured data daily. Most existing...",
+   "points": 1,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
+   "url": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
+   "date": "2026-08-18T03:21:20+00:00",
+   "summary": "Sometimes you have GPS coordinates like:    40.7128, -74.0060        Enter fullscreen mode           ...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We Tested 4 Text-to-Speech Engines on 12,000 Live Healthcare Calls — Here's Which One Patients Actually Trust",
+   "url": "https://dev.to/autor_tech/we-tested-4-text-to-speech-engines-on-12000-live-healthcare-calls-heres-which-one-patients-5b88",
+   "date": "2026-08-18T03:14:32+00:00",
+   "summary": "Last quarter, we ran our production voice AI receptionist — Loquent — across four different TTS...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Git-Native API Workspace: A Practical Workflow for API Teams",
+   "url": "https://dev.to/luc_36689a31b94d68d29f9e9/git-native-api-workspace-a-practical-workflow-for-api-teams-5nn",
+   "date": "2026-08-18T03:03:52+00:00",
+   "summary": "Most development teams already use Git for application code, infrastructure, and CI/CD.  But API...",
+   "points": 5,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Inference Paradox: Why Agentic Workflows Are 4x More Expensive Than You Think",
+   "url": "https://dev.to/minh_phuongnguyen_b13201/the-inference-paradox-why-agentic-workflows-are-4x-more-expensive-than-you-think-58jo",
+   "date": "2026-08-18T02:25:32+00:00",
+   "summary": "The Inference Paradox: Why Agentic Workflows Are 4x More Expensive Than You Think   Over the...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Spent 30+ Hours Building \"The Boring SaaS Stack\" So I Never Have To Do It Again",
+   "url": "https://dev.to/azhadsuhaimi/i-spent-30-hours-building-the-boring-saas-stack-so-i-never-have-to-do-it-again-pa9",
+   "date": "2026-08-18T02:13:05+00:00",
+   "summary": "We’ve all been there:   You get an exciting idea for a micro-SaaS on a Friday night. You fire up your...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What I Learned Wiring an AI Video Model Into a Content Pipeline",
+   "url": "https://dev.to/rucai_zhou_53a3a24af095b8/what-i-learned-wiring-an-ai-video-model-into-a-content-pipeline-54mp",
+   "date": "2026-08-18T02:12:53+00:00",
+   "summary": "We needed short product videos on a schedule our two-person team could not hit by hand. The tool that...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build 100% Accessible Forms: Labels, Focus Traps, and Error States",
+   "url": "https://dev.to/willsun/how-to-build-100-accessible-forms-labels-focus-traps-and-error-states-586d",
+   "date": "2026-08-18T02:02:48+00:00",
+   "summary": "Forms are the lifeblood of the web — they are where signups, checkouts, and customer interactions...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React scrollIntoView with useRef: Scroll to an Element (2026)",
+   "url": "https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4",
+   "date": "2026-08-18T01:54:50+00:00",
+   "summary": "You have a long form. The user hits Submit, validation fails on a field three screens down, and the...",
+   "points": 6,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "WCAG 2.2 & APCA Color Contrast: A Practical Guide for Modern UI Designers",
+   "url": "https://dev.to/willsun/wcag-22-apca-color-contrast-a-practical-guide-for-modern-ui-designers-82a",
+   "date": "2026-08-18T01:33:46+00:00",
+   "summary": "Color contrast is the foundation of digital readability. Whether users have low vision, color...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "An ambiguity gate for AI coding agents: measure the request before writing code",
+   "url": "https://dev.to/q00/an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code-4n75",
+   "date": "2026-08-18T01:27:41+00:00",
+   "summary": "Every AI coding agent I have used will happily start writing code from a one-line request. \"Build a...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Bypassed Reddit's Unauthenticated RSS Rate Limits (Without an API Key)",
+   "url": "https://dev.to/erystelathevale/how-i-bypassed-reddits-unauthenticated-rss-rate-limits-without-an-api-key-3hkc",
+   "date": "2026-08-17T22:37:02+00:00",
+   "summary": "Like many developers building small personal tools in 2026, I ran into a wall when trying to pull RSS...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Master price tags",
+   "url": "https://dev.to/micaavigliano/master-price-tags-167d",
+   "date": "2026-08-17T20:02:48+00:00",
+   "summary": "Understanding when to use &lt;ins&gt;, &lt;del&gt; and &lt;s&gt; HTML tags      Comparative...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "St-core.fscss Multi-Line Chart Pure CSS",
+   "url": "https://dev.to/fscss/st-corefscss-multi-line-chart-pure-css-npa",
+   "date": "2026-08-17T17:01:49+00:00",
+   "summary": "st-core.fscss is a pure-CSS charting system that renders line charts with no SVG, no Canvas, and no...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Fancy Clipping with CSS",
+   "url": "https://levelup.gitconnected.com/fancy-clipping-with-css-d2a43f576a97?source=rss------css-5",
+   "date": "2026-08-17T15:20:33+00:00",
+   "summary": "I have been using clip-path for ages, especially for CSS Art, but I was today years old when I learned some of the features that are&#x2026; Continue reading on Level Up Coding »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why :has) finally belongs in production CSS",
+   "url": "https://medium.com/@alexdev82/why-has-finally-belongs-in-production-css-7e5473c797c5?source=rss------css-5",
+   "date": "2026-08-17T15:05:24+00:00",
+   "summary": "Why did we spend fifteen years writing JavaScript just to change the colour of a parent container when a checkbox inside it gets ticked? Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Resize an SVG Without Distorting It",
+   "url": "https://dev.to/usman_basheers/how-to-resize-an-svg-without-distorting-it-30cb",
+   "date": "2026-08-17T14:46:41+00:00",
+   "summary": "SVG resizing means changing width, height, and viewBox on the root element. The artwork inside does not change. Here is what each attribute actually controls and why it matters when viewBox is missing.",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Specificity",
+   "url": "https://medium.com/@dev.rodro/css-specificity-a3598d1a4df3?source=rss------css-5",
+   "date": "2026-08-17T14:25:54+00:00",
+   "summary": "Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Dark mode toggles: two states are enough",
+   "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+   "date": "2026-08-17T14:15:50+00:00",
+   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks . You should",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Can Finally Animate height: auto",
+   "url": "https://medium.com/@shailendrakawadkar/css-can-finally-animate-height-auto-049bdffb1358?source=rss------css-5",
+   "date": "2026-08-17T14:01:04+00:00",
+   "summary": "There is a CSS animation trick almost every frontend developer has seen. Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Learn how to build a disclosure component using the native HTML details tag",
+   "url": "https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j",
+   "date": "2026-08-17T13:08:06+00:00",
+   "summary": "Welcome to a new entry in my section dedicated to creating reusable and, above all, accessible...",
+   "points": 6,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Can Now Count Siblings on Its Own, No JavaScript Required",
+   "url": "https://dev.to/_artclick/css-can-now-count-siblings-on-its-own-no-javascript-required-59kk",
+   "date": "2026-08-17T10:43:07+00:00",
+   "summary": "There's a small category of problems that almost every frontend developer has solved with JavaScript...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Good Frontend Developers Still Matter in the Age of AI",
+   "url": "https://dev.to/_artclick/why-good-frontend-developers-still-matter-in-the-age-of-ai-51ca",
+   "date": "2026-08-17T09:46:21+00:00",
+   "summary": "Ask any AI coding assistant to build a button with Tailwind and it'll nail it in seconds: bg-blue-500...",
+   "points": 1,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Rendering Custom Fonts to a 2048px PNG with Canvas",
+   "url": "https://dev.to/hellokai/rendering-custom-fonts-to-a-2048px-png-with-canvas-2c03",
+   "date": "2026-08-17T09:35:16+00:00",
+   "summary": "A browser preview can look correct while the downloaded image is wrong.  The usual failure is timing:...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Fixed player verticle position",
+   "url": "https://dev.to/weirdcodesofficial/fixed-player-verticle-position-27h0",
+   "date": "2026-08-17T09:21:00+00:00",
+   "summary": "दिनांक: 17 अगस्त 2026 बिल्ड: v0.0.9 (patch) प्लेटफ़ॉर्म: itch.io · GitHub            📋 बदली गई फ़ाइल...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Day on a Plate: Hand-Drawn CSS Food Art",
+   "url": "https://dev.to/ps_h_06d0f0ebbbd80d0648b0/a-day-on-a-plate-hand-drawn-css-food-art-3m3b",
+   "date": "2026-08-17T07:33:22+00:00",
+   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Moved footer back to screen bottom.",
+   "url": "https://dev.to/weirdcodesofficial/moved-footer-back-to-screen-bottom-17h2",
+   "date": "2026-08-17T07:16:00+00:00",
+   "summary": "Devlog — Footer / HUD layout fix    Commit: c7cc832  Author: pj90 (weirdcodesofficial) Date:...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My CSS Revision Journey - 2",
+   "url": "https://medium.com/@sathathmiga/my-css-revision-journey-2-64294cd342d8?source=rss------css-5",
+   "date": "2026-08-17T05:59:53+00:00",
+   "summary": "As part of my CSS revision, today I revisited important CSS concepts Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "The CSS Box Model: The One Concept That Explains Almost Everything",
    "url": "https://medium.com/@ishwaryagopinathan/the-css-box-model-the-one-concept-that-explains-almost-everything-3368d1255eff?source=rss------css-5",
@@ -29,18 +384,7 @@
    "url": "https://dev.to/omnidev/building-fluentic-style-bringing-the-css-prop-to-solidjs-1i82",
    "date": "2026-08-17T04:15:29+00:00",
    "summary": "This is part of my Building Fluentic Style series, where I’m writing down the design decisions,...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-550",
-   "date": "2026-08-17T04:12:24+00:00",
-   "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
-   "points": 0,
+   "points": 1,
    "tech": "web",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -80,127 +424,6 @@
    "lang": "en"
   },
   {
-   "title": "React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)",
-   "url": "https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3",
-   "date": "2026-08-17T02:35:15+00:00",
-   "summary": "Here's a checkout flow that loses the customer at step three:    function Checkout() {   const [step,...",
-   "points": 5,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built a forum where rooms die when people stop talking",
-   "url": "https://dev.to/seongjinkang/i-built-a-forum-where-rooms-die-when-people-stop-talking-30mc",
-   "date": "2026-08-17T02:32:27+00:00",
-   "summary": "I got tired of two things about online communities.  The first is that they don't die well. A...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A support chatbot needs to be designed for what it won't answer, not just what it will",
-   "url": "https://dev.to/susumun/a-support-chatbot-needs-to-be-designed-for-what-it-wont-answer-not-just-what-it-will-3j3m",
-   "date": "2026-08-17T02:32:16+00:00",
-   "summary": "Background   The support chatbot on our landing page has a simple job: answer questions...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here's the stack.",
-   "url": "https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf",
-   "date": "2026-08-17T00:04:53+00:00",
-   "summary": "I live on the Taghazout coast in Morocco - a strip of Atlantic between Agadir and Imsouane that's...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Banx Walk Safe: same sidewalk, two heat loads",
-   "url": "https://dev.to/kenielzep97/banx-walk-safe-same-sidewalk-two-heat-loads-51ib",
-   "date": "2026-08-16T23:38:37+00:00",
-   "summary": "This is a submission for the DEV Weekend Challenge: Dog Days Edition.           What I Built   Same...",
-   "points": 6,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Glassmorphism Is Back — and This Tailwind Plugin Makes It Painless",
-   "url": "https://dev.to/3ni8ma/glassmorphism-is-back-and-this-tailwind-plugin-makes-it-painless-3hn8",
-   "date": "2026-08-16T22:59:13+00:00",
-   "summary": "The Problem   Frosted-glass UI is everywhere again — every dashboard, every AI chat sidebar,...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "PawPal is your New Dog's AI Sidekick 🐶⭐",
-   "url": "https://dev.to/ishikathakur7802/pawpal-is-your-new-dogs-ai-sidekick-3bc8",
-   "date": "2026-08-16T22:13:40+00:00",
-   "summary": "What I Built   Bringing a new dog home is exciting... and also confusing.  Why are they...",
-   "points": 2,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Sidewalk to Summit — build log",
-   "url": "https://dev.to/ohkpond/sidewalk-to-summit-build-log-4kp4",
-   "date": "2026-08-16T22:10:12+00:00",
-   "summary": "Catching up a build log I let go quiet for a few weeks: a property test finds a plan engine bug that's been undercounting since day one, CI lands and immediately flags four dependency holes, a friend hand-draws a mountai",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "📱 Touch Controls — Equal Spacing Fix | समान-अंतर लेआउट",
-   "url": "https://dev.to/weirdcodesofficial/touch-controls-equal-spacing-fix-smaan-antr-leaautt-32p7",
-   "date": "2026-08-16T20:49:00+00:00",
-   "summary": "📱 Touch Controls — Equal Spacing Fix | समान-अंतर लेआउट    Project: मोक्ष (MOKSHA) — Vedic...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
-   "url": "https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6",
-   "date": "2026-08-16T20:06:27+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Cooking with CSS: Coding 'One More Bite' — The Steaming Comfort Food Oracle",
-   "url": "https://dev.to/sandeep_chakravartty_219e/cooking-with-css-coding-one-more-bite-the-steaming-comfort-food-oracle-16o6",
-   "date": "2026-08-16T19:56:23+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art._  Inspiration When...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Frontend Weekly Digest #479 (10–16 August 2026)",
    "url": "https://frontender-ua.medium.com/frontend-weekly-digest-479-10-16-august-2026-fceb02d2158d?source=rss------css-5",
    "date": "2026-08-16T19:30:26+00:00",
@@ -208,149 +431,6 @@
    "tech": "web",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Build an Offline Windows App with HTML, CSS and JavaScript",
-   "url": "https://dev.to/emmawilson1234/how-to-build-an-offline-windows-app-with-html-css-and-javascript-dh0",
-   "date": "2026-08-16T18:32:53+00:00",
-   "summary": "If you already have an HTML, CSS, and JavaScript project, you can turn it into a Windows desktop...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "CSS Art: Comfort Food — A Steaming Bowl of Ramen",
-   "url": "https://dev.to/samiya_dev_5185e3c9022ffb/css-art-comfort-food-a-steaming-bowl-of-ramen-3bjp",
-   "date": "2026-08-16T16:47:38+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🍜 Comfort Food CSS Art — A Warm Bowl of Noodles Made with HTML & CSS",
-   "url": "https://dev.to/vaishnavi_sahu_33bd58e270/comfort-food-css-art-a-warm-bowl-of-noodles-made-with-html-css-5hc4",
-   "date": "2026-08-16T16:04:52+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.  This is a submission...",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HTML and CSS - Questions",
-   "url": "https://dev.to/mahalakshmi_c_48a15c7871b/html-and-css-questions-1jge",
-   "date": "2026-08-16T15:45:48+00:00",
-   "summary": "1. What is HTML?  HTML stands for HyperText Markup Language. It is a markup language used to create...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Breed Whisperer — know any dog with Google AI (and pure CSS)",
-   "url": "https://dev.to/migbolivar/breed-whisperer-know-any-dog-with-google-ai-and-pure-css-45m2",
-   "date": "2026-08-16T15:31:14+00:00",
-   "summary": "Breed Whisperer — know any dog with Google AI (and pure CSS)   A dog breed identifier for...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The last mile of AI slides: a local-first HTML editing workflow",
-   "url": "https://dev.to/mrlianggithub/the-last-mile-of-ai-slides-a-local-first-html-editing-workflow-1p0d",
-   "date": "2026-08-16T15:16:26+00:00",
-   "summary": "AI can produce a surprisingly good presentation draft in one prompt. The difficult part usually...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Dabba — the box somebody packed for you before you were awake",
-   "url": "https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7",
-   "date": "2026-08-16T12:21:52+00:00",
-   "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Schema.org Markup Every Client Site Should Ship With",
-   "url": "https://dev.to/richardlemon/the-schemaorg-markup-every-client-site-should-ship-with-4fl3",
-   "date": "2026-08-16T12:13:46+00:00",
-   "summary": "My default structured data bundle  I got tired of treating Schema.org like a research project.  You...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "CSS Container Queries In Production: Where They Shine And Where Media Queries Still Win",
-   "url": "https://dev.to/richardlemon/css-container-queries-in-production-where-they-shine-and-where-media-queries-still-win-448d",
-   "date": "2026-08-16T12:12:27+00:00",
-   "summary": "Refactoring a real project to container queries   I stopped reading hot takes about container queries...",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🍲 Just built Cozy Hearth for the Comfort Food Challenge! \r\nPure CSS Art ramen, hot cocoa & grilled cheese with live \r\ninteractive controls — no libraries, no frameworks, just \r\nHTML + CSS + vanilla JS. Come cook with me! 🍜☕🥪",
-   "url": "https://dev.to/swatiicfai/just-built-cozy-hearth-for-the-comfort-food-challenge-pure-css-art-ramen-hot-cocoa-grilled-2h79",
-   "date": "2026-08-16T11:54:05+00:00",
-   "summary": "Cozy Hearth: An Interactive Comfort Food Sanctuary &amp; CSS Art Kitchen 🍲            Frontend...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I audited every post on my 200-post blog. Here's what was quietly broken.",
-   "url": "https://dev.to/javapark/i-audited-every-post-on-my-200-post-blog-heres-what-was-quietly-broken-4j7",
-   "date": "2026-08-16T11:43:31+00:00",
-   "summary": "I've been running a technical blog for years. Posts accumulate — but so does everything around them:...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
-   "url": "https://dev.to/wiseai/sushi-rs-svg-sushi-components-for-rust-frontends-2n1o",
-   "date": "2026-08-16T08:57:35+00:00",
-   "summary": "Sup Guys 👋!  I am back! It has been a long time no see!   So I came across the Frontend Challenge:...",
-   "points": 6,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a 100% In-Browser Image Compressor & Converter with Zero Server Uploads",
-   "url": "https://dev.to/sanjeev_tripathisanjeev_/building-a-100-in-browser-image-compressor-converter-with-zero-server-uploads-21i0",
-   "date": "2026-08-16T07:54:06+00:00",
-   "summary": "Most online image compressors require uploading photos to remote cloud servers. For private identity...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -414,26 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "I Fixed a Slow Page With One CSS Property. SEO Noticed Too.",
-   "url": "https://medium.com/@TusharKanjariya/i-fixed-a-slow-page-with-one-css-property-seo-noticed-too-e5ff9ab6540e?source=rss------css-5",
-   "date": "2026-08-14T18:18:26+00:00",
-   "summary": "The browser was doing layout work for cards nobody will ever scroll to. Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How CSS clip path works, without the coordinate guesswork",
-   "url": "https://medium.com/@mytoolstudio/how-css-clip-path-works-without-the-coordinate-guesswork-de369d229535?source=rss------css-5",
-   "date": "2026-08-14T14:31:01+00:00",
-   "summary": "Every developer who has tried to cut a diagonal edge into a hero image knows the small panic that follows. You type polygon into the clip&#x2026; Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
    "url": "https://css-tricks.com/whats-important-17/",
    "date": "2026-08-14T14:01:51+00:00",
@@ -451,46 +511,6 @@
    "tech": "web",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "HTML Elements Explained: The Building Blocks of a Web Page",
-   "url": "https://medium.com/@amolpawar.me/html-elements-explained-the-building-blocks-of-a-web-page-5fe52e8e768b?source=rss------css-5",
-   "date": "2026-08-14T11:53:53+00:00",
-   "summary": "Understand HTML elements, tags, attributes, content, and nesting with simple examples. Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Does a Pre-Built Theme Really Save Time When Converting It to React?",
-   "url": "https://medium.com/@gandharvkalia1/does-a-pre-built-theme-really-save-time-when-converting-it-to-react-ad4a01b1fbbc?source=rss------css-5",
-   "date": "2026-08-14T11:37:11+00:00",
-   "summary": "This week, I worked on an interesting frontend task: converting an existing e-commerce HTML/CSS/JavaScript theme into React while keeping&#x2026; Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "From Hi to Your Screen: What Happens Inside a Browser?",
-   "url": "https://paperinflames.medium.com/from-h1-hi-h1-to-your-screen-what-happens-inside-a-browser-e8ecad2756b6?source=rss------css-5",
-   "date": "2026-08-14T10:25:42+00:00",
-   "summary": "Creating a web page is pretty simple. Write a few HTML tags, add some styling, open it in a browser &#x2014; and there it is. Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Modern CSS Architecture with Cascade Layers, Container Queries and Design Tokens",
-   "url": "https://blog.stackademic.com/modern-css-architecture-with-cascade-layers-container-queries-and-design-tokens-2c2889229c77?source=rss------css-5",
-   "date": "2026-08-14T06:49:22+00:00",
-   "summary": "CSS has changed a lot in the last few years. For a long time, building a large frontend application meant dealing with the same problems&#x2026; Continue reading on Stackademic »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -1134,6 +1154,16 @@
    "lang": "en"
   },
   {
+   "title": "تعلم HTML من الصفر للإحتراف: مشروع بناء صفحة الهبوط - Landing page",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UNV9TUWFqM25CZjVGbDN4OHVZN1dvR0EyUDZzakQ1b0J3VmtyQXphX3lsOE9qZWFzM0dIVGFVRWk5ZWthOGlyc1Z3TW9hUlFDM3JZTmJR?oc=5",
+   "date": "2024-01-04T23:46:24+00:00",
+   "summary": "تعلم HTML من الصفر للإحتراف: مشروع بناء صفحة الهبوط - Landing page YouTube",
+   "tech": "web",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Border images in CSS: A key focus area for Interop 2023",
    "url": "https://developer.mozilla.org/en-US/blog/border-images-interop-2023/",
    "date": "2023-12-19T00:00:00+00:00",
@@ -1534,6 +1564,16 @@
    "lang": "ar"
   },
   {
+   "title": "بناء موقع شخصي كامل متجاوب html css website",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1paUJxNWNvVTB0NmRRZE1WcTNib0p4QlR4dlEtSF9oUVNGSkpUWmJKTDVMWnBZVVpkQ1MxLWFxNlh0Qm10NzlVRU10eFpqaWhscExzMk5n?oc=5",
+   "date": "2023-02-08T14:09:14+00:00",
+   "summary": "بناء موقع شخصي كامل متجاوب html css website YouTube",
+   "tech": "web",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تصميم وتطوير دردشة شات متعدد المستخدمين في فيديو واحد html css php sql",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ld2RKcHpoZ05TcFJqWU1VUFlicVFwQjNQSmp0cUlqOWswVzViemxtT2lYWHctX2ZGZlNLUGUtU0FNQ3pxNnJIQW1jc1VQaUhEZGdMRjNB?oc=5",
    "date": "2023-02-08T13:58:32+00:00",
@@ -1564,16 +1604,6 @@
    "lang": "en"
   },
   {
-   "title": "9 | HOW TO INSERT IMAGES INTO YOUR WEBSITE | 2023 | Learn HTML and CSS Full Course for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBETS1GNHZtNElFRGlOU2QzdWpDeXF3OTNJMlNsNFczQWgxNm13ZjlIa2FhYk9XVzJueW5jSkZOY25FanNSYldqSUNXLWtGM0l5c3c5Q3F3?oc=5",
-   "date": "2022-12-28T23:00:08+00:00",
-   "summary": "9 | HOW TO INSERT IMAGES INTO YOUR WEBSITE | 2023 | Learn HTML and CSS Full Course for Beginners YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "#21 restaurant website design | design html css template | تصميم موقع مطعم اونلاين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGJoc1N1aC01dUNVd2Z1Rnc2LUJCTGlOeUxwaUc4eVZmdUtOamh2VUd2UVpkM2ZCYXNsN1dzNkNkMGRiUjA0bC1ROURzbURXWUc2bmtB?oc=5",
    "date": "2022-12-13T17:22:30+00:00",
@@ -1582,16 +1612,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "1 | INTRODUCTION TO HTML & CSS | 2023 | Learn HTML and CSS Full Course for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Mnl6WXZ3T1hUdzBCTjZFbVItdXJDRERFbVpMR29JWEtHSUpoVTFtTjFGRUV6WHZzX0ZmdDlOVXZjSVZuaElHX0xqeC1CRXRXcmlFY1hB?oc=5",
-   "date": "2022-12-11T13:25:15+00:00",
-   "summary": "1 | INTRODUCTION TO HTML & CSS | 2023 | Learn HTML and CSS Full Course for Beginners YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "تصميم موقع ويب متكامل ومتوافق مع الشاشات. html css",
@@ -2024,6 +2044,26 @@
    "lang": "ar"
   },
   {
+   "title": "20 تنسيق الأزار في واجهات صفحات الويب buttons layout in css",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZkxxUWNPbXZOd2pNd01zUGMyQVJ5U0pqeHlzVDhiNHBVYlBjNE5lS3dZV1duT1FYYS11V0JCV3JlTTRBdUptVnA0QUNaX1NMTm10NV9n?oc=5",
+   "date": "2021-07-21T08:30:00+00:00",
+   "summary": "20 تنسيق الأزار في واجهات صفحات الويب buttons layout in css YouTube",
+   "tech": "web",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم html من الصفر بشكل سهل ومبسط (حصري شرح كامل في فيديو واحد ) | Learn Html5 full course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XN0dSdnhWSXdtM19VMDJudTdGYjRKN21pQThKT08xLTk2R01TR1pKNTl3bkRhNGRTZlhSU3pkYVVfMU1LVHpHNGdBN0FsYUN1cF9ad2l3?oc=5",
+   "date": "2021-07-08T07:25:27+00:00",
+   "summary": "تعلم html من الصفر بشكل سهل ومبسط (حصري شرح كامل في فيديو واحد ) | Learn Html5 full course YouTube",
+   "tech": "web",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "طريقة إظهار العناصر في صفحة الويب HTML 2",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51bnFIbVlqYnVoUmFnbUt6VE9FdG5PQ2VIRTB5bWFjNFE5TkpHVXpOMllqMllwWnFLekNMcE1uaFJVeFRhVXZaVVdDQnZNUFJjb2tFdnJn?oc=5",
    "date": "2021-07-05T18:17:01+00:00",
@@ -2048,6 +2088,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mLS1QWFFwSlpnYXRRQjV1TFFYLXFGa1pYUnFwTGtzMHU0a2IzMGNzNTd4Q1FYcW5WRGtXRExBRFF2OUh1M0xQcVZ5UWQyU0lBZ0tBSm9B?oc=5",
    "date": "2021-06-30T17:00:08+00:00",
    "summary": "القوائم الافقية في صفحة الويب HTML YouTube",
+   "tech": "web",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "القوائم في صفحة الويب باللغة HTML",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaUUpaVHo3MlFRa2dHVEJFdmM4U1B2Y04xR0J5UHBfUWdsVS1QN3BMN195bXl4QV9yU2hyeGpYd3FnNk5TWF8ySC1xZmxCam5JRUdmNFZR?oc=5",
+   "date": "2021-06-25T17:00:22+00:00",
+   "summary": "القوائم في صفحة الويب باللغة HTML YouTube",
    "tech": "web",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2178,56 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cW1pbDBJazFESDdBM0hCQlBBU004YmFhNmhuYWVVckI0TTh3c1BQWGFSTlR2bm1yMC1qODlkQzNfZ3FqejJ6YjhQTl9NdXdISFp5RzVB?oc=5",
    "date": "2020-10-18T18:03:31+00:00",
    "summary": "تعلم html5 خطوة بخطوة للاحتراف التعامل مع الصور image في لغة html باحترافية| الدرس الثالث عشر YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الفرق بين HTML و CSS بكل بساطه",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ocnctV3EtRi1CcXYxOUNMZGtKSkF4TDVkMVVUWmpfbG5STWJqU3lDQ3pWb1VvRzd0ZlFNYXZLN20wX2RvU3luRUNsRDVaSDZGUW4zbTRB?oc=5",
-   "date": "2020-10-18T15:24:39+00:00",
-   "summary": "الفرق بين HTML و CSS بكل بساطه YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم html في فيديو واحد فقط | كورس html كامل للمبتدئين",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SRU5zT0t2Q0dWbWNoUVI3WE1fa2Zxem1SWVpjeDRqVnFkRVlSWnRWN1htNThoaXZqNFV4aGNvYWV4Skw2cURwNlliNDcyYlczM3Fqald3?oc=5",
-   "date": "2020-10-10T15:39:00+00:00",
-   "summary": "تعلم html في فيديو واحد فقط | كورس html كامل للمبتدئين YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "16. العنصر Meta في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EQ2F0X08tOUFJOEZaa1pwZVczUHJpZlhqRm9tQXVwM2hoSlBVcEVjUlRRLUZXLVNZeVBHT2tzYzZLX3AxQWFxT0pRSFVyc2paWUdwc2NR?oc=5",
-   "date": "2020-10-06T13:36:29+00:00",
-   "summary": "16. العنصر Meta في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "15. العنصر Head في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cnVrVGI3eUtHOVhkSGtDRkQ3WDAybmxhenVXMXRNSDd6bHlhenFfTXRCTmxDRVhvbnZ5VTRONk53Qk5rWHRsaVhjUzVjVE8tSnppalN3?oc=5",
-   "date": "2020-10-05T19:27:44+00:00",
-   "summary": "15. العنصر Head في لغة HTML - دورة تصميم وبرمجة مواقع الويب الشاملة YouTube",
-   "tech": "web",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "رفع ونشر الموقع الخاص بنا على الانترنت بكل سهولة ومجانا html css webiste publish on net",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yX1A5WEgzb0RPQW9CUXR3U01YN3lNSkhnNFQ3eHZpOXBxVWxFVVJQeEF4N2hiNkZHSnlvWUpfc00xeFBscTJIUnpHT2xlMnBCTkFEUk9B?oc=5",
-   "date": "2020-09-28T16:29:06+00:00",
-   "summary": "رفع ونشر الموقع الخاص بنا على الانترنت بكل سهولة ومجانا html css webiste publish on net YouTube",
    "tech": "web",
    "sourceId": "ar-yt",
    "source": "YouTube",

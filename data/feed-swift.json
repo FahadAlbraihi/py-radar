@@ -1,14 +1,152 @@
 {
- "generated": "2026-08-17T05:22:37.228481+00:00",
+ "generated": "2026-08-18T04:59:30.499645+00:00",
  "tech": "swift",
- "count": 169,
+ "count": 177,
  "items": [
+  {
+   "title": "8 Xcode Settings You Should Change Right Now",
+   "url": "https://medium.com/@ios-interview/8-xcode-settings-you-should-change-right-now-66c7ae9ceeb8?source=rss------ios_app_development-5",
+   "date": "2026-08-18T03:26:01+00:00",
+   "summary": "If you&#x2019;re an iOS developer, you spend most of your day inside Xcode. Small configuration tweaks compound into real time saved. Here are&#x2026; Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "A header scan says 16/16. Here's what it can't see.",
+   "url": "https://dev.to/maclessdev/a-header-scan-says-1616-heres-what-it-cant-see-14ab",
+   "date": "2026-08-18T01:48:57+00:00",
+   "summary": "A few days after how I built and shipped an iOS app without a Mac went up here, a reader named Amit...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "get_intraday: a live within-day window for Apple Health, over MCP",
+   "url": "https://dev.to/philipad/getintraday-a-live-within-day-window-for-apple-health-over-mcp-5585",
+   "date": "2026-08-18T00:35:01+00:00",
+   "summary": "Most health MCP servers stop at yesterday. The live within-day window was the missing...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Breaking Up Big SwiftUI Views the Right Way",
+   "url": "https://dev.to/emadbeyrami/breaking-up-big-swiftui-views-the-right-way-3m42",
+   "date": "2026-08-17T23:28:32+00:00",
+   "summary": "Why computed properties help readability, what @ViewBuilder actually does, and when a...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Vibe coding #57 — 從 Xcode 一鍵複製生成淺色或深色模式的程式區塊",
+   "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/vibe-coding-57-%E5%BE%9E-xcode-%E4%B8%80%E9%8D%B5%E8%A4%87%E8%A3%BD%E7%94%9F%E6%88%90%E6%B7%BA%E8%89%B2%E6%88%96%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%A8%8B%E5%BC%8F%E5%8D%80%E5%A1%8A-1928962263a0?source=rss------ios_app_development-5",
+   "date": "2026-08-17T16:40:32+00:00",
+   "summary": "&#x5F7C;&#x5F97;&#x6F58;&#x5E73;&#x5E38;&#x958B;&#x767C;&#x7A0B;&#x5F0F;&#x6642;&#xFF0C;&#x559C;&#x6B61;&#x642D;&#x914D;&#x6DF1;&#x8272;&#x80CC;&#x666F;&#xFF0C;&#x7136;&#x800C;&#x88FD;&#x4F5C;&#x6559;&#x5B78;&#x6295;&#x5F71;&#x7247;&#x6642;",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "一鍵 copy Apple 文件的 Swift 程式",
+   "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E4%B8%80%E9%8D%B5-copy-apple-%E6%96%87%E4%BB%B6%E7%9A%84-swift-%E7%A8%8B%E5%BC%8F-e2eb3b89c5b8?source=rss------ios_app_development-5",
+   "date": "2026-08-17T15:44:30+00:00",
+   "summary": "&#x5F7C;&#x5F97;&#x6F58;&#x5E38;&#x5E38;&#x5728;&#x7814;&#x8B80; Apple &#x6587;&#x4EF6;&#x7DB2;&#x9801;&#x6642;&#x8907;&#x88FD; Swift &#x7A0B;&#x5F0F;&#xFF0C;&#x4E0D;&#x904E;&#x7A0B;&#x5F0F;&#x5340;&#x584A;&#x4E26;&#x6C92;&#x6709; copy &#x6",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The calendar-gap iPhone app blocker rule to stop doomscrolling",
+   "url": "https://dev.to/godnick/the-calendar-gap-iphone-app-blocker-rule-to-stop-doomscrolling-4pni",
+   "date": "2026-08-17T15:23:18+00:00",
+   "summary": "The most dangerous phone window is not always the long break.  It is the weird 7 to 12 minute gap...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "One codebase, one website, two app stores: what Capacitor actually costs you",
+   "url": "https://dev.to/bellsal_b44bf6d/one-codebase-one-website-two-app-stores-what-capacitor-actually-costs-you-2igc",
+   "date": "2026-08-17T14:44:05+00:00",
+   "summary": "My photo collage editor was a static site: vanilla JS, a canvas, no framework. Putting it on the Play...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Swift 6 Strict Concurrency: 4 Migration Mistakes and How to Fix Them",
+   "url": "https://dev.to/mrugeshtank/swift-6-strict-concurrency-4-migration-mistakes-and-how-to-fix-them-50ij",
+   "date": "2026-08-17T14:43:51+00:00",
+   "summary": "I enabled Swift 6 mode on a project I'd been shipping for two years. Sixty-plus errors. My first...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From GCD to Swift Concurrency: A Hands-On Guide to iOS Concurrency with Playgrounds",
+   "url": "https://blog.stackademic.com/from-gcd-to-swift-concurrency-a-hands-on-guide-to-ios-concurrency-with-playgrounds-dfc2b9f5edad?source=rss------ios_app_development-5",
+   "date": "2026-08-17T13:31:01+00:00",
+   "summary": "Learn GCD, OperationQueue, async/await, Task, TaskGroup and Actors by writing and running real Swift code. Continue reading on Stackademic »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Who Is the Slower App Review Process Actually Stopping? | Fatbobman’s Swift Weekly #149",
+   "url": "https://fatbobman.medium.com/who-is-the-slower-app-review-process-actually-stopping-fatbobmans-swift-weekly-149-155d71c3e750?source=rss------ios_app_development-5",
+   "date": "2026-08-17T12:56:01+00:00",
+   "summary": "Who Is the Slower App Review Process Actually Stopping? Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I gave my coding agent its own computer",
+   "url": "https://dev.to/deland/i-gave-my-coding-agent-its-own-computer-4l99",
+   "date": "2026-08-17T08:33:52+00:00",
+   "summary": "I run coding agents with shell access all day, and for a long time there was a low-grade dread...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building CoreX: A Native Real-Time macOS Monitor in Swift",
+   "url": "https://dev.to/_b6417cbb54ddfef4c4fd0/building-corex-a-native-real-time-macos-monitor-in-swift-1137",
+   "date": "2026-08-17T07:31:41+00:00",
+   "summary": "I built CoreX to answer a practical question: why does a Mac feel slow right now, why did its fans...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Weekly Dev Log 2026-W17",
    "url": "https://dev.to/umitomo-lab/weekly-dev-log-2026-w17-1ib",
    "date": "2026-08-17T04:04:23+00:00",
    "summary": "Weekly learning log of iOS, web development, and cybersecurity — 2026-W17",
-   "points": 0,
+   "points": 8,
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -326,83 +464,6 @@
    "lang": "en"
   },
   {
-   "title": "Swift Mastery Series — Part 8: Swift Structs: Why Apple Chooses Value Types Over Classes",
-   "url": "https://dev.to/divyesh_vekariya/swift-mastery-series-part-8-swift-structs-why-apple-chooses-value-types-over-classes-47m1",
-   "date": "2026-08-14T14:45:00+00:00",
-   "summary": "One of the biggest mindset shifts in Swift is realizing that struct isn't a lightweight version of...",
-   "points": 5,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "App Shield: Your Server Should Not Trust the App Calling It",
-   "url": "https://dev.to/codenameone/app-shield-your-server-should-not-trust-the-app-calling-it-4cpa",
-   "date": "2026-08-14T14:11:17+00:00",
-   "summary": "Codename One App Shield turns Apple App Attest and Google Play Integrity into short-lived tokens your backend can verify. This release also adds OpenType fonts, advances the R2 repository migration, and prepares new Wind",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Splitting a Swift monorepo shouldn't require git-subtree tricks (so I built a free registry)",
-   "url": "https://dev.to/another1dd/splitting-a-swift-monorepo-shouldnt-require-git-subtree-tricks-so-i-built-a-free-registry-19i6",
-   "date": "2026-08-14T13:08:52+00:00",
-   "summary": "Disclosure: I built Perchly, the tool this post ends up recommending. It started as a fix for my own...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Does a French Pronunciation App Actually Measure? A Five-Signal Audit",
-   "url": "https://dev.to/levindong2026/what-does-a-french-pronunciation-app-actually-measure-a-five-signal-audit-gok",
-   "date": "2026-08-14T12:43:09+00:00",
-   "summary": "Search for a French pronunciation app and you will quickly meet the word feedback. The label appears...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How I Built an AI-Powered Reel & Short Maker in Swift: Handling Auto-Cutouts & Beat-Syncing Efficiently",
-   "url": "https://dev.to/akalino/how-i-built-an-ai-powered-reel-short-maker-in-swift-handling-auto-cutouts-beat-syncing-9hi",
-   "date": "2026-08-14T12:15:19+00:00",
-   "summary": "Check out Reeliva on the App Store.   Hey DEV community! 👋  As an indie iOS developer, I’ve always...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Zoom Zero‑Day Exploit: Remote Takeover of iPhone & Mac",
-   "url": "https://dev.to/luckytaorem/zoom-zero-day-exploit-remote-takeover-of-iphone-mac-185h",
-   "date": "2026-08-14T10:21:41+00:00",
-   "summary": "What the Vulnerability Is   In early 2026 security researchers uncovered a zero‑day flaw in...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to App Clips for iOS Developers",
-   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/introduction-to-app-clips-for-ios-developers-4f0m",
-   "date": "2026-08-14T09:56:31+00:00",
-   "summary": "Discover App Clips, Apple's feature for instant app experiences. Learn how to integrate, share code, and handle invocations for your iOS projects.",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "iOS 26 Just Changed What “Native” Means — Here’s How to Keep Up",
    "url": "https://medium.com/@bhumibhuva18/ios-26-just-changed-what-native-means-heres-how-to-keep-up-d97b2152c031?source=rss------ios_app_development-5",
    "date": "2026-08-14T07:57:12+00:00",
@@ -420,17 +481,6 @@
    "tech": "swift",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "I Rebuilt My PWA as a Native iOS and Mac App with an AI Agent. The Architecture Was the Hard Part.",
-   "url": "https://dev.to/vscarpenter/i-rebuilt-my-pwa-as-a-native-ios-and-mac-app-with-an-ai-agent-the-architecture-was-the-hard-part-186d",
-   "date": "2026-08-14T01:30:19+00:00",
-   "summary": "Originally published on my blog. I am cross-posting it here because two parts seem worth arguing...",
-   "points": 1,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -798,6 +848,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PSTFOX2ppclFYVm9SRU5Odlk2OXQ5Q0tyWnpMcnhnN2dVd2paNGZoRXA3RU9XcGlYeUw1SFhXc2FsYkVmX0g2VXI4RmpTQjNDcjRySVJn?oc=5",
    "date": "2024-12-29T08:00:00+00:00",
    "summary": "خطة شاملة لتصبح مطور تطبيقات iOS محترف | دليل Roadmap شامل. YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "من هو مطور تطبيقات iOS؟ | دليل شامل لتصبح مبرمج iOS محترف.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10U3FOVUk5SjdQSHRIb1paeG95UFNtcFhoOXgzVURfYjRSdi1jMmFZcFk4UW9zd0NQdXJJRWluVmtDY1pUM0tFbFpGSE4zaVhZa09xai1n?oc=5",
+   "date": "2024-12-28T22:01:21+00:00",
+   "summary": "من هو مطور تطبيقات iOS؟ | دليل شامل لتصبح مبرمج iOS محترف. YouTube",
    "tech": "swift",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1194,6 +1254,16 @@
    "lang": "en"
   },
   {
+   "title": "الطريقة الوحيدة والمضمونة لتحديث آيفون 7 و7 بلس لـ iOS 16.3.1 - ليست مجرد خدعة !",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91MUQwN2Jhbk0zT3pKd3JTZUQ1b3VYamtGR1FUNWNCR0pHajE0eGo1QnhJVHppMi1DS01IWFpQb2VVMk5YTmhYcE01ZDR0bVJYaUNISVpR?oc=5",
+   "date": "2023-02-21T16:00:29+00:00",
+   "summary": "الطريقة الوحيدة والمضمونة لتحديث آيفون 7 و7 بلس لـ iOS 16.3.1 - ليست مجرد خدعة ! YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "طريقة تثبيت تحديث iOS 16 على آيفون 6 بدون كمبيوتر (خطوة بخطوة) - الحل الوحيد والمضمون !",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ydERqU1hzTTRQZ2RpQ2JwZmw1ZXVzamFBeHNReXNjS3pwdWZ5N3VMOEl2MHBZN3J5d2NHOHB5UksteUJaXzAyTGlkdlZFWXlHbjQzM0ln?oc=5",
    "date": "2023-02-17T17:48:14+00:00",
@@ -1394,6 +1464,16 @@
    "lang": "ar"
   },
   {
+   "title": "iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iWkhxZGxLYTJicHpKdFE4VGlaeWROQ1ZUazEtbm1rd2FiSjlvSnk1MWswZzlEUWU3dE5aX2h4d3Z2dVg0c1NUb0taT054ZV9udWdPc2hB?oc=5",
+   "date": "2022-02-15T14:26:43+00:00",
+   "summary": "iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تسريع الايفون بدون برامج | اعدادات ايفون يجب تغيرها",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00c1JYWjBEY1h4Y0pKVDV3czRBV2tNbWR3VFlBR3U4YmQ5TXNDN2RyTk4wWTBweVE1ZWVRX3dENjZiLVlteG5XbnFxM0l6c2tUUUx3a1ZB?oc=5",
    "date": "2022-01-02T14:00:09+00:00",
@@ -1524,20 +1604,20 @@
    "lang": "ar"
   },
   {
+   "title": "تجربة فتيس سوزوكي ديزاير وسويفت من 2018 : 2021",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMUtJMUpNVFZyaHNTQVhmTlBrLWUzZTRfdnExR2JDeGpVLXRMV2hPcjFWWV82QUtISW1wb05aNUJNRGxUcHVlYnRQUXQ3d0JmQlE?oc=5",
+   "date": "2021-02-10T08:00:00+00:00",
+   "summary": "تجربة فتيس سوزوكي ديزاير وسويفت من 2018 : 2021 YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Learn SwiftUI online for FREE | Bootcamp #0",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZdDFIcHlCV3BzYlFvRlRJNUlLOHJBZWdLOHVJU1BWMFJkUzl0WFU3Umc2WnloZ09yNmdQTGVSdm5iYXZ0cURmbWx0eURCWEdSM1cwWTJn?oc=5",
    "date": "2021-02-03T18:33:05+00:00",
    "summary": "Learn SwiftUI online for FREE | Bootcamp #0 YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SwiftUI Tutorial for Beginners (3.5 hour FULL COURSE)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ybWQ2Ri04enBwNXV2SmNDTUt6aDR2UVNEd0N1SzB6WWl6ek9tWXRQdlZSRjd0VjdXN1NnTTJGS1dBcFI1M1I2cWlMdWd5VGMwUzF2bFBR?oc=5",
-   "date": "2021-01-25T16:29:51+00:00",
-   "summary": "SwiftUI Tutorial for Beginners (3.5 hour FULL COURSE) YouTube",
    "tech": "swift",
    "sourceId": "yt",
    "source": "YouTube",

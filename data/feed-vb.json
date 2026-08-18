@@ -1,8 +1,151 @@
 {
- "generated": "2026-08-17T05:27:07.076424+00:00",
+ "generated": "2026-08-18T05:04:38.479972+00:00",
  "tech": "vb",
- "count": 202,
+ "count": 205,
  "items": [
+  {
+   "title": "Supabase .NET DevLog #6",
+   "url": "https://dev.to/tr00d/supabase-net-devlog-6-40b2",
+   "date": "2026-08-18T04:55:06+00:00",
+   "summary": "Welcome to our weekly log for the Supabase .NET SDK 🎉  Following the monorepo migration, I started...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ArbNet Bug Smash: Fixing Cloud Expiration & Database Connection Failures with Sentry & Google AI",
+   "url": "https://dev.to/eliezer_josepolidorsola/arbnet-bug-smash-fixing-cloud-expiration-database-connection-failures-with-sentry-google-ai-401f",
+   "date": "2026-08-18T04:46:08+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+   "points": 1,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Sending Email Using Gmail SMTP",
+   "url": "https://dev.to/harsh_gs/sending-email-using-gmail-smtp-2745",
+   "date": "2026-08-18T02:22:51+00:00",
+   "summary": "*1. Create the Email Service Interface *  public interface IEmailService {     Task SendEmailAsync(  ...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Spent 30+ Hours Building \"The Boring SaaS Stack\" So I Never Have To Do It Again",
+   "url": "https://dev.to/azhadsuhaimi/i-spent-30-hours-building-the-boring-saas-stack-so-i-never-have-to-do-it-again-pa9",
+   "date": "2026-08-18T02:13:05+00:00",
+   "summary": "We’ve all been there:   You get an exciting idea for a micro-SaaS on a Friday night. You fire up your...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "xUnit 4 ParallelMode.All: Protect Shared State from Test Races",
+   "url": "https://dev.to/ssukhpinder/xunit-4-parallelmodeall-protect-shared-state-from-test-races-58jj",
+   "date": "2026-08-18T00:37:45+00:00",
+   "summary": "xUnit 4.0.0 makes full test-case parallelization an explicit option. That is useful, but xUnit 4...",
+   "points": 5,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure",
+   "url": "https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga",
+   "date": "2026-08-17T18:11:49+00:00",
+   "summary": "When every unauthorized request becomes the same dashboard line, diagnosis turns into guessing....",
+   "points": 5,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Designing an AI Service Layer",
+   "url": "https://dev.to/lukaswalter/designing-an-ai-service-layer-1kdm",
+   "date": "2026-08-17T15:30:00+00:00",
+   "summary": "An AI service layer has one job: expose an application operation without leaking the model...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Vertical Slices: Organizing Code by Feature, Not by Layer",
+   "url": "https://dev.to/rhuturaj_takle/vertical-slices-organizing-code-by-feature-not-by-layer-4jp",
+   "date": "2026-08-17T14:59:46+00:00",
+   "summary": "Vertical Slices: Organizing Code by Feature, Not by Layer   A practical guide to Vertical...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "C# Coding Interview Prep Part 3: Async/Await, Task, CancellationToken, Reflection, Records, Iterators, and Dependency Injection",
+   "url": "https://dev.to/manoharij/c-coding-interview-prep-part-3-asyncawait-task-cancellationtoken-reflection-records-ik6",
+   "date": "2026-08-17T13:31:17+00:00",
+   "summary": "Part 1 covered the basics. Part 2 covered mid-level concepts - LINQ, generics, delegates, OOP...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ASP.NET Core Output Caching: How to Make Web APIs Faster in .NET",
+   "url": "https://dev.to/toolbenchapp/aspnet-core-output-caching-how-to-make-web-apis-faster-in-net-2n8",
+   "date": "2026-08-17T12:48:43+00:00",
+   "summary": "ASP.NET Core Output Caching: How to Make Web APIs Faster in .NET   When an API receives the...",
+   "points": 1,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "NuGet Restore Failing with 'Unable to find version' Package? Check Your NuGetToolInstaller Version!",
+   "url": "https://dev.to/sui23e879d/nuget-restore-failing-with-unable-to-find-version-package-check-your-nugettoolinstaller-version-2e9l",
+   "date": "2026-08-17T12:34:31+00:00",
+   "summary": "The Problem  In one of our Azure DevOps pipelines, nuget restore suddenly started failing with an...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Service Discovery and Service Mesh in .NET — Part 2: Four Ways to Implement Discovery",
+   "url": "https://dev.to/arash_zand/service-discovery-and-service-mesh-in-net-part-2-four-ways-to-implement-discovery-3j6g",
+   "date": "2026-08-17T10:35:56+00:00",
+   "summary": "Part 2 of a six-part series on service discovery and service mesh architecture for .NET...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MFA Enabled Is Not MFA Verified",
+   "url": "https://dev.to/iqtechsolutions/mfa-enabled-is-not-mfa-verified-2312",
+   "date": "2026-08-17T06:05:46+00:00",
+   "summary": "A two-factor flag in the user store looks like a reassuring authorization check. It tells us the...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "C# ExceptionDispatchInfo Class",
    "url": "https://dev.to/karenpayneoregon/c-exceptiondispatchinfo-class-1je2",
@@ -191,127 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows",
-   "url": "https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp",
-   "date": "2026-08-14T15:21:47+00:00",
-   "summary": "Stop typing everything manually. Hold Ctrl+Space, speak naturally, and watch polished, grammar-fixed text appear instantly in any Windows app. 100% free and private.",
-   "points": 1,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Turn the ASP.NET Core Web API you already have into an MCP server",
-   "url": "https://dev.to/hovikaghajanyan/turn-the-aspnet-core-web-api-you-already-have-into-an-mcp-server-1f55",
-   "date": "2026-08-14T14:59:53+00:00",
-   "summary": "Nabu.NET — turn your ASP.NET Core Web API into an MCP server with one attribute   · Repo:...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Consumir servidores MCP desde .NET: cuando tu app es el cliente",
-   "url": "https://dev.to/jgomezdev/consumir-servidores-mcp-desde-net-cuando-tu-app-es-el-cliente-5fgm",
-   "date": "2026-08-14T14:59:43+00:00",
-   "summary": "Consumir servidores MCP desde .NET: cuando tu app es el cliente   La última vez construimos...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Consuming MCP Servers from .NET: When Your App Becomes the Client",
-   "url": "https://dev.to/jgomezdev/consuming-mcp-servers-from-net-when-your-app-becomes-the-client-2goc",
-   "date": "2026-08-14T14:59:40+00:00",
-   "summary": "Consuming MCP Servers from .NET: When Your App Becomes the Client   Last time we built an...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "# I Built a Linux System-Intelligence Tool Using Bash, C and C#",
-   "url": "https://dev.to/yathartsalil/-i-built-a-linux-system-intelligence-tool-using-bash-c-and-c-bl1",
-   "date": "2026-08-14T07:40:58+00:00",
-   "summary": "I wanted to build something that would force me to work with Linux at a level deeper than simply...",
-   "points": 1,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Deep Link Is an App-Lifecycle Event",
-   "url": "https://dev.to/iqtechsolutions/a-deep-link-is-an-app-lifecycle-event-4gfg",
-   "date": "2026-08-14T05:58:00+00:00",
-   "summary": "A deep link can be syntactically correct, reach the right application, and still resume the wrong...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Heart of .NET: A Deep Dive into the System Namespace",
-   "url": "https://dev.to/csadikemre/the-heart-of-net-a-deep-dive-into-the-system-namespace-db0",
-   "date": "2026-08-14T02:00:55+00:00",
-   "summary": "What's really inside .NET's System namespace, where its limits are, who fills the gaps, and where it's heading next.",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "C# Coding Interview Prep Part 2: LINQ, Generics, Delegates, Interfaces, Garbage Collection, and IEnumerable vs IQueryable",
-   "url": "https://dev.to/manoharij/c-coding-interview-prep-part-2-linq-generics-delegates-interfaces-garbage-collection-and-2fg5",
-   "date": "2026-08-14T01:38:49+00:00",
-   "summary": "Part 1 covered the basics - variables, strings, collections, control flow, methods. This part covers...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Prometheus and Grafana: Metrics Monitoring and Dashboards",
-   "url": "https://dev.to/rhuturaj_takle/prometheus-and-grafana-metrics-monitoring-and-dashboards-38fa",
-   "date": "2026-08-13T15:04:55+00:00",
-   "summary": "Prometheus and Grafana: Metrics Monitoring and Dashboards   A practical guide to Prometheus...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ASP.NET Core Background Services: How to Run Reliable Background Tasks in .NET",
-   "url": "https://dev.to/toolbenchapp/aspnet-core-background-services-how-to-run-reliable-background-tasks-in-net-7p2",
-   "date": "2026-08-13T12:30:08+00:00",
-   "summary": "ASP.NET Core Background Services: How to Run Reliable Background Tasks in .NET   Not every...",
-   "points": 1,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Delete the Event Switch: Runtime Dispatch with dynamic in C#",
-   "url": "https://dev.to/hiteshk97/delete-the-event-switch-runtime-dispatch-with-dynamic-in-c-19mk",
-   "date": "2026-08-13T04:36:07+00:00",
-   "summary": "A switch over event types is dynamic dispatch. You just wrote it by hand, took on the maintenance...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Beyond the Textbook: How to Visualise Quadratic Inequalities with VB.Net",
    "url": "https://medium.com/@iniobong.okpokpo/beyond-the-textbook-how-to-visualise-quadratic-inequalities-with-vb-net-c8019125360b?source=rss------visual_basic-5",
    "date": "2026-08-02T16:31:01+00:00",
@@ -339,17 +361,6 @@
    "tech": "vb",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Cost of Maintaining VB6 vs Migrateto.net",
-   "url": "https://dev.to/innovatix_technologypart/cost-of-maintaining-vb6-vs-migratetonet-252e",
-   "date": "2026-06-11T09:14:35+00:00",
-   "summary": "In 2026, the debate over Visual Basic 6 (VB6) is no longer just about “old code”—it’s about financial...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -410,17 +421,6 @@
    "tech": "vb",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "LivinGrimoire Software Design Pattern VB.NET DLL Is Now Available",
-   "url": "https://dev.to/owly/livingrimoire-software-design-pattern-vbnet-dll-is-now-available-13nb",
-   "date": "2025-10-21T00:03:07+00:00",
-   "summary": "LivinGrimoire DLL Integration in VB.NET: Absorb Skills with One Line of Code   LivinGrimoire...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -798,6 +798,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XU3UwZHlfdXgzOGV6R29EdzdnaFhGMWl2ejIyR1dxbndqUV9RZWdTUkVDR0lDU2hSb3dyNjctX1RkU1JfUy1RQTU0UGt1MEZJMko1b0Nn?oc=5",
    "date": "2022-10-08T15:19:03+00:00",
    "summary": "سورس كود برنامج ادارة قواعد بيانات SQL من خلال فيجوال بيسك دوت نت 2022 SQL Server With Visual Studio YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم فيجوال بيسك دوت نت (حلقة 3) Visual Basic.NET Programming for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IcnJLanUwb3lFVlBmbzFacURFWlpSbXhxb3JmeTF3NDg4bHBnNlRfVDZvMUtkNmo1M19PRkxRY3RLcnBjYXl5cTF3a05sbEoyYVNlbkZR?oc=5",
+   "date": "2022-10-03T17:33:28+00:00",
+   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 3) Visual Basic.NET Programming for Beginners YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1394,6 +1404,16 @@
    "lang": "ar"
   },
   {
+   "title": "Microsoft Access Intro to VBA Programming - Visual Basic for Applications for Beginners - Access VBA",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Odl9KVGU0MTMxUnlaR3ZoZUcza1Z4S2JVQ1NVcE5xZkdJanB2dXJvSktKcFRkOHAzTnFnVmxzVmpEUlRhMTVUd1BjckxVUDV3QkNJRnB3?oc=5",
+   "date": "2017-06-08T00:00:02+00:00",
+   "summary": "Microsoft Access Intro to VBA Programming - Visual Basic for Applications for Beginners - Access VBA YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "طريقة عمل برنامج الة حاسبة بالفيجوال بيسك6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yLVB2NGgxTHBjaWFnOFNxTGJRLVRRUkQxY3d0WUROV09hTXh0SFNCUFJSQjFhcHRPSDc1SW1pMTVqLUpLQlprQS1UU0ZaZ2RYLVg5ZDdR?oc=5",
    "date": "2017-06-05T16:13:59+00:00",
@@ -1534,6 +1554,16 @@
    "lang": "ar"
   },
   {
+   "title": "9 - دوال الادخال والاخراج في الفيجوال بيسك",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdk9YbXRtTlJqTTdGSUw4OERIcm1kVG82WmxnbWkxazlBZlljYURwOXR1ZkFFYm5DYm5TX1A4WGlpYXYxYXc1S1Y2aFB3d3JVR0lOQWpB?oc=5",
+   "date": "2016-06-30T10:20:28+00:00",
+   "summary": "9 - دوال الادخال والاخراج في الفيجوال بيسك YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "طريقة عمل برنامج حاسبة علمية على الفيجوال بيسك | Calculater on Visual basic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jSHk0MDJZcE1ZYmw0MmYtdWo2cUI4RmtVWlAwY3hLdmNfay01c1JZalJxdU1CeWY3My1ZeFdXVXp0aVJBZXZWYmdHdDZmWThXWEZWTTZn?oc=5",
    "date": "2016-06-19T14:27:32+00:00",
@@ -1548,6 +1578,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aQkZMWmlwRkhlMmVZTC04SjhVTlItMU5TcDRJUDJtcDhwcmdYQnFGOTNxcTlBemRGQ2UwbVUwNjNuZmo0OVFFNVBPcnhrQlJLcnRWczhB?oc=5",
    "date": "2016-02-04T20:52:37+00:00",
    "summary": "إرسال البيانات من الفيجوال بيسك إلى ميكروسوفت وورد YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحميل وتثبيت فيجوال بيسك 2010",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tbG54cG5icFpNakthZEt5SjI1SUo0WXZxc1g0LXZYb2hSSXZ0VEJ0UTFDNEtKMTNCNjB3MzhETkRvOXZJY1FHLVhoV1c2QkE4M2ZJRWJ3?oc=5",
+   "date": "2015-10-18T17:35:26+00:00",
+   "summary": "تحميل وتثبيت فيجوال بيسك 2010 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1914,6 +1954,16 @@
    "lang": "en"
   },
   {
+   "title": "Visual Basic Tutorial 13 - Modules",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fdWdjNGMyaTdMSElpaW9GMDVncEY2cmY1RTdqNHBtaVh6eXRPbW1Rd1JSeGtEMk5SMElqNVh3TXZqbnhxS08weE9VdUdwZjhhcHJoMTF3?oc=5",
+   "date": "2012-01-31T08:13:40+00:00",
+   "summary": "Visual Basic Tutorial 13 - Modules YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Visual Basic Tutorial 1 - Introduction to Visual Basic 2010",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDM1I4SjUxOEZpdE5fa2N5QkRMU08yektnTEV4cFJOYTJuUm5mRXlYUFJmbjh2dnhNSFU4d1hUR21KaHdRXzVKRjNJeDBnWnhWTkpORThn?oc=5",
    "date": "2012-01-25T11:00:37+00:00",
@@ -2028,26 +2078,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92a3Z6NkxpVjFPZVlselhKTDZKWjQ2R3hBQ0VYYmdPaWZxZGNBSE02S01KMFp3Wk1tSkpmblVVbkRkZ2pKUlpvYURQZ1E4dEYwdkJ5aDJn?oc=5",
    "date": "2011-06-05T03:34:48+00:00",
    "summary": "Visual Basic Tutorial - 59 - Introduction To Arrays YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 51 - Constants",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52UGlNbGxqY2ZaLVNHV0pGS1BYMUhfSGxKRzRVZTFpdWViOVNiLW1tc1JfdzN0d1RWSUctMGJxNWJXRGhvUjk1bUo2U3Q1dnRrajVIYmd3?oc=5",
-   "date": "2011-06-05T03:32:33+00:00",
-   "summary": "Visual Basic Tutorial - 51 - Constants YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 42 - User Defined Subs",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mdWlWbGlYMzhiNXlxR01BWm53TXVQYXNWeGYtSUhfRjRCbG5YTF9GelVrRVVabkNKRDVDeTBIQjRaU1ZPUHF5bHAwYVZOUlNydjdYRnh3?oc=5",
-   "date": "2011-06-05T03:25:45+00:00",
-   "summary": "Visual Basic Tutorial - 42 - User Defined Subs YouTube",
    "tech": "vb",
    "sourceId": "yt",
    "source": "YouTube",

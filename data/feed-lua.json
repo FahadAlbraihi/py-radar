@@ -1,8 +1,18 @@
 {
- "generated": "2026-08-17T05:24:45.811788+00:00",
+ "generated": "2026-08-18T05:01:41.458789+00:00",
  "tech": "lua",
- "count": 110,
+ "count": 112,
  "items": [
+  {
+   "title": "Redis Is Single-Threaded — So Why Do I Still Need Lua for Atomic Counters?",
+   "url": "https://medium.com/@hemarajlearnings/redis-is-single-threaded-so-why-do-i-still-need-lua-for-atomic-counters-922ced0616ac?source=rss------lua-5",
+   "date": "2026-08-17T06:51:24+00:00",
+   "summary": "If you&#x2019;ve worked with Redis, you&#x2019;ve heard the mantra: &#x201C;Redis is single-threaded, so every command is atomic.&#x201D; True. And yet, plenty of&#x2026; Continue reading on Medium »",
+   "tech": "lua",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "🚀 Introducing pack.nvim: The Modern UI for Neovim's Native Package Manager",
    "url": "https://dev.to/igmrrf/introducing-packnvim-the-modern-ui-for-neovims-native-package-manager-eii",
@@ -379,6 +389,16 @@
    "lang": "en"
   },
   {
+   "title": "تعليم برمجة Lua شرح Table في Roblox Studio #11",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51X2RaS1haWEJKcHZncnJGdU1ld3lCeHhaYlQ5d2phZGV5VUswWDl1NDRQM3BrTVEzU2FYei1taTRoamFsR25FMGhYQ015ZW5Fa0lPdkJn?oc=5",
+   "date": "2025-04-28T11:56:40+00:00",
+   "summary": "تعليم برمجة Lua شرح Table في Roblox Studio #11 YouTube",
+   "tech": "lua",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Q-SYS Training | Control 101 - Lua Editor (EN)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGVUJPUmVWcG14RXZncklWN2RqeUEtaGFBU3BfdER4UkxiTHFva1I0Y0tDT0x2VHFraEVoTDQwam9zZEZTNTE5NnMzUEJiQWxyNHJsVWFn?oc=5",
    "date": "2025-04-14T21:01:20+00:00",
@@ -647,6 +667,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Lua Tutorial 6th: Custom Curve Drawing",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjbjZScXdwd1NScVR0MFdPVHJ4Y2g4djRuc3JOWllWU2JHbUVVWS1qWllGTnJrM0FoTmVDOWVNaGFBT3JwWWNwc01GNVpQcEFSdEFVSlVB?oc=5",
+   "date": "2023-07-28T10:09:32+00:00",
+   "summary": "Lua Tutorial 6th: Custom Curve Drawing YouTube",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Lua Tutorial 7th: HTTP & JSON",
@@ -1059,6 +1089,16 @@
    "lang": "en"
   },
   {
+   "title": "Tables (Arrays) - Lua Tutorial (Part 9)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VU2QxT2wtT2NXVkU0dkxKRURob3pDc1k0Qk9mOU1FTFJVVktmaWRud1ZleEZUUFBSVWM4YU1uT3EyVkpaTUVjM25UVXh6QkRPTU0zQWln?oc=5",
+   "date": "2021-06-26T13:00:00+00:00",
+   "summary": "Tables (Arrays) - Lua Tutorial (Part 9) YouTube",
+   "tech": "lua",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "User Input - Lua Tutorial (Part 8)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43VnViWHBpRXYyUnlkaXpPQ2gtaG9RSGVWdUdLLS0wQ0w0LUJjcFhoS3BXdjZieDcyZXZuR2xXUFVWanZYZ0I3OEFNR3JsbnkzcVhZaW93?oc=5",
    "date": "2021-06-19T13:00:12+00:00",
@@ -1073,26 +1113,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51aEUyQnV6S0NVLW5wZzdidS1fLVV5OE91Si1fWVNyWVd5RVNpVU5LQkVtekZ0ak83YlI3dU0tTEdTU2x2dkdZOGZHR1MzdUR6SDkwQ0lR?oc=5",
    "date": "2021-06-12T13:00:20+00:00",
    "summary": "Loops - Lua Tutorial (Part 7) YouTube",
-   "tech": "lua",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "\"Lua modules training\" by tohaomg",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tRzJyX1ZEZmNaQW5kNGxQMWxVZHVRWW9SeURSQ0dOVXFnTW9pZ1FjaGNGazJpSHVnN0ViZjZ4ZkxwUzBTUUNjZDhfT29JaUZkakg4YjdB?oc=5",
-   "date": "2021-06-01T17:15:19+00:00",
-   "summary": "\"Lua modules training\" by tohaomg YouTube",
-   "tech": "lua",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Strings in Lua - Lua Tutorial (Part 5)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JT2wzZzJfZk9Sa0szTDh5LWo4MDFqTk5BTjVmbDlwYlhYS0xXaERvU2stTE9POEkxb2FndHNMM0R2bDJFcmVsT2JiWnB1MWtaQWJoSmNn?oc=5",
-   "date": "2021-05-29T13:16:24+00:00",
-   "summary": "Strings in Lua - Lua Tutorial (Part 5) YouTube",
    "tech": "lua",
    "sourceId": "yt",
    "source": "YouTube",

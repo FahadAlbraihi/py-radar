@@ -1,8 +1,62 @@
 {
- "generated": "2026-08-17T05:23:21.930378+00:00",
+ "generated": "2026-08-18T05:00:16.165007+00:00",
  "tech": "windows",
  "count": 220,
  "items": [
+  {
+   "title": "PowerShell Course From Scratch – Beginner to Advanced",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDM1Y2X0I0RV9aYVpObjF1dXVXNlFMcUpOQktQMHNfQ19zZFV5MHg0UmVDV0ZVc1FxaVRyYVk5Z3h5enNMQ2FFRF8zbmVuS3BKWjV3U1Flc2ZVUXI1NlcyNA?oc=5",
+   "date": "2026-08-17T14:34:16+00:00",
+   "summary": "PowerShell Course From Scratch – Beginner to Advanced YouTube",
+   "tech": "windows",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Why Your RAM Cleaner's \"Freed\" Number Is Lying to You",
+   "url": "https://dev.to/sibtainocn/why-your-ram-cleaners-freed-number-is-lying-to-you-2b7h",
+   "date": "2026-08-17T12:38:48+00:00",
+   "summary": "Quiesce is a Windows system cleaner I built in Go - single .exe, no installer, no background service....",
+   "points": 0,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time",
+   "url": "https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7",
+   "date": "2026-08-17T11:25:52+00:00",
+   "summary": "If cp or npm install feels impossibly slow in WSL2, crossing the Windows/Linux boundary is the tax — and workloads made of many small operat",
+   "points": 1,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ATLOCK v4: Building a Local-First Windows Security Suite with NTFS ACLs, Fernet, PBKDF2 and Intrusion Detection",
+   "url": "https://dev.to/akhourianmolkumar/atlock-v4-building-a-local-first-windows-security-suite-with-ntfs-acls-fernet-pbkdf2-and-3gbl",
+   "date": "2026-08-17T10:23:17+00:00",
+   "summary": "There is a point in almost every security project where you realize:  The cryptography isn't the...",
+   "points": 6,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How NVIDIA Reflex reduces latency and what Windows settings complement it",
+   "url": "https://dev.to/izanagiop/how-nvidia-reflex-reduces-latency-and-what-windows-settings-complement-it-4me8",
+   "date": "2026-08-17T10:00:18+00:00",
+   "summary": "NVIDIA Reflex is an SDK that game developers integrate to reduce render latency. Understanding how it...",
+   "points": 0,
+   "tech": "windows",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "How to Build an Offline Windows App with HTML, CSS and JavaScript",
    "url": "https://dev.to/emmawilson1234/how-to-build-an-offline-windows-app-with-html-css-and-javascript-dh0",
@@ -373,50 +427,6 @@
    "url": "https://dev.to/tommy_leonhardsen_81d1f4e/the-robot-read-my-claude-quota-with-235-billion-parameters-i-fired-it-and-hired-a-json-file-l90",
    "date": "2026-07-28T21:15:00+00:00",
    "summary": "In February I introduced you to the robot: a PowerShell script that mashed Print Screen every sixty...",
-   "points": 0,
-   "tech": "windows",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Got Tired of Running Lighthouse Manually, So I Automated It",
-   "url": "https://dev.to/webweaversworld/i-got-tired-of-running-lighthouse-manually-so-i-automated-it-1mjl",
-   "date": "2026-07-24T14:13:33+00:00",
-   "summary": "Lighthouse has been one of those tools I've used throughout my web development journey.  For a small...",
-   "points": 0,
-   "tech": "windows",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built a Self-Healing AI Agent With a 50-Line PowerShell Script",
-   "url": "https://dev.to/hermesxclawctrl/i-built-a-self-healing-ai-agent-with-a-50-line-powershell-script-3lih",
-   "date": "2026-07-20T14:53:29+00:00",
-   "summary": "I Built a Self-Healing AI Agent With a 50-Line PowerShell Script   When you're running an AI...",
-   "points": 0,
-   "tech": "windows",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "the parallel flag made my dns benchmark faster and its numbers slightly worse",
-   "url": "https://dev.to/tiltedlunar123/the-parallel-flag-made-my-dns-benchmark-faster-and-its-numbers-slightly-worse-5c2k",
-   "date": "2026-07-19T16:28:04+00:00",
-   "summary": "i wrote a powershell script that benchmarks 17 public dns resolvers and then sets the best one on...",
-   "points": 0,
-   "tech": "windows",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Monitoring Hardened Domain Controllers Without Admin Rights: The Five Permission Layers Nobody Documents",
-   "url": "https://dev.to/oussangelo/monitoring-hardened-domain-controllers-without-admin-rights-the-five-permission-layers-nobody-o3f",
-   "date": "2026-07-18T19:35:42+00:00",
-   "summary": "Everything works when the service account is a Domain Admin. Nothing works when you remove it. Here...",
    "points": 0,
    "tech": "windows",
    "sourceId": "devto",
@@ -1324,6 +1334,16 @@
    "lang": "en"
   },
   {
+   "title": "Powershell how to edit start location كيفية تعديل نطقة البداية في باور شل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uczc2elJ0NnhZYUtRYVpyYmFhYVdWRkJCMVRhZm9zLURmcGhPVXdrc0NuUWZRQV9RNkdJM1A3SkV4dHNzTU5hWnA2aEVrQkJnYkpVT2VB?oc=5",
+   "date": "2024-09-03T20:44:54+00:00",
+   "summary": "Powershell how to edit start location كيفية تعديل نطقة البداية في باور شل YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "طريقة تحديث اداةPowerShell 7 4 5 win x64 من الاصدار5 4 الي 7 الاخير",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Y1VvZk5ZRmFSVURWdEx6YTRKcmxmUFZqbVF2Y1U0QWFWOWYzU0ppTlR6TllHRUhZTENxeGZ6TkhpVy1CSkVrODZ2bEVwMjRnQ0V5WlBB?oc=5",
    "date": "2024-09-02T15:00:07+00:00",
@@ -1994,6 +2014,16 @@
    "lang": "ar"
   },
   {
+   "title": "أفضل برنامج لتسريع الكمبيوتر وويندوز 11 و10 | شرح Optimizer بالكامل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzaTl0TEFZalFmVUVNYkZFdFF4WEtfLTB5VGNqT3BLZy1VMGZpSnVUYk1RcC1nNXhqZS1QWVJYRFNNb3hrdDhXZy1tQmRKNEhDMEEtT1hR?oc=5",
+   "date": "2023-03-21T07:16:45+00:00",
+   "summary": "أفضل برنامج لتسريع الكمبيوتر وويندوز 11 و10 | شرح Optimizer بالكامل YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "كيفية تثبيت وتفعيل Windows Subsystem for Linux WSL على ويندوز 11 و ويندوز 10",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UdFRhU0V5RnJOTnd0YTk4WU1kZl9fdDRuM0ZwSURJMEFLanFQbUdzS3JtYzdfNEFJeU1YSWcyOU5veXl2NlhrUTZsSm9JOVhlWkNjSHJR?oc=5",
    "date": "2023-02-19T15:09:58+00:00",
@@ -2028,6 +2058,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fc2tBMXZjdTRXanBoVHFLbmY0a1c2SjVpWVFzcExfclhuVFBTLVhoaG1fRU9nMjVUVVNnTVpLbGxxWFYyM2RQaXBkWkpKS3o0WVJBLUhB?oc=5",
    "date": "2023-01-01T18:26:34+00:00",
    "summary": "05 / Command prompt - slmgr /xpr - امر معرفة هل نسخة الويندوز مفعلة ام لا ومعرفة هل تفعيل دائم ام لا YouTube",
+   "tech": "windows",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تحديث جميع برامج الكمبيوتر دفعة واحدة بأمر CMD واحد | Winget لويندوز 10 و11",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LX25lWEM0T0dvZndpLXFOdURvRWN3VUpMdFRlcUY3Zk1FRlZuSHJ2U3ZIOTlONF91T0pKUDBtakxvRW9xdTBkYzZ3RkZNTTJJZE9kRkp3?oc=5",
+   "date": "2022-11-27T18:48:21+00:00",
+   "summary": "تحديث جميع برامج الكمبيوتر دفعة واحدة بأمر CMD واحد | Winget لويندوز 10 و11 YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2074,14 +2114,14 @@
    "lang": "ar"
   },
   {
-   "title": "PowerShell Universal Training Course - Dashboards - Navigation",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hci0wVmZUa3NCeVF1WDRCS1hrNFZrRUVxeWpJbDdCUVBhV1R1ajlUS0lVU3VIZkwwN2FVOExVcEM2Rm8wVmpKZkJRUEJVMnZ0bjE3WXN3?oc=5",
-   "date": "2022-10-11T17:37:47+00:00",
-   "summary": "PowerShell Universal Training Course - Dashboards - Navigation YouTube",
+   "title": "26-CompTIA A+ | Troubleshooting Windows Startup 3 حل مشكلة الشاشة الزرقاء",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kVVdxdFhROEwtZlAtTGptcDY4N283b3RSQ3pVS2N6dl9LRXRycHZnOXBBUWY5dHFlNHZSRU9udFBockFBTkgxandmWnF6cFI2eEREd1JR?oc=5",
+   "date": "2022-09-08T06:00:08+00:00",
+   "summary": "26-CompTIA A+ | Troubleshooting Windows Startup 3 حل مشكلة الشاشة الزرقاء YouTube",
    "tech": "windows",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "طرق فعاله لحل مشكلة ويندوز 10 و11 و 8 و 7 Side By Side Configuration Error",
@@ -2188,46 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16U1lCOG5uZ2o0eUk2c1JVd1FBbDlxM2VBLUtGMkxDUE9fRFkxOUV3THg3a1VHVUVSN0wtZXh5M3M1cFhfUzhtQ1VWd0E5U2NIMGh3RHp3?oc=5",
    "date": "2021-06-13T20:08:16+00:00",
    "summary": "تحميل الملفات على الكمبيوتر باستخدام PowerShell في ويندوز YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "WINDOWS KEYBOARD SHORTCUTS - اهم اختصارات الويندوز",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbVpHMDVHVHZvMGlYOEhsa0JkVE5nc05Icy05RW5jRkxtYmMwMlE5dTF5V05fckZHNTFyV2NRZ2YyS2E2MDhDYjRlT092MC1VRmF0bXRR?oc=5",
-   "date": "2021-06-10T19:38:01+00:00",
-   "summary": "WINDOWS KEYBOARD SHORTCUTS - اهم اختصارات الويندوز YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "10. Terminal | إنشاء مفاتيح SSH على نظام الويندوز Mac",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRGdZMGs5dkpqQVhkTDE3Tk0zdnVaNTRMeWhBVV9aLUQ4c09sRTJsNmFOYUd5MlZ0aWg0aE5tY0FNV0MyZ3h0MWpTR2tDTVhPdGg2b1JB?oc=5",
-   "date": "2021-05-18T08:02:06+00:00",
-   "summary": "10. Terminal | إنشاء مفاتيح SSH على نظام الويندوز Mac YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "17- CompTIA A+ | Windows features جولة سريعة داخل ويندوز 10",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVVI4SjhSNXNFSmgxRFZJZFVTNTloeXNEbmNMTHRmYW1XOG8yZnFSbnR6blBPTlF6VnZoV1VDREZmX1B2UFR3cHpiUkloblF6MG5nNGdn?oc=5",
-   "date": "2021-03-29T05:22:35+00:00",
-   "summary": "17- CompTIA A+ | Windows features جولة سريعة داخل ويندوز 10 YouTube",
-   "tech": "windows",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تجربة عملية على PowerShell و CMD الجزء الأول",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUWlkUUtJS1liR0xrSlRTNkVFbDVWbmtTMW5rclM2LWthY1R0cmJyQVpTM0hLeXMwNDUzWjV3Zmgzbnc2dkM0SFJ2UGFyOUdDc21DVDF3?oc=5",
-   "date": "2021-03-25T20:42:40+00:00",
-   "summary": "تجربة عملية على PowerShell و CMD الجزء الأول YouTube",
    "tech": "windows",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,8 +1,263 @@
 {
- "generated": "2026-08-17T05:22:52.005356+00:00",
+ "generated": "2026-08-18T04:59:45.600255+00:00",
  "tech": "kotlin",
- "count": 198,
+ "count": 201,
  "items": [
+  {
+   "title": "SimpleDownloader - an Android downloader manager library designed to simplify complex file downloading behind a simple API",
+   "url": "https://dev.to/simpledownloader/simpledownloader-an-android-downloader-manager-library-designed-to-simplify-complex-file-3hpl",
+   "date": "2026-08-18T04:48:49+00:00",
+   "summary": "SimpleDownloader got new features, API, and improved the stability.  SimpleDownloader on GitHub:...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Android TV Boxes for US Hotels and Multi-Location Businesses: The 2026 Fleet Deployment Checklist",
+   "url": "https://medium.com/@hatanabiel963/android-tv-boxes-for-us-hotels-and-multi-location-businesses-the-2026-fleet-deployment-checklist-13a13afed025?source=rss------android-5",
+   "date": "2026-08-18T02:57:14+00:00",
+   "summary": "Buying 100 boxes is easy. Keeping 100 boxes identical, recoverable and supportable is the real project. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Android Architecture Explained: From Linux Kernel to Applications",
+   "url": "https://medium.com/@MazenElsayed_/android-architecture-explained-from-linux-kernel-to-applications-0cf3b6904104?source=rss------android-5",
+   "date": "2026-08-18T00:45:12+00:00",
+   "summary": "Introduction Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Debug Android Chrome Browser Logs from a Windows Laptop",
+   "url": "https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib",
+   "date": "2026-08-17T23:02:26+00:00",
+   "summary": "Testing a website on a real Android device is often necessary when a problem cannot be reproduced in...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization on Android",
+   "url": "https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-on-android-3225",
+   "date": "2026-08-17T21:24:45+00:00",
+   "summary": "Opening hook   The silence in the room was absolute, save for the rhythmic scratching of...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Android APK Distribution: What Developers Should Consider Outside Google Play",
+   "url": "https://dev.to/rae_stammler_c7297978420c/android-apk-distribution-what-developers-should-consider-outside-google-play-4pkj",
+   "date": "2026-08-17T20:47:47+00:00",
+   "summary": "Android APK Distribution: What Developers Should Consider Outside Google Play   Android has...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Object Detection on Android for Autonomous Robots",
+   "url": "https://dev.to/vmodal_ai/object-detection-on-android-for-autonomous-robots-5hf0",
+   "date": "2026-08-17T20:36:47+00:00",
+   "summary": "Object Detection on Android for Autonomous Robots            Introduction   Autonomous...",
+   "points": 1,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Voice-Controlled Robot with Kotlin and LLMs",
+   "url": "https://dev.to/vmodal_ai/building-a-voice-controlled-robot-with-kotlin-and-llms-4mn0",
+   "date": "2026-08-17T20:36:38+00:00",
+   "summary": "Building a Voice-Controlled Robot with Kotlin and LLMs           ...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Android + NVIDIA Jetson + ROS 2: Building an AI Robot",
+   "url": "https://dev.to/vmodal_ai/android-nvidia-jetson-ros-2-building-an-ai-robot-1jjd",
+   "date": "2026-08-17T20:36:31+00:00",
+   "summary": "Android + NVIDIA Jetson + ROS 2: Building an AI Robot            Introduction   A practical...",
+   "points": 1,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Android Computer Vision for Robot Navigation",
+   "url": "https://dev.to/vmodal_ai/android-computer-vision-for-robot-navigation-98n",
+   "date": "2026-08-17T20:36:24+00:00",
+   "summary": "Android Computer Vision for Robot Navigation            Introduction   Navigation requires a...",
+   "points": 1,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "YOLO Object Detection on Android for Robotics",
+   "url": "https://dev.to/vmodal_ai/yolo-object-detection-on-android-for-robotics-2bde",
+   "date": "2026-08-17T20:36:18+00:00",
+   "summary": "YOLO Object Detection on Android for Robotics            Introduction   Object detection is...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Real-Time Robot Telemetry Visualization on Android",
+   "url": "https://dev.to/vmodal_ai/real-time-robot-telemetry-visualization-on-android-1893",
+   "date": "2026-08-17T20:25:12+00:00",
+   "summary": "Real-Time Robot Telemetry Visualization on Android            Introduction   Robots...",
+   "points": 1,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Android + ROS 2: Building a Robot Control App with Kotlin",
+   "url": "https://dev.to/vmodal_ai/android-ros-2-building-a-robot-control-app-with-kotlin-59m1",
+   "date": "2026-08-17T20:24:21+00:00",
+   "summary": "Android + ROS 2: Building a Robot Control App with Kotlin            Introduction   Physical...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Android project isn’t on Kotlin 2.4, even though you set it",
+   "url": "https://medium.com/@kevindesai777/your-android-project-isnt-on-kotlin-2-4-even-though-you-set-it-e4f292f3da09?source=rss------android-5",
+   "date": "2026-08-17T19:04:33+00:00",
+   "summary": "You bumped kotlin to 2.4.0 in your version catalog, the build is green, and 2.4 syntax still won&apos;t compile. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Best Native App Builders in 2026: Top Platforms for Building iOS and Android Apps Without Coding",
+   "url": "https://medium.com/@hamim.appnatively/best-native-app-builders-in-2026-top-platforms-for-building-ios-and-android-apps-without-coding-1425bc1b065f?source=rss------android-5",
+   "date": "2026-08-17T18:43:29+00:00",
+   "summary": "Building a mobile app used to mean hiring iOS and Android developers, managing separate development environments, dealing with long&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building My Own Golf Shot GPS App on Android Part 2: When the AI Started Running My Tests",
+   "url": "https://vidaconia.medium.com/building-my-own-golf-shot-gps-app-on-android-part-2-when-the-ai-started-running-my-tests-8d618815d33a?source=rss------android-5",
+   "date": "2026-08-17T17:47:27+00:00",
+   "summary": "The technical details I promised &#x2014; and the six quiet bugs that only surfaced once verification got cheap Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Joy Rummy Not Installing? A Few Things I Checked on Android",
+   "url": "https://medium.com/@austin141920/joy-rummy-not-installing-a-few-things-i-checked-on-android-8b3f3bb069fe?source=rss------android-5",
+   "date": "2026-08-17T17:24:42+00:00",
+   "summary": "I ran into one of those annoying Android problems recently where an app simply wouldn&#x2019;t install. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I built SugarTrack: A simple offline blood sugar tracker for Android",
+   "url": "https://dev.to/hunzaboy/i-built-sugartrack-a-simple-offline-blood-sugar-tracker-for-android-k45",
+   "date": "2026-08-17T17:19:17+00:00",
+   "summary": "A few weeks ago, I needed a basic way to log blood sugar readings. Most apps on the store are full of...",
+   "points": 1,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "7 Things You Didn’t Know Kotlin Can Do Now — But Your Old Kotlin Can’t",
+   "url": "https://halilozel1903.medium.com/7-things-you-didnt-know-kotlin-can-do-now-but-your-old-kotlin-can-t-ad58d92ed491?source=rss------android-5",
+   "date": "2026-08-17T16:12:09+00:00",
+   "summary": "If your Android project is still on Kotlin 1.9.x, modern Kotlin is not just &#x201C;the same language with a faster compiler.&#x201D; Kotlin 2.x has&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Screen Cast Android ke PC",
+   "url": "https://medium.com/@azriyanarham/screen-cast-android-ke-pc-2fcfc9c3526d?source=rss------android-5",
+   "date": "2026-08-17T15:19:33+00:00",
+   "summary": "Mirroring Layar Android Samsung ke Windows PC Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "One codebase, one website, two app stores: what Capacitor actually costs you",
+   "url": "https://dev.to/bellsal_b44bf6d/one-codebase-one-website-two-app-stores-what-capacitor-actually-costs-you-2igc",
+   "date": "2026-08-17T14:44:05+00:00",
+   "summary": "My photo collage editor was a static site: vanilla JS, a canvas, no framework. Putting it on the Play...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The GPU that says yes and does nothing: debugging real-time hair segmentation on mid-range Android",
+   "url": "https://dev.to/gabbrowick/the-gpu-that-says-yes-and-does-nothing-debugging-real-time-hair-segmentation-on-mid-range-android-2990",
+   "date": "2026-08-17T13:14:55+00:00",
+   "summary": "We build a virtual mirror for hair salons: a tablet camera feed where the customer's hair changes...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Klibs.io Grows to 4,200+ KMP Projects With Smarter Discovery and New AI Integrations",
+   "url": "https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/",
+   "date": "2026-08-17T13:12:57+00:00",
+   "summary": "Explore a growing Kotlin Multiplatform catalog in your browser, or bring up-to-date library data directly into your AI development workflow through the klibs.io MCP server. When we introduced klibs.io in December 2024, the goal was simple: ",
+   "tech": "kotlin",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish",
+   "url": "https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1",
+   "date": "2026-08-17T06:06:10+00:00",
+   "summary": "Part 1 of 2. This part covers getting a kernel that can actually host virtual machines.             ...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "The microSD Card Is the Weakest Part of a 24/7 Phone Camera (Silent Write Failure, Wear Cycles, and the Only Honest Test)",
    "url": "https://dev.to/superfunicular/the-microsd-card-is-the-weakest-part-of-a-247-phone-camera-silent-write-failure-wear-cycles-and-3lf9",
@@ -216,16 +471,6 @@
    "lang": "en"
   },
   {
-   "title": "Android Data Encryption Made Simple: AES + Android Keystore in Kotlin",
-   "url": "https://medium.com/@mr.dhiraj.kumawat/android-data-encryption-made-simple-aes-android-keystore-in-kotlin-9fdede05324a?source=rss------android-5",
-   "date": "2026-08-16T01:35:21+00:00",
-   "summary": "When we build Android applications, we often need to store sensitive information such as: Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Architecting a Low-Power Geofencing Engine for Android Background Services",
    "url": "https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0",
    "date": "2026-08-16T00:04:26+00:00",
@@ -248,246 +493,11 @@
    "lang": "en"
   },
   {
-   "title": "Your User’s Password Just Became a JPEG on Disk — and You Didn’t Save It",
-   "url": "https://medium.com/@salesfrancisco73/your-users-password-just-became-a-jpeg-on-disk-and-you-didn-t-save-it-78ce424bfb79?source=rss------android-5",
-   "date": "2026-08-15T22:52:53+00:00",
-   "summary": "The Android Recents snapshot, what FLAG_SECURE actually protects, and the three places where it quietly fails. Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Set Up Parental Controls on Android",
-   "url": "https://medium.com/@hello.nesswick/how-to-set-up-parental-controls-on-android-4ba2169b3fe9?source=rss------android-5",
-   "date": "2026-08-15T20:45:48+00:00",
-   "summary": "Getting your child&#x2019;s first phone often raises a simple question: how do you put reasonable limits in place without paying for another app? Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "JJ Game App Download Latest Version for Android 2026",
-   "url": "https://medium.com/@newlatestpakpaks/jj-game-app-download-latest-version-for-android-2026-5a93064e0ab6?source=rss------android-5",
-   "date": "2026-08-15T20:39:31+00:00",
-   "summary": "JJ Game is a mobile gaming application associated with a range of entertainment categories for Android users in Pakistan. The official&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "The download button that silently did nothing on mobile",
    "url": "https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k",
    "date": "2026-08-15T17:38:15+00:00",
    "summary": "For about a year, the save button in my collage editor did nothing on phones. Not \"threw an error.\"...",
    "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Clean Boundary Should Make One Change Boring",
-   "url": "https://medium.com/@gsrajeni/a-clean-boundary-should-make-one-change-boring-71ef4572bdfc?source=rss------android-5",
-   "date": "2026-08-15T03:18:28+00:00",
-   "summary": "A practical architecture review for deciding where Android code should depend, adapt, and stop. Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Type Arrow Symbols (← ↑ ↓ →) on Android Keyboard",
-   "url": "https://medium.com/@Cmsinn/how-to-type-arrow-symbols-on-android-keyboard-c02228c05551?source=rss------android-5",
-   "date": "2026-08-15T02:08:20+00:00",
-   "summary": "Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How Senior Android Engineers Debug Production Crashes in 2026",
-   "url": "https://halilozel1903.medium.com/how-senior-android-engineers-debug-production-crashes-in-2026-96674c22a61d?source=rss------android-5",
-   "date": "2026-08-15T02:01:04+00:00",
-   "summary": "A practical field guide to turning incomplete stack traces, ANRs, native failures, and silent process deaths into evidence-driven fixes Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Build a High-Quality Mobile App in Seven Days with Loop Engineering",
-   "url": "https://weidianhuang.medium.com/how-to-build-a-high-quality-mobile-app-in-seven-days-with-loop-engineering-d4f0da10bd1b?source=rss------android-5",
-   "date": "2026-08-15T00:11:54+00:00",
-   "summary": "A practical Android workflow using Kotlin, Jetpack Compose, Pen.dev, MCP, AI coding CLIs, and a structured development harness. Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Zero-Cloud Android Service: Privacy by Architecture",
-   "url": "https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml",
-   "date": "2026-08-15T00:00:30+00:00",
-   "summary": "It happened during a quiet Friday sermon at the local masjid. The room was dense with silence, the...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build a Federated Learning System on Android with Kotlin",
-   "url": "https://dev.to/vmodal_ai/build-a-federated-learning-system-on-android-with-kotlin-53j0",
-   "date": "2026-08-14T19:10:43+00:00",
-   "summary": "Build a Federated Learning System on Android with Kotlin   Traditional machine learning...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Custom Gradle Plugins for Android Projects",
-   "url": "https://dev.to/vmodal_ai/building-custom-gradle-plugins-for-android-projects-3jja",
-   "date": "2026-08-14T19:09:52+00:00",
-   "summary": "Building Custom Gradle Plugins for Android Projects   Large Android repositories often...",
-   "points": 1,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Compiler Plugins & KSP: Building Code Generation Tools",
-   "url": "https://dev.to/vmodal_ai/kotlin-compiler-plugins-ksp-building-code-generation-tools-4nde",
-   "date": "2026-08-14T19:09:19+00:00",
-   "summary": "Kotlin Compiler Plugins &amp; KSP: Building Code Generation Tools   Large Kotlin...",
-   "points": 1,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build an AI-Powered Document Scanner and OCR Pipeline with Kotlin",
-   "url": "https://dev.to/vmodal_ai/build-an-ai-powered-document-scanner-and-ocr-pipeline-with-kotlin-3e8b",
-   "date": "2026-08-14T19:09:08+00:00",
-   "summary": "Build an AI-Powered Document Scanner and OCR Pipeline with Kotlin   A document scanner can...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build a RAG-Based AI Assistant in Kotlin with a Vector Database",
-   "url": "https://dev.to/vmodal_ai/build-a-rag-based-ai-assistant-in-kotlin-with-a-vector-database-4eab",
-   "date": "2026-08-14T19:08:20+00:00",
-   "summary": "Build a RAG-Based AI Assistant in Kotlin with a Vector Database   A normal LLM answers...",
-   "points": 1,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Android NDK with Kotlin: High-Performance Native Code",
-   "url": "https://dev.to/vmodal_ai/android-ndk-with-kotlin-high-performance-native-code-4pid",
-   "date": "2026-08-14T19:08:12+00:00",
-   "summary": "Android NDK with Kotlin: High-Performance Native Code   Some Android workloads require more...",
-   "points": 1,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Real-Time Object Detection and Tracking with Kotlin and YOLO on Android",
-   "url": "https://dev.to/vmodal_ai/real-time-object-detection-and-tracking-with-kotlin-and-yolo-on-android-3p78",
-   "date": "2026-08-14T19:07:04+00:00",
-   "summary": "Real-Time Object Detection and Tracking with Kotlin and YOLO on Android   Real-time computer...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Native Interop: Calling C and C++ from Android",
-   "url": "https://dev.to/vmodal_ai/kotlin-native-interop-calling-c-and-c-from-android-4jof",
-   "date": "2026-08-14T19:06:45+00:00",
-   "summary": "Kotlin Native Interop: Calling C and C++ from Android   Android applications can combine...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build an On-Device LLM Chatbot with Kotlin and TensorFlow Lite",
-   "url": "https://dev.to/vmodal_ai/build-an-on-device-llm-chatbot-with-kotlin-and-tensorflow-lite-36d3",
-   "date": "2026-08-14T19:06:39+00:00",
-   "summary": "Build an On-Device LLM Chatbot with Kotlin and TensorFlow Lite   Large language models are...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kotlin Multimodule Android Architecture for Large-Scale Applications",
-   "url": "https://dev.to/vmodal_ai/kotlin-multimodule-android-architecture-for-large-scale-applications-1fh1",
-   "date": "2026-08-14T19:06:12+00:00",
-   "summary": "Kotlin Multimodule Android Architecture for Large-Scale Applications   As an Android...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Pair a Phone to a Mac AI Agent Without Putting the API Key in the QR Code",
-   "url": "https://dev.to/igorganapolsky/pair-a-phone-to-a-mac-ai-agent-without-putting-the-api-key-in-the-qr-code-hlh",
-   "date": "2026-08-14T14:37:32+00:00",
-   "summary": "Remote control for a local AI agent creates an awkward setup problem. The phone needs enough...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Solving the Mobile Image Conversion Bottleneck: Building an Offline Batch Processor for Android",
-   "url": "https://dev.to/getinfotoyou/solving-the-mobile-image-conversion-bottleneck-building-an-offline-batch-processor-for-android-lll",
-   "date": "2026-08-14T14:30:33+00:00",
-   "summary": "Imagine you're traveling, working on a quick web update from your tablet or phone, and a collaborator...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "App Shield: Your Server Should Not Trust the App Calling It",
-   "url": "https://dev.to/codenameone/app-shield-your-server-should-not-trust-the-app-calling-it-4cpa",
-   "date": "2026-08-14T14:11:17+00:00",
-   "summary": "Codename One App Shield turns Apple App Attest and Google Play Integrity into short-lived tokens your backend can verify. This release also adds OpenType fonts, advances the R2 repository migration, and prepares new Wind",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Case Study in Integrating the Zoom Native SDK into a Flutter Monorepo",
-   "url": "https://dev.to/syed11/a-case-study-in-integrating-the-zoom-native-sdk-into-a-flutter-monorepo-4il",
-   "date": "2026-08-14T10:40:07+00:00",
-   "summary": "Forking a plugin, fighting Gradle and AAR packaging, migrating a repo to Git LFS, and chasing a...",
-   "points": 1,
    "tech": "kotlin",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -748,6 +758,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3RmlITVBOVC1uWUx2NUtvTkpmeTdSTmRfNmFlZGlFRVZLaDdBWU1SWElsVnBHQzJzSmgzeV9WWXgwQWRSaG1KRXNuZExORTVJanJWbERn?oc=5",
    "date": "2025-07-18T08:00:27+00:00",
    "summary": "أسرار دورة حياة تطبيقات اندرويد - شرح عملي | Android Application Lifecycle | برمجة تطبيقات اندرويد YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اندرويد ستوديو 2025 - الكورس الكامل | شرح Android Studio | برمجة تطبيقات اندرويد",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWkZhNVAyVHNfWnR0czVCaGtTLVczQ0hXN0I5Q2pvZmRscUExOXVvV2J2TmpKUDNobzF5Mk5GeHlIUS00bVNXdERwZnJRY19DTWhVbkFGQXBsT0NvQ0NyNlV1T1BQcW1aeHA2VzdqNGk1UmtMb1dqM2FyZlA?oc=5",
+   "date": "2025-07-17T14:28:46+00:00",
+   "summary": "اندرويد ستوديو 2025 - الكورس الكامل | شرح Android Studio | برمجة تطبيقات اندرويد YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1112,6 +1132,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "بايثون برمجة تطبيقات موبايل (اندرويد وايفون) - الدرس الاول python flet",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZakRuczc4ZEtHUWE1Z1R0S3dHdWtWU1lCNlBtMFlrQXBpM2Nld2NtRDJJeE9KR1ItYWx2TW9WZDNhWG9ZYU1pM013R0ZoMHN6QnphdGlR?oc=5",
+   "date": "2024-09-03T12:37:22+00:00",
+   "summary": "بايثون برمجة تطبيقات موبايل (اندرويد وايفون) - الدرس الاول python flet YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Master Kotlin Coroutines & Flows With My NEW Masterclass!",

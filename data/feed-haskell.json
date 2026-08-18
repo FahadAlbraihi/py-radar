@@ -1,8 +1,19 @@
 {
- "generated": "2026-08-17T05:26:41.361336+00:00",
+ "generated": "2026-08-18T05:03:56.745320+00:00",
  "tech": "haskell",
  "count": 109,
  "items": [
+  {
+   "title": "Functional languages are heavily imperative.",
+   "url": "https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1",
+   "date": "2026-08-17T07:39:18+00:00",
+   "summary": "Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.",
+   "points": 7,
+   "tech": "haskell",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Is Seseragi a Functional Programming Language? I'm Not Sure.",
    "url": "https://dev.to/kentaromorishita/is-seseragi-a-functional-programming-language-im-not-sure-738",
@@ -383,17 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "Types and Compilers are our friends",
-   "url": "https://dev.to/zelenya/types-and-compilers-are-our-friends-3h77",
-   "date": "2026-03-30T03:19:47+00:00",
-   "summary": "The (natural) language we use is influenced by how we feel and what we think, but it also works the...",
-   "points": 7,
-   "tech": "haskell",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Installing Haskell: Setting up the space where ideas become programs",
    "url": "https://medium.com/@udarkw/installing-haskell-setting-up-the-space-where-ideas-become-programs-21ba7ec4ddb3?source=rss------haskell-5",
    "date": "2026-03-28T14:21:05+00:00",
@@ -764,6 +764,16 @@
    "lang": "en"
   },
   {
+   "title": "Basic Arithmetic in Haskell and Potential Problems with Division",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zQW9fenVUdjVEYzQ0b29WTXBaRnhWQlpiall6ZkxQWTk4RU9EYUZYZGotdjRIOVpHVUJyYWVNbktnSHBmalBIWVZqNlFDTnFMTUJ1ZTJ3?oc=5",
+   "date": "2023-12-19T15:00:03+00:00",
+   "summary": "Basic Arithmetic in Haskell and Potential Problems with Division YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Defining simple functions in Haskell (the basics)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlU0gyVjEycUhsU0VmcUh4OVI0Q0daaEptQWVBdnc0bTFzNVNkOFJBNWlKLUlBUk0yV2FmdEZFVXFMZmpvUEFaNU1IcmM4aXFRRGNrWENB?oc=5",
    "date": "2023-12-19T14:58:31+00:00",
@@ -934,6 +944,16 @@
    "lang": "en"
   },
   {
+   "title": "Build a Haskell Cabal Project",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oM0VtN2F6LVVyMUxobklKYl9qZk81N2kwT0xqX2s5MUdnWWllcDhLMDl4S3NNRy0yMVRfUldVLTlwU0JZRXh1TWV0V0ZWajNNcUM2elFn?oc=5",
+   "date": "2022-06-03T19:45:00+00:00",
+   "summary": "Build a Haskell Cabal Project YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Install Haskell Compiler & Cabal on Mac/Linux",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aUlI3SUJHNGFkVWloQWlTRmhvaTVEM0hPeTB0bGVsd255MDJSTmswbHRoTFBnVU5qQ0lISGQ4SjFjU0dWUXVUTnVFMjU4M2Jwa2xHVTVn?oc=5",
    "date": "2022-05-27T19:30:01+00:00",
@@ -988,6 +1008,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BV0Q5d2FlejlsVzkxYzRwS0hxRTZ5MHBEVE5vVlB4b3RYdlJWcll6V2VOVThMMUV5TWlTMWxnOEstUlRkMjVoUHhtY0F1R3lwV29MNWJn?oc=5",
    "date": "2021-09-08T00:15:48+00:00",
    "summary": "Learning Haskell Week 01 - Getting Started With Haskell Using VS Code (Updated) YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Literate Haskell but in C",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUXVCZ0xKbzBzU3BWUU9aSVRjMFUxSHFLUXJKNm96eDRqTTVNb1o3X1F5TlN6bktTNjB3ai1fZ2lJV25qdHRzUnJVZjN3M3RmNjJjY29R?oc=5",
+   "date": "2021-08-03T15:00:34+00:00",
+   "summary": "Literate Haskell but in C YouTube",
    "tech": "haskell",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1054,50 +1084,20 @@
    "lang": "en"
   },
   {
+   "title": "Haskell - Tutorial 2 - Functions and Lists",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QU2NSYlFreWtmaXlKNXhlU3BrQXg4NUtxRnB2TnpzNDhaT1JHNGIxVUJtcTJ0WXk1WUdBYzlHUFRJVGIyb2hQMHRzbnRGOEh1VWZzN1Zn?oc=5",
+   "date": "2020-10-03T17:21:39+00:00",
+   "summary": "Haskell - Tutorial 2 - Functions and Lists YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Let's Install/Use Haskell in VS Code",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dnBLZXdTdUpYR3JnSjI4UEw3c2ZUOTg5NXd6b1ZBS1VfcTB0bmdvSl92ekxBQjVYdGdQak1xTWRUb1FYYTJOTVI4Z3ZzR2xNbm1wRVln?oc=5",
    "date": "2020-09-14T10:30:00+00:00",
    "summary": "Let's Install/Use Haskell in VS Code YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Designing Hardware Systems and Accelerators with Open-Source BH (Bluespec Haskell)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdHluN09LVjc4aEtxOWpleUtpbU9QWmN3M0FUX1VEbzd6amlaY3hJQ2cyRUZDQndJWHBYX3FpeWlOam9RWjB0UXRRR2RZMDI1M2tzblJR?oc=5",
-   "date": "2020-08-27T20:17:40+00:00",
-   "summary": "Designing Hardware Systems and Accelerators with Open-Source BH (Bluespec Haskell) YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Higher-Order Functions Everywhere: Haskell, Lisp, Python, and C++",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rYmxDNUxoMlcwS2cwMG9fTGxaR0dNTjM1TElBZkFOSVkzS3JqVEE1dV9xd1BrT0tNWFV0Mm9HMTU1XzJqZ3M5M0Z1aWVwU05YczVvWXh3?oc=5",
-   "date": "2020-08-06T01:58:04+00:00",
-   "summary": "Higher-Order Functions Everywhere: Haskell, Lisp, Python, and C++ YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Haskell: Lazy Evaluation & Memoization",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12Y1ZFOHc3RFB2Zmt1ZVVhN3YxR2VfeE9BOTNEZjdkdUdnal9YRTFvZVQ4U0M1c0pXZDJ0ekdyQlBGTkZxamVYNzN5Z2JtbGhISV9NTlBn?oc=5",
-   "date": "2020-06-30T04:33:10+00:00",
-   "summary": "Haskell: Lazy Evaluation & Memoization YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Making Music with Haskell From Scratch",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZTE3czdBWFpFQmdmZENsQ3oxVkJ3YTF1SEVxeEI3TGJuTWF0VmN1VFRJR0xYT0VlekZnU1RVSng3eEE0bzFzaW5GVjZkNmM2dmNOc3V3?oc=5",
-   "date": "2020-05-30T16:00:11+00:00",
-   "summary": "Making Music with Haskell From Scratch YouTube",
    "tech": "haskell",
    "sourceId": "yt",
    "source": "YouTube",

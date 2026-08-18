@@ -1,8 +1,211 @@
 {
- "generated": "2026-08-17T05:23:36.806286+00:00",
+ "generated": "2026-08-18T05:00:31.295767+00:00",
  "tech": "linux",
  "count": 220,
  "items": [
+  {
+   "title": "Hak Akses File Linux",
+   "url": "https://medium.com/@hernandibagas/hak-akses-file-linux-b8f3559c1157?source=rss------linux-5",
+   "date": "2026-08-18T03:56:42+00:00",
+   "summary": "Tahukah kamu kalau seluruh keamanan data pentingmu di Linux ternyata cuma bergantung pada 3 huruf saja? Kunci rahasia r, w, dan x inilah&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Installed My Own Linux Kernel — Here’s What Actually Happened",
+   "url": "https://medium.com/@graj200026/i-installed-my-own-linux-kernel-heres-what-actually-happened-d188ef8411cd?source=rss------linux-5",
+   "date": "2026-08-18T02:46:13+00:00",
+   "summary": "What started as a simple experiment turned into a deep dive into kernels, system calls, bootloaders, drivers, memory, and the layers&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Built 193 Linux Commands for Windows and They’re All the Same File",
+   "url": "https://medium.com/@waytosarojkhanal/i-built-193-linux-commands-for-windows-and-theyre-all-the-same-file-c158ef20e130?source=rss------linux-5",
+   "date": "2026-08-18T02:04:28+00:00",
+   "summary": "I built a Linux command layer for Windows CMD. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "When Codex Arrived on Linux, The AI-Native OS Idea Changed",
+   "url": "https://medium.com/@atabarezz/when-codex-arrived-on-linux-the-ai-native-os-idea-changed-eb4aaced9153?source=rss------linux-5",
+   "date": "2026-08-17T23:40:02+00:00",
+   "summary": "TARS Revisited: I thought the future needed a new operating system. Maybe it needs a new relationship between humans and computers. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "# Linux do Zero",
+   "url": "https://medium.com/@rogeroliveira86/linux-do-zero-555c8dfb31b4?source=rss------linux-5",
+   "date": "2026-08-17T23:34:19+00:00",
+   "summary": "#1: o que &#xE9; Linux e qual distribui&#xE7;&#xE3;o escolher? Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How Bash Runs Scripts Without a Shebang",
+   "url": "https://medium.com/@u.mair/how-bash-runs-scripts-without-a-shebang-4bc14415a7b4?source=rss------linux-5",
+   "date": "2026-08-17T20:20:49+00:00",
+   "summary": "For anything running on the Linux kernel, process creation happens in two stages. The process is first created with the fork() or clone()&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding chmod Without Memorizing Numbers",
+   "url": "https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h",
+   "date": "2026-08-17T18:28:18+00:00",
+   "summary": "How Linux file permissions actually work under the hood, why symbolic mode is your best friend, and...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Dangerous Docker Firewall Bypass (And How to Fix It Using UFW)",
+   "url": "https://dev.to/sadaf_botanist/the-dangerous-docker-firewall-bypass-and-how-to-fix-it-using-ufw-59h1",
+   "date": "2026-08-17T16:53:40+00:00",
+   "summary": "Every backend engineer and systems administrator knows the importance of running a solid firewall....",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Run AI-Proposed Shell Commands in a systemd Probe Before You Run Them for Real",
+   "url": "https://dev.to/github_7727/run-ai-proposed-shell-commands-in-a-systemd-probe-before-you-run-them-for-real-2aed",
+   "date": "2026-08-17T16:36:40+00:00",
+   "summary": "Disclosure: This article was prepared as part of MonkeyCode's product outreach. A free model can...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Overview of the RTOS Kernel Project",
+   "url": "https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca",
+   "date": "2026-08-17T16:14:35+00:00",
+   "summary": "In previous tutorial, I've gave you the theoretical background about ARM Cortex-M3/4 processors. In...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built a small AI-native Linux desktop as a PoC",
+   "url": "https://dev.to/johnny_jakobsson_1508441a/i-built-a-small-ai-native-linux-desktop-as-a-poc-4ifc",
+   "date": "2026-08-17T15:54:04+00:00",
+   "summary": "GitHub: https://github.com/Johnny70/ladanaOS  I've been working on Ladana OS for a little over two...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Programming for Cybersecurity: What You Actually Need to Know",
+   "url": "https://dev.to/xyberghost007/programming-for-cybersecurity-what-you-actually-need-to-know-1d99",
+   "date": "2026-08-17T15:36:54+00:00",
+   "summary": "When I first got interested in cybersecurity, I thought it was all about tools. Nmap, Metasploit,...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Automating Nginx Installation on a Fresh Debian Server",
+   "url": "https://dev.to/pranjal-sharma/automating-nginx-installation-on-a-fresh-debian-server-5e1l",
+   "date": "2026-08-17T14:59:16+00:00",
+   "summary": "I started building a small Linux server administration project around managing a Debian VPS from the...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Noroboto: Lying Fonts y mitigación en Rust — lectura técnica sin hype",
+   "url": "https://dev.to/jtorchia/noroboto-lying-fonts-y-mitigacion-en-rust-lectura-tecnica-sin-hype-33k1",
+   "date": "2026-08-17T14:30:25+00:00",
+   "summary": "Las fuentes mienten. Noroboto documenta cómo el subsistema de texto puede devolver métricas incorrectas y propone mitigaciones en Rust. Antes de copiarlo a producción, hay que entender qué problema resuelve, dónde falla ",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time",
+   "url": "https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7",
+   "date": "2026-08-17T11:25:52+00:00",
+   "summary": "If cp or npm install feels impossibly slow in WSL2, crossing the Windows/Linux boundary is the tax — and workloads made of many small operat",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Writing a Minimal sched_ext Scheduler",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/writing-a-minimal-schedext-scheduler-5b8d",
+   "date": "2026-08-17T08:59:38+00:00",
+   "summary": "How to write a minimal sched_ext scheduler: the four callbacks, the dispatch queue model, and how to build, load and verify it on a current kernel.",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish",
+   "url": "https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1",
+   "date": "2026-08-17T06:06:10+00:00",
+   "summary": "Part 1 of 2. This part covers getting a kernel that can actually host virtual machines.             ...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Linux vs Unix: Which Should You Choose for Development in 2026?",
+   "url": "https://dev.to/vickybuilds/linux-vs-unix-which-should-you-choose-for-development-in-2026-34ia",
+   "date": "2026-08-17T05:01:47+00:00",
+   "summary": "Author: Vicky    [🔹 Profile] vickybuilds on Dev.to             Linux vs Unix: Which Should You Choose...",
+   "points": 5,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Niri Monitors - Mange Connected Monitors",
+   "url": "https://dev.to/xwaleedahmad/niri-monitors-mange-connected-monitors-261g",
+   "date": "2026-08-17T04:44:10+00:00",
+   "summary": "🚀 Excited to share something I've been building: Niri Monitors — an extension for Vicinae that lets...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Linux Kullanıcı Yönetimi: Shell Türleri: Interactive ve Non-Interactive",
    "url": "https://medium.com/@ozcankaraa/linux-kullan%C4%B1c%C4%B1-y%C3%B6netimi-shell-t%C3%BCrleri-interactive-non-interactiv-ve-alias-variable-2103acffb7f8?source=rss------linux-5",
@@ -11,6 +214,28 @@
    "tech": "linux",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "A green test is not a running reflex, and a running one is not a placed one",
+   "url": "https://dev.to/ilya_mozerov_867dbdd91feb/a-green-test-is-not-a-running-reflex-and-a-running-one-is-not-a-placed-one-2cl2",
+   "date": "2026-08-16T21:07:40+00:00",
+   "summary": "We run about 283 scheduled jobs across a handful of machines. Each one is a shell script...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Fixing Low USB-C Audio on Fedora Linux: My Battle with the Razer Leviathan",
+   "url": "https://dev.to/dannyslee1996/fixing-low-usb-c-audio-on-fedora-linux-my-battle-with-the-razer-leviathan-1bie",
+   "date": "2026-08-16T19:35:00+00:00",
+   "summary": "TL;DR: If you have a Razer Leviathan connected via USB-C on Linux and the volume is incredibly quiet...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -239,17 +464,6 @@
    "lang": "en"
   },
   {
-   "title": "What Did That Free-Model Setup Script Actually Do? Audit It With Honeypot Files and Syscall Traces",
-   "url": "https://dev.to/github_7727/what-did-that-free-model-setup-script-actually-do-audit-it-with-honeypot-files-and-syscall-traces-4eg1",
-   "date": "2026-08-15T03:19:10+00:00",
-   "summary": "Here is why this article is worth your time: you cannot tell what a generated setup script does by...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How I Put Fedora Linux on a Pixelbook: A Small Hardware Hacking Project",
    "url": "https://medium.com/@nick.page.home/how-i-put-fedora-linux-on-a-pixelbook-a-small-hardware-hacking-project-80271f284ced?source=rss------linux-5",
    "date": "2026-08-14T22:06:59+00:00",
@@ -267,79 +481,6 @@
    "tech": "linux",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Hands-On UFW Firewall on Ubuntu 24.04: Testing Network Ports with Kali Linux and Nmap",
-   "url": "https://tanya-bhardwaj20.medium.com/hands-on-ufw-firewall-on-ubuntu-24-04-testing-network-ports-with-kali-linux-and-nmap-fd57c5bf3268?source=rss------linux-5",
-   "date": "2026-08-14T21:10:58+00:00",
-   "summary": "Building a small virtual security lab to understand how firewall rules affect network connectivity. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Day 05 of My DevOps Journey: Disk Space and Resource Monitoring",
-   "url": "https://medium.com/@abhiyanlimbu4/day-05-of-my-devops-journey-disk-space-and-resource-monitoring-7f33411c0979?source=rss------linux-5",
-   "date": "2026-08-14T19:01:12+00:00",
-   "summary": "Today I took a deep dive into disk space and resource monitoring in Linux as part of my DevOps journey. It is one of those topics that&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Dosya ve Klasör İzinleri (Permissions)",
-   "url": "https://medium.com/@ozcankaraa/linux-dosya-ve-klas%C3%B6r-i%CC%87zinleri-permissions-f34e32b0c25f?source=rss------linux-5",
-   "date": "2026-08-14T16:38:28+00:00",
-   "summary": "Linux&#x2019;ta her &#x15F;ey bir dosyad&#x131;r. Bir dizin de dosyad&#x131;r, bir cihaz da dosyad&#x131;r, &#xE7;al&#x131;&#x15F;an bir s&#xFC;re&#xE7; bile /proc alt&#x131;nda dosya olarak temsil&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Make KDE Plasma 6.7 Look Like macOS in Minutes",
-   "url": "https://medium.com/@linuxscoop/how-to-make-kde-plasma-6-7-look-like-macos-in-minutes-f72b465b2b21?source=rss------linux-5",
-   "date": "2026-08-14T15:32:55+00:00",
-   "summary": "Testing Auto Customize Script v4.2 on a Linux Desktop Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Search Anything in Linux: The Complete Terminal Survival Guide",
-   "url": "https://dev.to/asepsayyad007/how-to-search-anything-in-linux-the-complete-terminal-survival-guide-38j",
-   "date": "2026-08-14T14:15:41+00:00",
-   "summary": "Whether you are managing cloud servers, debugging local applications, or building open-source...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Disk Usage: du and df",
-   "url": "https://dev.to/hrrydgls/linux-disk-usage-du-and-df-2pk5",
-   "date": "2026-08-14T12:27:06+00:00",
-   "summary": "If you work with Linux servers long enough, sooner or later you'll see this:    df -h        Enter...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine",
-   "url": "https://dev.to/anvaysingh/1setting-up-my-first-linux-server-on-a-mac-and-the-scary-messages-that-are-actually-fine-3lph",
-   "date": "2026-08-13T18:02:23+00:00",
-   "summary": "TL;DR   I set up a real Ubuntu Server VM on an Apple Silicon Mac using UTM, as step one toward...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -363,17 +504,6 @@
    "lang": "en"
   },
   {
-   "title": "You don't need to restart WireGuard to add a peer",
-   "url": "https://dev.to/ricco020/you-dont-need-to-restart-wireguard-to-add-a-peer-2b3l",
-   "date": "2026-08-13T15:09:57+00:00",
-   "summary": "Most guides answer \"how do I add a WireGuard peer\" with this:    wg-quick down wg0 &amp;&amp;...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "12 Awesome Linux apps you're likely never tried!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53X1NVclpjUktmNGNFRmdoaW5sbzBpUEZQbmZOSENTWjBrTVUzMndCM0FNMnhPc2RzUDVBZTQ5UXQ4S296Z3JRS05pZ0FrajEzbWk2cEVn?oc=5",
    "date": "2026-08-13T11:10:04+00:00",
@@ -381,116 +511,6 @@
    "tech": "linux",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "ChatGPT Desktop for Linux: A new way to interact!",
-   "url": "https://dev.to/mgobea/chatgpt-desktop-for-linux-a-new-way-to-interact-47ic",
-   "date": "2026-08-13T11:01:36+00:00",
-   "summary": "Architectural Analysis of LLM Integration within Linux Desktop Environments   The emergence...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Cómo solucionar `docker run` con exit code 1 en Raspberry Pi",
-   "url": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-559n",
-   "date": "2026-08-13T09:56:36+00:00",
-   "summary": "Cómo solucionar docker run con exit code 1 en Raspberry Pi            ¿Por qué ocurre este...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Case of the Vanishing Clipboard: Debugging a VirtualBox Guest Additions Conflict on Kali Linux",
-   "url": "https://dev.to/oyebobs/the-case-of-the-vanishing-clipboard-debugging-a-virtualbox-guest-additions-conflict-on-kali-linux-5cda",
-   "date": "2026-08-13T09:35:04+00:00",
-   "summary": "If you've ever run a Linux VM in VirtualBox and had copy-paste between your host and guest just......",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My Linux Journey",
-   "url": "https://dev.to/mrfoshi/my-linux-journey-5hbp",
-   "date": "2026-08-13T07:23:54+00:00",
-   "summary": "Intro  My Linux journey started with curiosity. I wanted to understand how computers really work, not...",
-   "points": 2,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your 32-bit Product Will Fail in 2038. Your Build Will Not Stop It.",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/your-32-bit-product-will-fail-in-2038-your-build-will-not-stop-it-2kml",
-   "date": "2026-08-13T05:56:09+00:00",
-   "summary": "A 32-bit time_t stops working in 2038. OE-core fixes it by default only since Yocto 4.3, and the QA check that would catch it is a warning, not an error.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Fix: Linux PC Wakes Up Instantly After You Suspend It",
-   "url": "https://dev.to/better_call_sriz/fix-linux-pc-wakes-up-instantly-after-you-suspend-it-30bp",
-   "date": "2026-08-13T05:43:49+00:00",
-   "summary": "The Problem   You hit suspend. Screen goes black. A second later, it's back on, showing the...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Embedded Linux Boot Time — Part 2: Measuring the Kernel and User Space",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/embedded-linux-boot-time-part-2-measuring-the-kernel-and-user-space-3906",
-   "date": "2026-08-13T05:21:30+00:00",
-   "summary": "A long initcall is usually a blocked initcall, and the log cannot tell you which. Read initcall_debug without being misled, find the real blocker with systemd-analyze critical-chain, and act on the timeline.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Practical Set F Solution – Count Files and Directories",
-   "url": "https://dev.to/teamworkfahad/linux-practical-set-f-solution-count-files-and-directories-58l7",
-   "date": "2026-08-13T04:30:00+00:00",
-   "summary": "In this article, we will solve VNSGU TYBCA Semester 5 Linux (UNIX) Practical – Set F using shell...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Homelab barato en Japón (y cómo instalarlo) 2026",
-   "url": "https://dev.to/kilydev/homelab-barato-en-japon-2026-1pb9",
-   "date": "2026-08-13T01:33:50+00:00",
-   "summary": "La guía que preparé para quienes vivimos en Japón y queremos montar un servidor local sin gastar una...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Escribir Caracteres del Español con Teclado Inglés en Linux: Hackeando XKB sin Permisos de Root",
-   "url": "https://dev.to/fefeco/escribir-caracteres-del-espanol-con-teclado-ingles-en-linux-hackeando-xkb-sin-permisos-de-root-48h8",
-   "date": "2026-08-12T17:41:25+00:00",
-   "summary": "Cómo escribir vocales acentuadas (á, é, í, ó, ú) y la ñ en un teclado en inglés bajo Linux sin lidiar con teclas muertas ni requerir root.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -1204,6 +1224,16 @@
    "lang": "ar"
   },
   {
+   "title": "Omarchy - Hyprland | تنصيب ومراجعة شاملة – هل تعتبر توزيعة فعلًا؟!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1bzRtMllPYVdYS2ltRUhpaGNzZzlHOElfTEVzMGpmMTl4aUVVNUZwRUZQa3dhM2ZpMDBrQ0NyWW9HX1duOFlDVkplb0hlR2hfUTR1dHln?oc=5",
+   "date": "2025-10-23T16:00:50+00:00",
+   "summary": "Omarchy - Hyprland | تنصيب ومراجعة شاملة – هل تعتبر توزيعة فعلًا؟! YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Introduction to Linux | Linux Full Course 2026 | Linux Tutorial for Beginners | Simplilearn",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0MGZIdjJLcVN4d3kxMFFCS1AzV1o5c0JSWGpFT2ROS1hwSXJMM0FSaDlVZnNFSEF5RjJHN3BMaG9VcVNmNnVBQk1GU1ZlWk9UcHRwaVFB?oc=5",
    "date": "2025-10-23T06:00:26+00:00",
@@ -1282,6 +1312,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Installing Google Chrome on Ubuntu For Odoo Developer",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05YzZ1dmN3RzE1RHNRTm1OZWU3aWZnekluX0Y5Ty1MQVpaZkUwc0xyUlc2YmF1c1drcUFFakFUVWZwUkpPak9YTkdEQ2Y3eWRMaEd4eERn?oc=5",
+   "date": "2025-08-28T16:56:29+00:00",
+   "summary": "Installing Google Chrome on Ubuntu For Odoo Developer YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Debian 13 Upgrade | الترقية خطوة بخطوة وحل مشاكل الإقلاع GRUB",
@@ -1514,6 +1554,16 @@
    "lang": "en"
   },
   {
+   "title": "20% of Linux Commands You'll Use 80% of the Time (Real-World Example)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52eFpxWFIwUE1qdGpDWkRTS1dsSEJyeHFXMnFiUzdGOGpReFZzWFJyQ0lxclJCREczUGxCM2dtUzlRS2JUd3piYXlsWW8zY1NKX3AycWt3?oc=5",
+   "date": "2025-04-08T14:09:29+00:00",
+   "summary": "20% of Linux Commands You'll Use 80% of the Time (Real-World Example) YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Master Linux Fast: Complete Linux+ Certification Course (100% FREE) XK0-005",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41aUdGcV9SclFac0JYamdQWWdlUzgtb21MQnZsM0U4V1QtaUJHdUtXWi0wNUVjVFdQcF9lWDAtLW4tZTBHUWItNUZtUXRCLXpzc1hmMVJn?oc=5",
    "date": "2025-04-01T16:01:07+00:00",
@@ -1644,16 +1694,6 @@
    "lang": "ar"
   },
   {
-   "title": "069-Network Services-apache part1-Linux Course 2024",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VMjBRa29Tc3l6NVZYUUxyREhOeGF6c0w5amM0VWwxRzhzUUxkYUhyeW9HNnRkTXRuSEhCQmtpRTNvYkEzeE5lSHR6aG41dTh5MmdiSFFR?oc=5",
-   "date": "2025-01-08T09:00:44+00:00",
-   "summary": "069-Network Services-apache part1-Linux Course 2024 YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كيفية تثبيت البرامج على أوبونتو 24.04",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nc0tydGZuYm9nQXI3OHZXM1ZheloybVdkZWRVTVlqVVFYdTBDRHZHZFZZSjdPVElaZXJPTUFCS3pTNHlscWZPVFJ2LS02Ujc1Wjk2aXB3?oc=5",
    "date": "2025-01-03T16:38:29+00:00",
@@ -1672,16 +1712,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Complete Linux Training Course to Get Your Dream IT Job - Part 2",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OFRvMDNnRDA2OG9uTGhHVGE0T1Q0eFR2SmhHVjZoNkMwVUh2OGtTSmwwdWJWcWcxX1FkVUkxWEtkOVJzNnBySXVibjhGbHdWRU42ejF3?oc=5",
-   "date": "2024-12-04T00:53:10+00:00",
-   "summary": "Complete Linux Training Course to Get Your Dream IT Job - Part 2 YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "لينكس للمبتدئين",
@@ -1754,16 +1784,6 @@
    "lang": "ar"
   },
   {
-   "title": "Dwonload and Install Ubuntu on VMware Workstation Player Windows",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oTW04bWlsaXBEX25Vb1I2MjlsNTY0aTV0YWpTcFZBbDBaOE82QXdGTXNKVDBfUVN3ZTg2RHp0SXJ2bDBrQmwxSFVoRDZkdU1NZlJTbUJ3?oc=5",
-   "date": "2024-10-06T21:00:35+00:00",
-   "summary": "Dwonload and Install Ubuntu on VMware Workstation Player Windows YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تثبيت أوبونتو UBUNTU على أجهزة الماك 2024 💻🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2aTJiX2MtdHdjUmkxanZCbEZSUGMyejZna2VlSmxvelhPVF9RbVNhd2dYS2JkMWF4X0JmRDlNRWdteTJfQV93RnFZSEdiV1dubDJ6Q0d3?oc=5",
    "date": "2024-10-06T16:30:52+00:00",
@@ -1782,16 +1802,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Linux Device Drivers Development Course for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHWU9EQUYzTHIxN0JYYnJxeFNURkZQNVUzc1UzNmhDY0VTRGZlb3NTNEpSZHJYRmNvYnY5Um5hR19SME5EU3VJc1hQZVVESmpKb1dLbkFB?oc=5",
-   "date": "2024-10-02T15:42:44+00:00",
-   "summary": "Linux Device Drivers Development Course for Beginners YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "openSUSE Leap | تنصيب ونظرة عامة على التوزيعة",
@@ -2218,16 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FSkNDRTBIS0pocDBwb2FqMl9nRU5ZN0YzZk83V3drWkZ6OGRZV0czd2lvVnM5eE96ZWVwVTRzM1pCMTkwQmxWUW1WOWtiNDh1cllSYjR3?oc=5",
    "date": "2023-07-27T11:30:05+00:00",
    "summary": "ليش لازم تتعلم لينكس بأسرع وقت #لينكس #linux YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Peppermint OS | تنصيب ونظرة على توزيعة خفيفة وسهلة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcmtkeHRjbDZ4aVRMbWhzR1RoZVM1WDZRTkxrR2VFdmtlZW10OElKV2RTVlhEeGNsdHhkOTBLRk5iX2o1RnFLaklEd0lrYlV0dFBTNHBB?oc=5",
-   "date": "2023-07-03T16:00:41+00:00",
-   "summary": "Peppermint OS | تنصيب ونظرة على توزيعة خفيفة وسهلة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",

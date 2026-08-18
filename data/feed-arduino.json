@@ -1,8 +1,107 @@
 {
- "generated": "2026-08-17T05:30:47.340305+00:00",
+ "generated": "2026-08-18T05:08:40.446355+00:00",
  "tech": "arduino",
  "count": 220,
  "items": [
+  {
+   "title": "AI in Manufacturing: Where It Creates Real Value—and Where It Doesn't",
+   "url": "https://dev.to/fathimath_fida_ffbda72c61/ai-in-manufacturing-where-it-creates-real-value-and-where-it-doesnt-3iea",
+   "date": "2026-08-18T04:59:56+00:00",
+   "summary": "AI becomes more popular in manufacturing.  Predictive maintenance, computer vision, demand...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Mastering Remote IoT Device Management: A 2026 Developer Perspective",
+   "url": "https://dev.to/devandrew/mastering-remote-iot-device-management-a-2026-developer-perspective-1h2b",
+   "date": "2026-08-17T14:44:47+00:00",
+   "summary": "Managing a fleet of single-board computers like Raspberry Pis at scale introduces significant...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SPI, I2C, UART: How To Trigger On What Matters Instead Of Drowning In Noise",
+   "url": "https://dev.to/numbpill3d/spi-i2c-uart-how-to-trigger-on-what-matters-instead-of-drowning-in-noise-5ac5",
+   "date": "2026-08-17T14:41:17+00:00",
+   "summary": "If you have ever opened Saleae Logic or PulseView and stared at 40 seconds of SPI at 8MHz, you know...",
+   "points": 4,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Linux 7.2 Is Out: What Embedded Teams Should Test First",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/linux-72-is-out-what-embedded-teams-should-test-first-1phe",
+   "date": "2026-08-17T13:41:29+00:00",
+   "summary": "Linux 7.2 is out. What actually changes for embedded: cache-aware scheduling, SPI NAND randomizer, dma-buf heaps as modules, dm-inlinecrypt, removals.",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AIoT and the Physical World: Turning Connected Data Into Industrial Intelligence",
+   "url": "https://dev.to/samra_mahmood_235c878310b/aiot-and-the-physical-world-turning-connected-data-into-industrial-intelligence-31li",
+   "date": "2026-08-17T11:18:07+00:00",
+   "summary": "IoT systems can tell you what is happening in the physical world. AI can help you understand patterns...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Single-Process Architecture in Rust: Why We Rejected Microservices for an Edge AI Platform",
+   "url": "https://dev.to/mingming_shen_85ea2348fec/single-process-architecture-in-rust-why-we-rejected-microservices-for-an-edge-ai-platform-3he6",
+   "date": "2026-08-17T09:50:56+00:00",
+   "summary": "Microservices are the default for new projects — but they fall apart at the edge. Here's how we built a single-process Rust platform that outperforms an 8-container stack on a Raspberry Pi.",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Resilient Edge Architectures: The Backbone of Industrial AIoT",
+   "url": "https://dev.to/techwithunnati/building-resilient-edge-architectures-the-backbone-of-industrial-aiot-15kj",
+   "date": "2026-08-17T06:48:25+00:00",
+   "summary": "When technology bloggers and software developers transition from standard cloud architecture to...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Zero-Latency Event Architecture: Integrating LED RFID with Cloud Dashboards",
+   "url": "https://dev.to/stampiq/building-zero-latency-event-architecture-integrating-led-rfid-with-cloud-dashboards-379d",
+   "date": "2026-08-17T05:29:33+00:00",
+   "summary": "Building Zero-Latency Event Architecture: Integrating LED RFID with Cloud Dashboards Building...",
+   "points": 1,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The microSD Card Is the Weakest Part of a 24/7 Phone Camera (Silent Write Failure, Wear Cycles, and the Only Honest Test)",
+   "url": "https://dev.to/superfunicular/the-microsd-card-is-the-weakest-part-of-a-247-phone-camera-silent-write-failure-wear-cycles-and-3lf9",
+   "date": "2026-08-17T04:43:24+00:00",
+   "summary": "A phone recording 24/7 is not really a camera problem. It is a sustained-write problem wearing a...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud & More Compared",
    "url": "https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c",
@@ -15,11 +114,33 @@
    "lang": "en"
   },
   {
+   "title": "10 Devices and 10,000 Devices Are Completely Different Problems",
+   "url": "https://dev.to/jeem/10-devices-and-10000-devices-are-completely-different-problems-1el4",
+   "date": "2026-08-16T16:07:07+00:00",
+   "summary": "You can manually configure 10 devices.  You probably don't want to manually configure 10,000.  At...",
+   "points": 1,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Edge Computing Finally Made Sense to Me When I Thought About Latency",
+   "url": "https://dev.to/jeem/edge-computing-finally-made-sense-to-me-when-i-thought-about-latency-a34",
+   "date": "2026-08-16T15:36:04+00:00",
+   "summary": "\"Edge computing\" can sound like one of those technology buzzwords.  The basic idea is actually pretty...",
+   "points": 1,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
    "url": "https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f",
    "date": "2026-08-15T21:30:22+00:00",
    "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works.  I have a lot of...",
-   "points": 6,
+   "points": 7,
    "tech": "arduino",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -147,6 +268,16 @@
    "lang": "en"
   },
   {
+   "title": "This ESP32 Automatically Fills the Tank",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90OUdNRFFYLVp2VDhRYWdpYl9ONE1FTEJRRk9zSEY0bjB3Z3NVSGdmLUNlZHQ4eWY2Sm1jSm1FVzNSRWNNWWw0ckgxOW9EbDlFd3dNZw?oc=5",
+   "date": "2026-08-13T17:31:33+00:00",
+   "summary": "This ESP32 Automatically Fills the Tank YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "A dumb protocol is a feature, not a compromise",
    "url": "https://dev.to/dev-into-space/a-dumb-protocol-is-a-feature-not-a-compromise-2elh",
    "date": "2026-08-13T15:16:52+00:00",
@@ -245,17 +376,6 @@
    "kind": "project"
   },
   {
-   "title": "🏗️ How I Built MyZubster: A Decentralized Green Ecosystem with AI, IoT and Blockchain\"",
-   "url": "https://dev.to/danielioni/how-i-built-myzubster-a-decentralized-green-ecosystem-with-ai-iot-and-blockchain-41g7",
-   "date": "2026-08-13T03:44:28+00:00",
-   "summary": "🏗️ How I Built MyZubster: A Decentralized Green Ecosystem with AI, IoT and...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Hardware Hacking on a Budget — The Red Teamer’s Physical Arsenal",
    "url": "https://medium.com/@muhammad_talha/hardware-hacking-on-a-budget-the-red-teamers-physical-arsenal-100814bfd65a?source=rss------arduino-5",
    "date": "2026-08-13T02:06:01+00:00",
@@ -276,28 +396,6 @@
    "lang": "en"
   },
   {
-   "title": "Building Real-Time Alerting on Top of Fleet Telematics APIs: 5 Lessons",
-   "url": "https://dev.to/isaias_perez_intelia/building-real-time-alerting-on-top-of-fleet-telematics-apis-5-lessons-4dl6",
-   "date": "2026-08-12T19:44:12+00:00",
-   "summary": "Fleet telematics platforms (Geotab, Zonar, and similar GPS/ELD systems) expose a firehose of...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built an LLM Agent That Reads Real PLCs — Here's What Nobody Tells You About Tool Calling with Industrial Protocols",
-   "url": "https://dev.to/philyeh/i-built-an-llm-agent-that-reads-real-plcs-heres-what-nobody-tells-you-about-tool-calling-with-1dm1",
-   "date": "2026-08-12T09:19:53+00:00",
-   "summary": "Six months ago I wrote about how a \"viral\" Dev.to article promoting a Local RAG tool sold exactly one...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Build a No-Code ePaper Weather Dashboard with XIAO EE05",
    "url": "https://www.hackster.io/iotprojectsideas/build-a-no-code-epaper-weather-dashboard-with-xiao-ee05-a96da9",
    "date": "2026-08-12T02:02:42+00:00",
@@ -307,28 +405,6 @@
    "source": "مشاريع",
    "lang": "en",
    "kind": "project"
-  },
-  {
-   "title": "Arduino 5V 4-Channel Relay Module: Pinout, Wiring and How It Works",
-   "url": "https://dev.to/play_withcircuit_241ef87/arduino-5v-4-channel-relay-module-pinout-wiring-and-how-it-works-4i16",
-   "date": "2026-08-11T05:18:24+00:00",
-   "summary": "An Arduino can easily control LEDs, sensors, displays, and other low-voltage components. But what...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Using ESP32 with Waveshare OLEDs and Adafruit Graphics",
-   "url": "https://dev.to/presidentbeef/using-esp32-with-waveshare-oleds-and-adafruit-graphics-21eh",
-   "date": "2026-08-10T19:20:41+00:00",
-   "summary": "Sharing how to do since it took me a bit to get working (and this way I can set it up again in the...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "AI Robot from Scratch with Arduino UNO Q",
@@ -352,6 +428,17 @@
    "lang": "en"
   },
   {
+   "title": "Speed Math Cannon Game using Arduino in EWsim",
+   "url": "https://www.hackster.io/joaquin51/speed-math-cannon-game-using-arduino-in-ewsim-204eb3",
+   "date": "2026-08-08T07:21:51+00:00",
+   "summary": "Building a speed math cannon game in EWsim",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
+  },
+  {
    "title": "Como consumir uma API REST no ESP32 de forma simples, sem precisar fazer parsing manual de JSON",
    "url": "https://pedrofnseca.medium.com/como-consumir-uma-api-rest-no-esp32-de-forma-simples-sem-precisar-fazer-parsing-manual-de-json-4c8ecc4c4a4a?source=rss------arduino-5",
    "date": "2026-08-08T04:02:57+00:00",
@@ -373,39 +460,6 @@
    "kind": "project"
   },
   {
-   "title": "# MyZubster Goes Green: Connecting Monero Payments, Urban Gardens, and Arduino Sensors",
-   "url": "https://dev.to/danielioni/-myzubster-goes-green-connecting-monero-payments-urban-gardens-and-arduino-sensors-2lhl",
-   "date": "2026-08-06T11:54:28+00:00",
-   "summary": "MyZubster Goes Green: Connecting Monero Payments, Urban Gardens, and Arduino...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🌱 MyZubster Goes Green - XMR Payments, Urban Gardens & Arduino Sensors!\"",
-   "url": "https://dev.to/danielioni/myzubster-goes-green-xmr-payments-urban-gardens-arduino-sensors-20l",
-   "date": "2026-08-06T11:52:01+00:00",
-   "summary": "🌱 MyZubster Goes Green - XMR Payments, Urban Gardens &amp; Arduino Sensors!   MyZubster is...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "This Giant 16 2 Character Display Runs on an RP2040 and 1,000 LEDs",
-   "url": "https://dev.to/circuitrocks/this-giant-16x2-character-display-runs-on-an-rp2040-and-1000-leds-1938",
-   "date": "2026-08-05T22:08:12+00:00",
-   "summary": "Giant 16 2 Character: A maker rebuilt the classic 16×2 character LCD at 7x scale using 1,000+ addressable LEDs and an RP2040 that still speaks I2C to any Arduino sketch.",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Lynx Serial Monitor: Modern Open-Source UART Debugging Tool",
    "url": "https://www.hackster.io/552766/lynx-serial-monitor-modern-open-source-uart-debugging-tool-e50a47",
    "date": "2026-08-04T15:49:54+00:00",
@@ -415,39 +469,6 @@
    "source": "مشاريع",
    "lang": "en",
    "kind": "project"
-  },
-  {
-   "title": "Build a Working Apollo DSKY Replica with Raspberry Pi and Arduino",
-   "url": "https://dev.to/circuitrocks/build-a-working-apollo-dsky-replica-with-raspberry-pi-and-arduino-m1p",
-   "date": "2026-08-03T22:07:13+00:00",
-   "summary": "Working Apollo DSKY Replica: A maker rebuilt the Apollo DSKY with a Raspberry Pi, Arduinos, and open-source VirtualAGC. Every CAD file and schematic is free, so you can build one too.",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Servo Motor vs Stepper Motor vs DC Motor: Which Should You Use for Arduino Projects?",
-   "url": "https://dev.to/chip-pk/servo-motor-vs-stepper-motor-vs-dc-motor-which-should-you-use-for-arduino-projects-1992",
-   "date": "2026-08-03T11:00:45+00:00",
-   "summary": "Servo Motor vs Stepper Motor vs DC Motor: Which Should You Use for Arduino...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How These DIY Robot Legs Walk on an Arduino Mega 2560",
-   "url": "https://dev.to/circuitrocks/how-these-diy-robot-legs-walk-on-an-arduino-mega-2560-1kag",
-   "date": "2026-08-01T09:08:40+00:00",
-   "summary": "DIY Robot Legs Walk: Maker Oliver Paff built a working pair of walking humanoid robot legs using an Arduino Mega 2560, a PCA9685 driver, and eight hobby servos. Here is how.",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "Smart Study Space Monitor Assistant",
@@ -952,6 +973,16 @@
    "lang": "en"
   },
   {
+   "title": "How To Build Your Own Weather Station With Arduino",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VTzNfSHdETlQzNUx2VlkwWEx6M2NfTTRkTU9SamVjUGJQRDRwVHl2b2pqbWx0cDB1XzZCNV9DRS00RWZmbVZMc3F3UzNkSUptWUJrazNn?oc=5",
+   "date": "2024-09-05T16:00:32+00:00",
+   "summary": "How To Build Your Own Weather Station With Arduino YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Arduino Plug & Make kit: no more breadboards!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMFE0MUY5Z09udVJRV1ppbjJvb1BlZ2xwMUlHWHlUdEJHZ0JibTI0SzVLdEVQXzJrYmlPeVp1QnYxQUhtU3FfMzl5azJwR25kXzdtaC1R?oc=5",
    "date": "2024-08-21T16:04:48+00:00",
@@ -986,6 +1017,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NWklnRjZObE1lTUZnOFNPYmdPR1E2WWRfWmU2cU5qVDFpYnlRaF8zaElEODJDWG5fTVRwV2lxN2pRaWl3YmZUTm84VDZ4NzllNWhpNTF3?oc=5",
    "date": "2024-08-01T12:10:35+00:00",
    "summary": "منصة ARDUINO IOT CLOUD أفضل منصة لمشاريع إنترنت الأشياء YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "مشاريع اردوينو Arduino projects",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50bkRfNXJHeURYS0NYR0pDSThraWxhcDdLOGJpamE3R3N6TUljRk9waHZzVkxrTlFUX1NqRFZzZmxxSWRxeXhUYXB3dFktR1J2VzNxLUNFeWhGNlktdncxYWU4VzdDdjFlNTZ1Q29peF9yeXJmaFpJbnFYcHU?oc=5",
+   "date": "2024-07-03T17:18:08+00:00",
+   "summary": "مشاريع اردوينو Arduino projects YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1136,6 +1177,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZnFNR3RtSUN1ZEFQY2FlYzBseEk5S2lIN3VHdFJ4MzlGYW5feDl6NGVvaVMyMHdFWnlwbDFwMVNhdnA1UnM1SDl0S0JNRnVFN3Nld0NR?oc=5",
    "date": "2024-01-19T03:30:03+00:00",
    "summary": "How to Connect a Water Flow Sensor to an Arduino Microcontroller #embedded #tutorial #arduino #diy YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How to Connect a Force Sensor to an Arduino Microcontroller #embedded #tutorial #sensors #arduino",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZXZZblFiQndRZ0RrSW5feGlOM3VjcGVoVWxNb0pESU84ZXU2aWNyazhIaWk3ZjVkZzA1em12MnEzSzVBMDJEY1N0dEd5Vm5WbU9Pc2JB?oc=5",
+   "date": "2024-01-18T03:30:19+00:00",
+   "summary": "How to Connect a Force Sensor to an Arduino Microcontroller #embedded #tutorial #sensors #arduino YouTube",
    "tech": "arduino",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1652,36 +1703,6 @@
    "lang": "ar"
   },
   {
-   "title": "Introduction to Embedded Machine Learning 1.3.1 - Getting Started with Edge Impulse",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UX19XcVEzT0dNRnl0WkcwNndZTXdZVWw0LWcyeVNzelF6NTY4X0FLTW56OWlZd2RCX1ZyajBtdXM4YTh5QVBrbHZycW8yN0hFODdsdVVB?oc=5",
-   "date": "2022-05-03T14:16:56+00:00",
-   "summary": "Introduction to Embedded Machine Learning 1.3.1 - Getting Started with Edge Impulse YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to Embedded Machine Learning 2.3.3 - How to Deploy a Trained Model to Arduino",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Ym9tQ1VzOGxVZVlsNkhUZjBHMklRRUdTaU9Dc3FfWGlKenRkZGFQa1l1Ymx3bWxSbnVrLXdkZVpER3EyVE5zZnBKY2hxX3RoRWFsUUJR?oc=5",
-   "date": "2022-05-03T14:16:56+00:00",
-   "summary": "Introduction to Embedded Machine Learning 2.3.3 - How to Deploy a Trained Model to Arduino YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to Embedded Machine Learning 1.5.1 - Review of Module 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13c25jMUZXOWhEV3FuSnRaOFFWSW4zb3RxVjVmZlBRWndHaXNFN0YxSXFVVVFmLUhleHk1N3p2c1FGMEdmRGc3c2dWZU5fR2hnNmdzbXVn?oc=5",
-   "date": "2022-05-03T14:16:56+00:00",
-   "summary": "Introduction to Embedded Machine Learning 1.5.1 - Review of Module 1 YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "البلوتوث مع الأردوينو - التحكم بتطبيق أندرويد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81X2k3aVN0WlpjZEJEMmxYVDFidFd5OVZHTUg1YzY4VF9aRnM5d3poWUZGRFFTLTZDaDVGYnJNeUp3WWZwdUhXVDZ3dXRzT2ZqbldaMFlB?oc=5",
    "date": "2022-04-30T04:38:06+00:00",
@@ -1750,16 +1771,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Rust Runs on EVERYTHING, Including the Arduino | Adventures in Embedded Rust Programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mMzJLTlRKWUxTck1vdTZhQm40a0lxbjc2OWZVQ2I1MllSZGl3X3JtRmg0Y1BWRGFlZEhQT1JaQnpvcGdZVkMtU19sRGt5SkRHYUtOWkJn?oc=5",
-   "date": "2022-02-06T13:00:27+00:00",
-   "summary": "Rust Runs on EVERYTHING, Including the Arduino | Adventures in Embedded Rust Programming YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "استخدام #smoking sensor وتوصيله مع #arduino شرح بالعربي",
@@ -1832,10 +1843,30 @@
    "lang": "ar"
   },
   {
+   "title": "☑️ أردوينو للمبتدئين - طريقة استعمال زر الضغط كمفتاح تبديل",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPUjZuUy1KT1lqa1B4WURWV01pdG44d1JCVzhQeWRNcmV1UFRNb1J3aWhENDhwZVZRdjBYeUZSUnNGTHF6VGMxV3hkUWNDSE9GY3JNUWpn?oc=5",
+   "date": "2021-10-29T17:11:50+00:00",
+   "summary": "☑️ أردوينو للمبتدئين - طريقة استعمال زر الضغط كمفتاح تبديل YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "01- ARM32 | Introduction To Embedded Systems | محمد يوسف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wamIwZmZTUzR4MjY1VDVGX0xiUHhDV1pQV0dkSWRURk5ESGZVYmF0MnpIbTh4alZES0dUUDNybnQ0RThLWllRY2RCNk9DOUo0b3ZWMnF3?oc=5",
    "date": "2021-10-20T23:00:11+00:00",
    "summary": "01- ARM32 | Introduction To Embedded Systems | محمد يوسف YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الأردوينو في 6 ساعات | تعلم البرمجة والتحكم في الأشياء عن بُعد عملياً",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mcUZ3dTFjSlBWWlo1MFJrcEQ0MnpvdXRfTHZMUmNQczJZM0d6d2tMZ014TE1iY1Z0NC15MjZBRi1zSG9MNmNOTmVlN1hFNTlMOUl0Q0JR?oc=5",
+   "date": "2021-07-30T22:02:18+00:00",
+   "summary": "الأردوينو في 6 ساعات | تعلم البرمجة والتحكم في الأشياء عن بُعد عملياً YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2206,36 +2237,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RN084TVIzRDdtdTVUQ2kzc09ONHZYQUpfR1VkZWEzbXEzc1NjSDRycTM0RkZxWThNR3hDeDRPWHU3bW9ycm5GRU1tTzdJMFJWQlVxSUxR?oc=5",
    "date": "2018-07-19T22:38:08+00:00",
    "summary": "شرح برنامج Arduino IDE YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح طريقة تحميل الكود من الكمبيوتر الى بوردة الاردوينو",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MaG1yQlRXTDAycWRlaWwzTmNJMTNuRFdKaFNJYW53dGFjTm96bEVpOWVwRkg0Yk05czJVSFI1ZXY0QXRJNU9kUHFwdUtBTjVzbjE4T1Jn?oc=5",
-   "date": "2018-07-19T20:22:15+00:00",
-   "summary": "شرح طريقة تحميل الكود من الكمبيوتر الى بوردة الاردوينو YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "☑️اردوينو للمبتدئين - مقدمة عن Arduino IDE",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50X1pBX05jcXJIRHpnQXlncTlZVXdEN0hYZXEzUDkwTVpPdGZ0SjcxMkpjSDVaUzllZXQtOHNpczRHaWNKS2JsNGphbG5RSmh5OHVSM3hn?oc=5",
-   "date": "2018-07-08T17:22:06+00:00",
-   "summary": "☑️اردوينو للمبتدئين - مقدمة عن Arduino IDE YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Embedded Systems Course Trailer | كورس برمجة ميكروكنترولر | مقدمة لدورة تعلم برمجة الأنظمة المدمجة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bzVRV0ZvNGppVlBzbExSODE3QjE3MThTNXJlMTZpTzVVWENaeUlMUS1NMlJ1TEFHdnJoR3F4ZGZxT0RtYmtGeXRrNTloYzlXYWhFN1BB?oc=5",
-   "date": "2018-07-03T15:02:14+00:00",
-   "summary": "Embedded Systems Course Trailer | كورس برمجة ميكروكنترولر | مقدمة لدورة تعلم برمجة الأنظمة المدمجة YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,8 +1,139 @@
 {
- "generated": "2026-08-17T05:21:09.188384+00:00",
+ "generated": "2026-08-18T04:58:01.142173+00:00",
  "tech": "rust",
- "count": 113,
+ "count": 115,
  "items": [
+  {
+   "title": "The test asserted exactly what could not fail",
+   "url": "https://dev.to/cleiton_augusto_/the-test-asserted-exactly-what-could-not-fail-77",
+   "date": "2026-08-18T00:05:54+00:00",
+   "summary": "Over the last month I found correctness bugs in three different quantum software projects. All three...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Three gates that should have left one behind",
+   "url": "https://dev.to/cleiton_augusto_/three-gates-that-should-have-left-one-behind-409h",
+   "date": "2026-08-18T00:04:04+00:00",
+   "summary": "I have been building a linter for quantum chemistry setups, nqf-lint. Some of it is easy. Some of it...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AI Agents Don’t Need More Context. They Need Memory.",
+   "url": "https://dev.to/mikeross27/ai-agents-dont-need-more-context-they-need-memory-470o",
+   "date": "2026-08-17T23:11:37+00:00",
+   "summary": "We keep making AI models better at reasoning.  We give them larger context windows.  We connect them...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Hashing across architectures",
+   "url": "https://dev.to/geauxvirtual/hashing-across-architectures-3fb4",
+   "date": "2026-08-17T22:56:04+00:00",
+   "summary": "In a previous post, I mentioned how just because you develop on a brand new or nearly new laptop...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A blockchain is a line. We built a mesh: the architecture of offline-first validation",
+   "url": "https://dev.to/navigatorbuilds/a-blockchain-is-a-line-we-built-a-mesh-the-architecture-of-offline-first-validation-564f",
+   "date": "2026-08-17T21:51:37+00:00",
+   "summary": "Written by Elara, the AI maintainer of Elara Protocol, published under the account of my human...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I'm an AI maintainer. This month, strangers checked my work.",
+   "url": "https://dev.to/navigatorbuilds/im-an-ai-maintainer-this-month-strangers-checked-my-work-139n",
+   "date": "2026-08-17T21:36:34+00:00",
+   "summary": "Written by Elara, the AI maintainer of Elara Protocol, and published under the account of Nenad...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Detecting Duplicate Python Code Is Harder Than Comparing Text",
+   "url": "https://dev.to/spongeb0b/detecting-duplicate-python-code-is-harder-than-comparing-text-3hdo",
+   "date": "2026-08-17T16:59:54+00:00",
+   "summary": "Detecting Duplicate Python Code Is Harder Than Comparing Text   The hard part isn't finding...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Coding Agent Can Read the Code—but Can It See the App Fail?",
+   "url": "https://dev.to/akosidencio/your-coding-agent-can-read-the-code-but-can-it-see-the-app-fail-49dc",
+   "date": "2026-08-17T14:52:44+00:00",
+   "summary": "TailFlow gives coding agents access to live local runtime evidence through MCP, a CLI, a TUI, and a web dashboard.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Meet the Programmer Who Scaled a Pizza Restaurant Into an International Company",
+   "url": "https://hackernoon.com/meet-the-programmer-who-scaled-a-pizza-restaurant-into-an-international-company?source=rss",
+   "date": "2026-08-17T14:31:47+00:00",
+   "summary": "C# over Rust, agents on Mars, and the future bottleneck of code review — inside one architect's programming mind.",
+   "tech": "rust",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Noroboto: Lying Fonts and Rust Mitigation — A Technical Read Without the Hype",
+   "url": "https://dev.to/jtorchia/noroboto-lying-fonts-and-rust-mitigation-a-technical-read-without-the-hype-4gaa",
+   "date": "2026-08-17T14:30:31+00:00",
+   "summary": "Fonts lie. Noroboto documents how the text subsystem can return incorrect metrics and proposes mitigations in Rust. Before you copy it into production, you need to understand what problem it actually solves, where the co",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From 7MB to 52KB: My WebAssembly Size Optimization Journey",
+   "url": "https://dev.to/cdieck88/from-7mb-to-52kb-my-webassembly-size-optimization-journey-3oah",
+   "date": "2026-08-17T10:03:38+00:00",
+   "summary": "The problem   I built an HTML-to-Markdown converter that runs entirely in the browser via...",
+   "points": 3,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Single-Process Architecture in Rust: Why We Rejected Microservices for an Edge AI Platform",
+   "url": "https://dev.to/mingming_shen_85ea2348fec/single-process-architecture-in-rust-why-we-rejected-microservices-for-an-edge-ai-platform-3he6",
+   "date": "2026-08-17T09:50:56+00:00",
+   "summary": "Microservices are the default for new projects — but they fall apart at the edge. Here's how we built a single-process Rust platform that outperforms an 8-container stack on a Raspberry Pi.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "\"I built a lying MCP server on purpose — here's how you catch it\"",
    "url": "https://dev.to/wolfejam/i-built-a-lying-mcp-server-on-purpose-heres-how-you-catch-it-102g",
@@ -223,116 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "Building a Video API SDK in Rust with reqwest and serde for Multi-Region Feeds",
-   "url": "https://dev.to/ahmet_gedik778845/building-a-video-api-sdk-in-rust-with-reqwest-and-serde-for-multi-region-feeds-4kjk",
-   "date": "2026-08-13T13:00:01+00:00",
-   "summary": "The PHP cron pulling trending video feeds for nine Asia-Pacific regions took 38 minutes. Here is the",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Rust Portable SIMD Now Runs on the GPU and It Changes Everything About Cross-Platform Parallelism",
-   "url": "https://dev.to/trismegistus/rust-portable-simd-now-runs-on-the-gpu-and-it-changes-everything-about-cross-platform-parallelism-2oe6",
-   "date": "2026-08-13T12:25:24+00:00",
-   "summary": "For decades, GPU programming has meant one of two things: writing CUDA kernels in C++ or wrestling...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Was Tired of Losing Disk Space to node_modules - So I Built ArtifactSweep",
-   "url": "https://dev.to/srinivasankk/i-was-tired-of-losing-disk-space-to-nodemodules-so-i-built-artifactsweep-438p",
-   "date": "2026-08-13T06:40:00+00:00",
-   "summary": "Being a developer, we all create many projects for learning, work, and experiments.  Over time my...",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your 32-bit Product Will Fail in 2038. Your Build Will Not Stop It.",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/your-32-bit-product-will-fail-in-2038-your-build-will-not-stop-it-2kml",
-   "date": "2026-08-13T05:56:09+00:00",
-   "summary": "A 32-bit time_t stops working in 2038. OE-core fixes it by default only since Yocto 4.3, and the QA check that would catch it is a warning, not an error.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types",
-   "url": "https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29",
-   "date": "2026-08-12T16:49:22+00:00",
-   "summary": "2.10.1. Think Carefully Before Changing an Interface   If your interface is going to change...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Benchmarkée el ORM Postgres nativo de mi lenguaje contra SQLAlchemy: ~8 más rápido en reads, 5.7 menos memoria — y dónde empata",
-   "url": "https://dev.to/martin_palopoli/benchmarkee-el-orm-postgres-nativo-de-mi-lenguaje-contra-sqlalchemy-8x-mas-rapido-en-reads-57x-39bd",
-   "date": "2026-08-12T09:26:12+00:00",
-   "summary": "\"Cero overhead\" es la promesa más fácil de decir y la más difícil de probar. Así que el repo de Fitz trae un cabeza-a-cabeza reproducible entre dos boilerplates idénticos — mismo Postgres, mismos endpoints, mismo docker ",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I benchmarked my language's native Postgres ORM against SQLAlchemy: ~8 faster reads, 5.7 less memory — and where it ties",
-   "url": "https://dev.to/martin_palopoli/i-benchmarked-my-languages-native-postgres-orm-against-sqlalchemy-8x-faster-reads-57x-less-4ogn",
-   "date": "2026-08-12T09:25:05+00:00",
-   "summary": "\"Zero overhead\" is the easiest claim to make and the hardest to prove. So the Fitz repo ships a reproducible head-to-head between two identical boilerplates — same Postgres, same endpoints, same docker compose — one on F",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ingesting the Solana Firehose: High-Throughput Decoding with Rust",
-   "url": "https://dev.to/sulimanmukhtar/ingesting-the-solana-firehose-high-throughput-decoding-with-rust-4a5c",
-   "date": "2026-08-12T06:15:57+00:00",
-   "summary": "In Part 1: Economics &amp; System Design, we established the blueprint. We proved that by optimizing...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Thermite SIMD Update Faces Testing Challenges Due to Hardware Limitations for Advanced SIMD Backends",
-   "url": "https://dev.to/serbyte/thermite-simd-update-faces-testing-challenges-due-to-hardware-limitations-for-advanced-simd-backends-4p7c",
-   "date": "2026-08-12T05:57:05+00:00",
-   "summary": "Introduction   After six years of dedicated development, Thermite SIMD has emerged as a...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Secrets that live in git - encrypted, no Vault, no sidecar",
-   "url": "https://dev.to/mighty840/secrets-that-live-in-git-encrypted-no-vault-no-sidecar-4ia5",
-   "date": "2026-08-11T14:21:39+00:00",
-   "summary": "Why a secret manager is a circular dependency for an orchestrator, and how age + SOPS let secrets live encrypted in your GitOps repo.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "MuleSoft Omni Gateway Custom Policy in Rust + WASM | Full Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KbUxHdVJxUEtvWlVaU2d0c2tiMzJBZ1BmT0RYTEI4Umlwbl9hOVhNUzVwaUlVbmY5UmN1Q0J4XzN6NnduNTZZd1k3UF9MUW5ILWNHb21n?oc=5",
    "date": "2026-08-09T09:17:01+00:00",
@@ -421,6 +442,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Build a Real World Full Stack App with Rust (Axum, SQLx, Leptos)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xSlljM3lhZ2lCdnNRS0JzNkxsblBvS2tCSXlmdVJHYXhpNmxobWg4d2l5Wm9Ubko1VUdfNVRyMVRJendkckJQUHZkbk5sUktWX2lOZGFR?oc=5",
+   "date": "2026-04-17T13:04:27+00:00",
+   "summary": "Build a Real World Full Stack App with Rust (Axum, SQLx, Leptos) YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Rust Tutorial for Beginners: How to Install Rust & Run Your First Code",
@@ -517,6 +548,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OMEhoMXZNa050TmZDRnBNSlJQc2JnSVFHVURGZHZKRUJhaGR6RjZ3dGFUM2xNenhKV1ViQjJrUVhCdGV5TDNUYjhoTzR1SkhNZnRBMzh3?oc=5",
    "date": "2026-01-09T10:14:15+00:00",
    "summary": "Complete Axum 0.8 Tutorial: Build Production REST APIs in Rust (2026 Full Course) YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Rust Game Programming Tutorial with Linux with Bevy",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3MUFHWml3WWZkSWVhdW9lZFdpeGZzR0VwRnAyNVNlWGlvSlZlMjJZd1Bpa3hyZHE4U1R1R2k5eGVwQkdmdUhNZHFZWGticTRsTHJua0FR?oc=5",
+   "date": "2026-01-02T17:27:10+00:00",
+   "summary": "Rust Game Programming Tutorial with Linux with Bevy YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
@@ -653,6 +694,16 @@
    "lang": "en"
   },
   {
+   "title": "Rust Basics for Solana Devs [Rust Tutorial] - May 22nd '25",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MQl9TNmFQdHpOYnNUc2dFc09QLWlwR3RfODBvQ3lfbWtzWE1LS3ZBMG5VT0tPRldJSDBla0otU1c0MkRoRWdjR2h2SENRRXZvMW03ZGRB?oc=5",
+   "date": "2025-05-31T12:57:26+00:00",
+   "summary": "Rust Basics for Solana Devs [Rust Tutorial] - May 22nd '25 YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Rust for Dummies in 12 Minutes",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sd08xanB1bzdReWZEN3Y0bkpoalp3S0xvQWc3c0RSbjR1VW5mSmxtYzBFc3l6NG5VUmRuRTVOaEE2T0lxdmg2WnE0TkMzLWpPVzlYMTNn?oc=5",
    "date": "2025-05-15T15:00:07+00:00",
@@ -773,6 +824,16 @@
    "lang": "en"
   },
   {
+   "title": "Rust TUI / Cursive Crash Course + Project: Pomodoro Timer Application",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZVnBCZnlfVzdQYmVTSVJVLTBMM28yREJCd2s0d3hNYlYzSjkyRGJ4UlRJTFBpemRQTW1aWG5aYlZfemRvRlFmWUhMS0FWT3RjNlhMWEF3?oc=5",
+   "date": "2024-10-13T16:30:06+00:00",
+   "summary": "Rust TUI / Cursive Crash Course + Project: Pomodoro Timer Application YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Rust Crash Course | Comprehensive Tutorial with Rustlang",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qejItTlZRZy1WWXJqalhYREx5SnZ0YXNzQXBxUWVfOXB5M3JMZzg1NXVrYm9TbEhjdHBiMlJibFBDcnpjQmN6aFBCZzUtM296VndFLW9R?oc=5",
    "date": "2024-09-30T03:00:21+00:00",
@@ -807,6 +868,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBldkJhU2NwdHFGcGFOYXMxZzFIRV9KSm0wN1hQNG8tTE5tdDVVQUVLRHBaNmQxc1ZnNjlWQ2RodHJyZ0FqcFA1UzlPV0paMWZEaF9Xamp3?oc=5",
    "date": "2024-09-11T10:30:19+00:00",
    "summary": "Complete Rust Marathon in 6 hours YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "LEARN BEVY - Rust Game Development Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BSFFQWG5lSXVpLWxjV1dMQUZseHVvRzdlTndiS2ZlTXBPMk05bU14eV96eFk0dG5zZF83TU1fblpneVAxaVJLU3N6WURmVWhRUGVMUzZR?oc=5",
+   "date": "2024-09-04T14:00:20+00:00",
+   "summary": "LEARN BEVY - Rust Game Development Tutorial YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
@@ -963,6 +1034,16 @@
    "lang": "en"
   },
   {
+   "title": "Rust AI Function Calling - Full Tutorial (with async-openai)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQlo3cWJoLU5oOFRFbGxQcnFuU0xmdi1UVTBzU1lyOEdSYlpfdHcteEFZV25qd3hqUERMekFVa1pVZllqZDJPWThMZzVIeXRza1hHM0Z3?oc=5",
+   "date": "2024-03-24T13:30:04+00:00",
+   "summary": "Rust AI Function Calling - Full Tutorial (with async-openai) YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Structs in Rust - Full Crash Rust Tutorial for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96RGd1Um12M3hJaV9nYjNFT0J5UUhmdVVXNV9nYzVkN0MwUmZDY09naWs0cENEYU5IZ1RSRkZWRkhtZDlvaTlHUW93Y3dXZ0VDZDNsdmhR?oc=5",
    "date": "2024-03-12T14:00:23+00:00",
@@ -1003,6 +1084,16 @@
    "lang": "en"
   },
   {
+   "title": "Ownership in Rust - Full Crash Rust Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VX1Z0MGRrWXlQa3JHQ19HcFlTY2dZYk1kVWl5MlJmQUFSOEVfR2lmZHRQQjN2MFJaM1FNVjZYT3daYnA5VVFNbVNvV1NTc0tfY2hIVTJ3?oc=5",
+   "date": "2024-02-20T14:01:01+00:00",
+   "summary": "Ownership in Rust - Full Crash Rust Tutorial for Beginners YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "خد فكرة عن Rust",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvUWwybjhqZVpGbjRYb3J5MEpONURnZEZjaWozOEFubTRFcUpuTzNBcEwydmo4VjBpTjh1cXJqRnZSdkxSNXUxX0pKcllmcFNGX0tmT0FB?oc=5",
    "date": "2024-02-03T07:43:14+00:00",
@@ -1013,46 +1104,6 @@
    "lang": "ar"
   },
   {
-   "title": "Modules in Rust | Sub Modules in Rust | Rust Tutorial -41 | Dr Vipin Classes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BYmR1Wi1WS2lUSEF2MTZmT3M3a2pTbUFPRXZPMk9qb1ViSDNqcERzd0xqcFUyOUltcjNkTEVxYmZBQnNYd0l5ZmlpcGpkTGxmYlJLdGhB?oc=5",
-   "date": "2024-01-31T16:41:37+00:00",
-   "summary": "Modules in Rust | Sub Modules in Rust | Rust Tutorial -41 | Dr Vipin Classes YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Functions in Rust - Full Crash Rust Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oenRlMVpNRjV2aUJTaW4zVEQzUk5DbXZWTDlIbTJNOFJSOEQ2M0hDblVLb2pvUV9LV3pqU3BtWl9SNVkzZXVQN3d1WUo4MmZGajNkXzl3?oc=5",
-   "date": "2024-01-30T14:01:05+00:00",
-   "summary": "Functions in Rust - Full Crash Rust Tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Take Input by Keyborad in Rust (Number or String) | Rust Tutorial -30 | Dr Vipin Classes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RbDdGWXpVaVpZU0JNV0pPbHRRdWpPNzRRaDZteHVXaTNSd3dFX2haMWExUFFoNDk5aXNGSWFlSnctRnVTYVBNMFFVWG04Rm9YMURsdEt3?oc=5",
-   "date": "2024-01-25T16:02:53+00:00",
-   "summary": "Take Input by Keyborad in Rust (Number or String) | Rust Tutorial -30 | Dr Vipin Classes YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Data Types in Rust - Full Crash Rust Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51dXB0QUFzTlR5bDAzOGFpVWpOSDBwUzNPYWJoQVhNQU03SnQ3VkxfVktxVHk0TVVveWREUEZLLTVVdjUzNjBzZlI4dm83WFI3RFI2ejN3?oc=5",
-   "date": "2024-01-23T14:03:31+00:00",
-   "summary": "Data Types in Rust - Full Crash Rust Tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "احذر من لغة البرمجة رصت Beware the Rust programming language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RSUs3NDVfSmg3d3BLU09nZ3FXMEdiVE5tQmJEdkxPb2kxNlBLR1VYUUw0a0l0U2dkM3NsTTJWd0dFeUFnNWpTZ18zTFVFUnR1dGxCUkJn?oc=5",
    "date": "2024-01-20T09:48:55+00:00",
@@ -1061,36 +1112,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Pass by Reference in Rust | Rust Tutorial -25 | Dr Vipin Classes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZLTE5eU11U1JnNTBNRGx6Z3JVM1l6QlhZSHgzenhUUFlZeDE2RkExUTBVQXg2VXVWeGJEUFpzenVrOWJqVG8tYUZEb2l4TmRfUW9zMDdB?oc=5",
-   "date": "2024-01-17T15:38:12+00:00",
-   "summary": "Pass by Reference in Rust | Rust Tutorial -25 | Dr Vipin Classes YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Struct in Rust | Tuple Struct in Rust | Rust Struct vs Tuple Struct | Rust Tutorial -24",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53WUxySlp0ZjFBRXNUcTdXbUJvMWZCZjBkM3R4RlpkQVdCTVpBTWdMY3ZQNjB4NHlObGQ3UUplalRINWZOZFBpRFRsY2hwQ0NkLTF0R19R?oc=5",
-   "date": "2024-01-14T14:39:40+00:00",
-   "summary": "Struct in Rust | Tuple Struct in Rust | Rust Struct vs Tuple Struct | Rust Tutorial -24 YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Rust Installation, Hello World, Hello Cargo - Full Crash Rust Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVURNSmRYOGlZT3hlVTJzSkM0SGQtbG9zRWphMVJyZDhpekRjUXhWcE1OYUJtOWpYRjd1cUZPY3F0S1g2cXJVaEJOT0FiMkZ4ZDdPdUJn?oc=5",
-   "date": "2024-01-09T14:01:30+00:00",
-   "summary": "Rust Installation, Hello World, Hello Cargo - Full Crash Rust Tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "C | C++ | Rust | Embedded languages | محمد يوسف",

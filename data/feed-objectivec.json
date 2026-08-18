@@ -1,8 +1,85 @@
 {
- "generated": "2026-08-17T05:26:28.535229+00:00",
+ "generated": "2026-08-18T05:03:43.917207+00:00",
  "tech": "objectivec",
  "count": 78,
  "items": [
+  {
+   "title": "A header scan says 16/16. Here's what it can't see.",
+   "url": "https://dev.to/maclessdev/a-header-scan-says-1616-heres-what-it-cant-see-14ab",
+   "date": "2026-08-18T01:48:57+00:00",
+   "summary": "A few days after how I built and shipped an iOS app without a Mac went up here, a reader named Amit...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "get_intraday: a live within-day window for Apple Health, over MCP",
+   "url": "https://dev.to/philipad/getintraday-a-live-within-day-window-for-apple-health-over-mcp-5585",
+   "date": "2026-08-18T00:35:01+00:00",
+   "summary": "Most health MCP servers stop at yesterday. The live within-day window was the missing...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Breaking Up Big SwiftUI Views the Right Way",
+   "url": "https://dev.to/emadbeyrami/breaking-up-big-swiftui-views-the-right-way-3m42",
+   "date": "2026-08-17T23:28:32+00:00",
+   "summary": "Why computed properties help readability, what @ViewBuilder actually does, and when a...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The calendar-gap iPhone app blocker rule to stop doomscrolling",
+   "url": "https://dev.to/godnick/the-calendar-gap-iphone-app-blocker-rule-to-stop-doomscrolling-4pni",
+   "date": "2026-08-17T15:23:18+00:00",
+   "summary": "The most dangerous phone window is not always the long break.  It is the weird 7 to 12 minute gap...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "One codebase, one website, two app stores: what Capacitor actually costs you",
+   "url": "https://dev.to/bellsal_b44bf6d/one-codebase-one-website-two-app-stores-what-capacitor-actually-costs-you-2igc",
+   "date": "2026-08-17T14:44:05+00:00",
+   "summary": "My photo collage editor was a static site: vanilla JS, a canvas, no framework. Putting it on the Play...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Swift 6 Strict Concurrency: 4 Migration Mistakes and How to Fix Them",
+   "url": "https://dev.to/mrugeshtank/swift-6-strict-concurrency-4-migration-mistakes-and-how-to-fix-them-50ij",
+   "date": "2026-08-17T14:43:51+00:00",
+   "summary": "I enabled Swift 6 mode on a project I'd been shipping for two years. Sixty-plus errors. My first...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building CoreX: A Native Real-Time macOS Monitor in Swift",
+   "url": "https://dev.to/_b6417cbb54ddfef4c4fd0/building-corex-a-native-real-time-macos-monitor-in-swift-1137",
+   "date": "2026-08-17T07:31:41+00:00",
+   "summary": "I built CoreX to answer a practical question: why does a Mac feel slow right now, why did its fans...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "The Tech World’s Best Kept Secret: What Actually is an Operating System?",
    "url": "https://dev.to/prasanambigai_sivakumar_0/the-tech-worlds-best-kept-secret-what-actually-is-an-operating-system-1l2o",
@@ -257,17 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "How I Built an AI-Powered Reel & Short Maker in Swift: Handling Auto-Cutouts & Beat-Syncing Efficiently",
-   "url": "https://dev.to/akalino/how-i-built-an-ai-powered-reel-short-maker-in-swift-handling-auto-cutouts-beat-syncing-9hi",
-   "date": "2026-08-14T12:15:19+00:00",
-   "summary": "Check out Reeliva on the App Store.   Hey DEV community! 👋  As an indie iOS developer, I’ve always...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Objective-C Runtime: From Message Sending to Message Forwarding",
    "url": "https://medium.com/@kousikdasari0475/objective-c-runtime-from-message-sending-to-message-forwarding-578c6f4a4860?source=rss------objective_c-5",
    "date": "2026-08-14T11:04:55+00:00",
@@ -275,72 +341,6 @@
    "tech": "objectivec",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Zoom Zero‑Day Exploit: Remote Takeover of iPhone & Mac",
-   "url": "https://dev.to/luckytaorem/zoom-zero-day-exploit-remote-takeover-of-iphone-mac-185h",
-   "date": "2026-08-14T10:21:41+00:00",
-   "summary": "What the Vulnerability Is   In early 2026 security researchers uncovered a zero‑day flaw in...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to App Clips for iOS Developers",
-   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/introduction-to-app-clips-for-ios-developers-4f0m",
-   "date": "2026-08-14T09:56:31+00:00",
-   "summary": "Discover App Clips, Apple's feature for instant app experiences. Learn how to integrate, share code, and handle invocations for your iOS projects.",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Rebuilt My PWA as a Native iOS and Mac App with an AI Agent. The Architecture Was the Hard Part.",
-   "url": "https://dev.to/vscarpenter/i-rebuilt-my-pwa-as-a-native-ios-and-mac-app-with-an-ai-agent-the-architecture-was-the-hard-part-186d",
-   "date": "2026-08-14T01:30:19+00:00",
-   "summary": "Originally published on my blog. I am cross-posting it here because two parts seem worth arguing...",
-   "points": 1,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Screen Time alternative rule for the 9 PM doomscroll",
-   "url": "https://dev.to/godnick/a-screen-time-alternative-rule-for-the-9-pm-doomscroll-3a4l",
-   "date": "2026-08-14T00:23:06+00:00",
-   "summary": "Most phone blockers fail because they start from a huge plan.  Block every distracting app. Build a...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Photo Vault Is Not a Lock Screen",
-   "url": "https://dev.to/arkwarden/a-photo-vault-is-not-a-lock-screen-1bdo",
-   "date": "2026-08-13T19:16:22+00:00",
-   "summary": "A private-file app can look convincing before it has explained the one thing that matters most: what...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Value Semantics vs Reference Semantics in Swift: A Practical Guide",
-   "url": "https://dev.to/thaidao6314/value-semantics-vs-reference-semantics-in-swift-a-practical-guide-32k8",
-   "date": "2026-08-13T16:09:21+00:00",
-   "summary": "When learning Swift, we often hear:    struct is a Value Type, while class is a Reference...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {

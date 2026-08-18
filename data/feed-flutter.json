@@ -1,8 +1,82 @@
 {
- "generated": "2026-08-17T05:23:06.942758+00:00",
+ "generated": "2026-08-18T05:00:00.977991+00:00",
  "tech": "flutter",
  "count": 220,
  "items": [
+  {
+   "title": "Hello, DEV Community",
+   "url": "https://dev.to/ali_cimen/hello-dev-community-1bhp",
+   "date": "2026-08-17T17:58:33+00:00",
+   "summary": "I'm a newly graduated developer currently focusing on Flutter and mobile app development.  I've been...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What’s Actually Inside Your Flutter Release?",
+   "url": "https://medium.com/@himanshusharma_4140/whats-actually-inside-your-flutter-release-4dbddebc103e?source=rss------flutter-5",
+   "date": "2026-08-17T16:11:01+00:00",
+   "summary": "The first time a customer&#x2019;s security team asked us for a Software Bill of Materials for our Flutter app, I did what most mobile leads do. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Deploying TensorFlow Lite for Stroke-Order Biometric Verification in Flutter",
+   "url": "https://toetech.medium.com/deploying-tensorflow-lite-for-stroke-order-biometric-verification-in-flutter-0757921a5030?source=rss------flutter-5",
+   "date": "2026-08-17T15:47:31+00:00",
+   "summary": "Static signature verification is fundamentally broken. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "2026 年 7 月 Flutter 大小事：零 feature release 的一個月，38 個 commit 全花在 agent 上",
+   "url": "https://yiichenhi.medium.com/2026-%E5%B9%B4-7-%E6%9C%88-flutter-%E5%A4%A7%E5%B0%8F%E4%BA%8B-%E9%9B%B6-feature-release-%E7%9A%84%E4%B8%80%E5%80%8B%E6%9C%88-38-%E5%80%8B-commit-%E5%85%A8%E8%8A%B1%E5%9C%A8-agent-%E4%B8%8A-50dda6b7507c?source=rss------flutter-5",
+   "date": "2026-08-17T14:20:30+00:00",
+   "summary": "stable &#x505C;&#x5728; 3.44.8 &#x6574;&#x6574;&#x4E00;&#x500B;&#x6708;&#x3002;&#x4F46; LG &#x958B;&#x6E90;&#x4E86; webOS embedder&#xFF0C;Flutter GPU &#x7684;&#x539F;&#x4F5C;&#x8005;&#x4EA4;&#x51FA;&#x5B8C;&#x6574; 3D &#x5F15;&#x64CE;&#xFF0",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Testing Payment Gateways in Flutter Without Real Money",
+   "url": "https://dev.to/mryadavgulshan/testing-payment-gateways-in-flutter-without-real-money-jm",
+   "date": "2026-08-17T13:30:00+00:00",
+   "summary": "So, in this article, I will be showing you how you can test payment gateways in your Flutter app...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Claude Code skill fixed my app's UI — here's what broke and how to use it yourself",
+   "url": "https://dev.to/tony_stark_h/a-claude-code-skill-fixed-my-apps-ui-heres-what-broke-and-how-to-use-it-yourself-1k0g",
+   "date": "2026-08-17T12:03:47+00:00",
+   "summary": "My app worked. It just looked like three different apps stitched together.  BrandMeld (Flutter, AI...",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
+   "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
+   "date": "2026-08-17T09:00:16+00:00",
+   "summary": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Building an AI Assistant: flutter nodejs ai browser automation",
    "url": "https://dev.to/umair24171/building-an-ai-assistant-flutter-nodejs-ai-browser-automation-533d",
@@ -69,7 +143,7 @@
    "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
    "date": "2026-08-16T18:12:39+00:00",
    "summary": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
-   "points": 0,
+   "points": 2,
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -187,36 +261,6 @@
    "tech": "flutter",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing whats_new_kit: Automatically Show “What’s New” After a Flutter Code Push",
-   "url": "https://medium.com/@fahrendra.khoirul/introducing-whats-new-kit-automatically-show-whats-new-after-a-flutter-code-push-0e2c403ea5f3?source=rss------flutter-5",
-   "date": "2026-08-15T12:31:35+00:00",
-   "summary": "utomatically show users what changed after a Flutter code push. Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The Future of Flutter Apps: From Static UI to Generative UI (GenUI)",
-   "url": "https://medium.com/@kh.abo.eltohamy/the-future-of-flutter-apps-from-static-ui-to-generative-ui-genui-dbd4020ea9b1?source=rss------flutter-5",
-   "date": "2026-08-15T12:03:50+00:00",
-   "summary": "Introduction Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "SpaceX Closes $60B Cursor Deal — Top 10 AI & Flutter News August 15, 2026",
-   "url": "https://blurbrahlab.medium.com/spacex-closes-60b-cursor-deal-top-10-ai-flutter-news-august-15-2026-23ef961d7ee0?source=rss------flutter-5",
-   "date": "2026-08-15T11:06:01+00:00",
-   "summary": "Claude / Anthropic Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -450,50 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "flutter_skin Alpha",
-   "url": "https://dev.to/koukibadr/flutterskin-alpha-4k0",
-   "date": "2026-08-12T08:34:34+00:00",
-   "summary": "Alpha V1 is live.  → Full Material 3 color token support → Live skin preview directly in the...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Certificate Pinning in Flutter: Secure API Communication",
-   "url": "https://dev.to/vmodal_ai/certificate-pinning-in-flutter-secure-api-communication-2dee",
-   "date": "2026-08-11T18:27:54+00:00",
-   "summary": "Certificate Pinning in Flutter: Secure API Communication   Mobile applications frequently...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter CI/CD with GitHub Actions: Automate Testing and Builds",
-   "url": "https://dev.to/vmodal_ai/flutter-cicd-with-github-actions-automate-testing-and-builds-71c",
-   "date": "2026-08-11T18:27:40+00:00",
-   "summary": "Flutter CI/CD with GitHub Actions: Automate Testing and Builds   Manually running tests and...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter FFI Tutorial: Integrating Native C and C++ Libraries",
-   "url": "https://dev.to/vmodal_ai/flutter-ffi-tutorial-integrating-native-c-and-c-libraries-2ol9",
-   "date": "2026-08-11T18:27:21+00:00",
-   "summary": "Flutter FFI Tutorial: Integrating Native C and C++ Libraries   Flutter provides excellent...",
-   "points": 1,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "هل فلاتر يستحق التعلم في 2026 ؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QOFhUZ1BJOU1HUUJCamxsS1lPLXBCdFFSOUMzNnVvVlpKb2t6XzlMSlZBeFM1cHBVZDU2ejZHRXRJZm5kdThrSEh1QkNaVVdxZ290cEN3?oc=5",
    "date": "2026-06-05T18:11:41+00:00",
@@ -694,6 +694,16 @@
    "lang": "ar"
   },
   {
+   "title": "Master Custom Animations - Quick Flutter Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FNXBNSWw0ZWpnQjdKTVFBZDJyN0NIWGhVa1V3Vkp0VWY3al9OMVE0MmNsRXl3UGgwakhoRTBwVVNKWEs5OEx2MGtqUGRpYmpLRXg0a1VB?oc=5",
+   "date": "2025-04-01T01:19:40+00:00",
+   "summary": "Master Custom Animations - Quick Flutter Course YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "التعليقات في دارت: تعلم Dart من الصفر للإحتراف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tRlhoZXR5b3VFMXpOVHg2QW5SWGtXSF82ZnpsVkhMaWpqNGFXclRueURPbUhkR0Z6X3pKcTFfMDFmbU9hVktPNHd2NEMxXzdDUTlyVThR?oc=5",
    "date": "2025-03-26T17:00:10+00:00",
@@ -792,6 +802,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "32- لغة برمجة Null Safety - Dart",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Rb3ZBSXVqY0pNVG1rLWtwOVhydDlJX3F6OW9UQVJ1WTNWaEdwTU10ZXBIcG16b0E0NE4takR4dkt1V0RfTDIyZm1OVUNnWWtYMUVpb3l3?oc=5",
+   "date": "2025-01-06T07:58:26+00:00",
+   "summary": "32- لغة برمجة Null Safety - Dart YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "31- لغة برمجة Getter & Setter - Dart",
@@ -1744,6 +1764,16 @@
    "lang": "en"
   },
   {
+   "title": "البرمجة بلغة دارت - الدرس الثامن ـ Future - await and async",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSWRXSlJjNmdHc01PSmdMX0hBZjVsMWt6OEFGSkZiOEtKVHRQVEhIaWVEM2hPMEdkazdBT0FkdExmdnZTd0lOdVItTlhDbjRsZHhlSVRB?oc=5",
+   "date": "2022-12-28T14:41:24+00:00",
+   "summary": "البرمجة بلغة دارت - الدرس الثامن ـ Future - await and async YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم واحترف البرمجة بلغة دارت - الدرس الاول ـ اعداد وتحميل dart sdk على vs code وتحميل الـ plugins",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSy1peHJhQnVycHZBWHl3NG5SWldaaXFHMEw5TDVSd19lQldvSlhfTEs0M2RSY2RSV1hqWUxHLWtyczQ5bVRxejRZNVJBV3lkNW1VTzhR?oc=5",
    "date": "2022-12-20T05:18:56+00:00",
@@ -1862,16 +1892,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Flutter Tutorial: Dart Class and Objects Kya Hai?",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTeGZGVEpIUU1MWlB4cnBpajd4RjdvRVNNTDBXMUhLQVZTN1A4T19mc1o0OWpaazdpRlJtQ2ZldTlFSC1aU043QTlaQmhvbUlYWUpQaEZB?oc=5",
-   "date": "2022-08-12T15:30:09+00:00",
-   "summary": "Flutter Tutorial: Dart Class and Objects Kya Hai? YouTube",
-   "tech": "flutter",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "تعلم لغة دارت من الصفر في فيديو واحد Learn Dart in Arabic | حسونة اكاديمي",
@@ -2014,6 +2034,16 @@
    "lang": "ar"
   },
   {
+   "title": "شرح Flutter | برمجة تطبيق موبايل كامل من الصفر #1",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4VG9KVWFqMVRUeDhmWXd6ekJyZ04xTWlCMjVLQkVIZDNHem5OTER1MW95NEo2WWpyU29BbTVjY2NrQmFVZkNvclZEZmNWYnJxYVp1a1VETnItaGlOMDBQaGRNRlZZNDloSlBFbmNqemc1SUtGQjJEQk9VMWs?oc=5",
+   "date": "2021-09-05T23:18:18+00:00",
+   "summary": "شرح Flutter | برمجة تطبيق موبايل كامل من الصفر #1 YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Install Dart and Flutter full شرح كامل لتنزيل وتنصيب الدارت والفلاتر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTXdWWnZzZ0pEbThwcDVfcVItVzJUR0dNZ1haQU91WENzOGI2bkdkenRyaWdiVl9lSXNKUTQ1RHdDdU9xYWZPZU1oR1lIQ1RWeXVybzFB?oc=5",
    "date": "2021-09-01T15:54:50+00:00",
@@ -2048,16 +2078,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ia2NPcERxbUxGQkI0TEdpaV9ueFFOeTVZUm9ybndWRXB2WVhFYXpXaTFRYWRITEdhT3UtRzZoT3psTm91eHhYTm9OREIyX283QWRhM2hB?oc=5",
    "date": "2021-08-25T11:30:06+00:00",
    "summary": "برمجة تطبيق موبايل مع قاعدة بيانات من الفايربيز : Chat mobile app - Flutter & Firebase/Firestore YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح Flutter | برمجة تطبيق موبايل كامل من الصفر #1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91Y25ScGNVNUR1bllLV1FPSzZZZVNud28xVUNZOWM0X1V0eGpHMk1qNEw0eG9zd2lDODRvN3dxZmZ1TWMxYUdBckYyTDdFRF9ibTYyYllB?oc=5",
-   "date": "2021-08-24T20:39:20+00:00",
-   "summary": "شرح Flutter | برمجة تطبيق موبايل كامل من الصفر #1 YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2208,26 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFSmVZSTYxX2JxNFFFWW5NR3dYNEZ2YkdlbnZGWVVJN1ZQa284QTVTNHJ6bURYWWU2d3UzQ3lkZ05oV09QSVh4cEJXRWJVVTQweEZCZHdJbEQyNjRWNU11a0lKeFhzY3V2eDA5QzRrNE9wNmloZURLRUZGMVE?oc=5",
    "date": "2021-05-01T22:25:30+00:00",
    "summary": "برمجة تطبيق موبايل دليل سياحي (فوق المتوسط) مع فلاتر Flutter #5 YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "فوق المتوسط 05 - التنقل بين صحفات البرنامج وفتح وإغلاق شاشات التطبيق : Travel app - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyNnVZcmdwdGRyWVVmVkc2MTYwdHU1VjN6OEJxMUJ2aFpXUnFlcmRvQi01VTlSMXB0MTV1NzEzM2I5b2JlbVZYZEE5VHJUaThsTnQyOHB3?oc=5",
-   "date": "2021-04-25T13:30:04+00:00",
-   "summary": "فوق المتوسط 05 - التنقل بين صحفات البرنامج وفتح وإغلاق شاشات التطبيق : Travel app - Flutter YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "فوق المتوسط 03 - عرض الصور والعنوان من ملف البيانات : Travel app - Flutter",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YZEpBQkJXTEZSMVJSQkFCdUN6YWM5Sktic3EybVd1eHhCalkwZmNURXdkUVhJUkRwck5VQ3Q5clRwSEU0aW9KOXVialJPMUVFbkhOV2JB?oc=5",
-   "date": "2021-04-18T15:00:04+00:00",
-   "summary": "فوق المتوسط 03 - عرض الصور والعنوان من ملف البيانات : Travel app - Flutter YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",

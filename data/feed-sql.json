@@ -1,8 +1,183 @@
 {
- "generated": "2026-08-17T05:20:13.459016+00:00",
+ "generated": "2026-08-18T04:57:04.266549+00:00",
  "tech": "sql",
  "count": 220,
  "items": [
+  {
+   "title": "Database Development Without ORM: A Pragmatic Approach to SQL-First Workflows",
+   "url": "https://dev.to/raiyanu/database-development-without-orm-a-pragmatic-approach-to-sql-first-workflows-578j",
+   "date": "2026-08-18T04:52:35+00:00",
+   "summary": "The Problem with ORM Abstraction   Many developers express frustration with ORM tooling,...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TIL: How MVCC Lets Reads and Writes Run Concurrently",
+   "url": "https://dev.to/mmllllzcn/til-how-mvcc-lets-reads-and-writes-run-concurrently-28gi",
+   "date": "2026-08-18T02:07:43+00:00",
+   "summary": "High-concurrency systems have a fundamental problem: reads and writes shouldn't constantly block each...",
+   "points": 2,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TIL: Stale Statistics Can Make the Optimizer Pick the Wrong Plan",
+   "url": "https://dev.to/mmllllzcn/til-stale-statistics-can-make-the-optimizer-pick-the-wrong-plan-2i4a",
+   "date": "2026-08-18T02:04:32+00:00",
+   "summary": "Today I learned a counterintuitive database performance lesson:  Your SQL can stay exactly the same...",
+   "points": 2,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Troubleshooting Slow Queries With Execution Plans: A Chain That Starts With EXPLAIN",
+   "url": "https://dev.to/mmllllzcn/troubleshooting-slow-queries-with-execution-plans-a-chain-that-starts-with-explain-21j8",
+   "date": "2026-08-18T02:00:50+00:00",
+   "summary": "A slow query doesn't always mean the SQL is badly written.  In many production incidents, the first...",
+   "points": 2,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Generated SQL Query Got Faster by Returning Fewer Rows. Test That Before You Merge It",
+   "url": "https://dev.to/codepy_1473/a-generated-sql-query-got-faster-by-returning-fewer-rows-test-that-before-you-merge-it-h50",
+   "date": "2026-08-18T01:34:15+00:00",
+   "summary": "Have you ever watched a generated SQL refactor run faster and assumed it must be correct? That...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "웹 테이블을 SQL INSERT 문으로 변환하기",
+   "url": "https://dev.to/circobit/web-teibeuleul-sql-insert-muneuro-byeonhwanhagi-4f2l",
+   "date": "2026-08-18T00:30:00+00:00",
+   "summary": "웹페이지에 테이블이 있습니다. 데이터베이스에 넣어야 합니다.  수동 접근 방식: Excel에 복사, 정리, CSV 내보내기, 직접 CREATE TABLE 작성, LOAD DATA...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "NexDB: Structure. Optimize. Enhance. \"An AI-Powered Way to See and Improve Your Database\"",
+   "url": "https://dev.to/kenmoe_vincianne_e13b6553/nexdb-structure-optimize-enhance-an-ai-powered-way-to-see-and-improve-your-database-43g7",
+   "date": "2026-08-17T23:53:43+00:00",
+   "summary": "At some point, almost every development team ends up with a database that has become harder to manage...",
+   "points": 3,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Work with Subqueries in SQL",
+   "url": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
+   "date": "2026-08-17T21:31:33+00:00",
+   "summary": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
+   "tech": "sql",
+   "sourceId": "fcc",
+   "source": "freeCodeCamp",
+   "lang": "en"
+  },
+  {
+   "title": "Your Database Is Making 4 Promises. Here's What ACID Means.",
+   "url": "https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d",
+   "date": "2026-08-17T18:23:41+00:00",
+   "summary": "Introduction   Your program keeps opening transactions. A signup writes a new user row. A...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Flyway validate actually checks",
+   "url": "https://dev.to/eggletric/what-flyway-validate-actually-checks-4lhb",
+   "date": "2026-08-17T15:29:57+00:00",
+   "summary": "Tool capabilities and edition boundaries described here are accurate as of publication. Both vendors...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "QUERY_HISTORY has no PARENT_QUERY_ID. Here's how I traced which statement inside a Snowflake procedure regressed anyway.",
+   "url": "https://dev.to/tracepointdata/queryhistory-has-no-parentqueryid-heres-how-i-traced-which-statement-inside-a-snowflake-el7",
+   "date": "2026-08-17T14:15:00+00:00",
+   "summary": "If you write ETL procedures in Snowflake but don't have ACCOUNT_USAGE access, you've probably had...",
+   "points": 2,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel Concurrency: Atomicity, Transactions, and Locking",
+   "url": "https://dev.to/hrrydgls/laravel-concurrency-atomicity-transactions-and-locking-k4j",
+   "date": "2026-08-17T13:11:04+00:00",
+   "summary": "Two customers try to purchase a product at exactly the same time.  If the application isn't designed...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Webtabellen Converteren naar SQL INSERT-Statements",
+   "url": "https://dev.to/circobit/webtabellen-converteren-naar-sql-insert-statements-9lk",
+   "date": "2026-08-17T12:30:00+00:00",
+   "summary": "Je hebt een tabel op een webpagina. Je hebt het nodig in je database.  De handmatige aanpak: kopiëren...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Thought MSSQL and MySQL Were the Same. I Was Wrong.",
+   "url": "https://dev.to/satyamgupta1495/i-thought-mssql-and-mysql-were-the-same-i-was-wrong-201d",
+   "date": "2026-08-17T09:03:13+00:00",
+   "summary": "If you've worked with SQL, you've probably looked at Microsoft SQL Server and MySQL and...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Как мы держим мусор подальше от программных гео-страниц: белый список метро и чёрный список районов",
+   "url": "https://dev.to/numart/kak-my-dierzhim-musor-podalshie-ot-proghrammnykh-ghieo-stranits-bielyi-spisok-mietro-i-chiornyi-spisok-raionov-45i5",
+   "date": "2026-08-17T07:54:11+00:00",
+   "summary": "Поля метро и района от скрейпера были загрязнены временем пешком и названиями ЖК. Как whitelist станций и denylist проектных названий убрали около 193 тонких страницы.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Keeping junk out of programmatic geo pages: an allow list for metro, a block list for districts",
+   "url": "https://dev.to/numart/keeping-junk-out-of-programmatic-geo-pages-an-allow-list-for-metro-a-block-list-for-districts-4adk",
+   "date": "2026-08-17T07:54:11+00:00",
+   "summary": "Scraped metro and district fields were polluted with walk times and project names. How a station allow list and a junk block list removed about 193 thin pages.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "An Index Suggestion Is a Hypothesis, Not a Patch",
    "url": "https://dev.to/codepy_1473/an-index-suggestion-is-a-hypothesis-not-a-patch-20e4",
@@ -169,127 +344,6 @@
    "lang": "en"
   },
   {
-   "title": "Stop Pasting Your Database Connection String Into AI Tools (Do This Instead)",
-   "url": "https://dev.to/vivekdraxlr/stop-pasting-your-database-connection-string-into-ai-tools-do-this-instead-23le",
-   "date": "2026-08-16T16:29:56+00:00",
-   "summary": "Pasting a DB connection string into an AI chat is one of the fastest ways to leak production credentials. Here's why it's risky and what a broker-based approach fixes.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Modeling Recurring vs One-Off Events in a Bilingual City Guide",
-   "url": "https://dev.to/member_5432fd74/modeling-recurring-vs-one-off-events-in-a-bilingual-city-guide-m5g",
-   "date": "2026-08-16T16:00:26+00:00",
-   "summary": "A weekly salsa night and a dated concert look like the same entity until you try to build URLs, sitemaps, and an archive policy for both. Notes on the split, using a bilingual events guide as the worked example.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "\"Power BI Error: The Key Didn't Match Any Rows in the Table\"",
-   "url": "https://dev.to/pbidocs/power-bi-error-the-key-didnt-match-any-rows-in-the-table-556a",
-   "date": "2026-08-16T15:45:17+00:00",
-   "summary": "description: \"The key didn't match any rows in the table\" comes from LOOKUPVALUE finding zero...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "InnoDB innodb_force_recovery Levels 1–6: What Each Level Actually Does",
-   "url": "https://dev.to/nisargupadhyay87/innodb-innodbforcerecovery-levels-1-6-what-each-level-actually-does-3anp",
-   "date": "2026-08-16T12:52:24+00:00",
-   "summary": "In this article, we will learn about innodb_force_recovery levels, what is their meaning and how it...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Database Seed File Maintenance: Stop Patching seed.sql",
-   "url": "https://dev.to/mikh-shytsko/database-seed-file-maintenance-stop-patching-seedsql-4oln",
-   "date": "2026-08-16T12:25:53+00:00",
-   "summary": "Why your team quietly stopped running seed.sql months ago. A practical guide for PostgreSQL, MySQL,...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Review SQL Migrations in 30 Seconds: Seed, Migrate, Compare",
-   "url": "https://dev.to/mikh-shytsko/review-sql-migrations-in-30-seconds-seed-migrate-compare-86i",
-   "date": "2026-08-16T12:25:40+00:00",
-   "summary": "When you review application code, the tests show what it does. A migration arrives as raw SQL that...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "PostgreSQL Test Data: A Syntax Cookbook",
-   "url": "https://dev.to/mikh-shytsko/postgresql-test-data-a-syntax-cookbook-2h3n",
-   "date": "2026-08-16T12:24:08+00:00",
-   "summary": "TL;DR: PostgreSQL ships three primitives that cover most test-data work — generate_series() for...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Turn Plain-English Requirements into SQL You Can Actually Trust",
-   "url": "https://dev.to/craftloop/how-to-turn-plain-english-requirements-into-sql-you-can-actually-trust-l4a",
-   "date": "2026-08-16T10:17:10+00:00",
-   "summary": "\"Just write me a query for X\" is one of the most common requests thrown at whoever's closest to the...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Demystifying Vector Distance in PostgreSQL",
-   "url": "https://dev.to/rpi1337/demystifying-vector-distance-in-postgresql-40ol",
-   "date": "2026-08-16T08:50:55+00:00",
-   "summary": "A look into sliding window comparisons for image analysis.  When you need to perform complex...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why 'WHERE x = NULL' Never Works in SQL (And What to Use Instead)",
-   "url": "https://dev.to/systemcraftdev/why-where-x-null-never-works-in-sql-and-what-to-use-instead-3p4h",
-   "date": "2026-08-16T02:58:02+00:00",
-   "summary": "This isn't a bug in your query — it's SQL's three-valued logic doing exactly what it's designed to do. Here's how to actually filter for NULL.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Split a Name Column? The Migration Contract Catches What Review Misses",
-   "url": "https://dev.to/codepy_1473/split-a-name-column-the-migration-contract-catches-what-review-misses-3d3p",
-   "date": "2026-08-15T22:58:14+00:00",
-   "summary": "A migration that looks correct in review can still corrupt data because review sees intent, not edge...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "10 Oracle 23ai Features That Make Everyday SQL Easier",
    "url": "https://hackernoon.com/10-oracle-23ai-features-that-make-everyday-sql-easier?source=rss",
    "date": "2026-08-15T20:23:23+00:00",
@@ -297,50 +351,6 @@
    "tech": "sql",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #12: Production Patterns, Error Handling and What Comes Next",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-12-production-patterns-error-handling-and-what-comes-next-2aok",
-   "date": "2026-08-15T20:16:34+00:00",
-   "summary": "LioranDB TypeScript Series #12: Production Patterns, Error Handling and What Comes...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #11: Deploy LioranDB with Docker Compose, Caddy and TLS",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-11-deploy-liorandb-with-docker-compose-caddy-and-tls-4egh",
-   "date": "2026-08-15T20:14:45+00:00",
-   "summary": "LioranDB TypeScript Series #11: Deploy LioranDB with Docker Compose, Caddy and...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #10: Mastering the Official LioranDB CLI",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-10-mastering-the-official-liorandb-cli-4i24",
-   "date": "2026-08-15T20:13:15+00:00",
-   "summary": "LioranDB TypeScript Series #10: Mastering the Official LioranDB CLI    LioranDB TypeScript...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #9: Backups, Cluster Health and Operational APIs",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-9-backups-cluster-health-and-operational-apis-5c6p",
-   "date": "2026-08-15T20:11:45+00:00",
-   "summary": "LioranDB TypeScript Series #9: Backups, Cluster Health and Operational APIs    LioranDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -656,6 +666,26 @@
    "lang": "en"
   },
   {
+   "title": "كيف تكتب استعلامات SQL احترافية باستخدام CTE و Subquery",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00LXBVRnFYY0plUVhxUGRpdjJBNENpVU8yeUZ5OC1adXR6UDF6VTNZZjdFYm54U3ZxRVJtajlIMnczeHVNdG13LV92VEFrem11aGNPNFRR?oc=5",
+   "date": "2026-02-03T18:03:15+00:00",
+   "summary": "كيف تكتب استعلامات SQL احترافية باستخدام CTE و Subquery YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كيف تكتب كود لإنشاء قاعدة بيانات على SQL Server",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xU2dfRWxXN2JVekVvS0drQmdSSU9veFFqYm1TQ2FLb2dpeWNGQjlqU3JzVEhBOXFyUWhlVkFGZm0tNFNxMmpfU0xRTmhDdTNHVC1zV3ZB?oc=5",
+   "date": "2026-02-02T20:52:31+00:00",
+   "summary": "كيف تكتب كود لإنشاء قاعدة بيانات على SQL Server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تحميل لغة SQL على الويندوز MySQL و WorkBench Windows | أساسيات قواعد بيانات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LY3JfVlVrT1ZVdEY5Y2FmeWJrNTlWZUdfNmNDOWNMcmJ3TmNabnV3Nm9WQVB1X0ZqdERjTHNRNUI3TENCZzI5aTBYaXlFR2dtTGRVNWF3?oc=5",
    "date": "2026-01-31T15:22:33+00:00",
@@ -780,6 +810,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRT2VGb1QwcGlBZWxkM2NscDVHa1drUVpVWG1kZGl2cG0ydFFIZW5FcUFINEQ0UUttb2IyR3dfSHNGOUxCU2ExRUFTWGRQYWtkZUZRaU9n?oc=5",
    "date": "2025-10-19T12:30:46+00:00",
    "summary": "SQL Full Course for Beginners (Complete Guide For Data Engineers) YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "DataCamp SQL Course and Certification Review - 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SaXlTZFRtT2k4LTlrRWU5R3owb1d1VjBRWGFYelVwdTROVFc3RGR4dkJXdkVkWjlBNGNZd0JHUHg1SjVxR2p6MXNqUWJUWEtlMjNRWEN3?oc=5",
+   "date": "2025-10-02T19:43:33+00:00",
+   "summary": "DataCamp SQL Course and Certification Review - 2026 YouTube",
    "tech": "sql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1086,6 +1126,16 @@
    "lang": "en"
   },
   {
+   "title": "Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oYk1ITmJ6Mlg4UnZTanIyNXlUUi1VVjdJZ0s0ZjI1MW1heFJmNnREendRc3dzUTFXeEhVVWZoeU5hX215WDJ4MWFYeVl2Y1hhNThUcnl3?oc=5",
+   "date": "2024-12-10T05:00:49+00:00",
+   "summary": "Ultimate Data Analyst Bootcamp [24 Hours!] for FREE | SQL, Excel, Tableau, Power BI, Python, Azure YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "00 - قواعد البيانات (Database) للمبتدئين || شرح شامل بأبسط طريقة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BRS02OTk4RzVUb0dxbTl1NGRXR2dTWUxGREY5YUVFS2hLTngxMEZGYlZXX0JXdlJFSmx6eWtxMUpadlJsLUhkNFdTSkRDOWFmU2lwLWVn?oc=5",
    "date": "2024-12-07T09:07:26+00:00",
@@ -1130,6 +1180,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NX3JjYlMxSzZWbG8zb3U3OU9Qd3Zva1VTbDVKZl82SlZodS1VR2E3WEJ5NTVFX2Y3SGlKX3FxWnQzMVM4aUJLM2ZTYkdFb0ZScXhqMTlR?oc=5",
    "date": "2024-11-06T14:35:46+00:00",
    "summary": "Microsoft Azure - SQL Databases and App Services YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Crash Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yanpHWFZSYVMxUEI4dDNqOGk2cFg3OHd5NVNEMVZ3dTkyMjR6VnIxNW1fOV9GQzVUOHh5UGRGUHd5VjV3YW4tb3pEYmltVGZpWEtheHFB?oc=5",
+   "date": "2024-10-24T16:00:29+00:00",
+   "summary": "SQL Crash Course for Beginners YouTube",
    "tech": "sql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1366,6 +1426,16 @@
    "lang": "en"
   },
   {
+   "title": "SQL - Complete Course in 2 Hours | SQL One Shot using Oracle 🚀 Step by Step | Full Course In Hindi",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0bzRHOExtc2lJa3VnV0JGUnY3eWpGTVkxdU95bVVsaEhLM2lOYnRfQ2Z0d1dwN3VvTXhwR1VHMkxjSVVORUd0a2puLW1RTFJiaUNXbnN3?oc=5",
+   "date": "2023-10-13T13:30:29+00:00",
+   "summary": "SQL - Complete Course in 2 Hours | SQL One Shot using Oracle 🚀 Step by Step | Full Course In Hindi YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "استخراج / استيراد معلومات من قواعد البيانات SQL Server و Excel",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTXpvSk1pSEY4QXFiVmJlbDlvTTlsNHdTZzJYN25kTlFnUlk4UmRQbjBzbGhPR3FvQ0hoNWptQXdXVFJuenF5N1R4d216LVZiNVZfUVR3?oc=5",
    "date": "2023-10-11T21:38:04+00:00",
@@ -1384,6 +1454,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "مدخل لغة SQL والتقسيم الوظيفي لللغه وأنواع أوامر اللغه DDL , DML , Dcl",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14RlVIdlVaUG9xSW1ac001Rl9jZ3dHMUJ4MlctWE9qbHFob2tVVmlJZ1M1OHRGV29VRjFKWEo5d1FObEM0WEYwc0VERzZ3b0tZamtEdGh3?oc=5",
+   "date": "2023-10-08T20:28:00+00:00",
+   "summary": "مدخل لغة SQL والتقسيم الوظيفي لللغه وأنواع أوامر اللغه DDL , DML , Dcl YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "شرح أومر #Sql لجميع قواعد البيانات (insert , Delete , Update , Select)",
@@ -1836,26 +1916,6 @@
    "lang": "ar"
   },
   {
-   "title": "🔥 SQL Tutorial For Beginners 2023 | SQL Full Course 2023 | SQL Tutorial 2023 | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRjFLNVF4emJtdXRzSHFfVjlGWVZxQU5VVFVNbFhQclhHeDcwR2RaclpJU0hsanFvbVhYSVZ5V2FHU2QtOWRHRk1wOERHVWxvUmdFelRR?oc=5",
-   "date": "2022-09-21T22:10:30+00:00",
-   "summary": "🔥 SQL Tutorial For Beginners 2023 | SQL Full Course 2023 | SQL Tutorial 2023 | Simplilearn YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "What Is SQL ? | Database in SQL | SQL Introduction | SQL Tutorial In Hindi 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LRVJoU24yVzQ5VGhlYVJ6LVRjb2h1dHhNN0VqTF9FdE0wbHJPS3RMZkJsaGVfb2ZRUWJoaVRpSVJ3WDhvd1dzYmhPbWItQ08yMDhjN3JB?oc=5",
-   "date": "2022-09-21T05:56:07+00:00",
-   "summary": "What Is SQL ? | Database in SQL | SQL Introduction | SQL Tutorial In Hindi 1 YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "006 كتابة أول استعلام بلغة SQL",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Oak56MUQ3Z0U3ZWRCYzNLYWdjWm9qVHlhaGEwYlZJVlJVOENkT182dXg3SHdxOFhBQ0Q1SnlBWXlWOUxTSG9WNnctdUt6REpsbmhJU21n?oc=5",
    "date": "2022-09-04T14:14:11+00:00",
@@ -1886,24 +1946,14 @@
    "lang": "ar"
   },
   {
-   "title": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LUUhLSWpHWTJzaWxCc3pEc3VxTnZoWFBCNlRuWG1OWmRDeXZKY0M0MGlIMjU1TjJ6OXpYX0Vjck5TTG5fWUs4a0RJeDBEcjJxTHN1YkdR?oc=5",
-   "date": "2022-08-17T16:07:03+00:00",
-   "summary": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners) YouTube",
+   "title": "مدخل الي قواعد البيانات (SQL database)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlc2RZc0taY1A4MmN5VmVJeUpWYUFLRHJsbkNSRTgzQWc2QWRvZWNrR1RUTUtkaWMzUFdDV0oxb2ZkWmw4NkFiejNzQVVodmFQZjVDaFJn?oc=5",
+   "date": "2022-08-15T18:44:03+00:00",
+   "summary": "مدخل الي قواعد البيانات (SQL database) YouTube",
    "tech": "sql",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SQL Tutorials | Beginners | What is SQL? | in Hindi/Urdu | Part-1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02eE5Lc0Y5QXRqWEZvNTNuSWVfb3gwWU05UFFkZVUxci1RSFI1R3l2MFozR1FpcUd5YVhwSHBEb3dLc3pMQnc4NkJTa01zcFUtd2p4bzdR?oc=5",
-   "date": "2022-08-05T13:27:02+00:00",
-   "summary": "SQL Tutorials | Beginners | What is SQL? | in Hindi/Urdu | Part-1 YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "أسئلة امتحانات الوظائف المتعلقة بـــِ SQL",
@@ -1934,16 +1984,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "SQL Full Course in 2 Hours | SQL Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53TzNZT3dZZld2VWZQbV90d2VEQzlmNjZrLWlCdVF0b3oyNXRrS18tR3MwMHl3V0o2dmctZTlVNFdKQkhPNmF4Ujk5MndFME95eFJkYVNR?oc=5",
-   "date": "2022-05-31T13:57:08+00:00",
-   "summary": "SQL Full Course in 2 Hours | SQL Tutorial for Beginners YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "تعلم قواعد البيانات والتحكم بأي سيرفر عن بعد Database - تحويل اللغة الى برنامج بلغة بايثون",
@@ -2176,6 +2216,16 @@
    "lang": "ar"
   },
   {
+   "title": "PHP Course in Arabic (2021) || PHP MySQL CRUD [#1] || Learn PHPMYADMIN || تعلم قواعد بيانات الويب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBELWs1ZFJMeFl2VzZfUTBsSnp4eTc4Tjh0ZTl2MFUtMEhTZFZjdDRmYktOdU94Vk9qY3N3WG1NOEh3WFhiRUNUeklmY0k3Qk5CWE4tampR?oc=5",
+   "date": "2021-04-22T08:29:20+00:00",
+   "summary": "PHP Course in Arabic (2021) || PHP MySQL CRUD [#1] || Learn PHPMYADMIN || تعلم قواعد بيانات الويب YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "67 حل مشكلة اللغة العربية في أس كيو أل سيرفر resolve the collation problem in sql server",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yY1J5SE5seWs0eS1EWHFXYmFrS0Z2bmUyelE1M3NVX0hsa1NxMWFuVnVFT2tDcGZJeDRxTlQzeElLTHlGTWFsVnFwaURTZk80RDg0dEFB?oc=5",
    "date": "2021-04-06T08:30:02+00:00",
@@ -2190,56 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UVWIyQ2UzS09vLXdwRTRyTmRJcXNna1p5dnBFdGJINENNcDlOQjRsTG5ISmJvclNMeUg2RDRDc2xvSkdBanlJS1d2M2kzTnNYODFqeHZ3?oc=5",
    "date": "2021-03-29T19:22:55+00:00",
    "summary": "استيراد وتصدير قاعدة بيانات #MySql من خلال #PhpMyAdmin YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "[3] - One To One Database Relationships - شرح مبسط",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTRFNxcjhObDhtRUtMZDhuV1N3dWprQTVaMzBMSTdwSTRrU09uUDJUMUV1Y0EweW84YkdRSVE5bkl5amlEUE9uOGVSTzVnQzBGRE1VRHBn?oc=5",
-   "date": "2021-03-15T07:17:16+00:00",
-   "summary": "[3] - One To One Database Relationships - شرح مبسط YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "5- انشاء شبكة محلية SQL SERVER LOCAL NETWORK",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sTnlHZWNaWlQ0VjNjZmpOWGt6emVDRmVuVXZTaWFnNWRjdXVhVUtqbTh0LWdmVGtSYXliVnVTdGNGcjZSa2pVNEhTLWdITG9ZbHNZQkxn?oc=5",
-   "date": "2021-02-13T17:15:42+00:00",
-   "summary": "5- انشاء شبكة محلية SQL SERVER LOCAL NETWORK YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم قواعد البيانات sql بلغة php بكل سهولة الدرس 3 كيفية انشاء الجداول داخل قواعد البيانات table",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmMEpyeklZZFkwbks2Z0JHUVdBdm5IeVVHXzdrR25zazhfN2VuRm9JLUFkQlRsM09qODlVMUY4Qml3S280V1RSQmpoU0tZX01FNDNWNURn?oc=5",
-   "date": "2021-02-07T01:36:40+00:00",
-   "summary": "تعلم قواعد البيانات sql بلغة php بكل سهولة الدرس 3 كيفية انشاء الجداول داخل قواعد البيانات table YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم قواعد البيانات sql بلغة php بكل سهولة كيفية انشاء قاعدة بيانات create database",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZYV9DelZCR01oc3lUN3k5dC1ENXpZdmRWVkpqamU4bl9Qd29JTHdaYmdfZmduRVlWd01xSWN4VUs2c3p3YTZuRXpjXzdCQWpOX1hCU0Vn?oc=5",
-   "date": "2021-02-07T01:36:20+00:00",
-   "summary": "تعلم قواعد البيانات sql بلغة php بكل سهولة كيفية انشاء قاعدة بيانات create database YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "افضل دورة تعلم SQL و ادارة قواعد البيانات MySQL من الصفر حتى الاحتراف",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UWhFUWFOeGxYTXpUZ3ctYmdmUV9TWXhyRGtVamVuaUdGeFVMa2ZtRTRtN09ySmNaTmNpWGVKRmxvZ19NZF9vekFoT28wWlNabS1GSUF3?oc=5",
-   "date": "2021-02-04T19:51:13+00:00",
-   "summary": "افضل دورة تعلم SQL و ادارة قواعد البيانات MySQL من الصفر حتى الاحتراف YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,8 +1,136 @@
 {
- "generated": "2026-08-17T05:25:49.863022+00:00",
+ "generated": "2026-08-18T05:03:04.840889+00:00",
  "tech": "solidity",
- "count": 114,
+ "count": 120,
  "items": [
+  {
+   "title": "My Bitcoin Wallet Recovery Story: How I Connected with Mighty Hacker Recovery",
+   "url": "https://dev.to/esther_bump_6dc49d5c30602/my-bitcoin-wallet-recovery-story-how-i-connected-with-mighty-hacker-recovery-5091",
+   "date": "2026-08-18T00:54:51+00:00",
+   "summary": "How I Regained Access to My Bitcoin Wallet  I was extremely worried when I suddenly lost access to my...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From HTTP Requests to Atomic On-Chain Transactions",
+   "url": "https://dev.to/parnita_singh_73778510977/from-http-requests-to-atomic-on-chain-transactions-3517",
+   "date": "2026-08-17T17:12:15+00:00",
+   "summary": "Coming from Web2, I initially thought of a Solana transaction like an API request:  send request...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "EIP-712 Explained: Sign and Verify Typed Data with ethers.js and Solidity",
+   "url": "https://medium.com/coinmonks/eip-712-explained-sign-and-verify-typed-data-with-ethers-js-and-solidity-ae48d94eddaf?source=rss------solidity-5",
+   "date": "2026-08-17T16:43:16+00:00",
+   "summary": "Imagine your application wants a user to authorize an off-chain action: Continue reading on Coinmonks »",
+   "tech": "solidity",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "비트코인 맥시멀리즘: 그 장점과 한계를 비판적으로 탐구하다",
+   "url": "https://dev.to/ice1121/biteukoin-maegsimeolrijeum-geu-jangjeomgwa-hangyereul-bipanjeogeuro-tamguhada-3j7b",
+   "date": "2026-08-17T15:14:30+00:00",
+   "summary": "비트코인 맥시멀리즘은 암호화폐 생태계 내에서 매우 두드러진 이념적 입장으로, 비트코인(BTC)만이 유일하게 진정으로 탈중앙화되어 있고 안전하며 궁극적으로 가치 있는 암호화폐라고...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Common Mistakes When Building RWA Tokenization Smart Contracts",
+   "url": "https://medium.com/@michaelmathew19901/5-common-mistakes-when-building-rwa-tokenization-smart-contracts-2e6b0774c969?source=rss------solidity-5",
+   "date": "2026-08-17T14:14:42+00:00",
+   "summary": "RWA tokenization development is one of the fastest-growing areas of blockchain development right now. Real estate, invoices, and other&#x2026; Continue reading on Medium »",
+   "tech": "solidity",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "SCAI Lucky Loop — A Web3 Lottery Platform Built with React, Solidity and Ethereum",
+   "url": "https://medium.com/@gehlotpooja4181/scai-lucky-loop-a-web3-lottery-platform-built-with-react-solidity-and-ethereum-74d2922e586b?source=rss------solidity-5",
+   "date": "2026-08-17T13:36:39+00:00",
+   "summary": "Introduction Continue reading on Medium »",
+   "tech": "solidity",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "What a Bitcoin Blockchain Explorer Taught Me About Reading Data I Didn't Write",
+   "url": "https://dev.to/rjeff-sudo/what-a-bitcoin-blockchain-explorer-taught-me-about-reading-data-i-didnt-write-1hh6",
+   "date": "2026-08-17T12:19:27+00:00",
+   "summary": "I thought building a blockchain explorer was going to be a JSON parsing exercise. Call bitcoind over...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stablecoin settlement b2b: як бізнес використовує стейблкоїни для міжнародних розрахунків",
+   "url": "https://dev.to/tanya_kamenskih_fae915d43/stablecoin-settlement-b2b-iak-biznies-vikoristovuie-stieiblkoyini-dlia-mizhnarodnikh-rozrakhunkiv-4d3b",
+   "date": "2026-08-17T11:35:35+00:00",
+   "summary": "TL;DR     Stablecoin settlement b2b — це використання стейблкоїнів для розрахунків між...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Free Option Hiding Inside Every Atomic Forward (and What It Costs to Close It)",
+   "url": "https://dev.to/barissozen/the-free-option-hiding-inside-every-atomic-forward-and-what-it-costs-to-close-it-1a4j",
+   "date": "2026-08-17T10:08:22+00:00",
+   "summary": "Seven years ago today - 17 August 2019 - Runchao Han, Haoyu Lin and Jiangshan Yu filed ERC-2266,...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Basic Smart Insurance using Blockchain",
+   "url": "https://medium.com/@ranjana-jha/a-basic-smart-insurance-using-blockchain-be6c2bf964cc?source=rss------solidity-5",
+   "date": "2026-08-17T09:44:24+00:00",
+   "summary": "In this post we will develop a very basic automated insurance system using Ethereum blockchain technology. Continue reading on Medium »",
+   "tech": "solidity",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "What Is Tokenized Gold and How Does It Actually Work?",
+   "url": "https://dev.to/rayan_cooper_f5814449bcdc/what-is-tokenized-gold-and-how-does-it-actually-work-23j6",
+   "date": "2026-08-17T06:56:26+00:00",
+   "summary": "Gold has always been associated with physical ownership, but technology is changing how people can...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "진화하는 암호화폐 지형: 본질적 가치, AI 혁신, 그리고 규제적 요구의 통합",
+   "url": "https://dev.to/ice1121/jinhwahaneun-amhohwapye-jihyeong-bonjiljeog-gaci-ai-hyeogsin-geurigo-gyujejeog-yoguyi-tonghab-4b8j",
+   "date": "2026-08-17T03:14:02+00:00",
+   "summary": "암호화폐와 블록체인 생태계는 심오한 변화를 겪고 있으며, 이는 초기 투기 단계를 넘어 보다 성숙하고 가치 중심적인 패러다임으로 전환하고 있다는 신호다. 이러한 진화는 단순한 시가총액...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Yokai OS Earns a 57.23 Proof of Usefulness Score by Building a Telegram-Native AI Community Operating System",
    "url": "https://hackernoon.com/yokai-os-earns-a-5723-proof-of-usefulness-score-by-building-a-telegram-native-ai-community-operating-system?source=rss",
@@ -19,6 +147,28 @@
    "date": "2026-08-16T16:23:33+00:00",
    "summary": "Building PangeniAI: A Decentralized AI dApp on Polygon    AI that actually cares — no...",
    "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "이더리움의 패러다임 전환: 더 머지가 가져온 변혁적 영향 심층 분석",
+   "url": "https://dev.to/ice1121/ideoriumyi-paereodaim-jeonhwan-deo-meojiga-gajyeoon-byeonhyeogjeog-yeonghyang-simceung-bunseog-23cd",
+   "date": "2026-08-16T15:13:44+00:00",
+   "summary": "2022년 9월 15일 실행된 이더리움 머지는 탈중앙화 네트워크 역사상 가장 야심 차고 기술적으로 복잡한 업그레이드로 평가받는다. 수년 동안 암호화폐 커뮤니티는 보다 지속 가능하고...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Ethereum's Paradigm Shift: Unpacking the Transformative Impact of The Merge",
+   "url": "https://dev.to/ice1121/ethereums-paradigm-shift-unpacking-the-transformative-impact-of-the-merge-499a",
+   "date": "2026-08-16T15:13:41+00:00",
+   "summary": "Introduction   The Ethereum Merge, executed on September 15, 2022, stands as arguably the...",
+   "points": 1,
    "tech": "solidity",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -234,50 +384,6 @@
    "lang": "en"
   },
   {
-   "title": "Gnosis RPC List: Endpoints, Chain Settings, and Provider Tips",
-   "url": "https://dev.to/onfinality/gnosis-rpc-list-endpoints-chain-settings-and-provider-tips-45k5",
-   "date": "2026-08-14T01:30:33+00:00",
-   "summary": "Find Gnosis RPC endpoints, chain settings, and provider evaluation tips. Compare public vs managed RPC for production apps.",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ETH RPC Node: How to Connect to Ethereum",
-   "url": "https://dev.to/onfinality/eth-rpc-node-how-to-connect-to-ethereum-2d2h",
-   "date": "2026-08-14T01:30:00+00:00",
-   "summary": "Learn what an ETH RPC node is, how to connect to Ethereum using JSON-RPC, and how to choose between public and dedicated nodes.",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Composable Finance: RPC Setup for Cross-Chain DeFi",
-   "url": "https://dev.to/onfinality/composable-finance-rpc-setup-for-cross-chain-defi-2g2d",
-   "date": "2026-08-14T01:29:27+00:00",
-   "summary": "Learn how to connect to Composable Finance and Picasso networks via RPC, configure endpoints, and build cross-chain DeFi apps.",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Best Ethereum RPC Services for Performance Monitoring 2025",
-   "url": "https://dev.to/onfinality/best-ethereum-rpc-services-for-performance-monitoring-2025-46j8",
-   "date": "2026-08-14T01:28:55+00:00",
-   "summary": "Learn how to monitor Ethereum RPC performance: key metrics, tools, and provider evaluation criteria for 2025.",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Building a Decentralized Freelancing Platform with Solidity",
    "url": "https://medium.com/@abdallah.abdelwahab377/building-a-decentralized-freelancing-platform-with-solidity-e53c368b0e1c?source=rss------solidity-5",
    "date": "2026-08-13T22:03:49+00:00",
@@ -285,72 +391,6 @@
    "tech": "solidity",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Buy Stablecoin Safely: A Network, Wallet, and Settlement Checklist",
-   "url": "https://dev.to/increase/how-to-buy-stablecoin-safely-a-network-wallet-and-settlement-checklist-1d6",
-   "date": "2026-08-13T21:40:53+00:00",
-   "summary": "Buying a stablecoin is mechanically simple. Buying the right token on the right network into the...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Buy Stablecoin for Business or Large Transactions: An Operational Workflow",
-   "url": "https://dev.to/increase/how-to-buy-stablecoin-for-business-or-large-transactions-an-operational-workflow-492e",
-   "date": "2026-08-13T21:40:16+00:00",
-   "summary": "A business buying stablecoins should not treat the transaction as a bigger version of a retail...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Is Crypto Dead in 2026? A Systems Check Instead of a Price Prediction",
-   "url": "https://dev.to/increase/is-crypto-dead-in-2026-a-systems-check-instead-of-a-price-prediction-4jh4",
-   "date": "2026-08-13T21:39:25+00:00",
-   "summary": "No, crypto is not dead in 2026. But that answer is more useful when it is separated into layers.  A...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "8,192 calls. Zero failures. Three swaps.",
-   "url": "https://dev.to/automate_ai/8192-calls-zero-failures-three-swaps-mb5",
-   "date": "2026-08-13T20:26:25+00:00",
-   "summary": "A green invariant test proves nothing until you print the denominators. Here is the run where mine looked perfect and had never once reached the bug.",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Blockchain and Zero Knowledge Infinite Trust | ZK-STARKs",
-   "url": "https://dev.to/fundacjadobrepanstwo/blockchain-and-zero-knowledge-infinite-trust-zk-starks-44ln",
-   "date": "2026-08-13T20:13:56+00:00",
-   "summary": "The article analyzes the evolution of blockchain technology from Bitcoin, which challenged the...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Adding Solana to an EVM app: four bugs that silently ate an agent's payout",
-   "url": "https://dev.to/linknpark/adding-solana-to-an-evm-app-four-bugs-that-silently-ate-an-agents-payout-3m9a",
-   "date": "2026-08-13T13:10:27+00:00",
-   "summary": "I run a helpdesk where autonomous AI agents answer real support tickets and get paid in USDC when a...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -412,6 +452,16 @@
    "sourceId": "medium",
    "source": "Medium",
    "lang": "en"
+  },
+  {
+   "title": "تلخيص العقود الذكية صف سابع ثقافة مالية قناة حياتنا التعليمية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vRW5QakI0RGpwZ2VLcDVmcFlwYlJNanhBMHBGY0tGUHk0RmU4WkhPcGhVeng3dWJZS1dDUk0yb21FR0hDZjRxMnczRE9vbGNydkNiaGh3?oc=5",
+   "date": "2026-03-29T10:00:00+00:00",
+   "summary": "تلخيص العقود الذكية صف سابع ثقافة مالية قناة حياتنا التعليمية YouTube",
+   "tech": "solidity",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Blockchain Course 2026 | The Ultimate Web3 Tutorial for Beginners",
@@ -498,6 +548,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DaXNuNElTcVNhU04tYlpEVXNXaF9neGNJSzV0M0pnM3BPUFZsenBGT25ZVHVnR1BtNUN2dTA3WVNSbkNWYUw0dGs5QURKVG9oUF82MDlR?oc=5",
    "date": "2024-12-12T19:32:50+00:00",
    "summary": "Pros and cons of learning Solidity YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How to Audit Solidity Smart Contracts and Create an Auditing Report 🔐✨ - 2025",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVklteG1JNzRHc1c0VjNESmJfRHdPM0w4Rk1PSlU2NzVZV19BM01xMTVZMzlFMWJFNjd5bEJ4Y3pMcHdiVmRrSUVvVkRQNE14bVRZeXJR?oc=5",
+   "date": "2024-11-17T13:39:43+00:00",
+   "summary": "How to Audit Solidity Smart Contracts and Create an Auditing Report 🔐✨ - 2025 YouTube",
    "tech": "solidity",
    "sourceId": "yt",
    "source": "YouTube",
@@ -834,6 +894,16 @@
    "lang": "en"
   },
   {
+   "title": "Intro to Ethers.js | Ultimate Web3 Solidity & Javascript Course | Lesson 5 Pt. 8",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTNHNJalNJM2tJZlZoV1hiOHdUcW5MSFFtSmJfdFlNWi04MWs5ZGc3cEpRMjlHRm9fam1ZZ3NiTW9sdzR0WTBYOHc3bGQzVEdabU8tNEpR?oc=5",
+   "date": "2022-09-16T13:08:00+00:00",
+   "summary": "Intro to Ethers.js | Ultimate Web3 Solidity & Javascript Course | Lesson 5 Pt. 8 YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Ganache & Networks | Ultimate Web3 Solidity & Javascript Course | Lesson 5 Pt. 7",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oRHEzV01CYmNSbGVtT1JXaFVmdkFrd21kTkxMcG1kWGQ2QnA4MFVVX1hpMEQ3ZDZGWkg2VFl5Z2diVkY4NWtIY1FFUGhwVVdXcUFQVWJn?oc=5",
    "date": "2022-09-16T13:07:01+00:00",
@@ -894,10 +964,30 @@
    "lang": "en"
   },
   {
+   "title": "مفهوم العقود الذكية في تقنية Blockchain",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tTjYzSXBRSDFvSDVLWHhnVEZQM3BmX0FWVlc4QVNXQmdvcERVc0lXYmlIQmpwTDBDM2FOQ1ozZ1RLSG1oZDNlNE5RVEFISTVxdTg5bVdR?oc=5",
+   "date": "2022-07-04T06:04:32+00:00",
+   "summary": "مفهوم العقود الذكية في تقنية Blockchain YouTube",
+   "tech": "solidity",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "How To Read, Write And Update Variable In Solidity | Solidity Tutorial for Smart Contract Developer",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKSUhkVW9STkxENFBiWnJzX2dsTjUxd3JSandEWjZiak5KeWFTeEhTSWtDSWcxelVtYTlEUWlQNWlLUVpfdno1aDZtbWxqZEIzZG9US2VR?oc=5",
    "date": "2022-07-04T04:16:23+00:00",
    "summary": "How To Read, Write And Update Variable In Solidity | Solidity Tutorial for Smart Contract Developer YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Remix ID Complete Tutorial, Solidity Code Editor Remix ID | Deploy & Test Smart Contract In Remix ID",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GbUV0X0k3c29IQmxaZmJDaGhfQTF5ZFV4N0pjbl9zWXhBN3Z5OEN0djdjZVllRlRZbnU1VGwtVjVMMHhfWlVzOHlKQXhvVGxXamNucUpB?oc=5",
+   "date": "2022-06-28T17:21:03+00:00",
+   "summary": "Remix ID Complete Tutorial, Solidity Code Editor Remix ID | Deploy & Test Smart Contract In Remix ID YouTube",
    "tech": "solidity",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1124,50 +1214,20 @@
    "lang": "en"
   },
   {
+   "title": "How to Learn Solidity in 30 Days",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mZnBqd1pXYmtmWFV6TGtQM3FURnVjdVBzUU5Kek9OSXR6azEwVHNlb0pEdE5OMkxzQXlOaEZhMTZXMktjZjJHTUhFWktIQVhsSXk0azJR?oc=5",
+   "date": "2021-07-02T03:08:51+00:00",
+   "summary": "How to Learn Solidity in 30 Days YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tcEtlZ25LOWxSV1pPQUl6WGwwbjlfX0txdTNWb0pGakRqcms3UDZLMmtrSVlYSTMtcG9PV2xlMk8tYnpVTXVicF9FZVQxN2NmWEFYMXBB?oc=5",
    "date": "2021-04-15T13:21:36+00:00",
    "summary": "The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Ethereum Programming Tutorial - DeFi, Solidity, Truffle, Web3.js",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDZTctUmJCc0YyNm02SnJzN2tKaE01Y01UU2FhNnJzcS1Fd2ZWYmdjMmNlWWwybURKNXpkWWFRMW5MUUhoWU5HR2Y2ak9nNFlCRlBzYXJ3?oc=5",
-   "date": "2021-02-22T20:00:09+00:00",
-   "summary": "Ethereum Programming Tutorial - DeFi, Solidity, Truffle, Web3.js YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Hardhat Tutorial | Smart contract framework (Truffle alternative)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcHhid29Xem54T2E5X2ExZkRtcVVpanlDQ0dhaFhRalRSTWdCalVpR0hoQU1GYXp2ekJTTjVlcWRYdW03NE1vNlM4Z0tNZzFsc25UM2d3?oc=5",
-   "date": "2021-01-14T00:04:12+00:00",
-   "summary": "Hardhat Tutorial | Smart contract framework (Truffle alternative) YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Code a Blockchain Game Step-by-Step (Ethereum, Solidity, Web3.js, Truffle)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FS3hCYU9kM3JOVnpKWEZlaGNFeWhwS2ppd3lhVXpCNlFBM251RWQ2dGRkUnZTeDR3U2tvM0NqV1REUE9TeXY0NUpxYVNobDhvYm5LemtR?oc=5",
-   "date": "2020-10-09T14:30:03+00:00",
-   "summary": "Code a Blockchain Game Step-by-Step (Ethereum, Solidity, Web3.js, Truffle) YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Blockchain Tutorial for Beginners | Build a DeFi App (Ethereum, Solidity, Web3.js & Truffle)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lcUNlSzBNdngyeGowWEtaQjc1c1pBYy1PUTFZZzk1U2hNRDc3c1R6eDVTVmR3V2xHRWxOYl9DUW5oa3FUbFJRcWN0N05oS3VpVF9pejRB?oc=5",
-   "date": "2020-08-24T15:30:00+00:00",
-   "summary": "Blockchain Tutorial for Beginners | Build a DeFi App (Ethereum, Solidity, Web3.js & Truffle) YouTube",
    "tech": "solidity",
    "sourceId": "yt",
    "source": "YouTube",
