@@ -1,13 +1,90 @@
 {
- "generated": "2026-08-18T05:05:04.685331+00:00",
+ "generated": "2026-08-19T05:16:13.451558+00:00",
  "tech": "c",
  "count": 59,
  "items": [
+  {
+   "title": "How to Choose the Right PCBA Manufacturer for Your Electronic Product",
+   "url": "https://dev.to/_b3c3f4ea2fe6897a27168f/how-to-choose-the-right-pcba-manufacturer-for-your-electronic-product-2jb9",
+   "date": "2026-08-18T09:45:56+00:00",
+   "summary": "Choosing a PCBA manufacturer is more than comparing assembly prices. The right supplier must be able...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Rust Influences C++ Coding Style: Balancing Ecosystem Criticism and Pattern Adaptation",
+   "url": "https://dev.to/serbyte/rust-influences-c-coding-style-balancing-ecosystem-criticism-and-pattern-adaptation-59d7",
+   "date": "2026-08-18T05:58:38+00:00",
+   "summary": "Introduction   My journey into C++ began under an unusual circumstance: I had already fallen...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "𝐖𝐞𝐛 𝐀𝐬𝐬𝐞𝐦𝐛𝐥𝐲 : 𝐑𝐮𝐧 𝐲𝐨𝐮𝐫 𝐂/𝐂++ 𝐜𝐨𝐝𝐞 𝐨𝐧 𝐖𝐞𝐛 𝐛𝐫𝐨𝐰𝐬𝐞𝐫𝐬",
+   "url": "https://dev.to/praveen3601/--3l67",
+   "date": "2026-08-18T05:57:23+00:00",
+   "summary": "Have you ever wondered what happens when you take lightning-fast C/C++ code and drop it directly into...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Part 2 — Why -O2 Deletes Your C++ Concurrency Loops: Undefined Behavior & Data Races",
+   "url": "https://dev.to/ajinkya_singh_2c02bd40423/part-2-why-o2-deletes-your-c-concurrency-loops-undefined-behavior-data-races-2k1l",
+   "date": "2026-08-17T21:22:33+00:00",
+   "summary": "Sources this series builds on: Chili's (ChiliTomatoNoodle) multithreading playlist, CMU 15-213...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Overview of the RTOS Kernel Project",
+   "url": "https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca",
+   "date": "2026-08-17T16:14:35+00:00",
+   "summary": "In previous tutorial, I've gave you the theoretical background about ARM Cortex-M3/4 processors. In...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "QH256 in C — A Deterministic 256-Bit State Structure for K501-AIONARC",
+   "url": "https://dev.to/k501is/qh256-in-c-a-deterministic-256-bit-state-structure-for-k501-aionarc-3bji",
+   "date": "2026-08-17T08:46:56+00:00",
+   "summary": "A reproducible C reference implementation of the K501 QH256 structure: 128 cells, 2 bits per cell, 256 bits total, four canonical states, deterministic serialization, and validation.",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "dog challenge",
    "url": "https://dev.to/carynyx80/dog-challenge-2g44",
    "date": "2026-08-16T23:42:35+00:00",
    "summary": "This is a submission for Weekend Challenge: Dog Days Edition  http://petscope.lovable.app/  I built a...",
+   "points": 0,
+   "tech": "c",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "C++20 Concepts: Constraining Templates for Cleaner, Safer Code",
+   "url": "https://dev.to/toolloom/c20-concepts-constraining-templates-for-cleaner-safer-code-2ehp",
+   "date": "2026-08-16T21:01:00+00:00",
+   "summary": "Master C++20 concepts to constrain templates, improve error messages, and write safer generic code...",
    "points": 0,
    "tech": "c",
    "sourceId": "devto",
@@ -277,17 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "Crustc – Translating Rustc to…",
-   "url": "https://dev.to/norviktech/crustc-translating-rustc-to-8g8",
-   "date": "2026-07-05T12:05:57+00:00",
-   "summary": "Originally published at norvik.tech            Introduction   Explore the significance of...",
-   "points": 0,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "2D Arrays in C++: Declare, Initialize & Operations",
    "url": "https://www.digitalocean.com/community/tutorials/two-dimensional-array-in-c-plus-plus",
    "date": "2026-06-16T07:22:39+00:00",
@@ -298,78 +364,34 @@
    "lang": "en"
   },
   {
-   "title": "Top C MCQs Every Student Must Master Before Interviews",
-   "url": "https://dev.to/rukmini_santoshi_eaaa4274/top-c-mcqs-every-student-must-master-before-interviews-4jlo",
-   "date": "2025-11-24T13:40:20+00:00",
-   "summary": "If you are preparing for technical interviews in 2025, you’ve probably realized one thing: C MCQs are...",
-   "points": 0,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Mastering C Language: A Comprehensive Interview Guide for Students",
-   "url": "https://dev.to/mi1an/mastering-c-language-a-comprehensive-interview-guide-for-students-2g8b",
-   "date": "2023-10-23T02:23:13+00:00",
-   "summary": "Interviewer:  Let's start with a simple one: How would you explain what a Data Types is in C...",
-   "points": 2,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "5 - تمارين لغة سي - اربع تمارين هامة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83WTROLXAwUE83N0E5NWZOUUx5MERtUktrMjNEVEJxa29MSnJjMnV0bmVfRnNMT3RZTGNLTjdqRXhZMkJYc2JvSDlzM3BGMmhLMUZ0UlRn?oc=5",
    "date": "2023-07-22T23:19:57+00:00",
-   "summary": "5 - تمارين لغة سي - اربع تمارين هامة YouTube",
+   "summary": "5 - تمارين لغة سي - اربع تمارين هامة youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تعلم أساسيات البرمجة ولغة سي بلس بلس في 4 ساعات فقط",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94SXU5enBOMVNhQ0dBNGVJX2FvdFNoQTlsVWJ5TUJyUmpWd2JUMk42ZWQzcjBqN3FHQmhvVDBGQ0JHU0E5THpINFYybTRwdW9kRlFrQkh3?oc=5",
    "date": "2023-05-17T17:00:07+00:00",
-   "summary": "تعلم أساسيات البرمجة ولغة سي بلس بلس في 4 ساعات فقط YouTube",
+   "summary": "تعلم أساسيات البرمجة ولغة سي بلس بلس في 4 ساعات فقط youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تعلم لغة البرمجة c للمبتدئين: المؤشرات | c programming pointers",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SYzdkWVVBT2dOaTNEMUxwMXJjZmExWlNkeWJGVG10NFFzaTNFdDNKTWlra2diX2NGXzVfTnlJeGhDQWg3TXQ0Mk8yUkpHTXlSZDF5Rl9R?oc=5",
    "date": "2022-12-09T14:00:07+00:00",
-   "summary": "تعلم لغة البرمجة c للمبتدئين: المؤشرات | c programming pointers YouTube",
+   "summary": "تعلم لغة البرمجة c للمبتدئين: المؤشرات | c programming pointers youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
-  },
-  {
-   "title": "A simple program to detect memory leaks in our C program",
-   "url": "https://dev.to/namantam1/a-simple-program-to-detect-memory-leak-in-our-c-program-5c5i",
-   "date": "2022-07-25T17:47:00+00:00",
-   "summary": "Whenever we program in a language such as C/C++ we have to manage our memory ourselves, there is no...",
-   "points": 9,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ways to get and set environment variables in C",
-   "url": "https://dev.to/namantam1/ways-to-get-and-set-environment-variables-in-c-200m",
-   "date": "2022-07-15T10:54:05+00:00",
-   "summary": "In this article, I will discuss some of the most simple ways to access environment variables in C...",
-   "points": 8,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "#25 C Pointers and Functions | C Programming For Beginners",
@@ -385,30 +407,30 @@
    "title": "كورس [week1 - 0] cs50 بالعربي | تعلم لغة سي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWE9uRVNkRXM2cU0tTWhLX2lsb0EzNjdBemNnWkF0WmU5bXlDeFJOaGlXb1MxcGdoRVNRNUpaT09QQ21OZFJKa1pBT0FNVDBTbHlDYnJB?oc=5",
    "date": "2022-03-01T13:28:26+00:00",
-   "summary": "كورس [week1 - 0] cs50 بالعربي | تعلم لغة سي YouTube",
+   "summary": "كورس [week1 - 0] cs50 بالعربي | تعلم لغة سي youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "C Programming for beginners - تعلم لغة سي من الصفر | Break and Continue Statements",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ONVFWT3hJMGZ1ZXJVM3dzbk02VnhqbWVWU2hsQ05FYXZ0V09McGR5OHdvUjhDdEhkYWpRSDFXdFlBRUhDTFlVdTg2dWtfekRiU2dXMXN3?oc=5",
    "date": "2022-02-16T08:56:04+00:00",
-   "summary": "C Programming for beginners - تعلم لغة سي من الصفر | Break and Continue Statements YouTube",
+   "summary": "C Programming for beginners - تعلم لغة سي من الصفر | Break and Continue Statements youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "C Programming for beginners - تعلم لغة سي من الصفر | Calculator App With C",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lelRMTC1VNlVPSkNJNDlabWF3WlpTNWJNZk1wMUpkYjQzTUhGMWdWT2dCenRGYUNQSzBkbWFmdkZWUC00dG5WeHNuMHdEeHl0SWNRV2Zn?oc=5",
    "date": "2022-02-16T08:39:03+00:00",
-   "summary": "C Programming for beginners - تعلم لغة سي من الصفر | Calculator App With C YouTube",
+   "summary": "C Programming for beginners - تعلم لغة سي من الصفر | Calculator App With C youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -425,10 +447,10 @@
    "title": "C Programming for beginners - تعلم لغة سي من الصفر | Course intro - المقدمة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13VVVMQ0dPR2tVenRzWC0yOUhhQzN0NnBiVXMzeWw1cUxYTEF4TFFULUs3NVJJdVFwaVpaSUhtY29jRzR4QWxkT2pUbmR2a3pISnpmTzB3?oc=5",
    "date": "2022-02-16T05:55:12+00:00",
-   "summary": "C Programming for beginners - تعلم لغة سي من الصفر | Course intro - المقدمة YouTube",
+   "summary": "C Programming for beginners - تعلم لغة سي من الصفر | Course intro - المقدمة youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -455,40 +477,40 @@
    "title": "اسهل طريقة في تعلم لغة سي شارب من البداية الي الاحتراف | البرمجة c# Zero To Hero فيديو واحد دليلك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UR3V5MVRmTi03M2IySnFYanJ3WWR1ZHBDUFYtY19TSDNaOGFtUFdyWVozMFdWRFJkZ1JIQnV5TkNIVVNXdWNHSnN1ZmpXRDFlLVQxSnJR?oc=5",
    "date": "2021-09-26T09:22:50+00:00",
-   "summary": "اسهل طريقة في تعلم لغة سي شارب من البداية الي الاحتراف | البرمجة c# Zero To Hero فيديو واحد دليلك YouTube",
+   "summary": "اسهل طريقة في تعلم لغة سي شارب من البداية الي الاحتراف | البرمجة c# Zero To Hero فيديو واحد دليلك youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح الدوال بلغة سي بلس المستوى التانى الحلقه 2",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CVWpsSWIyYU43X2FhUVhiQnBfN2kxUDh3bmlDZmhLM2RkYXI3SzNIYmhVaFItODdSc2NhNjBfUkNLVXdEcXBtZG5sUXhMbUlEcC1zQlhB?oc=5",
    "date": "2021-09-20T13:41:09+00:00",
-   "summary": "شرح الدوال بلغة سي بلس المستوى التانى الحلقه 2 YouTube",
+   "summary": "شرح الدوال بلغة سي بلس المستوى التانى الحلقه 2 youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح الدوال بلغة سي بلس المستوى التانى الحلقة الاولى",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03eDlMRTE5MWRfVFN5UVdjSHZ2bHR2RDBaOUNQV3V4YUxFeWhEYjMxVXkyRThKQXNkWWJWamVUX1BjdEpNQjdqYUlldnZqa1lsYXBCVzdn?oc=5",
    "date": "2021-09-15T15:51:38+00:00",
-   "summary": "شرح الدوال بلغة سي بلس المستوى التانى الحلقة الاولى YouTube",
+   "summary": "شرح الدوال بلغة سي بلس المستوى التانى الحلقة الاولى youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تعلم لغة سي بلس بلس فى 300 دقيقة | C++",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12NGVLVmFwcDl4LXl1Njl5T3A4TFNaSUtvMmFHT1M2UE5PUTQtOXNYUUM5UkdmZk96clFPdWZrSEZfMDNGMWZSU1c2OXVMTjJYLVljNmJR?oc=5",
    "date": "2021-09-07T10:00:19+00:00",
-   "summary": "تعلم لغة سي بلس بلس فى 300 دقيقة | C++ YouTube",
+   "summary": "تعلم لغة سي بلس بلس فى 300 دقيقة | C++ youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -515,10 +537,10 @@
    "title": "خمسة برمجة - لغة سي شارب C# - استخداماتها - مميزاتها - شرح كامل + افضل المصادر التعليمية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wckdnYU40bkFEbko1RDNicmQzbDY1bGxnbnJURmFTUDVabXJDTkN1aGZYTWlVemI0MnB3Vm5kVWlBek1HeFRfZ1g4bXBKRUpaTVpyRjZR?oc=5",
    "date": "2020-09-13T18:14:52+00:00",
-   "summary": "خمسة برمجة - لغة سي شارب C# - استخداماتها - مميزاتها - شرح كامل + افضل المصادر التعليمية YouTube",
+   "summary": "خمسة برمجة - لغة سي شارب C# - استخداماتها - مميزاتها - شرح كامل + افضل المصادر التعليمية youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -535,32 +557,21 @@
    "title": "تعلم البرمجة بلغة سي شارب #C | مقرر البرمجة 2 | الدرس الثاني : إكمال الصفوف والأغراض والطرق",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50MGxURWY4U3lLZ3FQSTlzWHByaFRuUzQ3NUdKU01nS25UTEdrY2dIXzItS25WNnNGVHdVZFl4OXMtTnJxTG9meE1FdUpGMmo2MUc1Yl9B?oc=5",
    "date": "2020-03-07T15:37:37+00:00",
-   "summary": "تعلم البرمجة بلغة سي شارب #C | مقرر البرمجة 2 | الدرس الثاني : إكمال الصفوف والأغراض والطرق YouTube",
+   "summary": "تعلم البرمجة بلغة سي شارب #C | مقرر البرمجة 2 | الدرس الثاني : إكمال الصفوف والأغراض والطرق youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تعلم البرمجة بلغة سي شارب #C | مقرر البرمجة 2 | الدرس الأول : الصفوف والأغراض والطرق",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ckptbExHellWOEdid0c3LU41MlVmdVBMLW9sYmFGMnRyVlcwRElWdTN0V1NCaGhwY3hXSGVyWjNHUGFPMEhYSHZMVVZPOWxwM2FZNmpn?oc=5",
    "date": "2020-03-07T11:48:27+00:00",
-   "summary": "تعلم البرمجة بلغة سي شارب #C | مقرر البرمجة 2 | الدرس الأول : الصفوف والأغراض والطرق YouTube",
+   "summary": "تعلم البرمجة بلغة سي شارب #C | مقرر البرمجة 2 | الدرس الأول : الصفوف والأغراض والطرق youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
-  },
-  {
-   "title": "Compiling Trouble Shooting: Segmentation Fault and GCC Illegal Instruction",
-   "url": "https://dev.to/nebulagraph/compiling-trouble-shooting-segmentation-fault-and-gcc-illegal-instruction-20ne",
-   "date": "2020-02-05T04:17:27+00:00",
-   "summary": "Compiling Trouble Shooting — Segmentation Fault and Illegal Instruction  Recently I have been re-orga...",
-   "points": 5,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "مترجم لغات البرمجة Compiler ومترجمات لغة سي++",
@@ -573,34 +584,23 @@
    "lang": "ar"
   },
   {
-   "title": "Swap two integers in 'C' programming Without using third variable",
-   "url": "https://dev.to/programmerrush/swap-two-integers-in-c-progrmming-without-using-third-variable-1d9g",
-   "date": "2018-12-17T06:50:57+00:00",
-   "summary": "Swap two integers in 'C' programming using third variable",
-   "points": 10,
-   "tech": "c",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "15 شرح جملة Switch - Case في البرمجة بلغة سي++",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93ZXNFSzJQSE1hVFFRVGZMcTlrYUNFeHBnRGMzRU5aRzh4YVowbFgzOEU5SGNIZHd4b0JxTWM3Z1BOVXFOS0pLZW9ydUU1dU9uNGhJTHVn?oc=5",
    "date": "2016-12-10T16:50:00+00:00",
-   "summary": "15 شرح جملة Switch - Case في البرمجة بلغة سي++ YouTube",
+   "summary": "15 شرح جملة Switch - Case في البرمجة بلغة سي++ youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "2-2 شرح الكود بلوكس كومبيلر Code::Blocks للغة سي وسي++",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yMFNJbUE0ZVk5SmRXaHFtZlh5MXRkMGtEY29rN0Z5Q2RtVWlxTFFDX1BIN1Z2cU56aG1idkpjR182Q3ZRLWNYUkRTMmRjbHR6aWVKMEpn?oc=5",
    "date": "2015-12-11T15:39:03+00:00",
-   "summary": "2-2 شرح الكود بلوكس كومبيلر Code::Blocks للغة سي وسي++ YouTube",
+   "summary": "2-2 شرح الكود بلوكس كومبيلر Code::Blocks للغة سي وسي++ youtube.com",
    "tech": "c",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {

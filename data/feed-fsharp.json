@@ -1,8 +1,129 @@
 {
- "generated": "2026-08-18T05:05:43.084160+00:00",
+ "generated": "2026-08-19T05:18:51.743814+00:00",
  "tech": "fsharp",
  "count": 104,
  "items": [
+  {
+   "title": "One Quality Score Is a Lie: Split Your RAG Judge Into Retrieval, Groundedness, and Relevance",
+   "url": "https://dev.to/saurav_bhattacharya/one-quality-score-is-a-lie-split-your-rag-judge-into-retrieval-groundedness-and-relevance-473m",
+   "date": "2026-08-19T01:02:05+00:00",
+   "summary": "Ask an LLM judge to score your RAG agent's answer and it will hand you a number. A 7. A 4.2. A crisp...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Blazor Server .NET 10, What Really Changed in Production",
+   "url": "https://dev.to/ekioo/blazor-server-net-10-what-really-changed-in-production-3fg9",
+   "date": "2026-08-19T00:07:58+00:00",
+   "summary": "Blazor Server .NET 10 changed the render pipeline, streaming and SEO in ways release notes won't tell you. A field report from running ekioo.com.",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "[Showoff] Tired of DependencyProperty boilerplate? I built a Zero-Allocation Source Generator for WPF/MAUI with strict type safety.",
+   "url": "https://dev.to/kassyi/showoff-tired-of-dependencyproperty-boilerplate-i-built-a-zero-allocation-source-generator-for-4ik6",
+   "date": "2026-08-18T19:13:13+00:00",
+   "summary": "Hey everyone,  Let's face it: writing DependencyProperty in .NET UI frameworks is a chore. Typing out...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Implementing Feature Management in .NET: The Lazy Way",
+   "url": "https://dev.to/avlcodemonkey/implementing-feature-management-in-net-the-lazy-way-gcb",
+   "date": "2026-08-18T18:57:53+00:00",
+   "summary": "Microsoft already built a feature flag library for .NET. Here's how to use Microsoft.FeatureManagement with configuration, dependency injection, feature filters, and Razor.",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": ".NET 10 dotnet tool exec: Pin the Version and Feed in CI",
+   "url": "https://dev.to/ssukhpinder/net-10-dotnet-tool-exec-pin-the-version-and-feed-in-ci-2jgl",
+   "date": "2026-08-18T18:45:55+00:00",
+   "summary": "A CI step that says dotnet tool exec Some.Tool looks isolated, but it is not fully reproducible....",
+   "points": 5,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "🚀 Interactive WJB Demos Are Live",
+   "url": "https://dev.to/ukrguru/interactive-wjb-demos-are-live-4pnh",
+   "date": "2026-08-18T18:11:00+00:00",
+   "summary": "🚀 Interactive WJB Demos Are Live  Want to see WJB in action before adding it to your project?  The...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Design Patterns: Reusable Solutions to Recurring Problems",
+   "url": "https://dev.to/rhuturaj_takle/design-patterns-reusable-solutions-to-recurring-problems-2e31",
+   "date": "2026-08-18T15:47:20+00:00",
+   "summary": "Design Patterns: Reusable Solutions to Recurring Problems   A practical guide to classic...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "NGB Platform v2.0: Document Actions + Work Center",
+   "url": "https://dev.to/ngbplatform/ngb-platform-v20-document-actions-work-center-1l9p",
+   "date": "2026-08-18T13:15:00+00:00",
+   "summary": "NGB Platform v2.0: Document Actions + Work Center   NGB Platform v2.0 introduces two closely...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MAI-Thinking-1 Is Now in Foundry — Here's What It Means If You Write C#",
+   "url": "https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9",
+   "date": "2026-08-18T12:15:47+00:00",
+   "summary": "Every time Microsoft ships a new model into Foundry, I ask myself the same boring-but-important...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Getting Started with System Design: 7 Key Decisions",
+   "url": "https://dev.to/antonmartyniuk/getting-started-with-system-design-7-key-decisions-3aig",
+   "date": "2026-08-18T11:49:59+00:00",
+   "summary": "Most developers learn system design in the wrong way, especially with the help of AI.  They usually...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built an AI-collaborative UML editor that puts 💩 on smelly code",
+   "url": "https://dev.to/dhq-boiler/i-built-an-ai-collaborative-uml-editor-that-puts-on-smelly-code-2eb2",
+   "date": "2026-08-18T11:09:32+00:00",
+   "summary": "Kata is a two-way class diagram editor for .NET solutions that surfaces Fowler-style code smells as 💩 badges and delegates the actual refactor to Claude Code or Codex CLI — you keep the review, the AI writes the diff.",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Supabase .NET DevLog #6",
    "url": "https://dev.to/tr00d/supabase-net-devlog-6-40b2",
@@ -213,127 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "Handling 1 Million Report Downloads with ASP.NET Core, CQRS, and Headless Browsers in 2026",
-   "url": "https://dev.to/kirandeepjassalcrypto/handling-1-million-report-downloads-with-aspnet-core-cqrs-and-headless-browsers-in-2026-i8b",
-   "date": "2026-08-15T18:27:26+00:00",
-   "summary": "Originally published at prepstack.co.in   Generating one PDF report takes 2–4 seconds in a headless...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Graph Theory in C#",
-   "url": "https://dev.to/grantwatsondev/graph-theory-in-c-5h83",
-   "date": "2026-08-15T16:30:51+00:00",
-   "summary": "Using graph search to solve real-world problems in C# Most day-to-day C# work involves flat...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Microservices: Building Applications as Independent, Communicating Services",
-   "url": "https://dev.to/rhuturaj_takle/microservices-building-applications-as-independent-communicating-services-2eo8",
-   "date": "2026-08-15T15:08:38+00:00",
-   "summary": "Microservices: Building Applications as Independent, Communicating Services   A practical,...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What I Learned About Exceptions in C#: Understanding Errors Instead of Hiding Them",
-   "url": "https://dev.to/maysam_ehab_/what-i-learned-about-exceptions-in-c-understanding-errors-instead-of-hiding-them-5b71",
-   "date": "2026-08-15T11:15:26+00:00",
-   "summary": "When I started learning C#, I thought exceptions were mainly about one thing:   Put the code inside...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Mojo 1.0 vs .NET: Which Problem Is Each One Actually Solving?",
-   "url": "https://dev.to/rehana_parveen_1b8844718a/mojo-10-vs-net-which-problem-is-each-one-actually-solving-345n",
-   "date": "2026-08-15T10:45:17+00:00",
-   "summary": "I initially looked at Mojo from a .NET developer's perspective and made the obvious mistake: I...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "From Java to C#",
-   "url": "https://dev.to/gaucis1729/from-java-to-c-584b",
-   "date": "2026-08-15T05:34:55+00:00",
-   "summary": "Hi everyone!  I'm used to working in Java, but I recently got a job interview for a company that...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Eight Session-Boundary Tests I Run Before Trusting a Trading Bot",
-   "url": "https://dev.to/stratcorealpha/eight-session-boundary-tests-i-run-before-trusting-a-trading-bot-ofj",
-   "date": "2026-08-15T01:56:19+00:00",
-   "summary": "A session reset looks simple until a platform reloads data, reconnects or sends the same timestamp...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "14 Years of Enterprise ASP.NET, Part 4: Azure, Observability & AI in Real Systems",
-   "url": "https://dev.to/kirandeepjassalcrypto/14-years-of-enterprise-aspnet-part-4-azure-observability-ai-in-real-systems-36da",
-   "date": "2026-08-14T18:40:21+00:00",
-   "summary": "Originally published at prepstack.co.in   Part 4 of 4 — 14 Years of Enterprise ASP.NET (finale)....",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Health Checks: Verifying Application and Dependency Health",
-   "url": "https://dev.to/rhuturaj_takle/health-checks-verifying-application-and-dependency-health-47h1",
-   "date": "2026-08-14T16:01:41+00:00",
-   "summary": "Health Checks: Verifying Application and Dependency Health   A practical guide to health...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built a small C# library to deal with custom queries (and why OData didn't cut it)",
-   "url": "https://dev.to/marin260/i-built-a-small-c-library-to-deal-with-custom-queries-and-why-odata-didnt-cut-it-49n0",
-   "date": "2026-08-14T15:41:20+00:00",
-   "summary": "On a recent project I got asked \"Hey can you build me something where I can just query whatever...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Trust Boundaries Around AI Features",
-   "url": "https://dev.to/lukaswalter/trust-boundaries-around-ai-features-3c2i",
-   "date": "2026-08-14T15:30:00+00:00",
-   "summary": "If an action requires approval, a prompt is never the control that enforces it.  A prompt can tell...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "F# vs C#— Orchestrators",
    "url": "https://medium.com/@it-fach-bereich/f-vs-c-orchestrators-5b0e88d48e6b?source=rss------fsharp-5",
    "date": "2026-08-08T16:01:03+00:00",
@@ -478,6 +478,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DVndnSWU1XzA3c2xpd3RFb19qd0FNZEUyeWl0NkxvbV9ZWk5kOU1acTRkS3ZzUndXVWJjdG1fd1RBRWVMZTl6TXV3Ty1RNi1yNjFXbDB3?oc=5",
    "date": "2025-08-08T06:45:00+00:00",
    "summary": "How to Play F# Major Scale on Ukulele - Ukulele Major Scales Course Video 7 YouTube",
+   "tech": "fsharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Must-Know Key F# Gospel Progression to Level Up Fast Piano Tutorial |Gospel Piano Lessons",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEbFQweVgyYVMwSVFFNkplZlE3MG14b0ZISm9WNGxGT0t6TjBBQnJiallOYlB5eFhfdEtYZGE5bGlXSnkxcXEwVmh2aTBWdXNZTG04T2Fn?oc=5",
+   "date": "2025-07-31T07:23:53+00:00",
+   "summary": "Must-Know Key F# Gospel Progression to Level Up Fast Piano Tutorial |Gospel Piano Lessons YouTube",
    "tech": "fsharp",
    "sourceId": "yt",
    "source": "YouTube",
@@ -744,6 +754,16 @@
    "lang": "en"
   },
   {
+   "title": "F Sharp Strings Worship - Yeshua Hamashiach ( Instructor- Emmanuel)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUN0wxRTBjcExGM3Q2WWU1MVFJQmFYUnB0V3lMRTNfdVY4OVEwYUp0MkdjRENPSEktei1SSDBHRTNxWEVya0U4LU9mOGswcjJvN1V5aV9R?oc=5",
+   "date": "2023-08-26T07:00:10+00:00",
+   "summary": "F Sharp Strings Worship - Yeshua Hamashiach ( Instructor- Emmanuel) YouTube",
+   "tech": "fsharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "F sharp piano tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0d3c4dnJvNWJyVHNWUUZNRHlvckJsaHhweThkd1dBdFFNUDFTVHg5VzdycWp3eDVRbnNjaTJGZUhRLUxEeWE5OTJFTXZsckQwWHYxXw?oc=5",
    "date": "2023-08-16T04:45:37+00:00",
@@ -818,6 +838,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vTjZyMHhiT2NEYXZhdnFaZW56Mk4yMmMwdVd3UFR5ckQtQWVXWmFGbWJNSU1hU1NjTC1iYUc1YnlwMzRkNGRwTDVFUHk1YmExNGVWbVFR?oc=5",
    "date": "2023-05-11T13:36:01+00:00",
    "summary": "How to play F#/Gb major & D#/Eb minor Piano Scale [SCALES COURSE Lesson 12] YouTube",
+   "tech": "fsharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "F# Tutorial: Introducing the actor model",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45UVRTOXEya1U5ZkhSLWNyeEFlYmV0ZmRDQ3doVVltb0pqY3A0cWRuUG10aFhSV180WXZmNUY3TTI4b0QySDlmQVRZcVRYeXRoVlpGS1Vn?oc=5",
+   "date": "2023-05-01T15:00:02+00:00",
+   "summary": "F# Tutorial: Introducing the actor model YouTube",
    "tech": "fsharp",
    "sourceId": "yt",
    "source": "YouTube",
@@ -944,6 +974,16 @@
    "lang": "en"
   },
   {
+   "title": "F# Major Scale Viola Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54c3ozSXdSUEtTSnJ5X3RVNkxVNG1ZVDYzOHFGVDJLS1MwcUxFQXAyN28tdW1GY001OUlIckJFVFNRN0g2RkZrR21DY1ZLU1VweEFZajNn?oc=5",
+   "date": "2021-10-18T17:31:54+00:00",
+   "summary": "F# Major Scale Viola Tutorial YouTube",
+   "tech": "fsharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "HOW TO PLAY ADVANCED 1,4,1,5 PRAISE PROGRESSION ON F# /PIANO TUTORIAL",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYWks2dl9ZbUxPdmNjZnNvX0pPQ0RqaFdMOFppTkFhMURqVGlMdHpLQkx5YWZoNXdSMmN0YTRnSkhNcEg2ZjRiUDNzQnJNOFQ1bm0tSy1R?oc=5",
    "date": "2021-10-06T16:09:56+00:00",
@@ -1028,46 +1068,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DelJjYUlUUDJsZUNVOXdUSlgyM0VacnVhbFRWM0pmVHJHWExoeXpXS0M0UGl1Q1Jvb2phTmRteXljWDJuNjhWUFpDVWIzaVRMSlJpT093?oc=5",
    "date": "2021-03-09T09:00:15+00:00",
    "summary": "HOW TO SOUND BETTER ON F SHARP PART 1-(Instructor - Caleb Fadhili) YouTube",
-   "tech": "fsharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "UNASTAHILI KUABUDIWA IN F SHARP CHALLENGE (Instructor - Caleb Fadhili)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NTjJ3emVWNWVPcmVka1ZmakJIU1pwcVNQQVlxTWdkS1JIT3lFNFVVdkhyVnFNMHZqMFZSWkFnYnp0d1F0MHQ1MWhvZ2tyNjlGakNoQ293?oc=5",
-   "date": "2021-03-01T09:00:10+00:00",
-   "summary": "UNASTAHILI KUABUDIWA IN F SHARP CHALLENGE (Instructor - Caleb Fadhili) YouTube",
-   "tech": "fsharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Beginner Piano Lesson: How to Play the F# Major Scale (One Octave) | Fingering, Notes and More!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdEFkLUVUSlpnYWVUZnJMaDc1MzI0RTRrMzl5YVlkUUUxcHk4amVwaHJQNktjZlhSZDVKOGtYRDkzdWRBTEhNaWw1MFRGODFJXzAzOWN3?oc=5",
-   "date": "2020-12-30T18:40:07+00:00",
-   "summary": "Beginner Piano Lesson: How to Play the F# Major Scale (One Octave) | Fingering, Notes and More! YouTube",
-   "tech": "fsharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "F SHARP WORSHIP SERIES PART 7: HALLELUJAH (X4) (Instructor - Caleb Fadhili)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QM1hwbTU4SThOelh0QzRYYm5XeFU5VlMxV3c0alRDOXRSRzFzS243cFlyWUoyUENHaXNBNTFEMnhncnUxc2sxNWl3QUdEWkF4YWppNjlB?oc=5",
-   "date": "2020-09-22T09:00:09+00:00",
-   "summary": "F SHARP WORSHIP SERIES PART 7: HALLELUJAH (X4) (Instructor - Caleb Fadhili) YouTube",
-   "tech": "fsharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "7-3-6 PIANO MOVEMENT ON F SHARP (Instructor - Caleb Fadhili)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5eHlMTTdCS2dfeWtIWUdSTi1NNlJRTHVKSWt2RkFZUnRTeWZoM0RHZGRma255NWdoX2oxWUFCT05mWm1vbk5IR1ozN090aGZBMldwaVpB?oc=5",
-   "date": "2020-09-09T09:00:11+00:00",
-   "summary": "7-3-6 PIANO MOVEMENT ON F SHARP (Instructor - Caleb Fadhili) YouTube",
    "tech": "fsharp",
    "sourceId": "yt",
    "source": "YouTube",

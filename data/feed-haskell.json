@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T05:03:56.745320+00:00",
+ "generated": "2026-08-19T05:14:04.566937+00:00",
  "tech": "haskell",
  "count": 109,
  "items": [
@@ -8,7 +8,7 @@
    "url": "https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1",
    "date": "2026-08-17T07:39:18+00:00",
    "summary": "Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.",
-   "points": 7,
+   "points": 8,
    "tech": "haskell",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -434,6 +434,16 @@
    "lang": "en"
   },
   {
+   "title": "Haskell Course - Lecture 22 - Markdown to HTML converter",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5STVh6dWxsNFlHcDl2N2FTNkZ1Q3R6ZGZGRm1KbkVvZTFodjFnbUp4c3F6cGNiRlpaRlpjRm1PbWc4WFBfVFFGaGNIRVhKR3Rkc3JveVJB?oc=5",
+   "date": "2025-09-12T16:40:17+00:00",
+   "summary": "Haskell Course - Lecture 22 - Markdown to HTML converter YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Haskell Course - Lesson 21 - Reader, Writer, and State Monads",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yNHoyUFkzQzJCbGJ5UkJxWWVhWmJ1bjd6NGQxWmlSUjZqOHpoaFY5TW9pWmlKWlkwbkN3a3VSOVhBaFhDY21jWm11OEl3clBnd19meFNn?oc=5",
    "date": "2025-08-27T15:58:24+00:00",
@@ -578,6 +588,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XRS12MlgtbHlHOERnWS1DV2lRUXZFN2s1ZDZXRFNsWnNtZ1FDeEh6dmJORzUwMHZOaktKUi1ITmJLZmwxLWU2Tzd0SzJuOVRzOWZiN0Nn?oc=5",
    "date": "2024-06-30T16:00:07+00:00",
    "summary": "Haskell Programming Full Course 2024 YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "05-02 The IO Type (Introduction to Haskell)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKb0p6anF0SEtNODBBaG40WVgxdjR1VlpBRUU5OTRtNE14TGF6d2lNWDdzWUw4d0pJUUt1MW5ZdlJoSUpuR3dZbUd4enpGbG5PTUhHa1Vn?oc=5",
+   "date": "2024-06-28T14:00:38+00:00",
+   "summary": "05-02 The IO Type (Introduction to Haskell) YouTube",
    "tech": "haskell",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1084,43 +1104,23 @@
    "lang": "en"
   },
   {
-   "title": "Haskell - Tutorial 2 - Functions and Lists",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QU2NSYlFreWtmaXlKNXhlU3BrQXg4NUtxRnB2TnpzNDhaT1JHNGIxVUJtcTJ0WXk1WUdBYzlHUFRJVGIyb2hQMHRzbnRGOEh1VWZzN1Zn?oc=5",
-   "date": "2020-10-03T17:21:39+00:00",
-   "summary": "Haskell - Tutorial 2 - Functions and Lists YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Let's Install/Use Haskell in VS Code",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dnBLZXdTdUpYR3JnSjI4UEw3c2ZUOTg5NXd6b1ZBS1VfcTB0bmdvSl92ekxBQjVYdGdQak1xTWRUb1FYYTJOTVI4Z3ZzR2xNbm1wRVln?oc=5",
-   "date": "2020-09-14T10:30:00+00:00",
-   "summary": "Let's Install/Use Haskell in VS Code YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Functional Programming in Haskell دورة دروس في لغة البرمجة اﻹقترانية الوظيفية هاسكل",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JblVHVnRtOVVTOUVuWFdkd05tVEctb0M3YnZ6ajJjS2t5TzlnQTB3ZFlEbUExdTJnZTMzazJPb1RMbTVncTRob2ZvYW9hcXVqV21CRlpvQUd6amI4UjRkRlg2V2R2WWQxeVQ2Q1JQQVNES1lDRzVjQU1LeXQ?oc=5",
    "date": "2019-01-23T10:19:57+00:00",
-   "summary": "Functional Programming in Haskell دورة دروس في لغة البرمجة اﻹقترانية الوظيفية هاسكل YouTube",
+   "summary": "Functional Programming in Haskell دورة دروس في لغة البرمجة اﻹقترانية الوظيفية هاسكل youtube.com",
    "tech": "haskell",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "1.1-دورة دروس لغة هاسكل. كل ما تحتاجه هو حساب لامبدا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZVZIY2dfeGNwRThoeDN2bzE0NUlMTHRuMjZ6Q3F1aG5DcDlscUs2TEdpcDFuMDlBQWxua3E5S1JGVnZaZVdKVzhoMnFidTM0UVZ6WmJn?oc=5",
    "date": "2019-01-23T09:30:00+00:00",
-   "summary": "1.1-دورة دروس لغة هاسكل. كل ما تحتاجه هو حساب لامبدا YouTube",
+   "summary": "1.1-دورة دروس لغة هاسكل. كل ما تحتاجه هو حساب لامبدا youtube.com",
    "tech": "haskell",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   }
  ]

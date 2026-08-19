@@ -1,8 +1,74 @@
 {
- "generated": "2026-08-18T05:03:43.917207+00:00",
+ "generated": "2026-08-19T05:12:36.544649+00:00",
  "tech": "objectivec",
  "count": 78,
  "items": [
+  {
+   "title": "Accessible by Platform: How iOS and Android Differ from the Web",
+   "url": "https://dev.to/ashokyadav123/accessible-by-platform-how-ios-and-android-differ-from-the-web-clb",
+   "date": "2026-08-19T02:21:11+00:00",
+   "summary": "The guidelines you know were written for web pages. Native apps borrow their intent and rewrite the...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "ffmpeg-kit-react-native is dead. Here is a native iOS alternative.",
+   "url": "https://dev.to/specvista/ffmpeg-kit-react-native-is-dead-here-is-a-native-ios-alternative-30nj",
+   "date": "2026-08-18T21:04:10+00:00",
+   "summary": "ffmpeg-kit-react-native is dead. Here is a native iOS alternative.   If you build video...",
+   "points": 1,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I finally opened a stranger's issue on DesignFoundation, two and a half weeks late",
+   "url": "https://dev.to/nerd_snipe_dev/why-i-finally-opened-a-strangers-issue-on-designfoundation-two-and-a-half-weeks-late-j8j",
+   "date": "2026-08-18T19:30:00+00:00",
+   "summary": "I owe fraserscottmorrison an apology before I owe him a thank you. He filed two issues on...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Claude Code hooks ntfy iOS Announce Notifications = your locked iPhone speaks when a prompt finishes or Claude needs you.\r\n\r\nStdlib Python, zero dependencies.\r\nhttps://github.com/pleomax00/claude-speaks",
+   "url": "https://dev.to/pleomax00/claude-code-hooks-ntfy-ios-announce-notifications-your-locked-iphone-speaks-when-a-prompt-84b",
+   "date": "2026-08-18T18:48:12+00:00",
+   "summary": "...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Used Claude to Fill Inspection Forms by Voice, Without Building a Voice Stack",
+   "url": "https://dev.to/toddsullivan/i-used-claude-to-fill-inspection-forms-by-voice-without-building-a-voice-stack-3ha",
+   "date": "2026-08-18T08:03:21+00:00",
+   "summary": "I Used Claude to Fill Inspection Forms by Voice, Without Building a Voice Stack   I just...",
+   "points": 1,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kotlin Coroutines Explained: From `suspend` to Structured Concurrency",
+   "url": "https://dev.to/synfinity-dynamics-pvt-ltd/kotlin-coroutines-explained-from-suspend-to-structured-concurrency-3nml",
+   "date": "2026-08-18T07:26:49+00:00",
+   "summary": "If you've written Kotlin for any length of time, you've bumped into coroutines. Maybe you copy-pasted...",
+   "points": 5,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "A header scan says 16/16. Here's what it can't see.",
    "url": "https://dev.to/maclessdev/a-header-scan-says-1616-heres-what-it-cant-see-14ab",
@@ -261,72 +327,6 @@
    "url": "https://dev.to/yo1995/bao-hu-api-key-he-qi-ta-ying-yong-mi-yao-45hp",
    "date": "2026-08-14T17:22:45+00:00",
    "summary": "尝试英译中机翻我们总结的 API Key 相关经验文档… 尽量说人话 😊            情景   假设我们要发布一个基于 ArcGIS Maps SDK 的 app，并使用 API Key...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Como Funcionam as Requisições HTTP no Swift? Entendendo URL, URLRequest e URLSession",
-   "url": "https://dev.to/henriquepablo/como-funcionam-as-requisicoes-http-no-swift-entendendo-url-urlrequest-e-urlsession-1jlp",
-   "date": "2026-08-14T16:21:37+00:00",
-   "summary": "Para fazer requisição em Swift é um processo simples, mas precisamos entender alguns pontos antes...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Friday night iPhone app blocker setup to stop weekend doomscrolling",
-   "url": "https://dev.to/godnick/a-friday-night-iphone-app-blocker-setup-to-stop-weekend-doomscrolling-12c6",
-   "date": "2026-08-14T15:22:40+00:00",
-   "summary": "Friday night doomscrolling is tricky because it does not feel like procrastination.  The week is...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Swift Mastery Series — Part 8: Swift Structs: Why Apple Chooses Value Types Over Classes",
-   "url": "https://dev.to/divyesh_vekariya/swift-mastery-series-part-8-swift-structs-why-apple-chooses-value-types-over-classes-47m1",
-   "date": "2026-08-14T14:45:00+00:00",
-   "summary": "One of the biggest mindset shifts in Swift is realizing that struct isn't a lightweight version of...",
-   "points": 5,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "App Shield: Your Server Should Not Trust the App Calling It",
-   "url": "https://dev.to/codenameone/app-shield-your-server-should-not-trust-the-app-calling-it-4cpa",
-   "date": "2026-08-14T14:11:17+00:00",
-   "summary": "Codename One App Shield turns Apple App Attest and Google Play Integrity into short-lived tokens your backend can verify. This release also adds OpenType fonts, advances the R2 repository migration, and prepares new Wind",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Splitting a Swift monorepo shouldn't require git-subtree tricks (so I built a free registry)",
-   "url": "https://dev.to/another1dd/splitting-a-swift-monorepo-shouldnt-require-git-subtree-tricks-so-i-built-a-free-registry-19i6",
-   "date": "2026-08-14T13:08:52+00:00",
-   "summary": "Disclosure: I built Perchly, the tool this post ends up recommending. It started as a fix for my own...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Does a French Pronunciation App Actually Measure? A Five-Signal Audit",
-   "url": "https://dev.to/levindong2026/what-does-a-french-pronunciation-app-actually-measure-a-five-signal-audit-gok",
-   "date": "2026-08-14T12:43:09+00:00",
-   "summary": "Search for a French pronunciation app and you will quickly meet the word feedback. The label appears...",
    "points": 0,
    "tech": "objectivec",
    "sourceId": "devto",

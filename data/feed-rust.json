@@ -1,8 +1,173 @@
 {
- "generated": "2026-08-18T04:58:01.142173+00:00",
+ "generated": "2026-08-19T04:58:21.339492+00:00",
  "tech": "rust",
- "count": 115,
+ "count": 116,
  "items": [
+  {
+   "title": "I built a static + runtime security scanner for MCP servers (Rust)",
+   "url": "https://dev.to/zaydmulani09/i-built-a-static-runtime-security-scanner-for-mcp-servers-rust-4498",
+   "date": "2026-08-19T04:05:33+00:00",
+   "summary": "I built a static + runtime security scanner for MCP servers (Rust)  TL;DR: MCP (Model Context...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My QUIC transport had never once been executed. Here's what happened when I ran it.",
+   "url": "https://dev.to/copyleftdev/my-quic-transport-had-never-once-been-executed-heres-what-happened-when-i-ran-it-24ge",
+   "date": "2026-08-19T03:35:06+00:00",
+   "summary": "I built a plant-inspired coordination protocol, wrote 500 lines of real QUIC networking for it, and never actually turned it on. Wiring it up found three latent bugs in twenty minutes — and then taught me that three of m",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Spot on. Throwing more context at an LLM kills latency. If you're building robust agents (especially in Rust), memory architecture is the real bottleneck to solve. Great read.",
+   "url": "https://dev.to/olerius/spot-on-throwing-more-context-at-an-llm-kills-latency-if-youre-building-robust-agents-497k",
+   "date": "2026-08-19T00:22:21+00:00",
+   "summary": "AI Agents Don’t Need More Context. They Need Memory.                                           ...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Relicensing yantrikdb took 57 minutes and I got two things wrong",
+   "url": "https://dev.to/spranab/relicensing-yantrikdb-took-57-minutes-and-i-got-two-things-wrong-12ad",
+   "date": "2026-08-18T23:56:18+00:00",
+   "summary": "I moved yantrikdb from AGPL-3.0 to Apache-2.0 in one evening, and this is every place the old licence was still declared.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "One Vue app, three homes: desktop with Tauri, Android with Capacitor, and the web",
+   "url": "https://dev.to/dibodev/one-vue-app-three-homes-desktop-with-tauri-android-with-capacitor-and-the-web-4eoe",
+   "date": "2026-08-18T23:23:27+00:00",
+   "summary": "I wanted a Reddit client that lived on my desktop and my phone — without maintaining two separate...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building GNOME Apps with Rust, Part 6: Fetching Feeds",
+   "url": "https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-6-fetching-feeds-bjf",
+   "date": "2026-08-18T23:16:31+00:00",
+   "summary": "This is Part 6 of a series taking a GNOME app from an empty directory to GNOME Circle. Part 5 wired...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LibreFang 2026.8.19 Released",
+   "url": "https://dev.to/suzukazehaduki/librefang-2026819-released-1c8g",
+   "date": "2026-08-18T23:03:56+00:00",
+   "summary": "LibreFang v2026.8.19 release notes — open-source Agent OS built in Rust",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "So I built Lilo — a compact Markdown widget.",
+   "url": "https://dev.to/hellterenjoy/so-i-built-lilo-a-compact-markdown-widget-316k",
+   "date": "2026-08-18T18:30:48+00:00",
+   "summary": "I got tired of having to choose between launching heavy note-taking apps just to write down two...",
+   "points": 1,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building an Open-Source Download Engine with Dynamic Range Stealing in Rust",
+   "url": "https://dev.to/ja7ad/building-an-open-source-download-engine-with-dynamic-range-stealing-in-rust-490k",
+   "date": "2026-08-18T16:31:47+00:00",
+   "summary": "Every download tool you’ve used—whether it’s IDM, aria2, or wget—shares a fundamental blind spot:...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Trading Bot Is Easy. Building a Testable Trading System Is Hard.",
+   "url": "https://dev.to/std0/building-a-trading-bot-is-easy-building-a-testable-trading-system-is-hard-150p",
+   "date": "2026-08-18T15:37:00+00:00",
+   "summary": "When building a Polymarket bot, the first version can be surprisingly small:    market data    ...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "`node = \"ubuntu\"` matched two machines: a placement split-brain",
+   "url": "https://dev.to/mighty840/node-ubuntu-matched-two-machines-a-placement-split-brain-954",
+   "date": "2026-08-18T13:45:35+00:00",
+   "summary": "A substring match in a node identity turned one pinned service into two - including two independent Postgres instances. A story about 'refuse, don't guess.'",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Modernizing legacy CSS without breaking the cascade — introducing CSSForge",
+   "url": "https://dev.to/jayeshmepani/modernizing-legacy-css-without-breaking-the-cascade-introducing-cssforge-435c",
+   "date": "2026-08-18T11:24:45+00:00",
+   "summary": "CSS has changed a lot.  We now have native nesting, :is(), :where(), :has(), range media queries,...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your realtime UI can lie to you, and nothing logs it",
+   "url": "https://dev.to/akosidencio/your-realtime-ui-can-lie-to-you-and-nothing-logs-it-5gbo",
+   "date": "2026-08-18T10:31:58+00:00",
+   "summary": "Polling wastes requests. Push loses events. The failure that should scare you is the one where the page just quietly shows the wrong number — and the stream I built to report it instead.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The same Rust gave two different answers, and neither matched JavaScript",
+   "url": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
+   "date": "2026-08-18T08:45:11+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Demo...",
+   "points": 22,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I spent about a week and a half building a desktop app for Fooocus, then I panicked about the wrong thing.",
+   "url": "https://dev.to/moersebene/i-spent-about-a-week-and-a-half-building-a-desktop-app-for-fooocus-then-i-panicked-about-the-wrong-253p",
+   "date": "2026-08-18T08:13:04+00:00",
+   "summary": "I spent about a week and a half building Fooocus Front, a Windows desktop app that installs, launches...",
+   "points": 1,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "The test asserted exactly what could not fail",
    "url": "https://dev.to/cleiton_augusto_/the-test-asserted-exactly-what-could-not-fail-77",
@@ -179,116 +344,6 @@
    "lang": "en"
   },
   {
-   "title": "Pylint Was Too Slow, So I Built Arid",
-   "url": "https://dev.to/spongeb0b/pylint-was-too-slow-so-i-built-arid-2h60",
-   "date": "2026-08-16T15:11:47+00:00",
-   "summary": "I didn't set out to write a duplicate-code checker.  I was working on Polaris, a fairly large Python...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Should the Language Change the Moment I Build a UI?",
-   "url": "https://dev.to/kentaromorishita/why-should-the-language-change-the-moment-i-build-a-ui-fgd",
-   "date": "2026-08-16T13:56:42+00:00",
-   "summary": "I wanted UI code to remain an extension of ordinary data, functions, match, Signal, and Html instead of becoming a separate programming world.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Can Barely Read Rust, but I'm Building a Compiler in Rust",
-   "url": "https://dev.to/kentaromorishita/i-can-barely-read-rust-but-im-building-a-compiler-in-rust-1d59",
-   "date": "2026-08-16T13:55:02+00:00",
-   "summary": "Codex writes a large part of Seseragi's Rust compiler. That hasn't made architecture less important — it has made bad architecture faster to complete.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What If a Function Definition Looked Like Its Type?",
-   "url": "https://dev.to/kentaromorishita/what-if-a-function-definition-looked-like-its-type-4b8c",
-   "date": "2026-08-16T13:53:16+00:00",
-   "summary": "Seseragi's function syntax looks unusual because it has no parameter-list parentheses. The part I actually like is that removing parameter names leaves the function type almost unchanged.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Common Programming Concepts - Part 2 (Data Types)",
-   "url": "https://dev.to/aditya_verma_22/common-programming-concepts-part-2-data-types-f5c",
-   "date": "2026-08-16T13:20:31+00:00",
-   "summary": "What are Data Types?   As we discussed in the last article that we can store any data in...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build an MCP server in Rust with rmcp: a walk-through 🦀",
-   "url": "https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif",
-   "date": "2026-08-16T12:32:56+00:00",
-   "summary": "Step-by-step: scaffolding a real MCP server in Rust with the official rmcp SDK — tools, JSON schemas, AWS calls, stdio transport, testing the protocol by hand, and wiring it into Claude Code.",
-   "points": 2,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
-   "url": "https://dev.to/wiseai/sushi-rs-svg-sushi-components-for-rust-frontends-2n1o",
-   "date": "2026-08-16T08:57:35+00:00",
-   "summary": "Sup Guys 👋!  I am back! It has been a long time no see!   So I came across the Frontend Challenge:...",
-   "points": 6,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript",
-   "url": "https://dev.to/ultrontheai/liorandb-typescript-series-7-building-aggregation-pipelines-in-typescript-4gcb",
-   "date": "2026-08-15T20:08:53+00:00",
-   "summary": "LioranDB TypeScript Series #7: Building Aggregation Pipelines in TypeScript    LioranDB...",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Roadmap: Building a Sub-Microsecond HFT Triangular Arbitrage Engine in Elixir",
-   "url": "https://dev.to/matheuscamarques/roadmap-building-a-sub-microsecond-hft-triangular-arbitrage-engine-in-elixir-4ji2",
-   "date": "2026-08-15T19:07:15+00:00",
-   "summary": "A step-by-step engineering roadmap for building an ultra-low latency cryptocurrency HFT engine using Elixir, Rust, and the Notification-Oriented Paradigm (PON).",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Installing Rust for vLLM on Graviton: a G5g walk-through 🦀",
-   "url": "https://dev.to/aws-builders/installing-rust-for-vllm-on-graviton-a-g5g-walk-through-599a",
-   "date": "2026-08-14T20:37:16+00:00",
-   "summary": "Step-by-step: getting vLLM's Rust frontend built and running on an aarch64 EC2 G5g box. rustup, setuptools-rust, protoc, the release flag, and how to prove the Rust frontend is actually the one answering.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Nexus progress, Frogs! Hackweek | Rust Update 14th August 2026",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Oa1F4SjM3V3VLdWF1Y3JwcDdRTTJTaW5sU3V1Q1U2c2NxcUR0elRySkExT21wZ05faUo1UnpTMkV6RkRFTUMzRTR3MHpWRy0tM0Z0MW5B?oc=5",
    "date": "2026-08-14T15:42:03+00:00",
@@ -296,61 +351,6 @@
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Moments: The Photo App I Built to Win an Argument",
-   "url": "https://dev.to/fromthearchitect/moments-the-photo-app-i-built-to-win-an-argument-1edm",
-   "date": "2026-08-14T08:17:33+00:00",
-   "summary": "A phone call with a mate turned into a wager: could AI actually build a real application from...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The hidden svg Biome flagged anyway: a noSvgWithoutTitle false positive",
-   "url": "https://dev.to/zkasuran/the-hidden-svg-biome-flagged-anyway-a-nosvgwithouttitle-false-positive-51jh",
-   "date": "2026-08-14T08:13:58+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.           The...",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Wanted a Disk Cleaner That Shows Exactly What It Will Delete—So I Built MangoDisk",
-   "url": "https://dev.to/harry0703/i-wanted-a-disk-cleaner-that-shows-exactly-what-it-will-delete-so-i-built-mangodisk-g5c",
-   "date": "2026-08-14T06:35:07+00:00",
-   "summary": "Most disk cleaners turn cleanup into a single number and one big button. That never felt comfortable...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Rust is the Future of Systems Programming",
-   "url": "https://dev.to/3ni8ma/why-rust-is-the-future-of-systems-programming-34a9",
-   "date": "2026-08-13T18:38:06+00:00",
-   "summary": "The Ownership Revolution   Memory safety without garbage collection, fearless concurrency,...",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "zhao-dbt-plan: a microbatch cascading time-window planner for dbt",
-   "url": "https://dev.to/allenhori/zhao-dbt-plan-a-microbatch-cascading-time-window-planner-for-dbt-8pl",
-   "date": "2026-08-13T13:07:24+00:00",
-   "summary": "A few days ago I posted about zhao-cli, a breaking-change gate for dbt (link at the bottom if you...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -418,6 +418,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11TER2MHhRU2RyaW93eU5JRk96Zzd2RjQyTmY1QUJyZUVFYk1idzljaFdabjBaaV90NDZzUGhsWUgyUHhwcGVSWllzdWxQVXRsaEpTWDlB?oc=5",
    "date": "2026-06-05T14:22:28+00:00",
    "summary": "Rust Tutorial For PHP and JavaScript Developers YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Rust from Scratch (Beginner)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WWDZJTUJjWW1TVXpmcGJTaEdKNzlXLTNVa2NDeU5IdU5EN1FCX0hBbll5WWRaS2xldkgwemV3NFZVbWUyWUNwblhPLWtWTDJDb1l5a0hR?oc=5",
+   "date": "2026-05-26T13:00:10+00:00",
+   "summary": "Rust from Scratch (Beginner) YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
@@ -607,10 +617,10 @@
    "title": "البرمجة بلغة rust ، مقدمة سريعة عنها",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlQXhSSjZDX0l3eGhoYkQ5bVdDU0R6RGVGeUR1QWxXc0w0QlBrTENDUUt5dEo5dG1MWEc0UkhhLUJJd1hUbzBIMDB1c0o4eXFWdFJxNA?oc=5",
    "date": "2025-10-07T07:00:00+00:00",
-   "summary": "البرمجة بلغة rust ، مقدمة سريعة عنها YouTube",
+   "summary": "البرمجة بلغة rust ، مقدمة سريعة عنها youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -747,10 +757,10 @@
    "title": "لغة راست في 5 دقائق | Rust in 5 mins (Arabic) 🧡",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMMkVEOXVoY01ESnpEd0otWFE0cUNzR0QwQVE0TmpYckdyQWk3Q3VmeEt1VGFlbllYQ2xIb1AwVHROZFpHNFNDYjN3MVBkTHVfQndpZkJB?oc=5",
    "date": "2025-03-11T15:58:15+00:00",
-   "summary": "لغة راست في 5 دقائق | Rust in 5 mins (Arabic) 🧡 YouTube",
+   "summary": "لغة راست في 5 دقائق | Rust in 5 mins (Arabic) 🧡 youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -842,6 +852,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "تعلم لغة Rust - الجزء الأول",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBib0YzM3RYQS1hZ2k4cTBsdzVMWmxiM2EtSnpYWkxhRGVQeUdXTm5YeC04VzZ3TTZiWG1hcEk2WVF3YlVBSFhmVWl1Y0ZWTFp2YXZsbkdB?oc=5",
+   "date": "2024-09-21T12:40:58+00:00",
+   "summary": "تعلم لغة Rust - الجزء الأول youtube.com",
+   "tech": "rust",
+   "sourceId": "ar-yt",
+   "source": "youtube.com",
+   "lang": "ar"
   },
   {
    "title": "Introductory Rust programming language | Rust tutorial for beginners | Learn Rust in 8 hours",
@@ -1084,23 +1104,13 @@
    "lang": "en"
   },
   {
-   "title": "Ownership in Rust - Full Crash Rust Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VX1Z0MGRrWXlQa3JHQ19HcFlTY2dZYk1kVWl5MlJmQUFSOEVfR2lmZHRQQjN2MFJaM1FNVjZYT3daYnA5VVFNbVNvV1NTc0tfY2hIVTJ3?oc=5",
-   "date": "2024-02-20T14:01:01+00:00",
-   "summary": "Ownership in Rust - Full Crash Rust Tutorial for Beginners YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "خد فكرة عن Rust",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvUWwybjhqZVpGbjRYb3J5MEpONURnZEZjaWozOEFubTRFcUpuTzNBcEwydmo4VjBpTjh1cXJqRnZSdkxSNXUxX0pKcllmcFNGX0tmT0FB?oc=5",
    "date": "2024-02-03T07:43:14+00:00",
-   "summary": "خد فكرة عن Rust YouTube",
+   "summary": "خد فكرة عن Rust youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1117,70 +1127,70 @@
    "title": "C | C++ | Rust | Embedded languages | محمد يوسف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWldvaGdHWE0zMlc5S2RDdTJleHBiM3gtSU83dm9HMFZqOUotcmRORFpLLTJuM1BhTHVLdnp2Vm5MNXhrNGxkZVV3eGtMNk5WSlRaWkdB?oc=5",
    "date": "2023-05-22T17:00:08+00:00",
-   "summary": "C | C++ | Rust | Embedded languages | محمد يوسف YouTube",
+   "summary": "C | C++ | Rust | Embedded languages | محمد يوسف youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "لغة برمجة تبني بيها لغات برمجة.🌟 لغة Rust",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BUFNJU0ZjZHVVYzZFbTMzdGxPMmdoWDhGdnVMLWF0cTZUWVEzWlBnM3JXSkNXVGJlYUpDTXk4b0EtSnMzUVJHbEhRS25JOTFsck1GXw?oc=5",
    "date": "2023-04-13T15:13:04+00:00",
-   "summary": "لغة برمجة تبني بيها لغات برمجة.🌟 لغة Rust YouTube",
+   "summary": "لغة برمجة تبني بيها لغات برمجة.🌟 لغة Rust youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "كورس اساسيات لغة البرمجة راست 🦀 Rust 🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTmJVTFFLcWF1NENvOHhvLUlfaW9tNnV4ZzMxQklhbVN0RjFHQ2lzb0VtYzVDbFdRbk1lemhrYUVVY2owbW1EVkwzZHFET19NSWJXM3V3?oc=5",
    "date": "2022-05-12T17:55:43+00:00",
-   "summary": "كورس اساسيات لغة البرمجة راست 🦀 Rust 🔥 YouTube",
+   "summary": "كورس اساسيات لغة البرمجة راست 🦀 Rust 🔥 youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "لغة الرست - part2 - تثبيت وبدء البرمجة بلغة رست",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EeWhKbl85V1RPM0VSTEk0ZURudUp3UHZHUXluYXhkTFRuRUVKUjlWZE51c2VGekY1dDkwbEFybEc3VW9fdllKMGtQZmJ0QVpjcWF0VGF3?oc=5",
    "date": "2022-03-31T10:00:03+00:00",
-   "summary": "لغة الرست - part2 - تثبيت وبدء البرمجة بلغة رست YouTube",
+   "summary": "لغة الرست - part2 - تثبيت وبدء البرمجة بلغة رست youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "خمسة برمجة - ماهي لغة RUST استخدامتها - مميزاتها وهل هي افضل من GO ؟ + مصادر تعليمية @GeekHood",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NMzV0NkpFb09CZzRqajkxT0xKVDJNN3liV3psZHdjLUZCOW1TSlhGWmVzZ0RRR2lCVkdfbk5TU28tTmNNRVI5cmNyLWdMMTVpUjFyT1d3?oc=5",
    "date": "2020-12-27T18:40:00+00:00",
-   "summary": "خمسة برمجة - ماهي لغة RUST استخدامتها - مميزاتها وهل هي افضل من GO ؟ + مصادر تعليمية @GeekHood YouTube",
+   "summary": "خمسة برمجة - ماهي لغة RUST استخدامتها - مميزاتها وهل هي افضل من GO ؟ + مصادر تعليمية @GeekHood youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "نسرق بيوت الناس في راست مع الشباب !! 😱 RUST 🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lMEFvd0I3dnVPbXB4UUxsbU5rZlgyaWkwamFOLXhNRVhCODRsR0c4SlFJMnF1cS1tNDRWVXJHSmNOdF91LXk4TFhjb1ZnVlhoWFBDaGlB?oc=5",
    "date": "2020-06-09T14:59:51+00:00",
-   "summary": "نسرق بيوت الناس في راست مع الشباب !! 😱 RUST 🔥 YouTube",
+   "summary": "نسرق بيوت الناس في راست مع الشباب !! 😱 RUST 🔥 youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "Rust tutorial in Arabic شرح و تطبيق الكتاب الرسمي للغة البرمجة رصت",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Wb3JXUExEdjZ0NmxpUHVoNndTYWhrX1Q0UHNDSkdzRVpldGtmV1N3U2Z0a2dweVN3cEtkTWlzLVBSam1Mblc0MjRaVExyb0g0bUhSaGNUZU9Wak1BOHBIS3lEekJxY2hRTEF3UTRjUGdVTEgwcmZLaHR1ZGo?oc=5",
    "date": "2018-10-29T13:17:51+00:00",
-   "summary": "Rust tutorial in Arabic شرح و تطبيق الكتاب الرسمي للغة البرمجة رصت YouTube",
+   "summary": "Rust tutorial in Arabic شرح و تطبيق الكتاب الرسمي للغة البرمجة رصت youtube.com",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   }
  ]

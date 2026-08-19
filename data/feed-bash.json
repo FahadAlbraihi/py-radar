@@ -1,8 +1,84 @@
 {
- "generated": "2026-08-18T04:58:31.416203+00:00",
+ "generated": "2026-08-19T04:58:51.785071+00:00",
  "tech": "bash",
- "count": 155,
+ "count": 158,
  "items": [
+  {
+   "title": "Mongodb doesnt work with Linux Kernel 6.19",
+   "url": "https://dev.to/ralvaracode/mongodb-doesnt-work-with-linux-kernel-619-3f8e",
+   "date": "2026-08-18T14:34:14+00:00",
+   "summary": "Also found in my blog: Web Warrior Toolbox   When I updated Linux kernel in my Zorin PC to kernel 7...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why systemctl --user daemon-reload silently does nothing",
+   "url": "https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9",
+   "date": "2026-08-18T14:25:58+00:00",
+   "summary": "A failed per-user systemd manager turns systemctl --user daemon-reload into a silent no-op, so your unit files never load. Here is how to spot it, read the cause, and fix it.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Basler ruL2048-19gm: escanea 19.000 líneas por segundo desde un tren",
+   "url": "https://dev.to/lu1tr0n/basler-rul2048-19gm-escanea-19000-lineas-por-segundo-desde-un-tren-cnd",
+   "date": "2026-08-18T14:23:31+00:00",
+   "summary": "Un hacker usa la cámara industrial Basler ruL2048-19gm, capaz de leer 19.000 líneas por segundo, para fotografiar el paisaje completo desde un tren o ",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Getting Started with Linux Foundation Certifications: Key Insights & Study Strategies published: true",
+   "url": "https://dev.to/dylanhayesit/getting-started-with-linux-foundation-certifications-key-insights-study-strategies-published-13li",
+   "date": "2026-08-18T09:51:47+00:00",
+   "summary": "Over the past few years, the infrastructure landscape has undergone a massive shift toward...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "50 Essential Linux Commands Every Developer Should Know in 2026",
+   "url": "https://dev.to/vickybuilds/50-essential-linux-commands-every-developer-should-know-in-2026-58d3",
+   "date": "2026-08-18T09:42:45+00:00",
+   "summary": "Author: Vicky Builds           50 Essential Linux Commands Every Developer Should Know in...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Opinion: A Free Server Is a Verifier, Not a Demo: Gate AI-Proposed Server Changes by Diffing Runtime Shape",
+   "url": "https://dev.to/github_7727/opinion-a-free-server-is-a-verifier-not-a-demo-gate-ai-proposed-server-changes-by-diffing-2cpp",
+   "date": "2026-08-18T08:20:40+00:00",
+   "summary": "The strongest argument for using a free server is not that it saves money while you explore generated...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Shell: The Messenger between Linux and Its Users",
+   "url": "https://jharaunak.medium.com/shell-the-messenger-between-linux-and-its-users-e8a32fc8b3c0?source=rss------bash-5",
+   "date": "2026-08-18T07:56:01+00:00",
+   "summary": "Shell has been around since the beginning for Linux users. However, its use can be confusing for general users who are new to the platform&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "A Fleet of Self-Healing EC2 Instances (Built Out of Bash and Spite)",
    "url": "https://medium.com/@shawnastaff/a-fleet-of-self-healing-ec2-instances-built-out-of-bash-and-spite-f39414583b36?source=rss------bash-5",
@@ -14,6 +90,17 @@
    "lang": "en"
   },
   {
+   "title": "\"Your cron job isn't broken. It never even started.\"",
+   "url": "https://dev.to/developer_tech/your-cron-job-isnt-broken-it-never-even-started-4ag9",
+   "date": "2026-08-18T04:40:43+00:00",
+   "summary": "You've spent 40 minutes staring at a crontab line that looks perfect. The command works when you...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "7 Bash Scripts Every Devops Engineer Should Have",
    "url": "https://medium.com/@muhammadpahrizal790/7-bash-scripts-every-devops-engineer-should-have-35db71bb931a?source=rss------bash-5",
    "date": "2026-08-18T04:12:56+00:00",
@@ -21,6 +108,28 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Use ViciDial Admin Utilities — Archive, Cleanup & Maintenance",
+   "url": "https://dev.to/moisi_trungu_31647b7ac300/how-to-use-vicidial-admin-utilities-archive-cleanup-maintenance-22id",
+   "date": "2026-08-18T03:30:02+00:00",
+   "summary": "How to Use ViciDial Admin Utilities — Archive, Cleanup &amp; Maintenance   Master production...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?",
+   "url": "https://dev.to/rogeroliveira86/upload-cover-imageno-file-chosenuse-a-ratio-of-1000420-for-best-results-generate-image-cover-2kbc",
+   "date": "2026-08-17T23:31:30+00:00",
+   "summary": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?   When people...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -140,6 +249,16 @@
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I put GitHub’s contribution graph in my terminal, for any repo",
+   "url": "https://medium.com/@ccarcaci/i-put-githubs-contribution-graph-in-my-terminal-for-any-repo-19152ee5a781?source=rss------bash-5",
+   "date": "2026-08-17T09:44:22+00:00",
+   "summary": "GitHub&#x2019;s contribution graph is&#x2026; only on GitHub. Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
    "lang": "en"
   },
   {
@@ -295,105 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "Network Troubleshooting as a Stack: Find Which Layer Is Broken First",
-   "url": "https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6",
-   "date": "2026-08-15T18:34:37+00:00",
-   "summary": "The difference between a good infrastructure troubleshooter and someone who restarts services and...",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Networking Foundations: From OSI Layers to TCP Handshakes",
-   "url": "https://dev.to/dharam_in/networking-foundations-from-osi-layers-to-tcp-handshakes-31nh",
-   "date": "2026-08-15T17:54:31+00:00",
-   "summary": "OSI Model &amp; TCP IP Model            What a networking Model is   Networking model is a...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built a simple tool to automate Linux system updates across different package managers",
-   "url": "https://dev.to/swarajnerlekar28/i-built-a-simple-tool-to-automate-linux-system-updates-across-different-package-managers-36jk",
-   "date": "2026-08-15T17:31:14+00:00",
-   "summary": "It is a lightweight Bash script that probes the host environment, figures out the active package...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "System-Updater",
-   "url": "https://dev.to/swarajnerlekar28/system-updater-108j",
-   "date": "2026-08-15T17:12:37+00:00",
-   "summary": "Hey guys! i created my second project \"System-Updater\". it is written in bash, it checks your...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why logrotate silently does nothing and how to actually debug it",
-   "url": "https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd",
-   "date": "2026-08-15T17:04:58+00:00",
-   "summary": "A config that doesn't error is not a config that works.  logrotate misconfigurations don't fail...",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your drive says SMART PASSED and is already failing: the 5 attributes that actually predict it",
-   "url": "https://dev.to/ricco020/your-drive-says-smart-passed-and-is-already-failing-the-5-attributes-that-actually-predict-it-6g",
-   "date": "2026-08-15T15:52:24+00:00",
-   "summary": "SMART's PASSED verdict stays green long after sectors start going unreadable. The five attributes that predict failure, and the order of operations that decides whether the data survives.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "read stops at the newline, and your delivery check will not tell you",
-   "url": "https://dev.to/ilya_mozerov_867dbdd91feb/read-stops-at-the-newline-and-your-delivery-check-will-not-tell-you-49fl",
-   "date": "2026-08-15T15:25:47+00:00",
-   "summary": "A bot on one of my machines sends me things. Mostly short: an alert, a status line, a...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Twenty-Hour Fuse",
-   "url": "https://dev.to/jeromefromhk/the-twenty-hour-fuse-4lcl",
-   "date": "2026-08-15T14:15:54+00:00",
-   "summary": "Two nights of debugging, one incident left to write about. The night of August 14th, a Claude Code...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Kubernetes Networking [Level-5: Ingress/Gateway]",
-   "url": "https://dev.to/iadiraj/kubernetes-networking-level-5-ingressgateway-4cbc",
-   "date": "2026-08-15T12:06:46+00:00",
-   "summary": "This is Level 5 of our Kubernetes networking series. So far, we've built up a solid...",
-   "points": 2,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "What Happens When You Run a Program on Linux?",
    "url": "https://medium.com/@mitul_digifello/what-happens-when-you-run-a-program-on-linux-2e049211aeda?source=rss------bash-5",
    "date": "2026-08-15T09:33:58+00:00",
@@ -517,10 +537,10 @@
    "title": "Free linux server جوجل كلاود شيل للمبتدئين Google Cloud Shell",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNC14UFlXZ3BzeUxxeDF1YWljeDNTYzBDYldHLW0zSTlRUXhUbkI4R3FxcU05Zm1UR0VyR2hZM3U3LVROUm1XVzI2Z3ltOUR6bDJxLTdR?oc=5",
    "date": "2026-04-01T20:37:26+00:00",
-   "summary": "Free linux server جوجل كلاود شيل للمبتدئين Google Cloud Shell YouTube",
+   "summary": "Free linux server جوجل كلاود شيل للمبتدئين Google Cloud Shell youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -657,10 +677,10 @@
    "title": "معرفة موقع Shodan واستخدامه في سطر الأوامر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vd3ZzZk1CWmNJQktwckhGVXRnaUtxYmFmdko3MXh4NUtwSzhIdzRLOHJ3ZHNzUWsyRHgyc3lEWDk3UW9CbUlVRG1OTkw4MmROR0JGd3lR?oc=5",
    "date": "2025-07-12T18:30:33+00:00",
-   "summary": "معرفة موقع Shodan واستخدامه في سطر الأوامر YouTube",
+   "summary": "معرفة موقع Shodan واستخدامه في سطر الأوامر youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -677,10 +697,10 @@
    "title": "البدء مع برنامج Terminal على توزيعة LinuxMint",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LY0ZlYUlCbTNUV2pHd3B0dDFVeUM1MGV5cnRnT0haRVpkTzdTVnJfQ2ozaG5aQlp5bWxvQnp3T0lrMUNVbXBobHN4ajctRHg4YUJ5MjZR?oc=5",
    "date": "2025-06-05T21:00:40+00:00",
-   "summary": "البدء مع برنامج Terminal على توزيعة LinuxMint YouTube",
+   "summary": "البدء مع برنامج Terminal على توزيعة LinuxMint youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -757,10 +777,10 @@
    "title": "شرح برنامج الترجمة \"Translate Shell\"",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BMTBHb0prZk5fYXloODJERzZueFRMUmJmU2FDMUp0MTQzUW9VY1NiMTJPNUVhX09NQTdXVE0wZER1Y285SWhNUU5CWFI0RExkTXNybnRR?oc=5",
    "date": "2024-10-31T13:00:24+00:00",
-   "summary": "شرح برنامج الترجمة \"Translate Shell\" YouTube",
+   "summary": "شرح برنامج الترجمة \"Translate Shell\" youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -837,20 +857,20 @@
    "title": "تعلم بالتفصيل كيف تتحكم فى نظام راسبيان باستخدام ال Terminal(طرفية لينكس).",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUNGI1cjZwaFZsa0t5enRhUm5UNHVSV3ZqMmVRX3NfVlhkNFo0NTBUbzlXSnJhcHJ4V3JpTXJjOFJjcmk4UEV0ZDZVUHpFdDhwVWlzdUlB?oc=5",
    "date": "2024-04-29T18:01:48+00:00",
-   "summary": "تعلم بالتفصيل كيف تتحكم فى نظام راسبيان باستخدام ال Terminal(طرفية لينكس). YouTube",
+   "summary": "تعلم بالتفصيل كيف تتحكم فى نظام راسبيان باستخدام ال Terminal(طرفية لينكس). youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zV053TWNJdU1IZVFXT3JlN2VYYUVZV3ZnUE9ZaGItQXFCejZlTGMyV0duZUFrbGZJUkxybGFnX0hSaG9pd1lMMEw4RWNGOXh1Q01vc1pB?oc=5",
    "date": "2024-03-30T18:00:06+00:00",
-   "summary": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة YouTube",
+   "summary": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -874,23 +894,33 @@
    "lang": "en"
   },
   {
+   "title": "Linux Command Line Full Course | Beginners To Experts | Bash Command Line Tutorials",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5paTVwRFB0anZ0YmNlcDJJYkNKcDhQWlVjWjMyYWhWT1c4QmpzdkE4UjY5LWt2TURwYk9iR05IZFpCN19WQV9xUXZudXV6aHdRMmZJQ0pn?oc=5",
+   "date": "2024-02-06T16:30:04+00:00",
+   "summary": "Linux Command Line Full Course | Beginners To Experts | Bash Command Line Tutorials YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How To Rename Computer Using Power Shell Windows 10 - 11",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBud1B4T0QzWXg1TXVSTVhybm9xeFhROTU2ZG5VREpMQ0ZpdWZDWUxVRldUZ3dzSkZ2TFVra1o5MGxQSkRTczlrT1BRc3ltR29sVlNXZ0RB?oc=5",
    "date": "2024-01-25T10:40:19+00:00",
-   "summary": "How To Rename Computer Using Power Shell Windows 10 - 11 YouTube",
+   "summary": "How To Rename Computer Using Power Shell Windows 10 - 11 youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcnBzci1nTkFoNTR3eGxDd3F1RHlGV1h2WC1LenhVS3ljRVhrTDJuX2IzY3RJaWdRdmZ4ZEpFZERwNHRGYzJsT3AxQkFKc3V2Vmg0bzRn?oc=5",
    "date": "2024-01-24T08:31:18+00:00",
-   "summary": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري YouTube",
+   "summary": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -927,10 +957,10 @@
    "title": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbXdJbnVuZm5HcGpybEF2MjZFOGF0cnBXTFY3MDZZbHdubkdFS0VXSnFfX2RLb0V6X1NFYzRJSHQ5RFJxWWpVM2JvZklQdTJaV0NkekdR?oc=5",
    "date": "2023-11-02T15:33:53+00:00",
-   "summary": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية YouTube",
+   "summary": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -984,13 +1014,23 @@
    "lang": "ar"
   },
   {
+   "title": "سطر الأوامر في ويندوز CMD : COPY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UR2pXTkd0djRQazc0MHJCY1VHVzRWbE4wZTM1Vk1kZzByYkxwS2x1aXdVcWhzMDdGcUtwU2x6ZDdGTTZSSklmWTU1Unl0a3VIcGhOOHB3?oc=5",
+   "date": "2023-07-05T16:35:46+00:00",
+   "summary": "سطر الأوامر في ويندوز CMD : COPY youtube.com",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "youtube.com",
+   "lang": "ar"
+  },
+  {
    "title": "سطر الأوامر في ويندوز CMD : MKDIR",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wbTlfd2hxenRsQVRwMkdpcFNTY2lVREJMaG5JREdhN0wzcDA5VkwwazhUdmJ1QlVlLUZFN1g2R0dyc184TUozNm5NNU1obllrejd4RU5n?oc=5",
    "date": "2023-07-03T11:12:49+00:00",
-   "summary": "سطر الأوامر في ويندوز CMD : MKDIR YouTube",
+   "summary": "سطر الأوامر في ويندوز CMD : MKDIR youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1007,10 +1047,10 @@
    "title": "سطر الأوامر في ويندوز CMD : DIR",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WVA0VVBLZ3NlSkRlcXpwNlc0V2hPcHRGcDRjV3hkVmpEREdUWFJRcWdKdDM0Tkw4RDdZY2lwTEUyS295X1dJV19JUTlnUDBJRFROVlJB?oc=5",
    "date": "2023-07-02T15:26:27+00:00",
-   "summary": "سطر الأوامر في ويندوز CMD : DIR YouTube",
+   "summary": "سطر الأوامر في ويندوز CMD : DIR youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1087,10 +1127,10 @@
    "title": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HRnh3TmZqYWJvUm9HOXpZNjdEcFlwOUhCMWxmeVNjanYwTFN2cTdYdm9fS2FKQU83bWR5ajVOOXRBSHBZdWtXdk55QXJNMEF3U01FNnh3?oc=5",
    "date": "2022-12-11T18:00:08+00:00",
-   "summary": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure YouTube",
+   "summary": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1128,6 +1168,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wX1dBR0o2VnhzeUQ5QURmUS02V3dKa1hzRFJyVGR0dUFSOTEyRkhKSWlqVGpXLTZCTHVaMmJQUEViUUI5TnFjb0lrV3ZVV0ZiMW1rNjZR?oc=5",
    "date": "2022-11-28T16:45:50+00:00",
    "summary": "Bash Scripting for Beginners: Complete Guide to Getting Started - Data Streams (Part 11) YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How To Write Bash Scripts In Linux - Complete Guide (Part 9 - For Loops)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54d24tV010Ym5ScEV0T292NlBJV1NFR0lJSEk4SVp6d0hFeC1MeXowemU4bWpZeWpTaVg2ZjhlNkZ3TjlodG9ETG0wOF9EcVpsRk44anJ3?oc=5",
+   "date": "2022-11-28T16:15:01+00:00",
+   "summary": "How To Write Bash Scripts In Linux - Complete Guide (Part 9 - For Loops) YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1187,10 +1237,10 @@
    "title": "ما هي Bash",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MWlaVE80UjFacWtLbU1ocVRYNFlfYy1qaGZtUVJ3NVotX1Q2VTh6MXVPM0VIaXF0SUw0ZWljVXRGMC14bk1UaFJlc1NxWlRDaHJUdHJB?oc=5",
    "date": "2022-10-06T14:00:01+00:00",
-   "summary": "ما هي Bash YouTube",
+   "summary": "ما هي Bash youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1217,10 +1267,10 @@
    "title": "كورس أساسيات Command Line | تعلم التيرمنال من الصفر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pM1licmxObF8xQ0JuTTZqSW5uUFpiWnRCX2pCOXFMYUY4cW1YT0IweGlhbU1fSUV0a2tTbmVkUUZlWUlwZURGT2pfNWJHREVWUklsczF3?oc=5",
    "date": "2022-08-26T10:55:56+00:00",
-   "summary": "كورس أساسيات Command Line | تعلم التيرمنال من الصفر YouTube",
+   "summary": "كورس أساسيات Command Line | تعلم التيرمنال من الصفر youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1237,10 +1287,10 @@
    "title": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uWWVRUDVOZDc3cUExUnhDclV1dnl5MUZKMUpRY3VxUndKV1VhYXNfM1ZTaUF5RUQtU2RfcVVUQmJkaDJjNkdrbHpMNGNUMmMwLUVodDNB?oc=5",
    "date": "2022-07-28T18:09:24+00:00",
-   "summary": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮 YouTube",
+   "summary": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮 youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1254,13 +1304,23 @@
    "lang": "en"
   },
   {
+   "title": "Bash for Bug Bounty & Ethical Hacking | Basic Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpM29FVGJueWRoTXcwbEdBTkJEb2ItLThTeVFSSmZ0alFHUEU3ZmRZRFZyQTI4V2NnRXNDakpiOVJzX09JSHJxZWtudEctOW4yUlA5c2d3?oc=5",
+   "date": "2022-06-06T10:26:05+00:00",
+   "summary": "Bash for Bug Bounty & Ethical Hacking | Basic Course YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تعريف وتنصيب zsh — [الجزء 1]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tdi1YYWRyNU1kM1FIcmxnV3Jkc0pabTh1U0U2a3A2aHJiakNHNkNXNkFlT2VwS3BHZmMyQ1lYOHd3N3hrMUpfd0ktMURUM2ZVS1JRY0pR?oc=5",
    "date": "2022-04-24T20:31:02+00:00",
-   "summary": "تعريف وتنصيب zsh — [الجزء 1] YouTube",
+   "summary": "تعريف وتنصيب zsh — [الجزء 1] youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1297,10 +1357,10 @@
    "title": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pdzFXdUZvSmR0Vjk1NlZiSVJZbjZYQ3BiQWN4dGFDcHpZX1RlM1c5bUdudWxBbjBZbkZteFp4WURMRWNncmFaM1JJRHl4a3JiUnNqNDln?oc=5",
    "date": "2022-01-20T21:00:56+00:00",
-   "summary": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب YouTube",
+   "summary": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1317,10 +1377,10 @@
    "title": "شرح محرر nano لسطر الأوامر في لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wd19rS1VOZUtTbnEyUm9TLW8teE5ORkVMSDlHSmxKQl9qTG5xNWVMa0pTdGlxS1E3dHl2cktMZXpqMmF1Y3JDZnE4Q0FGaldiNzZPbmhn?oc=5",
    "date": "2022-01-13T19:23:52+00:00",
-   "summary": "شرح محرر nano لسطر الأوامر في لينكس YouTube",
+   "summary": "شرح محرر nano لسطر الأوامر في لينكس youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1337,10 +1397,10 @@
    "title": "نظم التشغيل المحاضرة السادسة| برمجة لغة c على نظام الكالي لينكس Kali linux | بأستخدام terminal",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENHZ6a0IxOTlsZnZUS1BhN1VqTmtQa1hZbm5IMU5lTTZTNTN0b2QyNWJPWV85ZElFRVQ2UmQzc0ZNTmJ6NUxnS3JqbzhJWmNTNXRoTDR3?oc=5",
    "date": "2021-12-11T06:47:35+00:00",
-   "summary": "نظم التشغيل المحاضرة السادسة| برمجة لغة c على نظام الكالي لينكس Kali linux | بأستخدام terminal YouTube",
+   "summary": "نظم التشغيل المحاضرة السادسة| برمجة لغة c على نظام الكالي لينكس Kali linux | بأستخدام terminal youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1357,10 +1417,10 @@
    "title": "Remote Terminal Unit (RTU) وحدة الربط الطرفية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CSU91cDNOMlBpaXFvSXJVZ0NjQUN0R2RtZFJHQzdRWEJ4TW5ISW44dDVyNG9DM3NCSl9aY3UwVEZTR2dPUnN6SHNtT2tOUXZhcTNYeG9B?oc=5",
    "date": "2021-11-18T14:11:34+00:00",
-   "summary": "Remote Terminal Unit (RTU) وحدة الربط الطرفية YouTube",
+   "summary": "Remote Terminal Unit (RTU) وحدة الربط الطرفية youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1387,10 +1447,10 @@
    "title": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QmxnN2lUdy0tVHNLX2NCSUlqY1ZBUFZlT3R1S0wwVWVwR3J6V1hNLVFnakN2X0dhUmlxdEZ0VFlsOUt5a2ZoMGpnZGNuOV96bHZ6VmlR?oc=5",
    "date": "2021-10-29T13:00:12+00:00",
-   "summary": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي YouTube",
+   "summary": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1457,20 +1517,20 @@
    "title": "تحسين موجه الاوامر(التيرمينال)في لينكس الجزء الاول | How To Make the Linux Terminal Look Nice PT 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GSkp4VzhmOXkzSXd2emRYMXl6TTF6Y2tNU3FnLTB6b1FRM3lwVlotamlMVkhCNGx1clg0c1hSNGJvaU1mNk5NZWtTMS1CLV90cFV0MnNB?oc=5",
    "date": "2021-03-04T16:55:13+00:00",
-   "summary": "تحسين موجه الاوامر(التيرمينال)في لينكس الجزء الاول | How To Make the Linux Terminal Look Nice PT 1 YouTube",
+   "summary": "تحسين موجه الاوامر(التيرمينال)في لينكس الجزء الاول | How To Make the Linux Terminal Look Nice PT 1 youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح تثبيت واستخدام برنامج Windows Terminal",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uYWNaRFN1Q1N1UmVpNFRhQmtKSXVPRlZzWUVVVUFINTY4TFNpS0t5T0dYSW10bXZmcVExOWhheTJpLUdpTkpZNDZTMGh0anQzWlhiMExB?oc=5",
    "date": "2021-02-02T18:00:04+00:00",
-   "summary": "شرح تثبيت واستخدام برنامج Windows Terminal YouTube",
+   "summary": "شرح تثبيت واستخدام برنامج Windows Terminal youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1507,10 +1567,10 @@
    "title": "شرح سطر الأوامر لنظام لينكس | Linux Terminal",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81WjZfNEpOck5mel9WaXQwbFNKQl9ibzBBTHVGWjhPOHo4Y21QV2ZmQzVHSmplZUNyWVdlclNsaWhyS1FOQUExWGZPNjZMQmdIOWlsZUJn?oc=5",
    "date": "2020-06-11T09:19:20+00:00",
-   "summary": "شرح سطر الأوامر لنظام لينكس | Linux Terminal YouTube",
+   "summary": "شرح سطر الأوامر لنظام لينكس | Linux Terminal youtube.com",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1528,36 +1588,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82bVRidUZxSzByOGNRbEptbVMtNU94OVlMUG9pZEhLVUIwaUpkUmtXVlZ3TUVfQnNYZnZlNEVqaUJkTVRCM2xmajJfQUExTFNUdVZrSnRB?oc=5",
    "date": "2020-04-22T13:25:28+00:00",
    "summary": "Bash Script with Practical Examples | Full Course YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Beginner's Tutorial to the Bash Terminal | Linux Terminal Tutorial | Linux Commands",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wVWNScWMyQzlQa0l3YWlHM0VzTVFQYThjaWVWRmJIeGdQS2hlMTJQSTVha1B0Vl9TaU5HUWhYaF9XaEJmNkRaemdMckw5elI2b3ZiMUpR?oc=5",
-   "date": "2020-03-04T04:00:09+00:00",
-   "summary": "Beginner's Tutorial to the Bash Terminal | Linux Terminal Tutorial | Linux Commands YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rMF95RVpjaFRfeGtfNnJ0S2VUMXNDOTJlQkNTOVRsVjV1c2dnNmxMV0dUSkowMWtPZGIzeHNfZTR1RGNLcmNvcWdNRlJFVUlhN2VXVFZn?oc=5",
-   "date": "2019-08-08T14:05:36+00:00",
-   "summary": "Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Bash Scripting Full Course 3 Hours",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fQ1E4azZkUUV0WUpjU3NDZXdwMFlleDVXR29sR1I3MHFmb1FUbloyVjNQTVNtdGVVNTBpZy1TTWhUcjUyUzlOTEhPRl9aUldDam8ySzhR?oc=5",
-   "date": "2019-05-27T15:57:40+00:00",
-   "summary": "Bash Scripting Full Course 3 Hours YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",

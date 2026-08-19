@@ -1,8 +1,51 @@
 {
- "generated": "2026-08-18T04:59:15.278998+00:00",
+ "generated": "2026-08-19T04:59:35.833919+00:00",
  "tech": "ruby",
- "count": 122,
+ "count": 123,
  "items": [
+  {
+   "title": "I Could Hack My Own Rails App With One Hidden Input",
+   "url": "https://dev.to/gjhewitt/i-could-hack-my-own-rails-app-with-one-hidden-input-3ca1",
+   "date": "2026-08-18T22:07:47+00:00",
+   "summary": "I've been building RepBoard, a Rails app that gives freelancers a portable reputation profile —...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Keeping background workers' data always up to date",
+   "url": "https://dev.to/rbglod/keeping-background-workers-data-always-up-to-date-1f1n",
+   "date": "2026-08-18T13:58:00+00:00",
+   "summary": "Let's say we have an app which receives webhooks from a payment provider.  A customer starts a...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Ops queue for agents — turning every failure into a fixable ticket",
+   "url": "https://dev.to/shipeasy/ops-queue-for-agents-turning-every-failure-into-a-fixable-ticket-1jno",
+   "date": "2026-08-18T13:51:38+00:00",
+   "summary": "Last week a build broke and fixed itself. No one watched a console, no one triaged. The failure filed...",
+   "points": 0,
+   "tech": "ruby",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Ruby Benefits: Spiritual Significance, Healing Energy & Astrological Uses",
+   "url": "https://medium.com/@universaltruth2808/ruby-benefits-spiritual-significance-healing-energy-astrological-uses-d5a6939f0482?source=rss------ruby-5",
+   "date": "2026-08-18T12:09:52+00:00",
+   "summary": "Ruby Benefits: Spiritual Significance, Healing Energy Astrological Uses Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "How Scalelite Playback Broke Tenant Isolation in BigBlueButton Multitenancy",
    "url": "https://dev.to/f00dat/how-scalelite-playback-broke-tenant-isolation-in-bigbluebutton-multitenancy-1o9b",
@@ -441,39 +484,6 @@
    "lang": "en"
   },
   {
-   "title": "They scoped the customer and forgot the customer's ledger — a High-severity cross-tenant BOLA in Open Food Network",
-   "url": "https://dev.to/santosh_kumarpuppala_96e/they-scoped-the-customer-and-forgot-the-customers-ledger-a-high-severity-cross-tenant-bola-in-3j3g",
-   "date": "2026-08-07T02:55:47+00:00",
-   "summary": "TL;DR     What: POST /api/v1/customer_account_transaction in Open Food Network authorized...",
-   "points": 0,
-   "tech": "ruby",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Rails App Isn't Too Old for AI. It's Too Untested.",
-   "url": "https://dev.to/teamvoy/your-rails-app-isnt-too-old-for-ai-its-too-untested-e7a",
-   "date": "2026-08-06T14:25:16+00:00",
-   "summary": "When an AI feature fails to land on a legacy Rails app, it is almost never the model. It is that...",
-   "points": 0,
-   "tech": "ruby",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Design Patterns in Ruby #5: Abstract Factory Pattern",
-   "url": "https://dev.to/shroukabozeid/design-patterns-in-ruby-5-abstract-factory-pattern-4ioa",
-   "date": "2026-08-05T16:02:00+00:00",
-   "summary": "In the previous article, we explored the Factory Method pattern and saw how it delegates object...",
-   "points": 0,
-   "tech": "ruby",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Ruby Course 2026 | Complete Ruby Programming for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5naEVfRURyLTQ2RXZtZ1FaRURLdGs1QUIwMHlWWnM2bzN2SmVReFp0d3NVWWRweTJiRWRqYnR6c0I4eEY2dE9FYWhxYXcwNEk0UG04Zkdn?oc=5",
    "date": "2026-07-27T13:15:22+00:00",
@@ -647,10 +657,10 @@
    "title": "مجالات العمل باستخدام لغة روبي Ruby",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zby1KTDVHd21aWFkxUE1ZOUlNMzJ3WUlVOUJVTmlFY2hkeXNBYzkzeGwzS3h0U2g1cmRUM3dVaXpaUklucy1sV1k2RkQ0MkNlb3VDN1F3?oc=5",
    "date": "2025-02-04T14:00:51+00:00",
-   "summary": "مجالات العمل باستخدام لغة روبي Ruby YouTube",
+   "summary": "مجالات العمل باستخدام لغة روبي Ruby youtube.com",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -658,6 +668,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uMGxObzcteU1IbXFfZ2FtVGhCT2NkS05LTW0xbGNVY29hVEJNWUtOZXE0YkZDdmRfVjlUcWpBQmw4QW1IMVBiaEhDZ3JIZHlOQmNyckln?oc=5",
    "date": "2025-01-18T10:40:42+00:00",
    "summary": "Rails 8 Course - Beginner to Intermediate YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "This Ruby Learning Platform Will Change Everything | Rails 8 Tutorial #shorts",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PNVl5R3pTN3Y3bHppTFhYcWVQOW9sd3dSVWZFYmd6Wm1peUpfSGEzUWtJMUxGM0p2MENhQ3ZVekVScm1meDktbEE2Wjh1WWpGbGhwcw?oc=5",
+   "date": "2024-11-20T21:00:03+00:00",
+   "summary": "This Ruby Learning Platform Will Change Everything | Rails 8 Tutorial #shorts YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -708,6 +728,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSDBoODdvRmFPb01DOE10cUlKVGdtU20wZk9kTEN3Nmd4ZmJlVHV0alpUaE1jUzdsNTA2aVdqZGxJTjFWQmEyZWZodjZQTVJuQTR3c2hB?oc=5",
    "date": "2024-07-31T22:19:12+00:00",
    "summary": "ViewComponent Crash Course with Ruby on Rails YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "SMMR of RWBY - Ruby Training Animation",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MVjJETVZkN3lkVGFPVG1hTm5IOGVCWk5PaDVkMDB5ckk4dy1CVUd3RG9SLWp6SkFXOWllZWV4VjdtSE1XOWdkNXJkNE8yQVhaandzcV93?oc=5",
+   "date": "2024-07-07T16:00:06+00:00",
+   "summary": "SMMR of RWBY - Ruby Training Animation YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -914,6 +944,16 @@
    "lang": "en"
   },
   {
+   "title": "Vue CRUD App With A Ruby On Rails 7 API Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50WmdZQlBQdklfcC0yZDlhX1Q0NEVSeS1xYm9CVFdDWnlsMVQzZG5VNjBRSEJXV1pRQ0F0LWdxaVlGcDVuM3Bvd3hMZkxsdWVUbXBJa1pR?oc=5",
+   "date": "2022-12-14T14:00:09+00:00",
+   "summary": "Vue CRUD App With A Ruby On Rails 7 API Tutorial YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Block Based Code Learning Platform On Rails | Ruby On Rails 7 Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12Zy03OWFoTVhsWUdONndNQmdxclc4WElBWnpjOHdkWHFRV2o4dE93bGNKRDFnMDBNR3VmQ1NTeWVGeFdzX2dTczdMRDViMWM4T3dFcHhR?oc=5",
    "date": "2022-12-08T21:30:09+00:00",
@@ -927,10 +967,10 @@
    "title": "Tutorials - Ruby on Rails - Lesson 1 - Introduction || دروس - روبي أون ريلز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yNEVfaTVZaGlLSFNpcllrdHA5YUhNX0FCcEV2YVZJc3Q0OVNqMU94cFlGVEJuM3drYWxVS1JacHU4M2dIZnZBS25pTUR6a2hhckRyd25n?oc=5",
    "date": "2022-11-30T17:06:49+00:00",
-   "summary": "Tutorials - Ruby on Rails - Lesson 1 - Introduction || دروس - روبي أون ريلز YouTube",
+   "summary": "Tutorials - Ruby on Rails - Lesson 1 - Introduction || دروس - روبي أون ريلز youtube.com",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -947,10 +987,10 @@
    "title": "تعلم لغة البرمجة روبي من الصفر الى الاحتراف مع 10 امثلة عملية | Learn Ruby In Arabic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WbFhld0x6emQyN3dTQVlubmh1VVE3UFU4N0hpYkZsbm1iRnpUdlVoZEQwd2hJQTNQOHp0QzdURTNacGltOHdBY2lLSkpYXzQ1QnAxLVVB?oc=5",
    "date": "2022-11-28T14:29:41+00:00",
-   "summary": "تعلم لغة البرمجة روبي من الصفر الى الاحتراف مع 10 امثلة عملية | Learn Ruby In Arabic YouTube",
+   "summary": "تعلم لغة البرمجة روبي من الصفر الى الاحتراف مع 10 امثلة عملية | Learn Ruby In Arabic youtube.com",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -967,10 +1007,10 @@
    "title": "Ruby Programming Language - Lesson 1 - Introduction & Installation || تعلم لغة البرمجة روبي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWWJsV2F6QkhuaGlUUnFEOHVRRzRFRUVXd2F1VHk3NGI1d1BGeEo2bUxHLWNSbl9wakFxN1BsMkl3VzJBdno2Nm9reXlwVTB2VThzSUxn?oc=5",
    "date": "2022-10-10T22:07:40+00:00",
-   "summary": "Ruby Programming Language - Lesson 1 - Introduction & Installation || تعلم لغة البرمجة روبي YouTube",
+   "summary": "Ruby Programming Language - Lesson 1 - Introduction & Installation || تعلم لغة البرمجة روبي youtube.com",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1077,10 +1117,10 @@
    "title": "مقارنة بين لغات البرمجة PHP و Ruby و Python",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTUtubjdESHRMOXNQMUxMRHRGbFNteGRyT2RJeXpRckFVb3VnWkxVdW1DUUZoR3A4WnBaazRzY2NWTW92QzFvZVpEV2xneGFoUjJhNTNn?oc=5",
    "date": "2021-11-28T16:48:09+00:00",
-   "summary": "مقارنة بين لغات البرمجة PHP و Ruby و Python YouTube",
+   "summary": "مقارنة بين لغات البرمجة PHP و Ruby و Python youtube.com",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1204,53 +1244,23 @@
    "lang": "en"
   },
   {
-   "title": "Chapter 1 of the Ruby on Rails Tutorial by Michael Hartl",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DX2ttd2lYclROZTBmeHdKR0xxamx4ZG82c0V6elpNTGJIbFNCMmRMNU4xVjdsVGRFVDY2WmtLS3dlbkJucVpjdEtsLTdDRWZsUTVSQ0RB?oc=5",
-   "date": "2020-11-19T19:41:19+00:00",
-   "summary": "Chapter 1 of the Ruby on Rails Tutorial by Michael Hartl YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Ruby Complete Course For Beginners In Tamil",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IOG1ETGJiZWt3b0FwUGFqWmJLblNraElaNlNkQlJLYk0yMWhDc0Nzb2UxdlBYbU1NU3pMQ3F1VDBTMTFKa2ZBRUFhV1RtRWtMcldBcjRn?oc=5",
-   "date": "2020-11-19T05:43:46+00:00",
-   "summary": "Ruby Complete Course For Beginners In Tamil YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn Ruby on Rails - Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWXlkUk4yeXUxb1VoUEFaTWJ3Z3Z4NDA5WW9GM0dMSXdJdGk3Q0hseml1c1lyaEtCUmVXRllJLUJOdHkwY1RZd0ZSc1E4UzZENWN0SGdR?oc=5",
-   "date": "2020-11-09T14:50:57+00:00",
-   "summary": "Learn Ruby on Rails - Full Course YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعرف على لغة البرمجة Ruby",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lSjhyMGNUaG56aG5Ob1RJQURmVFd6WUlPcVZ3cENxS0tCSXQ3Tjh5T3lnb1JDYXV2S1VadE0zWnNlTjZFLUVtaEc4R2RCdFRNcmZLYXRR?oc=5",
    "date": "2018-05-07T08:43:36+00:00",
-   "summary": "تعرف على لغة البرمجة Ruby YouTube",
+   "summary": "تعرف على لغة البرمجة Ruby youtube.com",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "2- install Ruby on windows تنصيب الروبي على الوندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSeHA1Zl9kSEJadEdHQ2hmLVRsRlZOcFNaNFNiT3VLWU5iZFpRVHA3dGlURnRGcUVscDk4UnpzeU9ldFpqd0RiQnQxdHFzMGwxRi15ZV9n?oc=5",
    "date": "2016-07-03T08:41:30+00:00",
-   "summary": "2- install Ruby on windows تنصيب الروبي على الوندوز YouTube",
+   "summary": "2- install Ruby on windows تنصيب الروبي على الوندوز youtube.com",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   }
  ]

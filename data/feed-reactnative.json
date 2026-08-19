@@ -1,8 +1,202 @@
 {
- "generated": "2026-08-18T05:01:28.173445+00:00",
+ "generated": "2026-08-19T05:05:36.056258+00:00",
  "tech": "reactnative",
  "count": 142,
  "items": [
+  {
+   "title": "React Native vs Flutter in 2026: The $5,000 Decision Most Startups Get Wrong",
+   "url": "https://medium.com/@garoono/react-native-vs-flutter-in-2026-the-5-000-decision-most-startups-get-wrong-5258032addcf?source=rss------react_native-5",
+   "date": "2026-08-18T18:55:17+00:00",
+   "summary": "A founder I know burned through roughly $50,000 and four months building the same app twice. Wrong framework the first time. That&#x2019;s a car&#x2026; Continue reading on Medium »",
+   "tech": "reactnative",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Truly Scalable i18n System in React Native (Expo + TypeScript + Redux Toolkit)",
+   "url": "https://medium.com/@rishabhkum17/building-a-truly-scalable-i18n-system-in-react-native-expo-typescript-redux-toolkit-854e01ec40bc?source=rss------react_native-5",
+   "date": "2026-08-18T17:26:34+00:00",
+   "summary": "How to set up multi-language support once, so adding any other language later takes minutes, not a rewrite Continue reading on Medium »",
+   "tech": "reactnative",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Do You Have Server-Side Data to Load in Your Select List and Not Local Data?",
+   "url": "https://dev.to/asmaa-almadhoun/do-you-have-server-side-data-to-load-in-your-select-list-and-not-local-data-3k5d",
+   "date": "2026-08-18T13:06:00+00:00",
+   "summary": "When building forms in React applications, selecting the right dropdown component can have a...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I built @grodev/claude-chat-react — architecture notes",
+   "url": "https://dev.to/gronskideveloper/how-i-built-grodevclaude-chat-react-architecture-notes-5e61",
+   "date": "2026-08-18T12:59:38+00:00",
+   "summary": "A React chat widget on the Claude API. TypeScript, streaming SSE, zero runtime deps beyond React. Decisions on threat model, hook vs component split, and the accessibility work I refuse to leave to the LLM.",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "useMemo and useCallback: 5 things that actually trip people up",
+   "url": "https://dev.to/101beardo/usememo-and-usecallback-5-things-that-actually-trip-people-up-4o0l",
+   "date": "2026-08-18T12:47:54+00:00",
+   "summary": "Both of these get memorized as syntax pretty fast. What doesn't get memorized is what they're...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Stream AI Responses in Flutter or React Native",
+   "url": "https://dev.to/daisy_grace_fd7238b6b4974/how-to-stream-ai-responses-in-flutter-or-react-native-177h",
+   "date": "2026-08-18T12:03:05+00:00",
+   "summary": "AI applications feel slow when they display nothing while waiting for a model to generate an entire...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Next.js 16 and 16.3, what changed and what to know before upgrading",
+   "url": "https://dev.to/carlosjcastrog/nextjs-16-and-163-what-changed-and-what-to-know-before-upgrading-41f7",
+   "date": "2026-08-18T11:52:33+00:00",
+   "summary": "If your project runs Next.js 14 or 15 and you haven't looked at what's changed lately, there's a fair...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How We Optimized Next.js 15 for 70,000+ High-Res 4K Wallpapers (Without Melting the Edge)",
+   "url": "https://dev.to/the_zenithwalls/how-we-optimized-nextjs-15-for-70000-high-res-4k-wallpapers-without-melting-the-edge-1i35",
+   "date": "2026-08-18T11:20:46+00:00",
+   "summary": "When we set out to build Zenith Walls, we made a promise: we were going to serve pristine,...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Got Sick of Ad-Bloated Utility Sites, So I Built an Ad-Free Stair Calculator in Next.js",
+   "url": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-got-sick-of-ad-bloated-utility-sites-so-i-built-an-ad-free-stair-calculator-in-nextjs-a6l",
+   "date": "2026-08-18T11:08:20+00:00",
+   "summary": "The Last Straw   I needed to calculate stair stringer lengths for a deck project. Simple...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "WebSocket Real-Time Apps: Building Chat Like It's the Matrix",
+   "url": "https://dev.to/timevolt/websocket-real-time-apps-building-chat-like-its-the-matrix-5ha0",
+   "date": "2026-08-18T10:04:05+00:00",
+   "summary": "The Quest Begins (The \"Why\")   Ever felt like you’re stuck in a refresh‑loop hell, hammering...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Making Coding Agents More Efficient for Flutter and React Native Development",
+   "url": "https://medium.com/@asiripiyajanaka/making-coding-agents-more-efficient-for-flutter-and-react-native-development-b58fd56c49ba?source=rss------react_native-5",
+   "date": "2026-08-18T10:03:57+00:00",
+   "summary": "Coding agents have become a regular part of how I work across different stacks. From Flutter and React Native to web development, Python&#x2026; Continue reading on Medium »",
+   "tech": "reactnative",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Your React Native Starter Has a Design POV. It Isn’t Yours.",
+   "url": "https://medium.com/@zakkiyyatharbi/your-react-native-starter-has-a-design-pov-it-isnt-yours-5fb6d89e6bad?source=rss------react_native-5",
+   "date": "2026-08-18T09:51:01+00:00",
+   "summary": "The engineering value of a template starter is easy to measure. The design cost is harder to see until you&#x2019;ve been fighting it for six&#x2026; Continue reading on Medium »",
+   "tech": "reactnative",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Quickly Scaffold and Deploy a React App on Salesforce",
+   "url": "https://dev.to/exploring_agentforce/how-to-quickly-scaffold-and-deploy-a-react-app-on-salesforce-1cjj",
+   "date": "2026-08-18T08:32:20+00:00",
+   "summary": "Salesforce provides CLI templates that can quickly scaffold a React application with a ready-to-run...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Unblocking the UI: Web Workers in Next.js ⚡",
+   "url": "https://dev.to/iprajapatiparesh/unblocking-the-ui-web-workers-in-nextjs-5lo",
+   "date": "2026-08-18T08:31:20+00:00",
+   "summary": "The Vulnerability of the Single Thread  JavaScript was originally designed in 1995 to do very simple...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Kept Reaching for Redux by Default. One Question Fixed That",
+   "url": "https://dev.to/blogs_world/i-kept-reaching-for-redux-by-default-one-question-fixed-that-18f0",
+   "date": "2026-08-18T07:50:31+00:00",
+   "summary": "There's a specific kind of shame that comes from opening a pull request review and seeing npm install...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Escaping the Boring Portfolio: Building a Cinematic IDE Experience",
+   "url": "https://dev.to/ruumidev/escaping-the-boring-portfolio-building-a-cinematic-ide-experience-4o20",
+   "date": "2026-08-18T07:37:19+00:00",
+   "summary": "Most developer portfolios look exactly the same: a generic hero section, some floating mockups, and a...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
+   "url": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
+   "date": "2026-08-18T06:22:04+00:00",
+   "summary": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Readme",
+   "url": "https://dev.to/iamry02/readme-1j7b",
+   "date": "2026-08-18T04:51:45+00:00",
+   "summary": "PLSQL Insight React   PLSQL Insight is a private, evidence-grounded application for...",
+   "points": 0,
+   "tech": "reactnative",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "ArbNet Bug Smash: Fixing Cloud Expiration & Database Connection Failures with Sentry & Google AI",
    "url": "https://dev.to/eliezer_josepolidorsola/arbnet-bug-smash-fixing-cloud-expiration-database-connection-failures-with-sentry-google-ai-401f",
@@ -240,72 +434,6 @@
    "lang": "en"
   },
   {
-   "title": "The 4 AI Patterns That Actually Ship in Mobile",
-   "url": "https://dev.to/sophie_fa_6ed935b0601d76/the-4-ai-patterns-that-actually-ship-in-mobile-4i30",
-   "date": "2026-08-17T08:37:32+00:00",
-   "summary": "Transcription, RAG, streaming generation, vision extraction — the only four AI patterns that consistently ship in React Native apps, with real latency and cost numbers.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How AI Is Making Mobile Accessibility Easier Than Ever",
-   "url": "https://dev.to/rapidnative-ai/how-ai-is-making-mobile-accessibility-easier-than-ever-25cl",
-   "date": "2026-08-17T08:27:47+00:00",
-   "summary": "On-device AI, ML audits, generated alt text, and generators that emit accessibility props by default. What works in 2026, with React Native code.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "revalidateTag vs updateTag: Next.js Split Cache Invalidation in Two",
-   "url": "https://dev.to/grimicorn/revalidatetag-vs-updatetag-nextjs-split-cache-invalidation-in-two-bag",
-   "date": "2026-08-17T08:05:42+00:00",
-   "summary": "Next.js 16 gave cache invalidation two different functions instead of one, and the split maps to a real distinction: content that can lag versus content the user just typed.",
-   "points": 1,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React Memo",
-   "url": "https://dev.to/vidhya_murali_5aabe7784bd/react-memo-13e5",
-   "date": "2026-08-17T05:09:43+00:00",
-   "summary": "React memo is a Higher Order Component (HOC) introduced in React v16.6. As the name suggests, Memo...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "5 Reasons Why You Should Use ReactJS for App Development",
-   "url": "https://dev.to/sahil_khurana_486f374ecf2/5-reasons-why-you-should-use-reactjs-for-app-development-565",
-   "date": "2026-08-17T04:59:20+00:00",
-   "summary": "The frontend landscape is noisy. Angular, Vue, Svelte, Solid — there's always a new contender. But...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Fluentic Style: The Anatomy of Debuggable Atomic CSS",
-   "url": "https://dev.to/omnidev/building-fluentic-style-the-anatomy-of-debuggable-atomic-css-5ca3",
-   "date": "2026-08-17T04:29:04+00:00",
-   "summary": "This is part of my Building Fluentic Style series, where I’m writing down the design decisions,...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "React Native vs Flutter in 2026: New Architecture vs Impeller",
    "url": "https://karthikponnam.medium.com/react-native-vs-flutter-in-2026-new-architecture-vs-impeller-a74b90d5e71e?source=rss------react_native-5",
    "date": "2026-08-17T04:16:38+00:00",
@@ -313,94 +441,6 @@
    "tech": "reactnative",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "PawPrints — Helping Dogs Find Friends, Adventures, and a Life Beyond the Feed",
-   "url": "https://dev.to/rashmishivakumar/pawprints-helping-dogs-find-friends-adventures-and-a-life-beyond-the-feed-5bih",
-   "date": "2026-08-17T02:39:23+00:00",
-   "summary": "This is a submission for Weekend Challenge: Dog Days Edition           What I Built   I built...",
-   "points": 5,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React useSessionStorage Hook: Per-Tab State That Survives Reloads (2026)",
-   "url": "https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3",
-   "date": "2026-08-17T02:35:15+00:00",
-   "summary": "Here's a checkout flow that loses the customer at step three:    function Checkout() {   const [step,...",
-   "points": 5,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Period Doors: Oak, Victorian & Cottage Styles | Period House",
-   "url": "https://dev.to/davitparkltd/period-doors-oak-victorian-cottage-styles-period-house-1kbi",
-   "date": "2026-08-17T02:31:24+00:00",
-   "summary": "Period doors are more than a functional feature—they help establish the character of a home before...",
-   "points": 5,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Audit-Ready React Native SMS OTP Login: Backend API, Autofill, and Abuse Prevention",
-   "url": "https://dev.to/jaggerblack5781/audit-ready-react-native-sms-otp-login-backend-api-autofill-and-abuse-prevention-2ife",
-   "date": "2026-08-17T02:30:31+00:00",
-   "summary": "An SMS OTP login is a communications workflow with an authentication step attached. That distinction...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Knurled Connaught Lever Handle in Satin Brass | Modern Bathroom",
-   "url": "https://dev.to/mattjoshi/knurled-connaught-lever-handle-in-satin-brass-modern-bathroom-b35",
-   "date": "2026-08-17T01:58:10+00:00",
-   "summary": "A great bathroom design is often defined by the details.  The Connaught lever handle is a perfect...",
-   "points": 6,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React Hooks: Mastering useState and useEffect – The Matrix of State",
-   "url": "https://dev.to/timevolt/react-hooks-mastering-usestate-and-useeffect-the-matrix-of-state-5eae",
-   "date": "2026-08-16T23:59:29+00:00",
-   "summary": "The Quest Begins (The \"Why\")   Honestly, I remember the first time I tried to make a...",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building AI Prompt Lab with Java 21, Spring Boot and React 19",
-   "url": "https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8",
-   "date": "2026-08-16T23:20:00+00:00",
-   "summary": "A full-stack AI prompt management application built with Java 21, Spring Boot, React 19, TypeScript, PostgreSQL and OpenRouter.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Remix 3 leaves React: what a web-standards full stack means for route performance",
-   "url": "https://dev.to/apogeewatcher/remix-3-leaves-react-what-a-web-standards-full-stack-means-for-route-performance-4keh",
-   "date": "2026-08-16T22:12:07+00:00",
-   "summary": "Remix 3 beta rebuilds on web primitives and a Preact fork, not React. Migration is a rewrite. Soft navigations and CWV still matter while frameworks change.",
-   "points": 0,
-   "tech": "reactnative",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -454,26 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Develop a React Native Library for Telegram’s TDLib: Part 2",
-   "url": "https://vkaveev.medium.com/how-to-develop-a-react-native-library-for-telegrams-tdlib-part-2-4f1fcbdd6662?source=rss------react_native-5",
-   "date": "2026-08-14T20:53:15+00:00",
-   "summary": "16 months ago, the library running that GIF could do exactly two things: log you in and fetch your profile. That was it. No chat list, no&#x2026; Continue reading on Medium »",
-   "tech": "reactnative",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "React Native vs. Native Swift/Kotlin: The $50K Tech Stack Decision for US Startups",
-   "url": "https://medium.com/@kellywebandseo/react-native-vs-native-swift-kotlin-the-50k-tech-stack-decision-for-us-startups-61a09ac4928b?source=rss------react_native-5",
-   "date": "2026-08-14T17:45:12+00:00",
-   "summary": "If you are launching a mobile app in 2026, you will face one critical architectural decision before a single line of code is written: Continue reading on Medium »",
-   "tech": "reactnative",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "The Hidden Distributed System Inside Your WebView App",
    "url": "https://hackernoon.com/the-hidden-distributed-system-inside-your-webview-app?source=rss",
    "date": "2026-08-14T14:01:29+00:00",
@@ -481,26 +501,6 @@
    "tech": "reactnative",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "React Native Deployment Process",
-   "url": "https://medium.com/@dkoti22222/react-native-deployment-process-bb26f0be18fa?source=rss------react_native-5",
-   "date": "2026-08-14T13:44:18+00:00",
-   "summary": "Continue reading on Medium »",
-   "tech": "reactnative",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Changing my mind about React Native",
-   "url": "https://medium.com/mateedevs/changing-my-mind-about-react-native-9f1a2a42eec0?source=rss------react_native-5",
-   "date": "2026-08-14T10:01:22+00:00",
-   "summary": "React Native (RN) was always a bit of a mystery to me. All I really knew was that it was part of the JS ecosystem, and that alone was&#x2026; Continue reading on MateeDevs »",
-   "tech": "reactnative",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -647,20 +647,20 @@
    "title": "ربط بوابة الدفع ميسر (moyasar) مع تطبيق هاتف باستخدام react native",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11ZTVpX0hWNTdhS0VWejAzZHJYakNBVFhRTXMzNHFYZzNQS21JWDYwYVJqUC1tS01ZX0dqdHlxaWlvMzQ4RWxyOVExaEt5enV1UGExSGdR?oc=5",
    "date": "2025-12-01T09:30:24+00:00",
-   "summary": "ربط بوابة الدفع ميسر (moyasar) مع تطبيق هاتف باستخدام react native YouTube",
+   "summary": "ربط بوابة الدفع ميسر (moyasar) مع تطبيق هاتف باستخدام react native youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "اذا مستعجل لا تستخدم React Native و Flutter - برمج تطبيقين منفصلين اسرعلك.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUElzU0V4RzhLTkNQRzJNNlFJU3ZYR1J2Y0p0T2VPQktKbGhYc0lPSS1pSjM0OS1KbGREOTJQcmM1M1Qxemt3dndJdFZjbXpYcy1YY3pB?oc=5",
    "date": "2025-11-17T16:00:38+00:00",
-   "summary": "اذا مستعجل لا تستخدم React Native و Flutter - برمج تطبيقين منفصلين اسرعلك. YouTube",
+   "summary": "اذا مستعجل لا تستخدم React Native و Flutter - برمج تطبيقين منفصلين اسرعلك. youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -697,10 +697,10 @@
    "title": "ليه رياكت نيتف ممكن يبقى اختيار أفضل ؟ | React Native vs Flutter ❤️‍🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVWJNOGhid0syX1NwOGhiZm9iWG5fclBZbXRzdjhOaUdNSEdvVTU5T1ZOSHIyNVRQd0hiS1ZMQnhaTjROak9HOV95VTVXaW5nZVZGYjJ3?oc=5",
    "date": "2025-08-21T19:02:11+00:00",
-   "summary": "ليه رياكت نيتف ممكن يبقى اختيار أفضل ؟ | React Native vs Flutter ❤️‍🔥 YouTube",
+   "summary": "ليه رياكت نيتف ممكن يبقى اختيار أفضل ؟ | React Native vs Flutter ❤️‍🔥 youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -717,10 +717,10 @@
    "title": "[04] Cross Platform Mobile Apps | Flutter, React Native, KMP & MAUI | شرح عربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zWndHTGdLcWRWcjBuaWRxd0l2eEJrZlpmZGRWbzBmbzVmanpmbVZBRmt0UV8td01VMXlfUUxQVURUU1NRLWp0ZEpsYk9aSlVWRXFheFNB?oc=5",
    "date": "2025-07-10T16:00:02+00:00",
-   "summary": "[04] Cross Platform Mobile Apps | Flutter, React Native, KMP & MAUI | شرح عربي YouTube",
+   "summary": "[04] Cross Platform Mobile Apps | Flutter, React Native, KMP & MAUI | شرح عربي youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -817,20 +817,20 @@
    "title": "كيفية رفع تطبيقك Expo React Native على iOS App Store باستخدام EAS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UWWY4bUZNOS1wNThxRW8yVDN3YnVra0h3OWxaVG5mY1FtZ3hRSjF1b294Q0F0dXBvMWFFVzlYXy1pLXhmLXZ4aFZfaXpnc1NybmpRTzNR?oc=5",
    "date": "2025-05-08T08:06:28+00:00",
-   "summary": "كيفية رفع تطبيقك Expo React Native على iOS App Store باستخدام EAS YouTube",
+   "summary": "كيفية رفع تطبيقك Expo React Native على iOS App Store باستخدام EAS youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح إنشاء تطبيق باستخدام Expo React Native",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96VGRBdjdhbWloSHN4S2N5dlk4V0FCb1h3R05wcWVaRXlkR24wUjZaY3hYWTgzRExLbHh4RndyTWJndUhTN3A5M0ZtaWpQRXNBMUtab1ZR?oc=5",
    "date": "2025-05-03T12:16:01+00:00",
-   "summary": "شرح إنشاء تطبيق باستخدام Expo React Native YouTube",
+   "summary": "شرح إنشاء تطبيق باستخدام Expo React Native youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -907,10 +907,10 @@
    "title": "تعلم React Native بالعربي | lesson 3: create new react native project by expo",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRVVNM01QblA5N1p4OTgza0ZvS0hTQ3pvak1pWFo1RTRQS1h3Y0c1QjFqYVhMcEdRb0Z3UnAxR3o5VzFiTGpJczEzd3c1TVJPQVVDeXF3?oc=5",
    "date": "2025-04-14T10:15:12+00:00",
-   "summary": "تعلم React Native بالعربي | lesson 3: create new react native project by expo YouTube",
+   "summary": "تعلم React Native بالعربي | lesson 3: create new react native project by expo youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -967,10 +967,10 @@
    "title": "إنشاء تطبيق موبايل بـReact Native بدون كود في دقائق بالذكاء الاصطناعي وتصديره APK - مجاناً بالكامل!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WZ0JXcHhIbzBjNVJOR09YQ01LOXJwbF8zWXYwR1pmT3Q1a05CMnZJenh6SThhNGM0RUhaTzZVWUxfcGJKV0xYVGZSVENsY0J1Ymh6Y0Vn?oc=5",
    "date": "2025-03-30T10:00:06+00:00",
-   "summary": "إنشاء تطبيق موبايل بـReact Native بدون كود في دقائق بالذكاء الاصطناعي وتصديره APK - مجاناً بالكامل! YouTube",
+   "summary": "إنشاء تطبيق موبايل بـReact Native بدون كود في دقائق بالذكاء الاصطناعي وتصديره APK - مجاناً بالكامل! youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1047,10 +1047,10 @@
    "title": "تعلم React Native ببناء التطبيقات - شرح ملفات expo الجديدة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14Z3lpRU9XdlQyWlN5Umo2WDltcVhkNWhnMXFVSEF1aXd4RnNNdEE1bU9TTGI2amVRTTJnbVhLcFJKZjNtb0lXVXljWDdrdTNRVHJnNkFR?oc=5",
    "date": "2025-01-08T16:44:13+00:00",
-   "summary": "تعلم React Native ببناء التطبيقات - شرح ملفات expo الجديدة YouTube",
+   "summary": "تعلم React Native ببناء التطبيقات - شرح ملفات expo الجديدة youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1087,10 +1087,10 @@
    "title": "تعلم React Native مع تحديثات Expo - بناء المشاريع العملية خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FaVlsdDZ6TTBOVUM2SDBBU19jQ0hCVV9JcmFTeEJCU1ZrQnFaMWhzNjF2YVN1NzZyZGNRM2pLQ0lZRlBqRWxrNU83akEwakd2YkJnRzdB?oc=5",
    "date": "2024-11-30T22:42:11+00:00",
-   "summary": "تعلم React Native مع تحديثات Expo - بناء المشاريع العملية خطوة بخطوة YouTube",
+   "summary": "تعلم React Native مع تحديثات Expo - بناء المشاريع العملية خطوة بخطوة youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1157,10 +1157,10 @@
    "title": "دليل React Native بالعربي - شرح طريقة انشاء apk و عمل build للتطبيق في react native",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95c1AyQ2Job1VnTXYyenM5STAyMEUtakhtUkJWTWFfQUNBMVRoZVA5RFF5MGlVTUZnbjcxbEc1REJOV1lxMDc0cHg5dTU5QUIyS09rTnN3?oc=5",
    "date": "2024-07-12T13:41:27+00:00",
-   "summary": "دليل React Native بالعربي - شرح طريقة انشاء apk و عمل build للتطبيق في react native YouTube",
+   "summary": "دليل React Native بالعربي - شرح طريقة انشاء apk و عمل build للتطبيق في react native youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1177,10 +1177,10 @@
    "title": "مشروع بناء موقع شخصي - شرح انشاء Token و Login API - لارافيل مع reactjs و react native",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdlUzVm5FYnQ4RWdlYlJfUGtHVV91eFF1a3pvVVhpWS1XTGlRSGNSRDNqYXFGRFZGZG82TlB4ZlN2eEV2RWJjNFcxbks0TzQxVzF4emx3?oc=5",
    "date": "2024-06-25T21:11:12+00:00",
-   "summary": "مشروع بناء موقع شخصي - شرح انشاء Token و Login API - لارافيل مع reactjs و react native YouTube",
+   "summary": "مشروع بناء موقع شخصي - شرح انشاء Token و Login API - لارافيل مع reactjs و react native youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1244,23 +1244,33 @@
    "lang": "en"
   },
   {
+   "title": "React Native project for beginners | React Native Tutorial | Expo , HyGraph",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BVy0wMnkxcEN4MHI3ZWYzSkZha1huNHVVWWc3emNCaFBUaFpVSGdxYUdUbWxDNmFfZFF6dWs2REtLSFV0ZmU4QWQxbFpaNXJvSVh1YnFB?oc=5",
+   "date": "2024-01-26T03:00:02+00:00",
+   "summary": "React Native project for beginners | React Native Tutorial | Expo , HyGraph YouTube",
+   "tech": "reactnative",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "انشاء تطبيق باستخدام React Native - اليوم 01 - Create Mobile App React Native",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTUNwYnBXN1NYek5pZFV3Ul9iVmNmQnEwc3lmbmpUcE5SNUNFQUVPYjZOYzBtcHQ4VzdDS0xiLTluTS1nenlUa1VGdWROUHdmZmgwNUtB?oc=5",
    "date": "2024-01-21T10:54:49+00:00",
-   "summary": "انشاء تطبيق باستخدام React Native - اليوم 01 - Create Mobile App React Native YouTube",
+   "summary": "انشاء تطبيق باستخدام React Native - اليوم 01 - Create Mobile App React Native youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "دليل React Native بالعربي - شرح استخدام Buttons ​",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaLUJzN1RneWhEV2RjbmhEMkwyaGRzOUlMQlVpQ19aNTRCZjdTcHN3SzFVNVliNjF3SW9sWVlaem0xZWt5d2xscVdXWUdfTzhGNkFDcG93?oc=5",
    "date": "2024-01-13T19:30:06+00:00",
-   "summary": "دليل React Native بالعربي - شرح استخدام Buttons ​ YouTube",
+   "summary": "دليل React Native بالعربي - شرح استخدام Buttons ​ youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1277,20 +1287,20 @@
    "title": "دليل React Native بالعربي - طريقة تثبيت بيئة العمل وعمل اول تطبيق - Raect native documintation",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16dVpkcUVHTWpLUnZua1ZJdUlyNUN1MEdjVnhUTDd6X2I1SGM5SkE1Ulc2T1ZRdFJIWlNOMnRqVVVoemtZTVNmY3FYbk9kZWJPMERJU05n?oc=5",
    "date": "2023-12-23T22:42:39+00:00",
-   "summary": "دليل React Native بالعربي - طريقة تثبيت بيئة العمل وعمل اول تطبيق - Raect native documintation YouTube",
+   "summary": "دليل React Native بالعربي - طريقة تثبيت بيئة العمل وعمل اول تطبيق - Raect native documintation youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "مقارنة شاملة بين Flutter vs React Native",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15MExLS1NZYmJZNGV1T1hSN1RDck1EZXJUZ0NaTUs2cGRmVFg1SUN5S3RxZ2NEQUFuSlcxR1ZxNXkxQ0lEd1RMT0FHQnlOMkp5U3ptSHNn?oc=5",
    "date": "2023-10-23T03:00:11+00:00",
-   "summary": "مقارنة شاملة بين Flutter vs React Native YouTube",
+   "summary": "مقارنة شاملة بين Flutter vs React Native youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1364,83 +1374,73 @@
    "lang": "en"
   },
   {
-   "title": "React Native Tutorial - 1 - Introduction",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPaWltOXhwcnZFU19mTUQ1LUxTMHl4ZV9ZTFRZQkZCQjh1R25INzYtRHB6aU55UkpwRkRha0kzbWM2aU1udUhRWDFRXzZNSVVzWUhlTWxn?oc=5",
-   "date": "2023-07-09T11:00:35+00:00",
-   "summary": "React Native Tutorial - 1 - Introduction YouTube",
-   "tech": "reactnative",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "هل لازم اتعلم HTML و CSS قبل JavaScript عشان اتعلم React Native ؟؟!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xQ3FoQUNBZjRramx3RXFfdEJBdzhJRExGVE9pVVM1Z3h3WU1sSUV6ZExPQ3VzeXItQkk0OGR2TVZqTTNLdHUwbkxYOGx4S0hCTmNYWmJB?oc=5",
    "date": "2023-06-10T21:23:39+00:00",
-   "summary": "هل لازم اتعلم HTML و CSS قبل JavaScript عشان اتعلم React Native ؟؟! YouTube",
+   "summary": "هل لازم اتعلم HTML و CSS قبل JavaScript عشان اتعلم React Native ؟؟! youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "إزاي تبني تطبيقات mobile مع React Native و Expo؟ | الكورس الكامل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CcTRyNVdKRTNkb005aGhYRFNzYWFwWHBwX0gzTDYzaGNFSVZFUnZTRnZLUWphS1NHUFVjMVNvNEJoQU45dEJpYXRfZjJhVjRSS3lNTTl3?oc=5",
    "date": "2023-04-13T19:00:28+00:00",
-   "summary": "إزاي تبني تطبيقات mobile مع React Native و Expo؟ | الكورس الكامل YouTube",
+   "summary": "إزاي تبني تطبيقات mobile مع React Native و Expo؟ | الكورس الكامل youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "مقارنة بين React Native و Flutter في الأداء والإنتاجية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aN2NucjNRamY1QmpkNF8xd0hRTXphNk5LQmlCT0p0MGxvaDNRMXF4M3FSZVlyS214bDdoUzE3NXNhazQyblppMHJHNlhsYlZlMXVHMXh3?oc=5",
    "date": "2023-01-18T08:05:16+00:00",
-   "summary": "مقارنة بين React Native و Flutter في الأداء والإنتاجية YouTube",
+   "summary": "مقارنة بين React Native و Flutter في الأداء والإنتاجية youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "أساسيات React Native",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14blhOdWRhNmowczdkSUN6NnB2T2FOclVZeTNVZmpXQkszUWFScjUtQ19SV1I5S1BaUzhQWkpSb05sMl9lU3BWRUhIZ1hwTGhTNk1MRnJR?oc=5",
    "date": "2021-10-27T14:00:23+00:00",
-   "summary": "أساسيات React Native YouTube",
+   "summary": "أساسيات React Native youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "ما هو React Native؟ وما استخدامته؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80OTVhVk4yM1IzRHJuNmFnX0YtOWNOMzhHZlBSUFNsM0puU3hnZ2tlTDVoVDE3a0xLWTh0bU9HZDNkcG5tQkJOMWM0S2Vka0I3SWpPYmxn?oc=5",
    "date": "2021-04-21T23:21:50+00:00",
-   "summary": "ما هو React Native؟ وما استخدامته؟ YouTube",
+   "summary": "ما هو React Native؟ وما استخدامته؟ youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تثبيت بيئة react native cli بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zQ19jcHFkZjlhUFRCdEJ6WEhiSlVMbVZUVWFiTmp1bXRwOVcxZVRTYi1BcnVhWTZwb1V4WjVzYmNmdW01NnJmb0daWDF2Zjd0WUJxSnNn?oc=5",
    "date": "2021-03-19T15:34:40+00:00",
-   "summary": "تثبيت بيئة react native cli بالعربي YouTube",
+   "summary": "تثبيت بيئة react native cli بالعربي youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "React Native Tutorial - Arabic (بالعربي)",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhNlh1X3A0YThiZktaNUhIWXJ1MjdpM2Q3Q0JtTFdyUmY3QkVYeXkyUGxyQ29xdUhfQnJOcnNEV2h3SHJXNkl5Y1h1bkVMRW0ydVJpSmZYbjFqNHU3M1RnaDJkQ0d6eG5mX3o1TnE2NWVYY0pfVGRjcWR3MDE?oc=5",
    "date": "2017-10-25T14:43:07+00:00",
-   "summary": "React Native Tutorial - Arabic (بالعربي) YouTube",
+   "summary": "React Native Tutorial - Arabic (بالعربي) youtube.com",
    "tech": "reactnative",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {

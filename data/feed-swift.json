@@ -1,8 +1,134 @@
 {
- "generated": "2026-08-18T04:59:30.499645+00:00",
+ "generated": "2026-08-19T04:59:51.567751+00:00",
  "tech": "swift",
- "count": 177,
+ "count": 181,
  "items": [
+  {
+   "title": "讓 Xcode MCP 幫你截圖 : 使用 RenderPreview 自動生成多國語言的 App 畫面截圖",
+   "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E8%AE%93-xcode-mcp-%E5%B9%AB%E4%BD%A0%E6%88%AA%E5%9C%96-%E4%BD%BF%E7%94%A8-renderpreview-%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E5%A4%9A%E5%9C%8B%E8%AA%9E%E8%A8%80%E7%9A%84-app-%E7%95%AB%E9%9D%A2%E6%88%AA%E5%9C%96-ad75095d7777?source=rss------ios_app_development-5",
+   "date": "2026-08-19T04:17:05+00:00",
+   "summary": "Xcode &#x7684; MCP Server &#x63D0;&#x4F9B;&#x8A31;&#x591A;&#x65B9;&#x4FBF;&#x7684;&#x5DE5;&#x5177;&#xFF0C;&#x5176;&#x4E2D; RenderPreview &#x5C08;&#x9580;&#x7528;&#x4F86;&#x622A;&#x5716; #Preview &#x7684; App &#x756B;&#x9762;&#xFF0C;&#x900F;",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "[SwiftUI] @ScaledMetric",
+   "url": "https://gaeng2y.medium.com/swiftui-scaledmetric-1c129f4d305c?source=rss------ios_app_development-5",
+   "date": "2026-08-19T03:35:17+00:00",
+   "summary": "&#xC548;&#xB155;&#xD558;&#xC138;&#xC694;.. &#xB9E4; &#xC8FC; &#xB3CC;&#xC544;&#xC628;&#xB2E4;&#xBA74; 3&#xAC1C;&#xC6D4;&#xB9CC;&#xC5D0; &#xAE30;&#xC5B4;&#xB098;&#xC628; &#xC800;&#xC785;&#xB2C8;&#xB2E4;. Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Accessible by Platform: How iOS and Android Differ from the Web",
+   "url": "https://dev.to/ashokyadav123/accessible-by-platform-how-ios-and-android-differ-from-the-web-clb",
+   "date": "2026-08-19T02:21:11+00:00",
+   "summary": "The guidelines you know were written for web pages. Native apps borrow their intent and rewrite the...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Detecting Memory Leaks in a iOS, Mac, or Apple TV App without Agony.",
+   "url": "https://medium.com/@teresawright10/detecting-memory-leaks-in-a-ios-mac-or-apple-tv-app-without-agony-ff3795d185b6?source=rss------ios_app_development-5",
+   "date": "2026-08-18T22:29:43+00:00",
+   "summary": "Memory leaks are places in code where memory is allocated and never freed. Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "ffmpeg-kit-react-native is dead. Here is a native iOS alternative.",
+   "url": "https://dev.to/specvista/ffmpeg-kit-react-native-is-dead-here-is-a-native-ios-alternative-30nj",
+   "date": "2026-08-18T21:04:10+00:00",
+   "summary": "ffmpeg-kit-react-native is dead. Here is a native iOS alternative.   If you build video...",
+   "points": 1,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Your Nested Cards Look “Off” in SwiftUI (And How to Fix It with Concentric Math)",
+   "url": "https://medium.com/@charu.dev/why-your-nested-cards-look-off-in-swiftui-and-how-to-fix-it-with-concentric-math-2517e4394017?source=rss------ios_app_development-5",
+   "date": "2026-08-18T20:24:51+00:00",
+   "summary": "A few days ago, I was working on a custom floating overlay card in one of my SwiftUI projects. Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why I finally opened a stranger's issue on DesignFoundation, two and a half weeks late",
+   "url": "https://dev.to/nerd_snipe_dev/why-i-finally-opened-a-strangers-issue-on-designfoundation-two-and-a-half-weeks-late-j8j",
+   "date": "2026-08-18T19:30:00+00:00",
+   "summary": "I owe fraserscottmorrison an apology before I owe him a thank you. He filed two issues on...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Claude Code hooks ntfy iOS Announce Notifications = your locked iPhone speaks when a prompt finishes or Claude needs you.\r\n\r\nStdlib Python, zero dependencies.\r\nhttps://github.com/pleomax00/claude-speaks",
+   "url": "https://dev.to/pleomax00/claude-code-hooks-ntfy-ios-announce-notifications-your-locked-iphone-speaks-when-a-prompt-84b",
+   "date": "2026-08-18T18:48:12+00:00",
+   "summary": "...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Week 2 of Shipaton 2026: Pinoy-Made App, Todochi, Enters Public Testing",
+   "url": "https://hackernoon.com/week-2-of-shipaton-2026-pinoy-made-app-todochi-enters-public-testing?source=rss",
+   "date": "2026-08-18T18:17:21+00:00",
+   "summary": "Built for Shipaton 2026, Todochi enters beta as four brothers tackle Android permissions, Google Play testing, TestFlight, and iOS restrictions.",
+   "tech": "swift",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Actors in Swift Concurrency: From Classes to Actor Isolation and Reentrancy",
+   "url": "https://medium.com/@amitaswal87/actors-in-swift-concurrency-from-classes-to-actor-isolation-and-reentrancy-ef00f1064187?source=rss------ios_app_development-5",
+   "date": "2026-08-18T15:04:58+00:00",
+   "summary": "Actors in Swift Concurrency: From Classes to Actor Isolation and Reentrancy Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Used Claude to Fill Inspection Forms by Voice, Without Building a Voice Stack",
+   "url": "https://dev.to/toddsullivan/i-used-claude-to-fill-inspection-forms-by-voice-without-building-a-voice-stack-3ha",
+   "date": "2026-08-18T08:03:21+00:00",
+   "summary": "I Used Claude to Fill Inspection Forms by Voice, Without Building a Voice Stack   I just...",
+   "points": 1,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kotlin Coroutines Explained: From `suspend` to Structured Concurrency",
+   "url": "https://dev.to/synfinity-dynamics-pvt-ltd/kotlin-coroutines-explained-from-suspend-to-structured-concurrency-3nml",
+   "date": "2026-08-18T07:26:49+00:00",
+   "summary": "If you've written Kotlin for any length of time, you've bumped into coroutines. Maybe you copy-pasted...",
+   "points": 5,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "8 Xcode Settings You Should Change Right Now",
    "url": "https://medium.com/@ios-interview/8-xcode-settings-you-should-change-right-now-66c7ae9ceeb8?source=rss------ios_app_development-5",
@@ -25,6 +151,17 @@
    "lang": "en"
   },
   {
+   "title": "Building a Reusable Generic Network Layer in Swift with Result and Async/Await",
+   "url": "https://dev.to/toolloom/building-a-reusable-generic-network-layer-in-swift-with-result-and-asyncawait-5da7",
+   "date": "2026-08-18T01:02:43+00:00",
+   "summary": "Learn how to create a generic Swift networking helper that returns Result and uses async/await to...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "get_intraday: a live within-day window for Apple Health, over MCP",
    "url": "https://dev.to/philipad/getintraday-a-live-within-day-window-for-apple-health-over-mcp-5585",
    "date": "2026-08-18T00:35:01+00:00",
@@ -40,7 +177,7 @@
    "url": "https://dev.to/emadbeyrami/breaking-up-big-swiftui-views-the-right-way-3m42",
    "date": "2026-08-17T23:28:32+00:00",
    "summary": "Why computed properties help readability, what @ViewBuilder actually does, and when a...",
-   "points": 0,
+   "points": 5,
    "tech": "swift",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -347,28 +484,6 @@
    "lang": "en"
   },
   {
-   "title": "Getting a Flutter app through App Review",
-   "url": "https://dev.to/shahryarahmad/getting-a-flutter-app-through-app-review-3did",
-   "date": "2026-08-15T05:17:02+00:00",
-   "summary": "Most App Review rejections are not surprises. They come from a small, stable set of guidelines, and...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The one-open rule for stopping social media loops on iPhone",
-   "url": "https://dev.to/godnick/the-one-open-rule-for-stopping-social-media-loops-on-iphone-52nk",
-   "date": "2026-08-15T00:22:43+00:00",
-   "summary": "Most doomscrolling does not start as a big decision.  It starts as one automatic open.  You check one...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "SwiftUI: Recognize & Search Handwritings",
    "url": "https://medium.com/@itsuki.enjoy/swiftui-recognize-search-handwritings-e47bdff0c760?source=rss------ios_app_development-5",
    "date": "2026-08-14T23:09:20+00:00",
@@ -379,115 +494,20 @@
    "lang": "en"
   },
   {
-   "title": "Getting to Know Server-Sent Events (and Actually Implementing It on iOS)",
-   "url": "https://medium.com/@prammmoe/getting-to-know-server-sent-events-and-actually-implementing-it-on-ios-a5cd22b1daf8?source=rss------ios_app_development-5",
-   "date": "2026-08-14T18:52:17+00:00",
-   "summary": "Most mobile apps begin with a familiar networking pattern: the app sends a request, the server returns a response, and the connection is&#x2026; Continue reading on Medium »",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Automating iOS Builds from Command Line with xcodebuild",
-   "url": "https://medium.com/@hasini2020/automating-ios-builds-from-command-line-with-xcodebuild-db5456d04803?source=rss------ios_app_development-5",
-   "date": "2026-08-14T17:43:23+00:00",
-   "summary": "If you&#x2019;ve distributed iOS apps to testers or to the App Store the flow is familiar. Open Xcode, hit Product &#x2192; Archive, click through the&#x2026; Continue reading on Medium »",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "My dev environment was hiding eight production bugs",
-   "url": "https://dev.to/renga154/my-dev-environment-was-hiding-eight-production-bugs-50jg",
-   "date": "2026-08-14T17:43:04+00:00",
-   "summary": "Every convenience in my development setup was concealing a defect on the other side of it. Counting the conveniences found the bugs faster than looking for the bugs.",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why I Built an SSH Config and Tunnel Manager for macOS",
-   "url": "https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-44lj",
-   "date": "2026-08-14T17:40:27+00:00",
-   "summary": "Every internal tool I need sits behind SSH. Grafana, Prometheus, the staging clusters, internal AI...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "保护 API Key 和其他应用密钥",
-   "url": "https://dev.to/yo1995/bao-hu-api-key-he-qi-ta-ying-yong-mi-yao-45hp",
-   "date": "2026-08-14T17:22:45+00:00",
-   "summary": "尝试英译中机翻我们总结的 API Key 相关经验文档… 尽量说人话 😊            情景   假设我们要发布一个基于 ArcGIS Maps SDK 的 app，并使用 API Key...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Modular Architecture in swift",
-   "url": "https://samirrana-18696.medium.com/modular-architecture-in-swift-5f57d6667ec7?source=rss------ios_app_development-5",
-   "date": "2026-08-14T16:42:35+00:00",
-   "summary": "Modular Architecture in Swift is the practice of breaking down a large iOS codebase into small, loosely coupled, and independent targets&#x2026; Continue reading on Medium »",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Como Funcionam as Requisições HTTP no Swift? Entendendo URL, URLRequest e URLSession",
-   "url": "https://dev.to/henriquepablo/como-funcionam-as-requisicoes-http-no-swift-entendendo-url-urlrequest-e-urlsession-1jlp",
-   "date": "2026-08-14T16:21:37+00:00",
-   "summary": "Para fazer requisição em Swift é um processo simples, mas precisamos entender alguns pontos antes...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Friday night iPhone app blocker setup to stop weekend doomscrolling",
-   "url": "https://dev.to/godnick/a-friday-night-iphone-app-blocker-setup-to-stop-weekend-doomscrolling-12c6",
-   "date": "2026-08-14T15:22:40+00:00",
-   "summary": "Friday night doomscrolling is tricky because it does not feel like procrastination.  The week is...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "iOS 26 Just Changed What “Native” Means — Here’s How to Keep Up",
-   "url": "https://medium.com/@bhumibhuva18/ios-26-just-changed-what-native-means-heres-how-to-keep-up-d97b2152c031?source=rss------ios_app_development-5",
-   "date": "2026-08-14T07:57:12+00:00",
-   "summary": "A hands-on look at Liquid Glass UI, SwiftUI&#x2019;s new rendering model, and the small details that separate a good app from a great one. Continue reading on Medium »",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Say Goodbye to Passwords: How iOS 26 Is Rewriting the Rules of Secure Authentication",
-   "url": "https://ravi6997.medium.com/say-goodbye-to-passwords-how-ios-26-is-rewriting-the-rules-of-secure-authentication-59506f6d08c6?source=rss------ios_app_development-5",
-   "date": "2026-08-14T07:56:51+00:00",
-   "summary": "From passkey-first onboarding to post-quantum TLS &#x2014; here&#x2019;s what every iOS developer needs to know before shipping their next login screen. Continue reading on Medium »",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Russian sanctions fail again: a new, faster financial system outside USD and SWIFT",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeEZzTDVQRG1PRTZhdjdOTVVlTlFzX21DMUVnNXZPZUY1dFBHRzIwcGd4UV9MWmp5RWNIYnp3TENadXVwOHZmdHQ5U2JCMFBrdGE1OXl3?oc=5",
    "date": "2026-08-13T18:22:58+00:00",
    "summary": "Russian sanctions fail again: a new, faster financial system outside USD and SWIFT YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How to Publish Your App to the App Store (Step by Step, 2026)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oMjRuemZkenhxY1dJT1VxR3JvX05FZDVMdlFBTXdsY2Rrb0xxVjRXTXVvenhOZ0VnRDBldEs3UndRQ1Q0dGVZcFlWS09kb3phYnpGb29n?oc=5",
+   "date": "2026-07-16T10:00:32+00:00",
+   "summary": "How to Publish Your App to the App Store (Step by Step, 2026) YouTube",
    "tech": "swift",
    "sourceId": "yt",
    "source": "YouTube",
@@ -507,10 +527,10 @@
    "title": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FeFpodWJWUGYtLWZhd2tocHVQaTl6aU43dGZicWxCMUo1LXhoaXZZanRUekYtZE5obm1qYlljUEozWUZUMS1SSHNKTGFJUk1uU25UaUpn?oc=5",
    "date": "2026-05-04T18:00:43+00:00",
-   "summary": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS YouTube",
+   "summary": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -537,30 +557,30 @@
    "title": "أخيرًا لعبة مصاصي دماء🧛 حقيقية على الموبايل👹🔥 Vampir Heir of Blood شرح كامل للعبة على ANDROID/iOS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAza0JtLXp0WnNwc3dDWEhURTQzLTF1dkhOdmZuSXZpSDJYZ3U2RU5YNWhnZTU0cFMxN2hRWGQtR2p5bl84RDgyaVVMRElQOWNCWmFCSXBn?oc=5",
    "date": "2026-03-18T15:29:54+00:00",
-   "summary": "أخيرًا لعبة مصاصي دماء🧛 حقيقية على الموبايل👹🔥 Vampir Heir of Blood شرح كامل للعبة على ANDROID/iOS YouTube",
+   "summary": "أخيرًا لعبة مصاصي دماء🧛 حقيقية على الموبايل👹🔥 Vampir Heir of Blood شرح كامل للعبة على ANDROID/iOS youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "الدليل الشامل لرفع تطبيقات فلاتر على متجر أبل (App Store) وتجنب الرفض!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56T2t5RXJmZmZleXBJUnF1VGNZTnFVc3o4VW96M0tDeXdlUm1Dc3BYcWYtOHQyWTNPZFBMNmNheUdnc0VYWUNmZFVIZ1Y3Ull6UWd5ZEd3?oc=5",
    "date": "2026-03-13T11:14:39+00:00",
-   "summary": "الدليل الشامل لرفع تطبيقات فلاتر على متجر أبل (App Store) وتجنب الرفض! YouTube",
+   "summary": "الدليل الشامل لرفع تطبيقات فلاتر على متجر أبل (App Store) وتجنب الرفض! youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "(@AhmedMenaiim iOS حوار مع خبير - أحمد منعم ( خبيرفي تطوير تطبيقات الجوال",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jVXhreVRvV2ZueGRmUDJDR2UxT2tweEpxbGh6eHBaMFd1YUlGUU5NSms3akV4NUpDVk1uekZfVmFYbVJLWXJDS3FzcnRINmZFYmI5d3JB?oc=5",
    "date": "2026-03-05T10:45:31+00:00",
-   "summary": "(@AhmedMenaiim iOS حوار مع خبير - أحمد منعم ( خبيرفي تطوير تطبيقات الجوال YouTube",
+   "summary": "(@AhmedMenaiim iOS حوار مع خبير - أحمد منعم ( خبيرفي تطوير تطبيقات الجوال youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -572,6 +592,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "من الفكرة إلى App Store: كيف تصنع تطبيق Native حقيقي بالذكاء الاصطناعي (بدون كود) 📱",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84WHdtUlByUWxsZFo0RzNQT2NtV214bHRzTVpRMmxQRVZfZXh4WWJacEZCLUM0UjF1MU5zbU9XUHh3R3JLLW9pLTJzSlA4UjBaalIzOWFn?oc=5",
+   "date": "2026-02-24T18:01:57+00:00",
+   "summary": "من الفكرة إلى App Store: كيف تصنع تطبيق Native حقيقي بالذكاء الاصطناعي (بدون كود) 📱 youtube.com",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "youtube.com",
+   "lang": "ar"
   },
   {
    "title": "Getting started with SwiftUI with Xcode 26 for beginners (2026)",
@@ -597,20 +627,20 @@
    "title": "اقوى 10 العاب فيها [ عالم مفتوح ضخم ] للاندرويد والايفون 2025 - 2026 🔥🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTnBBVU42ZkFzV3NQSVJhZEItYWhHUV9nQl9mQ1JwX3NIbk9hWnVJVHFwQnFRX1ZGN0treURNb1FTeGxIYkZvd0pRM2hVNmoybFkzZk5R?oc=5",
    "date": "2025-12-08T16:40:48+00:00",
-   "summary": "اقوى 10 العاب فيها [ عالم مفتوح ضخم ] للاندرويد والايفون 2025 - 2026 🔥🔥 YouTube",
+   "summary": "اقوى 10 العاب فيها [ عالم مفتوح ضخم ] للاندرويد والايفون 2025 - 2026 🔥🔥 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "رسمياً تحديث الايفون iOS 26.1 وصل للجميع | اخيرا النسخة الافضل من iOS 26 !",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzVGVmTjBsclBMZUlyUmdlY3lvMTVDMlFQQldnOWRxR0FnekgwNV9zZU5qdTdhcl9PbWhOcjRrdTlSUDJHR1lZQ3lMQWJiRnQzNHl1TGx3?oc=5",
    "date": "2025-11-03T21:19:12+00:00",
-   "summary": "رسمياً تحديث الايفون iOS 26.1 وصل للجميع | اخيرا النسخة الافضل من iOS 26 ! YouTube",
+   "summary": "رسمياً تحديث الايفون iOS 26.1 وصل للجميع | اخيرا النسخة الافضل من iOS 26 ! youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -657,10 +687,10 @@
    "title": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93VjJNU0E1RzE1MEtwRW1xZjF1XzBuWUNSWkkwa0R4NHY5N0dMYUc2cS15THdhM3dUd3h4cHhXdmp1OTVoVlNVSDZBcGF1dDhFdDJYZlZR?oc=5",
    "date": "2025-10-11T15:01:35+00:00",
-   "summary": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨ YouTube",
+   "summary": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨ youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -687,20 +717,20 @@
    "title": "دليلك للتعامل مع iOS 26 | اضخم تحديث في تاريخ آبل اللي غير كل حاجة !",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hN194TzVMbHIxWjJuS0hNeEZnRnlrdkcydXdhSWhpNm9zVlVLbTM4YVpnV1VxNUFiMVp3eWZVRmJKenloei1EVkNQMkMwT2xrXzlpTXFR?oc=5",
    "date": "2025-09-15T17:06:12+00:00",
-   "summary": "دليلك للتعامل مع iOS 26 | اضخم تحديث في تاريخ آبل اللي غير كل حاجة ! YouTube",
+   "summary": "دليلك للتعامل مع iOS 26 | اضخم تحديث في تاريخ آبل اللي غير كل حاجة ! youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NYW5XOTZ6VTVJSjN4d1I4YVNCNlZOc2Q2SjZVRkVVS2JJTnU2N3MyQ0VkNUo0bG1GeEFoNmtsTXRRUDdyeFBNNHV2NjJ4UmNMY2t6M0hR?oc=5",
    "date": "2025-09-01T13:00:06+00:00",
-   "summary": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف YouTube",
+   "summary": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -727,10 +757,10 @@
    "title": "تحديث الايفون iOS 18.6 | التحديث الاخير و اكتر من ٢٠ ثغرة امنية! 🤯",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MaHlJZEF2SmRCc1lDLWdiLVhleEZXRk0yR0FpelczSnBOcHlpVVpBaG5NeWhGR2RneG1xOWlHSGtHbXoxNHJEcDhrWE1sbUllVVdqeXBn?oc=5",
    "date": "2025-07-30T12:30:14+00:00",
-   "summary": "تحديث الايفون iOS 18.6 | التحديث الاخير و اكتر من ٢٠ ثغرة امنية! 🤯 YouTube",
+   "summary": "تحديث الايفون iOS 18.6 | التحديث الاخير و اكتر من ٢٠ ثغرة امنية! 🤯 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -747,20 +777,20 @@
    "title": "كيف تصنع تطبيق ios بالذكاء الاصطناعي مجاناً؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1veDhhOG9nTXlFOVdVV1EtRkZXejZ4dEkwc0dzdkkxQUxfMFNfd0l5aFR4cmlMWERCdUxSY1BNdmVkdXp2QXBnNnVDWFdEUEJWbHBIeDdn?oc=5",
    "date": "2025-06-27T10:54:40+00:00",
-   "summary": "كيف تصنع تطبيق ios بالذكاء الاصطناعي مجاناً؟ YouTube",
+   "summary": "كيف تصنع تطبيق ios بالذكاء الاصطناعي مجاناً؟ youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "[01] Native Mobile Apps | Kotlin Android Native & Swift iOS Native | شرح عربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtd3VlU0FfNmtwbDh2Z0lIWjd4aWNwVHpPUTdULTR3TE8xRTRSM3pWVUE1R2FMdTVUSnlNdldQc3NVdFRVV2RGVlZSRkN6eEVvNGZGM1B3?oc=5",
    "date": "2025-06-09T14:00:30+00:00",
-   "summary": "[01] Native Mobile Apps | Kotlin Android Native & Swift iOS Native | شرح عربي YouTube",
+   "summary": "[01] Native Mobile Apps | Kotlin Android Native & Swift iOS Native | شرح عربي youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -797,10 +827,10 @@
    "title": "طريقة إضافة وتثبيت فرش بروكريت على الآيباد والآيفون | شرح مبسط Procreate",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KSXNtb0dZWkpuZzlHYlpFcFFFU25QdzI2YzlFVzFRNFIxRGk5WFVGWkNfU1J0R3BZR19tel96WmNxQ0xXbkZQcWNoblNVREdtRThMRkxB?oc=5",
    "date": "2025-04-12T15:46:18+00:00",
-   "summary": "طريقة إضافة وتثبيت فرش بروكريت على الآيباد والآيفون | شرح مبسط Procreate YouTube",
+   "summary": "طريقة إضافة وتثبيت فرش بروكريت على الآيباد والآيفون | شرح مبسط Procreate youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -847,20 +877,20 @@
    "title": "خطة شاملة لتصبح مطور تطبيقات iOS محترف | دليل Roadmap شامل.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PSTFOX2ppclFYVm9SRU5Odlk2OXQ5Q0tyWnpMcnhnN2dVd2paNGZoRXA3RU9XcGlYeUw1SFhXc2FsYkVmX0g2VXI4RmpTQjNDcjRySVJn?oc=5",
    "date": "2024-12-29T08:00:00+00:00",
-   "summary": "خطة شاملة لتصبح مطور تطبيقات iOS محترف | دليل Roadmap شامل. YouTube",
+   "summary": "خطة شاملة لتصبح مطور تطبيقات iOS محترف | دليل Roadmap شامل. youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "من هو مطور تطبيقات iOS؟ | دليل شامل لتصبح مبرمج iOS محترف.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10U3FOVUk5SjdQSHRIb1paeG95UFNtcFhoOXgzVURfYjRSdi1jMmFZcFk4UW9zd0NQdXJJRWluVmtDY1pUM0tFbFpGSE4zaVhZa09xai1n?oc=5",
    "date": "2024-12-28T22:01:21+00:00",
-   "summary": "من هو مطور تطبيقات iOS؟ | دليل شامل لتصبح مبرمج iOS محترف. YouTube",
+   "summary": "من هو مطور تطبيقات iOS؟ | دليل شامل لتصبح مبرمج iOS محترف. youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -872,6 +902,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "تجربة عملية لذكاء ابل الجديد و أهم مميزات التحديث الجديد iOS 18",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWG5VRWgzaXVzbHNoNmY1WlFxa1gzTXNHN1E2MEZwSTNnaGs5WU12YUhrb09xLXBzRzc1ZWdQb0lhTEFDYnA2c3NmSks1UmZZOFNtRGRB?oc=5",
+   "date": "2024-10-03T16:00:21+00:00",
+   "summary": "تجربة عملية لذكاء ابل الجديد و أهم مميزات التحديث الجديد iOS 18 youtube.com",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "youtube.com",
+   "lang": "ar"
   },
   {
    "title": "Swift Language Fundamentals - The Complete Beginner's Guide",
@@ -887,10 +927,10 @@
    "title": "تحديث الايفون الجديد iOS 18: نصائح مهمة قبل وبعد التحديث",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0VVFqOEp4dmFIVEhoa3Z4UXNzdUlsT1JSTW1QblNXdEVOcUtCREtqdXllcmdaNjExMDA3RDBYY2YzeDM1cjUxb2NCd0pJLUdUZHEtLW9R?oc=5",
    "date": "2024-09-16T17:09:06+00:00",
-   "summary": "تحديث الايفون الجديد iOS 18: نصائح مهمة قبل وبعد التحديث YouTube",
+   "summary": "تحديث الايفون الجديد iOS 18: نصائح مهمة قبل وبعد التحديث youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -917,20 +957,20 @@
    "title": "تعلم إنشاء تطبيقات iOS خطوة بخطوة #برمجة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2SUpIcmszcmF6YklQQndkLS13US1jRXkzQkJzcndmRGJhQjBOeUpvQWg5b2FYMjBUQXEwMURTcDh5Qm5GREI2dmxuUTFEOWR5YnlJSGpB?oc=5",
    "date": "2024-08-03T16:53:56+00:00",
-   "summary": "تعلم إنشاء تطبيقات iOS خطوة بخطوة #برمجة YouTube",
+   "summary": "تعلم إنشاء تطبيقات iOS خطوة بخطوة #برمجة youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "طريقة تنزيل نظام iOS18 مجانا للايفون || حل مشكلة تحديث iOS 18 لا يظهر 🔥💥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SGpDQ012cE5PZmlCWVdHZHF1Ni1xeGlNMld6RFgzQnpoTG9udnJGeGVNSlc1dXJZUHR0Q0hhMGU1cFB6bjlFaTNkYndmdWJwVGoxWkt3?oc=5",
    "date": "2024-07-02T15:04:56+00:00",
-   "summary": "طريقة تنزيل نظام iOS18 مجانا للايفون || حل مشكلة تحديث iOS 18 لا يظهر 🔥💥 YouTube",
+   "summary": "طريقة تنزيل نظام iOS18 مجانا للايفون || حل مشكلة تحديث iOS 18 لا يظهر 🔥💥 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -947,10 +987,10 @@
    "title": "ميزة مخفية لتسريع الألعاب في هواتف الايفون و الايباد 😈 فعلها بسرعة 🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hNDJCZ1k2R2pKZXVraVJ4TFZTRERxWVkteXBKbTZvcHdXaDRaMmQ0OWU2Wmk0N1VBU1h5VHFUTEdtWk5fWUJZMG95YlNEVXFRSlpNNnFn?oc=5",
    "date": "2024-06-13T13:00:42+00:00",
-   "summary": "ميزة مخفية لتسريع الألعاب في هواتف الايفون و الايباد 😈 فعلها بسرعة 🔥 YouTube",
+   "summary": "ميزة مخفية لتسريع الألعاب في هواتف الايفون و الايباد 😈 فعلها بسرعة 🔥 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -967,10 +1007,10 @@
    "title": "تحويل ايموجي اندرويد الى ايفون iOS 2024",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzNUktX3diTXpFcWp3eVlnVGRKQ0lCLXhVTjJja0Q2cTFvbDVRWlBOWVhtdnhTWTQwRnhXWUhYSjJ6T3dOS1RfNGFiUDB1cW1JTWFCbkhR?oc=5",
    "date": "2024-06-03T15:45:03+00:00",
-   "summary": "تحويل ايموجي اندرويد الى ايفون iOS 2024 YouTube",
+   "summary": "تحويل ايموجي اندرويد الى ايفون iOS 2024 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1027,10 +1067,10 @@
    "title": "4- انشاء اختبار الكتروني للتابلت Swift Assess",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BTTB6MHVWU1NhT1RvWDBjME1JS3lnQWZyTnUyMV9od190OHFqSHctdmFrOEJTMy1EMk1UbDF5NHB1QXRveHZ1Y2h3TldBa0x2ekY5cDB3?oc=5",
    "date": "2024-03-13T15:56:15+00:00",
-   "summary": "4- انشاء اختبار الكتروني للتابلت Swift Assess YouTube",
+   "summary": "4- انشاء اختبار الكتروني للتابلت Swift Assess youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1098,6 +1138,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMFZQRHM5dGU1d3VHV0dVVnUzR1dHNk5TblZlZTNKcGc5VVdmYWd3aWJicUk1VUx4QUZ0by1uWjJLTHZiX2RKUmwtamYycHU4MnFBQnRB?oc=5",
    "date": "2023-09-28T20:52:20+00:00",
    "summary": "How to get started with Swift Concurrency 🧵 (Beginner Tutorial) YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Build a visionOS app with SwiftUI & SwiftData (Full Course)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tOGNHaUNOcS1FV1BBMzZZWEVieWVvNEVmQVpvd2FSTDR0OENNOVBaTVUxQ2M4UjZPQlJ4SWR0bk1CUzAzaHlUSldXZU1MTmxzc0pSVnR3?oc=5",
+   "date": "2023-09-14T14:00:17+00:00",
+   "summary": "Build a visionOS app with SwiftUI & SwiftData (Full Course) YouTube",
    "tech": "swift",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1197,20 +1247,20 @@
    "title": "15 - Swift UI | تثبيت Xcode IDE",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2QlBWTnYtMnFWSVg4N0ZQaEpJWTE5dnVZVWZlUTNpSlpLYWRaYTk5R2NJZllOS3NOU2NWUGZ6YXJob0R6ajEwSS0tOTNSd2RmSUZ1Vy1R?oc=5",
    "date": "2023-05-16T20:08:32+00:00",
-   "summary": "15 - Swift UI | تثبيت Xcode IDE YouTube",
+   "summary": "15 - Swift UI | تثبيت Xcode IDE youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "1- لغة البرمجة سويفت عالية المستوى",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zOVl0WnRMLXhzM1hlUjFOTF9mMkZMSFE0RFdDczF6clNKVm16UmFBT195al90Q2tlZDJncW9PVnhMcks2VDhEaU5qSHpoVUp6OXFCMG5B?oc=5",
    "date": "2023-05-16T19:54:29+00:00",
-   "summary": "1- لغة البرمجة سويفت عالية المستوى YouTube",
+   "summary": "1- لغة البرمجة سويفت عالية المستوى youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1297,10 +1347,10 @@
    "title": "وأخيراً 💥 تثبيت ثيمات الايفون على هواتف شاومي بعد حظرها | الثالث أسطوري 👌",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZTDN5ZGtsWXp6bHNjQ011VTBZZ3MxQTg4LU9vbjhFNUNLMmR5X3RhZWdOUGExV19IMVpMMlZIWHRKOUFsemdUa0xxVElNN04tSXpsMnpR?oc=5",
    "date": "2022-12-08T16:03:37+00:00",
-   "summary": "وأخيراً 💥 تثبيت ثيمات الايفون على هواتف شاومي بعد حظرها | الثالث أسطوري 👌 YouTube",
+   "summary": "وأخيراً 💥 تثبيت ثيمات الايفون على هواتف شاومي بعد حظرها | الثالث أسطوري 👌 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1387,50 +1437,50 @@
    "title": "Complete iOS Developer Roadmap [Arabic]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EdzFDN3hfbUk2clpHNVZxcnZoTVVwM3FTc2dlZTV1S2tZbDZEcVNHZ25uczY5cjRreVRhVjA5ZUluaEcyV29mOGhJYktKY21JMmJHVk93?oc=5",
    "date": "2022-08-22T08:31:35+00:00",
-   "summary": "Complete iOS Developer Roadmap [Arabic] YouTube",
+   "summary": "Complete iOS Developer Roadmap [Arabic] youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "هل يمكن تطوير الالعاب من خلال الايفون؟ وهل تستطيع تشغيل max2d على الايفون",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LMU9NSFBLdzNNaVI3UDRLUlVfcW5wdFczT0tLWFVqa0xBem4yTUhpWU92dW95eTl3MFVIYXlvb1JXN0FQQnhDYXQ1UGFhM3JsNlJ3NkVn?oc=5",
    "date": "2022-08-11T21:00:13+00:00",
-   "summary": "هل يمكن تطوير الالعاب من خلال الايفون؟ وهل تستطيع تشغيل max2d على الايفون YouTube",
+   "summary": "هل يمكن تطوير الالعاب من خلال الايفون؟ وهل تستطيع تشغيل max2d على الايفون youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "نقل محادثات الواتساب من الاندرويد الى الايفون | MobileTrans",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQWkRHdXRKaXROdVhnT0VsLWR3NmVSMHU5OVM0SG1ab3FtWEtoSTE5VDFtNkV1VFZxOW1FckZSR3F1MzdYck1BdXNFOHVvRUNtQTZwaHpn?oc=5",
    "date": "2022-07-02T14:00:02+00:00",
-   "summary": "نقل محادثات الواتساب من الاندرويد الى الايفون | MobileTrans YouTube",
+   "summary": "نقل محادثات الواتساب من الاندرويد الى الايفون | MobileTrans youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح نمط المطور في iOS 16 | السماح للبرامج من خارج ابل ستور",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0VjFUU0VNS2pjTzNxTHlwdlFTV09MbGZ3LWVvd1RJWDMyaXI0RW5WcGQ2YUpfRDZkWjFac0FKbW9hZWhSeDl0QUpXMzlWRk9OaGc1Sm1R?oc=5",
    "date": "2022-06-11T17:10:09+00:00",
-   "summary": "شرح نمط المطور في iOS 16 | السماح للبرامج من خارج ابل ستور YouTube",
+   "summary": "شرح نمط المطور في iOS 16 | السماح للبرامج من خارج ابل ستور youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "الفتيس كهربا ولازم تدوس فرامل(swift & Dzire )",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZY2JBMFpLaXdseThBdHdlZ3g3aU1XUldPMHA1WE9Iem9zQ21uTjRSbjZ4ODNBRFJ3UHBBbHRObWhxNlh4UFIzQXExSG9IZjBaeUYyam1n?oc=5",
    "date": "2022-04-15T12:25:58+00:00",
-   "summary": "الفتيس كهربا ولازم تدوس فرامل(swift & Dzire ) YouTube",
+   "summary": "الفتيس كهربا ولازم تدوس فرامل(swift & Dzire ) youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1447,20 +1497,20 @@
    "title": "تعليمات للطلاب لاستخدام منصة سويفت في الامتحانات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tNWVYN1E0VEdXUi1LWjFTYnFESndOdGxTT3I3dHdjN2kyLW5mZ2tZM1BCeWdfNlZZR25xMzJTSzJQQ0QwdVBCVUl0dU5ydVVucUhBckx3?oc=5",
    "date": "2022-03-17T06:05:32+00:00",
-   "summary": "تعليمات للطلاب لاستخدام منصة سويفت في الامتحانات YouTube",
+   "summary": "تعليمات للطلاب لاستخدام منصة سويفت في الامتحانات youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "نظام سويفت ما هو وماذا يعني اقصاء دولة منه؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96OWh2aGxGalRjNU5nNXFrVWVxMjZWNl8zc2plTGFnU1doZ0JjdHpFdjRBYnhtVHlQNUo4OGdkZEh6YU14RzdST0FrZEVLYXhtTFltV2hn?oc=5",
    "date": "2022-03-14T09:15:38+00:00",
-   "summary": "نظام سويفت ما هو وماذا يعني اقصاء دولة منه؟ YouTube",
+   "summary": "نظام سويفت ما هو وماذا يعني اقصاء دولة منه؟ youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1477,10 +1527,10 @@
    "title": "تسريع الايفون بدون برامج | اعدادات ايفون يجب تغيرها",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00c1JYWjBEY1h4Y0pKVDV3czRBV2tNbWR3VFlBR3U4YmQ5TXNDN2RyTk4wWTBweVE1ZWVRX3dENjZiLVlteG5XbnFxM0l6c2tUUUx3a1ZB?oc=5",
    "date": "2022-01-02T14:00:09+00:00",
-   "summary": "تسريع الايفون بدون برامج | اعدادات ايفون يجب تغيرها YouTube",
+   "summary": "تسريع الايفون بدون برامج | اعدادات ايفون يجب تغيرها youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1497,10 +1547,10 @@
    "title": "اكتشاف مشكلة كبيرة في سوزوكي سويفت suzuki swift",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VVVSd2VIMlJNRjVMaC1OYlRQbGF4QXZDaGkwaDh0N19YSF9IaThTOGNnZmNfblFUSkNFWkY1aF9FeW5Dck9FZFRsOWpmNG5DV1YzaG1R?oc=5",
    "date": "2021-11-28T09:00:36+00:00",
-   "summary": "اكتشاف مشكلة كبيرة في سوزوكي سويفت suzuki swift YouTube",
+   "summary": "اكتشاف مشكلة كبيرة في سوزوكي سويفت suzuki swift youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1527,30 +1577,30 @@
    "title": "Swift Programming Tutorial for Beginners - Full course | تعلم لغة سويفت للمبتدئين - كورس كامل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BNFBLQnhsYjZLVVFyTVpBXzZDUGpyRW5TMmRxcXdQaktkclZ6ZkgtMTBnU3VaS3U3dGh5U2h1MDVDbnVURV8yUFhBVGJQc3daN2NTMjJn?oc=5",
    "date": "2021-09-24T23:58:23+00:00",
-   "summary": "Swift Programming Tutorial for Beginners - Full course | تعلم لغة سويفت للمبتدئين - كورس كامل YouTube",
+   "summary": "Swift Programming Tutorial for Beginners - Full course | تعلم لغة سويفت للمبتدئين - كورس كامل youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "Swift Programming Tutorial - 1 : Variables - تعلم لغة سويفت بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EVmo4WGtvZHYyMFpDSFBEd0V6MDdJYXNBZzlIa3RtZ2pFTGFaWWo5NkNkeEQzTEdLOHc5d29YaHQwQnhMem5MSGxDLVpkYnZYTUtWUHBR?oc=5",
    "date": "2021-09-24T23:47:36+00:00",
-   "summary": "Swift Programming Tutorial - 1 : Variables - تعلم لغة سويفت بالعربي YouTube",
+   "summary": "Swift Programming Tutorial - 1 : Variables - تعلم لغة سويفت بالعربي youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تكرار التطبيقات على الآيفون والآيباد بدون الحاجه الى برامج خارجيه",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Q2pVY09LNHFHMVdqTUFaSmdNeGlTd253b3libC1PX3ZQc25WMjdZRUh4TnpzWXMwWks3eXVwY3llV2ZuVUw2aFpZVUNseDJqQlhfdVBn?oc=5",
    "date": "2021-09-21T16:28:10+00:00",
-   "summary": "تكرار التطبيقات على الآيفون والآيباد بدون الحاجه الى برامج خارجيه YouTube",
+   "summary": "تكرار التطبيقات على الآيفون والآيباد بدون الحاجه الى برامج خارجيه youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1574,54 +1624,44 @@
    "lang": "en"
   },
   {
-   "title": "Combine Framework FREE course: write you first iOS app - use Subscriptions & Publishers like Subject",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBObmRrQnYxR1VkZHNOU29oWXJoMGJITkY4dzllOTFEODlnRjB5Z3JsaDVRRWJSU1hFaUxmX1hQVTdMbmVTVFQ1SGREM3FQbTZraTFhcDJ3?oc=5",
-   "date": "2021-03-13T08:00:07+00:00",
-   "summary": "Combine Framework FREE course: write you first iOS app - use Subscriptions & Publishers like Subject YouTube",
+   "title": "سوزوكى سويفت من الداخل 2021- suzuki swift 2021",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKSmY2cjJDdVM3VHd1UzZRZWxydm5aMzVsdm1oVDR3OWlqMm10UjdNTXY2ZlNqN0JkeTAyMVp3VUxPOUxIMkxWalZwblUydkJGSVM4OEhR?oc=5",
+   "date": "2021-04-26T17:00:02+00:00",
+   "summary": "سوزوكى سويفت من الداخل 2021- suzuki swift 2021 youtube.com",
    "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "sourceId": "ar-yt",
+   "source": "youtube.com",
+   "lang": "ar"
   },
   {
    "title": "2. أساسيات لغة سويفت Swift | لغة السويفت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsQmxvYnptYTJ5RUxCZkNDc1hGeUxBbmpfSVhSUmxBc0diOUcwZU12d0FPUFhFZlhkT1hXLXdWbEJoZnh5Y3FYVVhRd2dZeTZ0SHV0OTFn?oc=5",
    "date": "2021-02-15T06:59:02+00:00",
-   "summary": "2. أساسيات لغة سويفت Swift | لغة السويفت YouTube",
+   "summary": "2. أساسيات لغة سويفت Swift | لغة السويفت youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح عبوات سوائل السياره وتنظيف فلتر الهواء ديزاير & سويفت من 2018 إلي 2021",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95d055TjBmTW5EcWlRb284REJYNmNDMDhoQ0VNV2ZlVFJaMVVTUlMtWTctNlA1LS1IajJuY0cwMWw0bGtrWHB3NTRYWHpHemVrVkdyX3NB?oc=5",
    "date": "2021-02-12T17:57:14+00:00",
-   "summary": "شرح عبوات سوائل السياره وتنظيف فلتر الهواء ديزاير & سويفت من 2018 إلي 2021 YouTube",
+   "summary": "شرح عبوات سوائل السياره وتنظيف فلتر الهواء ديزاير & سويفت من 2018 إلي 2021 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تجربة فتيس سوزوكي ديزاير وسويفت من 2018 : 2021",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMUtJMUpNVFZyaHNTQVhmTlBrLWUzZTRfdnExR2JDeGpVLXRMV2hPcjFWWV82QUtISW1wb05aNUJNRGxUcHVlYnRQUXQ3d0JmQlE?oc=5",
    "date": "2021-02-10T08:00:00+00:00",
-   "summary": "تجربة فتيس سوزوكي ديزاير وسويفت من 2018 : 2021 YouTube",
+   "summary": "تجربة فتيس سوزوكي ديزاير وسويفت من 2018 : 2021 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
-  },
-  {
-   "title": "Learn SwiftUI online for FREE | Bootcamp #0",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZdDFIcHlCV3BzYlFvRlRJNUlLOHJBZWdLOHVJU1BWMFJkUzl0WFU3Umc2WnloZ09yNmdQTGVSdm5iYXZ0cURmbWx0eURCWEdSM1cwWTJn?oc=5",
-   "date": "2021-02-03T18:33:05+00:00",
-   "summary": "Learn SwiftUI online for FREE | Bootcamp #0 YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "سوزوكي جيمني 2021 Suzuki Jimny بالينو سويفت سياز | JOOAUTOMOBILE",
@@ -1637,110 +1677,110 @@
    "title": "ناقل الحركة | Suzuki Swift سوزوكي سويفت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lZEZOX0lOVXZGSGVFc3plbVV4TTE0bzMxODlQb24tOVNfM3FwWnJXRG5rTUJpb09MeG14ZzBScFVvaFpWNEtPbXFhOGF4RHB3ZjlpWVN3?oc=5",
    "date": "2020-09-20T13:20:04+00:00",
-   "summary": "ناقل الحركة | Suzuki Swift سوزوكي سويفت YouTube",
+   "summary": "ناقل الحركة | Suzuki Swift سوزوكي سويفت youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح خطوات تحديث الايفون IOS 14",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yaDYzTG9kQTRBMllTZFpjR3JzRnZHN1ZLMHNzc1dpLThwZlFSR2FvOEF4TU1nTnh6cng1RTZ5UVBnUU1UenNaTDdkbUhNdE5PTlBkeS1B?oc=5",
    "date": "2020-09-09T06:30:01+00:00",
-   "summary": "شرح خطوات تحديث الايفون IOS 14 YouTube",
+   "summary": "شرح خطوات تحديث الايفون IOS 14 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "برمجة تطبيقات الآيفون - بناء اول تطبيق ايفون Hello World",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtenFoX09YT09xSUFycHk0R0Z5RENQOGROZUNXTG9ubGlRcUF4NWVOeU9PLTdBWWFxamNqS0RjLVZ3Y1BtdllVbVlCTGxST3ZjQ0JLdkdn?oc=5",
    "date": "2020-07-24T12:58:54+00:00",
-   "summary": "برمجة تطبيقات الآيفون - بناء اول تطبيق ايفون Hello World YouTube",
+   "summary": "برمجة تطبيقات الآيفون - بناء اول تطبيق ايفون Hello World youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "برمجة تطبيقات الآيفون - التعرف على بيئة عمل Xcode",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKUWEtcVV1ejg0clZxNXM1dE9DdE5UNGhSSGg2LW84UDRTRS01b25vdU5RVmFXOFotU0FYM3Exck03QUVjRWF4UEZxOUluYVhEaHI5enB3?oc=5",
    "date": "2020-07-24T12:58:39+00:00",
-   "summary": "برمجة تطبيقات الآيفون - التعرف على بيئة عمل Xcode YouTube",
+   "summary": "برمجة تطبيقات الآيفون - التعرف على بيئة عمل Xcode youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "Swift & Xcode | دورة برمجة تطبيقات الايفون باستخدام لغة سويفت",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRXhLbmlJWjREU0pTbFcyTnBvOVdER2JmeWxEN0pSTWxldnJvajFOcXR6QnNuaS1LOUVLYXpyb3pYQnRDeGdOaUd1QjBERDg4OWZHbHNIOXdTeXNzZlNJM1RTRnRvSmFzb0FwT2pzN1J2cVdVSEt1SF80V3k?oc=5",
    "date": "2020-05-07T19:18:13+00:00",
-   "summary": "Swift & Xcode | دورة برمجة تطبيقات الايفون باستخدام لغة سويفت YouTube",
+   "summary": "Swift & Xcode | دورة برمجة تطبيقات الايفون باستخدام لغة سويفت youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح الإكس كود Xcode 11 و الإختصارات | Swift5",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CSUJxRUR4bi1LcGhpYk1IeHhsd3UtZkhpM3p0ckhNaVdWMl96Yl9xbzZYRUQxelFMUERaVGk3VF9TYnVHSG5DdmROYWFYcHBaMUJ1Q3JB?oc=5",
    "date": "2020-04-08T21:18:24+00:00",
-   "summary": "شرح الإكس كود Xcode 11 و الإختصارات | Swift5 YouTube",
+   "summary": "شرح الإكس كود Xcode 11 و الإختصارات | Swift5 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "اساسيات برمجة تطبيقات الايفون ios بلغة swift",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sWjd2UHFaNURkdjNnbjFaVzJ0ZFBXNDBoUkxJTVVielViQ3ZBNVRHX3FvTWRFbTNQUm9la0w0bVNXUURJaTk1aTRyRDg0NU1tUGl0ZWtB?oc=5",
    "date": "2019-08-05T11:26:42+00:00",
-   "summary": "اساسيات برمجة تطبيقات الايفون ios بلغة swift YouTube",
+   "summary": "اساسيات برمجة تطبيقات الايفون ios بلغة swift youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "20 المستوي الثاني إنشاء أول تطبيق على أكس كود Create your first iOS app on XCode",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54WDFjZmZOZUh5R29ZVGZWUWROd0d1ajBEZThIX1BlQ1hXLWFEdENpSDJWRTVWM3A2V0tLcVFjXzFUc3YzSm1qZUhFMEh3UXlCeGFoSUhB?oc=5",
    "date": "2019-05-08T12:45:16+00:00",
-   "summary": "20 المستوي الثاني إنشاء أول تطبيق على أكس كود Create your first iOS app on XCode YouTube",
+   "summary": "20 المستوي الثاني إنشاء أول تطبيق على أكس كود Create your first iOS app on XCode youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح برمجة تطبيقات الايفون IOS -التدريب علي ادوات Xamarin IOS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEYUpSaGo2MGlKOXg1b0ZBX2hkbG50bDU0aU5mZlB1TktDa25LbzhuMFhDNGlOZXMyVGJzNzNsTWlvRnZBTEh4YnFiYlhKdjVia1ZYODNR?oc=5",
    "date": "2018-10-17T12:05:56+00:00",
-   "summary": "شرح برمجة تطبيقات الايفون IOS -التدريب علي ادوات Xamarin IOS YouTube",
+   "summary": "شرح برمجة تطبيقات الايفون IOS -التدريب علي ادوات Xamarin IOS youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح واجهة Xcode و طريقة التعامل مع واجهة المستخدم | مهم للمتبدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HZzlpenpzTmE3bnQ5blVLLTZ1WWpZcUE5aThJcDVxcmtBdTB0NVQzQlBObHRvQjJoMUpBYzQwN0hSeEl1UG1aY01XZ1NRVHNuMjhwd293?oc=5",
    "date": "2018-07-04T16:34:15+00:00",
-   "summary": "شرح واجهة Xcode و طريقة التعامل مع واجهة المستخدم | مهم للمتبدئين YouTube",
+   "summary": "شرح واجهة Xcode و طريقة التعامل مع واجهة المستخدم | مهم للمتبدئين youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "قم بتحميل Xcode 8 للبرمجة بلغة سويفت لتطوير تطبيقات الايفون Swift",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QeHc3VW9Qb1BQaHBrOElJaXhrTVBMTkFlVG5TTmNnUFZpWnFMVTVzeGxEZERkM1M3U0pMNXRuSG43c3R4QnNrTHFiTUNpOEVKSjFtOXdB?oc=5",
    "date": "2018-02-20T12:31:41+00:00",
-   "summary": "قم بتحميل Xcode 8 للبرمجة بلغة سويفت لتطوير تطبيقات الايفون Swift YouTube",
+   "summary": "قم بتحميل Xcode 8 للبرمجة بلغة سويفت لتطوير تطبيقات الايفون Swift youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1757,50 +1797,50 @@
    "title": "كيف ترفع تطبيقك لمتجر ابل ستور في 21 خطوة App Store",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUnJxUno2RlFzSmNrRVQyYVlieUFsSkFfbjRTY3BXU2VVN0ljb3BUTmtWMGtmQ292TjZmSU5LVVI4UERrc0lMb3BUYUFFM09NampHbld3?oc=5",
    "date": "2016-09-23T16:52:16+00:00",
-   "summary": "كيف ترفع تطبيقك لمتجر ابل ستور في 21 خطوة App Store YouTube",
+   "summary": "كيف ترفع تطبيقك لمتجر ابل ستور في 21 خطوة App Store youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "كتابة اول كود بلغة سويفت 3 write some code - ح8",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kY2pDTHVqNTJwaUNxVEh6ekg2dWk2MU5aNkhVZ0pDUUl1MS1iZ2hCUFRMUnJicV9zYUhMVTNGeGw5b2lHYkRUaDVTWFdsckpxbHcxek5R?oc=5",
    "date": "2016-08-13T08:00:01+00:00",
-   "summary": "كتابة اول كود بلغة سويفت 3 write some code - ح8 YouTube",
+   "summary": "كتابة اول كود بلغة سويفت 3 write some code - ح8 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "مقدمة الى البلاي جرواند ولغة سويفت 3 Playground - باستخدام ويندوز او ماك - ح1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00b3o0OTEtTXA1bG9aM05fSEE2bVFpOTZ1dUswdW1EMUZfNndjRER6WEhZLTVhWnpBTWFJajc4S3psU2Z1UTVadGJ6OXFnYzRCWUpzd0VR?oc=5",
    "date": "2016-08-06T14:41:13+00:00",
-   "summary": "مقدمة الى البلاي جرواند ولغة سويفت 3 Playground - باستخدام ويندوز او ماك - ح1 YouTube",
+   "summary": "مقدمة الى البلاي جرواند ولغة سويفت 3 Playground - باستخدام ويندوز او ماك - ح1 youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "برمجة تطبيقات الايفون 2: playground بلغة سويفت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JczlfRi1HQkFGdV9GODQ1OUFSWndzMVBOb3lES2VSdzljV2tIMHpDcnpwOXJLeHFVYTBWUFNRd0lGUjB5bm9KS0xvMHRtUTVUWmQ5NDdB?oc=5",
    "date": "2016-07-22T18:14:19+00:00",
-   "summary": "برمجة تطبيقات الايفون 2: playground بلغة سويفت YouTube",
+   "summary": "برمجة تطبيقات الايفون 2: playground بلغة سويفت youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "Swift Programming Tutorials دروس تعلم البرمجة بلغة سويفت",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OUTNMTVJUZXJvWkF0ZDVmVDdPeGZtakxWanhfbGdJekZnZW41S0tWLWt4V0JSUDNQbDJjdkJ4Uzl2NG9aQk1Lb1VRLWJtSFNKYjNUZVhlSEhaS2ZJdkRDNzluM0FteGdIRnpjZi04LWFFY1pDMi1NRVZRb1A?oc=5",
    "date": "2014-08-04T08:16:53+00:00",
-   "summary": "Swift Programming Tutorials دروس تعلم البرمجة بلغة سويفت YouTube",
+   "summary": "Swift Programming Tutorials دروس تعلم البرمجة بلغة سويفت youtube.com",
    "tech": "swift",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   }
  ]

@@ -1,8 +1,188 @@
 {
- "generated": "2026-08-18T04:59:45.600255+00:00",
+ "generated": "2026-08-19T05:00:06.870497+00:00",
  "tech": "kotlin",
- "count": 201,
+ "count": 205,
  "items": [
+  {
+   "title": "Why We Built an All-in-One PDF Toolkit for Android",
+   "url": "https://medium.com/@icorpplaystore/why-we-built-an-all-in-one-pdf-toolkit-for-android-1acb0f1cb961?source=rss------android-5",
+   "date": "2026-08-19T03:10:39+00:00",
+   "summary": "The thinking behind PDF Editor Reader: Toolkit and why we wanted everyday PDF tasks in one mobile app. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Architecting low-power location triggers for Android automation",
+   "url": "https://dev.to/haseebthedev0/architecting-low-power-location-triggers-for-android-automation-maa",
+   "date": "2026-08-19T02:32:58+00:00",
+   "summary": "It happened during a quiet Friday sermon. My phone, tucked deep in my pocket, decided that was the...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Accessible by Platform: How iOS and Android Differ from the Web",
+   "url": "https://dev.to/ashokyadav123/accessible-by-platform-how-ios-and-android-differ-from-the-web-clb",
+   "date": "2026-08-19T02:21:11+00:00",
+   "summary": "The guidelines you know were written for web pages. Native apps borrow their intent and rewrite the...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Android Apps at the Speed of Thought with Android CLI",
+   "url": "https://proandroiddev.com/building-android-apps-at-the-speed-of-thought-with-android-cli-7109c8a2184e?source=rss------android-5",
+   "date": "2026-08-18T21:57:28+00:00",
+   "summary": "Orchestrating an AI Agent Companion using Android Skills without breaking our code architecture Continue reading on ProAndroidDev »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Composition Over Inheritance in Android ViewModels",
+   "url": "https://medium.com/@omarsahl/composition-over-inheritance-in-android-viewmodels-51f3efba5f90?source=rss------android-5",
+   "date": "2026-08-18T21:02:37+00:00",
+   "summary": "Introduction Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Pinco for Android: APK Installation, Updates and Common Setup Issues",
+   "url": "https://medium.com/@daneclark7588/pinco-for-android-apk-installation-updates-and-common-setup-issues-7adab050b68e?source=rss------android-5",
+   "date": "2026-08-18T20:41:47+00:00",
+   "summary": "Pinco for Android: APK Installation, Updates and Common Setup Issues Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Swift Runs on Android.",
+   "url": "https://medium.com/@jacksonfdam/swift-runs-on-android-9c655dd12888?source=rss------android-5",
+   "date": "2026-08-18T20:12:07+00:00",
+   "summary": "I Compiled the Snippet Everyone Says Doesn&#x2019;t. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Week 2 of Shipaton 2026: Pinoy-Made App, Todochi, Enters Public Testing",
+   "url": "https://hackernoon.com/week-2-of-shipaton-2026-pinoy-made-app-todochi-enters-public-testing?source=rss",
+   "date": "2026-08-18T18:17:21+00:00",
+   "summary": "Built for Shipaton 2026, Todochi enters beta as four brothers tackle Android permissions, Google Play testing, TestFlight, and iOS restrictions.",
+   "tech": "kotlin",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Google Home and Nest Went Dark Worldwide Last Night — and the Telling Detail Is That a Factory Reset Wouldn't Have Helped",
+   "url": "https://dev.to/superfunicular/google-home-and-nest-went-dark-worldwide-last-night-and-the-telling-detail-is-that-a-factory-18k2",
+   "date": "2026-08-18T17:58:00+00:00",
+   "summary": "Overnight into August 18, Google Home and Nest devices stopped working in a lot of houses at once....",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Built CatPulse, a Private Offline Cat Care App That Speaks 19 Languages",
+   "url": "https://hackernoon.com/how-i-built-catpulse-a-private-offline-cat-care-app-that-speaks-19-languages?source=rss",
+   "date": "2026-08-18T17:43:08+00:00",
+   "summary": "Shipaton entry CatPulse explores how an offline Android app can organize cat-care records while separating observation from diagnosis.",
+   "tech": "kotlin",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Building a token layer Material 3 actually respects",
+   "url": "https://dev.to/devsnack/building-a-token-layer-material-3-actually-respects-4acl",
+   "date": "2026-08-18T14:58:13+00:00",
+   "summary": "MaterialTheme takes three things: a ColorScheme, a Typography, and a Shapes. Your design system...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The press animation that never plays on a fast tap",
+   "url": "https://dev.to/devsnack/the-press-animation-that-never-plays-on-a-fast-tap-2k8d",
+   "date": "2026-08-18T14:57:17+00:00",
+   "summary": "FormaUI's buttons dip 3% when you press them. It's a small thing — a scale to 0.97 layered over the...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Stream AI Responses in Flutter or React Native",
+   "url": "https://dev.to/daisy_grace_fd7238b6b4974/how-to-stream-ai-responses-in-flutter-or-react-native-177h",
+   "date": "2026-08-18T12:03:05+00:00",
+   "summary": "AI applications feel slow when they display nothing while waiting for a model to generate an entire...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "One Letter Broke Four Toolchains. A Symlink Didn't Fix It.",
+   "url": "https://dev.to/onurkesim/one-letter-broke-four-toolchains-a-symlink-didnt-fix-it-3290",
+   "date": "2026-08-18T08:51:41+00:00",
+   "summary": "Three Sessions, Four Broken Toolchains   When configuring an automated coding assistant or...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What to do when a Google Play closed test counter resets",
+   "url": "https://dev.to/devconnect/what-to-do-when-a-google-play-closed-test-counter-resets-37p",
+   "date": "2026-08-18T08:15:05+00:00",
+   "summary": "Short answer: Do not restart blindly. Keep one closed test running, make sure 12 testers stay opted...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Do Google Play policy deadlines require app registration now?",
+   "url": "https://dev.to/devconnect/do-google-play-policy-deadlines-require-app-registration-now-3g97",
+   "date": "2026-08-18T08:15:04+00:00",
+   "summary": "Short answer: Yes. Google Play now has a separate app registration deadline, and unregistered Play...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kotlin Coroutines Explained: From `suspend` to Structured Concurrency",
+   "url": "https://dev.to/synfinity-dynamics-pvt-ltd/kotlin-coroutines-explained-from-suspend-to-structured-concurrency-3nml",
+   "date": "2026-08-18T07:26:49+00:00",
+   "summary": "If you've written Kotlin for any length of time, you've bumped into coroutines. Maybe you copy-pasted...",
+   "points": 5,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "SimpleDownloader - an Android downloader manager library designed to simplify complex file downloading behind a simple API",
    "url": "https://dev.to/simpledownloader/simpledownloader-an-android-downloader-manager-library-designed-to-simplify-complex-file-3hpl",
@@ -314,17 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "What Happens When an Android App Is Rebranded Without Changing Its Package Name?",
-   "url": "https://dev.to/tsaeru_norek_5ced3b58b781/what-happens-when-an-android-app-is-rebranded-without-changing-its-package-name-4405",
-   "date": "2026-08-16T16:52:56+00:00",
-   "summary": "Rebranding an Android application sounds simple at first.  Change the app name, update the icon,...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Migrate Android Architecture One Decision at a Time",
    "url": "https://medium.com/@gsrajeni/migrate-android-architecture-one-decision-at-a-time-6480b0000a5c?source=rss------android-5",
    "date": "2026-08-16T16:25:43+00:00",
@@ -345,47 +514,6 @@
    "lang": "en"
   },
   {
-   "title": "[Android — SP.2] — Securenotes Write-Up",
-   "url": "https://medium.com/@pat.sanitjairak/android-sp-2-secureno-write-up-e244e33bb816?source=rss------android-5",
-   "date": "2026-08-16T16:08:02+00:00",
-   "summary": "How insecure ContentProvider implementation can lead to data exfiltration Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "APK vs Google Play: Different Ways to Install Android Apps",
-   "url": "https://medium.com/@maasiliy21/apk-vs-google-play-different-ways-to-install-android-apps-1a806b25c364?source=rss------android-5",
-   "date": "2026-08-16T15:45:34+00:00",
-   "summary": "APK vs Google Play: Different Ways to Install Android Apps Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Two Phones, One Interface: An RPC Framework for Android Device-to-Device",
-   "url": "https://medium.com/@donlyconanpc/two-phones-one-interface-an-rpc-framework-for-android-device-to-device-f7a86de7091b?source=rss------android-5",
-   "date": "2026-08-16T14:41:09+00:00",
-   "summary": "Introducing a Kotlin framework that turns BLE, Bluetooth Classic, and local Wi-Fi into a single typed service call &#x2014; and is honest about&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Firefox para iOS bloquea anuncios con la Content Blocker API de Apple",
-   "url": "https://dev.to/lu1tr0n/firefox-para-ios-bloquea-anuncios-con-la-content-blocker-api-de-apple-3d05",
-   "date": "2026-08-16T14:23:15+00:00",
-   "summary": "Firefox para iOS bloquea anuncios y rastreadores con la Content Blocker API de Apple, la misma tecnología de Safari, aplicada con reglas JSON procesad",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "171 Blog Posts To Learn About Kotlin",
    "url": "https://hackernoon.com/171-blog-posts-to-learn-about-kotlin?source=rss",
    "date": "2026-08-16T14:00:03+00:00",
@@ -393,114 +521,6 @@
    "tech": "kotlin",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "USB First: A Faster Way to Debug Android Mirroring on macOS",
-   "url": "https://dev.to/laicaiapp/usb-first-a-faster-way-to-debug-android-mirroring-on-macos-1opi",
-   "date": "2026-08-16T09:45:36+00:00",
-   "summary": "The fastest way to debug Android mirroring on a Mac is not to start wirelessly. Start with the...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Paying 30 dollars for 12 Google Play testers, or trading with someone who needs the same thing",
-   "url": "https://dev.to/devconnect/paying-30-dollars-for-12-google-play-testers-or-trading-with-someone-who-needs-the-same-thing-2n5b",
-   "date": "2026-08-16T08:15:03+00:00",
-   "summary": "If your Play developer account is newer than 13 November 2023, you need 12 testers opted in for 14...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Marble Sudoku World TOP-10 🌍 16.08.2026",
-   "url": "https://dev.to/lumaplay/marble-sudoku-world-top-10-16082026-47ho",
-   "date": "2026-08-16T07:23:31+00:00",
-   "summary": "Marble Sudoku World TOP-10 🌍 16.08.2026 1. 🇺🇸 Sara - 1565252 2. 🇷🇺 Opy - 1117318 3. 🇩🇪 #8344 - 1031615 4. 🇦🇹 #9426 - 719950 5. 🇨🇺 #0928 - 440848 6. 🇩🇪 #7238 - 2",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "\"Local-Only\" Is Not the Same as \"Private\": The LAN Threat Model for a Phone-as-Camera Server",
-   "url": "https://dev.to/superfunicular/local-only-is-not-the-same-as-private-the-lan-threat-model-for-a-phone-as-camera-server-4jpi",
-   "date": "2026-08-16T07:07:40+00:00",
-   "summary": "Short answer: \"Local-only\" means your video never leaves your network. It does not automatically...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Android’s Walled Garden: Google’s Developer Verification Lockdown That Changes Everything",
-   "url": "https://dev.to/ezhil_sivarajsr/androids-walled-garden-googles-developer-verification-lockdown-that-changes-everything-27po",
-   "date": "2026-08-16T06:45:31+00:00",
-   "summary": "1. What Is Android Developer Verification and Why Google Introduced It   In August 2025,...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Make Android Dependencies Point Toward Decisions",
-   "url": "https://medium.com/@gsrajeni/make-android-dependencies-point-toward-decisions-ad0657d5f56e?source=rss------android-5",
-   "date": "2026-08-16T03:08:55+00:00",
-   "summary": "Packages can look tidy while product rules still leak into screens, API clients, and database code. A dependency review should follow the&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Get iOS Style Widgets on Android",
-   "url": "https://praveenah.medium.com/how-to-get-ios-style-widgets-on-android-0a5163097d8b?source=rss------android-5",
-   "date": "2026-08-16T02:01:04+00:00",
-   "summary": "One of the biggest strengths of Android has been its customizability. iPhone users have slowly been provided more personalization options&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Architecting a Low-Power Geofencing Engine for Android Background Services",
-   "url": "https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0",
-   "date": "2026-08-16T00:04:26+00:00",
-   "summary": "Opening hook   It happened during a quiet Friday Jumu'ah prayer. The imam had just reached...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Mathastic Twice: One Math Puzzle Game, Two Native Architectures",
-   "url": "https://dev.to/tapadyutichatterjee/building-mathastic-twice-one-math-puzzle-game-two-native-architectures-1og6",
-   "date": "2026-08-15T23:29:23+00:00",
-   "summary": "I recently released Mathastic, a fast-paced math puzzle game for iOS and Android.  I’m Tapadyuti...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The download button that silently did nothing on mobile",
-   "url": "https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k",
-   "date": "2026-08-15T17:38:15+00:00",
-   "summary": "For about a year, the save button in my collage editor did nothing on phones. Not \"threw an error.\"...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -517,30 +537,30 @@
    "title": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FeFpodWJWUGYtLWZhd2tocHVQaTl6aU43dGZicWxCMUo1LXhoaXZZanRUekYtZE5obm1qYlljUEozWUZUMS1SSHNKTGFJUk1uU25UaUpn?oc=5",
    "date": "2026-05-04T18:00:43+00:00",
-   "summary": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS YouTube",
+   "summary": "لأول مرة | تطبيق ( علاء حامد💕 ) المجاني | حمله الآن من متجرك سواء أندرويد أو IOS youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "عمل تطبيق أندرويد بالذكاء الاصطناعي مجانا في 5 دقائق فقط! (بدون برمجة) YouWare",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhRmdKdWRiNGxFemxiZVZoX1BpSzlUUFB4RGVLSXJ0cEVDNkI3MGEwMVV2ajc5V0YteDJfcU1WU194OE9lWFBBUFk3OE9RSEV6dzVZVTl3?oc=5",
    "date": "2026-03-01T13:01:02+00:00",
-   "summary": "عمل تطبيق أندرويد بالذكاء الاصطناعي مجانا في 5 دقائق فقط! (بدون برمجة) YouWare YouTube",
+   "summary": "عمل تطبيق أندرويد بالذكاء الاصطناعي مجانا في 5 دقائق فقط! (بدون برمجة) YouWare youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "ابدأ رحلتك في البرمجة: أسهل طريقة لتثبيت أندرويد ستوديو (Android Studio 2026) 🚀 | Simplife EG",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9reUxmbGw3NDRHd1JJZlozZEpyVmd5enl1bDNnZkNkR1ZhdGdaaGFhQWFMaUFEajJRTDRUYS1YUms2SThUWXQtVWQ4UWxwTUVjaXhrcE9B?oc=5",
    "date": "2026-02-27T04:44:48+00:00",
-   "summary": "ابدأ رحلتك في البرمجة: أسهل طريقة لتثبيت أندرويد ستوديو (Android Studio 2026) 🚀 | Simplife EG YouTube",
+   "summary": "ابدأ رحلتك في البرمجة: أسهل طريقة لتثبيت أندرويد ستوديو (Android Studio 2026) 🚀 | Simplife EG youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -557,10 +577,10 @@
    "title": "كيف بنيت تطبيق أندرويد كامل في 10 دقيقة باستخدام أداة ذكاء اصطناعي واحدة (2026)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRXdQZ28tT3pSaXpPZzROMEV5dXE2Yjg1RjRYSWcwdVJDOEJNMnI1TmlhSnYxZFoybnFtOVNVMzVueEFsU3NVZ0lxRUI0cmFOYW5pTXVn?oc=5",
    "date": "2026-01-12T11:44:08+00:00",
-   "summary": "كيف بنيت تطبيق أندرويد كامل في 10 دقيقة باستخدام أداة ذكاء اصطناعي واحدة (2026) YouTube",
+   "summary": "كيف بنيت تطبيق أندرويد كامل في 10 دقيقة باستخدام أداة ذكاء اصطناعي واحدة (2026) youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -607,20 +627,20 @@
    "title": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93VjJNU0E1RzE1MEtwRW1xZjF1XzBuWUNSWkkwa0R4NHY5N0dMYUc2cS15THdhM3dUd3h4cHhXdmp1OTVoVlNVSDZBcGF1dDhFdDJYZlZR?oc=5",
    "date": "2025-10-11T15:01:35+00:00",
-   "summary": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨ YouTube",
+   "summary": "أنشئ تطبيق موبايل احترافي (Android & iOS) باستخدام Bolt.new V2 وExpo ✨ youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "انشاء تطبيق أندرويد احترافي بدون برمجة من هاتفك مجاناً | باستخدام محرر برمجلي ستوديو #buildapps",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hbndJNEIxX2J0OE9tUl8yRl9YVy1mR0d4VVFOcmFuTnFQZXJsTm9ucFJodHdjdTJ4bGxLamZ1dUcweEVKMHZ2bjB2ZExJMldiTUNIMQ?oc=5",
    "date": "2025-10-10T17:52:09+00:00",
-   "summary": "انشاء تطبيق أندرويد احترافي بدون برمجة من هاتفك مجاناً | باستخدام محرر برمجلي ستوديو #buildapps YouTube",
+   "summary": "انشاء تطبيق أندرويد احترافي بدون برمجة من هاتفك مجاناً | باستخدام محرر برمجلي ستوديو #buildapps youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -647,10 +667,10 @@
    "title": "كورس برمجة تطبيقات أندرويد العملي (07): الانتقال من شاشة الى اخرى + نقل البيانات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rZXFOQjRGeXVWTFI4LUptNC04ajFQTURGbVE4RFNEQ1hMc1d2ckFCS2pyNy1SSU43Z0lrWWNqMFlTanc5RmxlbWRUTi1rb2pELUttX0Rn?oc=5",
    "date": "2025-09-28T19:10:48+00:00",
-   "summary": "كورس برمجة تطبيقات أندرويد العملي (07): الانتقال من شاشة الى اخرى + نقل البيانات YouTube",
+   "summary": "كورس برمجة تطبيقات أندرويد العملي (07): الانتقال من شاشة الى اخرى + نقل البيانات youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -667,40 +687,40 @@
    "title": "كورس برمجة تطبيقات أندرويد العملي (06): ماهو الـ coupling",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbTZvdFlIUVRoSEZMSnJCVEt4NlE2NDJvSEMtU3BjQnZuTUs1VDBWNHkxazRXLUQ2TDgxZXBPTTlwemwyeGlUVzZHejZSV1RHaDBYYnF3?oc=5",
    "date": "2025-09-22T17:17:46+00:00",
-   "summary": "كورس برمجة تطبيقات أندرويد العملي (06): ماهو الـ coupling YouTube",
+   "summary": "كورس برمجة تطبيقات أندرويد العملي (06): ماهو الـ coupling youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRG5EYUhIeFBsdWs3c3FUanI2M1k3UXV3ME9SdTRmOW14OUpSMXJ5bmlYLUhWZ0FKdG9lTWYyQkV6SXl4dGtucVdEb1BhZmZFSXJmX1BR?oc=5",
    "date": "2025-09-20T15:32:27+00:00",
-   "summary": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة YouTube",
+   "summary": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "كورس برمجة تطبيقات أندرويد العملي (01): تهيئة بيئة العمل وبناء التطبيق الأول (إضافة الصور والنص)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xbWo5eEtlOTY1ejlqaWlJWDFIdkExWldlVXRmakg3Wk9zaWxQWFdPbzhabl9QTTU1VENFU2NfeU53eXVwQ1NFZGhYNnJzYmZiU3E5SXV3?oc=5",
    "date": "2025-09-14T19:35:04+00:00",
-   "summary": "كورس برمجة تطبيقات أندرويد العملي (01): تهيئة بيئة العمل وبناء التطبيق الأول (إضافة الصور والنص) YouTube",
+   "summary": "كورس برمجة تطبيقات أندرويد العملي (01): تهيئة بيئة العمل وبناء التطبيق الأول (إضافة الصور والنص) youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NYW5XOTZ6VTVJSjN4d1I4YVNCNlZOc2Q2SjZVRkVVS2JJTnU2N3MyQ0VkNUo0bG1GeEFoNmtsTXRRUDdyeFBNNHV2NjJ4UmNMY2t6M0hR?oc=5",
    "date": "2025-09-01T13:00:06+00:00",
-   "summary": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف YouTube",
+   "summary": "دبلومة تطوير تطبيقات الموبايل | أندرويد و iOS من الصفر للاحتراف youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -717,10 +737,10 @@
    "title": "بدائل برنامج اندرويد ستوديو (3) 😳",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNEpvNDhkTktCYmhIQjE4XzkwSUFfS2lGZG5WcWhoSGZlMHNDd3dkNFdBblhJNy05clVxNzl3SlFuNy1jRUJfTS1peERNZ28teXhsYVlB?oc=5",
    "date": "2025-08-16T14:01:08+00:00",
-   "summary": "بدائل برنامج اندرويد ستوديو (3) 😳 YouTube",
+   "summary": "بدائل برنامج اندرويد ستوديو (3) 😳 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -737,10 +757,10 @@
    "title": "نظرة على أساسيات الكوتلن من دورة الأندرويد الكاملة (الجزء الثاني)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jMGpsaVpCZVVBVGwtLVhCQllFNWxmemlhVnBZRlJyajRuSURkWGRlYzVGLUQ1WHVaT3pPT0ROOWw5MFVJVTlHdmNIMkxzeC02dzJaNURR?oc=5",
    "date": "2025-08-05T15:00:02+00:00",
-   "summary": "نظرة على أساسيات الكوتلن من دورة الأندرويد الكاملة (الجزء الثاني) YouTube",
+   "summary": "نظرة على أساسيات الكوتلن من دورة الأندرويد الكاملة (الجزء الثاني) youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -757,50 +777,50 @@
    "title": "أسرار دورة حياة تطبيقات اندرويد - شرح عملي | Android Application Lifecycle | برمجة تطبيقات اندرويد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3RmlITVBOVC1uWUx2NUtvTkpmeTdSTmRfNmFlZGlFRVZLaDdBWU1SWElsVnBHQzJzSmgzeV9WWXgwQWRSaG1KRXNuZExORTVJanJWbERn?oc=5",
    "date": "2025-07-18T08:00:27+00:00",
-   "summary": "أسرار دورة حياة تطبيقات اندرويد - شرح عملي | Android Application Lifecycle | برمجة تطبيقات اندرويد YouTube",
+   "summary": "أسرار دورة حياة تطبيقات اندرويد - شرح عملي | Android Application Lifecycle | برمجة تطبيقات اندرويد youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "اندرويد ستوديو 2025 - الكورس الكامل | شرح Android Studio | برمجة تطبيقات اندرويد",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWkZhNVAyVHNfWnR0czVCaGtTLVczQ0hXN0I5Q2pvZmRscUExOXVvV2J2TmpKUDNobzF5Mk5GeHlIUS00bVNXdERwZnJRY19DTWhVbkFGQXBsT0NvQ0NyNlV1T1BQcW1aeHA2VzdqNGk1UmtMb1dqM2FyZlA?oc=5",
    "date": "2025-07-17T14:28:46+00:00",
-   "summary": "اندرويد ستوديو 2025 - الكورس الكامل | شرح Android Studio | برمجة تطبيقات اندرويد YouTube",
+   "summary": "اندرويد ستوديو 2025 - الكورس الكامل | شرح Android Studio | برمجة تطبيقات اندرويد youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "كيفية تحميل وتثبيت Android Studio بشكل صحيح 2025 ✅️",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ub3JEWmhISHJSNjQ5djk0dEsydFFFQWUzVTdCQlhWWV9rSXRGV2xuLWk1Nm9fOGNyV09HeDJ1QjQtOHA3d094ZTkwQUNTaWQ5ZHY5Yjl3?oc=5",
    "date": "2025-07-09T11:01:11+00:00",
-   "summary": "كيفية تحميل وتثبيت Android Studio بشكل صحيح 2025 ✅️ YouTube",
+   "summary": "كيفية تحميل وتثبيت Android Studio بشكل صحيح 2025 ✅️ youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "إنشاء تطبيق أندرويد احترافي بالذكاء الاصطناعي – بدون كتابة أي كود! 🤖",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsYV9Bb1ZzY1NfSkl4dHhDQnhRY0QtVmxtSjNiZFpFb2wzc2l4LWZMazVfRG51S3pwQndsUGkyeDItWXdzbW12cmtfWmQ0aTJvRE9OakR3?oc=5",
    "date": "2025-07-02T17:18:48+00:00",
-   "summary": "إنشاء تطبيق أندرويد احترافي بالذكاء الاصطناعي – بدون كتابة أي كود! 🤖 YouTube",
+   "summary": "إنشاء تطبيق أندرويد احترافي بالذكاء الاصطناعي – بدون كتابة أي كود! 🤖 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "كيفية تحويل ملفات html css js إلى تطبيق اندرويد APK (تحميل وتثبيت Cordova)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1azdpRGdjUmtjdEpmRGNNMmprVG0tNWFqZmluMUNiOE94SGozeEZvMnB2M3pBWXI3R3dodDQ3LVNvNF9YWktqcVhIUWVHSElIR3MwYm5R?oc=5",
    "date": "2025-06-23T10:25:31+00:00",
-   "summary": "كيفية تحويل ملفات html css js إلى تطبيق اندرويد APK (تحميل وتثبيت Cordova) YouTube",
+   "summary": "كيفية تحويل ملفات html css js إلى تطبيق اندرويد APK (تحميل وتثبيت Cordova) youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -827,20 +847,20 @@
    "title": "حول سيارتك 🚘 القديمة إلى ذكية مع شاشة 📱 أندرويد مذهلة!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LemEyd1RuSEswOVlSa20wYlhqV04wLU1jdnFYQW8zUWk5NWpFQUEwdnM5blRIdmVEUDd3YkZKMl9jXzE4QUI2TW11eWNmVS1sUy1GS01n?oc=5",
    "date": "2025-06-11T08:16:55+00:00",
-   "summary": "حول سيارتك 🚘 القديمة إلى ذكية مع شاشة 📱 أندرويد مذهلة! YouTube",
+   "summary": "حول سيارتك 🚘 القديمة إلى ذكية مع شاشة 📱 أندرويد مذهلة! youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "أفضل مشغّل فيديو لأجهزة أندرويد لبثّ محتواك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fdGJnd2VGUWRmbnRWa0E3ZWotRWtKbURXeEstaWl0WWZUYXFCdmtCMzhDZVRWQjJiTXFlMEk0RVhvRE1Fd2tlZWRVRWxJVVZlYnNfUWlB?oc=5",
    "date": "2025-05-30T14:20:09+00:00",
-   "summary": "أفضل مشغّل فيديو لأجهزة أندرويد لبثّ محتواك YouTube",
+   "summary": "أفضل مشغّل فيديو لأجهزة أندرويد لبثّ محتواك youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -877,10 +897,10 @@
    "title": "Kotlin vs Flutter🔶| احترف كوتلن وفلاتر: المبرمج الأسطورة - أحمد عادل | بودكاست كلام في البرمجة (31)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xX0FWQ2kwSzc1SmdSQVd5NVUtUjBWLXJET1Vwa3RyTzNmMFZsMnJBc0RHdEFHVHNHc2V6bmJMb3pWZ2ZEaEhHZTBkLXZ6aGhKSHpGZW1n?oc=5",
    "date": "2025-05-10T13:13:00+00:00",
-   "summary": "Kotlin vs Flutter🔶| احترف كوتلن وفلاتر: المبرمج الأسطورة - أحمد عادل | بودكاست كلام في البرمجة (31) YouTube",
+   "summary": "Kotlin vs Flutter🔶| احترف كوتلن وفلاتر: المبرمج الأسطورة - أحمد عادل | بودكاست كلام في البرمجة (31) youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -897,20 +917,20 @@
    "title": "جهاز الكاشير (بنظام تشغيل أندرويد)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TaTMxRmN6MWIxc0R3eWlVV0lHODNfRW8zQm91aGFmazdfVzZnZzhzbDh0UnhyV2pRWjc5Q25NWEZOd292T3EyY3d2dzh5Z2x0ZDNTbll3?oc=5",
    "date": "2025-04-21T11:34:45+00:00",
-   "summary": "جهاز الكاشير (بنظام تشغيل أندرويد) YouTube",
+   "summary": "جهاز الكاشير (بنظام تشغيل أندرويد) youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "المحاضرة الخامسة | تشغيل محاكي أندرويد بدون أندرويد ستوديو – الطريقة الأسرع والأنسب للمطورين!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tVXBxbjU3UDNlT2VjREttXzlfVXhFT2k5WnVKT2ZRbmNxNlFvbTZUS3B5ZXczQ0tKZjFKTzZYcU5YdjJ4LUZfeDd1a3duU1VnLXVmeEdB?oc=5",
    "date": "2025-04-11T22:46:06+00:00",
-   "summary": "المحاضرة الخامسة | تشغيل محاكي أندرويد بدون أندرويد ستوديو – الطريقة الأسرع والأنسب للمطورين! YouTube",
+   "summary": "المحاضرة الخامسة | تشغيل محاكي أندرويد بدون أندرويد ستوديو – الطريقة الأسرع والأنسب للمطورين! youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -967,20 +987,20 @@
    "title": "كيفية إنشاء تطبيق أندرويد بالذكاء الاصطناعي في 5 دقائق فقط وبدون خبرة في البرمجة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VlAtRnZTQmVPWEVjclV0Q1VTczJlM0VycW1zT0lLRTBuZFVZZ29haS1BQzBVRWpkVkllMVlCc3JXQUVub2I5NVhyaFRJM2JyR0NNWU9R?oc=5",
    "date": "2025-03-23T19:23:20+00:00",
-   "summary": "كيفية إنشاء تطبيق أندرويد بالذكاء الاصطناعي في 5 دقائق فقط وبدون خبرة في البرمجة YouTube",
+   "summary": "كيفية إنشاء تطبيق أندرويد بالذكاء الاصطناعي في 5 دقائق فقط وبدون خبرة في البرمجة youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "إنشاء تطبيق أندرويد بالذكاء الاصطناعي في 5 دقائق فقط وبدون خبرة في البرمجة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lY1J4Q29VWVZYYmNmbGNZZHpOUE9PSGpiTFJuWU1Pb1Q5ZmxPNXFwOEM4cjdNSjA1bGJobkMxbXZfVzlKbG9rODgwQk1RSHNiaHdMTjBB?oc=5",
    "date": "2025-03-22T20:06:14+00:00",
-   "summary": "إنشاء تطبيق أندرويد بالذكاء الاصطناعي في 5 دقائق فقط وبدون خبرة في البرمجة YouTube",
+   "summary": "إنشاء تطبيق أندرويد بالذكاء الاصطناعي في 5 دقائق فقط وبدون خبرة في البرمجة youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1057,30 +1077,30 @@
    "title": "تثبيت نظام اندرويد مدمج بالكامل مع الويندوز + تثبيت برامج الاندرويد من داخل وخارج متجر جوجل ✅",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XYjQtUkw3c2d6WDdaOHByNXRsaEdVZmFqSU9mQ014UVh3Z1U4WFNjWG9Mc1RlRHB4d2hWRDZXSkJXekMzVFdYMC1IVWpXQjZiN1VfMTZ3?oc=5",
    "date": "2024-12-31T18:00:18+00:00",
-   "summary": "تثبيت نظام اندرويد مدمج بالكامل مع الويندوز + تثبيت برامج الاندرويد من داخل وخارج متجر جوجل ✅ YouTube",
+   "summary": "تثبيت نظام اندرويد مدمج بالكامل مع الويندوز + تثبيت برامج الاندرويد من داخل وخارج متجر جوجل ✅ youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "مسار تعلم تطوير تطبيقات أندرويد | Android Developer من الصفر للاحتراف 2025",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LT1lqV1MzN1M1bG1HbXJ1M2VteVZ2bzIyR1EydzZqeWFrNFpPd0tCVG5MMnpVZVVrQ2RBZFZjY3BVN2QxVnFEeWYwT1FGbV95UmFqRjVn?oc=5",
    "date": "2024-12-28T08:00:00+00:00",
-   "summary": "مسار تعلم تطوير تطبيقات أندرويد | Android Developer من الصفر للاحتراف 2025 YouTube",
+   "summary": "مسار تعلم تطوير تطبيقات أندرويد | Android Developer من الصفر للاحتراف 2025 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "ابدأ رحلتك في تطوير اول تطبيق بأ Android Studio! بأستخدام الذكاء الاصطناعي🚀🤖🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xQllLT1NtR1hDTDVnbkdXT0k1MkV4eV9iVkhOWFhacG5WYXg2cEdncG00aWJEZWQzZnZIaTVTblpVWW1oVnVaVllXSHNMZGFLaGhDQVpR?oc=5",
    "date": "2024-12-24T20:28:53+00:00",
-   "summary": "ابدأ رحلتك في تطوير اول تطبيق بأ Android Studio! بأستخدام الذكاء الاصطناعي🚀🤖🔥 YouTube",
+   "summary": "ابدأ رحلتك في تطوير اول تطبيق بأ Android Studio! بأستخدام الذكاء الاصطناعي🚀🤖🔥 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1107,20 +1127,20 @@
    "title": "كيفية تحديث إصدار SDK في أندرويد من 33 إلى 34 | حل مشاكل Kodular update the target API 34 level",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuWFR6TGltWnpuTEtlX3dvMXVMcllCNUd6YjZqTGpGVTZaemFOMW9GQUUxejlHRURPWnV0RWZKSG5DeUV0b2RrWUFWVDFDUFFDd3VuRTVR?oc=5",
    "date": "2024-10-11T19:27:26+00:00",
-   "summary": "كيفية تحديث إصدار SDK في أندرويد من 33 إلى 34 | حل مشاكل Kodular update the target API 34 level YouTube",
+   "summary": "كيفية تحديث إصدار SDK في أندرويد من 33 إلى 34 | حل مشاكل Kodular update the target API 34 level youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "أفضل نظام تشغيل أندرويد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WbmwtR0dLZDktY2t3ZHZDT0lUb2UzZ1pWRmJNU2FUcGRfLUFZMWZpYlZvZndZbVNqVXpKOHQydWxXdTBrN1JrWG8zVTE4ZVNrMmhVYWd3?oc=5",
    "date": "2024-10-06T13:03:20+00:00",
-   "summary": "أفضل نظام تشغيل أندرويد YouTube",
+   "summary": "أفضل نظام تشغيل أندرويد youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1137,10 +1157,10 @@
    "title": "بايثون برمجة تطبيقات موبايل (اندرويد وايفون) - الدرس الاول python flet",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZakRuczc4ZEtHUWE1Z1R0S3dHdWtWU1lCNlBtMFlrQXBpM2Nld2NtRDJJeE9KR1ItYWx2TW9WZDNhWG9ZYU1pM013R0ZoMHN6QnphdGlR?oc=5",
    "date": "2024-09-03T12:37:22+00:00",
-   "summary": "بايثون برمجة تطبيقات موبايل (اندرويد وايفون) - الدرس الاول python flet YouTube",
+   "summary": "بايثون برمجة تطبيقات موبايل (اندرويد وايفون) - الدرس الاول python flet youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1167,40 +1187,40 @@
    "title": "Kotlin Full Course - Everything You Need to Know in 2024",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYZVRBdzVZd3VsaThEZzRvbXFUY1djNDc4dURfV0EwUFBhY1RQUTJINFVRV2xobHIyVDhtUGxYam1IVV8tN1RoQ0tVdnZWUlhuRmFSQTR3?oc=5",
    "date": "2024-07-26T08:04:23+00:00",
-   "summary": "Kotlin Full Course - Everything You Need to Know in 2024 YouTube",
+   "summary": "Kotlin Full Course - Everything You Need to Know in 2024 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "55) كورس برمجة تطبيقات الأندرويد بالكوتلن - quiz app - كيفية اضافة أي مكتبة خارجية لمشروعي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1RWszUXh6Wk9xbG1fRlJHSUVFa3cxOHNuR3Vkc3J2cHFyX3g4TmdaMzctUXNPYVNGQ29RUzdxVmNhQ08xNUNGVThCUXVxZDJZWllpbm5n?oc=5",
    "date": "2024-06-24T12:14:32+00:00",
-   "summary": "55) كورس برمجة تطبيقات الأندرويد بالكوتلن - quiz app - كيفية اضافة أي مكتبة خارجية لمشروعي YouTube",
+   "summary": "55) كورس برمجة تطبيقات الأندرويد بالكوتلن - quiz app - كيفية اضافة أي مكتبة خارجية لمشروعي youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "نظام تشغيل أندرويد الأقوي والأفضل علي الإطلاق😲مكنتش متخيل العظمة دي💻Best Android operating system PC",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BWTIySWtFNW1pWngxSzVIa2hmRmwzT1JON1JmUElIRDE3bWYwbVczQTdpVUJkdXhEVk9LRDNEaUlfUm9DYmR3X1N0eDdPQnZ0d2JmSGJn?oc=5",
    "date": "2024-05-29T07:03:02+00:00",
-   "summary": "نظام تشغيل أندرويد الأقوي والأفضل علي الإطلاق😲مكنتش متخيل العظمة دي💻Best Android operating system PC YouTube",
+   "summary": "نظام تشغيل أندرويد الأقوي والأفضل علي الإطلاق😲مكنتش متخيل العظمة دي💻Best Android operating system PC youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تحميل وتثبيت Android Studio HedgehogوJDK، مع تنزيل ملفات SDK وحل مشاكل ـ SDKوبناء Gradle 12-1-2024",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRElnT25DQ05vY3ZXSzRIRDhNLTdTTktKeVBfbTBjLVVHV2U5N3FZb1V1aWNkaE9OYll3eE1jYURjdE45LUFnLVZKbWZLcDJJdEM1Qm9R?oc=5",
    "date": "2024-03-21T04:57:25+00:00",
-   "summary": "تحميل وتثبيت Android Studio HedgehogوJDK، مع تنزيل ملفات SDK وحل مشاكل ـ SDKوبناء Gradle 12-1-2024 YouTube",
+   "summary": "تحميل وتثبيت Android Studio HedgehogوJDK، مع تنزيل ملفات SDK وحل مشاكل ـ SDKوبناء Gradle 12-1-2024 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1237,10 +1257,20 @@
    "title": "تطبيق تكوين الاعلاف للموبايل أندرويد و أي أو أس I (FEEDAK FORMULA) مهندس فايز الكميلي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85NklzVHI0b2dMaTIyd2xsc1V3SG9yMjFiRTVxZ1YtMkxPYXlEUDJtbm91UUliZkwzVG9qMWJoZng4TG1wUlMxT0RNYVVZQnhHeWRwYlh3?oc=5",
    "date": "2024-02-20T05:56:15+00:00",
-   "summary": "تطبيق تكوين الاعلاف للموبايل أندرويد و أي أو أس I (FEEDAK FORMULA) مهندس فايز الكميلي YouTube",
+   "summary": "تطبيق تكوين الاعلاف للموبايل أندرويد و أي أو أس I (FEEDAK FORMULA) مهندس فايز الكميلي youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
+   "lang": "ar"
+  },
+  {
+   "title": "53) كورس برمجة تطبيقات الأندرويد بالكوتلن - View Binding - 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBZDZNd0xlQTJuUXJqTDRDbUlkTlFVWE52WXJsMXNmYUt5SHRUalZQbDkweGZSWEF5RmhINFJVQ0QtNzdhRWJDNlE0NklvZDhMT2hraEVB?oc=5",
+   "date": "2024-02-01T16:52:11+00:00",
+   "summary": "53) كورس برمجة تطبيقات الأندرويد بالكوتلن - View Binding - 1 youtube.com",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1277,11 +1307,21 @@
    "title": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو تعلم برمجة تطبيقات الموبايل Flutter install",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lYlJhVEFKNkFtNW1XcTZLSHhTazRPZlVkVi1QY1FSOEJNZzBKSHFJZWhqcjZFTjY5bXNXTUpDcXpPajQtTmtjdklfSTdTb3ZUNEtQOGFn?oc=5",
    "date": "2023-11-03T16:37:39+00:00",
-   "summary": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو تعلم برمجة تطبيقات الموبايل Flutter install YouTube",
+   "summary": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو تعلم برمجة تطبيقات الموبايل Flutter install youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
+  },
+  {
+   "title": "Kotlin Programming Full Tutorial with Android Development Project | Android Studio | @SCALER",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OQlotUDRlaGlZeUZTTUhaWUd1TDFhTHc4WTB4OWphTUM1cFJmd05XTVlvQm0xZk1HQl9WQ1N2MFlVZmxSbG5LdlhoYU9iYklmTTMwLWpn?oc=5",
+   "date": "2023-10-31T06:00:11+00:00",
+   "summary": "Kotlin Programming Full Tutorial with Android Development Project | Android Studio | @SCALER YouTube",
+   "tech": "kotlin",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "🔥Full Kotlin Course | Complete Kotlin Course in one video | Master Kotlin in one video",
@@ -1317,10 +1357,10 @@
    "title": "كورس برمجة تطبيقات الأندرويد 07 - تصميم صفحة login وsign up و ربطها بال firebase",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13X1VFZk93LVhwdTdRWXpSMWt2TVdDdnZpQmhJaTJnRlczUmlORkk3RkotLWRSVUdDVUFtR0JVcGx2YWRwdFY1emFhb1lfdnY4dGt6ckdR?oc=5",
    "date": "2023-09-27T16:16:52+00:00",
-   "summary": "كورس برمجة تطبيقات الأندرويد 07 - تصميم صفحة login وsign up و ربطها بال firebase YouTube",
+   "summary": "كورس برمجة تطبيقات الأندرويد 07 - تصميم صفحة login وsign up و ربطها بال firebase youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1407,10 +1447,10 @@
    "title": "Kotlin basic programming language in Arabic شرح لغة كوتلن بالعربي",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnU1E3QlpDR3NkejVmc0VweFFvQ051Z0dZb1FuUzRTYTVhMnBOZ2pvNlNkSVNmdmFpdFVDNWRST25MQlVDZnd5dXRQc3RqYm41RXg0ZHBCbHd5eXNRQVhueWpRNkFDdUdZRlk5NTRFYnd0ci14Z0FJNDQ0SlQ?oc=5",
    "date": "2023-06-29T21:54:26+00:00",
-   "summary": "Kotlin basic programming language in Arabic شرح لغة كوتلن بالعربي YouTube",
+   "summary": "Kotlin basic programming language in Arabic شرح لغة كوتلن بالعربي youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1467,10 +1507,10 @@
    "title": "طريقه تثبيت أندرويد 13 لهواتف سامسونج التي لم تصل اليها التحديثات ⚠️ تحديث Samsung واجهه ONE UI 5.0",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OWkdDVXRUaHJ2OENGQUVfam9KRC12eFZ1bE53dlBVX3FoMFVWUTFMdU9vWmZFWFB0Y1J1bHF4em5ubDBMcF9hWjdCRHhaSEJoQUZNQUpn?oc=5",
    "date": "2022-12-23T15:00:11+00:00",
-   "summary": "طريقه تثبيت أندرويد 13 لهواتف سامسونج التي لم تصل اليها التحديثات ⚠️ تحديث Samsung واجهه ONE UI 5.0 YouTube",
+   "summary": "طريقه تثبيت أندرويد 13 لهواتف سامسونج التي لم تصل اليها التحديثات ⚠️ تحديث Samsung واجهه ONE UI 5.0 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1487,10 +1527,10 @@
    "title": "تركيب وتثبيت روم سوفت ووير سريع وسلسل معدل ومطور أندرويد عالي وحديث لجميع الأجهزة القديمة مضمون 100%",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yYTlYallpTlhwS0NYaGNXOFJiRC1sX0JFLTNHS2FZdExETXl2S2NKVDlFZUVxelNUVTBZa1FEcmdCbUMwSE0wVkhuaFdnN1k2TE1XNDhR?oc=5",
    "date": "2022-11-30T11:30:05+00:00",
-   "summary": "تركيب وتثبيت روم سوفت ووير سريع وسلسل معدل ومطور أندرويد عالي وحديث لجميع الأجهزة القديمة مضمون 100% YouTube",
+   "summary": "تركيب وتثبيت روم سوفت ووير سريع وسلسل معدل ومطور أندرويد عالي وحديث لجميع الأجهزة القديمة مضمون 100% youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1517,30 +1557,30 @@
    "title": "كورس اساسيات لغة البرمجة كوتلن Kotlin 🔥حصري مع jetbrains fleet",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lUnBUNnh0V0pRYWQ1dW5jVGRTX3Q0bEtEbGFvQzJzN1kxV2dSZ2RKdUxadGlzbkhWN0ZwVFJFRENIcGF4d2FCcTNxOWNjYkdEbUpESHpR?oc=5",
    "date": "2022-10-19T17:17:33+00:00",
-   "summary": "كورس اساسيات لغة البرمجة كوتلن Kotlin 🔥حصري مع jetbrains fleet YouTube",
+   "summary": "كورس اساسيات لغة البرمجة كوتلن Kotlin 🔥حصري مع jetbrains fleet youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "Kotlin Crash Course in one video | شرح لغة كوتلن في فيديو واحد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJVWVMa2luRGFxbjdiaTUwYnZMNm1zN2RIUHlIdjBoU0ZqM09GZS1DOS1jY1dlOUlDbkR6cjNWUEFqT0h4anlUa0RrV0RZNWJCcnQ2REF3?oc=5",
    "date": "2022-08-07T10:00:15+00:00",
-   "summary": "Kotlin Crash Course in one video | شرح لغة كوتلن في فيديو واحد YouTube",
+   "summary": "Kotlin Crash Course in one video | شرح لغة كوتلن في فيديو واحد youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "50) كورس برمجة تطبيقات الأندرويد بالكوتلن - دورة حياة الاكتفيتي - activity life cycle",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80c0wyTXFaMFNBdzh6NXlGOFYwRVNseU9oNkNLS1RGZkdDcWF2cFVFaUZQa2ZQblYzdEdMS1FCQS1sMU95S052eThtaWdaR29xS1lFVU53?oc=5",
    "date": "2022-08-03T18:06:31+00:00",
-   "summary": "50) كورس برمجة تطبيقات الأندرويد بالكوتلن - دورة حياة الاكتفيتي - activity life cycle YouTube",
+   "summary": "50) كورس برمجة تطبيقات الأندرويد بالكوتلن - دورة حياة الاكتفيتي - activity life cycle youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1647,20 +1687,20 @@
    "title": "مشروع لعبة اكس او على اندرويد استديو | Build a TicTacToe Game",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ta0dXd1hzYTlCZDlDUkJyam1jZ3lySnREemg2UFR5YVcySHZnMHQ5aXdWcnRsWHNVLWFUaEN6TGlUSGxOa1VDaTNidHZxMjJmdXFJTU9R?oc=5",
    "date": "2022-03-26T08:37:10+00:00",
-   "summary": "مشروع لعبة اكس او على اندرويد استديو | Build a TicTacToe Game YouTube",
+   "summary": "مشروع لعبة اكس او على اندرويد استديو | Build a TicTacToe Game youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "34) كورس برمجة تطبيقات الأندرويد بالكوتلن - all about menus in android",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aSjBQMXNnRWV0LVRESmZ3d3I5d0VWaGluUHZIMG5TZEw3QS1wVFF1bTY0Zl9RWXFnLVh5YlozVWxmbHRlSjR3MGFIRjBRQTdtMFo2R2dR?oc=5",
    "date": "2022-03-25T17:20:13+00:00",
-   "summary": "34) كورس برمجة تطبيقات الأندرويد بالكوتلن - all about menus in android YouTube",
+   "summary": "34) كورس برمجة تطبيقات الأندرويد بالكوتلن - all about menus in android youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1677,10 +1717,10 @@
    "title": "33) تعلم أهم أساسيات برمجة الأندرويد بكل سهولة (مشروع كامل بسيط ) 😎",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OVFpdjczS1VWQlYzd0NyNEdtNVB6WkdINFNkN3FnemxEVXVrY0YtSGMycEVyRTFUMENGMTgybTFhTk1zSDF1el81R2Vwc3ItWDd2bzdn?oc=5",
    "date": "2022-03-07T17:00:04+00:00",
-   "summary": "33) تعلم أهم أساسيات برمجة الأندرويد بكل سهولة (مشروع كامل بسيط ) 😎 YouTube",
+   "summary": "33) تعلم أهم أساسيات برمجة الأندرويد بكل سهولة (مشروع كامل بسيط ) 😎 youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1734,63 +1774,53 @@
    "lang": "en"
   },
   {
-   "title": "Kotlin Tutorial for Beginners - Kotlin if-else expression (With Example)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JMk00dmdLSjI3SkwyNGlSLUh6ZVYzbHpDaUplUnZXTTB4S1hkbVJTajZKdkxlMHhXVnFNcDB4YUhhWWNVb29aM2JyLWIzdHRPMktnNm93?oc=5",
-   "date": "2022-02-19T03:00:24+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Kotlin if-else expression (With Example) YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تسجيل الأعضاء في التطبيق من خلال firebase | دورة انشاء تطبيق أندرويد احترافي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wN2dYdnA2bUp5ZWlqM3AtcG42WFd4UEJ3d1pJNHJmQ0FkRnppanhPbm9HZFJ5dkRDSmZQNEtLaERDdWpZamRXaEhIY0M2dGJiaTF5Wk9B?oc=5",
    "date": "2022-01-12T20:28:48+00:00",
-   "summary": "تسجيل الأعضاء في التطبيق من خلال firebase | دورة انشاء تطبيق أندرويد احترافي YouTube",
+   "summary": "تسجيل الأعضاء في التطبيق من خلال firebase | دورة انشاء تطبيق أندرويد احترافي youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "أفضل مسار في تعلم برمجة الأندرويد - Kotlin vs Java",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPckU1OEwwdEFiVlJ1WWNFcWJHcDhFemFOQk1xTm12UUtDRUVmWGxqSVZMTWQzNTdJRUFQanp0b0tNeXlzT1VzaXZ6VmVtVnVINnVoa2FB?oc=5",
    "date": "2022-01-02T16:12:45+00:00",
-   "summary": "أفضل مسار في تعلم برمجة الأندرويد - Kotlin vs Java YouTube",
+   "summary": "أفضل مسار في تعلم برمجة الأندرويد - Kotlin vs Java youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "بعد مشاكل Android12 طريقة العودة الي Android 11 علي Galaxy S21 Ultra Downgrade Upgrade by Odin",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbVVnWjZqSURIZ3BEbFhFbnF6Yl93bDY4VWxqR2Z2djhWeUhwWnFna0JjWEYzUjZDSmFQQVN5dEJ6Qk5RTTJrOWhFM0JidDFTb2dXaUxn?oc=5",
    "date": "2021-11-22T15:57:39+00:00",
-   "summary": "بعد مشاكل Android12 طريقة العودة الي Android 11 علي Galaxy S21 Ultra Downgrade Upgrade by Odin YouTube",
+   "summary": "بعد مشاكل Android12 طريقة العودة الي Android 11 علي Galaxy S21 Ultra Downgrade Upgrade by Odin youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تطبيق أندرويد لإدارة حلقات تحفيظ القرآن الكريم",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11VFBnTWhKLWJLLW5nTklBMzFfTnRDY1FINnpxQV9xVkdJaVA4NzBtUVhSLXlpaXJBZURIY1FDWjlLUEJMc05jMC0za0tVVkRISHM0TWFn?oc=5",
    "date": "2021-08-11T17:44:35+00:00",
-   "summary": "تطبيق أندرويد لإدارة حلقات تحفيظ القرآن الكريم YouTube",
+   "summary": "تطبيق أندرويد لإدارة حلقات تحفيظ القرآن الكريم youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "15- تغيير أيقونة التطبيق في فلاتر | android | ios | Change app icon in Flutter",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLelhXM1YwUHlTU0NVV0lEVTJBUHZ2N3gyYXRMY0J0TUs3MUFRaVNjTkpLdUM2NGV2QS12RWlVTmZpSXQwTFhpRlg2WXNBaV9tQXYzbEh3?oc=5",
    "date": "2021-08-01T10:05:20+00:00",
-   "summary": "15- تغيير أيقونة التطبيق في فلاتر | android | ios | Change app icon in Flutter YouTube",
+   "summary": "15- تغيير أيقونة التطبيق في فلاتر | android | ios | Change app icon in Flutter youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1807,90 +1837,90 @@
    "title": "حصريًا لكم كيف تقوم بتمرير السوفتوير عن طريق | MicroSd Android Box",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41cU1GVzE1eUJSbVR3dmh3YmZWYjJnMTNIWklsSERpWG9Zb2k0Uk83NG9rbTdGVjZhcVQxVXVfMGE0Tm16dGFidnZZZjRid184NjlpeUxn?oc=5",
    "date": "2021-04-30T20:00:22+00:00",
-   "summary": "حصريًا لكم كيف تقوم بتمرير السوفتوير عن طريق | MicroSd Android Box YouTube",
+   "summary": "حصريًا لكم كيف تقوم بتمرير السوفتوير عن طريق | MicroSd Android Box youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "دورة تعلم اندرويد ستوديو كاملة 2024 Android Studio course in Arabic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ellYdmtHeHVhQWpFX1Z6WHM4bUdlU1hMdlNEQWMtdVJnMEJfZnVtQnZYSmFmQjlFMDVVVU9QNTdIdk1jNXQwN1JDNjFFb1VFcVlpMll3?oc=5",
    "date": "2021-04-24T18:21:37+00:00",
-   "summary": "دورة تعلم اندرويد ستوديو كاملة 2024 Android Studio course in Arabic YouTube",
+   "summary": "دورة تعلم اندرويد ستوديو كاملة 2024 Android Studio course in Arabic youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "​تصميم تطبيق آلة حاسبة باستخدام MIT App Inventor | برمجة تطبيقات الأندرويد بدون كود",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wUUFEOTE4OHR5NDY3MHZnRDYtM3o3aEI2YzBjeUZHNmNsVkVLVHdYYkFHcFVCSXNtQ0MtV2lKR0xJRkg0SHBkS0lsSXVoQ18xWW1qcFBn?oc=5",
    "date": "2021-03-14T22:30:51+00:00",
-   "summary": "​تصميم تطبيق آلة حاسبة باستخدام MIT App Inventor | برمجة تطبيقات الأندرويد بدون كود YouTube",
+   "summary": "​تصميم تطبيق آلة حاسبة باستخدام MIT App Inventor | برمجة تطبيقات الأندرويد بدون كود youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "02) قواعد انشاء العناصر في واجهات تطبيقات الاندرويد - كورس تصميم تطبيقات الأندرويد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16NWRacjZZYWpFZEVPcGJVanlYMDQ1STZSSFVKYTYxU2ZKZjlSbjJTREwteURsQm1Mb2NmRDlQMGpLeEtKQnZCQWdiVzNtdjVHSVpPdXhn?oc=5",
    "date": "2021-02-01T20:06:32+00:00",
-   "summary": "02) قواعد انشاء العناصر في واجهات تطبيقات الاندرويد - كورس تصميم تطبيقات الأندرويد YouTube",
+   "summary": "02) قواعد انشاء العناصر في واجهات تطبيقات الاندرويد - كورس تصميم تطبيقات الأندرويد youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو 2021 - تعلم برمجة تطبيقات الموبايل - Flutter install",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwd29IenllUTdLZ2c1OTRjM1dtLWhndlAzNEhKd3BuQVVrTUhOSHFWUWtZQmhvd05menIzb0tQa2loSGYyaUowenhaQm5jZW14OGFHeE9B?oc=5",
    "date": "2020-11-06T09:35:03+00:00",
-   "summary": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو 2021 - تعلم برمجة تطبيقات الموبايل - Flutter install YouTube",
+   "summary": "تحميل وتثبيت فلاتر وبرنامج أندرويد استوديو 2021 - تعلم برمجة تطبيقات الموبايل - Flutter install youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "تصميم تطبيقات أندرويد احترافية من خلال موقع Mit app inventor والربح منها",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OVHZld0F4NnpybzFVdkMzZ2tSODdvdDFrMkd2Z2h0TnNLMkFfa0s4YlFFejE0YjdXZ1Y4dDJmMjJ6ZnJEcVlhd0FGYUcxcmhqN1FNWTJ3?oc=5",
    "date": "2020-08-08T14:16:21+00:00",
-   "summary": "تصميم تطبيقات أندرويد احترافية من خلال موقع Mit app inventor والربح منها YouTube",
+   "summary": "تصميم تطبيقات أندرويد احترافية من خلال موقع Mit app inventor والربح منها youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "شرح واجه برنامج اندرويد استديو | دورة الريسكين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Qemt1REZJZURlcm5EaVFBZG02QjRjTkc3ejBUb21ibjNOTzllRlRhOXpVNF8yUjNxVXpLNV90aWtndG5yX1RIa3ZTWFNrUkRsX1JPSG5n?oc=5",
    "date": "2020-07-17T15:01:28+00:00",
-   "summary": "شرح واجه برنامج اندرويد استديو | دورة الريسكين YouTube",
+   "summary": "شرح واجه برنامج اندرويد استديو | دورة الريسكين youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "#10 تطوير تطبيقات الأندرويد Android | إضافة و تعديل الألوان",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03TVBUc0lKeE1NYlNvclZZdjJJYTdha3VZQlcxV21LVEI1N19PZkxkRHh6TmFxYWJ4blI1bV9ZdmpCMGZlX1hibUg0UE1haXBVcmRlcVpB?oc=5",
    "date": "2020-03-08T16:03:55+00:00",
-   "summary": "#10 تطوير تطبيقات الأندرويد Android | إضافة و تعديل الألوان YouTube",
+   "summary": "#10 تطوير تطبيقات الأندرويد Android | إضافة و تعديل الألوان youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "خطوات تثبيت Android Studio على الويندوز بدون مشاكل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xcmNQQUVHR05UWHN1MmlMN0Q2T0xwdkVHa3hBNnVfVW4xVFV5SVgzbGdRdnEyNWc0WkdjanRqRzdTTnZCRHZmN3RJTm5zY19maDdEanpB?oc=5",
    "date": "2019-12-16T17:07:13+00:00",
-   "summary": "خطوات تثبيت Android Studio على الويندوز بدون مشاكل YouTube",
+   "summary": "خطوات تثبيت Android Studio على الويندوز بدون مشاكل youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1907,20 +1937,20 @@
    "title": "Android & Kotlin || R Class",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CY1ZyU2hMZC1SX191d0l5ZTg1V0ZLcllkd1Q1cnlvdTZrd2RiVjVaNUFSWXRLVnZCelhyTmtlV0VlREN1cWttSlNOcEtIdTFIYmNjRTZn?oc=5",
    "date": "2019-09-08T14:57:59+00:00",
-   "summary": "Android & Kotlin || R Class YouTube",
+   "summary": "Android & Kotlin || R Class youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "en"
   },
   {
    "title": "Android & Kotlin || انشاء المشروع الاول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbXI5RG93NDUtaklpLUpvWTBDcWVEY3Izckx1T2pYSXdXNTd3aE44OE9mQzhOb1lydm9URlZGX29iZXVDV0UwdVh4MjlCWU5XMjhlWmp3?oc=5",
    "date": "2019-09-07T15:34:59+00:00",
-   "summary": "Android & Kotlin || انشاء المشروع الاول YouTube",
+   "summary": "Android & Kotlin || انشاء المشروع الاول youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1937,10 +1967,10 @@
    "title": "Learn Android in Arabic #46 - كتابة html و css و java script وتشغيل داخل تطبيق اندرويد android",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aZVNYaTU5dUprVjhEWmRwWG9iSFFtNGFyUkRhMXNkQkI1SXBMTXNQeDZTcmNWYmVBVUtPYXBsMUFidG1WNE11aGw3MkZveU53Tk5aRXhB?oc=5",
    "date": "2019-04-26T08:53:18+00:00",
-   "summary": "Learn Android in Arabic #46 - كتابة html و css و java script وتشغيل داخل تطبيق اندرويد android YouTube",
+   "summary": "Learn Android in Arabic #46 - كتابة html و css و java script وتشغيل داخل تطبيق اندرويد android youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -1957,60 +1987,60 @@
    "title": "تطبيق Family Link من جوجل للإدارة الأبوية على أندرويد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFWGh3QjZmbnpBVjcxWkExS3pHTXlvU3JpQW1IT3ZlVFd2b1RyZzVnUnFZOERnUkFWVHJ1T2V3WWJpbmoxZll6eGY2dE5KTHhQX0VPMWhB?oc=5",
    "date": "2019-01-15T07:51:04+00:00",
-   "summary": "تطبيق Family Link من جوجل للإدارة الأبوية على أندرويد YouTube",
+   "summary": "تطبيق Family Link من جوجل للإدارة الأبوية على أندرويد youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "what is android emulator شرح ما هو محاكي تشغيل الاندرويد علي الكمبيوتر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWWs3VFc4Y0xBNHF0cnJtS0Q2STA0ZHZUendKQ2lqRkxPckZHdlR5QWlQamdvMTJjNGpXTlByT3VrWVUyMDZ2Y213VmRBYTFVd3Z3a1Nn?oc=5",
    "date": "2018-07-11T05:27:22+00:00",
-   "summary": "what is android emulator شرح ما هو محاكي تشغيل الاندرويد علي الكمبيوتر YouTube",
+   "summary": "what is android emulator شرح ما هو محاكي تشغيل الاندرويد علي الكمبيوتر youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "Install Xamarin Visual studio شرح تثبيت وتحميل زامرين اندرويد خطوة بخطوة -جزء أول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTlJNa0JLbUhETnZKSGptbHRYaUl1bFhveW5RdGlYUjg1MUlwNmV6Wi1NV0h1Q0NjOS1zSmF0TFNTWkZwcVJ1VHNIRGRjVDFfcW0yUnRR?oc=5",
    "date": "2018-07-08T05:36:36+00:00",
-   "summary": "Install Xamarin Visual studio شرح تثبيت وتحميل زامرين اندرويد خطوة بخطوة -جزء أول YouTube",
+   "summary": "Install Xamarin Visual studio شرح تثبيت وتحميل زامرين اندرويد خطوة بخطوة -جزء أول youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "#فيديو ما هو نظام تشغيل الاندرويد - تعلم برمجة الاندرويد وصناعة تطبيقات الهاتف المحمول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nY29ZeHRFV0JIY3dFcURNQlNRLW1jUzVUQUR6WE81YndORkhsR3UxNkt3bG5lV3RXak5SWFNkT3hlV280WlMwbUJyM1BHeFJ4SnR2MjB3?oc=5",
    "date": "2018-07-07T21:14:09+00:00",
-   "summary": "#فيديو ما هو نظام تشغيل الاندرويد - تعلم برمجة الاندرويد وصناعة تطبيقات الهاتف المحمول YouTube",
+   "summary": "#فيديو ما هو نظام تشغيل الاندرويد - تعلم برمجة الاندرويد وصناعة تطبيقات الهاتف المحمول youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "دورة برمجة تطبيقات الأندرويد بلغة الكوتلن kotlin من البداية إلى الإحتراف",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51QlZJTjlhTmI4NEJ6TGV5bzhiX1FOakM0ZDQwNUJqRTlVZ2RNVDZqc3NNYUN1NW1DTXJSaHViU1gwQUtrNlVta0lSajhjMkFMcUJRbWVkMC1wS3F1d3JPMkJPSUdUbk9tTlVVSE1jR09JVlRxaWE2NTB1RHQ?oc=5",
    "date": "2018-04-02T08:36:14+00:00",
-   "summary": "دورة برمجة تطبيقات الأندرويد بلغة الكوتلن kotlin من البداية إلى الإحتراف YouTube",
+   "summary": "دورة برمجة تطبيقات الأندرويد بلغة الكوتلن kotlin من البداية إلى الإحتراف youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "كورس Android - من الصفر",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDbm11eVhpY0NmX3ROb0dibHNZbGg1S2dFTENIaG9QWElzajB2RkZyWVhIOUQxRDh6OWZOYWhhc0p2ck82dHpLaU5CbmJXaEExejJ5U2hZakdJY1VjdzRCUkN1X0RnS2ZsZkFBZHBoYlI2UXRmWjFzZXQxcUc?oc=5",
    "date": "2017-11-30T13:40:37+00:00",
-   "summary": "كورس Android - من الصفر YouTube",
+   "summary": "كورس Android - من الصفر youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
@@ -2027,20 +2057,30 @@
    "title": "ماذا سوف نغطي في الدورة الكاملة لبرمجة تطبيقات الاندرويد مع Kotlin",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02N3VsbnFhMUVfSFlQUzB0bVJMWGh5a2NLeXJZc3Q0LXk2Smt2MWF3Y3Y0dERIQUlETGh1RVNUNllsRDBEWWd5a2ptQjVsRUdGZElSUll3?oc=5",
    "date": "2017-05-29T22:51:31+00:00",
-   "summary": "ماذا سوف نغطي في الدورة الكاملة لبرمجة تطبيقات الاندرويد مع Kotlin YouTube",
+   "summary": "ماذا سوف نغطي في الدورة الكاملة لبرمجة تطبيقات الاندرويد مع Kotlin youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
    "lang": "ar"
   },
   {
    "title": "طريقة تحديث هاتفك إلى أندرويد 7 الجديد بسهولة رغم أن الهاتف لم يصله بعد هذا التحديث ! إستمتع",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jakdzMzdBRlI2c1ZtYzBSTDJ0ZEk3VmFyTlZQUHdNNXpXZ3MtOWVIQm8ycXZINkRGSlYxQUtJT0FZZ2RrLXFjVUtZU0F4eG05SFNaQUJB?oc=5",
    "date": "2016-11-28T12:37:46+00:00",
-   "summary": "طريقة تحديث هاتفك إلى أندرويد 7 الجديد بسهولة رغم أن الهاتف لم يصله بعد هذا التحديث ! إستمتع YouTube",
+   "summary": "طريقة تحديث هاتفك إلى أندرويد 7 الجديد بسهولة رغم أن الهاتف لم يصله بعد هذا التحديث ! إستمتع youtube.com",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "YouTube",
+   "source": "youtube.com",
+   "lang": "ar"
+  },
+  {
+   "title": "البرمجة بلغة جافا وتطبيقات اندرويد من الصفر للاحتراف - 1 - Java & Android Programming 101",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SVkpfVzdxYW0tR2ZTMW9tOU5EcW5KY3hiRkxIZG5ycFVVTTBaRlk2Tm5wX3BfVzVkN01lenJFdFNKWXRlaVllZi1qc0NXR3VmUnBDX2NyQm16dkFVZ21FV2otMTJYYzZkSVU2dlBKckZHOUE2eWs2bUVKUm8?oc=5",
+   "date": "2014-12-28T18:35:26+00:00",
+   "summary": "البرمجة بلغة جافا وتطبيقات اندرويد من الصفر للاحتراف - 1 - Java & Android Programming 101 youtube.com",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "youtube.com",
    "lang": "ar"
   }
  ]
