@@ -1,8 +1,107 @@
 {
- "generated": "2026-08-19T04:58:08.162048+00:00",
+ "generated": "2026-08-20T05:03:06.638458+00:00",
  "tech": "go",
  "count": 86,
  "items": [
+  {
+   "title": "GitHub says these three repos have no licence. They all do.",
+   "url": "https://dev.to/ricco020/github-says-these-three-repos-have-no-licence-they-all-do-1nl8",
+   "date": "2026-08-20T01:52:17+00:00",
+   "summary": "Twelve proxy and VPN repositories checked against the GitHub API. Three return NOASSERTION - for three completely different reasons.",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What's New in Go 1.27: A Developer's Practical Guide",
+   "url": "https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622",
+   "date": "2026-08-20T00:17:27+00:00",
+   "summary": "Go 1.27 brings performance improvements, language tweaks, and tooling upgrades. Here's what matters for real-world projects and how to use i",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "K2: a lightweight server monitor that ships as one static binary",
+   "url": "https://dev.to/tashirka1/k2-a-lightweight-server-monitor-that-ships-as-one-static-binary-3fhd",
+   "date": "2026-08-19T18:27:43+00:00",
+   "summary": "I have been tinkering with a server monitoring tool called K2 and wanted to share it here. It tracks...",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "LeetCode 151: Reverse Words in a String in Go",
+   "url": "https://dev.to/ferztyle/leetcode-151-reverse-words-in-a-string-in-go-258d",
+   "date": "2026-08-19T15:48:17+00:00",
+   "summary": "The problem that looks simple until the whitespace shows up   You open LeetCode 151 —...",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Installation and configuration of HermitMQ",
+   "url": "https://dev.to/erkin_khidirov_e1a1d8dc51/installation-and-configuration-of-hermitmq-22lp",
+   "date": "2026-08-19T14:05:41+00:00",
+   "summary": "I will show you how to deploy HermitMQ and integrate clients. The broker comes as a ready package for...",
+   "points": 1,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Snowflake IDs - Part 2: Across the Wire, the URL, and the Browser",
+   "url": "https://dev.to/anton_brilliantov/snowflake-ids-part-2-across-the-wire-the-url-and-the-browser-42kk",
+   "date": "2026-08-19T11:27:00+00:00",
+   "summary": "The int8 Snowflake is a great primary key - now get it out of the building safely. Hashids at the edge, composite master->child tokens, self-serve salt rotation with an audit tripwire, and why every int64 becomes a strin",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Hand-Rolling Your Arkham API Client: Meet arkham-go",
+   "url": "https://dev.to/tigusigalpa/stop-hand-rolling-your-arkham-api-client-meet-arkham-go-3598",
+   "date": "2026-08-19T10:33:35+00:00",
+   "summary": "Working with on-chain intelligence is rarely difficult because of a single HTTP request. The hard...",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Implementing Secure Configuration Management with Vault and Go",
+   "url": "https://dev.to/ayinedjimi-consultants/implementing-secure-configuration-management-with-vault-and-go-1ell",
+   "date": "2026-08-19T10:02:41+00:00",
+   "summary": "Most Go services ship with secrets spread across environment variables, config files, and the...",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GoFr: A Practical Introduction to Building Microservices with Go",
+   "url": "https://dev.to/lav-developer/gofr-a-practical-introduction-to-building-microservices-with-go-2ieo",
+   "date": "2026-08-19T05:25:22+00:00",
+   "summary": "Building microservices in Go can be lightweight and fast, but setting up the common pieces of a...",
+   "points": 0,
+   "tech": "go",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Implementing a Multi-Model Invoice API for Small Teams Using OpenAI Claude and Gemini",
    "url": "https://dev.to/arthurfinley2291/implementing-a-multi-model-invoice-api-for-small-teams-using-openai-claude-and-gemini-2f3e",
@@ -228,105 +327,6 @@
    "url": "https://dev.to/shroukabozeid/learning-go-as-a-ruby-developer-part-5-strings-and-formatting-57j5",
    "date": "2026-08-17T14:24:35+00:00",
    "summary": "A Go string is essentially a sequence of bytes.  That sounds like a small implementation detail, but...",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The context you passed is not the context that cancels",
-   "url": "https://dev.to/msakai/the-context-you-passed-is-not-the-context-that-cancels-2ia5",
-   "date": "2026-08-17T13:39:34+00:00",
-   "summary": "Handing ctx to a goroutine that outlives the request is the most common context bug in Go, and the compiler is perfectly happy with it.",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What a Bitcoin Blockchain Explorer Taught Me About Reading Data I Didn't Write",
-   "url": "https://dev.to/rjeff-sudo/what-a-bitcoin-blockchain-explorer-taught-me-about-reading-data-i-didnt-write-1hh6",
-   "date": "2026-08-17T12:19:27+00:00",
-   "summary": "I thought building a blockchain explorer was going to be a JSON parsing exercise. Call bitcoind over...",
-   "points": 1,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Building a Port Scanner Taught Me About Trust in Networks",
-   "url": "https://dev.to/rjeff-sudo/what-building-a-port-scanner-taught-me-about-trust-in-networks-4c0i",
-   "date": "2026-08-17T11:59:34+00:00",
-   "summary": "A few weeks into building my port scanner, I hit a moment that had nothing to do with syntax and...",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Testing That Secrets Cannot Reach Logs in Go",
-   "url": "https://dev.to/anakin_writers/testing-that-secrets-cannot-reach-logs-in-go-504",
-   "date": "2026-08-17T10:00:01+00:00",
-   "summary": "A practical Go pattern for testing that passwords and tokens cannot reach logs through fmt verbs, JSON encoding, nested structs, or errors before code merges.",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Semantic Search Over Video Metadata With pgvector and OpenAI Embeddings",
-   "url": "https://dev.to/ahmet_gedik778845/semantic-search-over-video-metadata-with-pgvector-and-openai-embeddings-40ld",
-   "date": "2026-08-17T05:00:02+00:00",
-   "summary": "Adding semantic search to a 61k-video catalog without dropping SQLite FTS5: document construction ru",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Media Speech-to-Text Intake Explained — 5 Malformed Multipart API Boundary Controls",
-   "url": "https://dev.to/ellisthornton7395/media-speech-to-text-intake-explained-5-malformed-multipart-api-boundary-controls-3jb7",
-   "date": "2026-08-17T04:21:07+00:00",
-   "summary": "Short answer: treat a support recording as an auditable binary transaction, terminate multipart...",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "One Line, One NULL, One Noisy Error: Fixing usql's Tab Completion Crash",
-   "url": "https://dev.to/gouranga-das-khulna/one-line-one-null-one-noisy-error-fixing-usqls-tab-completion-crash-3fmn",
-   "date": "2026-08-17T04:00:00+00:00",
-   "summary": "Not every open-source contribution needs a saga. Sometimes the whole story is: hit an annoying...",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built five code generators to delete Go boilerplate",
-   "url": "https://dev.to/mickamy/i-built-five-code-generators-to-delete-go-boilerplate-h65",
-   "date": "2026-08-17T03:43:22+00:00",
-   "summary": "Writing Go means writing the same mechanical code over and over: constructor wiring, conversions...",
-   "points": 0,
-   "tech": "go",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Usage Metering in Go SDKs: Cryptographic Receipts, Tamper-Evident Counters, and the Offline Grace Problem",
-   "url": "https://dev.to/neeraj_singhi_golang/usage-metering-in-go-sdks-cryptographic-receipts-tamper-evident-counters-and-the-offline-grace-c3m",
-   "date": "2026-08-17T01:54:02+00:00",
-   "summary": "How to build production-grade usage metering into a Go SDK: signed receipts, atomic counters, offline grace windows, and license enforcement tradeoffs.",
    "points": 0,
    "tech": "go",
    "sourceId": "devto",
@@ -567,20 +567,20 @@
    "title": "Learn Golang In Arabic - #56 OS package - os.Create()",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01bWN0a0M5NDZMeTBvdDNUbXNad05ob2IzMUFrNG9iOUxRdHd0SzY0UGFoZjhnMnpCeUptcUp0dXdVQ3hfelIzQlhya2tLVmkxWk9HaWFn?oc=5",
    "date": "2023-06-30T14:15:05+00:00",
-   "summary": "Learn Golang In Arabic - #56 OS package - os.Create() youtube.com",
+   "summary": "Learn Golang In Arabic - #56 OS package - os.Create() YouTube",
    "tech": "go",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Learn Golang In Arabic - #46 Functions",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NTW1USl8tVVpob05oX2l4STBNbk9OQnZ0ek4xOG1EdDFvdWxSODk1NVhwaDBLYS1vTkt0V1g1cWhyeWVMWUxkTVNVWWlmOFg1NkFYUVV3?oc=5",
    "date": "2023-06-30T13:00:28+00:00",
-   "summary": "Learn Golang In Arabic - #46 Functions youtube.com",
+   "summary": "Learn Golang In Arabic - #46 Functions YouTube",
    "tech": "go",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -597,20 +597,20 @@
    "title": "Learn Golang In Arabic - #3 Syntax & How to start coding?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10MG11LVg2ci0tTDdENEVPNG9RMUJ1elpGSUM5QXZYOGxwcUtkNF9tLW9jdU8wWHAzbW5GbzVzdEluY1NFaUh2ME1DSjd0enpYZFQ1QWNB?oc=5",
    "date": "2023-03-24T17:30:01+00:00",
-   "summary": "Learn Golang In Arabic - #3 Syntax & How to start coding? youtube.com",
+   "summary": "Learn Golang In Arabic - #3 Syntax & How to start coding? YouTube",
    "tech": "go",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Learn Golang In Arabic - #1 Introduction & What&Why Go?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uckZuTTJqX1RVbWRZVHJhdVhMZ2V0Q0pmeXI3SUlTRkstUVlyWXZXTVlqZFFJYlR0cjlSVUtZdWIyS292SUZsX3ExbGxoNXdxdXBpUFh3?oc=5",
    "date": "2023-03-23T15:31:17+00:00",
-   "summary": "Learn Golang In Arabic - #1 Introduction & What&Why Go? youtube.com",
+   "summary": "Learn Golang In Arabic - #1 Introduction & What&Why Go? YouTube",
    "tech": "go",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -697,10 +697,10 @@
    "title": "الإنطلاق بخطواتك الأولى باستخدام لغة Go",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPNm5PTEJiUUVfUkdOc3ZKQnlCRE13SF9RTjVOMUNUeFVmQndhSFVqN3FRWUdablNVckpBVFBBajMxMldIaVRsRlFoMmhvYjlXaEJZZzFR?oc=5",
    "date": "2022-06-17T11:37:25+00:00",
-   "summary": "الإنطلاق بخطواتك الأولى باستخدام لغة Go youtube.com",
+   "summary": "الإنطلاق بخطواتك الأولى باستخدام لغة Go YouTube",
    "tech": "go",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -737,10 +737,10 @@
    "title": "02 تهيئة بية العمل للغة جو install and setup golang",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iUkcwek9KZXhpR3Zmdmp1a19aOEZvN2g5U0pxU3JrWHN5Z1ZSVGJtRVhISTE1Zkg4bURzaXowNmtzbnVpYndKMnlnMzBNXzlsNUhQanN3?oc=5",
    "date": "2022-01-10T08:00:05+00:00",
-   "summary": "02 تهيئة بية العمل للغة جو install and setup golang youtube.com",
+   "summary": "02 تهيئة بية العمل للغة جو install and setup golang YouTube",
    "tech": "go",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -867,10 +867,10 @@
    "title": "لغة جو شرح عربي 1- مقدمة حول اللغة Go Programming",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xUUtueXYxUnFDZGtWNkRjRFdQQ1R3bnI0bV9jQWhrd1JNd2JkQ2xXQ1kxc1hrcEs5WWx0M3dVcU9mMnFEZy1sV0lDb1VXaC1PZkV2LWV3?oc=5",
    "date": "2018-10-23T14:13:15+00:00",
-   "summary": "لغة جو شرح عربي 1- مقدمة حول اللغة Go Programming youtube.com",
+   "summary": "لغة جو شرح عربي 1- مقدمة حول اللغة Go Programming YouTube",
    "tech": "go",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {

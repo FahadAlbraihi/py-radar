@@ -1,8 +1,19 @@
 {
- "generated": "2026-08-19T05:22:59.944532+00:00",
+ "generated": "2026-08-20T05:25:47.864602+00:00",
  "tech": "zig",
- "count": 17,
+ "count": 18,
  "items": [
+  {
+   "title": "Hashing across architectures",
+   "url": "https://dev.to/geauxvirtual/hashing-across-architectures-3fb4",
+   "date": "2026-08-17T22:56:04+00:00",
+   "summary": "In a previous post, I mentioned how just because you develop on a brand new or nearly new laptop...",
+   "points": 0,
+   "tech": "zig",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "What Zig felt like, coming from Rust",
    "url": "https://dev.to/boris_zhguchev_c13ea7f707/what-zig-felt-like-coming-from-rust-2bg9",

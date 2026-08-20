@@ -1,8 +1,41 @@
 {
- "generated": "2026-08-19T05:08:36.060789+00:00",
+ "generated": "2026-08-20T05:15:32.630183+00:00",
  "tech": "elixir",
- "count": 93,
+ "count": 96,
  "items": [
+  {
+   "title": "Dynamic machine ID leases in Elixir",
+   "url": "https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj",
+   "date": "2026-08-19T18:55:36+00:00",
+   "summary": "Distributed ID generators often look simple: combine a timestamp, a counter, and a machine ID....",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Distributed Systems in Elixir: Part 6 — Named Processes",
+   "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-6-named-processes-l3",
+   "date": "2026-08-19T15:52:31+00:00",
+   "summary": "In the previous part of this series, we built a tiny supervisor from scratch.  When a worker crashed,...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Distributed Systems in Elixir: Part 5 — Supervisor From Scratch",
+   "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-5-supervisor-from-scratch-32mh",
+   "date": "2026-08-18T05:41:06+00:00",
+   "summary": "In the previous part of this series, we explored process links.  A linked worker that crashes sends...",
+   "points": 0,
+   "tech": "elixir",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Roadmap: Building a Sub-Microsecond HFT Triangular Arbitrage Engine in Elixir",
    "url": "https://dev.to/matheuscamarques/roadmap-building-a-sub-microsecond-hft-triangular-arbitrage-engine-in-elixir-4ji2",
@@ -662,6 +695,16 @@
    "lang": "en"
   },
   {
+   "title": "Elixir Full Course: 5 - History of Elixir",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zYTI5d0E4VE1zTUtVZnRnbS1KMUZHZEt0YWdlemk2WmZQSmZuMENTWmpNZG94LXAxdnpldEtPMXhjeXNkSTJYWlQ2VXdkU05sd1BfRi1R?oc=5",
+   "date": "2024-11-06T17:16:53+00:00",
+   "summary": "Elixir Full Course: 5 - History of Elixir YouTube",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Elixir Full Course: 4 - What is Elixir?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wc0ZpTEsxVlV1ZnJ6Ty15R21ZaXVwQVhsc3hsaExNUlVSTkFDa05CbU1SNE52QWJDUTNLS3ktaTVLTTFYc1RTaWR5ckNTcmxSanpFUWd3?oc=5",
    "date": "2024-11-06T17:16:47+00:00",
@@ -746,6 +789,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTnRuR1BQQzVGdFpXYm84eEh1SHNWNTJoZW1HMXFXdUl6SWJKUHYySmxwUEl1Um44MWh4RF9TY0ZwMG5wNVpIVWtWQ3ZFNUg5d2RpWTFR?oc=5",
    "date": "2024-07-04T19:00:20+00:00",
    "summary": "Elixir crash course #3: Functional programming and immutability YouTube",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Elixir crash course #2: Basic types",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pWlBIa3ZUMjRxSkhMd1YzVGFrRG9SXzIwRDhHM0JLUmt3NXJyQ3BzS0hrZVNfQkhjMmpxVHI3Z3lFdzJXOUExeXpKM29uODA2NmtxSnZB?oc=5",
+   "date": "2024-07-01T19:00:01+00:00",
+   "summary": "Elixir crash course #2: Basic types YouTube",
    "tech": "elixir",
    "sourceId": "yt",
    "source": "YouTube",
@@ -926,26 +979,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTzNybzNQY0pUT19uYi15cmJZLTFRek9RMzRZNTZKc0tuOXpPNENyUW9jcGtVWGQ4bGVMa3NoUVcyWnF4UlJPUXk4akRxVzFuVDNMVTNn?oc=5",
    "date": "2023-01-28T16:51:04+00:00",
    "summary": "Learn Elixir In 5 Minutes YouTube",
-   "tech": "elixir",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "2. Using Phoenix Framework to Create an Elixir REST API Project",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pUEc3aVFxOHRDMDlWV01kdEVYZzAyV2c0LU9jOHkxVm9NRHEtaHR1ellFYkdoNUktcU5RV04xVGMzWVZpdkt4cmFveTN1MzFjQ3k4QmpR?oc=5",
-   "date": "2022-11-22T02:14:36+00:00",
-   "summary": "2. Using Phoenix Framework to Create an Elixir REST API Project YouTube",
-   "tech": "elixir",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "05 Installing Elixir and Setting Up VS Code | Full Course - Beginner Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DWWt4a19DR2wwUTI1NDY4dWxXdUJSZDVsdjJKblRmLTVwQmdYQXFST1pKbnZiUGdDN0NuUmtRdlBpb19SVzBSMHBXcDlmT3dZQUNxY2F3?oc=5",
-   "date": "2022-11-10T21:22:05+00:00",
-   "summary": "05 Installing Elixir and Setting Up VS Code | Full Course - Beginner Tutorial YouTube",
    "tech": "elixir",
    "sourceId": "yt",
    "source": "YouTube",

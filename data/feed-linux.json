@@ -1,8 +1,188 @@
 {
- "generated": "2026-08-19T05:03:10.682584+00:00",
+ "generated": "2026-08-20T05:10:20.876359+00:00",
  "tech": "linux",
  "count": 220,
  "items": [
+  {
+   "title": "What Really Happens When You Turn On a Linux Computer?",
+   "url": "https://medium.com/@oshwickramasinghe43/what-really-happens-when-you-turn-on-a-linux-computer-ed75404a504c?source=rss------linux-5",
+   "date": "2026-08-20T03:58:09+00:00",
+   "summary": "When I started learning Linux, I used commands like: Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Oracle Real Application Cluster (RAC) 19c Using ASM on Oracle Linux 8.10",
+   "url": "https://medium.com/@dimassprstyo4/oracle-real-application-cluster-rac-19c-using-asm-on-oracle-linux-8-10-f45abbb6484a?source=rss------linux-5",
+   "date": "2026-08-20T02:29:52+00:00",
+   "summary": "Node 1 IP Public: 192.168.56.29 IP Private: 10.10.10.11 Hostname : rac1 Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Como o Windows perdeu Milhões de Usuários",
+   "url": "https://dev.to/rafaelbonilha/como-o-windows-perdeu-milhoes-de-usuarios-45pj",
+   "date": "2026-08-19T22:38:07+00:00",
+   "summary": "Segue de forma constante e contínua o declínio do número de usuários do sistema operacional Windows,...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Deleted a File. Linux Kept Using It Anyway",
+   "url": "https://medium.com/@SuneraKonara/i-deleted-a-file-linux-didnt-get-the-memory-847462471d68?source=rss------linux-5",
+   "date": "2026-08-19T21:56:17+00:00",
+   "summary": "A while back I found a fat log file eating up disk space on a server, deleted it, and felt pretty good about myself. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Day 08 of My DevOps Journey: POSIX & Introduction to Shell Scripting",
+   "url": "https://medium.com/@abhiyanlimbu4/day-08-of-my-devops-journey-posix-introduction-to-shell-scripting-2ac4ebfdbe73?source=rss------linux-5",
+   "date": "2026-08-19T21:36:01+00:00",
+   "summary": "Linux commands are something I have already been using regularly to build muscle memory, but shell scripting takes it a step further&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "TryHackMe Easy Peasy — How I Went from Nmap to Root",
+   "url": "https://medium.com/@vaishnavij190506/tryhackme-easy-peasy-how-i-went-from-nmap-to-root-5fe39d1f5568?source=rss------linux-5",
+   "date": "2026-08-19T19:30:48+00:00",
+   "summary": "A practical walkthrough of enumeration, encoding, hash cracking, steganography, SSH and Linux privilege escalation. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Fundamentals for Pentesting: The Commands You’ll Use Every Single Day",
+   "url": "https://medium.com/@vipin007mohan/linux-fundamentals-for-pentesting-the-commands-youll-use-every-single-day-2b0d4f39d976?source=rss------linux-5",
+   "date": "2026-08-19T19:22:24+00:00",
+   "summary": "Every pentester&#x2019;s story starts the same way &#x2014; staring at a blinking cursor, unsure whether ls -la is enough or if you&apos;re missing something&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan",
+   "url": "https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1",
+   "date": "2026-08-19T18:35:28+00:00",
+   "summary": "A rollback plan tells you how to undo an AI change, but not what breaks first when the change stays...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Incremental Backup Using pg_basebackup in PostgreSQL 18",
+   "url": "https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag",
+   "date": "2026-08-19T18:02:06+00:00",
+   "summary": "In this article, I will show how to create a full backup and an incremental backup using...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Ubuntu Freezing Touchpad After Login on Matebook X",
+   "url": "https://dev.to/mkalioby/ubuntu-freezing-touchpad-after-login-on-matebook-x-4174",
+   "date": "2026-08-19T17:40:11+00:00",
+   "summary": "Problem   On my Huawei MateBook X Pro running Ubuntu 26.04 LTS, the built-in touchpad would...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem",
+   "url": "https://dev.to/schiff_heimlich/when-disk-space-is-not-disk-space-the-inode-exhaustion-problem-gm4",
+   "date": "2026-08-19T17:04:45+00:00",
+   "summary": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem   You run df -h, everything...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Set Up and Secure an Ubuntu VPS from Scratch: A Beginner’s Blueprint",
+   "url": "https://dev.to/arthur_luca/how-to-set-up-and-secure-an-ubuntu-vps-from-scratch-a-beginners-blueprint-2h38",
+   "date": "2026-08-19T16:57:05+00:00",
+   "summary": "Setting up a Virtual Private Server (VPS) for the first time can feel overwhelming. Many developers...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "354 Blog Posts To Learn About Linux",
+   "url": "https://hackernoon.com/354-blog-posts-to-learn-about-linux?source=rss",
+   "date": "2026-08-19T14:00:06+00:00",
+   "summary": "Learn everything you need to know about Linux via these 354 free HackerNoon blog posts.",
+   "tech": "linux",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Mastering Unattended Remote Desktop on Wayland: A Modern DevOps Guide",
+   "url": "https://dev.to/lightningdev123/mastering-unattended-remote-desktop-on-wayland-a-modern-devops-guide-22p7",
+   "date": "2026-08-19T13:44:54+00:00",
+   "summary": "Introduction to the Wayland Remote Access Dilemma   For developers and system...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
+   "url": "https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p",
+   "date": "2026-08-19T13:10:14+00:00",
+   "summary": "Most DevOps learning content is made by companies that want you to buy their product, or by course mills that teach the exam. Here are eleven resources run by individuals and small teams, what each is actually good for, ",
+   "points": 16,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need",
+   "url": "https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0",
+   "date": "2026-08-19T12:41:16+00:00",
+   "summary": "A surprising share of \"the app is down\" pages resolve to a name-resolution problem, not a broken...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your sysctl says one thing, the kernel says another",
+   "url": "https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha",
+   "date": "2026-08-19T05:06:12+00:00",
+   "summary": "You set net.ipv4.ip_forward=1 in /etc/sysctl.conf. You rebooted. The value is still 0.  Nothing is...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Day 07 of My DevOps Journey: Linux Services, systemd & Logs",
    "url": "https://medium.com/@abhiyanlimbu4/day-07-of-my-devops-journey-linux-services-systemd-logs-27ebda134f9b?source=rss------linux-5",
@@ -24,6 +204,72 @@
    "lang": "en"
   },
   {
+   "title": "UFW and WireGuard: the tunnel is up and nothing goes through",
+   "url": "https://dev.to/ricco020/ufw-and-wireguard-the-tunnel-is-up-and-nothing-goes-through-4lpo",
+   "date": "2026-08-19T03:37:35+00:00",
+   "summary": "The tunnel comes up. wg show prints a recent handshake. The client has its address inside the tunnel....",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A new NetworkManager property broke a decade of headless WiFi scripts",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/a-new-networkmanager-property-broke-a-decade-of-headless-wifi-scripts-3hh8",
+   "date": "2026-08-19T03:27:08+00:00",
+   "summary": "TL;DR: NetworkManager 1.52 (in Trixie) added an autoconnect-ports property. That makes autoconnect-p...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "sysctl -p says it worked. The next reboot disagrees.",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/sysctl-p-says-it-worked-the-next-reboot-disagrees-5eph",
+   "date": "2026-08-19T03:15:10+00:00",
+   "summary": "TL;DR: /etc/sysctl.conf doesn't ship on Raspberry Pi OS Trixie, and if you create it, the thing that...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Pi accepts every memory limit you set and enforces none of them",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pi-accepts-every-memory-limit-you-set-and-enforces-none-of-them-1j6e",
+   "date": "2026-08-19T02:57:41+00:00",
+   "summary": "TL;DR: On stock Raspberry Pi OS the memory cgroup controller is disabled, so docker run...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Unbrick Your Framework Laptop Without Panicking",
+   "url": "https://dev.to/adilaidev/how-to-unbrick-your-framework-laptop-without-panicking-4l70",
+   "date": "2026-08-19T02:13:41+00:00",
+   "summary": "A step-by-step guide to recovering a bricked Framework laptop, covering common causes and proven fixes from hands-on experience.",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Pi's 2 GB swap file isn't swap, and no swap command will tell you that",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pis-2-gb-swap-file-isnt-swap-and-no-swap-command-will-tell-you-that-1m3j",
+   "date": "2026-08-19T02:05:53+00:00",
+   "summary": "TL;DR: Raspberry Pi OS Trixie ships rpi-swap instead of dphys-swapfile, defaulting to a zram+file...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "100+ Handy Knowledge Hub: All-in-One Linux, DevOps, Cloud & Automation Blogs",
    "url": "https://aws.plainenglish.io/100-handy-knowledge-hub-all-in-one-linux-devops-cloud-automation-blogs-e03ad346d7c8?source=rss------linux-5",
    "date": "2026-08-19T01:24:37+00:00",
@@ -41,6 +287,17 @@
    "tech": "linux",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The storefronts are coming to Linux: Epic, GOG, and the tipping point",
+   "url": "https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468",
+   "date": "2026-08-18T21:50:54+00:00",
+   "summary": "For most of Linux gaming's history, the story has been the same: Linux users want to play games, game...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -182,16 +439,6 @@
    "lang": "en"
   },
   {
-   "title": "# Linux do Zero",
-   "url": "https://medium.com/@rogeroliveira86/linux-do-zero-555c8dfb31b4?source=rss------linux-5",
-   "date": "2026-08-17T23:34:19+00:00",
-   "summary": "#1: o que &#xE9; Linux e qual distribui&#xE7;&#xE3;o escolher? Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?",
    "url": "https://dev.to/rogeroliveira86/upload-cover-imageno-file-chosenuse-a-ratio-of-1000420-for-best-results-generate-image-cover-2kbc",
    "date": "2026-08-17T23:31:30+00:00",
@@ -200,16 +447,6 @@
    "tech": "linux",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How Bash Runs Scripts Without a Shebang",
-   "url": "https://medium.com/@u.mair/how-bash-runs-scripts-without-a-shebang-4bc14415a7b4?source=rss------linux-5",
-   "date": "2026-08-17T20:20:49+00:00",
-   "summary": "For anything running on the Linux kernel, process creation happens in two stages. The process is first created with the fork() or clone()&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -257,231 +494,14 @@
    "lang": "en"
   },
   {
-   "title": "I built a small AI-native Linux desktop as a PoC",
-   "url": "https://dev.to/johnny_jakobsson_1508441a/i-built-a-small-ai-native-linux-desktop-as-a-poc-4ifc",
-   "date": "2026-08-17T15:54:04+00:00",
-   "summary": "GitHub: https://github.com/Johnny70/ladanaOS  I've been working on Ladana OS for a little over two...",
-   "points": 0,
+   "title": "لينكس يقترب من إسقاط ويندوز؟",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BX1FHUnc4NzJwNUVjNFA3bUhZM2lYZklBMzMtaFZOX2xFYlRuaS10d211cjZnRVRtV05ENl9YVGFDamJXdmFmbHFuWW9VVm90Q3JfRW5n?oc=5",
+   "date": "2026-08-16T15:55:05+00:00",
+   "summary": "لينكس يقترب من إسقاط ويندوز؟ YouTube",
    "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Programming for Cybersecurity: What You Actually Need to Know",
-   "url": "https://dev.to/xyberghost007/programming-for-cybersecurity-what-you-actually-need-to-know-1d99",
-   "date": "2026-08-17T15:36:54+00:00",
-   "summary": "When I first got interested in cybersecurity, I thought it was all about tools. Nmap, Metasploit,...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Automating Nginx Installation on a Fresh Debian Server",
-   "url": "https://dev.to/pranjal-sharma/automating-nginx-installation-on-a-fresh-debian-server-5e1l",
-   "date": "2026-08-17T14:59:16+00:00",
-   "summary": "I started building a small Linux server administration project around managing a Debian VPS from the...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Noroboto: Lying Fonts y mitigación en Rust — lectura técnica sin hype",
-   "url": "https://dev.to/jtorchia/noroboto-lying-fonts-y-mitigacion-en-rust-lectura-tecnica-sin-hype-33k1",
-   "date": "2026-08-17T14:30:25+00:00",
-   "summary": "Las fuentes mienten. Noroboto documenta cómo el subsistema de texto puede devolver métricas incorrectas y propone mitigaciones en Rust. Antes de copiarlo a producción, hay que entender qué problema resuelve, dónde falla ",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time",
-   "url": "https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7",
-   "date": "2026-08-17T11:25:52+00:00",
-   "summary": "If cp or npm install feels impossibly slow in WSL2, crossing the Windows/Linux boundary is the tax — and workloads made of many small operat",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Writing a Minimal sched_ext Scheduler",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/writing-a-minimal-schedext-scheduler-5b8d",
-   "date": "2026-08-17T08:59:38+00:00",
-   "summary": "How to write a minimal sched_ext scheduler: the four callbacks, the dispatch queue model, and how to build, load and verify it on a current kernel.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish",
-   "url": "https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1",
-   "date": "2026-08-17T06:06:10+00:00",
-   "summary": "Part 1 of 2. This part covers getting a kernel that can actually host virtual machines.             ...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux vs Unix: Which Should You Choose for Development in 2026?",
-   "url": "https://dev.to/vickybuilds/linux-vs-unix-which-should-you-choose-for-development-in-2026-34ia",
-   "date": "2026-08-17T05:01:47+00:00",
-   "summary": "Author: Vicky    [🔹 Profile] vickybuilds on Dev.to             Linux vs Unix: Which Should You Choose...",
-   "points": 5,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Niri Monitors - Mange Connected Monitors",
-   "url": "https://dev.to/xwaleedahmad/niri-monitors-mange-connected-monitors-261g",
-   "date": "2026-08-17T04:44:10+00:00",
-   "summary": "🚀 Excited to share something I've been building: Niri Monitors — an extension for Vicinae that lets...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Kullanıcı Yönetimi: Shell Türleri: Interactive ve Non-Interactive",
-   "url": "https://medium.com/@ozcankaraa/linux-kullan%C4%B1c%C4%B1-y%C3%B6netimi-shell-t%C3%BCrleri-interactive-non-interactiv-ve-alias-variable-2103acffb7f8?source=rss------linux-5",
-   "date": "2026-08-17T00:37:16+00:00",
-   "summary": "Alias, Variable, Environment Variable, History Komutlar&#x131; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "A green test is not a running reflex, and a running one is not a placed one",
-   "url": "https://dev.to/ilya_mozerov_867dbdd91feb/a-green-test-is-not-a-running-reflex-and-a-running-one-is-not-a-placed-one-2cl2",
-   "date": "2026-08-16T21:07:40+00:00",
-   "summary": "We run about 283 scheduled jobs across a handful of machines. Each one is a shell script...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Fixing Low USB-C Audio on Fedora Linux: My Battle with the Razer Leviathan",
-   "url": "https://dev.to/dannyslee1996/fixing-low-usb-c-audio-on-fedora-linux-my-battle-with-the-razer-leviathan-1bie",
-   "date": "2026-08-16T19:35:00+00:00",
-   "summary": "TL;DR: If you have a Razer Leviathan connected via USB-C on Linux and the volume is incredibly quiet...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux vs. Windows: What the Economics Actually Says About Open Source and Proprietary Platforms.",
-   "url": "https://medium.com/@garythatcher608/linux-vs-windows-what-the-economics-actually-says-about-open-source-and-proprietary-platforms-1bcd1ec019c9?source=rss------linux-5",
-   "date": "2026-08-16T19:34:22+00:00",
-   "summary": "For two decades, the rivalry between Linux and Windows has been treated mostly as a cultural story &#x2014; hackers versus a corporation, freedom&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Learning Linux Permissions: Understanding Who Can Do What.",
-   "url": "https://medium.com/@tubonemi.orris/learning-linux-permissions-understanding-who-can-do-what-545a4e398acf?source=rss------linux-5",
-   "date": "2026-08-16T18:57:05+00:00",
-   "summary": "When I started learning IT Support, I knew that Linux was something I would eventually need to understand. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "5 Things I Check First When a Linux Server Goes Down",
-   "url": "https://asepsayyad007.medium.com/5-things-i-check-first-when-a-linux-server-goes-down-db7f61a1080d?source=rss------linux-5",
-   "date": "2026-08-16T16:56:37+00:00",
-   "summary": "When a production machine drops offline or stops responding, guessing waste precious minutes. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Why GNU/Linux Isn't for Everyone - and That's a Good Thing",
-   "url": "https://dev.to/aiflux/why-gnulinux-isnt-for-everyone-and-thats-a-good-thing-44ba",
-   "date": "2026-08-15T21:10:47+00:00",
-   "summary": "We have been hearing \"Linux is ready for the desktop\" for twenty years. Maybe the question is the...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Network Troubleshooting as a Stack: Find Which Layer Is Broken First",
-   "url": "https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6",
-   "date": "2026-08-15T18:34:37+00:00",
-   "summary": "The difference between a good infrastructure troubleshooter and someone who restarts services and...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Networking Foundations: From OSI Layers to TCP Handshakes",
-   "url": "https://dev.to/dharam_in/networking-foundations-from-osi-layers-to-tcp-handshakes-31nh",
-   "date": "2026-08-15T17:54:31+00:00",
-   "summary": "OSI Model &amp; TCP IP Model            What a networking Model is   Networking model is a...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built a simple tool to automate Linux system updates across different package managers",
-   "url": "https://dev.to/swarajnerlekar28/i-built-a-simple-tool-to-automate-linux-system-updates-across-different-package-managers-36jk",
-   "date": "2026-08-15T17:31:14+00:00",
-   "summary": "It is a lightweight Bash script that probes the host environment, figures out the active package...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "System-Updater",
-   "url": "https://dev.to/swarajnerlekar28/system-updater-108j",
-   "date": "2026-08-15T17:12:37+00:00",
-   "summary": "Hey guys! i created my second project \"System-Updater\". it is written in bash, it checks your...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why logrotate silently does nothing and how to actually debug it",
-   "url": "https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd",
-   "date": "2026-08-15T17:04:58+00:00",
-   "summary": "A config that doesn't error is not a config that works.  logrotate misconfigurations don't fail...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "انتقلت إلى لينكس؟ هذا هو التطبيق الوحيد الذي ستحتاجه",
@@ -557,10 +577,10 @@
    "title": "اساسيات الأمن السيبراني | دورة كالي لينكس",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jeFNxRkZvTEhleWhrMWx6WU1QdWlsY3dfMnY0X2VKbGt0UGxIM09xYldDcXN4NWxrYlc5eVdaZ3pxTG1XaEFZbGxnSEZPUFlFeFpPb1JERnBYRWN1ZzZWOTNfNXZRQnk5NV9HcW1ocV8yQldHaGZPemdPQk0?oc=5",
    "date": "2026-07-31T10:34:51+00:00",
-   "summary": "اساسيات الأمن السيبراني | دورة كالي لينكس youtube.com",
+   "summary": "اساسيات الأمن السيبراني | دورة كالي لينكس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -568,6 +588,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OMFduSkVWbVBwQ3F4WU9MeVdHV25qUE1zdThIWXVFbExtQ1JCMm92ZTFQMGZ3T0lzSFh0UEpWeHFHUng4c0d4SnlEaldnQ0x1S1RjOWRn?oc=5",
    "date": "2026-07-29T02:09:30+00:00",
    "summary": "Day 7 | Linux Training | FREE SQL & Linux Training YouTube",
+   "tech": "linux",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Complete Linux Training to Get Your Dream Job in IT",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WRjc0eWpHbFpUWkJHZUMtSWRlcnQ1Z2NyQl9mUHh2YUpITHloSHFCUmEwS0NwaFdSdl9zejl5YndCUk9mTkIyNEswTHdJUUhxSFZ5Wm5R?oc=5",
+   "date": "2026-07-23T11:00:25+00:00",
+   "summary": "Complete Linux Training to Get Your Dream Job in IT YouTube",
    "tech": "linux",
    "sourceId": "yt",
    "source": "YouTube",
@@ -637,10 +667,10 @@
    "title": "(4) نظام تشغيل لينكس للمبتدئين | Linux for beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRFRiRmJlRjBCTmZaXzNHYUVlanhJVVgxbGNleVdhTm8yTnpCdHg3WG9kZWVLbWFCS3ZWZWQ3LVVSME5WQ05ncWZBNm9reFhrSjlVM0Zn?oc=5",
    "date": "2026-06-17T17:00:00+00:00",
-   "summary": "(4) نظام تشغيل لينكس للمبتدئين | Linux for beginners youtube.com",
+   "summary": "(4) نظام تشغيل لينكس للمبتدئين | Linux for beginners YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -727,20 +757,20 @@
    "title": "Ubuntu 26.04 | خطوات هامة بعد تنصيب أوبونتو",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yRWpRcGx4MFB3RDQzVFAzYm1rTzVER1dXWF9Sd0VIV0tNUHNOM05Pa3VDQmNVSHEtLXRDRWw4QUhnSFk4c2swMVdrb2NYT2pkQlRxOGpB?oc=5",
    "date": "2026-05-30T17:15:04+00:00",
-   "summary": "Ubuntu 26.04 | خطوات هامة بعد تنصيب أوبونتو youtube.com",
+   "summary": "Ubuntu 26.04 | خطوات هامة بعد تنصيب أوبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Ubuntu 26.04 | تنصيب أوبونتو خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yTTgzb1E4ZmN5akpxa1hEMHE5cXpGcmphM3NSR21qekFUSEhLUXhJbjJ0T0tkelR2aHhLMmZFVGdiX25ibGFoaW1aZWw5eXM1RV9ac0ZB?oc=5",
    "date": "2026-05-28T17:15:27+00:00",
-   "summary": "Ubuntu 26.04 | تنصيب أوبونتو خطوة بخطوة youtube.com",
+   "summary": "Ubuntu 26.04 | تنصيب أوبونتو خطوة بخطوة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -767,10 +797,10 @@
    "title": "Fedora 44 | أفضل تجربة لينكس مع جنوم 50 وبلازما 6.6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZU5Bc0VQMHp2dmUzckI1M2JUQ3ZMRWRXLTJ5SldnQVc3N19kZ09tLWZPOGVVLUhiNmNwT2dLTEhXZ0d5NHZrWFpkRVpiZDBDdnI4ZzNB?oc=5",
    "date": "2026-05-15T17:00:06+00:00",
-   "summary": "Fedora 44 | أفضل تجربة لينكس مع جنوم 50 وبلازما 6.6 youtube.com",
+   "summary": "Fedora 44 | أفضل تجربة لينكس مع جنوم 50 وبلازما 6.6 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -787,10 +817,10 @@
    "title": "كل توزيعات لينكس في فيديو واحد! مقارنة شاملة من الصفر للاحتراف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iOFFqX2hlYzlGZW1YSUFkU0RzX3ZaM2xKaHJvUDlwTzR2aW1weVItd0ZvdGc2WFZKeU1WemVCVDNFZkk1eXo5YlBKZFoxVElpWXZWZlB3?oc=5",
    "date": "2026-05-15T15:00:06+00:00",
-   "summary": "كل توزيعات لينكس في فيديو واحد! مقارنة شاملة من الصفر للاحتراف youtube.com",
+   "summary": "كل توزيعات لينكس في فيديو واحد! مقارنة شاملة من الصفر للاحتراف YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -807,10 +837,10 @@
    "title": "Ubuntu 26.04 LTS Review شرح كيفية تحميل وتثبيت توزيعة أوبونتو لينكس للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpMTRocmxKd0hSYmhwLTBtZ2ZVRnJyTDlrY181eTlvZHdON0pOVWdBZWRaX1JBd1hIaXp2NXJKWURzRDFiaWhiVFppSnk5QkxUNC1ITUJR?oc=5",
    "date": "2026-05-02T16:32:52+00:00",
-   "summary": "Ubuntu 26.04 LTS Review شرح كيفية تحميل وتثبيت توزيعة أوبونتو لينكس للمبتدئين youtube.com",
+   "summary": "Ubuntu 26.04 LTS Review شرح كيفية تحميل وتثبيت توزيعة أوبونتو لينكس للمبتدئين YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -827,20 +857,20 @@
    "title": "دورة Linux Essentials كاملة | شرح من الصفر إلى الاحتراف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pN3lUVkU2ZF9iQ0NpX3FfM2ZhV1lPazhadVVvWGtTeXFMS0M1LW40ZVhaTXg0dHNDOF9xaEFmT3pxbFY0TW9Yclp6OWRnbUd1QmxhTlNB?oc=5",
    "date": "2026-04-29T07:00:00+00:00",
-   "summary": "دورة Linux Essentials كاملة | شرح من الصفر إلى الاحتراف youtube.com",
+   "summary": "دورة Linux Essentials كاملة | شرح من الصفر إلى الاحتراف YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Zorin OS 18.1 | هل مازال البديل الأفضل لويندوز؟ مراجعة لجديد التوزيعة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVWmlZb0hMbm9lMVBkUmR3X0NPUWVla2MydVl2ZGpCTmktTC1VblpFVjQ5MDZ3X2ctcUY2QTlMVWZJN19SVWpyLWdfamw1cHVab29aSklB?oc=5",
    "date": "2026-04-24T18:45:00+00:00",
-   "summary": "Zorin OS 18.1 | هل مازال البديل الأفضل لويندوز؟ مراجعة لجديد التوزيعة youtube.com",
+   "summary": "Zorin OS 18.1 | هل مازال البديل الأفضل لويندوز؟ مراجعة لجديد التوزيعة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -867,10 +897,10 @@
    "title": "لينكس مش نظام تشغيل — وهاد اللي ما حدا بيحكيلك إياه",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oSTdfcDB5dXhweUgzVDB5eFJkTEI2bXdqalEyN2tWNUozTjdpQVg4R1huMHlvR2NkdnJpZjlWQ3NXRjF0SS1YWmhQaEtOaXRiUXZtMHR3?oc=5",
    "date": "2026-04-10T17:00:06+00:00",
-   "summary": "لينكس مش نظام تشغيل — وهاد اللي ما حدا بيحكيلك إياه youtube.com",
+   "summary": "لينكس مش نظام تشغيل — وهاد اللي ما حدا بيحكيلك إياه YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -917,10 +947,10 @@
    "title": "بايثون في ديبيان 13 !!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wS3lWVEpGSTNNbWxYTWpXVVFMRVg5bHFETXYwSGcwaEprWnhfSWhWWjlOZGl6c0ltYnZRZ2VDaTVnRG1seUlVblUxdkQtSlpqUEVyWHF3?oc=5",
    "date": "2026-03-10T19:56:29+00:00",
-   "summary": "بايثون في ديبيان 13 !! youtube.com",
+   "summary": "بايثون في ديبيان 13 !! YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -967,10 +997,10 @@
    "title": "أول 9 تطبيقات أُثبّتها على أي نظام لينكس (سيرفر أو جهاز مكتبي)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ub055YnhZcjRxa29SX2h3Q3RsOFltd0dYSklBb1N4ZW5vRWxvMmktcElxV3k4Rk95YkRXM0ZKdkRYRlZMQXVhaEpQS0lWYkhTWU5kSVNR?oc=5",
    "date": "2026-02-19T18:00:01+00:00",
-   "summary": "أول 9 تطبيقات أُثبّتها على أي نظام لينكس (سيرفر أو جهاز مكتبي) youtube.com",
+   "summary": "أول 9 تطبيقات أُثبّتها على أي نظام لينكس (سيرفر أو جهاز مكتبي) YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -987,10 +1017,10 @@
    "title": "Linux Mint | دليلك الكامل لتنصيب وإعداد التوزيعة بشكل متقدم خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HMnkwX3BtblNpZWpYYXFsdnZpLVk3aTRka2gzSHpfazhERUFFTmpWZGxYQjZlOHRZSGVJMzZIbFZzVDZrQXVXdktMT1d4SmMzRWFJR05R?oc=5",
    "date": "2026-01-26T17:01:24+00:00",
-   "summary": "Linux Mint | دليلك الكامل لتنصيب وإعداد التوزيعة بشكل متقدم خطوة بخطوة youtube.com",
+   "summary": "Linux Mint | دليلك الكامل لتنصيب وإعداد التوزيعة بشكل متقدم خطوة بخطوة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1057,10 +1087,10 @@
    "title": "أحدث إصدار من توزيعة ubuntu شرح طريقة التحميل والتثبيت بجانب ويندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOU3VHUmZ0UDRJcnlBSXdyb21pcG5ESjRQcDYyVk1ad0UxRGZDZHo5SlZmWHVZeG94R3RhNnhTVnp4TDV1TlpwcjlKX0g2aWd1M0VWUW93?oc=5",
    "date": "2025-12-30T10:20:00+00:00",
-   "summary": "أحدث إصدار من توزيعة ubuntu شرح طريقة التحميل والتثبيت بجانب ويندوز youtube.com",
+   "summary": "أحدث إصدار من توزيعة ubuntu شرح طريقة التحميل والتثبيت بجانب ويندوز YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1077,10 +1107,10 @@
    "title": "تثبيت أوبونتو بجانب Windows بدون فلاشة USB أو هارد خارجي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQ3NVRTlGSy04bWlUa1BySzVLUDdpVldzcUpQT3Bqa2w4U0RieDVYSVBuMmRHa294ZVF4ZnJkM1RhVXJrVFF0QkZ0R0tlb3Nrb1MyQ0pn?oc=5",
    "date": "2025-12-27T16:01:27+00:00",
-   "summary": "تثبيت أوبونتو بجانب Windows بدون فلاشة USB أو هارد خارجي youtube.com",
+   "summary": "تثبيت أوبونتو بجانب Windows بدون فلاشة USB أو هارد خارجي YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1107,10 +1137,10 @@
    "title": "Pop OS 24.04 - COSMIC | تثبيت واستعراض كل جديد توزيعة لينكس الرائعة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSUZ2RFNrVXNoQ09YNWVCOXlmNElCS2Zob3IweGpPN3lYbFl1ZHdQdVdFNkJWUkI5SnUyX2pXQkVSQ1YyUVpUMXpoRC1GQTNuVE9wX1VR?oc=5",
    "date": "2025-12-17T17:00:17+00:00",
-   "summary": "Pop OS 24.04 - COSMIC | تثبيت واستعراض كل جديد توزيعة لينكس الرائعة youtube.com",
+   "summary": "Pop OS 24.04 - COSMIC | تثبيت واستعراض كل جديد توزيعة لينكس الرائعة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1127,10 +1157,10 @@
    "title": "Linux Mint | تنصيب واعداد الإصدار المبني على ديبيان مباشرة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44ZHBnb3hUS09INnZXZ2huRFZ5TkE0RzVNZmt6bjNQMU5mZTRkVTc0dDJlU20xQVpHMEg1TG5kRGxLMmtwZWFpSXMzY3lVbmZNeTBSQ213?oc=5",
    "date": "2025-12-11T17:00:18+00:00",
-   "summary": "Linux Mint | تنصيب واعداد الإصدار المبني على ديبيان مباشرة youtube.com",
+   "summary": "Linux Mint | تنصيب واعداد الإصدار المبني على ديبيان مباشرة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1197,10 +1227,10 @@
    "title": "واجهات ويندوز بكل إصداراتها 🔥 على لينكس!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udU5aeWVURS1QSkc3UWJLbG9xY3RyQktheVQwa0otb1dqNDRwTk52V195QnpudmM4YWl4QmxvMm1ZVU05WkpReXAzRFd3dVotTmZTTE9B?oc=5",
    "date": "2025-11-07T20:38:04+00:00",
-   "summary": "واجهات ويندوز بكل إصداراتها 🔥 على لينكس! youtube.com",
+   "summary": "واجهات ويندوز بكل إصداراتها 🔥 على لينكس! YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1217,20 +1247,20 @@
    "title": "Fedora 43 | تنصيب ومراجعة النظام الجديد مع واجهة GNOME 49",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tbXhaMjA4YkxuRFhJUkxsSHQ3WlBOSTZSVlVDZGFERXRRMzdtSnd6OUw0R1FqdTZScFFpU2lwTUt4aUlHLUtWS2Nxd2pTaFBuTGpGaHdR?oc=5",
    "date": "2025-10-31T16:00:58+00:00",
-   "summary": "Fedora 43 | تنصيب ومراجعة النظام الجديد مع واجهة GNOME 49 youtube.com",
+   "summary": "Fedora 43 | تنصيب ومراجعة النظام الجديد مع واجهة GNOME 49 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Omarchy - Hyprland | تنصيب ومراجعة شاملة – هل تعتبر توزيعة فعلًا؟!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1bzRtMllPYVdYS2ltRUhpaGNzZzlHOElfTEVzMGpmMTl4aUVVNUZwRUZQa3dhM2ZpMDBrQ0NyWW9HX1duOFlDVkplb0hlR2hfUTR1dHln?oc=5",
    "date": "2025-10-23T16:00:50+00:00",
-   "summary": "Omarchy - Hyprland | تنصيب ومراجعة شاملة – هل تعتبر توزيعة فعلًا؟! youtube.com",
+   "summary": "Omarchy - Hyprland | تنصيب ومراجعة شاملة – هل تعتبر توزيعة فعلًا؟! YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1247,20 +1277,20 @@
    "title": "تثبيت كالي لينكس كنظام وهمي بجانب الويندوز | How to install Kali Linux",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UYURsSVN6azBoWHdBZjhHUUc2WDE3TWIyM3NQVDRqUkJjY2hjUEd4Z01aS0EwWWE3RE9QM3dndmFBM0taZXV0RTJBYWUzOGQyY2E3NUVR?oc=5",
    "date": "2025-10-18T19:06:06+00:00",
-   "summary": "تثبيت كالي لينكس كنظام وهمي بجانب الويندوز | How to install Kali Linux youtube.com",
+   "summary": "تثبيت كالي لينكس كنظام وهمي بجانب الويندوز | How to install Kali Linux YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Ubuntu 25.10 | تنصيب واكتشاف المميزات الجديدة للتوزيعة الأشهر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2bDlsZ2tnTHZNaFY3Qzl5R0I3TTdUemFTeEMzSS16TUI1SkMxYzI0SmtVWDdVdWJza1hyZjY2Zk5ONWttQUlHMzhwZ3FEWS1BMWVlSEZR?oc=5",
    "date": "2025-10-10T16:00:59+00:00",
-   "summary": "Ubuntu 25.10 | تنصيب واكتشاف المميزات الجديدة للتوزيعة الأشهر youtube.com",
+   "summary": "Ubuntu 25.10 | تنصيب واكتشاف المميزات الجديدة للتوزيعة الأشهر YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1287,10 +1317,10 @@
    "title": "AnduinOS | توزيعة لينكس بملامح ويندوز 11 – تنصيب وتجربة كاملة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjTUFIVTZGeHRfbVk2LW15cDRfMkRjRHhfV3VIcFFqY0RfcHp2RnhVNFgwbGVPLUZnRVRQRFBseDNpOWMzb2VBNkNIQnQwbC1WZktKMGZn?oc=5",
    "date": "2025-09-12T16:30:08+00:00",
-   "summary": "AnduinOS | توزيعة لينكس بملامح ويندوز 11 – تنصيب وتجربة كاملة youtube.com",
+   "summary": "AnduinOS | توزيعة لينكس بملامح ويندوز 11 – تنصيب وتجربة كاملة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1307,60 +1337,60 @@
    "title": "باي باي ويندوز 🔥 وأخيراً تشغيل أفجر ألعاب ويندوز العملاقة على لينكس بسهولة وقوة رهيبة 😯 Pro Gaming",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DaDh6ekFVZmlkT2xDLUh3MkdmamhxcXlWSFdRZ09Vazk2a0ZqTnFkRUs4M2ZOUDRSLS1ORE9IazhYdXJrYVlSVnFfTFhCdHdyWWJJQ0FB?oc=5",
    "date": "2025-09-04T10:25:12+00:00",
-   "summary": "باي باي ويندوز 🔥 وأخيراً تشغيل أفجر ألعاب ويندوز العملاقة على لينكس بسهولة وقوة رهيبة 😯 Pro Gaming youtube.com",
+   "summary": "باي باي ويندوز 🔥 وأخيراً تشغيل أفجر ألعاب ويندوز العملاقة على لينكس بسهولة وقوة رهيبة 😯 Pro Gaming YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Installing Google Chrome on Ubuntu For Odoo Developer",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05YzZ1dmN3RzE1RHNRTm1OZWU3aWZnekluX0Y5Ty1MQVpaZkUwc0xyUlc2YmF1c1drcUFFakFUVWZwUkpPak9YTkdEQ2Y3eWRMaEd4eERn?oc=5",
    "date": "2025-08-28T16:56:29+00:00",
-   "summary": "Installing Google Chrome on Ubuntu For Odoo Developer youtube.com",
+   "summary": "Installing Google Chrome on Ubuntu For Odoo Developer YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Debian 13 Upgrade | الترقية خطوة بخطوة وحل مشاكل الإقلاع GRUB",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11aUlwU1B5UnF2aHBLd3JwVXpDSGE4LXd3QkoyUlJObnhqdFhDcFFGRHZnSkNJaVJjcElaSkp5b1ZRNXl5ZHkyY1A3LVFtb1pzek1LY1Fn?oc=5",
    "date": "2025-08-22T17:00:50+00:00",
-   "summary": "Debian 13 Upgrade | الترقية خطوة بخطوة وحل مشاكل الإقلاع GRUB youtube.com",
+   "summary": "Debian 13 Upgrade | الترقية خطوة بخطوة وحل مشاكل الإقلاع GRUB YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "الدرس السادس تنصيب ويب سيرفر على لينكس وتنصيب الفايروول والتحكم فى الجهاز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15Z0c3SWdvM1l0QVEtd1E5cFNrUkhNY3pFbklvaEh0aWpGUHowSm13YXBxOXExaW42dzllWDZLSVAta2cwdEJEYWhLRTNnOFU4dzF3NndR?oc=5",
    "date": "2025-08-20T13:02:58+00:00",
-   "summary": "الدرس السادس تنصيب ويب سيرفر على لينكس وتنصيب الفايروول والتحكم فى الجهاز youtube.com",
+   "summary": "الدرس السادس تنصيب ويب سيرفر على لينكس وتنصيب الفايروول والتحكم فى الجهاز YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "مقدمة سلسلة شرح لينكس من الصفر ..احمى نفسك ومعلوماتك واشتغل بإحترافية وإدرس السلسلة دى",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzTUZmUnlrVGFfdkFmejE2V3BuSHRIM1JuVWgzeDZ6UWRTZ2NuNWM1Wl9rMUxqUVh3U1VONEExTXkxc2wxNUdRRmVGb0UtRWhYdV9oa1d3?oc=5",
    "date": "2025-08-20T13:02:57+00:00",
-   "summary": "مقدمة سلسلة شرح لينكس من الصفر ..احمى نفسك ومعلوماتك واشتغل بإحترافية وإدرس السلسلة دى youtube.com",
+   "summary": "مقدمة سلسلة شرح لينكس من الصفر ..احمى نفسك ومعلوماتك واشتغل بإحترافية وإدرس السلسلة دى YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "ثبت برامج على أي توزيعة #لينكس مع #flatpak",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82WjhrMHlubHBWUzQzbU9vX0lacVJDSlpGWjg4dHZBN0hMaE5PekFpckw1TnM4T0FrY1RzYnE5dnZZS0xjbVZRbWJHMHFVbWVfWkpPMnBR?oc=5",
    "date": "2025-08-18T14:30:16+00:00",
-   "summary": "ثبت برامج على أي توزيعة #لينكس مع #flatpak youtube.com",
+   "summary": "ثبت برامج على أي توزيعة #لينكس مع #flatpak YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1377,10 +1407,10 @@
    "title": "Debian 13 | الدليل الكامل — تنصيب متقدّم: نظام أساسي + اختر الواجهة + ZRAM لأداء أفضل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZWJmRF9jTXB5LXpFem9qellTOTJQaUQwZDN3N3BOS3lrN2ZCUHQtRU91RXl0cHBhUkRZNWh3WEhtWGlWT0dfRkxQbnNhNkM0Yk0teDlB?oc=5",
    "date": "2025-08-08T17:30:25+00:00",
-   "summary": "Debian 13 | الدليل الكامل — تنصيب متقدّم: نظام أساسي + اختر الواجهة + ZRAM لأداء أفضل youtube.com",
+   "summary": "Debian 13 | الدليل الكامل — تنصيب متقدّم: نظام أساسي + اختر الواجهة + ZRAM لأداء أفضل YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1397,20 +1427,20 @@
    "title": "الدرس 1: شرح تثبيت لينكس Redhat وDebian بالخطوات | Linux Installation Guide",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCUThDbjZ4eE1zRWtZNUZMV3l3WlVTdmpxUF9jQVhBSFBiQm51ZFBlYkliUjJHSjlYYjJudUh4WDBhVXBCR0VuQ2JTY3RReFRXWWxHLXRR?oc=5",
    "date": "2025-08-05T10:35:06+00:00",
-   "summary": "الدرس 1: شرح تثبيت لينكس Redhat وDebian بالخطوات | Linux Installation Guide youtube.com",
+   "summary": "الدرس 1: شرح تثبيت لينكس Redhat وDebian بالخطوات | Linux Installation Guide YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "هل cachy OS التوزيعة المثالية !!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eWFqUlRyU19qdzNtYmpyM25BeWZTTjNMLWgxSGp5VUIxbHgxalpud2hVWVdTWHVLR2RqYXlGdHA4Nk85d0c0dE1GajlEMjJfS1VVUlpn?oc=5",
    "date": "2025-07-16T21:14:15+00:00",
-   "summary": "هل cachy OS التوزيعة المثالية !! youtube.com",
+   "summary": "هل cachy OS التوزيعة المثالية !! YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1427,10 +1457,10 @@
    "title": "اكتشف أفضل 3 تطبيقات في طرفية لينكس لزيادة إنتاجيتك اليومية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNEswb1YzbFNVUENZM2lTakJZaWYwZVZ6b29KZGtNc1lzU2lNRXY3OU9kcllENXBzdXdpUXg1azhpYnA1MHdCU2ZNUFFIUjhsZGh1Y0hB?oc=5",
    "date": "2025-06-20T17:54:04+00:00",
-   "summary": "اكتشف أفضل 3 تطبيقات في طرفية لينكس لزيادة إنتاجيتك اليومية youtube.com",
+   "summary": "اكتشف أفضل 3 تطبيقات في طرفية لينكس لزيادة إنتاجيتك اليومية YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1447,20 +1477,20 @@
    "title": "وداعًا ويندوز 🚨 Q4OS Linux النظام العتيق الذي دمر ويندوز ويعمل على 1GB RAM 🚀 بديل خارق يحتل العرش",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04eE5PSmtpbkRzUmJJLWRSOEpKMXpLa2ttX19ueWlWdU52ekZGZExSUkdnUy14cXlpVWZUVVdhbDY3eWFFNDBBVXpHZUFDTGhRaHB2MFZn?oc=5",
    "date": "2025-06-14T11:18:13+00:00",
-   "summary": "وداعًا ويندوز 🚨 Q4OS Linux النظام العتيق الذي دمر ويندوز ويعمل على 1GB RAM 🚀 بديل خارق يحتل العرش youtube.com",
+   "summary": "وداعًا ويندوز 🚨 Q4OS Linux النظام العتيق الذي دمر ويندوز ويعمل على 1GB RAM 🚀 بديل خارق يحتل العرش YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "اماكن الديبيان في خريطة الثلج والبركان once human mobile",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ETnIzQ09TV2s0SGktaW1qYUZIajdYd2NvSlQ3WXAwMHRCVDdIcUV5QkFuODg5aWpWQ1VRMUcxbkRzcVpBMlc2aS1ZOS0yOHZ1ODhRS3F3?oc=5",
    "date": "2025-06-12T17:08:02+00:00",
-   "summary": "اماكن الديبيان في خريطة الثلج والبركان once human mobile youtube.com",
+   "summary": "اماكن الديبيان في خريطة الثلج والبركان once human mobile YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1517,10 +1547,10 @@
    "title": "linux for beginner | لينكس للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4WWo3UzUzbFptNS1pODlmdmdEZ2dxV1l6Q3dxMHZNOVZDeDFSQzN6YktEclM2Xy1ETk5GcVg3bWt0bnNBOHZqZEpxVExScS01T1VJRl93?oc=5",
    "date": "2025-05-17T10:46:12+00:00",
-   "summary": "linux for beginner | لينكس للمبتدئين youtube.com",
+   "summary": "linux for beginner | لينكس للمبتدئين YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1547,10 +1577,20 @@
    "title": "6 أشياء أقوم بها بعد تثبيت أوبونتو",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWU3VONC1LM29zTk4zV2trbnNCYmFOZG4zNzBsVmptd2JrcFdhQXlUZzhELU5QbEtsck1kNEwtYXlBRU5iUFNVMms3UkFLSWVyT0o0R19B?oc=5",
    "date": "2025-04-22T17:19:49+00:00",
-   "summary": "6 أشياء أقوم بها بعد تثبيت أوبونتو youtube.com",
+   "summary": "6 أشياء أقوم بها بعد تثبيت أوبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الفرق بين اصدارات لينكس المختلفة واى إصدارة مناسبة ليا",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTkZ5aFJzdmp0VWRDM1dZOFBOLVZuQk9jcUd5SVdaMzBfTnZkX1dUVUxhd1ZERkJiNlkxcTIzS20xNVhsNjV3TUdmTC16WE1MczdFcUNn?oc=5",
+   "date": "2025-04-21T22:20:00+00:00",
+   "summary": "الفرق بين اصدارات لينكس المختلفة واى إصدارة مناسبة ليا YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1567,10 +1607,10 @@
    "title": "ناس كتير اوى رمت ويندوز وحولت ل لينكس مينت تعالوا بقى نسطب عليه كل برامجنا ونتعلمة ف نص ساعة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81TjhTY05jRjhiZURMMG5fMWdEcktDcHRMbEN6OXBLREMybEQ1N3drNjFpbTRRaV94QW1BSjhZdk12Tk5IbUVKSGw5VkhEN2NlZnN1a0N3?oc=5",
    "date": "2025-04-17T10:07:44+00:00",
-   "summary": "ناس كتير اوى رمت ويندوز وحولت ل لينكس مينت تعالوا بقى نسطب عليه كل برامجنا ونتعلمة ف نص ساعة youtube.com",
+   "summary": "ناس كتير اوى رمت ويندوز وحولت ل لينكس مينت تعالوا بقى نسطب عليه كل برامجنا ونتعلمة ف نص ساعة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1607,40 +1647,40 @@
    "title": "GNOME 48 | جديد أهم واجهات لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Mc0JYMUV0X1NLWmFzRy1EMTFnMUdDRFJSREZyNFdTbkZfRWxja3dzcGp2T2RSaVp6R2ExYnprX0hTS2QycHBEY2tQbUM2ajg0UTh6enN3?oc=5",
    "date": "2025-03-29T18:00:06+00:00",
-   "summary": "GNOME 48 | جديد أهم واجهات لينكس youtube.com",
+   "summary": "GNOME 48 | جديد أهم واجهات لينكس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "طريقة تحميل وتنصيب وحذف البرامج على #لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QZng1ZWp4Z0ZYZFBHN3dDUk5PZ2ZDRnBtQm1mM0NUUUljaWE0dWZNX1BNLUNGUlVwRzlmR3VGYVJOSGFJSHhtMjhFSFlnZWFqRmlNVi1R?oc=5",
    "date": "2025-03-18T13:45:00+00:00",
-   "summary": "طريقة تحميل وتنصيب وحذف البرامج على #لينكس youtube.com",
+   "summary": "طريقة تحميل وتنصيب وحذف البرامج على #لينكس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تجربة وشرح استخدام لينكس Linux Mint",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRXFOaTFOa01uZkFVWlJja01nXzQ5NlpTRzZHeU52RTdabUw5ZHNqTHc4WGpURkF4TElyU1JORGJwUEZaMllELUZCaDViNTg1NGRUVzF3?oc=5",
    "date": "2025-03-18T11:05:55+00:00",
-   "summary": "تجربة وشرح استخدام لينكس Linux Mint youtube.com",
+   "summary": "تجربة وشرح استخدام لينكس Linux Mint YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Void Linux | شرح كامل لتنصيب وضبط التوزيعة - توزيعة مبنية من الصفر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWlU3M0NKTEFBVjNMcTY5X19ldVNWZk1XT0hIZm1LSHYtZ0c0NW0yYTh3aGhXdHB4S0hla01BV1B2TlFVRFNLLS1VQ0FRYjFRQmRueFFn?oc=5",
    "date": "2025-02-21T17:00:33+00:00",
-   "summary": "Void Linux | شرح كامل لتنصيب وضبط التوزيعة - توزيعة مبنية من الصفر youtube.com",
+   "summary": "Void Linux | شرح كامل لتنصيب وضبط التوزيعة - توزيعة مبنية من الصفر YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1657,10 +1697,10 @@
    "title": "How to Install Kali Linux in Arabic | شرح تثبيت كالي لينكس بطريقة الصحيحة للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVlFmaEt5ZGJjV2tueWNrVlo4enhpZEhFYmwxdWdJOTU4LU45QTIyeWgzU2VBZm1IdkJ1dFdFdXE3eFF6eGpuLXJBZDA4dkNjbXpUbTFn?oc=5",
    "date": "2025-01-28T22:45:19+00:00",
-   "summary": "How to Install Kali Linux in Arabic | شرح تثبيت كالي لينكس بطريقة الصحيحة للمبتدئين youtube.com",
+   "summary": "How to Install Kali Linux in Arabic | شرح تثبيت كالي لينكس بطريقة الصحيحة للمبتدئين YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1684,73 +1724,53 @@
    "lang": "en"
   },
   {
-   "title": "Linux Command Line - Entire Tutorial Series",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BZE1LMW1laGNPN3ZaZkFJZk8zakdzYTdtbTYyTWZDTjBBZ3lZMWltamh6bW1EZlUtNmlVV1BCVG1obXFpcDhCUzRfZE1pa3BldVdFVjN3?oc=5",
-   "date": "2025-01-18T11:30:02+00:00",
-   "summary": "Linux Command Line - Entire Tutorial Series YouTube",
-   "tech": "linux",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "أفضل توزيعة لينكس على الإطلاق",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tQURneEFCTk5jSUpoU09LUmxrNGlJR0lSbUZYX2dxU1NLRjJWTk9TZ0xXLUUxSFJYUV83QmlNX3hEME02U2lxWFpYUXNNampIZEdtWkx3?oc=5",
    "date": "2025-01-16T15:30:07+00:00",
-   "summary": "أفضل توزيعة لينكس على الإطلاق youtube.com",
+   "summary": "أفضل توزيعة لينكس على الإطلاق YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "070-Network Services-apache part2-Linux Course 2024",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zQ3VZWlljX2M5WXh1bkFveWtLRnI2a2xZNy02Mk9NSjFsSEdwTDM1c0ZQRmYxTHFSRjc1dXZSYU9PYXdNWG9IdzFUZ1djdFFkckgwR1hn?oc=5",
-   "date": "2025-01-13T08:00:26+00:00",
-   "summary": "070-Network Services-apache part2-Linux Course 2024 youtube.com",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "en"
   },
   {
    "title": "للمبتدئين-تحميل وتثبيت نظام Ubuntu على برنامج VrtualBox",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iT1FpbndaOTZ4RDhZTHlTX19xdjFTSE1lODBVWHB2Zzk0aEZ1Rmc0ZTRmY1V2cXItejM2NUI2bkRhZWNIT1UtQTRxcVpteFdjRnl5aXlB?oc=5",
    "date": "2025-01-13T06:00:00+00:00",
-   "summary": "للمبتدئين-تحميل وتثبيت نظام Ubuntu على برنامج VrtualBox youtube.com",
+   "summary": "للمبتدئين-تحميل وتثبيت نظام Ubuntu على برنامج VrtualBox YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كيفية تثبيت البرامج على أوبونتو 24.04",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nc0tydGZuYm9nQXI3OHZXM1ZheloybVdkZWRVTVlqVVFYdTBDRHZHZFZZSjdPVElaZXJPTUFCS3pTNHlscWZPVFJ2LS02Ujc1Wjk2aXB3?oc=5",
    "date": "2025-01-03T16:38:29+00:00",
-   "summary": "كيفية تثبيت البرامج على أوبونتو 24.04 youtube.com",
+   "summary": "كيفية تثبيت البرامج على أوبونتو 24.04 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "ما هي أفضل توزيعة لينكس؟ لك أنت!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MbXp1dklpM3pDWEQ3WkUybUxWeDFZZlFWSlduZnhhdEVzazVDd0JPY3RPTkdMUjRYZ0s5TmdZMUZTX1FidFNrZnhTWkdpamJ1S0lKc3VR?oc=5",
    "date": "2024-12-30T17:00:11+00:00",
-   "summary": "ما هي أفضل توزيعة لينكس؟ لك أنت! youtube.com",
+   "summary": "ما هي أفضل توزيعة لينكس؟ لك أنت! YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "لينكس للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTUVYNmItQllNaGJxcTM0SUpzdWl1bU85M0ZYaW5NZUFRQms4U1NaNnVJTndJcVA2blI3c0tOdnItVXlVQXgxMWkwdy1DVXo2T3dVTlhB?oc=5",
    "date": "2024-12-01T11:00:20+00:00",
-   "summary": "لينكس للمبتدئين youtube.com",
+   "summary": "لينكس للمبتدئين YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1767,50 +1787,50 @@
    "title": "#سعيدة | المراتب الأولى في المسابقة الوطنية لإنشاء توزيعة لينكس الجزائرية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtYVJEcEtOOTVBMXU1eVA3MVdRNTNuMmNNSk5YY2NYZm5aNk5yOU1IY2NFMTUxTE9sTEFlMUpJNERKaUZzcXA0VnFCSloxc1owX2NzVWJ3?oc=5",
    "date": "2024-11-19T19:59:13+00:00",
-   "summary": "#سعيدة | المراتب الأولى في المسابقة الوطنية لإنشاء توزيعة لينكس الجزائرية youtube.com",
+   "summary": "#سعيدة | المراتب الأولى في المسابقة الوطنية لإنشاء توزيعة لينكس الجزائرية YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تحسين دقة الشاشة وأداء العرض في Ubuntu 24.04",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PczltOGdhSTl2Znd1MklnUllWRlhmX2E0cWNoRG9nRlIwWTNSOUZicExpc3BuQkUwR0xKOUVMbl9oSUxtdi1rTi11TU5zS1RSSko2eTBR?oc=5",
    "date": "2024-11-10T12:28:33+00:00",
-   "summary": "تحسين دقة الشاشة وأداء العرض في Ubuntu 24.04 youtube.com",
+   "summary": "تحسين دقة الشاشة وأداء العرض في Ubuntu 24.04 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تعلم لينكس من الصفر | سطر الأوامر وواجهة المستخدم | كراش كورس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2aUVfM2NiSFplcWxWcm9oRUFrWmhFeE5LdzV1VW5vdzV0dC1jUlg3bVNlelEyN0lEM2U3akRjUjEzb2lxQm9XUlJ6YXZCV1lIR2duQmJB?oc=5",
    "date": "2024-11-01T11:21:06+00:00",
-   "summary": "تعلم لينكس من الصفر | سطر الأوامر وواجهة المستخدم | كراش كورس youtube.com",
+   "summary": "تعلم لينكس من الصفر | سطر الأوامر وواجهة المستخدم | كراش كورس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "اختيار توزيعة لينكس الأنسب لاحتياجك! What is Linux ؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NaEk5NGJCQ0pLWHJIaFpXeXNiNTJZcUlEMFhLWXJkSktJa2pSUkFBYVNxTlpDMUxCTXZVaENZMmlrd29CMlJfZl9CdzJRWS1PdXo1eXRR?oc=5",
    "date": "2024-10-25T11:00:44+00:00",
-   "summary": "اختيار توزيعة لينكس الأنسب لاحتياجك! What is Linux ؟ youtube.com",
+   "summary": "اختيار توزيعة لينكس الأنسب لاحتياجك! What is Linux ؟ YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Linux Guide (WSL + Docker + Linux VM) | ليه بنستخدم لينكس ؟ - شرح عملي🐧",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BX3R5ZEJ4TndTQ2xDUkdQSElNcmp2bVNCTkJmclQ3REhUMkdSa3c4MEE1NmZENFpGb2VGaXYzZTlVaUdlMVlhTnlKSjVCV1IxZ0xGc3Nn?oc=5",
    "date": "2024-10-08T13:00:43+00:00",
-   "summary": "Linux Guide (WSL + Docker + Linux VM) | ليه بنستخدم لينكس ؟ - شرح عملي🐧 youtube.com",
+   "summary": "Linux Guide (WSL + Docker + Linux VM) | ليه بنستخدم لينكس ؟ - شرح عملي🐧 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1834,6 +1854,16 @@
    "lang": "ar"
   },
   {
+   "title": "شرح أدوات Kali Linux لتحليل واختبار كلمات المرور Passwors Attacks | للمبتدئين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBodzdOMjlxLVkyQ2JyUVdhRVJPMFRQQW1OOXhTbGRlUkdraFVoaFVrQ2NoSnhtZ0ZQZHNpT25TTXJuWTBWV05nTzI5M3duY2E2NktrbjJB?oc=5",
+   "date": "2024-09-16T09:35:06+00:00",
+   "summary": "شرح أدوات Kali Linux لتحليل واختبار كلمات المرور Passwors Attacks | للمبتدئين YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "openSUSE Leap | تنصيب ونظرة عامة على التوزيعة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVmEtTjJNWlJnTTJKczctWXRXRm9TRFFTQzY0NVU3WWxXanQ5YWxreGFVbDNBQlZOSGZ5LV81UUVBZFA2R1NpOVNOMWp5Um92azRjLTRn?oc=5",
    "date": "2024-08-31T16:01:01+00:00",
@@ -1847,20 +1877,20 @@
    "title": "شرح بنية نظام ملفات لينكس والفرق بينها وويندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3V0ZUUFlBdmJqZ2g2bjR3b0s1aENKVE9mb2M1Mk0xUWluTUUtcU1iN1RLNVRMVDh4RlhFYXZ2TFlkNGlCazg5VzFvM3ZDNVBvS3pGcjF3?oc=5",
    "date": "2024-08-10T05:32:11+00:00",
-   "summary": "شرح بنية نظام ملفات لينكس والفرق بينها وويندوز youtube.com",
+   "summary": "شرح بنية نظام ملفات لينكس والفرق بينها وويندوز YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Linux Mint 22 | تنصيب وإعداد التوزيعة خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YVm9RX3huVzdSRDIzamtQdk5IUkNORE1zY2FVa1kweGs4ZHYwa2xWRVBfdE9UUkszMmJ5VmJoUGNOTE1fclh4b29Cbkt0alJlNmNDUHJB?oc=5",
    "date": "2024-08-05T16:01:00+00:00",
-   "summary": "Linux Mint 22 | تنصيب وإعداد التوزيعة خطوة بخطوة youtube.com",
+   "summary": "Linux Mint 22 | تنصيب وإعداد التوزيعة خطوة بخطوة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1877,150 +1907,150 @@
    "title": "شرح طريقة تشغيل ألعاب ويندوز على لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wRnlOMHRMS1JzXzEyaWM4Q25DdFhRMmFUS01TQ3pmN3d6RldmYnFyQWNwLUZKVFYydzNFem1kTlVCQ2hOTjRrM0d4elI0NGpmemZyOURn?oc=5",
    "date": "2024-07-22T16:00:14+00:00",
-   "summary": "شرح طريقة تشغيل ألعاب ويندوز على لينكس youtube.com",
+   "summary": "شرح طريقة تشغيل ألعاب ويندوز على لينكس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Ubuntu 24.04 | الانتقال الآمن من ويندوز إلى أوبونتو والحفاظ على كل ملفاتك الشخصية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQlFuWlFDVG5Jb1dfdUxHMDZrZ2dWR3ZsY1NqYmZXRzVnSE00OG9KLVE1NE85NmJXTWo5bFlUNkFRLWp3NmJETTJQRUw2OFMyR1BSR2Z3?oc=5",
    "date": "2024-06-27T16:00:33+00:00",
-   "summary": "Ubuntu 24.04 | الانتقال الآمن من ويندوز إلى أوبونتو والحفاظ على كل ملفاتك الشخصية youtube.com",
+   "summary": "Ubuntu 24.04 | الانتقال الآمن من ويندوز إلى أوبونتو والحفاظ على كل ملفاتك الشخصية YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "إعداد لينكس لمستخدم مبتدئ | ألعاب ويندوز على لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KY1NkZ3ZMN2JSbkpaQ1FDTk5idFZneXcxU1NzeVNNWTNHaE9rcFFxbVFmNFhTczQ2bXp0RHlhQWM0ZmJMZ0tRVndzZkxWTVJlVUYyYXpn?oc=5",
    "date": "2024-06-21T16:00:17+00:00",
-   "summary": "إعداد لينكس لمستخدم مبتدئ | ألعاب ويندوز على لينكس youtube.com",
+   "summary": "إعداد لينكس لمستخدم مبتدئ | ألعاب ويندوز على لينكس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تعلم نظام التشغيل لينكس في ٣ ساعات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05RHRkdy1Benc5VGFmekZwb2NhaTNVaXh6di1VcGFMc3pfN0VxYnVPVWF2NmdUSHJUQmlLU2VCNGJFMUhocFotMDhnc3ltV01qUHRnbzNR?oc=5",
    "date": "2024-06-11T18:41:56+00:00",
-   "summary": "تعلم نظام التشغيل لينكس في ٣ ساعات youtube.com",
+   "summary": "تعلم نظام التشغيل لينكس في ٣ ساعات YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Debian | الترقية بعد عامين من عدم الاستخدام",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wZ3JENkVpZTV6Ul84NS02cmJQaHNycEtpZzZqUnIwZFJsTHBBVldXd01xRk11c2pCZnFvOWJYaTFTclBrMFBjSjVCaXV2cUQycEtiazd3?oc=5",
    "date": "2024-06-07T16:00:13+00:00",
-   "summary": "Debian | الترقية بعد عامين من عدم الاستخدام youtube.com",
+   "summary": "Debian | الترقية بعد عامين من عدم الاستخدام YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "مستودعات ديبيان !!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKMy1YRjVpTTRnZU9QWGQ1TnVFcGpvUXQwWHgyWkR6bmVlU2tCb3RhWE83Yng2VnBQWFZ0REFhZk9neGlqRVNIQlVtRGp1eFhKdndaQ1F3?oc=5",
    "date": "2024-06-06T14:00:43+00:00",
-   "summary": "مستودعات ديبيان !! youtube.com",
+   "summary": "مستودعات ديبيان !! YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كيفية تثبيت Ubuntu 24.04 LTS جنبًا إلى جنب مع Windows 10 /11",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XRU9EMzlmX3NDQ0psTDM5NzVZTVZKMzZOWlJRUTVJa2ZFVnJJeU1RYUhRaExMRlpnSEVydGszV0pSQVl0aXRXVXN1dWM4ZUhCSXd1eENR?oc=5",
    "date": "2024-06-04T09:08:50+00:00",
-   "summary": "كيفية تثبيت Ubuntu 24.04 LTS جنبًا إلى جنب مع Windows 10 /11 youtube.com",
+   "summary": "كيفية تثبيت Ubuntu 24.04 LTS جنبًا إلى جنب مع Windows 10 /11 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "احدث نسخة من نواة لينكس على ديبيان !!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLU0NldjQzQVMzVmtCZTA1d3g3TkNFcEpUNnRfWjNFMS1fTy1Rb080aHF4RlRFMWRxX0daQl9iRC1tRlRtdGtnOGFfdGtUOHVqekJrZDdB?oc=5",
    "date": "2024-06-03T14:00:26+00:00",
-   "summary": "احدث نسخة من نواة لينكس على ديبيان !! youtube.com",
+   "summary": "احدث نسخة من نواة لينكس على ديبيان !! YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "حل مشكله حجم الشاشه لنظام ابونتو على فيرشوال بوكس Make Oracle VM VirtualBox full screen for Ubuntu",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EcVFTckNvcUtHQkpsQ1FobTRrTVI1NlhXdmIza1lJUUM2MGxOSE9EUGpGSlRKWjFhUXNUUmVQaERaMExvS2dVMDVhNzB1Q0VlZEFUR21B?oc=5",
    "date": "2024-06-02T13:14:33+00:00",
-   "summary": "حل مشكله حجم الشاشه لنظام ابونتو على فيرشوال بوكس Make Oracle VM VirtualBox full screen for Ubuntu youtube.com",
+   "summary": "حل مشكله حجم الشاشه لنظام ابونتو على فيرشوال بوكس Make Oracle VM VirtualBox full screen for Ubuntu YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تثبيت تعريف كرت شاشة نفيديا على ديبيان | Nvidia Debian",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuWG4xekg3Z0Nfc1JOb0dIaEpEY3ludEZ4dnN2NHIwMVcyTUNvQk9WSkE1S3pYbmxQS3VkMmh5dXBUT0lmZlVvZkFNbW5hOWlTWHcxX2Zn?oc=5",
    "date": "2024-05-31T08:58:47+00:00",
-   "summary": "تثبيت تعريف كرت شاشة نفيديا على ديبيان | Nvidia Debian youtube.com",
+   "summary": "تثبيت تعريف كرت شاشة نفيديا على ديبيان | Nvidia Debian YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Ubuntu 24.04 | أهم الخطوات بعد تنصيب أوبونتو",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PYjliVk4wamJMazh6VFZEbkMxc005NVBjQ2ZGaUZYYWJEWTNINkNwRzVqZ1BzdkQ3TGpzOXdzZ0h6cDhkOXBlbGI1Y0Z0QjRJYWVYQ1Z3?oc=5",
    "date": "2024-05-29T16:00:20+00:00",
-   "summary": "Ubuntu 24.04 | أهم الخطوات بعد تنصيب أوبونتو youtube.com",
+   "summary": "Ubuntu 24.04 | أهم الخطوات بعد تنصيب أوبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Ubuntu 24.04 LTS | مراجعة وعرض لجديد أوبونتو",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUGVRaHpobG5xMkxoMTRZVXdCcE1CSGZoM0wtMnRQRTdqLXNPZjl4d3RBNWw3RnQ3M0phYlJGZm5DVlV5dWp4amtWdkhZcVJkenBzODZn?oc=5",
    "date": "2024-05-02T16:00:32+00:00",
-   "summary": "Ubuntu 24.04 LTS | مراجعة وعرض لجديد أوبونتو youtube.com",
+   "summary": "Ubuntu 24.04 LTS | مراجعة وعرض لجديد أوبونتو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Ubuntu 24.04 | تحميل وتنصيب أوبونتو بالتفصيل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83SjZpT3JqZ1ZrdHg3S0YxUF9CV09Rd0xPbGhFRnJqZUZWUVJhZ1NWMkRfRWdoWkxfQXF0ZmJWQmJqay1IaGN3WjZ2U3YybEtXR2lSQWpB?oc=5",
    "date": "2024-04-29T16:00:08+00:00",
-   "summary": "Ubuntu 24.04 | تحميل وتنصيب أوبونتو بالتفصيل youtube.com",
+   "summary": "Ubuntu 24.04 | تحميل وتنصيب أوبونتو بالتفصيل YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Arch | أسهل طريقة لتنصيب أرش لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SRnZWdDBseHpyQ3JRUEl5ZXJRVGhoVkRfMmVTTmp4ZHV6VXIySkMyanlqajFmU0pmdFg1WkVRWUJyVkFXM1BpX1NORnAtQkw3Qkt3ampB?oc=5",
    "date": "2024-04-19T17:00:23+00:00",
-   "summary": "Arch | أسهل طريقة لتنصيب أرش لينكس youtube.com",
+   "summary": "Arch | أسهل طريقة لتنصيب أرش لينكس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Wubuntu | تنصيب ومراجعة لتوزيعة ويندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Wb2VPN2daZ0NzTC03d0RxbHcwUHdGSEFNckkxTFZSMlktMVh4VTFmQ01yc0JPczJLc013R09wQmpYbWo1Z0tLTkdOdGJkNWFCTGo2UTF3?oc=5",
    "date": "2024-03-08T15:00:18+00:00",
-   "summary": "Wubuntu | تنصيب ومراجعة لتوزيعة ويندوز youtube.com",
+   "summary": "Wubuntu | تنصيب ومراجعة لتوزيعة ويندوز YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2037,40 +2067,40 @@
    "title": "أسرع طريقة لتثبيت Arch Linux",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QVGt0QUk2dVo1RFVNbnJYNEYyZ3A4R0dKX2o4c2o0czVIT2dyamt3bGluTFRqekxvb0VNTzlGTVBpV0VXdVk3cW8xd2VKUkFZeUNob2l3?oc=5",
    "date": "2024-02-01T14:00:16+00:00",
-   "summary": "أسرع طريقة لتثبيت Arch Linux youtube.com",
+   "summary": "أسرع طريقة لتثبيت Arch Linux YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "انتقل من ويندوز إلى لينكس منت وحافظ على كل ملفاتك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpVVBlWExOWmltYzk5VXdhTm9QV0l5VUl1WUhKLXNyekl2MW50Tmp6SlRWSF9TT0kta1FPYVY1TldPdlBuWmV6SFUtUVlWOFRsbV9rUlB3?oc=5",
    "date": "2024-01-26T17:00:50+00:00",
-   "summary": "انتقل من ويندوز إلى لينكس منت وحافظ على كل ملفاتك youtube.com",
+   "summary": "انتقل من ويندوز إلى لينكس منت وحافظ على كل ملفاتك YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Linux Mint | شرح تنصيب النظام مع الإقلاع الآمن",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vVy1nVjVINnN4R1VmaWZhYWZYcEk2UjdVY1NFX3ZncWpfVmxyU1B5b2s1TWlFWW93bW8zSmtwM1RsbkVkZGlBd2lSZGRQQVhtS0xrSVZR?oc=5",
    "date": "2024-01-24T17:00:32+00:00",
-   "summary": "Linux Mint | شرح تنصيب النظام مع الإقلاع الآمن youtube.com",
+   "summary": "Linux Mint | شرح تنصيب النظام مع الإقلاع الآمن YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تثبيت ديبيان 12 (الجزء الأول)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTSjBxTUZsT3dqRmVTQnBvcU1RYTlZQkYwN25ub0hhNGxXS1p3T0FpY3YxNU56Q1FycmNTU0gwTzBMbHVDY2RlUkZBUWk5em81Z252czdR?oc=5",
    "date": "2024-01-08T08:40:41+00:00",
-   "summary": "تثبيت ديبيان 12 (الجزء الأول) youtube.com",
+   "summary": "تثبيت ديبيان 12 (الجزء الأول) YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2087,60 +2117,60 @@
    "title": "تثبيت أوبونتو بجانب ويندوز 10 أو 11 | شرح Dual Boot خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EaWxzQWdsRWtsVS1ZcFBoMzU4azdvTHgwTFQ3Nk5jcmg2R1Q0UURjcS1udGx0Zjh5V0tMaVBuV2VhUUlkX1VaUDVveTdWRWRTblp5LXZB?oc=5",
    "date": "2024-01-07T10:38:18+00:00",
-   "summary": "تثبيت أوبونتو بجانب ويندوز 10 أو 11 | شرح Dual Boot خطوة بخطوة youtube.com",
+   "summary": "تثبيت أوبونتو بجانب ويندوز 10 أو 11 | شرح Dual Boot خطوة بخطوة YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تعريب نظام الابونتو ubuntu بالكامل | تعريب القوائم والواجهة والاعدادات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PT2N5QkQ5SjJXSndyYWJ4R0VrRUlORDBPblQtSmM2OW8ydldXWFNwRnB1TWJkRlpBcERta3FHUmlhTExXY25NZDRfTm9rN0V4UmI0YTVR?oc=5",
    "date": "2024-01-05T12:38:03+00:00",
-   "summary": "تعريب نظام الابونتو ubuntu بالكامل | تعريب القوائم والواجهة والاعدادات youtube.com",
+   "summary": "تعريب نظام الابونتو ubuntu بالكامل | تعريب القوائم والواجهة والاعدادات YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تصطيب و تشغيل بورتابل كل الانظمة من فلاشة واحدة كالي لينكس وويندوز و Kali لينكس واندرويد وهايرنز USB",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5WURYUEpoMWszNkpJVTdGUmUxSHloaEt6aHkxYnV6d0RBRE9FVk5Uand4eXZkMHFTYXRrZGRkU3dzTWxBekpxS2dpcFhsRE56V3lhLTR3?oc=5",
    "date": "2023-12-18T18:00:11+00:00",
-   "summary": "تصطيب و تشغيل بورتابل كل الانظمة من فلاشة واحدة كالي لينكس وويندوز و Kali لينكس واندرويد وهايرنز USB youtube.com",
+   "summary": "تصطيب و تشغيل بورتابل كل الانظمة من فلاشة واحدة كالي لينكس وويندوز و Kali لينكس واندرويد وهايرنز USB YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Bottles | تشغيل تطبيقات ويندوز على لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vX2FMSDVEeU11eFBVSU1ZVkZDWHBQeVp2a3dxcVo0VGdrYkhKWndNdWRObnhUVHBwT2xQTS0wUDY0QV95S2l5Z0x0cEJBY0UwcWEwZ21R?oc=5",
    "date": "2023-12-11T15:30:13+00:00",
-   "summary": "Bottles | تشغيل تطبيقات ويندوز على لينكس youtube.com",
+   "summary": "Bottles | تشغيل تطبيقات ويندوز على لينكس YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "لا تستخدم فيدورا قبل مشاهدة هذا الفيديو",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vS1pnMDlBckswVHIxcmJSQ21lNHM3bWJnNEFZS2VZYnFDWEUtNHczWVYtU2JvcVowWGxhdzNuMUhuSDNheWlTVGdLVndhdXhfVnUzUGtn?oc=5",
    "date": "2023-12-08T17:08:17+00:00",
-   "summary": "لا تستخدم فيدورا قبل مشاهدة هذا الفيديو youtube.com",
+   "summary": "لا تستخدم فيدورا قبل مشاهدة هذا الفيديو YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "الدرس الأول - مقدمة دورة أساسيات سطر الأوامر في لينكس | Linux Command Line Essentials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IbDJELWtKMVREb1d1bC1LLWFJWjMzdTBfUWJzTzlFN0ZUTWtVZW4tSDgtdDRlR1Y5TnBHanMzZlVtMFVsdFZaT0VDNk9oRGQtWTlsNDJPUXJ3NGdkcjZjdlhacjJ2QVpMcVJNRjlLb1ZmVHdxWnppdUVwckM?oc=5",
    "date": "2023-11-30T13:38:59+00:00",
-   "summary": "الدرس الأول - مقدمة دورة أساسيات سطر الأوامر في لينكس | Linux Command Line Essentials youtube.com",
+   "summary": "الدرس الأول - مقدمة دورة أساسيات سطر الأوامر في لينكس | Linux Command Line Essentials YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2157,30 +2187,30 @@
    "title": "Fedora | شرح تحميل وتنصيب فيدورا 39",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYXljNDUyRUZFU2ZIb0lFMGFQWVdhalB0czdoblNZaEZ3YUxaeFlzcDdzYVEtbG0wblA5VXQtWjkzdUZnZXFGUVZ2OUcwa0huenpXMWp3?oc=5",
    "date": "2023-11-10T15:30:19+00:00",
-   "summary": "Fedora | شرح تحميل وتنصيب فيدورا 39 youtube.com",
+   "summary": "Fedora | شرح تحميل وتنصيب فيدورا 39 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح و مراجعة تثبيت البرامج على 22.04.3 ubuntu",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KcmV2c3JTUmNyQW5WVzVwNlhSY0xKQ2w1eXZEWUd1ZzVGYm1sRUxxZWNmcUc3Q2J2eW40RUliUDdheFg4VVU3dnRzZ3ctVmw4UVY5ZndB?oc=5",
    "date": "2023-11-09T01:03:27+00:00",
-   "summary": "شرح و مراجعة تثبيت البرامج على 22.04.3 ubuntu youtube.com",
+   "summary": "شرح و مراجعة تثبيت البرامج على 22.04.3 ubuntu YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Home Server | ترقية توزيعة ديبان 11 إلى 12",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnVzh5QzdxMS1CbUdGNlhER1N2dnp4ZWlGSmpLaUVqVUoxcXNHWFNRMW1hMEsxVEwzTVJfc0NQY18xVENnWklNcEwtQnQ5cV9DOHo1Z0xn?oc=5",
    "date": "2023-11-08T15:30:13+00:00",
-   "summary": "Home Server | ترقية توزيعة ديبان 11 إلى 12 youtube.com",
+   "summary": "Home Server | ترقية توزيعة ديبان 11 إلى 12 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2197,40 +2227,10 @@
    "title": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zSGliLUFXZnJjX1dJdHlmZEZqVFZSSE1KUWs3TXlqWEp3YTBpWHg1dG5yb0g2ZjFVaTl1UGN3ZGFBcXFxOGRDeUNFQ0lSZ2NTSTZkWnpR?oc=5",
    "date": "2023-10-31T13:27:50+00:00",
-   "summary": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox youtube.com",
+   "summary": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "إزالة، تنصيب وتخصيص zRAM على توزيعات فيدورا وأرش",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NYmFfZ1VYZXBiQXNfVHdaVmxHRUVhS2VRSGVLbGxxV2FLMzRVWWJ2UWQ1OGNJR041bGRVcmFXVUFfUEdZbUZaQTFKOFNhMVc2LVJFUDJ3?oc=5",
-   "date": "2023-10-06T14:00:28+00:00",
-   "summary": "إزالة، تنصيب وتخصيص zRAM على توزيعات فيدورا وأرش youtube.com",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "المفيد في الجمع بين لينكس وويندوز على جهاز وحيد",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QSUJIekJ4anl1WmljOENKMlJFTUFocmNtbEEtX084ekxyUzJYS1puT185dlBoSXpHZjJ6T24wVUgxVy1JU3R4SnNyQXNOWFJXaUlYY21n?oc=5",
-   "date": "2023-09-30T14:15:03+00:00",
-   "summary": "المفيد في الجمع بين لينكس وويندوز على جهاز وحيد youtube.com",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "Debian | أهم الخطوات الواجب تنفيذها بعد تنصيب ديبيان",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUVdaOEYwREl6RV94TVJ1SmE5TkxEN0JrMmw0Q2dFbUEyU1JvZ0h0WmhwRnpIY1VVUC1uYnFTYnRVaE5NZ0VTTnhkT0JOV3gzaG5lN3lB?oc=5",
-   "date": "2023-09-20T15:00:02+00:00",
-   "summary": "Debian | أهم الخطوات الواجب تنفيذها بعد تنصيب ديبيان youtube.com",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   }
  ]

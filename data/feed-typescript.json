@@ -1,8 +1,160 @@
 {
- "generated": "2026-08-19T05:04:48.492147+00:00",
+ "generated": "2026-08-20T05:12:54.515989+00:00",
  "tech": "typescript",
- "count": 132,
+ "count": 137,
  "items": [
+  {
+   "title": "Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch",
+   "url": "https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp",
+   "date": "2026-08-20T04:12:41+00:00",
+   "summary": "Build a consent-aware TypeScript policy layer for Tencent RTC Beauty AR that selects effects by device capability, degrades safely under frame pressure, rejects stale callbacks, and can be verified without turning a poli",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Type-Safe Express API with Zod and OpenAPI",
+   "url": "https://medium.com/@kom50/building-a-type-safe-express-api-with-zod-and-openapi-938563eba54f?source=rss------typescript-5",
+   "date": "2026-08-20T02:52:51+00:00",
+   "summary": "When building APIs with Express and TypeScript, I often found myself repeating the same things: Continue reading on Medium »",
+   "tech": "typescript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "7,798 Components. Import One, Ship One.",
+   "url": "https://dev.to/james-coombs/7798-components-import-one-ship-one-nk2",
+   "date": "2026-08-20T02:07:55+00:00",
+   "summary": "James Coombs is a design engineer who maintains the icon package a frontend org installs across...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Generation Queue Tool for Batch Character Creation",
+   "url": "https://dev.to/hirodeath/building-a-generation-queue-tool-for-batch-character-creation-2lk3",
+   "date": "2026-08-20T00:28:44+00:00",
+   "summary": "This article is an English translation of the original Japanese article.  I added a batch generation...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Stopped Running tsc on Every Edit — Batching a Whole Claude Code Session Into One Run",
+   "url": "https://dev.to/bokuwalily/i-stopped-running-tsc-on-every-edit-batching-a-whole-claude-code-session-into-one-run-36e8",
+   "date": "2026-08-20T00:00:11+00:00",
+   "summary": "Back in college, 100,000 yen a month was my entire budget. Stacking side jobs, I got that up to...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From Flat Logs to Execution Trees: Debugging Modern AI Agents",
+   "url": "https://dev.to/raju_dandigam/from-flat-logs-to-execution-trees-debugging-modern-ai-agents-1mop",
+   "date": "2026-08-19T23:40:08+00:00",
+   "summary": "An agent trace is usually written as a sequence of events because append-only data is simple to...",
+   "points": 3,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Replaying real-time telemetry through a live rendering pipeline, without touching the components",
+   "url": "https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33",
+   "date": "2026-08-19T21:19:47+00:00",
+   "summary": "A recorded session and a live socket should drive the same instruments the same way. Making that true comes down to one affine transform and a surprisingly sharp question about which clock the components are watching.",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Linter Needs to Be as Fast as Your AI",
+   "url": "https://dev.to/kahwee/your-linter-needs-to-be-as-fast-as-your-ai-5dme",
+   "date": "2026-08-19T17:44:30+00:00",
+   "summary": "AI writes code faster than you can review it. ESLint validates slower than it needs to. Biome fixes the mismatch.",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Studio Feature Released, Supporting 9 Output Formats",
+   "url": "https://dev.to/kokibuilds/studio-feature-released-supporting-9-output-formats-c22",
+   "date": "2026-08-19T17:28:22+00:00",
+   "summary": "August 11 was centered on the Studio feature release.           Studio Feature Shipped   We released...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript Types: From any to never!",
+   "url": "https://medium.com/@aisgandy/typescript-types-from-any-to-never-849e9f72ece7?source=rss------typescript-5",
+   "date": "2026-08-19T16:32:03+00:00",
+   "summary": "*The following are notes from TypeScript in the Age of AI course in Frontend Masters (Currently master.dev) Continue reading on Medium »",
+   "tech": "typescript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How I Let an AI Agent Migrate 800 JS Files to TypeScript in 3 Weeks",
+   "url": "https://dev.to/yureki_lab/how-i-let-an-ai-agent-migrate-800-js-files-to-typescript-in-3-weeks-1eif",
+   "date": "2026-08-19T14:32:33+00:00",
+   "summary": "TL;DR   I had an 800-file JavaScript codebase and no appetite for a six-month TypeScript...",
+   "points": 2,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I'm building Guren, a fullstack TypeScript framework for the AI-agent era",
+   "url": "https://dev.to/7nohe/im-building-guren-a-fullstack-typescript-framework-for-the-ai-agent-era-47k6",
+   "date": "2026-08-19T12:22:30+00:00",
+   "summary": "Guren is a fullstack TypeScript framework for Bun. I started it because I wanted Laravel's shape in...",
+   "points": 1,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bedrock Grok 4.6 Explained Simply: Prompt Caching, Token Efficiency, and Node.js 22 Integration",
+   "url": "https://dev.to/dineshgowtham/bedrock-grok-46-explained-simply-prompt-caching-token-efficiency-and-nodejs-22-integration-4o26",
+   "date": "2026-08-19T11:49:01+00:00",
+   "summary": "Bedrock just added Grok 4.6, and it’s not just a bigger model – it brings built‑in prompt caching...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Making a knowledge base queryable by any agent over MCP",
+   "url": "https://dev.to/royalpinto007/making-a-knowledge-base-queryable-by-any-agent-over-mcp-3lkl",
+   "date": "2026-08-19T09:30:29+00:00",
+   "summary": "A stateless remote MCP server on Cloudflare Workers that lets Claude, Cursor, or any MCP client ask \"has this failure happened before?\" mid-investigation.",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "5 Things I've Actually Used shapecraft For",
    "url": "https://dev.to/yatindavra/5-things-ive-actually-used-shapecraft-for-5726",
@@ -252,116 +404,6 @@
    "lang": "en"
   },
   {
-   "title": "We Tested 4 Text-to-Speech Engines on 12,000 Live Healthcare Calls — Here's Which One Patients Actually Trust",
-   "url": "https://dev.to/autor_tech/we-tested-4-text-to-speech-engines-on-12000-live-healthcare-calls-heres-which-one-patients-5b88",
-   "date": "2026-08-18T03:14:32+00:00",
-   "summary": "Last quarter, we ran our production voice AI receptionist — Loquent — across four different TTS...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A red Playwright build can't tell you whose fault it is",
-   "url": "https://dev.to/mfelombardo/a-red-playwright-build-cant-tell-you-whose-fault-it-is-4hoi",
-   "date": "2026-08-18T02:14:22+00:00",
-   "summary": "A red Playwright build can't tell you whose fault it is   Every failing end-to-end run asks...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Upgrade your Test Suite with fn-monitor",
-   "url": "https://dev.to/typescript-guy/upgrade-your-test-suite-with-fn-monitor-17gn",
-   "date": "2026-08-17T23:24:59+00:00",
-   "summary": "Combining Vitest with fn-monitor to assert not just what your functions return, but the work they actually do.",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Ayeixa Agent Memory Spine: Multi-Tenant Episodic Storage & Replay Compaction",
-   "url": "https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-agent-memory-spine-multi-tenant-episodic-storage-replay-compaction-4goe",
-   "date": "2026-08-17T19:56:20+00:00",
-   "summary": "Introducing Ayeixa Agent Memory Spine: Multi-Tenant Episodic Storage &amp; Replay...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Ayeixa Sentience Eval: Catching Raw JSON Leaks & Robotic Clichés in Agent Dialogue",
-   "url": "https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-sentience-eval-catching-raw-json-leaks-robotic-cliches-in-agent-dialogue-25e9",
-   "date": "2026-08-17T19:55:15+00:00",
-   "summary": "Introducing Ayeixa Sentience Eval: Catching Raw JSON Leaks &amp; Robotic Clichés in Agent...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Ayeixa FuelLite: Free-Tier Token Arbitrage & Dynamic Failover Router",
-   "url": "https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-fuellite-free-tier-token-arbitrage-dynamic-failover-router-15og",
-   "date": "2026-08-17T19:54:27+00:00",
-   "summary": "Introducing Ayeixa FuelLite: Free-Tier Token Arbitrage &amp; Dynamic Failover...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Ayeixa OpenCoordinator: Multi-Agent DAG Orchestration for TypeScript",
-   "url": "https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-opencoordinator-multi-agent-dag-orchestration-for-typescript-2o86",
-   "date": "2026-08-17T19:54:22+00:00",
-   "summary": "Introducing Ayeixa OpenCoordinator: Multi-Agent DAG Orchestration for TypeScript   As...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Better Auth's MongoDB adapter can't populate() a Mongoose ref",
-   "url": "https://dev.to/ashwinsathian/why-better-auths-mongodb-adapter-cant-populate-a-mongoose-ref-e2c",
-   "date": "2026-08-17T19:48:36+00:00",
-   "summary": "If your Node app already uses Mongoose and you wire up Better Auth with its official MongoDB adapter,...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The \"1 Dog Year = 7 Human Years\" Myth: How I Built a Veterinary-Accurate Pet Age Engine in Next.js",
-   "url": "https://dev.to/g_s_6bc9d3a878dd452010bec/the-1-dog-year-7-human-years-myth-how-i-built-a-veterinary-accurate-pet-age-engine-in-nextjs-5ag8",
-   "date": "2026-08-17T17:43:01+00:00",
-   "summary": "We've all heard the golden rule of pet parenting: 1 human year equals 7 dog years.  For decades, this...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Real Ephemeris Math, Graceful AI Degradation, and a Rebuild Gotcha: Building an Astrology SaaS on Cloudflare Workers",
-   "url": "https://dev.to/amritanshu_gaurav_8c70b9e/real-ephemeris-math-graceful-ai-degradation-and-a-rebuild-gotcha-building-an-astrology-saas-on-308i",
-   "date": "2026-08-17T17:00:27+00:00",
-   "summary": "Most \"astrology app\" tech stacks are a sun-sign lookup table and a template string. I've spent the...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Structural Typing in TypeScript",
    "url": "https://medium.com/@aisgandy/structural-typing-in-typescript-74dac1748261?source=rss------typescript-5",
    "date": "2026-08-17T16:27:41+00:00",
@@ -369,28 +411,6 @@
    "tech": "typescript",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Your monorepo remembers infrastructure you deleted",
-   "url": "https://dev.to/siddharth_pandey_27/your-monorepo-remembers-infrastructure-you-deleted-24lp",
-   "date": "2026-08-17T13:18:05+00:00",
-   "summary": "A tool told someone to deploy a table from a stack they had deleted   Three bug reports...",
-   "points": 1,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My idempotency library had one job. A dropped connection made it run the payment twice.",
-   "url": "https://dev.to/pinceladasdaweb/my-idempotency-library-had-one-job-a-dropped-connection-made-it-run-the-payment-twice-nnh",
-   "date": "2026-08-17T12:32:17+00:00",
-   "summary": "quayside survived 1,254 dead mutants and an adversarial review. The bug that got through was four lines I wrote to fix a different bug — on the exact scenario idempotency libraries exist for.",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -567,10 +587,10 @@
    "title": "TypeScript Course in 90 mins (Arabic) | كورس شرح تايب سكريبت في 90 دقيقة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lM0FZVnlSUDQ1V19GR1M1OHAzS2JTbURoVWkwMmZ3YzFvNEFuaVRhOTRzRUt6cUJYdVhTd0hjd3JFbkZVbkF5OUVmMVJsdTR5Nm1xQi1n?oc=5",
    "date": "2026-01-16T14:01:21+00:00",
-   "summary": "TypeScript Course in 90 mins (Arabic) | كورس شرح تايب سكريبت في 90 دقيقة youtube.com",
+   "summary": "TypeScript Course in 90 mins (Arabic) | كورس شرح تايب سكريبت في 90 دقيقة YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -588,6 +608,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTEp0NFFHdWNwem5XYnhkZWFiTlg4MzktaWhNZmt4dm9uQ2NRS1d3Ny1fcmNXX2RRMm9BTTFneXB1RzFHRW5maUZSdmR4RG10NkpRM3NB?oc=5",
    "date": "2025-10-27T13:28:20+00:00",
    "summary": "TypeScript Full Course 2026 | Learn TypeScript in One Video YouTube",
+   "tech": "typescript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "React Full Course - Lesson 11: React 19, TypeScript with React",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sMGwwVVBzcjhJRFZ1am5YYWdCUC1NZTdFV0o5N0htSXVob0VtRXhrTThUTmFfQVRJWUtBVmVqY0hSWk82VXB1R1psai1fZXprd3pWUVRn?oc=5",
+   "date": "2025-10-07T07:00:00+00:00",
+   "summary": "React Full Course - Lesson 11: React 19, TypeScript with React YouTube",
    "tech": "typescript",
    "sourceId": "yt",
    "source": "YouTube",
@@ -757,10 +787,10 @@
    "title": "كورس شامل لل Backend ب Node-Js مع TypeScript في 2024 !",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11WUQ1endFMzZINkxHSWx4VS1zM0xLbTNVZXdlODJrbGxsZnpFdF9hbXdKUWl1cVF0ckRZZUFLcFJxTVBGcmpCM2dEclJsaFNVMGVXUWRR?oc=5",
    "date": "2024-12-14T11:35:12+00:00",
-   "summary": "كورس شامل لل Backend ب Node-Js مع TypeScript في 2024 ! youtube.com",
+   "summary": "كورس شامل لل Backend ب Node-Js مع TypeScript في 2024 ! YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -817,10 +847,10 @@
    "title": "تعريف نوع بيانات Interface في تايب سكريبت #typescript",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1YzQ5QVc5SUJGQ0Z1ZGtqZ0hzb1ctV01xNVhDNnU2V1ZSRUhQS1Z4TFgxcnUxNkIxMXFMRjRzUE1VMmVZakk5RWpaYmhySm1RUWVpVA?oc=5",
    "date": "2024-09-02T12:30:06+00:00",
-   "summary": "تعريف نوع بيانات Interface في تايب سكريبت #typescript youtube.com",
+   "summary": "تعريف نوع بيانات Interface في تايب سكريبت #typescript YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -867,20 +897,20 @@
    "title": "شرح كورس تايب سكريبت 2024 TypeScript | Beginners | Arabic | الجزء الثاني",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kREdNV2FXRzZBLUxvV0pvZ2hzQzIxVkZTMzV3V0htaGNPV2FmTUxXQlJMM0xkb3pzQzg0SjFJX2R2VXAxUy1NS3M4UzBBNGp5OUNYWk9R?oc=5",
    "date": "2024-06-25T07:00:27+00:00",
-   "summary": "شرح كورس تايب سكريبت 2024 TypeScript | Beginners | Arabic | الجزء الثاني youtube.com",
+   "summary": "شرح كورس تايب سكريبت 2024 TypeScript | Beginners | Arabic | الجزء الثاني YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح كورس تايب سكريبت 2024 TypeScript | Beginners | Arabic | الجزء الأول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdU1vSnppOVc5Z3pRNDBtbkdqZXMwRnM3MHZ1Yk1xb3EzTjdSWE0yUzVLeE9DcEVEbWNmZnFUN2NUQjlsbGdIRGhNbEcxVl9BYnlfcERn?oc=5",
    "date": "2024-06-23T07:00:04+00:00",
-   "summary": "شرح كورس تايب سكريبت 2024 TypeScript | Beginners | Arabic | الجزء الأول youtube.com",
+   "summary": "شرح كورس تايب سكريبت 2024 TypeScript | Beginners | Arabic | الجزء الأول YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -897,20 +927,20 @@
    "title": "مقارنة بين JavaScript و TypeScript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxR3lBRXlxclpQLTdkdUZobEpKcDdNMGZlZ0F5Z2VEVUJiRllfbDRPSGQySkduTzlPUmZRQWdnbGhCRUxzS0lLVnNHajNKaDE0SEVPQV9n?oc=5",
    "date": "2024-05-07T14:00:11+00:00",
-   "summary": "مقارنة بين JavaScript و TypeScript youtube.com",
+   "summary": "مقارنة بين JavaScript و TypeScript YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "اتعلم جافاسكريبت ولا تايبسكريبت! - Should I learn Javascript or Typescript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvcVN5OWc4b3llSkRzT1hQak91dnJYUXRfOVM5ejFiWjFsNk9NN3lTVmFiRzV5SHM2cGlZbXBjU3RTTXVKLXY3T3h2UlRkMGc0a1VIUzV3?oc=5",
    "date": "2024-04-08T20:00:04+00:00",
-   "summary": "اتعلم جافاسكريبت ولا تايبسكريبت! - Should I learn Javascript or Typescript youtube.com",
+   "summary": "اتعلم جافاسكريبت ولا تايبسكريبت! - Should I learn Javascript or Typescript YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -997,10 +1027,10 @@
    "title": "كورس تايب سكريبت | TypeScript | interfaces - types - enums - generics - uilities",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZb19yQm94OHdqTGpvWlF0X3ZSWDdpWTJYeHRtV0xoQXdsRkpfODRJbk1nbFBDSXFEQTVhMFV6YTZ6cGNrWkU5VlVZMlBJOXMzaVlISFZR?oc=5",
    "date": "2023-11-21T17:06:01+00:00",
-   "summary": "كورس تايب سكريبت | TypeScript | interfaces - types - enums - generics - uilities youtube.com",
+   "summary": "كورس تايب سكريبت | TypeScript | interfaces - types - enums - generics - uilities YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1037,10 +1067,10 @@
    "title": "تايبسكريبت في 15 دقيقة | Typescript in 15 mins",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xV3ljR3Y1VUxMMUotZ3BsbnJqQVJFdTAzNm40UlVfM2Mzd1dlRl82LVdWeDVGVkRtaXN4RjJWRGFmdkdSaFBCc2otNjJzRUYtNVRkZzlB?oc=5",
    "date": "2023-09-21T13:00:43+00:00",
-   "summary": "تايبسكريبت في 15 دقيقة | Typescript in 15 mins youtube.com",
+   "summary": "تايبسكريبت في 15 دقيقة | Typescript in 15 mins YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1067,10 +1097,10 @@
    "title": "كورس تعلم البرمجة بلغة تايب سكريبت Typescript Tutorial 2023 : Basic Typescript Types 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XVVR3azU3eENTMjhnZVgtVFZRaTgwTnUxSk5zZ3o1OVFaWWZDc2FuTF9uLU92Rm1jWHNzV09KLWZveUt6RmNIQVhnbGZkZUdQYnJtVjlR?oc=5",
    "date": "2023-09-01T13:00:25+00:00",
-   "summary": "كورس تعلم البرمجة بلغة تايب سكريبت Typescript Tutorial 2023 : Basic Typescript Types 1 youtube.com",
+   "summary": "كورس تعلم البرمجة بلغة تايب سكريبت Typescript Tutorial 2023 : Basic Typescript Types 1 YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1097,30 +1127,30 @@
    "title": "Learn React JS With TypeScript in Arabic - 2 - Setup | شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NYXNJVmVsNjdrZ0dNQ3RKd0xORE1GQzRxSG4xQi1xdTZaWnVUbmVGRkk1RFZuTmkwWmJfSFdPV19wZUc3Y3RTTHJxMnB4ZjU1bVl0ZU1n?oc=5",
    "date": "2023-07-13T15:42:56+00:00",
-   "summary": "Learn React JS With TypeScript in Arabic - 2 - Setup | شرح بالعربي youtube.com",
+   "summary": "Learn React JS With TypeScript in Arabic - 2 - Setup | شرح بالعربي YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Learn React JS With TypeScript in Arabic - 1 - Intro | شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tY2RKNmEwb1ZNWF9sS3NUR2w1U2JVUk0xblhqamlHNUNRNFdmNzdfOW1rYnI2bGRQMk5DVEVjUDlyV0NaYXpyb2xIdlJPMTVEMUNnTEtB?oc=5",
    "date": "2023-07-13T15:40:50+00:00",
-   "summary": "Learn React JS With TypeScript in Arabic - 1 - Intro | شرح بالعربي youtube.com",
+   "summary": "Learn React JS With TypeScript in Arabic - 1 - Intro | شرح بالعربي YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Learn TypeScript in Arabic - 1 - Introduction | Tutorial for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53ZzV3ZXJWSDVvZk56clRHN0IyTWJrSEN2VGxaRThseEkxUjhuTk03cFJPWWRYcEZuZmhGdDN4LTFaU1BSQTZDUWlwTHZ0RERES2RWanNB?oc=5",
    "date": "2023-06-17T18:45:55+00:00",
-   "summary": "Learn TypeScript in Arabic - 1 - Introduction | Tutorial for Beginners youtube.com",
+   "summary": "Learn TypeScript in Arabic - 1 - Introduction | Tutorial for Beginners YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1244,6 +1274,16 @@
    "lang": "en"
   },
   {
+   "title": "Typescript Course For Javascript Developer (بالعربي)",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iV2FWN2Eya1VLaE0wclB6YzdnMm1GX0lFdnc0VFR2bDc2UUdvQ01yM3lfMGNtYUVHeXZHdkYwbnVRd0RjS2loS2k0WkhJcXB2d1lSNzNucEE5REhNR2l4bGxSUG9GenBsWWIzNUdtU1VmNGxDVlBybEdkeXc?oc=5",
+   "date": "2022-09-03T08:10:09+00:00",
+   "summary": "Typescript Course For Javascript Developer (بالعربي) YouTube",
+   "tech": "typescript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "ReactJS Course [13] - Typescript | React Type Safety",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrNy0xU1JQQnpHRWFtbEc2bFl0Qkt3TTRsN2xXSjIzVmpOMTFWeUNNbmlvZnMyZzE3OU9GWXFUc0c3emhMbGRWdmdlc1BXOFExTGZ4eVhB?oc=5",
    "date": "2022-08-26T13:00:08+00:00",
@@ -1264,23 +1304,43 @@
    "lang": "en"
   },
   {
+   "title": "Learn Typescript In Arabic 2022 - #37 - Generics And Interfaces",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoVWFBNVhkOFZEY29iSDNKVDhqdW9oNFB1bDM1NEV1QW9aaHhCU3AzNW9XVW8tVDlmZWRKbTlXeldVMFFJQkI0ZFkzeDBxVE5HQko5WVVB?oc=5",
+   "date": "2022-08-10T21:27:29+00:00",
+   "summary": "Learn Typescript In Arabic 2022 - #37 - Generics And Interfaces YouTube",
+   "tech": "typescript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Typescript tutorial - Learn Typescript In Arabic | تعلم تايب سكريبت من خلال عمل مشروع عملي (Part 2)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYUpoeE5GeUNad1RYQ09SMW5zWE42aU9rQ3hodDlIc0YtMVNYeFNhaUpyQWltejAtNkF5WTdoMk1wMERhTUJnVGRZUldGNkpGR2g5YlF3?oc=5",
    "date": "2022-08-03T23:20:16+00:00",
-   "summary": "Typescript tutorial - Learn Typescript In Arabic | تعلم تايب سكريبت من خلال عمل مشروع عملي (Part 2) youtube.com",
+   "summary": "Typescript tutorial - Learn Typescript In Arabic | تعلم تايب سكريبت من خلال عمل مشروع عملي (Part 2) YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
+  },
+  {
+   "title": "Learn Typescript In Arabic 2022 - #04 - Statically vs Dynamically Typed Languages",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZEhlTndzZkp6dFZnUDZhWWFLWm5VcFlKMUxpQmt2cmcxY2toT2RSTGR0alU5MHhvV3ktdXJrc0hOLUo4a3FTQ1R3dDJxejRKVkxFQmJR?oc=5",
+   "date": "2022-07-24T19:41:47+00:00",
+   "summary": "Learn Typescript In Arabic 2022 - #04 - Statically vs Dynamically Typed Languages YouTube",
+   "tech": "typescript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
   },
   {
    "title": "Learn Typescript In Arabic 2022 - #01 - Introduction And What Is TypeScript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnU1RXT2tpNkJpOE9ZcjctWU93MnlrejJ4ekZlbVl6MGtPVktKUTJCUS1QYVhhaGk4eGFqNVhackFMY3E0bzVLLVYtQ0otSDl1QkJWOHBR?oc=5",
    "date": "2022-07-24T19:38:54+00:00",
-   "summary": "Learn Typescript In Arabic 2022 - #01 - Introduction And What Is TypeScript youtube.com",
+   "summary": "Learn Typescript In Arabic 2022 - #01 - Introduction And What Is TypeScript YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1317,31 +1377,21 @@
    "title": "TypeScript Course 2022 ( Arabic - بالعربي ) - #26 - Callback Function",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVlVWZF9LQmFRWGVYQmxNb1ZBandFQXRxdVJCeFpYLUd6THNMbWdoeXBkR1RQU1hhZkF3Z3FOdzlmRGowSTE3Rkc4Ymw0NHkxSmZmVGVR?oc=5",
    "date": "2022-04-17T17:56:24+00:00",
-   "summary": "TypeScript Course 2022 ( Arabic - بالعربي ) - #26 - Callback Function youtube.com",
+   "summary": "TypeScript Course 2022 ( Arabic - بالعربي ) - #26 - Callback Function YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "TypeScript Course 2022 ( Arabic - بالعربي ) - #1 - Intro",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IaUwzN1AxdExLUktmR0dlM2NlSW4xTXpzWHgwQVktWTVQNEc4MmVhTTRHeTU5OXV3eTNKMVlkWDhLR3ZqWUE0LWNIeUk2ejJpN3dHMWFn?oc=5",
    "date": "2022-02-14T16:03:00+00:00",
-   "summary": "TypeScript Course 2022 ( Arabic - بالعربي ) - #1 - Intro youtube.com",
+   "summary": "TypeScript Course 2022 ( Arabic - بالعربي ) - #1 - Intro YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "React & TypeScript - Course for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OWGcyYVN5c3lpc09TT2Y5SkZkUXJTZTlybzJHbVpSMjhtMDRRR0hpTWlPYUhwaWgxWVoyd0hVSWFvUjJ4MElVN0ZoMlVRV1FreDF0cXdn?oc=5",
-   "date": "2022-01-25T14:48:33+00:00",
-   "summary": "React & TypeScript - Course for Beginners YouTube",
-   "tech": "typescript",
-   "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "2 تحميل و تهيئة محرر لغة تايب سكريبت How to install TypeScript",

@@ -1,8 +1,63 @@
 {
- "generated": "2026-08-19T05:12:36.544649+00:00",
+ "generated": "2026-08-20T05:18:37.321680+00:00",
  "tech": "objectivec",
- "count": 78,
+ "count": 82,
  "items": [
+  {
+   "title": "Set it up once. Stop thinking about it.",
+   "url": "https://dev.to/maclessdev/set-it-up-once-stop-thinking-about-it-fk0",
+   "date": "2026-08-19T20:38:34+00:00",
+   "summary": "The whole pitch of Macless is that you shouldn't need a Mac, a rented cloud Mac, or a monthly CI...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AI Agents in iOS: Less Code, More Engineering",
+   "url": "https://dev.to/vidhiiiguptaaa/ai-agents-in-ios-less-code-more-engineering-2571",
+   "date": "2026-08-19T12:18:33+00:00",
+   "summary": "AI is changing the way we build software.  For iOS developers, AI agents can now generate...",
+   "points": 12,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From Local Cabs to Digital Platforms: The Evolution of Ride-Hailing",
+   "url": "https://dev.to/nativeclusters_b695bf2918/from-local-cabs-to-digital-platforms-the-evolution-of-ride-hailing-1djm",
+   "date": "2026-08-19T12:04:13+00:00",
+   "summary": "The way people move around cities has changed dramatically over the past few decades. What once...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Face ID and Touch ID Authentication in iOS",
+   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/face-id-and-touch-id-authentication-in-ios-57k",
+   "date": "2026-08-19T09:28:42+00:00",
+   "summary": "Learn how to integrate Face ID and Touch ID into your iOS apps using the LocalAuthentication framework for enhanced security and user experience.",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What App Store Reviewers Actually Do in Six Minutes",
+   "url": "https://dev.to/lucas_martin_8cb158b9a81b/what-app-store-reviewers-actually-do-in-six-minutes-pak",
+   "date": "2026-08-19T07:16:43+00:00",
+   "summary": "The first-pass review loop, minute by minute, from two former reviewers and 200 of our own submissions. And how to design for it.",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Accessible by Platform: How iOS and Android Differ from the Web",
    "url": "https://dev.to/ashokyadav123/accessible-by-platform-how-ios-and-android-differ-from-the-web-clb",
@@ -279,61 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "A Saturday reset Screen Time alternative setup for iPhone doomscrolling",
-   "url": "https://dev.to/godnick/a-saturday-reset-screen-time-alternative-setup-for-iphone-doomscrolling-32ko",
-   "date": "2026-08-15T15:22:36+00:00",
-   "summary": "Saturday is where a lot of iPhone blocking setups quietly fail.  Workweek rules end. The morning has...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Getting a Flutter app through App Review",
-   "url": "https://dev.to/shahryarahmad/getting-a-flutter-app-through-app-review-3did",
-   "date": "2026-08-15T05:17:02+00:00",
-   "summary": "Most App Review rejections are not surprises. They come from a small, stable set of guidelines, and...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The one-open rule for stopping social media loops on iPhone",
-   "url": "https://dev.to/godnick/the-one-open-rule-for-stopping-social-media-loops-on-iphone-52nk",
-   "date": "2026-08-15T00:22:43+00:00",
-   "summary": "Most doomscrolling does not start as a big decision.  It starts as one automatic open.  You check one...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My dev environment was hiding eight production bugs",
-   "url": "https://dev.to/renga154/my-dev-environment-was-hiding-eight-production-bugs-50jg",
-   "date": "2026-08-14T17:43:04+00:00",
-   "summary": "Every convenience in my development setup was concealing a defect on the other side of it. Counting the conveniences found the bugs faster than looking for the bugs.",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "保护 API Key 和其他应用密钥",
-   "url": "https://dev.to/yo1995/bao-hu-api-key-he-qi-ta-ying-yong-mi-yao-45hp",
-   "date": "2026-08-14T17:22:45+00:00",
-   "summary": "尝试英译中机翻我们总结的 API Key 相关经验文档… 尽量说人话 😊            情景   假设我们要发布一个基于 ArcGIS Maps SDK 的 app，并使用 API Key...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Objective-C Runtime: From Message Sending to Message Forwarding",
    "url": "https://medium.com/@kousikdasari0475/objective-c-runtime-from-message-sending-to-message-forwarding-578c6f4a4860?source=rss------objective_c-5",
    "date": "2026-08-14T11:04:55+00:00",
@@ -544,6 +544,26 @@
    "lang": "en"
   },
   {
+   "title": "Advantages of Swift vs Objective C: Should I just learn Swift?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFWG5vZ1BBRGFZcFdLWGlqRGd4V0IwSlBTMlN4dmtqMlVtU3BtMld5SWJ2eW9CMU4wWl9jdFNTRG1LaUYxYWNXSkhjYWpzb2M0NFg3MmNn?oc=5",
+   "date": "2017-06-16T14:00:02+00:00",
+   "summary": "Advantages of Swift vs Objective C: Should I just learn Swift? YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Objective-C Memory Management with ARC - raywenderlich.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pZTlPUlRwRGV4WE5XclR2a0M0OFdjbkxZNkNXeUVncHJ2RWg2QjRONTcyWmVtdmxMV0tweHlMSDBYeGNQeHA2Nnd2V1J3dTlMMWRTbGtR?oc=5",
+   "date": "2017-03-22T22:35:42+00:00",
+   "summary": "Objective-C Memory Management with ARC - raywenderlich.com YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Beginning Objective-C Properties - raywenderlich.com",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00XzZQd29PTExoamNFTUR6anZJS1lrR2t2RHF4SHBOcy1PTXAyN2VNV1FFVDVHbTJtcEZCb2FtMVhkbzlXM3BubE5ZVVg3cTYySlEyZTlB?oc=5",
    "date": "2017-03-14T15:24:14+00:00",
@@ -608,6 +628,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XeDd4MFd2RWY3OHJnNWc1RHhYaGZiaE1sZnNjTGIxTWJqY2dIb2tKTGZZRGdtSWthTHBnemxTMEF4blBnQi1QX1VzVzVGcWtIZDlQV1J3?oc=5",
    "date": "2015-03-18T07:03:47+00:00",
    "summary": "Objective C Tutorial | Learn Objective C in iOS | iOS Development Tutorial | Edureka YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "iOS app development: How to make a timer with xcode 6(objective-c)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QZU94dmFoS0l1NmhVOEZtYmI2Ul9wU1dzWkVGenBkMmhMUTJMQmlxUFpDZy1PSFk5R3pfV1JNTFBMQXJzZmtSbUUwa1dtQUNuc2ViOWRB?oc=5",
+   "date": "2014-11-20T02:40:08+00:00",
+   "summary": "iOS app development: How to make a timer with xcode 6(objective-c) YouTube",
    "tech": "objectivec",
    "sourceId": "yt",
    "source": "YouTube",
@@ -698,6 +728,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uaERfamxkLWNMVVdBUFFtRllvbk1ZVFNTeFpoN3NRZkU2X3lEZFEwaTRRWFBLdU4wM1h3cS1UN2xTWWU2djZ5a2tnNGZGS0VWWGVuYUxn?oc=5",
    "date": "2010-05-30T04:18:35+00:00",
    "summary": "Objective C Programming Tutorial - 59 - Dictionary Objects YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Objective C Programming Tutorial - 58 - Mutable Arrays",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00Ykc2Wmg3azF1QkZkNHkzT0F3RDZjY092OS1ZbDZfRHlHbmlRRjZkVmhpclBqWnpwNDFRU0pXRlJMMFlIcUs3a1RBU0ZJOTJsZURGOUNn?oc=5",
+   "date": "2010-05-30T04:15:16+00:00",
+   "summary": "Objective C Programming Tutorial - 58 - Mutable Arrays YouTube",
    "tech": "objectivec",
    "sourceId": "yt",
    "source": "YouTube",

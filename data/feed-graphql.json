@@ -1,8 +1,204 @@
 {
- "generated": "2026-08-19T05:29:04.561749+00:00",
+ "generated": "2026-08-20T05:30:13.031161+00:00",
  "tech": "graphql",
- "count": 124,
+ "count": 126,
  "items": [
+  {
+   "title": "Change Page Orientation in Word Documents using Python",
+   "url": "https://dev.to/groupdocs-cloud/change-page-orientation-in-word-documents-using-python-5e7m",
+   "date": "2026-08-20T05:23:44+00:00",
+   "summary": "Ever needed to flip a Word page from portrait to landscape on the fly, but dreaded manual...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The x402 ecosystem quietly split — and your endpoint may be unpayable",
+   "url": "https://dev.to/kirothebot/the-x402-ecosystem-quietly-split-and-your-endpoint-may-be-unpayable-3nl5",
+   "date": "2026-08-20T04:56:57+00:00",
+   "summary": "The x402 server SDK went v2; the most-installed client is still v1-only. Four silent wire-format breaks make modern paid endpoints unpayable by stock clients — how we found it, measured it, and proved the fix on-chain.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Claude Sonnet 5's Introductory Pricing Expires August 31. Your Cost Model Doesn't Know That Yet.",
+   "url": "https://dev.to/assili_salim_e3c07f9954de/claude-sonnet-5s-introductory-pricing-expires-august-31-your-cost-model-doesnt-know-that-yet-4e1j",
+   "date": "2026-08-20T04:35:31+00:00",
+   "summary": "11 days from now, Sonnet 5 goes from $2/$10 to $3/$15 per million tokens. A 50% increase across the...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Google Search Pagination Is Not results.length",
+   "url": "https://dev.to/reserp/google-search-pagination-is-not-resultslength-5959",
+   "date": "2026-08-20T04:04:12+00:00",
+   "summary": "Disclosure: I work on Reserp. This article explains the public API contract and keeps application...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Is Your REST API really a REST API?",
+   "url": "https://dev.to/daniel_possiblekwabi_b57/is-your-rest-api-really-a-rest-api-3bbj",
+   "date": "2026-08-20T01:13:53+00:00",
+   "summary": "A practical walk through the Richardson Maturity Model and the 6 REST constraints.",
+   "points": 1,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Generation Queue Tool for Batch Character Creation",
+   "url": "https://dev.to/hirodeath/building-a-generation-queue-tool-for-batch-character-creation-2lk3",
+   "date": "2026-08-20T00:28:44+00:00",
+   "summary": "This article is an English translation of the original Japanese article.  I added a batch generation...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Grading Security Headers Isn't the Full Picture",
+   "url": "https://dev.to/josejux/grading-security-headers-isnt-the-full-picture-1gpm",
+   "date": "2026-08-19T21:01:39+00:00",
+   "summary": "A few days ago someone left a comment on my last post about grading security headers...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Implement GraphQL Subscription in Angular/NativeScript Angular Applications",
+   "url": "https://medium.com/@beyondcoding.dev/implement-graphql-subscription-in-angular-nativescript-angular-applications-f9fa594ead60?source=rss------graphql-5",
+   "date": "2026-08-19T18:29:44+00:00",
+   "summary": "GraphQL subscriptions allow an application to receive real-time updates from a GraphQL server. Continue reading on Medium »",
+   "tech": "graphql",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "API Security: How to Protect a Public API in 2026",
+   "url": "https://dev.to/mecanik-dev/api-security-how-to-protect-a-public-api-in-2026-2iip",
+   "date": "2026-08-19T18:00:00+00:00",
+   "summary": "Most teams treat API security as an authentication problem. They add tokens, check them on every...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How GraphQL Actually Works Under the Hood: Protocol, Data Format, Execution & HTTP Status Codes",
+   "url": "https://medium.com/@itsaiswaryamurali/how-graphql-actually-works-under-the-hood-protocol-data-format-execution-http-status-codes-5b508252870d?source=rss------graphql-5",
+   "date": "2026-08-19T17:22:14+00:00",
+   "summary": "GraphQL is often described as an alternative to REST, but that description hides what makes it interesting. Continue reading on Medium »",
+   "tech": "graphql",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Build a GraphQL API with Python and Strawberry",
+   "url": "https://dev.to/qingluan/build-a-graphql-api-with-python-and-strawberry-435h",
+   "date": "2026-08-19T16:00:16+00:00",
+   "summary": "Build a GraphQL API with Python and Strawberry   tags: python, graphql, api,...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Built a Claude Code Skill That Reverse-Engineers Undocumented APIs",
+   "url": "https://dev.to/prasen-sky/i-built-a-claude-code-skill-that-reverse-engineers-undocumented-apis-2h47",
+   "date": "2026-08-19T15:44:05+00:00",
+   "summary": "I Built a Claude Code Skill That Reverse-Engineers Undocumented APIs  Because \"the docs are in the...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Polymarket CLOB: How the Order Book and Trading API Work",
+   "url": "https://dev.to/soulcrancerdev/polymarket-clob-how-the-order-book-and-trading-api-work-1d2d",
+   "date": "2026-08-19T15:33:25+00:00",
+   "summary": "Learn how the Polymarket CLOB works, from outcome token IDs and order books to authentication,...",
+   "points": 9,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Polymarket API Guide 2026: CLOB, Gamma, WebSockets, Rate Limits and the IP Gate",
+   "url": "https://dev.to/will_c38674673aba82fa4cbe/polymarket-api-guide-2026-clob-gamma-websockets-rate-limits-and-the-ip-gate-51mp",
+   "date": "2026-08-19T13:14:13+00:00",
+   "summary": "I went looking for \"the Polymarket API\" and spent an hour confused before realizing that's the wrong...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Syncing Webround and Brevo newsletter subscribers on Cloudflare Workers",
+   "url": "https://dev.to/luca_at_webround/syncing-webround-and-brevo-newsletter-subscribers-on-cloudflare-workers-3pbl",
+   "date": "2026-08-19T13:03:35+00:00",
+   "summary": "When a client migrated their store to Webround, they already had an active Brevo account with about...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MCP vs. API: Why Traditional APIs Aren't Enough for AI Agents",
+   "url": "https://dev.to/cpathirage/mcp-vs-api-why-traditional-apis-arent-enough-for-ai-agents-go2",
+   "date": "2026-08-19T12:00:47+00:00",
+   "summary": "APIs are not broken.  They have powered the internet, mobile applications, SaaS platforms, and...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We Publish the Data Before It's Correct. On Purpose.",
+   "url": "https://dev.to/srdjan_poppovic/we-publish-the-data-before-its-correct-on-purpose-4j13",
+   "date": "2026-08-19T08:52:13+00:00",
+   "summary": "Someone asks for yesterday's maximum temperature in Belgrade. We don't have it. We won't have it for...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to upload a file over JSON-RPC, when JSON has no type for a file",
+   "url": "https://dev.to/otezvikentiy/how-to-upload-a-file-over-json-rpc-when-json-has-no-type-for-a-file-5g76",
+   "date": "2026-08-19T06:40:00+00:00",
+   "summary": "JSON has no representation for a file. Strings, numbers, arrays, objects - that is the whole list. So...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Building an OpenAI-Compatible API Gateway: What I Learned About Multi-Model Routing",
    "url": "https://dev.to/alancoretech/building-an-openai-compatible-api-gateway-what-i-learned-about-multi-model-routing-4cke",
@@ -125,6 +321,17 @@
    "lang": "en"
   },
   {
+   "title": "Critical GitLab GraphQL Flaw (CVE-2026-19478) Allows Unauthenticated Deletion of Public Projects",
+   "url": "https://dev.to/alejandxr/critical-gitlab-graphql-flaw-cve-2026-19478-allows-unauthenticated-deletion-of-public-projects-372d",
+   "date": "2026-08-18T18:17:01+00:00",
+   "summary": "A critical unauthenticated GraphQL vulnerability (CVE-2026-19478) in self-managed GitLab can delete or modify public projects, earning a CVSS score of 9.4. Immediate patching is essential.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Claude API vs OpenAI API: A Developer's Comparison 2026",
    "url": "https://dev.to/mecanik-dev/claude-api-vs-openai-api-a-developers-comparison-2026-47km",
    "date": "2026-08-18T18:00:00+00:00",
@@ -154,193 +361,6 @@
    "tech": "graphql",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How I Built and Deployed an AI Vision API from Scratch with YOLOv8 and FastAPI",
-   "url": "https://dev.to/lokendra_parihar/how-i-built-and-deployed-an-ai-vision-api-from-scratch-with-yolov8-and-fastapi-1i87",
-   "date": "2026-08-18T12:53:49+00:00",
-   "summary": "The Problem That Started Everything   I am a CS and Mathematics student from Ujjain, India....",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Missing ID Doesn't 404 — It Fetches the Whole Collection",
-   "url": "https://dev.to/ai_changewatch/a-missing-id-doesnt-404-it-fetches-the-whole-collection-3ii2",
-   "date": "2026-08-18T12:00:00+00:00",
-   "summary": "I run AI Change Watch, a small independent project that crawls what 15 AI vendors publish about their...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The JSON Schema bug that only fires on a customer's first real query",
-   "url": "https://dev.to/devil_scrapes/the-json-schema-bug-that-only-fires-on-a-customers-first-real-query-34g2",
-   "date": "2026-08-18T04:31:49+00:00",
-   "summary": "There is a category of bug that passes every test you write, ships to production, and then fails on a...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The day our scraper fleet shipped nothing — and the afternoon it shipped three",
-   "url": "https://dev.to/devil_scrapes/the-day-our-scraper-fleet-shipped-nothing-and-the-afternoon-it-shipped-three-4jjo",
-   "date": "2026-08-18T04:30:46+00:00",
-   "summary": "We spent an entire working day last week shipping nothing. Nine scrapers were queued, every piece of...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Idempotency: The Secret to Preventing Double Payments and Network Glitches",
-   "url": "https://dev.to/saurav_tb_pandey/idempotency-the-secret-to-preventing-double-payments-and-network-glitches-1e8d",
-   "date": "2026-08-18T04:19:45+00:00",
-   "summary": "Idempotency is a property of an operation where executing it multiple times has the exact same effect...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Simple Wallet API From Scratch",
-   "url": "https://dev.to/obinna_justice/building-a-simple-wallet-api-from-scratch-2j3c",
-   "date": "2026-08-18T03:48:24+00:00",
-   "summary": "I'm starting something new.  Instead of building another project and only showing the final result, I...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Escaping the Walled Garden: My 2026 Multimodal API Journey",
-   "url": "https://dev.to/gentlenode/escaping-the-walled-garden-my-2026-multimodal-api-journey-3mcj",
-   "date": "2026-08-18T03:21:28+00:00",
-   "summary": "Escaping the Walled Garden: My 2026 Multimodal API Journey  I'll be honest with you. I'm the kind of...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
-   "url": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
-   "date": "2026-08-18T03:21:20+00:00",
-   "summary": "Sometimes you have GPS coordinates like:    40.7128, -74.0060        Enter fullscreen mode           ...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Unified Image Generation API: One Key, Multiple Models, Wrong for Invoice Extraction",
-   "url": "https://dev.to/yatesholloway6872/unified-image-generation-api-one-key-multiple-models-wrong-for-invoice-extraction-3ack",
-   "date": "2026-08-18T02:40:01+00:00",
-   "summary": "Short answer: a unified image generation API is a sensible one-key boundary for generating game...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stop Returning Bare 500s: A Practical Guide to RFC 9457 Problem Details",
-   "url": "https://dev.to/sirmax/stop-returning-bare-500s-a-practical-guide-to-rfc-9457-problem-details-4cel",
-   "date": "2026-08-18T02:07:56+00:00",
-   "summary": "How to design API error responses that developers can actually act on, using RFC 9457 Problem Details with a working FastAPI example.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect's Take",
-   "url": "https://dev.to/bolddeck/deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take-278m",
-   "date": "2026-08-18T01:29:48+00:00",
-   "summary": "DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect's Take  I've been running LLM workloads in...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built an open dataset tracking Africa's nuclear energy programs, here's what I learned",
-   "url": "https://dev.to/n3on/i-built-an-open-dataset-tracking-africas-nuclear-energy-programs-heres-what-i-learned-3h4i",
-   "date": "2026-08-17T22:00:46+00:00",
-   "summary": "Only one African country operates a commercial nuclear reactor. Egypt is building one. A growing...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build a Daily Tech-News Bot for Slack or Discord in 15 Minutes (Node.js + NewTqnia API)",
-   "url": "https://dev.to/samymassoud/build-a-daily-tech-news-bot-for-slack-or-discord-in-15-minutes-nodejs-newtqnia-api-5gmp",
-   "date": "2026-08-17T19:29:49+00:00",
-   "summary": "Every team I've been on has a #general channel that goes quiet by 11am. A daily digest bot is the...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Rails Routing & APIs: What Actually Happens Between the URL and Your Controller",
-   "url": "https://dev.to/lucasldemello/rails-routing-apis-what-actually-happens-between-the-url-and-your-controller-4elj",
-   "date": "2026-08-17T18:41:58+00:00",
-   "summary": "When I started studying APIs more seriously, I realized there was a problem with the way I was...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a GraphQL Video Discovery API with Strawberry and FastAPI over SQLite",
-   "url": "https://dev.to/ahmet_gedik778845/building-a-graphql-video-discovery-api-with-strawberry-and-fastapi-over-sqlite-3maa",
-   "date": "2026-08-17T17:00:02+00:00",
-   "summary": "How we replaced four REST round trips with one GraphQL query using Strawberry and FastAPI over a rea",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "We built a CLI that turns frontend code into API contracts, mock servers, and database schemas",
-   "url": "https://dev.to/medievalbatman/we-built-a-cli-that-turns-frontend-code-into-api-contracts-mock-servers-and-database-schemas-37no",
-   "date": "2026-08-17T15:01:32+00:00",
-   "summary": "We didn’t set out to build a whole product. We just kept running into the same problem over and over:...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "DeepSeek V4 Flash Got Expensive. I Kept the Model and Cut the API Cost Anyway",
-   "url": "https://dev.to/sergeisolod/deepseek-v4-flash-got-expensive-i-kept-the-model-and-cut-the-api-cost-anyway-125i",
-   "date": "2026-08-17T13:31:20+00:00",
-   "summary": "DeepSeek changed its API pricing, and my spending jumped almost overnight. Instead of replacing the...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -437,20 +457,20 @@
    "title": "اختبار Authentication في GraphQL باستخدام JWT Token واكتشاف الـ Unauthorized Cases.🔐",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RQUVORDdlaFY2VWNxbDBUVy1SVHVMcWFlcEctRHk1WlJQNFJUTkxUU3pwdkFmWXltSHRjOW1tcEQ1UEtRb3hDbjdMVVM1ZEVqZkhjYkRR?oc=5",
    "date": "2026-08-11T08:18:07+00:00",
-   "summary": "اختبار Authentication في GraphQL باستخدام JWT Token واكتشاف الـ Unauthorized Cases.🔐 youtube.com",
+   "summary": "اختبار Authentication في GraphQL باستخدام JWT Token واكتشاف الـ Unauthorized Cases.🔐 YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "فخ الـ 200 OK في GraphQL Automation Testing وكيف تكشفه بـ Postman!🚀✨",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWp5bmJ4T1dmZjhnaVlBU29ReVF1UFdXN2JzcHZIQ05SNDk5ZWZkdXl0akh2clZITlhNN29kdl9KVFJvSXFicXJfZkEtaFFIMVd5Q19R?oc=5",
    "date": "2026-08-08T15:42:39+00:00",
-   "summary": "فخ الـ 200 OK في GraphQL Automation Testing وكيف تكشفه بـ Postman!🚀✨ youtube.com",
+   "summary": "فخ الـ 200 OK في GraphQL Automation Testing وكيف تكشفه بـ Postman!🚀✨ YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -488,6 +508,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1MEJfam5zV2pDQXNLMEJBajdUNmIyNmdNM1FOX2F1YlhTZ2Q5RVFvOURvVVEwbFRLSFhyS0ozQUNSMmNLY2UyNjllQ0VDb082WTF6d2lB?oc=5",
    "date": "2025-08-25T13:00:12+00:00",
    "summary": "How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security) YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "GraphQL Full Course from Beginner to Pro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MU3JzMTdqN1hSSnppRUZFUnlxOWpXbnpjeDFZOVRJTldBT2hJMGEza1RQb0FkQkNqeHlURFZCWkpCb3NSbjl6b1YtQWdxeWFjVnhOcENB?oc=5",
+   "date": "2025-08-13T05:42:06+00:00",
+   "summary": "GraphQL Full Course from Beginner to Pro YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",
@@ -717,10 +747,10 @@
    "title": "حل مشكلة GraphQL server responded with error 1675030 Error performing query",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJRHRVZWtxdG9ZTm5xY1RTZFdCVnhFbV9ueHQ5U1Vmai1rZUZuQVZhdHloUm5fWEJ4Znp5T3c3YkpJcEdXN0JRc1B1T3hhY3NrZllZNmZn?oc=5",
    "date": "2024-08-31T10:47:15+00:00",
-   "summary": "حل مشكلة GraphQL server responded with error 1675030 Error performing query youtube.com",
+   "summary": "حل مشكلة GraphQL server responded with error 1675030 Error performing query YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -837,10 +867,10 @@
    "title": "10 - كورس Express GraphQL Sequelize كامل مع React.js شرح Google OAuth",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQT01pa3dYMGx0Y2lCU0xPam05dnRBbHF2OV8xQlJ5UW1yc2MwOVJFTzYtQnpkTlowWi0xWEFhaFRJM1hLSFNYd243T1JSYU43Z1VraS1n?oc=5",
    "date": "2024-05-19T07:00:07+00:00",
-   "summary": "10 - كورس Express GraphQL Sequelize كامل مع React.js شرح Google OAuth youtube.com",
+   "summary": "10 - كورس Express GraphQL Sequelize كامل مع React.js شرح Google OAuth YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -887,10 +917,10 @@
    "title": "ما هي تقنية GraphQL؟ وما الذي يميزها عن REST API؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05TVZKbVUyMWhzbUpXekEyVmVkakhmOTYtUE9GUUxnZ3paRzZSckxuSGp6WFNNOXZaS2VvMTVmYmRiZzFLWUMyejVVRzgzY2NrVk5fRlpB?oc=5",
    "date": "2024-01-25T14:00:39+00:00",
-   "summary": "ما هي تقنية GraphQL؟ وما الذي يميزها عن REST API؟ youtube.com",
+   "summary": "ما هي تقنية GraphQL؟ وما الذي يميزها عن REST API؟ YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -957,20 +987,20 @@
    "title": "الدرس الرابع: تطبيق عملي على تجاوز حماية Bruteforce في GraphQL - portswigger",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnSTM0WjFrZjBTNEtaajJiMmpnVWhtbU1mcWlJTGdTR0pkTVlCYkdvZEVaQkFPbmsxSTdVbVJKNEdzZTdMUWYxRDkwelNRdmVaSVZibllB?oc=5",
    "date": "2023-10-08T17:42:27+00:00",
-   "summary": "الدرس الرابع: تطبيق عملي على تجاوز حماية Bruteforce في GraphQL - portswigger youtube.com",
+   "summary": "الدرس الرابع: تطبيق عملي على تجاوز حماية Bruteforce في GraphQL - portswigger YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح ال GraphQL ف 100 ثانيه",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZUXFlTlJVMzFxcm9iYXF3c3M1T3FiUm9haEpjTlc5WjZySXlsSjJMQktOdUdwZXc3NG85VWRyVXl3THZXZldaMW03bHFwdzB4QUxuS05n?oc=5",
    "date": "2023-10-07T19:48:34+00:00",
-   "summary": "شرح ال GraphQL ف 100 ثانيه youtube.com",
+   "summary": "شرح ال GraphQL ف 100 ثانيه YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -997,10 +1027,10 @@
    "title": "الدرس الأول: تطبيق عملي على الوصول للمنشورات المخفيفه GraphQL - portswigger",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zZzdZcjM0ZXVRcF9zQ0kxQXctSmtOa0NQTlgxSFVmZDFFWF9NWmVKOWdRbUlNcERuQUpGc3I4cFhIZXduUjNkQ0swUWZnX2xEMHBqSnJ3?oc=5",
    "date": "2023-09-24T16:33:00+00:00",
-   "summary": "الدرس الأول: تطبيق عملي على الوصول للمنشورات المخفيفه GraphQL - portswigger youtube.com",
+   "summary": "الدرس الأول: تطبيق عملي على الوصول للمنشورات المخفيفه GraphQL - portswigger YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1237,10 +1267,10 @@
    "title": "GraphQl Full Course - كورس GraphQl كامل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FbWZSbk1oeDJ3TC1iOThiSm14Y0tpSHBNeVY4ZW5QZ3M3NHp3YnJDNVVOMXFmcU8xTzZhY2s5Tmh6SXhPeDhadWFjTGlSVXpBUzZjcEl3?oc=5",
    "date": "2023-02-12T16:42:18+00:00",
-   "summary": "GraphQl Full Course - كورس GraphQl كامل youtube.com",
+   "summary": "GraphQl Full Course - كورس GraphQl كامل YouTube",
    "tech": "graphql",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1248,16 +1278,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XYmpOdXZMSnU5TkYzTHR5YTBVRkdHdGk0VW5zdHVFMW13NGczRDk4Sjk1T2thekstTE5nZkhRaHhuNko5cnh0R0JZRm9ETE9UenJGUjZ3?oc=5",
    "date": "2023-02-05T04:32:56+00:00",
    "summary": "Shopify Admin API Tutorial | GraphQL & Rest Queries YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "GraphQl With Spring Boot Kotlin - Crash Course [Latest]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyY21hYWIzWE10a3M4Z1g1M21idGhKZnRQalBsaHVJVTM2cGRjUFotaG9ZNEdnMG80Mlg1SC1Gek5kMExScjVNWHBsb2JJWHAxajdjRkh3?oc=5",
-   "date": "2022-12-23T18:45:10+00:00",
-   "summary": "GraphQl With Spring Boot Kotlin - Crash Course [Latest] YouTube",
    "tech": "graphql",
    "sourceId": "yt",
    "source": "YouTube",

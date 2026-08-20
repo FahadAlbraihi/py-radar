@@ -1,8 +1,63 @@
 {
- "generated": "2026-08-19T05:18:51.743814+00:00",
+ "generated": "2026-08-20T05:23:31.733507+00:00",
  "tech": "fsharp",
  "count": 104,
  "items": [
+  {
+   "title": "Como Publicar uma Biblioteca .NET no NuGet.org",
+   "url": "https://dev.to/lzocate-li/como-publicar-uma-biblioteca-net-no-nugetorg-ehf",
+   "date": "2026-08-20T02:01:24+00:00",
+   "summary": "Aprenda a publicar uma biblioteca .NET no NuGet.org com SemVer, validação no ambiente de teste e feeds privados no Azure Artifacts e GitHub Packages.",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint",
+   "url": "https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp",
+   "date": "2026-08-19T18:47:30+00:00",
+   "summary": "Use MCP C# SDK hybrid sessions to keep 2025-11-25 clients stateful while serving 2026-07-28 clients statelessly on one ASP.NET Core endpoint.",
+   "points": 5,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Feature Flags and Testing: Because QA Deserves Surprises Too",
+   "url": "https://dev.to/avlcodemonkey-industries/feature-flags-and-testing-because-qa-deserves-surprises-too-2i0c",
+   "date": "2026-08-19T17:59:43+00:00",
+   "summary": "Feature flags make deployments safer, but they also multiply the states your application can be in. Here's how to test flags without making QA cry.",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "API Versioning: Managing Change Without Breaking Existing Clients",
+   "url": "https://dev.to/rhuturaj_takle/api-versioning-managing-change-without-breaking-existing-clients-2ak3",
+   "date": "2026-08-19T15:41:03+00:00",
+   "summary": "API Versioning: Managing Change Without Breaking Existing Clients   A practical guide to API...",
+   "points": 0,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Twinify 1.0.2: A Look at the Latest Performance Improvements",
+   "url": "https://dev.to/stevenkamwaza/twinify-102-a-look-at-the-latest-performance-improvements-lap",
+   "date": "2026-08-19T06:15:59+00:00",
+   "summary": "Over the past few weeks, the performance and memory efficiency of Twinify has been improved, twinify...",
+   "points": 1,
+   "tech": "fsharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "One Quality Score Is a Lie: Split Your RAG Judge Into Retrieval, Groundedness, and Relevance",
    "url": "https://dev.to/saurav_bhattacharya/one-quality-score-is-a-lie-split-your-rag-judge-into-retrieval-groundedness-and-relevance-473m",
@@ -273,61 +328,6 @@
    "date": "2026-08-16T17:57:12+00:00",
    "summary": "Introduction   Learn about the ExceptionDispatchInfo object, which stores the stack trace...",
    "points": 1,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies",
-   "url": "https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73",
-   "date": "2026-08-16T17:15:09+00:00",
-   "summary": "When a test process dies, a red CI job is not enough. I need to know what completed and what was...",
-   "points": 5,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "This week in Cursor + .NET — 7 rules (week ending August 16, 2026)",
-   "url": "https://dev.to/agentic_architect/this-week-in-cursor-net-7-rules-week-ending-august-16-2026-988",
-   "date": "2026-08-16T10:40:29+00:00",
-   "summary": "A weekly digest from the Agentic Architect persistence kit: 7 senior C#/.NET rules for engineers keeping Cursor honest across sessions.",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "When a Blazor Component Quietly Becomes HTML",
-   "url": "https://dev.to/iqtechsolutions/when-a-blazor-component-quietly-becomes-html-2f2m",
-   "date": "2026-08-16T09:02:29+00:00",
-   "summary": "A green build usually gives us useful confidence: the types line up, required references exist, and...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Domain-Driven Design: Modeling Software Around the Business",
-   "url": "https://dev.to/rhuturaj_takle/domain-driven-design-modeling-software-around-the-business-1h3",
-   "date": "2026-08-16T08:06:02+00:00",
-   "summary": "Domain-Driven Design: Modeling Software Around the Business   A practical guide to...",
-   "points": 0,
-   "tech": "fsharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ContextMemory v0.1.0-beta: what shipped",
-   "url": "https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl",
-   "date": "2026-08-15T22:46:33+00:00",
-   "summary": "ContextMemory v0.1.0-beta is out.  Agent memory you can open like a wiki — not a vector black box,...",
-   "points": 0,
    "tech": "fsharp",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -834,6 +834,16 @@
    "lang": "en"
   },
   {
+   "title": "F# Tutorial: Continuations",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yZVh2WXFtWkx1TWNyRjdia3QtR2t3VExWdVJERDF1VFZxUWJVdWNmbExjNUc0bnJHWXVRS3UxNjJIRERNYWtlU1NSdXFtWVJXUmFfTS1B?oc=5",
+   "date": "2023-05-31T15:00:37+00:00",
+   "summary": "F# Tutorial: Continuations YouTube",
+   "tech": "fsharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How to play F#/Gb major & D#/Eb minor Piano Scale [SCALES COURSE Lesson 12]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vTjZyMHhiT2NEYXZhdnFaZW56Mk4yMmMwdVd3UFR5ckQtQWVXWmFGbWJNSU1hU1NjTC1iYUc1YnlwMzRkNGRwTDVFUHk1YmExNGVWbVFR?oc=5",
    "date": "2023-05-11T13:36:01+00:00",
@@ -1058,16 +1068,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHMmE1V19MR2Z3SE9tRUY3TEZyd3Y2NkZueE1QV19ER3hkWWNQTW00QUFkZ2R4UEotWXQ4aE9QZTVkcURfVzF2MzdnX1dZa0thcFpHRlNn?oc=5",
    "date": "2021-03-27T09:45:15+00:00",
    "summary": "F SHARP PASSING CHORDS SERIES PART 1: THE 1 AS A PASSING CHORD (Instructor - Caleb Fadhili) YouTube",
-   "tech": "fsharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "HOW TO SOUND BETTER ON F SHARP PART 1-(Instructor - Caleb Fadhili)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DelJjYUlUUDJsZUNVOXdUSlgyM0VacnVhbFRWM0pmVHJHWExoeXpXS0M0UGl1Q1Jvb2phTmRteXljWDJuNjhWUFpDVWIzaVRMSlJpT093?oc=5",
-   "date": "2021-03-09T09:00:15+00:00",
-   "summary": "HOW TO SOUND BETTER ON F SHARP PART 1-(Instructor - Caleb Fadhili) YouTube",
    "tech": "fsharp",
    "sourceId": "yt",
    "source": "YouTube",

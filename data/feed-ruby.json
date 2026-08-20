@@ -1,8 +1,28 @@
 {
- "generated": "2026-08-19T04:59:35.833919+00:00",
+ "generated": "2026-08-20T05:06:52.507988+00:00",
  "tech": "ruby",
  "count": 123,
  "items": [
+  {
+   "title": "️ Designing a Production-Ready Role-Based Access Control (RBAC) System in Ruby on Rails",
+   "url": "https://medium.com/@raviskit2012/%EF%B8%8F-designing-a-production-ready-role-based-access-control-rbac-system-in-ruby-on-rails-7bb9d2d67b7e?source=rss------ruby-5",
+   "date": "2026-08-19T09:15:47+00:00",
+   "summary": "From if current_user.admin? to a Permission System That Actually Scales &#x1F680; Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Engines or Packwerk? The question after the modular monolith",
+   "url": "https://medium.com/@davidslv/engines-or-packwerk-the-question-after-the-modular-monolith-c0c2e152025d?source=rss------ruby-5",
+   "date": "2026-08-19T05:47:51+00:00",
+   "summary": "Every Rails engineer I know has lived this. The app starts small. A handful of models, a test suite that runs in seconds, rails generate&#x2026; Continue reading on Medium »",
+   "tech": "ruby",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "I Could Hack My Own Rails App With One Hidden Input",
    "url": "https://dev.to/gjhewitt/i-could-hack-my-own-rails-app-with-one-hidden-input-3ca1",
@@ -376,26 +396,6 @@
    "lang": "en"
   },
   {
-   "title": "Ruby как альтернатива .NET",
-   "url": "https://medium.com/evrone-ru/ruby-%D0%BA%D0%B0%D0%BA-%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%B0-net-bd8b94c1d19e?source=rss------ruby-5",
-   "date": "2026-08-10T14:26:45+00:00",
-   "summary": "&#x422;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x430;&#x44F; &#x43C;&#x438;&#x433;&#x440;&#x430;&#x446;&#x438;&#x44F; &#x2014; &#x432;&#x441;&#x435;&#x433;&#x434;&#x430; &#x43D;&#x435;&#x43F;&#x4",
-   "tech": "ruby",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "API Versioning Strategies in Ruby on Rails",
-   "url": "https://medium.com/@raviskit2012/api-versioning-strategies-in-ruby-on-rails-8fb1ab053f8a?source=rss------ruby-5",
-   "date": "2026-08-10T11:33:25+00:00",
-   "summary": "Build APIs That Evolve Without Breaking Your Customers &#x1F30D;&#x26A1; Continue reading on Medium »",
-   "tech": "ruby",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Courrier: a gem to send emails without SMTP",
    "url": "https://dev.to/railsdesigner/courrier-a-gem-to-send-emails-without-smtp-552l",
    "date": "2026-08-10T07:30:00+00:00",
@@ -657,10 +657,10 @@
    "title": "مجالات العمل باستخدام لغة روبي Ruby",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zby1KTDVHd21aWFkxUE1ZOUlNMzJ3WUlVOUJVTmlFY2hkeXNBYzkzeGwzS3h0U2g1cmRUM3dVaXpaUklucy1sV1k2RkQ0MkNlb3VDN1F3?oc=5",
    "date": "2025-02-04T14:00:51+00:00",
-   "summary": "مجالات العمل باستخدام لغة روبي Ruby youtube.com",
+   "summary": "مجالات العمل باستخدام لغة روبي Ruby YouTube",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -688,6 +688,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50UjFxOWhiMlVmdUxPTUZ1Wmg1ZWFBS1p4UmNvaGVWOTI4ZTdrVnVjSjQ4azlDN09EMzRqczk5RVVfellMRlRkUDBkXzJQUG5OZTJWRXhR?oc=5",
    "date": "2024-11-14T21:44:45+00:00",
    "summary": "Rails 8: The Demo YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Intro to Ruby on Rails 7 Full stack Tutorial | Rails for Beginners Part 2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNkRtcHFOTll4QWYxV1dhRm96b3ZraWYweXVtd0ktVGlTajhpaXRhZEYyTXhSS2h0bnlHWjFUSjNiVjFNVW03MFpaZmFGamljYnQtQWJ3?oc=5",
+   "date": "2024-10-28T16:08:23+00:00",
+   "summary": "Intro to Ruby on Rails 7 Full stack Tutorial | Rails for Beginners Part 2 YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -967,10 +977,10 @@
    "title": "Tutorials - Ruby on Rails - Lesson 1 - Introduction || دروس - روبي أون ريلز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yNEVfaTVZaGlLSFNpcllrdHA5YUhNX0FCcEV2YVZJc3Q0OVNqMU94cFlGVEJuM3drYWxVS1JacHU4M2dIZnZBS25pTUR6a2hhckRyd25n?oc=5",
    "date": "2022-11-30T17:06:49+00:00",
-   "summary": "Tutorials - Ruby on Rails - Lesson 1 - Introduction || دروس - روبي أون ريلز youtube.com",
+   "summary": "Tutorials - Ruby on Rails - Lesson 1 - Introduction || دروس - روبي أون ريلز YouTube",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -987,10 +997,10 @@
    "title": "تعلم لغة البرمجة روبي من الصفر الى الاحتراف مع 10 امثلة عملية | Learn Ruby In Arabic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WbFhld0x6emQyN3dTQVlubmh1VVE3UFU4N0hpYkZsbm1iRnpUdlVoZEQwd2hJQTNQOHp0QzdURTNacGltOHdBY2lLSkpYXzQ1QnAxLVVB?oc=5",
    "date": "2022-11-28T14:29:41+00:00",
-   "summary": "تعلم لغة البرمجة روبي من الصفر الى الاحتراف مع 10 امثلة عملية | Learn Ruby In Arabic youtube.com",
+   "summary": "تعلم لغة البرمجة روبي من الصفر الى الاحتراف مع 10 امثلة عملية | Learn Ruby In Arabic YouTube",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1007,10 +1017,10 @@
    "title": "Ruby Programming Language - Lesson 1 - Introduction & Installation || تعلم لغة البرمجة روبي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yWWJsV2F6QkhuaGlUUnFEOHVRRzRFRUVXd2F1VHk3NGI1d1BGeEo2bUxHLWNSbl9wakFxN1BsMkl3VzJBdno2Nm9reXlwVTB2VThzSUxn?oc=5",
    "date": "2022-10-10T22:07:40+00:00",
-   "summary": "Ruby Programming Language - Lesson 1 - Introduction & Installation || تعلم لغة البرمجة روبي youtube.com",
+   "summary": "Ruby Programming Language - Lesson 1 - Introduction & Installation || تعلم لغة البرمجة روبي YouTube",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1048,6 +1058,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14X3dMX29xY2ZEbEowVEcwcTNQREFNQ1VMejhPS2E0UWxsN2hETnU3RElDeDc3MnU2VkZ1bFBLVEVXNjRwQW40RUd0OFNvR25sUWs5Ty1n?oc=5",
    "date": "2022-05-26T12:56:19+00:00",
    "summary": "Ruby On Rails Tutorials For Beginners YouTube",
+   "tech": "ruby",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Ruby on Rails Course | Urdu / Hindi",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50c3o0UGVTZnk4VmJ5OVBEMDByYXZqdlhxcEc1TEk1QlB4dU93bmd3REd3bW5VWXRUT0xsazUzSVNiV1F3ODNJMHZWNGt4X0tteXlHQmNQUDRTU1BjMFd0SjVrSVN3R0E2UUdZOTBLWXBoOHFDek55Q0VLWWo?oc=5",
+   "date": "2022-05-21T09:07:23+00:00",
+   "summary": "Ruby on Rails Course | Urdu / Hindi YouTube",
    "tech": "ruby",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1117,10 +1137,10 @@
    "title": "مقارنة بين لغات البرمجة PHP و Ruby و Python",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTUtubjdESHRMOXNQMUxMRHRGbFNteGRyT2RJeXpRckFVb3VnWkxVdW1DUUZoR3A4WnBaazRzY2NWTW92QzFvZVpEV2xneGFoUjJhNTNn?oc=5",
    "date": "2021-11-28T16:48:09+00:00",
-   "summary": "مقارنة بين لغات البرمجة PHP و Ruby و Python youtube.com",
+   "summary": "مقارنة بين لغات البرمجة PHP و Ruby و Python YouTube",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1224,43 +1244,23 @@
    "lang": "en"
   },
   {
-   "title": "Masterclass | Ruby Programming in 1 video | Beginners Ruby HandsOn Crash Course Interview FAQs",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44bzJyZHM0aVhIT2VjNVg5dUdTV1RvVzIwaXZiVTZ6RUNlNE1YUkQ0N2V6TWxEc2p2MmhuVkQyWjNhTWYzd3RzX0dvOFBodXNGT29IUEhR?oc=5",
-   "date": "2021-01-26T14:30:10+00:00",
-   "summary": "Masterclass | Ruby Programming in 1 video | Beginners Ruby HandsOn Crash Course Interview FAQs YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Ruby Beginner Tutorial 1 | What is Ruby | Introduction",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KNk1fcnljLVYwdk5KZkh5OTZoUDRMSndnczZ1ZE1TWEhrV3g1dnNxV2pTNzJUUTVKdWwyYTBoTVlGbXc5QW5ucXNaa1dyN08yU09jZFFR?oc=5",
-   "date": "2020-12-31T04:51:37+00:00",
-   "summary": "Ruby Beginner Tutorial 1 | What is Ruby | Introduction YouTube",
-   "tech": "ruby",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعرف على لغة البرمجة Ruby",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lSjhyMGNUaG56aG5Ob1RJQURmVFd6WUlPcVZ3cENxS0tCSXQ3Tjh5T3lnb1JDYXV2S1VadE0zWnNlTjZFLUVtaEc4R2RCdFRNcmZLYXRR?oc=5",
    "date": "2018-05-07T08:43:36+00:00",
-   "summary": "تعرف على لغة البرمجة Ruby youtube.com",
+   "summary": "تعرف على لغة البرمجة Ruby YouTube",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "2- install Ruby on windows تنصيب الروبي على الوندوز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSeHA1Zl9kSEJadEdHQ2hmLVRsRlZOcFNaNFNiT3VLWU5iZFpRVHA3dGlURnRGcUVscDk4UnpzeU9ldFpqd0RiQnQxdHFzMGwxRi15ZV9n?oc=5",
    "date": "2016-07-03T08:41:30+00:00",
-   "summary": "2- install Ruby on windows تنصيب الروبي على الوندوز youtube.com",
+   "summary": "2- install Ruby on windows تنصيب الروبي على الوندوز YouTube",
    "tech": "ruby",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   }
  ]

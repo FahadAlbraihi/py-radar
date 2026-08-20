@@ -1,8 +1,175 @@
 {
- "generated": "2026-08-19T04:59:07.421146+00:00",
+ "generated": "2026-08-20T05:04:24.824856+00:00",
  "tech": "csharp",
  "count": 220,
  "items": [
+  {
+   "title": "I rebuilt the \"Simple Web Server\" from 20 years ago.",
+   "url": "https://dev.to/charmpic/i-rebuilt-the-simple-web-server-from-20-years-ago-15a2",
+   "date": "2026-08-20T04:14:59+00:00",
+   "summary": "20 Years Ago, I Built a Simple Web Server by Reading HTTP Specs. Today, I Rebuilt It with Modern .NET...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Como Publicar uma Biblioteca .NET no NuGet.org",
+   "url": "https://dev.to/lzocate-li/como-publicar-uma-biblioteca-net-no-nugetorg-ehf",
+   "date": "2026-08-20T02:01:24+00:00",
+   "summary": "Aprenda a publicar uma biblioteca .NET no NuGet.org com SemVer, validação no ambiente de teste e feeds privados no Azure Artifacts e GitHub Packages.",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Query That Runs Later",
+   "url": "https://medium.com/@rohanraobhs/the-query-that-runs-later-0f047a65ac1a?source=rss------csharp-5",
+   "date": "2026-08-19T20:35:57+00:00",
+   "summary": "Understanding Deferred Execution in C# LINQ Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "MCP in .NET: A Working Model Context Protocol Server in C#, Start to Finish",
+   "url": "https://medium.com/c-sharp-programming/mcp-in-net-a-working-model-context-protocol-server-in-c-start-to-finish-449ff0b787dd?source=rss------csharp-5",
+   "date": "2026-08-19T19:44:50+00:00",
+   "summary": "The official SDK makes it almost boring, in the best possible way. Here&#x2019;s the whole thing, including the parts that will bite you. Continue reading on .Net Programming »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Shipping Agents Without Evals: Build a .NET 10 Quality Gate",
+   "url": "https://medium.com/@michaelmaurice410/stop-shipping-agents-without-evals-build-a-net-10-quality-gate-e6dfe3f6aae7?source=rss------csharp-5",
+   "date": "2026-08-19T19:44:50+00:00",
+   "summary": "Catch unsafe tool calls, missing evidence, cost drift, and latency regressions before an agent reaches production. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint",
+   "url": "https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp",
+   "date": "2026-08-19T18:47:30+00:00",
+   "summary": "Use MCP C# SDK hybrid sessions to keep 2025-11-25 clients stateful while serving 2026-07-28 clients statelessly on one ASP.NET Core endpoint.",
+   "points": 5,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MCP x-mcp-header Validation: Keep Bad Tool Schemas Out of tools/list",
+   "url": "https://dev.to/ssukhpinder/mcp-x-mcp-header-validation-keep-bad-tool-schemas-out-of-toolslist-3j3d",
+   "date": "2026-08-19T18:33:55+00:00",
+   "summary": "MCP x-mcp-header validation is easy to miss because the annotation looks like ordinary JSON Schema...",
+   "points": 4,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Feature Flags and Testing: Because QA Deserves Surprises Too",
+   "url": "https://dev.to/avlcodemonkey-industries/feature-flags-and-testing-because-qa-deserves-surprises-too-2i0c",
+   "date": "2026-08-19T17:59:43+00:00",
+   "summary": "Feature flags make deployments safer, but they also multiply the states your application can be in. Here's how to test flags without making QA cry.",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Retrying Slow APIs: Build Safe HTTP Hedging in .NET 10",
+   "url": "https://medium.com/@mariammaurice/stop-retrying-slow-apis-build-safe-http-hedging-in-net-10-c8a2df092a0d?source=rss------csharp-5",
+   "date": "2026-08-19T17:01:03+00:00",
+   "summary": "Your retry policy just turned a 2-second slowdown into a 12-second outage. Hedging would have fixed it in 500 milliseconds. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Latest C# 14 Features: 7 Practical Improvements for .NET 10 Developers",
+   "url": "https://medium.com/c-sharp-programming/latest-c-14-features-7-practical-improvements-for-net-10-developers-480e4b7b814c?source=rss------csharp-5",
+   "date": "2026-08-19T16:52:37+00:00",
+   "summary": "Cleaner Code with Latest C# 14 Features Continue reading on .Net Programming »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The Definitive Guide to C# .NET UI Controls",
+   "url": "https://medium.com/mesciusinc/the-definitive-guide-to-c-net-ui-controls-276a720d3c72?source=rss------csharp-5",
+   "date": "2026-08-19T16:44:48+00:00",
+   "summary": ".NET provides a rich ecosystem of user interface (UI) frameworks that enable developers to build applications for desktop, web, and mobile&#x2026; Continue reading on MESCIUS inc. »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "API Versioning: Managing Change Without Breaking Existing Clients",
+   "url": "https://dev.to/rhuturaj_takle/api-versioning-managing-change-without-breaking-existing-clients-2ak3",
+   "date": "2026-08-19T15:41:03+00:00",
+   "summary": "API Versioning: Managing Change Without Breaking Existing Clients   A practical guide to API...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results",
+   "url": "https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/",
+   "date": "2026-08-19T15:37:39+00:00",
+   "summary": "We traced a frontier model through fifteen C# refactoring tasks and counted what it reached for. It piped text into interactive commands 468 times. It called git 422 times and sed 392 times. It ran dotnet build 163 times. Across 2,513 tool ",
+   "tech": "csharp",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "C# Records: Syntax, Examples, Immutability, and Best Practices",
+   "url": "https://medium.com/@hafsatariq277/c-records-syntax-examples-immutability-and-best-practices-db7130165fb3?source=rss------csharp-5",
+   "date": "2026-08-19T14:46:01+00:00",
+   "summary": "URL Slug: /csharp-records-syntax-examples-best-practices Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Beyond 99.99%",
+   "url": "https://towardsaws.com/beyond-99-99-470dbd3dc0b4?source=rss------csharp-5",
+   "date": "2026-08-19T14:45:16+00:00",
+   "summary": "How to design bulletproof AWS systems in .NET 10 that gracefully handle downstream service crashes without dropping a single user request. Continue reading on Towards AWS »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Twinify 1.0.2: A Look at the Latest Performance Improvements",
+   "url": "https://dev.to/stevenkamwaza/twinify-102-a-look-at-the-latest-performance-improvements-lap",
+   "date": "2026-08-19T06:15:59+00:00",
+   "summary": "Over the past few weeks, the performance and memory efficiency of Twinify has been improved, twinify...",
+   "points": 1,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "I’m Opening a Waitlist for C#/.NET Mock Interviews",
    "url": "https://medium.com/@shemeenasrawther/im-opening-a-waitlist-for-c-net-mock-interviews-98c737d00654?source=rss------csharp-5",
@@ -261,16 +428,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Generate Structured JSON in WinUI 3 with C#",
-   "url": "https://nirav-parmar.medium.com/how-to-generate-structured-json-in-winui-3-with-c-d739d94eb4ec?source=rss------csharp-5",
-   "date": "2026-08-18T02:19:10+00:00",
-   "summary": "When you build an AI-powered WinUI 3 application, getting a useful response from an AI model is only half the problem. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "I Spent 30+ Hours Building \"The Boring SaaS Stack\" So I Never Have To Do It Again",
    "url": "https://dev.to/azhadsuhaimi/i-spent-30-hours-building-the-boring-saas-stack-so-i-never-have-to-do-it-again-pa9",
    "date": "2026-08-18T02:13:05+00:00",
@@ -304,16 +461,6 @@
    "lang": "en"
   },
   {
-   "title": "100 Days of .NET — Dia 02: Trabalhando com arquivos e Streams no .NET",
-   "url": "https://medium.com/@maxuel.rodrigues/100-days-of-net-dia-02-trabalhando-com-arquivos-e-streams-no-net-26a24fafb777?source=rss------csharp-5",
-   "date": "2026-08-17T21:34:17+00:00",
-   "summary": "No Dia 02 do desafio 100 Days of .NET, o foco foi entender como uma aplica&#xE7;&#xE3;o .NET conversa com o sistema de arquivos do sistema&#x2026; Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure",
    "url": "https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga",
    "date": "2026-08-17T18:11:49+00:00",
@@ -322,46 +469,6 @@
    "tech": "csharp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Unexpected AI Stack: C# + .NET (Part 2)",
-   "url": "https://itnext.io/the-unexpected-ai-stack-c-net-part-2-2dddd1e36fab?source=rss------csharp-5",
-   "date": "2026-08-17T17:33:11+00:00",
-   "summary": "Scaffolding an AI-enabled codebase from the ground up to support agentic engineering Continue reading on ITNEXT »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Stop Trusting Bearer Tokens: Build a DPoP-Protected API in .NET 10",
-   "url": "https://medium.com/@mariammaurice/stop-trusting-bearer-tokens-build-a-dpop-protected-api-in-net-10-67aef610aae2?source=rss------csharp-5",
-   "date": "2026-08-17T17:01:03+00:00",
-   "summary": "A stolen access token is a golden ticket. DPoP makes it worthless in the attacker&#x2019;s hands. Here&#x2019;s the .NET 10 implementation that survived&#x2026; Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "5 Small C# Tricks That Make Your Code Cleaner",
-   "url": "https://blog.devgenius.io/5-small-c-tricks-that-make-your-code-cleaner-2020da2e5ab1?source=rss------csharp-5",
-   "date": "2026-08-17T16:20:31+00:00",
-   "summary": "You don&#x2019;t always need a major refactoring to make C# code better. Continue reading on Dev Genius »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "What Really Happens When You Run an ASP.NET Core App? Inside the .NET Runtime, CLR, JIT & IL",
-   "url": "https://medium.com/@DotNetNewsletter/what-really-happens-when-you-run-an-asp-net-core-app-inside-the-net-runtime-clr-jit-il-5e978993cc5f?source=rss------csharp-5",
-   "date": "2026-08-17T15:32:44+00:00",
-   "summary": "A deep dive for backend engineers who want to answer &#x201C;what happens when you hit F5&#x201D; with more than a shrug. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -397,110 +504,13 @@
    "lang": "en"
   },
   {
-   "title": "C# Coding Interview Prep Part 3: Async/Await, Task, CancellationToken, Reflection, Records, Iterators, and Dependency Injection",
-   "url": "https://dev.to/manoharij/c-coding-interview-prep-part-3-asyncawait-task-cancellationtoken-reflection-records-ik6",
-   "date": "2026-08-17T13:31:17+00:00",
-   "summary": "Part 1 covered the basics. Part 2 covered mid-level concepts - LINQ, generics, delegates, OOP...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ASP.NET Core Output Caching: How to Make Web APIs Faster in .NET",
-   "url": "https://dev.to/toolbenchapp/aspnet-core-output-caching-how-to-make-web-apis-faster-in-net-2n8",
-   "date": "2026-08-17T12:48:43+00:00",
-   "summary": "ASP.NET Core Output Caching: How to Make Web APIs Faster in .NET   When an API receives the...",
-   "points": 1,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "NuGet Restore Failing with 'Unable to find version' Package? Check Your NuGetToolInstaller Version!",
-   "url": "https://dev.to/sui23e879d/nuget-restore-failing-with-unable-to-find-version-package-check-your-nugettoolinstaller-version-2e9l",
-   "date": "2026-08-17T12:34:31+00:00",
-   "summary": "The Problem  In one of our Azure DevOps pipelines, nuget restore suddenly started failing with an...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Service Discovery and Service Mesh in .NET — Part 2: Four Ways to Implement Discovery",
-   "url": "https://dev.to/arash_zand/service-discovery-and-service-mesh-in-net-part-2-four-ways-to-implement-discovery-3j6g",
-   "date": "2026-08-17T10:35:56+00:00",
-   "summary": "Part 2 of a six-part series on service discovery and service mesh architecture for .NET...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Leveraging IBM Bob with Aspire Skills to Analyze My Existing Aspire Projects",
-   "url": "https://dev.to/berviantoleo/leveraging-ibm-bob-with-aspire-skills-to-analyze-my-existing-aspire-projects-4p64",
-   "date": "2026-08-17T07:29:31+00:00",
-   "summary": "Skills   What are skills? Some may be known as Agent Skills. Let's read some...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "MFA Enabled Is Not MFA Verified",
-   "url": "https://dev.to/iqtechsolutions/mfa-enabled-is-not-mfa-verified-2312",
-   "date": "2026-08-17T06:05:46+00:00",
-   "summary": "A two-factor flag in the user store looks like a reassuring authorization check. It tells us the...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "C# params Collections: The Small Feature That Can Change How You Design APIs",
-   "url": "https://medium.com/@shemeenasrawther/c-params-collections-the-small-feature-that-can-change-how-you-design-apis-f4a0343273be?source=rss------csharp-5",
-   "date": "2026-08-17T04:01:28+00:00",
-   "summary": "From params T[] to modern collection-aware APIs &#x2014; with real C# examples and performance considerations. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Capacity Is Not a Number: Atomic Admission and Scale-Out with Redis Lua in .NET",
-   "url": "https://medium.com/@m.marano2k14/capacity-is-not-a-number-atomic-admission-and-scale-out-with-redis-lua-in-net-1318c3b3a388?source=rss------csharp-5",
-   "date": "2026-08-17T03:29:19+00:00",
-   "summary": "Why deterministic selection is still unsafe without distributed reservation, how Redis Lua closes the race, and how bounded runtime and&#x2026; Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "C# ExceptionDispatchInfo Class",
-   "url": "https://dev.to/karenpayneoregon/c-exceptiondispatchinfo-class-1je2",
-   "date": "2026-08-16T17:57:12+00:00",
-   "summary": "Introduction   Learn about the ExceptionDispatchInfo object, which stores the stack trace...",
-   "points": 1,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "الدرس الثالث سي شارب : تكملة شرح برمجة شاشة معالج إعداد وتهيئة النظام المحاسبي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sa2tjc0lIWi13aUlFbEhOblBTd1FRODJtWnNqRl9RZjhmYncyZ2prU2lxekNXcDVWUWdoMHMyTWlYWmdJRWd5MVB5MGFGd04zRkU4cWR3?oc=5",
    "date": "2026-08-10T16:01:05+00:00",
-   "summary": "الدرس الثالث سي شارب : تكملة شرح برمجة شاشة معالج إعداد وتهيئة النظام المحاسبي youtube.com",
+   "summary": "الدرس الثالث سي شارب : تكملة شرح برمجة شاشة معالج إعداد وتهيئة النظام المحاسبي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -584,6 +594,16 @@
    "lang": "en"
   },
   {
+   "title": "C# & ASP.NET Core – From Basics to Web API | Visual Studio Installation & How to Create Console App",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2RnJUMnJGbUQxM2xPV1R6OHp0QkVaU2haNUlJcmp5eXY1QmloZk9XbXFMTVJWR3YtaXAzc1BqMzJSS0pDV3dyZklwZHkzRmo3Q2JhRTBR?oc=5",
+   "date": "2026-02-23T04:37:26+00:00",
+   "summary": "C# & ASP.NET Core – From Basics to Web API | Visual Studio Installation & How to Create Console App YouTube",
+   "tech": "csharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Call@8121262448.Best Full Stack Dotnet Training institute in Hyderabad,Bangalore,Chennai,Delhi,US,UK",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nMlU5cDBzaFhhVno1bVc5WGYxNmwwdTE5T3ZfWXlhalJVMkpaNW5tVktOb1pjQzg4b29wVk9TZVUzQ0I3VE8ySUtTcFMybW83aXdDdGtn?oc=5",
    "date": "2026-01-25T12:17:41+00:00",
@@ -637,10 +657,10 @@
    "title": "شرح Visual Basic .NET من الصفر | شرح سهل ومراجعة هامة للممتحنين في الجهاز المركزي تخصص حاسب آلي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sSUdkU1RZb28wU2FxVHFmdFJKeFRkdFIyQXhhQUNzVnFpc1Bld2F1OFdWY19vdTBleTVKcElOeXRNUDlWcmxZdXdiZ0JpV2ZzdTY5ZU5n?oc=5",
    "date": "2026-01-02T14:15:16+00:00",
-   "summary": "شرح Visual Basic .NET من الصفر | شرح سهل ومراجعة هامة للممتحنين في الجهاز المركزي تخصص حاسب آلي youtube.com",
+   "summary": "شرح Visual Basic .NET من الصفر | شرح سهل ومراجعة هامة للممتحنين في الجهاز المركزي تخصص حاسب آلي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -657,20 +677,20 @@
    "title": "شرح Minimal APIs في .NET 8 بالكامل | هل هي بديل الـ Controllers؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vU3ZVeDlsR2tTUkpONVhqNUlHOVMxN2lzY2htcXE5R3NRU2xqSUJYUXF5SHN3QV9hYzdKM3p0c3NnS3MwYXVEQm0xX3NzcFhabC1NbDNn?oc=5",
    "date": "2025-11-21T23:49:12+00:00",
-   "summary": "شرح Minimal APIs في .NET 8 بالكامل | هل هي بديل الـ Controllers؟ youtube.com",
+   "summary": "شرح Minimal APIs في .NET 8 بالكامل | هل هي بديل الـ Controllers؟ YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "وداعًا للجيل القديم… .NET 10 جاب تحديثات مرعبة!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYkxvUmpPa1R2WGdETVQ1M1lIMlZTbklaQlcxTkRxRm55Ui00cmtENm9VanJpTzRCX1k4SzhxV2J2R1JtUFdIZWRfRVJrYU9FSUMzTDFn?oc=5",
    "date": "2025-11-21T19:00:35+00:00",
-   "summary": "وداعًا للجيل القديم… .NET 10 جاب تحديثات مرعبة! youtube.com",
+   "summary": "وداعًا للجيل القديم… .NET 10 جاب تحديثات مرعبة! YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -714,6 +734,16 @@
    "lang": "en"
   },
   {
+   "title": "تطبيق عملي على كورس ماوى .NET MAUI | مشروع برنامج المخازن بتقنية MVVM – المحاضرة 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoQndyVVRWOVNDUmVndERXNEo5ZEt3U3p2ZnFIdmFOTkxKRkZYaUpheWxaN3JZeDdsTFVfNVZ6R0Z4cTgyUW1DYm5hc1p3SzM3T0FzQ2FB?oc=5",
+   "date": "2025-10-06T05:16:33+00:00",
+   "summary": "تطبيق عملي على كورس ماوى .NET MAUI | مشروع برنامج المخازن بتقنية MVVM – المحاضرة 1 YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "PostgreSQL, ASp.NET Core, EF Core Migrations in One Tutorial #dotnet #automation #coding",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xYkhkdUxfOGRSa1NQWHkzQkQ0WkluVFRmdmRlMDhuT0N6T0JIOU9YaWdicHFXdXJDbUdrZHd3VDlOcnl0TzZDSGIwaERFcTZxNnVyeg?oc=5",
    "date": "2025-10-04T07:00:00+00:00",
@@ -737,60 +767,60 @@
    "title": "كورس .NET MAUI | المحاضرة 2 – فتح التطبيق والبدء في التصميم",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FZVY3YTlVWjRFLWdKcE1iRmd5N3BKTHEtVm9NbEVvTU5jc0tObUZiOWFYWjhZdWNaYjAza2twcnVVcy1GRkV6N3BEd3JOakVseEFwTUhR?oc=5",
    "date": "2025-09-10T17:26:29+00:00",
-   "summary": "كورس .NET MAUI | المحاضرة 2 – فتح التطبيق والبدء في التصميم youtube.com",
+   "summary": "كورس .NET MAUI | المحاضرة 2 – فتح التطبيق والبدء في التصميم YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس .NET MAUI | المحاضرة 1 – مقدمة عن تطوير تطبيقات الموبايل باستخدام C#",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBETk5YZmdiLU9uTTUzN0Z2V0owV01DSTA5d25iSlJxdi1PLVl5NHNUbEJ6bkwwRmJuQzdIWDloV2E0RlY5bTMydHBsaU5GcjJjdGthOEJ3?oc=5",
    "date": "2025-09-09T17:40:46+00:00",
-   "summary": "كورس .NET MAUI | المحاضرة 1 – مقدمة عن تطوير تطبيقات الموبايل باستخدام C# youtube.com",
+   "summary": "كورس .NET MAUI | المحاضرة 1 – مقدمة عن تطوير تطبيقات الموبايل باستخدام C# YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "الاعلان الرسمى عن كورس Microservices and clean architecture in .net and angular",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SLVp3YkJYVi1pTlZENHQ1QmRLYTBGNTJpNEFDNl9zREZyMEtvQUprT1VVSDhXSU1vQzhkV3pqUi05Y0t2WEplXzAxTVhmTndRaDZiVEF3?oc=5",
    "date": "2025-09-03T10:19:44+00:00",
-   "summary": "الاعلان الرسمى عن كورس Microservices and clean architecture in .net and angular youtube.com",
+   "summary": "الاعلان الرسمى عن كورس Microservices and clean architecture in .net and angular YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "#5 | كورس APi .net Core | ITI | منحة ITI 2025 | شرح م / كرستين | ASP.NET API",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ySkRCZy12NlVybG4xVUJ6U201aE04QkRRVFdQLXBuQldiQ0lsdVkwQVQ0TWliRHJHc0ZXZHJKeTJTeEJTZXJrdFlsSG1qMF9fa19jMVp3?oc=5",
    "date": "2025-08-04T20:00:07+00:00",
-   "summary": "#5 | كورس APi .net Core | ITI | منحة ITI 2025 | شرح م / كرستين | ASP.NET API youtube.com",
+   "summary": "#5 | كورس APi .net Core | ITI | منحة ITI 2025 | شرح م / كرستين | ASP.NET API YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "#1 | كورس APi .net Core | ITI | منحة ITI 2025 | شرح م / كرستين | ASP.NEt API",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhU3ZDTkUyTFJSdEZmUWU3MlB0cERYNl96NkQwQlZESERIZXFGM1J3enl4ZnZ6aGtzUWIyOF9wTTJFRzRVbkJGU1ByQWZqWkdGTG9DRThB?oc=5",
    "date": "2025-08-04T16:00:37+00:00",
-   "summary": "#1 | كورس APi .net Core | ITI | منحة ITI 2025 | شرح م / كرستين | ASP.NEt API youtube.com",
+   "summary": "#1 | كورس APi .net Core | ITI | منحة ITI 2025 | شرح م / كرستين | ASP.NEt API YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "#20 | كورس ASP.Net Core MVC | ITI | منحة ITI 2025 | شرح م/كرستين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hYndERDJNSnhWRGUxX0pCRXdFNnRraFdVUFRZUko2S1AxYThkM2RRRTNJQlBUV0Jmd0dYQ0YwNWRITDdxc2JKWjVGNWl4Q21YcXNjS19R?oc=5",
    "date": "2025-08-02T18:00:43+00:00",
-   "summary": "#20 | كورس ASP.Net Core MVC | ITI | منحة ITI 2025 | شرح م/كرستين youtube.com",
+   "summary": "#20 | كورس ASP.Net Core MVC | ITI | منحة ITI 2025 | شرح م/كرستين YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -798,6 +828,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3SzdfekUzekF4dXltN09kZXlBbE1USm8xb2RCQkZaTDVUNjVBYzVtMGk0YlFNbndmcFlLQjExY2ZESHdlSFVDd1VwWVpmeDZTN2N0THhB?oc=5",
    "date": "2025-08-01T16:21:40+00:00",
    "summary": "Fullstack application with .net core and react js | dotnet project for beginners YouTube",
+   "tech": "csharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "C# Full Course for Beginners 👨‍💻 Learn C# in 1 Video!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rRUd5MTVWYjJFSGZRaTNfdHUyNjRfdDE1LXVOYzdrQXBlb0Z6ajhKV0lsS3JKVmE5ZThUbHJheWh0ZWVQYXg3Q2VMd21yYjdabHhOejJ3?oc=5",
+   "date": "2025-07-27T16:56:55+00:00",
+   "summary": "C# Full Course for Beginners 👨‍💻 Learn C# in 1 Video! YouTube",
    "tech": "csharp",
    "sourceId": "yt",
    "source": "YouTube",
@@ -867,10 +907,10 @@
    "title": "البرمجة المرئية باستخدام السي شارب – Visual Programming with C# 1 – Win Form",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02TGZZZUFWLXlsc0dsSnJ2S2laT2tPc1FYaU9sdzh0WHRfLVotME90YVZHR01wNURCQlhRbFpqVklNbnc3QUFPcE1tSDRSYktqREFsUFVac1NhVDExemZOOHp3R2ZjRVRGWmFYOUlSbldxMUJCOEJsMzQ3WTE?oc=5",
    "date": "2025-05-06T22:45:07+00:00",
-   "summary": "البرمجة المرئية باستخدام السي شارب – Visual Programming with C# 1 – Win Form youtube.com",
+   "summary": "البرمجة المرئية باستخدام السي شارب – Visual Programming with C# 1 – Win Form YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -887,20 +927,20 @@
    "title": "من فيجوال ستوديو لـ VS Code: شرح لتطوير ASP.NET Web API بطريقة أسهل وأسرع! 🚀💻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zN3g3d2Fmd3hPX0I2bzZWQnBqcjBZSFNnQ285NkRrT1h6YWcxZDlPLVJSdkFPWjdPNlFpZ25Uc1BVTzh5RFRsYktfVE9SaEJZZkFXSXFB?oc=5",
    "date": "2025-04-30T14:30:07+00:00",
-   "summary": "من فيجوال ستوديو لـ VS Code: شرح لتطوير ASP.NET Web API بطريقة أسهل وأسرع! 🚀💻 youtube.com",
+   "summary": "من فيجوال ستوديو لـ VS Code: شرح لتطوير ASP.NET Web API بطريقة أسهل وأسرع! 🚀💻 YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "🔥 عمليات CRUD في PostgreSQL باستخدام ASP.NET Web API | شرح عملي بالبلدي خالص 💻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tTldjMEVlSzFBNURrbk1IcTdYTHNqVHQtRFU3V1Nwc29XTDRtT0xaUUUzbmRacENhYXk0bjBKX0tzYjJxTFNHemJQVWtQQVhIMklOSDhn?oc=5",
    "date": "2025-04-12T16:37:21+00:00",
-   "summary": "🔥 عمليات CRUD في PostgreSQL باستخدام ASP.NET Web API | شرح عملي بالبلدي خالص 💻 youtube.com",
+   "summary": "🔥 عمليات CRUD في PostgreSQL باستخدام ASP.NET Web API | شرح عملي بالبلدي خالص 💻 YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -924,13 +964,23 @@
    "lang": "ar"
   },
   {
+   "title": "دورة ASP.NET من الصفر إلى الاحتراف – ورشة عمل مجانية للمبرمجين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92Z25NQzZ5VEI0N05uWEFKU05ucWRJRnVrZkFfaGEwSDVicm41SGlUZ0hlM2FVOFpZNy1faWJJak5HUzNyekZnQWs2OTVrTFc5TUwwSnVB?oc=5",
+   "date": "2025-04-01T00:29:52+00:00",
+   "summary": "دورة ASP.NET من الصفر إلى الاحتراف – ورشة عمل مجانية للمبرمجين YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الدرس التاسع : الشرح الكامل لـ .NET Reactor | لتأمين وحماية تطبيقاتك باحترافيه من الهندسة العكسية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LOHA5OEJBNXBROFgxNXIxRG1PT2pEdDBaczFhMElONHgxRURrWnhtNERPUHRaMUpodnhKZmR0V0FJQmJSRzIwNkY1eTNNdlE1LWtXdTVR?oc=5",
    "date": "2025-03-25T19:48:07+00:00",
-   "summary": "الدرس التاسع : الشرح الكامل لـ .NET Reactor | لتأمين وحماية تطبيقاتك باحترافيه من الهندسة العكسية youtube.com",
+   "summary": "الدرس التاسع : الشرح الكامل لـ .NET Reactor | لتأمين وحماية تطبيقاتك باحترافيه من الهندسة العكسية YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1097,10 +1147,10 @@
    "title": "الفرق بين لغة سي | سي بلس بلس | سي شارب #برمجة #بايثون",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZMnlpLUdSbU1YMWJpSVpMTEcwVzA5bThPY3JJUlh6Zk1DZkE0UkQ3NXJpX3pnaXBIZWJpZGxLeV9VZDJWWHhlWkpSOVJuNFpXY3lyLQ?oc=5",
    "date": "2024-09-04T15:10:36+00:00",
-   "summary": "الفرق بين لغة سي | سي بلس بلس | سي شارب #برمجة #بايثون youtube.com",
+   "summary": "الفرق بين لغة سي | سي بلس بلس | سي شارب #برمجة #بايثون YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1157,20 +1207,20 @@
    "title": "60.Add Identity In Asp.Net Core MVC شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3QmU1aEc5d1pEM19fRVNJRUdKUm5NWm1FR254YmZWT1IyUkJTNXdJQi1nWlBVMWRIU18zWVpHajllOGRFeHNhUXJvUTdNOXNzWURnX2d3?oc=5",
    "date": "2024-08-10T16:07:45+00:00",
-   "summary": "60.Add Identity In Asp.Net Core MVC شرح بالعربي youtube.com",
+   "summary": "60.Add Identity In Asp.Net Core MVC شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "11. دورة الذكاء الاصطناعي | ملخص في لغة البرمجة سي شارب - الجزء الثالث",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNGtPSW5qLTNwV01hMU5vRk82b29OTTBoZnNLOUM3UVFDbWJKcnZRbUZ1VWU0ME42OFI3TG54bWpxNkhIcTEwRl9JREtCT1Z2VFpVeXdn?oc=5",
    "date": "2024-07-29T11:13:20+00:00",
-   "summary": "11. دورة الذكاء الاصطناعي | ملخص في لغة البرمجة سي شارب - الجزء الثالث youtube.com",
+   "summary": "11. دورة الذكاء الاصطناعي | ملخص في لغة البرمجة سي شارب - الجزء الثالث YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1227,10 +1277,10 @@
    "title": "مقدمة عن .net maui | هتشجعك جدا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOXzJBSjR1SHZ5REI4OHRUd2tIM0ZyQnRPMWhnbkxaNUR2aXQ2QXc4TW1aeWJibGpseUk5U1dJb0h6eUJ6ajhMbzN2di1hcmhnRkkxWldB?oc=5",
    "date": "2024-05-24T17:00:07+00:00",
-   "summary": "مقدمة عن .net maui | هتشجعك جدا youtube.com",
+   "summary": "مقدمة عن .net maui | هتشجعك جدا YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1327,10 +1377,10 @@
    "title": "01 البداية الشاملة في تعلم .NET Framework",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MTBwQndmMlhWRm9XMUFaQzY1dVIzT0c1ZTBzdVluNTRTc09La1lxbldLS1NjcUZnWE45R3JPbFRHZ1JweGV6RklPY2R0V1MxdTM4cmlR?oc=5",
    "date": "2024-02-15T03:00:26+00:00",
-   "summary": "01 البداية الشاملة في تعلم .NET Framework youtube.com",
+   "summary": "01 البداية الشاملة في تعلم .NET Framework YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1367,10 +1417,10 @@
    "title": "11.Dependency Injection With ASP.NET Core MVC شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cXZSSEd1VlJaeTJtT1oxMHFielpBd2RpSzN3Z3BCWDNuYklmdl9DeXEzOTkxdDh0X3dkX0kyUHlFVGpZTnlwdW1Xa3hGU2FyWTNGbGV3?oc=5",
    "date": "2024-01-30T19:57:38+00:00",
-   "summary": "11.Dependency Injection With ASP.NET Core MVC شرح بالعربي youtube.com",
+   "summary": "11.Dependency Injection With ASP.NET Core MVC شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1387,20 +1437,20 @@
    "title": "3.Start build your first Asp.Net Core MVC Project شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10ZEZKTG1DeEp1cEdJU3ljc1UtRndydVlJUkF5clJ6ZXlsYTlWWmRrc05NX29lb0U4Z1g4REVCaHV1cV83eXFwa3BhZng3Xy11MC1uMklB?oc=5",
    "date": "2024-01-09T17:45:28+00:00",
-   "summary": "3.Start build your first Asp.Net Core MVC Project شرح بالعربي youtube.com",
+   "summary": "3.Start build your first Asp.Net Core MVC Project شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "1.Introduction to ASP.NET Core MVC شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JdHB1Sk5selFBUFQxMEQ0NDZmVi1kaWtaZUVPYzlXUnRma1Jqc19tOFZ0Um1lbWtvZHRIbXZxcXFqc0NnS1hDWTR5X25Xd2MxT1pCYmp3?oc=5",
    "date": "2024-01-06T14:49:35+00:00",
-   "summary": "1.Introduction to ASP.NET Core MVC شرح بالعربي youtube.com",
+   "summary": "1.Introduction to ASP.NET Core MVC شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1427,10 +1477,10 @@
    "title": "أسس البرمجة بلغة سي شارب C",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HS1VJWlFoMUxQZUxvN2JtdjgwcERjVm8teHBMaFF5cmNwR2dTc19TUlJFQ0xWUHRjWGVrVGF2R0F6UjZlbjdRYzZibW05OUJFNEROQTRtYzloZ1RuZFdSQk10dmx4NWNsZThJUXM4eTg1aGs0Ykdsc19Jcmw?oc=5",
    "date": "2023-12-26T13:46:23+00:00",
-   "summary": "أسس البرمجة بلغة سي شارب C youtube.com",
+   "summary": "أسس البرمجة بلغة سي شارب C YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1447,51 +1497,21 @@
    "title": "1. CI/CD Pipeline Using Github Actions asp.net core web api شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhb0o0dng0cnZVdFhtd0hnRFN0a0cwLTdLQ0FuOFlURExoUklMaExxMWx1TkVYNHRzbE5vQm1ZMFNCVGNlRjNyR3k0Mi02UlF1UE9zeDJn?oc=5",
    "date": "2023-12-15T11:16:31+00:00",
-   "summary": "1. CI/CD Pipeline Using Github Actions asp.net core web api شرح بالعربي youtube.com",
+   "summary": "1. CI/CD Pipeline Using Github Actions asp.net core web api شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كيف تكون مبرمج دوت نت asp.net developer",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QkQyOTVodHlONGFJdXBFb0p4OEprRDV0dnR0WmJJT0pTTjhQc3IwT3ZPVXgyVV9RSHBHQWhyVGhEbnk4R3RwQUlBLVdPckdUWjB2ckNB?oc=5",
    "date": "2023-12-13T17:00:35+00:00",
-   "summary": "كيف تكون مبرمج دوت نت asp.net developer youtube.com",
+   "summary": "كيف تكون مبرمج دوت نت asp.net developer YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Learn C# Basics In Arabic - #01 Introduction",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96WllOczg0clRPZktNYURQbjNJWW9vTDBWYWM5U3l0a1FqaUFKT3R3UGp6SldRZmdlZmw2emRmNVEzYjBUdHA2MkNGdTNoMlNscWVuUmhn?oc=5",
-   "date": "2023-11-20T15:21:55+00:00",
-   "summary": "Learn C# Basics In Arabic - #01 Introduction youtube.com",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction [Pt 1] | Generative AI with .NET for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0M0NvdkJKeS03S2ljajhkMUQwOFJJNE1wSXhVLUJ6ejBKS3JEOEU3ZkRIQmIxVXVsWHhDREJpQ1EyWUthQjFWQWFXd0lJVDdOZmpIMV93?oc=5",
-   "date": "2023-11-10T20:00:33+00:00",
-   "summary": "Introduction [Pt 1] | Generative AI with .NET for Beginners YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Object-oriented Programming (OOP) [Pt 18] | C# for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54alZnU1RDMFYzY1k5SDJySGVOMTdEX0lOT0ZSWHU3Vy11ZWd1dzNEQTZLWHczX1FFU0h1eGtxdlJOR0JDSDhLRTdqb1NoRWdUeUFRZ0p3?oc=5",
-   "date": "2023-11-10T20:00:25+00:00",
-   "summary": "Object-oriented Programming (OOP) [Pt 18] | C# for Beginners YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "الدرس المئتان وتسعه وثمانون:شرح برمجة الشاشه الخاصه بإرسال البريد الالكتروني الجزء الثاني سي شارب #C",
@@ -1507,20 +1527,20 @@
    "title": "دوت نيت في 5 دقائق | ASP .NET in 5 mins",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XN2FNMW4wNUxwNXhzVEhEU0Fya1pmdTdMeUluTU1UaGQxSUJfNDhxTThaYmd2WHdYdWVDdWotMldWN2J0Vmw0TWhpdnZKS0NLMEtNbjVn?oc=5",
    "date": "2023-10-19T13:49:59+00:00",
-   "summary": "دوت نيت في 5 دقائق | ASP .NET in 5 mins youtube.com",
+   "summary": "دوت نيت في 5 دقائق | ASP .NET in 5 mins YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "1.introduction To Unit Test In C# شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XcjhjV0l6YW1UU2hvdW0zeW1yd2NybmlGV21NMUp0R0V4R1dVVGFkbzV5am5EeE9kRmt5ZjB1amxDTEZ3TFRsVG5EMzJMRFdObTJ3b0NR?oc=5",
    "date": "2023-08-23T16:43:52+00:00",
-   "summary": "1.introduction To Unit Test In C# شرح بالعربي youtube.com",
+   "summary": "1.introduction To Unit Test In C# شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1537,50 +1557,50 @@
    "title": "كورس بناء REST & RESTful API مع ASP .NET CORE بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00c3N6N1FWZUlHVk9vTFU3S1pFTVVTWnV5eVQzTUs0cGdiU3JtQXNVZWg5WTBTbFBEaEx1MEF2YnF1dnFYcEowbURmcUQtc3BSNG1VWlNn?oc=5",
    "date": "2023-08-05T21:30:00+00:00",
-   "summary": "كورس بناء REST & RESTful API مع ASP .NET CORE بالعربي youtube.com",
+   "summary": "كورس بناء REST & RESTful API مع ASP .NET CORE بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس البرمجة الشيئية لغة السي شارب | Object-Oriented Programming (OOP) in Arabic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQlV2ODJybG5nNlNvWkEyUHdUZjQzQ0VjQWlkVmF4RTB1NHBCcmpPck9BM2QwREZZRHpmal9yclhFOGx0cVhxNk1yeVpodGJINmJsZ3l3?oc=5",
    "date": "2023-07-27T13:45:37+00:00",
-   "summary": "كورس البرمجة الشيئية لغة السي شارب | Object-Oriented Programming (OOP) in Arabic youtube.com",
+   "summary": "كورس البرمجة الشيئية لغة السي شارب | Object-Oriented Programming (OOP) in Arabic YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "أساسيات لغة السي شارب للمبتدئين | تعلم السي شارب من الصفر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91cENwV0VkUm41dnZHQU84R3VRYVZjdkdvRkpqcjhVMG5iaVJyLUNTY3QzYks5eUUyUDRNcjhfT0ZkMGctTnZCSkRHLWFESGN1Ul81UmRB?oc=5",
    "date": "2023-07-16T16:35:25+00:00",
-   "summary": "أساسيات لغة السي شارب للمبتدئين | تعلم السي شارب من الصفر youtube.com",
+   "summary": "أساسيات لغة السي شارب للمبتدئين | تعلم السي شارب من الصفر YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "36. #region keyword in C# | شرح سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByY3FpVlpXUTNvZlJUMGEyTTFVYzZUMmVZbTUwcVc4c3I5NEdsOEpSYlBSRUF1c1hLRlFfdmxFN1hZbWdqWWVaTzJVZldGbnpaRjVZaHFn?oc=5",
    "date": "2023-07-15T15:29:51+00:00",
-   "summary": "36. #region keyword in C# | شرح سي شارب youtube.com",
+   "summary": "36. #region keyword in C# | شرح سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "01 - OOP in C# - What is Class || البرمجة كائنية التوجه - ما هو الكلاس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbVVkY1pnNDFSNDNrTmhCVlFjZzkyTUtOSkF1NTZzMlp3ZDB4Q2toaV9xRGNFQjgyUGxLd2s0MDViUHVKRWgtQ2ZKQVU2WkZ4cERUdUh3?oc=5",
    "date": "2023-06-28T14:00:07+00:00",
-   "summary": "01 - OOP in C# - What is Class || البرمجة كائنية التوجه - ما هو الكلاس youtube.com",
+   "summary": "01 - OOP in C# - What is Class || البرمجة كائنية التوجه - ما هو الكلاس YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1597,40 +1617,50 @@
    "title": "التعامل مع الملفات Binary and Text Files - البرمجة بلغة سي شارب - رمزي مطر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JcHVOMnFHOWRMTHlTMmx4V0FPWEVmM1N5dFVPQnJXS2pmYmljVHRtWmtVVkRNdi1ZMEFWMmZaWVlxZFI2Tks1bktnZlAteHJOREF6Um93?oc=5",
    "date": "2023-06-07T07:39:11+00:00",
-   "summary": "التعامل مع الملفات Binary and Text Files - البرمجة بلغة سي شارب - رمزي مطر youtube.com",
+   "summary": "التعامل مع الملفات Binary and Text Files - البرمجة بلغة سي شارب - رمزي مطر YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "شرح طريقة تنفيذ الأوامر البرمجية C# على الجوال",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZER4RXFrSHlwSlV6blI5V2JXLXV1UjE5aU42a2JpWjVyeExWSUZiZ2E5aFZCcWlVZm5XbzBsOHdtcEFsWE5IRHB6RTFMMUR1Z3FiRnpn?oc=5",
+   "date": "2023-04-08T01:08:34+00:00",
+   "summary": "شرح طريقة تنفيذ الأوامر البرمجية C# على الجوال YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "1.Introduction To Clean Architecture Asp.Net Core Web Api شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13by1BYnZCc3ZVdFBfbkQ4ZjlXS09VamM1VzVicmJvOXZPTEtnN3pBTXlWQ0dBRmU0VnU3QmNQNUFwczZfRlNQemN2TnJxVkxyUEdyd3NR?oc=5",
    "date": "2023-03-26T19:57:01+00:00",
-   "summary": "1.Introduction To Clean Architecture Asp.Net Core Web Api شرح بالعربي youtube.com",
+   "summary": "1.Introduction To Clean Architecture Asp.Net Core Web Api شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Connect .Net Core MVC Project To MySQL based on Database First شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QSnZOQWZHTnE4TmJSS3NFR3FsWWRWTVB2S1R5NHNuWEk5eHF2SFFPOEZQVXlYOC02YURPR3VWdFoyd29Bd0steFFpY0tDY3BsQ3J6eUR3?oc=5",
    "date": "2023-03-25T12:57:25+00:00",
-   "summary": "Connect .Net Core MVC Project To MySQL based on Database First شرح بالعربي youtube.com",
+   "summary": "Connect .Net Core MVC Project To MySQL based on Database First شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "2- ماهو الحاسب الالى ؟/دورة تعليم الفيجوال بيسك Visual Basic.net course",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TbDJ6VE4tQW1ON0w4MU5Ga2ZWcmlsY2x3Q1J4MlpPRTJHZDkwbTVxcFRHLVoycUdaQmNCTmpmRkl3cXB2NnlCcTNLT2l1Yi1hUXBUT3ladWdtZkVLZ2tQLTBtQTI4azhqR1hkS0JvMkY0eVRZUXlSdTJhV04?oc=5",
    "date": "2023-03-21T06:47:48+00:00",
-   "summary": "2- ماهو الحاسب الالى ؟/دورة تعليم الفيجوال بيسك Visual Basic.net course youtube.com",
+   "summary": "2- ماهو الحاسب الالى ؟/دورة تعليم الفيجوال بيسك Visual Basic.net course YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1647,20 +1677,20 @@
    "title": "26. Interfaces in C# | شرح سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRZ244SFpEQ2xwN2JPbk51Ni1KZzR6UGRiSXg1Q1M4Vzc2ZFplSTlINDgyaEc0WG1VM0k4cVR4SzQ3VUs2SFdYV0FycnBXcFl6WWNpc21R?oc=5",
    "date": "2023-03-12T18:26:33+00:00",
-   "summary": "26. Interfaces in C# | شرح سي شارب youtube.com",
+   "summary": "26. Interfaces in C# | شرح سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "03 مكان كتابة كود الاتصال بال sqlConnection | قواعد البيانات مع سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BV0xZcG9EckNQcnJOeUtRMWo5VlFjemo5a2tCTkdHV2IxZmYzczZYNGM2WUg3VktadWphQnNfZDVCWWRVbWtmS01vdGFLRzF1SlFFLU9n?oc=5",
    "date": "2023-02-22T16:00:03+00:00",
-   "summary": "03 مكان كتابة كود الاتصال بال sqlConnection | قواعد البيانات مع سي شارب youtube.com",
+   "summary": "03 مكان كتابة كود الاتصال بال sqlConnection | قواعد البيانات مع سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1697,10 +1727,10 @@
    "title": "15. Inheritance in C# | شرح سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wazBra0VyRHdoMkRaaVFqSFVqc19zcEVmWjg2cV9tZjlSYmc5ejlad1BlMFZtQVpjN3pmeFNfMUpSMkRkbGRVTzdZQml2VzZ1TFBXcS1n?oc=5",
    "date": "2023-01-25T14:04:51+00:00",
-   "summary": "15. Inheritance in C# | شرح سي شارب youtube.com",
+   "summary": "15. Inheritance in C# | شرح سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1727,10 +1757,10 @@
    "title": "01. يعني ايه البرمجة الشيئية Object-Oriented Programming | شرح سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Jem9hZUM0bjVydEZrRmJ5NWxHZWtJd3BlYmhNX3c2NlJlVzBXOUMyTDlpVHBOZVgyWUxHd1R5SldiOElkUHBIVlVOVHgxQUZfX3kwVVFn?oc=5",
    "date": "2023-01-05T12:49:50+00:00",
-   "summary": "01. يعني ايه البرمجة الشيئية Object-Oriented Programming | شرح سي شارب youtube.com",
+   "summary": "01. يعني ايه البرمجة الشيئية Object-Oriented Programming | شرح سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1767,10 +1797,10 @@
    "title": "017 برنامج الألوان | برامج وتطبيقات سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tRjU1SlVFaEMyWlJyb19aQXoybHFBbElZalVLRUpfVV9mNE9wN0pRUWFXSEFaSnJURTBVSWRWZDM0TTVTMGRHNm5WdFRvamtUcjV1VWlR?oc=5",
    "date": "2022-12-03T21:00:04+00:00",
-   "summary": "017 برنامج الألوان | برامج وتطبيقات سي شارب youtube.com",
+   "summary": "017 برنامج الألوان | برامج وتطبيقات سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1787,20 +1817,20 @@
    "title": "#32 c sharp tutorial | C# | do while loop c sharp loop | الحلقات التكرارية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoTEN4cmJXbEJwZlV3Z3dNLWM3ZDNSUEJ6X3JOUDFiMmU0NXY1LTdfQThXVmllTDFOVnpWUEdxbG92dERPdW1GYnB5NVJMNmx2XzBIajJB?oc=5",
    "date": "2022-11-22T15:38:47+00:00",
-   "summary": "#32 c sharp tutorial | C# | do while loop c sharp loop | الحلقات التكرارية youtube.com",
+   "summary": "#32 c sharp tutorial | C# | do while loop c sharp loop | الحلقات التكرارية YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تعلم سي شارب في فيديو واحد | C# (حصري 🔥) 3 ساعات فقط - learn C# in one video",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lckhONm1aV2JWeEtidXpiaFRoQUE2RG11QTRGZVhLWEQ4bzdJeGZPUjhZWlEtejB2X3FXdzNZR3J2aTh6dEh0eThlSGxzRzJINjlPc293?oc=5",
    "date": "2022-11-22T13:52:27+00:00",
-   "summary": "تعلم سي شارب في فيديو واحد | C# (حصري 🔥) 3 ساعات فقط - learn C# in one video youtube.com",
+   "summary": "تعلم سي شارب في فيديو واحد | C# (حصري 🔥) 3 ساعات فقط - learn C# in one video YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1817,30 +1847,30 @@
    "title": "011 برنامج السيارة | برامج وتطبيقات سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ib0dSNUd4TWxMREJQLXYyRXlyZVNzNF9UQmx2WmdsSWUxSFFhYnNxV3FyRzNPdENFaWFrb2k4MTRLRFZEdjZJZVRobzJOdUZBcWE1TXdn?oc=5",
    "date": "2022-11-13T20:43:55+00:00",
-   "summary": "011 برنامج السيارة | برامج وتطبيقات سي شارب youtube.com",
+   "summary": "011 برنامج السيارة | برامج وتطبيقات سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "16 إنشاء كائن التعامل مع قواعد البيانات Application Db Context in .NET CORE",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ndEtRRFFndXJqY3dRNFNjY3ZvYS01Vm9HbzR3TjF6X1JfMGtpM1FuWi1pVGx4WGhab2FGbDRFRE9EaTlHQ0Faeml0Z25ueVI3bF9qRUZ3?oc=5",
    "date": "2022-10-29T12:15:00+00:00",
-   "summary": "16 إنشاء كائن التعامل مع قواعد البيانات Application Db Context in .NET CORE youtube.com",
+   "summary": "16 إنشاء كائن التعامل مع قواعد البيانات Application Db Context in .NET CORE YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "13 إنشاء نماذج جداول قواعد البيانات Create Models in ASP .NET CORE MVC",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YWkl2TTNycEJHS1h2ZjNMMkdRRnFNc3NkTURvZWRYMWw3UXl6ZEotb0d0VS1sSzBUb1lIN1BBZnFFQlE1Q3FBT3UtNEZIdnlleTUxX2ln?oc=5",
    "date": "2022-10-25T16:00:25+00:00",
-   "summary": "13 إنشاء نماذج جداول قواعد البيانات Create Models in ASP .NET CORE MVC youtube.com",
+   "summary": "13 إنشاء نماذج جداول قواعد البيانات Create Models in ASP .NET CORE MVC YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1857,10 +1887,10 @@
    "title": "تعلم فيجوال بيسك دوت نت (حلقة 4) Visual Basic.NET Programming for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83N3pBR3Q3d3VTc01rNmFxMzdPWTBrYUtXY2lWTG4wXzBWUXNZTm9SX3V1SXNRQVdKZzd2Uk85S3hadGlRckdmWjF4MVJUOC12Zkx4RTRB?oc=5",
    "date": "2022-10-16T18:49:59+00:00",
-   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 4) Visual Basic.NET Programming for Beginners youtube.com",
+   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 4) Visual Basic.NET Programming for Beginners YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1877,20 +1907,20 @@
    "title": "03 إنشاء أول تطبيق و شرح المكونات Create First App In ASP .NET Core",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SWWFKUTJsbXlQa0Z0Sno2TnBIenc4SVVSMmozMmYxZGtNRXlrdHJzLVI0MTZWa0JGeTFoSGxBbTFTZllPMmFtYXVEZmpDa1FaeWhwOFd3?oc=5",
    "date": "2022-10-06T16:00:21+00:00",
-   "summary": "03 إنشاء أول تطبيق و شرح المكونات Create First App In ASP .NET Core youtube.com",
+   "summary": "03 إنشاء أول تطبيق و شرح المكونات Create First App In ASP .NET Core YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس ويب كور للمبتدئين ASP .NET Core for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxQUpFcHI3Um8wdndDeG1wWUNJWWpkZWlteDlNTmF4T1ZXc2VsZ0FYa1labXNzLWV2eGNNUWc0dWIyemMxNVJLMDlnWC02X0NqZ2MwZUxB?oc=5",
    "date": "2022-10-04T16:00:19+00:00",
-   "summary": "كورس ويب كور للمبتدئين ASP .NET Core for Beginners youtube.com",
+   "summary": "كورس ويب كور للمبتدئين ASP .NET Core for Beginners YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1907,30 +1937,30 @@
    "title": "تعلم فيجوال بيسك دوت نت (حلقة 1) Visual Basic.NET Programming for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KTEUweVdUbzFYMkpfUU9HZmQ2d3V1Z3Z2VjFYQVRKLThKLW1MX0prVVhfWE9WOTQ2V0tVcEpsamVOU2ktU2E2QWtfR2hVbHVSQWkwc3dR?oc=5",
    "date": "2022-09-24T17:18:27+00:00",
-   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 1) Visual Basic.NET Programming for Beginners youtube.com",
+   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 1) Visual Basic.NET Programming for Beginners YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "#002 ADO.NET [ شرح بالعربي ] #ado_net",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVUXBiQThRRXBsYTlTTDRSLUdoNlEtejc2YkNIeHQtQlVWcm1lTkI4UlE1ZTVVSFA1UHdQaUZkQUhqYzFiZzU3UVcwQUZGVzNISjNxSkZB?oc=5",
    "date": "2022-09-17T17:19:28+00:00",
-   "summary": "#002 ADO.NET [ شرح بالعربي ] #ado_net youtube.com",
+   "summary": "#002 ADO.NET [ شرح بالعربي ] #ado_net YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تنزيل وتثبيت دوت نت و فيجوال ستديو علي لينكس اوبونتو | .NET and Visual Studio Code on Ubuntu",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoU080MGN3enpiUVk5VmVES2FRdWdwVTl2OUNMeDNzMmRKNnkzcUZUa0RyVTJ5cDBnTVIyTWw0Wmhza2tzM0NTRXQ3cEwxWXB5SVNBek5B?oc=5",
    "date": "2022-08-30T16:02:32+00:00",
-   "summary": "تنزيل وتثبيت دوت نت و فيجوال ستديو علي لينكس اوبونتو | .NET and Visual Studio Code on Ubuntu youtube.com",
+   "summary": "تنزيل وتثبيت دوت نت و فيجوال ستديو علي لينكس اوبونتو | .NET and Visual Studio Code on Ubuntu YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1947,20 +1977,20 @@
    "title": "011 مفهوم الوراثة في السي شارب | inheritance in C#-OOP",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hd2pNMEZ1OEZxZHFpWXptYVBBWGItek8tRjlxc3diYzNfM0htc0l3NWdfQWpUakZ2ankxOXBWUlB1R1NPUHJwSUNaMXFRQzlFMHkxcnBB?oc=5",
    "date": "2022-06-30T16:37:19+00:00",
-   "summary": "011 مفهوم الوراثة في السي شارب | inheritance in C#-OOP youtube.com",
+   "summary": "011 مفهوم الوراثة في السي شارب | inheritance in C#-OOP YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "001 مفهوم الميثود في لغة السي شارب | Method in C-Sharp-OOP",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BSHMzZnN5NHlzTTVGMEQzdWQwdmpRNUVGY21uMEhQUHgtTWFiWEZuME80c0ZFMXdqMDVqQkFUamtLYlAwakJPSFhBM2JiU1RVaUl6ZmZB?oc=5",
    "date": "2022-06-11T23:05:59+00:00",
-   "summary": "001 مفهوم الميثود في لغة السي شارب | Method in C-Sharp-OOP youtube.com",
+   "summary": "001 مفهوم الميثود في لغة السي شارب | Method in C-Sharp-OOP YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1968,6 +1998,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82V0FwNjU2UnVodVRxZ3lqbnZObkN2TUhRX3BBWjV1YTVTM291V1I0X3ZaSC03M3pjUGIzcGM2b2Vab2d1Yk4wMllDWjZWb3ZsUWIxYnlB?oc=5",
    "date": "2022-05-27T22:20:33+00:00",
    "summary": "029 خطوة نحو الاحتراف | Debug & Debugging | تعلم السي شارب C# programing language YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اسهل طريقة لتشغيل سي شارب على فيجوال ستوديو كود",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LUm0xejg0ZTJBV09mVjd0b29XWHY4V2FISWREeUg2M2ZrUWlObndZMHhVZUc4ajAzUk5DUkd3d2hMTzdUT0dzbmhsYUZUNWlHcVU1R2R3?oc=5",
+   "date": "2022-05-23T18:30:13+00:00",
+   "summary": "اسهل طريقة لتشغيل سي شارب على فيجوال ستوديو كود YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1987,20 +2027,20 @@
    "title": "25 C# | C Sharp Tutorial String methods C# | split | uppercase lowercase | تعلم البرمجه | سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Wjl3WlFZYy1ocDQwZjRuMFJDc1hrUTFRWXhqVzkyTjJOSkZhTlZNYjVtOWhoUkUtUU5IYW5VdWNTU1RzQnNUU0doeGd3bDhLUTAzTEJB?oc=5",
    "date": "2022-05-05T13:27:15+00:00",
-   "summary": "25 C# | C Sharp Tutorial String methods C# | split | uppercase lowercase | تعلم البرمجه | سي شارب youtube.com",
+   "summary": "25 C# | C Sharp Tutorial String methods C# | split | uppercase lowercase | تعلم البرمجه | سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "026 المصفوفات C# Arrays | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5alBJWVRVWkRTLUxYSEhSUGtwZndlQ3hLWU1lYVg0YUpDN1lPb1U3eUJwR1dzZVV0YXNFSzZBSTZSOWhtYldybmVSYTVmZjJrZXVLa3NB?oc=5",
    "date": "2022-05-02T03:08:45+00:00",
-   "summary": "026 المصفوفات C# Arrays | تعلم السي شارب C# programing language youtube.com",
+   "summary": "026 المصفوفات C# Arrays | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2017,50 +2057,50 @@
    "title": "024 تمارين على الحلقات | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cEhfY01zRzNpMi0zRlJ2YWF0bzFvcENqajB4a2Q1bWdVU1lDSUJYVGs3UW5uZzlKTjdJbWcwV19DeUEzclV1Y09aT0dtOUc2ZllhQWZn?oc=5",
    "date": "2022-04-16T02:01:43+00:00",
-   "summary": "024 تمارين على الحلقات | تعلم السي شارب C# programing language youtube.com",
+   "summary": "024 تمارين على الحلقات | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "023 الحلقات for ... & foreach ... C-Sharp | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5YUw4d3l6RWxtRFcwNE1qVnNwaXVXYzRJdHFsNlpmN3BNVFNwb3RFWUpzUGJpbEx6aHBiN3EzWlVUS0lrZkgzcmJjY2JGYW56MXdycGZR?oc=5",
    "date": "2022-04-15T17:23:15+00:00",
-   "summary": "023 الحلقات for ... & foreach ... C-Sharp | تعلم السي شارب C# programing language youtube.com",
+   "summary": "023 الحلقات for ... & foreach ... C-Sharp | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "019 برنامج حساب العمر | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04SVBOdXhraThvN0hBbW5JQm9ON1pNeUJrSlNLOXVBTEZYejJqdHZURFFnSnViLTBqdEs3V0YwVzZEOXQydkhkRExzUWdNLWU1cDdVeHFB?oc=5",
    "date": "2022-03-20T20:02:05+00:00",
-   "summary": "019 برنامج حساب العمر | تعلم السي شارب C# programing language youtube.com",
+   "summary": "019 برنامج حساب العمر | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "018 الوقت والتاريخ DateTime.Now | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vTklUWXo3YlczeWFyMWNtNWZLY1R0WXppVGhFVzJsY2tsejZzZklyVkVQZ0NhMUJLOF9YZGZBOFVNNGVqVnNvbTNDOTQ1d1ZsblpZVWZB?oc=5",
    "date": "2022-03-15T15:32:32+00:00",
-   "summary": "018 الوقت والتاريخ DateTime.Now | تعلم السي شارب C# programing language youtube.com",
+   "summary": "018 الوقت والتاريخ DateTime.Now | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "#21 C Sharp Tutorial | C# | difference between syntax and semantic | كورس سى شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DemROLWRDWGNxc3R6ZG41ZGhqWDhVMmNINzNVMnFWNmRmVDFtdG1qZVZFbTJqZzVnZ1RZVU05MlVJSGF6QlJSWDdoUE9WSnZXeEtOOENR?oc=5",
    "date": "2022-03-08T14:10:41+00:00",
-   "summary": "#21 C Sharp Tutorial | C# | difference between syntax and semantic | كورس سى شارب youtube.com",
+   "summary": "#21 C Sharp Tutorial | C# | difference between syntax and semantic | كورس سى شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2097,30 +2137,30 @@
    "title": "تصميم مربع ادخال TextBoxخاص بالأرقام فقط في لغة سي شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSDNyOXdLODg1LUFnaEo0OTV6OXNRZ2Q2WG8zWGxJVU1CLVRISmRXSHc5OUQwSjlGQ2FPZFRjZExWOE9CSW4tbXBoVGJpT1lQM3FNWDd3?oc=5",
    "date": "2022-02-15T21:33:37+00:00",
-   "summary": "تصميم مربع ادخال TextBoxخاص بالأرقام فقط في لغة سي شارب youtube.com",
+   "summary": "تصميم مربع ادخال TextBoxخاص بالأرقام فقط في لغة سي شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "008 التحويل بين أنواع البيانات | بإستخدام Convert.to | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iRVZoY3ZVUHVBYmszdElLLTg4UmdnRzk5cVFMWFFYS3N4UXUwdWRrQy1hN1hzWmRPNDlLdFFXOVRoS3BqNmJXQ1NaS1l5U0FtT2xnY0RR?oc=5",
    "date": "2022-02-14T21:19:56+00:00",
-   "summary": "008 التحويل بين أنواع البيانات | بإستخدام Convert.to | تعلم السي شارب C# programing language youtube.com",
+   "summary": "008 التحويل بين أنواع البيانات | بإستخدام Convert.to | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "007 أنواع البيانات في السي شارب C# DataType | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdXJUdTBsTUthZkhOSS1ZQ2s2U3dIXzNmSVVuLUtZYUxjR2o5UUJGaW1kSzZTUVp1TERoTGJtSTU2OERzZHdlVGtObWhTMTE1MTNfakl3?oc=5",
    "date": "2022-02-10T20:31:18+00:00",
-   "summary": "007 أنواع البيانات في السي شارب C# DataType | تعلم السي شارب C# programing language youtube.com",
+   "summary": "007 أنواع البيانات في السي شارب C# DataType | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2137,30 +2177,30 @@
    "title": "004 شرح مفهوم ال Namespace & Class & Method | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQXBKbHhucGpjbjRpR0ZfWE83Tzg3aUFpeHcxOFlKbmFHU2tEdGpyUTdZVVJ2cUpvRjlQalVERTYwN3hsVTdSd21wZ29wQ19BWW90TTRR?oc=5",
    "date": "2022-02-06T02:52:13+00:00",
-   "summary": "004 شرح مفهوم ال Namespace & Class & Method | تعلم السي شارب C# programing language youtube.com",
+   "summary": "004 شرح مفهوم ال Namespace & Class & Method | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "#12 C Sharp | C# | Comments | التعليقات | شرح كورس سى شارب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KT2ZVd2ZVT1BxNngwUWVRbHVRUlBQSTFCSnQ5b2J5SWlQTFV5RkpxbC11LW9xcDBBQkpyUUN4bllkMFVjdGh3SnZtX3Nqb04wdnZsNDVB?oc=5",
    "date": "2022-02-05T15:47:15+00:00",
-   "summary": "#12 C Sharp | C# | Comments | التعليقات | شرح كورس سى شارب youtube.com",
+   "summary": "#12 C Sharp | C# | Comments | التعليقات | شرح كورس سى شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "001 مدخل إلى عالم ال سي شارب C# Basic | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yLXR5ekNEcU9udjlCYXZUdHJQc0Uza1V6Q1RpRFVfa0MtSFltc3c1RkdLNE9Ud0xRRVNrVVRrVEtlTWNkdXJiekd5MlNqSjVnWTZ4aXZR?oc=5",
    "date": "2022-02-01T23:27:02+00:00",
-   "summary": "001 مدخل إلى عالم ال سي شارب C# Basic | تعلم السي شارب C# programing language youtube.com",
+   "summary": "001 مدخل إلى عالم ال سي شارب C# Basic | تعلم السي شارب C# programing language YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2177,60 +2217,20 @@
    "title": "#9 C Sharp Tutorial | C# | namespace | class | method | شرح كورس سى شارب 🔥🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55OTFhOHVIQ3FkNkZ1QnNDcE1ybklkM3J0SEgyVWd1N0EtNTJPNjBoSEdVb1hKRXMtMEdRT2NjeWtxZ0ZVVlVqQTQ2WlNVWndDM3NxZHVn?oc=5",
    "date": "2022-01-19T12:43:12+00:00",
-   "summary": "#9 C Sharp Tutorial | C# | namespace | class | method | شرح كورس سى شارب 🔥🔥 youtube.com",
+   "summary": "#9 C Sharp Tutorial | C# | namespace | class | method | شرح كورس سى شارب 🔥🔥 YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "1 ASP.Net core 6 | دورة انشاء متجر الكترونى متكامل | Template | انشاء المشروع وتركيب التيمبلت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Tk83V01JQUQwSy1GQ1Zpb09TTkFfZ1BmM2YzZUdXMUp3dUFGa2pMZ21GNUdqc0NtdnQ3Sl9ub2hUbFl2dzc1RzBSckFXYXBON2gxYzBn?oc=5",
    "date": "2022-01-13T11:03:22+00:00",
-   "summary": "1 ASP.Net core 6 | دورة انشاء متجر الكترونى متكامل | Template | انشاء المشروع وتركيب التيمبلت youtube.com",
+   "summary": "1 ASP.Net core 6 | دورة انشاء متجر الكترونى متكامل | Template | انشاء المشروع وتركيب التيمبلت YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "#5 C# | C Sharp | Compiler | CLI | شرح تعلم كورس سى شارب 🔥🔥",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mbHNEVkNjWDkyMUNLUE9yMEM0RWRDVlIwWkFiWDRtWHJVbEZFS3BRZ1F3VV8tOEsyaUxPa3EwNG9oU0g3MkJJTHZ5djNDRTBDV0lNN1B3?oc=5",
-   "date": "2022-01-10T14:03:40+00:00",
-   "summary": "#5 C# | C Sharp | Compiler | CLI | شرح تعلم كورس سى شارب 🔥🔥 youtube.com",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "2. Creating New Projects in Visual Studio | شرح سي شارب | C# Course For Beginners in Arabic",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vRlJKUDNDYnZCU3lXcWt6dEpfdmFKN0dpN3NpX20zY1NoZEVfVjZSOXNxdHdOOFV3OGFING0wNnBxWjI1SUtUZTczSjUtTWtBY2xTNkNR?oc=5",
-   "date": "2022-01-09T16:40:51+00:00",
-   "summary": "2. Creating New Projects in Visual Studio | شرح سي شارب | C# Course For Beginners in Arabic youtube.com",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "3 C# | C Sharp | VS Setup | Visual Studio Types | تعلم لغة السى شارب",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xb0M1MnFEZjlVQWdQM2dWeDVIQWFUTXY0NWxBdEtoT2hDQ3MxZUVrR2ZrMTd6bEdvRjBjMVRmdHJrXzFtb0hHQVN2QmFtUHJXRURMenZ3?oc=5",
-   "date": "2022-01-06T18:35:48+00:00",
-   "summary": "3 C# | C Sharp | VS Setup | Visual Studio Types | تعلم لغة السى شارب youtube.com",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "#2 C# | C Sharp | لغة السى شارب | استخداماتها | أهميتها | عيوبها | شرح التراك كامل🔥🔥",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oSlF2bDAzckU4RDRnSW5DR3dTQzM4c09qeGVFR2ZuZ1lRaVF0ZHhndnYtaTFseXdhcTRBYlhUVVdPQU5HdWFUeXVZR3BMQkpGTnhPb0pB?oc=5",
-   "date": "2021-12-14T15:37:47+00:00",
-   "summary": "#2 C# | C Sharp | لغة السى شارب | استخداماتها | أهميتها | عيوبها | شرح التراك كامل🔥🔥 youtube.com",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   }
  ]

@@ -1,8 +1,63 @@
 {
- "generated": "2026-08-19T05:15:08.806379+00:00",
+ "generated": "2026-08-20T05:20:50.810954+00:00",
  "tech": "vb",
- "count": 209,
+ "count": 220,
  "items": [
+  {
+   "title": "Como Publicar uma Biblioteca .NET no NuGet.org",
+   "url": "https://dev.to/lzocate-li/como-publicar-uma-biblioteca-net-no-nugetorg-ehf",
+   "date": "2026-08-20T02:01:24+00:00",
+   "summary": "Aprenda a publicar uma biblioteca .NET no NuGet.org com SemVer, validação no ambiente de teste e feeds privados no Azure Artifacts e GitHub Packages.",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint",
+   "url": "https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp",
+   "date": "2026-08-19T18:47:30+00:00",
+   "summary": "Use MCP C# SDK hybrid sessions to keep 2025-11-25 clients stateful while serving 2026-07-28 clients statelessly on one ASP.NET Core endpoint.",
+   "points": 5,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Feature Flags and Testing: Because QA Deserves Surprises Too",
+   "url": "https://dev.to/avlcodemonkey-industries/feature-flags-and-testing-because-qa-deserves-surprises-too-2i0c",
+   "date": "2026-08-19T17:59:43+00:00",
+   "summary": "Feature flags make deployments safer, but they also multiply the states your application can be in. Here's how to test flags without making QA cry.",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "API Versioning: Managing Change Without Breaking Existing Clients",
+   "url": "https://dev.to/rhuturaj_takle/api-versioning-managing-change-without-breaking-existing-clients-2ak3",
+   "date": "2026-08-19T15:41:03+00:00",
+   "summary": "API Versioning: Managing Change Without Breaking Existing Clients   A practical guide to API...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Twinify 1.0.2: A Look at the Latest Performance Improvements",
+   "url": "https://dev.to/stevenkamwaza/twinify-102-a-look-at-the-latest-performance-improvements-lap",
+   "date": "2026-08-19T06:15:59+00:00",
+   "summary": "Over the past few weeks, the performance and memory efficiency of Twinify has been improved, twinify...",
+   "points": 1,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "One Quality Score Is a Lie: Split Your RAG Judge Into Retrieval, Groundedness, and Relevance",
    "url": "https://dev.to/saurav_bhattacharya/one-quality-score-is-a-lie-split-your-rag-judge-into-retrieval-groundedness-and-relevance-473m",
@@ -191,6 +246,17 @@
    "lang": "en"
   },
   {
+   "title": "VB6 to .NET: What Businesses Need to Know Before Migrating",
+   "url": "https://dev.to/innovatix_technologypart/vb6-to-net-what-businesses-need-to-know-before-migrating-4cc7",
+   "date": "2026-08-17T16:38:08+00:00",
+   "summary": "Although Microsoft has officially retired support for Visual Basic 6.0 (VB6) more than ten years ago,...",
+   "points": 0,
+   "tech": "vb",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Designing an AI Service Layer",
    "url": "https://dev.to/lukaswalter/designing-an-ai-service-layer-1kdm",
    "date": "2026-08-17T15:30:00+00:00",
@@ -268,72 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "C# ExceptionDispatchInfo Class",
-   "url": "https://dev.to/karenpayneoregon/c-exceptiondispatchinfo-class-1je2",
-   "date": "2026-08-16T17:57:12+00:00",
-   "summary": "Introduction   Learn about the ExceptionDispatchInfo object, which stores the stack trace...",
-   "points": 1,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies",
-   "url": "https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73",
-   "date": "2026-08-16T17:15:09+00:00",
-   "summary": "When a test process dies, a red CI job is not enough. I need to know what completed and what was...",
-   "points": 5,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "This week in Cursor + .NET — 7 rules (week ending August 16, 2026)",
-   "url": "https://dev.to/agentic_architect/this-week-in-cursor-net-7-rules-week-ending-august-16-2026-988",
-   "date": "2026-08-16T10:40:29+00:00",
-   "summary": "A weekly digest from the Agentic Architect persistence kit: 7 senior C#/.NET rules for engineers keeping Cursor honest across sessions.",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "When a Blazor Component Quietly Becomes HTML",
-   "url": "https://dev.to/iqtechsolutions/when-a-blazor-component-quietly-becomes-html-2f2m",
-   "date": "2026-08-16T09:02:29+00:00",
-   "summary": "A green build usually gives us useful confidence: the types line up, required references exist, and...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Domain-Driven Design: Modeling Software Around the Business",
-   "url": "https://dev.to/rhuturaj_takle/domain-driven-design-modeling-software-around-the-business-1h3",
-   "date": "2026-08-16T08:06:02+00:00",
-   "summary": "Domain-Driven Design: Modeling Software Around the Business   A practical guide to...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ContextMemory v0.1.0-beta: what shipped",
-   "url": "https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl",
-   "date": "2026-08-15T22:46:33+00:00",
-   "summary": "ContextMemory v0.1.0-beta is out.  Agent memory you can open like a wiki — not a vector black box,...",
-   "points": 0,
-   "tech": "vb",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Beyond the Textbook: How to Visualise Quadratic Inequalities with VB.Net",
    "url": "https://medium.com/@iniobong.okpokpo/beyond-the-textbook-how-to-visualise-quadratic-inequalities-with-vb-net-c8019125360b?source=rss------visual_basic-5",
    "date": "2026-08-02T16:31:01+00:00",
@@ -387,10 +387,10 @@
    "title": "شرح Visual Basic .NET من الصفر | شرح سهل ومراجعة هامة للممتحنين في الجهاز المركزي تخصص حاسب آلي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sSUdkU1RZb28wU2FxVHFmdFJKeFRkdFIyQXhhQUNzVnFpc1Bld2F1OFdWY19vdTBleTVKcElOeXRNUDlWcmxZdXdiZ0JpV2ZzdTY5ZU5n?oc=5",
    "date": "2026-01-02T14:15:16+00:00",
-   "summary": "شرح Visual Basic .NET من الصفر | شرح سهل ومراجعة هامة للممتحنين في الجهاز المركزي تخصص حاسب آلي youtube.com",
+   "summary": "شرح Visual Basic .NET من الصفر | شرح سهل ومراجعة هامة للممتحنين في الجهاز المركزي تخصص حاسب آلي YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -424,6 +424,16 @@
    "lang": "en"
   },
   {
+   "title": "🎓 تعلم ASP.NET من الصفر باستخدام Visual Basic و SQL Server – المحاضرة الأولى: المقدمة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95dXFTSFpYdFlqWE9jWDNpVWtwTTE2NTBfNlhrZENwbm94b0hHOHVuV2RJbktQR1diYjB2eWRYNVd1Q1VOeW1nUzVWYlBUTy1fTUt5aGp3?oc=5",
+   "date": "2025-11-13T22:06:00+00:00",
+   "summary": "🎓 تعلم ASP.NET من الصفر باستخدام Visual Basic و SQL Server – المحاضرة الأولى: المقدمة YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "VB.NET in Visual Studio 2026 (Visual Basic)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZNmJOZ0g3ZUh2WEJTb29TWGJsV3hyajduM21mNE9yTWMtdUVQd2todEJUeXJENW9PcTJBLXNJMnNBenFEeFNPTU1yVW1pU1JmVWhCdmdB?oc=5",
    "date": "2025-10-07T16:30:06+00:00",
@@ -437,10 +447,10 @@
    "title": "برومو 1 كورس برنامج ادارة المستشفيات و العيادات سي شارب - فيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nanRucjZ1QzRhYUxzaUxpWG9LVTBiWHpCbWVINjhiR3FFTmtCMEhZTUJFX1JHS3EzVlZwcmd5SlluN2hRN3BuMC0tSnQ5UmVYbHd4M2ln?oc=5",
    "date": "2025-03-04T20:08:07+00:00",
-   "summary": "برومو 1 كورس برنامج ادارة المستشفيات و العيادات سي شارب - فيجوال بيسك youtube.com",
+   "summary": "برومو 1 كورس برنامج ادارة المستشفيات و العيادات سي شارب - فيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -457,40 +467,40 @@
    "title": "\"تعلم المصفوفات في فيجوال بيسك: الدليل الشامل للمبتدئين خطوة بخطوة نحو تعلم البرمجة \"",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05Yl9UWWpGc0JFS19hNmxRb2tna00zeU5scm11Y2xmeF9kWVdjaWl4LUk0NXVnR0IwaG1rZDlDcWlvam81aTdncVc0dy1MZ004ZTBOai1n?oc=5",
    "date": "2024-12-21T17:56:36+00:00",
-   "summary": "\"تعلم المصفوفات في فيجوال بيسك: الدليل الشامل للمبتدئين خطوة بخطوة نحو تعلم البرمجة \" youtube.com",
+   "summary": "\"تعلم المصفوفات في فيجوال بيسك: الدليل الشامل للمبتدئين خطوة بخطوة نحو تعلم البرمجة \" YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "\"ابدأ رحلتك البرمجية: شرح الدوال والإجراءات الفرعية في VB.NET بسهولة!\" الدرس العاشر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83WDkySVpQQkNpY196eVBBNHlEZ0NJOGp3M09jNGozcWVNb2lSV2t0d2g0Qmk3QVhGMG1kN2NmaDR5cVJRTl9idTdQWEJ2cmdZUm1Rd1dn?oc=5",
    "date": "2024-12-17T09:42:11+00:00",
-   "summary": "\"ابدأ رحلتك البرمجية: شرح الدوال والإجراءات الفرعية في VB.NET بسهولة!\" الدرس العاشر youtube.com",
+   "summary": "\"ابدأ رحلتك البرمجية: شرح الدوال والإجراءات الفرعية في VB.NET بسهولة!\" الدرس العاشر YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "\"الدرس الخامس: القوائم في فيجوال بيسك - احتراف تصميم واجهات المستخدم! 🖱️📋\"",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83b1E1NTBoME8tOG5WTmdVc0JjZkdTWjhQdXJNN1plYzVkR0JlTnJYSDgyTUJldUcxQ0JycjhSbTlfSXNIcXUxTEZ2MmFQcEpmSUFsemF3?oc=5",
    "date": "2024-12-06T18:45:02+00:00",
-   "summary": "\"الدرس الخامس: القوائم في فيجوال بيسك - احتراف تصميم واجهات المستخدم! 🖱️📋\" youtube.com",
+   "summary": "\"الدرس الخامس: القوائم في فيجوال بيسك - احتراف تصميم واجهات المستخدم! 🖱️📋\" YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "\"الدرس الثالث: تكملة أدوات التحكم في فيجوال بيسك – إتقان تصميم واجهات احترافية! 🎨💻\"",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43WGFMX01aUFQ1RVlVWHlIVHkyeVVDUEhZOGE3RjFKcGJNeXdmN2czQlk5QS1xblowNElZS3JjYURUMmM1YjNUQTJlaXVDcWpoM0JmUlV3?oc=5",
    "date": "2024-12-04T19:10:22+00:00",
-   "summary": "\"الدرس الثالث: تكملة أدوات التحكم في فيجوال بيسك – إتقان تصميم واجهات احترافية! 🎨💻\" youtube.com",
+   "summary": "\"الدرس الثالث: تكملة أدوات التحكم في فيجوال بيسك – إتقان تصميم واجهات احترافية! 🎨💻\" YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -557,20 +567,20 @@
    "title": "هيشتغل ؟ فيجوال بيسك 6 على ويندوز 11 بقواعد البيانات 🤔 ❗ ❓",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1NUd2Z2hwcHZwbHF5dUZ3SUtReWFtOGFCeXZRX3hIRzN1RGZPWDhhWlFsWE5ScmdaOTB4MVBNdnljWHpnUk5ybXlBN2ZvTXluZlhZMWtB?oc=5",
    "date": "2024-05-02T13:15:56+00:00",
-   "summary": "هيشتغل ؟ فيجوال بيسك 6 على ويندوز 11 بقواعد البيانات 🤔 ❗ ❓ youtube.com",
+   "summary": "هيشتغل ؟ فيجوال بيسك 6 على ويندوز 11 بقواعد البيانات 🤔 ❗ ❓ YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كيفية ربط فورم فيجوال بيسك مع قاعدة بيانات Access | سلسلة فيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HMXROdlVBNGtVTHktS0FoaHNVdjNtVlNPM2I5a0RHOU1mR1hDdGFGcnVlQUk3UzJEMHlrZkZxZk9vX0hXTVlqSldZcjRTaTREWWlqaGd3?oc=5",
    "date": "2024-04-17T11:03:55+00:00",
-   "summary": "كيفية ربط فورم فيجوال بيسك مع قاعدة بيانات Access | سلسلة فيجوال بيسك youtube.com",
+   "summary": "كيفية ربط فورم فيجوال بيسك مع قاعدة بيانات Access | سلسلة فيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -587,60 +597,60 @@
    "title": "جملة التكرار For Next فى لغة Visual Basic Net",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVlJ3MGRqbU9HSmRVWWJDNHR0LTBzWXRNa0pZaUJ4cEpDeG4xUlh0cGNBT0trV0FJZVZjelNiSzhPNU44cEQxT3dWUnRyUWhfZF9ZbFVn?oc=5",
    "date": "2023-11-27T07:54:57+00:00",
-   "summary": "جملة التكرار For Next فى لغة Visual Basic Net youtube.com",
+   "summary": "جملة التكرار For Next فى لغة Visual Basic Net YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح ال Select Case في لغة الفيجوال بيسك _ Select Case Tutorial in Visual basic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpRHhfZmNhc2k1a2tJMkRlRVg5b1Z0TW0xcHMxZENFY1JPMkJjQm8xeFVqV19IempJZW8tbFc1dGIwN1NZMEU1OTNpdWJMcjZrbkdrWEtB?oc=5",
    "date": "2023-11-17T21:36:52+00:00",
-   "summary": "شرح ال Select Case في لغة الفيجوال بيسك _ Select Case Tutorial in Visual basic youtube.com",
+   "summary": "شرح ال Select Case في لغة الفيجوال بيسك _ Select Case Tutorial in Visual basic YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورسAccess شرح أكواد vba | السر الذي يجهله الكثيرون!!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bDZ1Q1A2NGVTamNual9jZWdNY1B5OEMyUFVzaXJxdThoU1Nyazl2RWZ2OVVQQkdqT2JoTWtGOU1vVFhubWwxSzM3SEhjdElheWN2V1dR?oc=5",
    "date": "2023-09-03T10:30:08+00:00",
-   "summary": "كورسAccess شرح أكواد vba | السر الذي يجهله الكثيرون!! youtube.com",
+   "summary": "كورسAccess شرح أكواد vba | السر الذي يجهله الكثيرون!! YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تدريب البرمجة فيجوال بيسك دوت نت - VB.NET - الجلسة 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtbERfTVR1WUJjNXk2QTJ0elZyc1RiSFVPWC1GcEhMOGlOVGxvR1NIVVhWb0JINUJON2ExTUN4N1B4TlAtMXJUcGZFSjdyRHZRUlZyLVdR?oc=5",
    "date": "2023-08-28T06:34:12+00:00",
-   "summary": "تدريب البرمجة فيجوال بيسك دوت نت - VB.NET - الجلسة 1 youtube.com",
+   "summary": "تدريب البرمجة فيجوال بيسك دوت نت - VB.NET - الجلسة 1 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "03 أوامر شاشة كتابة الأكواد فى فيجوال بيسك vba مميزات تشغيل الكود خطوة خطوة Step Into [F8]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZ0hMQWFsWGhMdmlDc284el9xUDQyZGJ5N2FGUFl5SlRwbHVKczc5Ry1mVzNEZjVPRmpJUHRsRV9RMkNTci0ydERMZEFVbnNkYkNLR3h3?oc=5",
    "date": "2023-04-29T12:55:39+00:00",
-   "summary": "03 أوامر شاشة كتابة الأكواد فى فيجوال بيسك vba مميزات تشغيل الكود خطوة خطوة Step Into [F8] youtube.com",
+   "summary": "03 أوامر شاشة كتابة الأكواد فى فيجوال بيسك vba مميزات تشغيل الكود خطوة خطوة Step Into [F8] YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "01 أوامر شاشة كتابة الأكواد فى vba وشرح Definition الذهاب مباشرة إلى مكان اعلان المتغير او الاجراء",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uT0FiTWE3WTNQR3lYMDIydkwyYThnZmRlbTVZZ1JFTnEyU2hULV9kNnVBXzRFUkg2UjFSUUw1YV9XTUlkVURYU3FZcHFMTlNCY3JpS3Vn?oc=5",
    "date": "2023-04-29T11:34:00+00:00",
-   "summary": "01 أوامر شاشة كتابة الأكواد فى vba وشرح Definition الذهاب مباشرة إلى مكان اعلان المتغير او الاجراء youtube.com",
+   "summary": "01 أوامر شاشة كتابة الأكواد فى vba وشرح Definition الذهاب مباشرة إلى مكان اعلان المتغير او الاجراء YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -657,10 +667,10 @@
    "title": "اعدادات الشاشة الافتتاحية برمجة نظام محاسبي ERP بلغة الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dnFJaUlwZG84ZmJ3cXQ3eEN5QmZNbkxlTWpOS054NG9vd1VQUENPMDV6YXZXWVJsU0pIdGFfQ19YbmlTX0w0czBLWnhyYW4zOW9QYnh3?oc=5",
    "date": "2023-04-09T00:53:57+00:00",
-   "summary": "اعدادات الشاشة الافتتاحية برمجة نظام محاسبي ERP بلغة الفيجوال بيسك youtube.com",
+   "summary": "اعدادات الشاشة الافتتاحية برمجة نظام محاسبي ERP بلغة الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -707,10 +717,10 @@
    "title": "Computer 3prep 1st Term U2 Visual Basic Net",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51UHphTG44V0ZEcm9RZHQ2RnpQMUQ1UUswdTdZSkZVc0pTdXNhTFRjZy1vTjhnaFY0Umg0YzZJMU5sUDJhc3dBRmQ2MkxxWTNWZGdUNWJn?oc=5",
    "date": "2023-01-09T15:32:59+00:00",
-   "summary": "Computer 3prep 1st Term U2 Visual Basic Net youtube.com",
+   "summary": "Computer 3prep 1st Term U2 Visual Basic Net YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -727,20 +737,20 @@
    "title": "شرح أولويات العمليات الحسابية فيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53cTRGSHZkR0ZtUzhsZnRCMzQybDY4VzhqdWpEeW9iQ0c1RHczc1pkRW8taGM0bzJUNnZtandINlhCd2pZUGo4YkNiaUNLeWk1eTNGdUpR?oc=5",
    "date": "2022-11-23T13:06:57+00:00",
-   "summary": "شرح أولويات العمليات الحسابية فيجوال بيسك youtube.com",
+   "summary": "شرح أولويات العمليات الحسابية فيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "1- التعرّف على Excel VBA | Visual Basic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWDd0bzdCQmZhMGlCbHNnYnhuUUg0ZlR5RXdfTGlOT1lLZUk1dE1OWUZheWNlUkM3OWF1TmR5emtGNjNFUVlyd1ZYYjJYbWlpOE1aY2xB?oc=5",
    "date": "2022-11-12T17:11:07+00:00",
-   "summary": "1- التعرّف على Excel VBA | Visual Basic youtube.com",
+   "summary": "1- التعرّف على Excel VBA | Visual Basic YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -757,20 +767,20 @@
    "title": "Learning VB - Visual Basic - Lesson 8 - Inheritance & Interfaces - تعلم الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51SUpGZTY2MzFzVFA3dXVzZF84STVFdUUweExOT1RQcjNZMEhYeXh4LWpUVzdoaXVveTV5SFF2amtWdnpUcVJWQWw4YmZlVlphSlRuMTJB?oc=5",
    "date": "2022-11-03T15:52:29+00:00",
-   "summary": "Learning VB - Visual Basic - Lesson 8 - Inheritance & Interfaces - تعلم الفيجوال بيسك youtube.com",
+   "summary": "Learning VB - Visual Basic - Lesson 8 - Inheritance & Interfaces - تعلم الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "الاتصال بقاعدة بيانات اكسس من خلال الفيجوال بيسك دوت نت vb.net و access",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FZUhhUm1fVkMwRkZPUklRcjd6cE1tdmp4YUFjbTkzcU5KaHhLby0yVFNNN0s2dnJ3RGdWU0Nxc1FQSm5vSVpSVDJ5OHFUa3pYMm93eXBB?oc=5",
    "date": "2022-10-31T12:13:48+00:00",
-   "summary": "الاتصال بقاعدة بيانات اكسس من خلال الفيجوال بيسك دوت نت vb.net و access youtube.com",
+   "summary": "الاتصال بقاعدة بيانات اكسس من خلال الفيجوال بيسك دوت نت vb.net و access YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -787,10 +797,10 @@
    "title": "Learning VB - Visual Basic - Lesson 2 - Get Started - تعلم الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YT01CLTQwVlZWd0wzRFpJVjBNMUpZTkxxSXRQUVJzcDUxNUs4dkZpRlZjekl4dGNjMHVOZkRSS2VfS2lDNjVhY3NnOHZMbTRVSVZXTDZB?oc=5",
    "date": "2022-10-27T19:57:05+00:00",
-   "summary": "Learning VB - Visual Basic - Lesson 2 - Get Started - تعلم الفيجوال بيسك youtube.com",
+   "summary": "Learning VB - Visual Basic - Lesson 2 - Get Started - تعلم الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -807,40 +817,40 @@
    "title": "سورس كود برنامج ادارة قواعد بيانات SQL من خلال فيجوال بيسك دوت نت 2022 SQL Server With Visual Studio",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XU3UwZHlfdXgzOGV6R29EdzdnaFhGMWl2ejIyR1dxbndqUV9RZWdTUkVDR0lDU2hSb3dyNjctX1RkU1JfUy1RQTU0UGt1MEZJMko1b0Nn?oc=5",
    "date": "2022-10-08T15:19:03+00:00",
-   "summary": "سورس كود برنامج ادارة قواعد بيانات SQL من خلال فيجوال بيسك دوت نت 2022 SQL Server With Visual Studio youtube.com",
+   "summary": "سورس كود برنامج ادارة قواعد بيانات SQL من خلال فيجوال بيسك دوت نت 2022 SQL Server With Visual Studio YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تعلم فيجوال بيسك دوت نت (حلقة 3) Visual Basic.NET Programming for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IcnJLanUwb3lFVlBmbzFacURFWlpSbXhxb3JmeTF3NDg4bHBnNlRfVDZvMUtkNmo1M19PRkxRY3RLcnBjYXl5cTF3a05sbEoyYVNlbkZR?oc=5",
    "date": "2022-10-03T17:33:28+00:00",
-   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 3) Visual Basic.NET Programming for Beginners youtube.com",
+   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 3) Visual Basic.NET Programming for Beginners YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تعلم فيجوال بيسك دوت نت (حلقة 1) Visual Basic.NET Programming for Beginners",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KTEUweVdUbzFYMkpfUU9HZmQ2d3V1Z3Z2VjFYQVRKLThKLW1MX0prVVhfWE9WOTQ2V0tVcEpsamVOU2ktU2E2QWtfR2hVbHVSQWkwc3dR?oc=5",
    "date": "2022-09-24T17:18:27+00:00",
-   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 1) Visual Basic.NET Programming for Beginners youtube.com",
+   "summary": "تعلم فيجوال بيسك دوت نت (حلقة 1) Visual Basic.NET Programming for Beginners YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس برمجة اكسيس من الصفر الى الاحتراف|تعليم فيجوال بيسك|كود7للبرمجيات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SbGw5RWxNZ2FlVUpjU3p0eXRCYUpsVmUyMlpTMTZFQ2hnSVFIemViWFI5dGh4OTFKX0tod3ktVWw1Y21xWXRDUWNqcVdvc0NucGd0WlhB?oc=5",
    "date": "2022-09-18T18:00:10+00:00",
-   "summary": "كورس برمجة اكسيس من الصفر الى الاحتراف|تعليم فيجوال بيسك|كود7للبرمجيات youtube.com",
+   "summary": "كورس برمجة اكسيس من الصفر الى الاحتراف|تعليم فيجوال بيسك|كود7للبرمجيات YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -887,10 +897,10 @@
    "title": "شرح جملة التكرار فى لغة فيجوال بيسك | Loop statement For Next vba",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9INmttQUY0UjFYT0JLTy1nNWpuU183UERJQmxqYnhMQUJNTVNvbnVRa3plcTBSOWdrUlRjZl9sOTd1U1MwQ1htY2FNcVJSc2ZIV3hMdm5n?oc=5",
    "date": "2022-04-11T19:00:07+00:00",
-   "summary": "شرح جملة التكرار فى لغة فيجوال بيسك | Loop statement For Next vba youtube.com",
+   "summary": "شرح جملة التكرار فى لغة فيجوال بيسك | Loop statement For Next vba YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -907,20 +917,20 @@
    "title": "لغة فيجوال بيسك | اداة المؤقت (Timer) الدرس 27",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sdktWQTNvVzFrSmttTGVJZ2RFaTJucU9XTFZkeWdqb1VKM3NJYTBkMjEyRkVwTlVGbFFVYkZUTG9KT3VHaHdWdUFqcWFYZ0EzNUJxVVBR?oc=5",
    "date": "2022-04-03T23:55:16+00:00",
-   "summary": "لغة فيجوال بيسك | اداة المؤقت (Timer) الدرس 27 youtube.com",
+   "summary": "لغة فيجوال بيسك | اداة المؤقت (Timer) الدرس 27 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "أنواع المتغيرات في لغة فيجوال بيسك 6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FamJGeXZVYWo4OFM0Y0NmcURzYXVfSzZ5OVctc3gtUWpuQ1FfZmF3Wlp3OHRTSl9rY0o1QXlGVEhvaDNXUF8zR0ZaSkwyQWYxTUx3dkRR?oc=5",
    "date": "2022-03-10T21:46:40+00:00",
-   "summary": "أنواع المتغيرات في لغة فيجوال بيسك 6 youtube.com",
+   "summary": "أنواع المتغيرات في لغة فيجوال بيسك 6 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -947,40 +957,40 @@
    "title": "#1 Visual Basic 6.0 بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzVlZSeUZWa3NOaEdfSlY0cE1jYkdBYUY4RS1UTUEwTkljOUpMRWNwU19xanB4a2NnSk1fQUJxQjZ0VFNLeEhxSE8xZUxNS2N2aWJHR2Fn?oc=5",
    "date": "2022-01-27T14:24:15+00:00",
-   "summary": "#1 Visual Basic 6.0 بالعربي youtube.com",
+   "summary": "#1 Visual Basic 6.0 بالعربي YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "لغة فيجوال بيسك | اداة Menu Strip الدرس 26",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RbmdjM25oVFJtMERvSUdUMjlsMFIwYjhDNFZZZGUydloxbE1WUnFhaU1Pajl6MVI1TnZxaXRXWW1jZy03N3doUjVfMG1xRWZZY09vM3Vn?oc=5",
    "date": "2022-01-04T03:00:51+00:00",
-   "summary": "لغة فيجوال بيسك | اداة Menu Strip الدرس 26 youtube.com",
+   "summary": "لغة فيجوال بيسك | اداة Menu Strip الدرس 26 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس الفيجوال بيسك اكسل من البداية | البرمجة في الإكسل VBA | المحاضرة الأولى",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04blo5Wlo0dXg3MGVnSFdoRzlLMVRrcm5ta19CV3FLbFFrS0lwSTlZT1E3Smd6REhiTFRiYWw1UTV3b2lYVUpnZGlnaEZmSHRLbTBIb1l3?oc=5",
    "date": "2022-01-01T15:00:10+00:00",
-   "summary": "كورس الفيجوال بيسك اكسل من البداية | البرمجة في الإكسل VBA | المحاضرة الأولى youtube.com",
+   "summary": "كورس الفيجوال بيسك اكسل من البداية | البرمجة في الإكسل VBA | المحاضرة الأولى YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "لغة فيجوال بيسك | دالة VAL الدرس 22",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vMmlRRzNjbGRvV0pyRThWLVlUa3hJcmhEOVJxa0RLeWltbWYyUVRCa2dnQklDZ0JZYWpOc195M0ZSRVA0cHdCUEhfN1RMNzVXeTdNRWF3?oc=5",
    "date": "2021-12-06T16:36:25+00:00",
-   "summary": "لغة فيجوال بيسك | دالة VAL الدرس 22 youtube.com",
+   "summary": "لغة فيجوال بيسك | دالة VAL الدرس 22 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1007,30 +1017,40 @@
    "title": "ربط قاعدة بيانات اكسيس بالفيجوال بيسك من الصفر (مع السورس كود)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ak54YWduR0VrWmJxbzZyRDZfek5vb2N1V0Y0Mk5lRXVacVBDNXp6b2NmallMRTZhV2VMR3ktQ0ZkS0NodVdaOTlvOTFVakgxN3ZkT2VB?oc=5",
    "date": "2021-10-28T03:59:39+00:00",
-   "summary": "ربط قاعدة بيانات اكسيس بالفيجوال بيسك من الصفر (مع السورس كود) youtube.com",
+   "summary": "ربط قاعدة بيانات اكسيس بالفيجوال بيسك من الصفر (مع السورس كود) YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "لغة فيجوال بيسك | الدالة Do-While-Loop الدرس 18",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lcjQ4dWEyZThBcDFNZVJXaVhBbHRhMWpycXk5NnF4aXpYLUtpVGRscjZEcDhuQ0RtZTdad1preUlqWHh2aS1CRkVmVHBjeE1GcXUtOXB3?oc=5",
    "date": "2021-10-22T20:21:32+00:00",
-   "summary": "لغة فيجوال بيسك | الدالة Do-While-Loop الدرس 18 youtube.com",
+   "summary": "لغة فيجوال بيسك | الدالة Do-While-Loop الدرس 18 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم البرمجة بلغة Small Visual Basic، الدرس الثالث عشر: نطاق عداد حلقة التكرار For Next",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMVJJaUpWWE1CMndfdG02YWFDUlZNLTY5QzdZZkVqNnBlSEpjUEF3YURjaTVzZ085eGluSHpZZ1NaQXVoNVZxWlpLRjJwQklJTkdBakxn?oc=5",
+   "date": "2021-10-18T18:33:32+00:00",
+   "summary": "تعلم البرمجة بلغة Small Visual Basic، الدرس الثالث عشر: نطاق عداد حلقة التكرار For Next YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "لغة فيجوال بيسك | الدالة FOR LOOP الدرس 16",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92OVY1N09ZeC1Ocl9kZ2tZS0tja2tBcGhZVlAtZGl3NnczbEt2ZmZNY0tubXFpS1pyd002UkJ4WnNVRkFxNG10THBpRkRhXzZpNnJDOTB3?oc=5",
    "date": "2021-09-26T22:56:23+00:00",
-   "summary": "لغة فيجوال بيسك | الدالة FOR LOOP الدرس 16 youtube.com",
+   "summary": "لغة فيجوال بيسك | الدالة FOR LOOP الدرس 16 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1047,10 +1067,10 @@
    "title": "لغة فيجوال بيسك | الدالة الشرطية IF-ELSE-END IF الدرس 12",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbm0zdnRfcnRJUTg4RHlRdm05TVhla3B2cW5uYjItSG5PelZyZG5xNS1sWURUVWFwd0I5SEZLQ1JsclZYOXdKTDVWX1hUdDdiVEd5NFh3?oc=5",
    "date": "2021-07-10T18:20:09+00:00",
-   "summary": "لغة فيجوال بيسك | الدالة الشرطية IF-ELSE-END IF الدرس 12 youtube.com",
+   "summary": "لغة فيجوال بيسك | الدالة الشرطية IF-ELSE-END IF الدرس 12 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1067,10 +1087,10 @@
    "title": "كورس الفيجوال بيسك دوت نت 2019 | وجهة المستخدم الرسومية FORM",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Wbk1fczYwQVh5T25ZZFRTb013dFV3d1BmOEh0YkNGMTVzU0wzSzJCSzBmb2J5eXRuVXVxU2VrbldXdTRFbXpYZXVwUEJYRjE1UGZpcEJn?oc=5",
    "date": "2021-04-12T17:58:50+00:00",
-   "summary": "كورس الفيجوال بيسك دوت نت 2019 | وجهة المستخدم الرسومية FORM youtube.com",
+   "summary": "كورس الفيجوال بيسك دوت نت 2019 | وجهة المستخدم الرسومية FORM YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1087,20 +1107,20 @@
    "title": "كورس الفيجوال بيسك دوت نت 2019 | Tool box in vb.net 2019 الدرس 6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QWFV6ZE5wejY2eVM2WFNWYWdQMXZuS0tPWW1rOWVwalVtUnlFdW5BQUFidW5KbTN6OXRvbUhLRmdxWTBhdklkNFREbGlONXI4TTAtZVNn?oc=5",
    "date": "2021-03-11T21:50:08+00:00",
-   "summary": "كورس الفيجوال بيسك دوت نت 2019 | Tool box in vb.net 2019 الدرس 6 youtube.com",
+   "summary": "كورس الفيجوال بيسك دوت نت 2019 | Tool box in vb.net 2019 الدرس 6 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس الفيجوال بيسك دوت نت 2019 | من الصفر حتي الاحتراف الدرس 5",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiQjEySGlqYndvVU9iSHVLbks1d2lZNFhKQWRyck5lNmlRRTJjMEF3UjQzOXFnUmljc3QteDg4bTVXWUVKOWwzTkVJYVZPWlhjU3lCamV3?oc=5",
    "date": "2021-03-03T01:11:19+00:00",
-   "summary": "كورس الفيجوال بيسك دوت نت 2019 | من الصفر حتي الاحتراف الدرس 5 youtube.com",
+   "summary": "كورس الفيجوال بيسك دوت نت 2019 | من الصفر حتي الاحتراف الدرس 5 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1117,40 +1137,40 @@
    "title": "كورس احتراف الفيجوال بيسك دوت نت 2019 من الصفر حتي الاحتراف",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBadGlmZV9CT05QTkd4V2xfV3A4azkxaENnVVItOVFkLWp5aUlTNzRSTXgyQi13RDRYdEJrY0JxSUxfVUlRQVdTcnFXNzFycUI3WTN1V1ZFLURyb2I5NWtjN0tTUnJqa3JOTU1lb2xLUFJzTElrWjZ3X196RVg?oc=5",
    "date": "2021-03-01T03:13:03+00:00",
-   "summary": "كورس احتراف الفيجوال بيسك دوت نت 2019 من الصفر حتي الاحتراف youtube.com",
+   "summary": "كورس احتراف الفيجوال بيسك دوت نت 2019 من الصفر حتي الاحتراف YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس الفيجوال بيسك دوت نت 2019|Installing Visual Studio احترف البرمجة الدرس 4",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OZVd0YVRFQnZZeDIyemU2TGxNdVRWa0JYcXlzSVRhdS14VnpFUWdYS3B3VlFKZGRMRXlzcHQyOW1KTUJUY2dsU1M5cjR4OS14N084aXRR?oc=5",
    "date": "2021-02-25T18:40:57+00:00",
-   "summary": "كورس الفيجوال بيسك دوت نت 2019|Installing Visual Studio احترف البرمجة الدرس 4 youtube.com",
+   "summary": "كورس الفيجوال بيسك دوت نت 2019|Installing Visual Studio احترف البرمجة الدرس 4 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح كورس الفيجوال بيسك دوت نت 2019 | المتغيرات والثوابت والفرق بينهم الدرس 3",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMnVqamw1QTE2dF8wV1hGTURmeWpPNHFtOWwycUpXQ0FxMUQwbFNQSXJUN3JIdzdQZm9QM1FqTVNVU3k4RWxuemhqQjRkRWx4ZE4wU1R3?oc=5",
    "date": "2021-02-23T12:12:09+00:00",
-   "summary": "شرح كورس الفيجوال بيسك دوت نت 2019 | المتغيرات والثوابت والفرق بينهم الدرس 3 youtube.com",
+   "summary": "شرح كورس الفيجوال بيسك دوت نت 2019 | المتغيرات والثوابت والفرق بينهم الدرس 3 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح كورس الفيجوال بيسك دوت نت 2019 | من الصفر حتي الاحتراف الدرس 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XYWxtdTE5el8xcm8wX0ZTQ1MxeGdydDFRU19POU5ETlVJVkUyYmtuRU5EMHBrYXItN0d1Tl9ObGhKbTZlVlZLWnRDYmUxWklBUkdsdkNR?oc=5",
    "date": "2021-02-16T19:58:23+00:00",
-   "summary": "شرح كورس الفيجوال بيسك دوت نت 2019 | من الصفر حتي الاحتراف الدرس 1 youtube.com",
+   "summary": "شرح كورس الفيجوال بيسك دوت نت 2019 | من الصفر حتي الاحتراف الدرس 1 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1167,10 +1187,10 @@
    "title": "البرمجة بلغة (فيجوال بيسك ستوديو ) - حاسب 1 مقررات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wVnlJeVp1ZUQyOFZYV3VFczVLMWF6WVFiUy04VVVIb01qd0hLSktOYTlESGc1c3EycEhHUFdtOExQcTk2UXlWemdtQk5KMU9LY01RelN3?oc=5",
    "date": "2020-11-30T01:49:11+00:00",
-   "summary": "البرمجة بلغة (فيجوال بيسك ستوديو ) - حاسب 1 مقررات youtube.com",
+   "summary": "البرمجة بلغة (فيجوال بيسك ستوديو ) - حاسب 1 مقررات YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1197,20 +1217,20 @@
    "title": "حل مشكلة عدم تحميل ملفات اكسيل تعتمد علي ماكرو او فيجوال بيسك للاكسيل|VBA for Excel",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CQkw0aUlNck03UENKOVFxMjZ5eVF4aV9FSUNFTEkwRzJyYndGRzJkM0hvaVc3OFlXR2RCVFBoYnR2a3RCV3Jvc2ZOd0tqUmE3RWptYnV3?oc=5",
    "date": "2020-05-06T14:28:34+00:00",
-   "summary": "حل مشكلة عدم تحميل ملفات اكسيل تعتمد علي ماكرو او فيجوال بيسك للاكسيل|VBA for Excel youtube.com",
+   "summary": "حل مشكلة عدم تحميل ملفات اكسيل تعتمد علي ماكرو او فيجوال بيسك للاكسيل|VBA for Excel YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "الفيجوال بيسك من الصفر حتي الاحتراف المحاضرة الأولي Visual Basic from Zero to Professional",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkOURBdEtkdDVwQmlWWWFPQ2J1T0xmX0tRaUkzeWNfbWowMGJROFhwX0FWX2VlX1hueUVDcVF4cFZxaXdPXzN4VUFSckZTSGZOLTBjeG93?oc=5",
    "date": "2020-04-29T17:22:04+00:00",
-   "summary": "الفيجوال بيسك من الصفر حتي الاحتراف المحاضرة الأولي Visual Basic from Zero to Professional youtube.com",
+   "summary": "الفيجوال بيسك من الصفر حتي الاحتراف المحاضرة الأولي Visual Basic from Zero to Professional YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1227,70 +1247,70 @@
    "title": "29 Access in arabic اكسس بالعربي Visual Basic VBA in Access برمجة فيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2bmVRM3FDY0w3V2Q3Szg5UVBfbWlPVjgxMHlQckJaRk8wWVdzdUdDZXhhWmtXQjVIenN2allMeXdXV1JDdnV1X0pWSzVDWUhDRjN6SDJn?oc=5",
    "date": "2020-01-02T03:00:06+00:00",
-   "summary": "29 Access in arabic اكسس بالعربي Visual Basic VBA in Access برمجة فيجوال بيسك youtube.com",
+   "summary": "29 Access in arabic اكسس بالعربي Visual Basic VBA in Access برمجة فيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "دورة فيجوال بيسك - تعليم فيجوال بيسك 2019 من الصفر حتى الاحتراف Visual Basic",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2a0lab0VIZ3F3eVVkbU5DSjlBdzdEYldOTm1ma3N6RFhiUjFIZndUZl9BNS13NVlCWmNHZWV5OXVXVTBObUxiYTFoaHNqUThxVzBSVUR3?oc=5",
    "date": "2019-09-10T19:18:12+00:00",
-   "summary": "دورة فيجوال بيسك - تعليم فيجوال بيسك 2019 من الصفر حتى الاحتراف Visual Basic youtube.com",
+   "summary": "دورة فيجوال بيسك - تعليم فيجوال بيسك 2019 من الصفر حتى الاحتراف Visual Basic YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح vba excel | تعليم Vba | بيئة وأدوات البرمجة فى الاكسل| Vba للمبتدئين | VBE",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QcDVlR1o5ZFFsQXcteUdnNVFycEJXTGVPeFFpbUIzdXVmT1RkaTZhLVVDS2xVbFh6YUZvVVVwT3diRVI5M0k3N1Z0MzQ4R0pHOHRQaVFn?oc=5",
    "date": "2019-06-26T17:22:02+00:00",
-   "summary": "شرح vba excel | تعليم Vba | بيئة وأدوات البرمجة فى الاكسل| Vba للمبتدئين | VBE youtube.com",
+   "summary": "شرح vba excel | تعليم Vba | بيئة وأدوات البرمجة فى الاكسل| Vba للمبتدئين | VBE YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "تصميم ساعة رقمية بالفيجوال بيسك vb . net مع السورس كود",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5V3Vaa1Myc01NbmppQVdvbVpjdDBUN29zTmpFWDk0cXRRYUtBczZvVHhmdlRnakhTT3FaVS10Z0ZTS193M01GNDYtVEpHYktSMGlUbzFB?oc=5",
    "date": "2019-06-20T17:23:27+00:00",
-   "summary": "تصميم ساعة رقمية بالفيجوال بيسك vb . net مع السورس كود youtube.com",
+   "summary": "تصميم ساعة رقمية بالفيجوال بيسك vb . net مع السورس كود YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "الدوال البرمجية Function وتعريفها : دورة تعلم لغة الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OV2ZjVlBMYi1iMHFJS3B4aVI3QXZDN2dWb3VFOVQwOTU2T2s4WUVVTXhQOEI2MG1CQkI5YmFjSjlJaVdqbFJRcmdEZHpCR2VKM0pPSW1n?oc=5",
    "date": "2019-06-10T20:07:50+00:00",
-   "summary": "الدوال البرمجية Function وتعريفها : دورة تعلم لغة الفيجوال بيسك youtube.com",
+   "summary": "الدوال البرمجية Function وتعريفها : دورة تعلم لغة الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "جملة Select Case وبرنامج سؤال وجواب : دورة تعلم لغة الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtYmpRTk9Hd1JjekFTemNBTmU4SXVxdHh0Y1EtLW9YYkNraUQ5X3dkeUtDVmlPd3VaWXFfQTI2WXNTcTh6NkxOY1hiN2hDd25YVlFnRl9n?oc=5",
    "date": "2019-05-27T16:36:31+00:00",
-   "summary": "جملة Select Case وبرنامج سؤال وجواب : دورة تعلم لغة الفيجوال بيسك youtube.com",
+   "summary": "جملة Select Case وبرنامج سؤال وجواب : دورة تعلم لغة الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "برنامج شاشة تسجيل دخول اسم المستخدم وكلمة المرور : دورة تعلم لغة الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oTEhvS0VKQTA4NEMxOFY1aGVEaERMM2hJcWNIRUkwdlQtRHQxMEFnSHM3RG5NbVdaOENjTm1rSnYyNVdYSW93Y2RTQUEzcXFWVm1OQ0xn?oc=5",
    "date": "2019-05-26T13:17:15+00:00",
-   "summary": "برنامج شاشة تسجيل دخول اسم المستخدم وكلمة المرور : دورة تعلم لغة الفيجوال بيسك youtube.com",
+   "summary": "برنامج شاشة تسجيل دخول اسم المستخدم وكلمة المرور : دورة تعلم لغة الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1307,20 +1327,30 @@
    "title": "آله حاسبة باستخدام الفيجوال بيسك : دورة تعلم لغة الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JY00xMnZyeVlwNzJ1MVRnSDZfZS1vaVozQnVfZzQwemRNcWgteVFkd1BpT09NUHY4MkVIaHRqbjFGNkdqR3p6SUw5TFlHNS1SV0pSRzJn?oc=5",
    "date": "2019-05-22T14:40:16+00:00",
-   "summary": "آله حاسبة باستخدام الفيجوال بيسك : دورة تعلم لغة الفيجوال بيسك youtube.com",
+   "summary": "آله حاسبة باستخدام الفيجوال بيسك : دورة تعلم لغة الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "برمجة الإكسل - الدرس 01 - التعرف على الواجهة الرئيسية لمحرر الفيجوال بيسك Excel VBA Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56dUZ5NEtNaVQ3SFJnMjdFOVVwU18tQzdKSmRfcGVVRlRKbkdmajZ3V0NLQl9mbVdpdVBZMU0xU1J4bFJJeW9MMnY0RXdZTGU1TmJMQ3RR?oc=5",
    "date": "2019-04-20T17:00:01+00:00",
-   "summary": "برمجة الإكسل - الدرس 01 - التعرف على الواجهة الرئيسية لمحرر الفيجوال بيسك Excel VBA Course youtube.com",
+   "summary": "برمجة الإكسل - الدرس 01 - التعرف على الواجهة الرئيسية لمحرر الفيجوال بيسك Excel VBA Course YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Learn Visual Basic in Arabic #156 - VB NET تشغيل ملف فيديو play video windows media player تعليم",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9abjNXTVlIRVF4WHpDODI2SkUzcnRHSEViQlVCMGJBZWhXLWNhZlZhWUlpZlJoTlM1WlV3QTNCMzhkV2E0Yk5XMmk3YWktT2phRzcwUy1B?oc=5",
+   "date": "2019-03-20T21:21:43+00:00",
+   "summary": "Learn Visual Basic in Arabic #156 - VB NET تشغيل ملف فيديو play video windows media player تعليم YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1354,6 +1384,26 @@
    "lang": "en"
   },
   {
+   "title": "Learn Visual Basic in Arabic #91 - #091 VB NET انشاء شاشات بالكود CREATE FORMS USING CODE",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XZXFiVUlkT3BHa0VKQWVqSk4wM2tEaHZSS3U0VnVrVWl1NDJvZ0ZNdzduMVJ3OGVacnZoWmZRU0RjTnc5Ukt1WFU1MDFNTmswNlhvN3Fn?oc=5",
+   "date": "2018-01-28T18:17:56+00:00",
+   "summary": "Learn Visual Basic in Arabic #91 - #091 VB NET انشاء شاشات بالكود CREATE FORMS USING CODE YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "اسهل دورة تصميم برنامج المبيعات شرح مبسط مهارات جيده VB.Net + Access",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LbGN4RVQ3Z0NDdVA3cEthZjRacklJUmRjS3BYQUtDakNieklNTXZPbWo3VzdZWnJLTFpSVVhnWHNORFF6ZnRaLWZWRC1qRXREeDg4OU5Nak11NkVfU2o1ZWt6YnFHcEtPQVNUZGpXSFZqOUkyeXF3Z0lFRVg?oc=5",
+   "date": "2017-11-28T11:20:22+00:00",
+   "summary": "اسهل دورة تصميم برنامج المبيعات شرح مبسط مهارات جيده VB.Net + Access YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Learn Visual Basic in Arabic #86 - #086 VB NET استخدام ومربع النص مع الازرار TEXTBOX LABEL BUTTONS",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yUXZGcmt1MHlYcTlacU9FdEdMWU9iaG8zZnBjVi1tZDA1NlVKbFdTVHdmQ0dzS1pNSG5wR0VhbzFpYktDT25YYlMwQU5uWWU2amV5ZUVn?oc=5",
    "date": "2017-11-28T10:32:43+00:00",
@@ -1364,13 +1414,33 @@
    "lang": "ar"
   },
   {
+   "title": "Learn Visual Basic in Arabic #81 - فيجوال بيسك | #81 VB NET البداية مع الشاشات Introduction To Forms",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JZ2c2Mk9IMnpOanlDUWtfYkpvZXg4eDdQQy1Ea3JGMTRHalA3T0JGN1ZNcnlFQ0o3RE0xZmZ5S1poaWI2cFZkZnhXel9pdGc5WmNRakRn?oc=5",
+   "date": "2017-11-06T15:41:58+00:00",
+   "summary": "Learn Visual Basic in Arabic #81 - فيجوال بيسك | #81 VB NET البداية مع الشاشات Introduction To Forms YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "إنشاء التقرير في الفيجوال بيسك (report)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FcmRSbkFzZUJXbUN2a2RNd2k3SDZOUkR3ZjItZEZFRWtRQWNqUmFZRHdOaU4tNHNfOWpIQmFSR08xMnZKdUJqUnQtaHRTYVZZaFVCd2pn?oc=5",
    "date": "2017-07-16T11:15:19+00:00",
-   "summary": "إنشاء التقرير في الفيجوال بيسك (report) youtube.com",
+   "summary": "إنشاء التقرير في الفيجوال بيسك (report) YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "المتغيرات وتعريفها وانواعها : دورة تعلم لغة الفيجوال بيسك",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoamk1NVlrZVVtUmhJX2VZc2dxaG1pT01LWW1qTkd1T0p1R29vQUN0MURGenBwXzBjVUdvUFpwb2VWb2FRLUlZaGJTTnBhWi1OOFFVOWF3?oc=5",
+   "date": "2017-07-15T14:44:52+00:00",
+   "summary": "المتغيرات وتعريفها وانواعها : دورة تعلم لغة الفيجوال بيسك YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1387,50 +1457,50 @@
    "title": "دورة تعلم لغة الفيجوال بيسك من الصفر حتى الاحتراف VB.NET",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0NjJfMWdVN2QySTRxRVJsaTlacXA3MjMxQ1dBSEV3MVJ0U0NBS25JeDNCbHpEQkJfSXllbEFTRGh1ejk1T0p3c29xY3MxdTc4aTFrQmZPbWdtR1h6cFR3TkM4VzFqdTE0MGxqd1lHTk9nNElQZV91aHBsN2s?oc=5",
    "date": "2017-06-24T07:25:48+00:00",
-   "summary": "دورة تعلم لغة الفيجوال بيسك من الصفر حتى الاحتراف VB.NET youtube.com",
+   "summary": "دورة تعلم لغة الفيجوال بيسك من الصفر حتى الاحتراف VB.NET YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "نافذة الخصائص Properties واضافة ازرار لمشروعك : دورة تعلم لغة الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tMHBvUHYwcDI0em1GTm5FQlB5WTB6QklpZG5PZVFXc0RXSlA3Y0dlZ2JuaHpaUVdDMUJ2WnZwbzZ0WnpmMGhUQUM5NHJtQnprc2t5TTdB?oc=5",
    "date": "2017-06-15T15:17:29+00:00",
-   "summary": "نافذة الخصائص Properties واضافة ازرار لمشروعك : دورة تعلم لغة الفيجوال بيسك youtube.com",
+   "summary": "نافذة الخصائص Properties واضافة ازرار لمشروعك : دورة تعلم لغة الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "برنامجك الاول والتعرف على واجهات الاستخدام : دورة تعلم لغة الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aNzJjZVpVdlNiQl9JNGp0RnZwRG1WQlFEazd3N2tVM3EzQXVPc1ptZ1lNVVpSdzlGQjdCVWxsNzh6V09JYlVaOFpKd1lXcVE1S3FENTdB?oc=5",
    "date": "2017-06-15T15:12:50+00:00",
-   "summary": "برنامجك الاول والتعرف على واجهات الاستخدام : دورة تعلم لغة الفيجوال بيسك youtube.com",
+   "summary": "برنامجك الاول والتعرف على واجهات الاستخدام : دورة تعلم لغة الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "مقدمة : دورة تعلم الفيجوال بيسك من الصفر حتى الاحتراف VB.NET",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpYnZHak9PNzZweUhJcTZiaWl5Sk9Ed3dacFIyWUJfSWE5UHZhV19ZQzF5RXdwU25aTERJQmZURS1Oc1l0QVNkbmtQdjdfSzQ0VzY2N19n?oc=5",
    "date": "2017-06-15T15:08:57+00:00",
-   "summary": "مقدمة : دورة تعلم الفيجوال بيسك من الصفر حتى الاحتراف VB.NET youtube.com",
+   "summary": "مقدمة : دورة تعلم الفيجوال بيسك من الصفر حتى الاحتراف VB.NET YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح تحميل وتنصيب برنامج الفيجوال بيسك 2017 او النسخ الاقدم VB.NET",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ybHNBOENRbTFFZGU3RFhmX1p2U2w0UU1Kdi1NY1FCQU8tZndvcUhzTGdXTlNXVVVDbjVjSVNZMnhQWVhWVUNGOVoxaEJOWGZwcXR3ZDlR?oc=5",
    "date": "2017-06-15T15:08:17+00:00",
-   "summary": "شرح تحميل وتنصيب برنامج الفيجوال بيسك 2017 او النسخ الاقدم VB.NET youtube.com",
+   "summary": "شرح تحميل وتنصيب برنامج الفيجوال بيسك 2017 او النسخ الاقدم VB.NET YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1447,50 +1517,70 @@
    "title": "طريقة عمل برنامج الة حاسبة بالفيجوال بيسك6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yLVB2NGgxTHBjaWFnOFNxTGJRLVRRUkQxY3d0WUROV09hTXh0SFNCUFJSQjFhcHRPSDc1SW1pMTVqLUpLQlprQS1UU0ZaZ2RYLVg5ZDdR?oc=5",
    "date": "2017-06-05T16:13:59+00:00",
-   "summary": "طريقة عمل برنامج الة حاسبة بالفيجوال بيسك6 youtube.com",
+   "summary": "طريقة عمل برنامج الة حاسبة بالفيجوال بيسك6 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Learn Visual Basic in Arabic #33 - فيجوال بيسك | تمرين وتدريب علي جملة اف #33",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MaEpVc0R1MVkxUWQ4U2dhQVdvbW5jRnNZZmM0dXJ1XzVGeUc4UlZOYkd3dEdLQTRPcUVKODJubHdpVlVzckFDeW5idlRZRUpUeElOc3VR?oc=5",
+   "date": "2017-04-07T07:36:41+00:00",
+   "summary": "Learn Visual Basic in Arabic #33 - فيجوال بيسك | تمرين وتدريب علي جملة اف #33 YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "فيجوال بيسك - 9 : شرح جملة ال IF الشرطية ( vb.net : (IF .. Elseif ..Else",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UdFVZdXlsa0p1TU8zUXlyWGFoVXpNeVh2eGliQXFST3FHTDJCdUR0aW9XRzZsS0pLWldVa2twY1Z1X2ktOE52LUVndXZSVGR1VnBoVG5R?oc=5",
    "date": "2017-03-30T19:41:41+00:00",
-   "summary": "فيجوال بيسك - 9 : شرح جملة ال IF الشرطية ( vb.net : (IF .. Elseif ..Else youtube.com",
+   "summary": "فيجوال بيسك - 9 : شرح جملة ال IF الشرطية ( vb.net : (IF .. Elseif ..Else YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "20 - الاجراءات و الدوال في الفيجوال بيسك procedures and functions",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjSUhJNVJ2OU9JOGcxVDV1TXRRZ1dKdmViaG5jUG1IUGRiTFRfbmdwZGZ3RUxRNC0zcGpJSW9FM1V5WG9oMG8wVWN3MFVNenRmcUJlcUhB?oc=5",
    "date": "2017-02-16T00:29:58+00:00",
-   "summary": "20 - الاجراءات و الدوال في الفيجوال بيسك procedures and functions youtube.com",
+   "summary": "20 - الاجراءات و الدوال في الفيجوال بيسك procedures and functions YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "فيجوال بيسك - 6 : شرح المتغيرات (vb.net: (Variables",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pb1lLbEdINWlyaDBvZGlpRlJtSXkyY3d6Q1QyUVNFVnhIY3FIdXgtLWEwcjQyZm5ySEp3RzI5bE5pSm5ZNlVsMHNFbGNsaEh5ZW9HNXFB?oc=5",
+   "date": "2017-02-15T23:49:19+00:00",
+   "summary": "فيجوال بيسك - 6 : شرح المتغيرات (vb.net: (Variables YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "فيجوال بيسك - 4 : شرح أدوات ToolBox - الجزء الأول : vb.net",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KdlZqZnZOQTBfU2NRN2NEajBQbVpPeElIMGZ2aDZhYUpWQnFTcDU0aGVveXpWWFYyaUtQVF9ham1FaW9CT3c1MVdNUXJ6SnREX3QwU1B3?oc=5",
    "date": "2017-02-05T19:28:43+00:00",
-   "summary": "فيجوال بيسك - 4 : شرح أدوات ToolBox - الجزء الأول : vb.net youtube.com",
+   "summary": "فيجوال بيسك - 4 : شرح أدوات ToolBox - الجزء الأول : vb.net YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "فيجوال بيسك -1 : شرح خصائص الفورم - vb.net : Form Properties",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QRDNhdmpqeEh6VU5xVEhjM21oRml2S0VQY1VlNWNVU05tcFJOTUtiNDFoLVpvRnZFb2J4dFhnNjNyejdMNmxzdDZfc2tDZUQxeDl1YTFR?oc=5",
    "date": "2017-01-25T17:25:16+00:00",
-   "summary": "فيجوال بيسك -1 : شرح خصائص الفورم - vb.net : Form Properties youtube.com",
+   "summary": "فيجوال بيسك -1 : شرح خصائص الفورم - vb.net : Form Properties YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1537,10 +1627,10 @@
    "title": "تعلم البرمجة باستخدام الفيجوال بيسك دوت نت - المحاضرة الاولى",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uT0tsX2pUUklXb2VGMFpCY1pEYXJMT0s5c28tRktpeGx6Vno1QXptQWtmWmM0ZW9tMnpILU9ULUNzZnJ0Qm1BRllPdWJwX05OOEVubkNB?oc=5",
    "date": "2016-12-04T17:41:15+00:00",
-   "summary": "تعلم البرمجة باستخدام الفيجوال بيسك دوت نت - المحاضرة الاولى youtube.com",
+   "summary": "تعلم البرمجة باستخدام الفيجوال بيسك دوت نت - المحاضرة الاولى YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1567,40 +1657,40 @@
    "title": "17 - جمل التكرار في الفيجوال بيسك for next",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FaUdrZWZEdDBSSkJmcWZtQnZJQjJkNERTc3dqNjU3MHVBZG40UUFKNTQyNWU4ZG80VGdaWmNmZ1BCZm1FZFZMUkUtZTA3cjFfUkVwOTVB?oc=5",
    "date": "2016-09-18T04:16:22+00:00",
-   "summary": "17 - جمل التكرار في الفيجوال بيسك for next youtube.com",
+   "summary": "17 - جمل التكرار في الفيجوال بيسك for next YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "إنشاء شاشة القوائم فى الفيجوال بيسك 6",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wRm1fSGkwdjNzVjctYVlCSExzeDA1d2piRUdOUzROTElDeVZ2RUZ2a3E3a0d0N1lkY3p2TzRLcnkxbG1ZZWF5NmdJZVhoR2Ftb0UxZUJB?oc=5",
    "date": "2016-09-09T23:02:49+00:00",
-   "summary": "إنشاء شاشة القوائم فى الفيجوال بيسك 6 youtube.com",
+   "summary": "إنشاء شاشة القوائم فى الفيجوال بيسك 6 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "15 - تعديل خصائص الادوات باستخدام الكود في الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zZjFVSFJTWUJDUDNyR25VSS1FSklGNmcyeHI1MUdpUUhuMHU1cWpmNzBQdkdFUjRBdzFtMzk0aWFjVnBCOGNYZTVUZWp2VkxLZFRRbDN3?oc=5",
    "date": "2016-08-17T10:01:20+00:00",
-   "summary": "15 - تعديل خصائص الادوات باستخدام الكود في الفيجوال بيسك youtube.com",
+   "summary": "15 - تعديل خصائص الادوات باستخدام الكود في الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "9 - دوال الادخال والاخراج في الفيجوال بيسك",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdk9YbXRtTlJqTTdGSUw4OERIcm1kVG82WmxnbWkxazlBZlljYURwOXR1ZkFFYm5DYm5TX1A4WGlpYXYxYXc1S1Y2aFB3d3JVR0lOQWpB?oc=5",
    "date": "2016-06-30T10:20:28+00:00",
-   "summary": "9 - دوال الادخال والاخراج في الفيجوال بيسك youtube.com",
+   "summary": "9 - دوال الادخال والاخراج في الفيجوال بيسك YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1608,6 +1698,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jSHk0MDJZcE1ZYmw0MmYtdWo2cUI4RmtVWlAwY3hLdmNfay01c1JZalJxdU1CeWY3My1ZeFdXVXp0aVJBZXZWYmdHdDZmWThXWEZWTTZn?oc=5",
    "date": "2016-06-19T14:27:32+00:00",
    "summary": "طريقة عمل برنامج حاسبة علمية على الفيجوال بيسك | Calculater on Visual basic YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كتابة الاوامر في الفيجوال بيسك تدريب4 و 5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wSnRHS1duN3pEWjF5d3dXaHI1em5FaWh6dFd2d2pGRW0wTlFIUjhzZlY0dWVPYnpRYzRXWVUyVDhLYTlkNmE3NzhJdUpwaXo2elNpRHpR?oc=5",
+   "date": "2016-03-27T19:11:01+00:00",
+   "summary": "كتابة الاوامر في الفيجوال بيسك تدريب4 و 5 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1627,20 +1727,20 @@
    "title": "تحميل وتثبيت فيجوال بيسك 2010",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tbG54cG5icFpNakthZEt5SjI1SUo0WXZxc1g0LXZYb2hSSXZ0VEJ0UTFDNEtKMTNCNjB3MzhETkRvOXZJY1FHLVhoV1c2QkE4M2ZJRWJ3?oc=5",
    "date": "2015-10-18T17:35:26+00:00",
-   "summary": "تحميل وتثبيت فيجوال بيسك 2010 youtube.com",
+   "summary": "تحميل وتثبيت فيجوال بيسك 2010 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح اضافة اكواد فيجوال بيسك بسيطة في البوربوينت للاستاذة / عايدة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wSlJPTXBLVDlyRkpQZUdmNnhwd3ZkYmdhUjdEeDdYbk5uT1pRbS1tMnhkdGJtQlRSaXdzS1NYcjFJUlI5ZUtzWG4xTjM2c0h2UmVLUGh3?oc=5",
    "date": "2015-09-15T05:10:49+00:00",
-   "summary": "شرح اضافة اكواد فيجوال بيسك بسيطة في البوربوينت للاستاذة / عايدة youtube.com",
+   "summary": "شرح اضافة اكواد فيجوال بيسك بسيطة في البوربوينت للاستاذة / عايدة YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1674,33 +1774,43 @@
    "lang": "en"
   },
   {
+   "title": "Visual Basic 2012+ MS Access أحمد الزيني- ربط فيجوال بيسك 2012 وأكسس",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeVJZY3Z6V1Q3Q2lMV1hsRWZMWThSdUkyREp2SmFKVTkzT1lweUNJRHFfbS1xQkdGZmV4VVhYVmlGQ3BEOHpLWDJpaEEyM1V1UGlwS2RZV2R0S09fTkltQkJOOTB0QW1iVURvLUVJSHhiSHh0RUxkZ2t3SzA?oc=5",
+   "date": "2014-11-06T03:18:27+00:00",
+   "summary": "Visual Basic 2012+ MS Access أحمد الزيني- ربط فيجوال بيسك 2012 وأكسس YouTube",
+   "tech": "vb",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "vb2012- 135- timer الموقتات في الفيجوال بيسك وخصائص وأحداث ودوال الأداة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIRS00ZWtJbWVKekF6U3lqOTNmNmktM3FJMnFKM3o2WUdlQ1RQU1RWaTJySzNNVFJXRGZwNkg4RWV0U25GN1RiMTlOUkxxaFBrdG5IckV3?oc=5",
    "date": "2014-08-28T07:03:08+00:00",
-   "summary": "vb2012- 135- timer الموقتات في الفيجوال بيسك وخصائص وأحداث ودوال الأداة youtube.com",
+   "summary": "vb2012- 135- timer الموقتات في الفيجوال بيسك وخصائص وأحداث ودوال الأداة YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح المصفوفات - جمل التكرار loop فيجوال بيسك دوت نت 2010",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93SDk5V29sdXd0U2MyNUg5V1RnRmZrZ2pVN0VOM3RXV1A5cGdWT2ZaN2o0alR3VEozWC1mRHZpSURtS05pSWtOY1Y1Qk1CdmhhY0xxQlZ5a0I4Z3RSSlU2MWdmODc1M1RkTFFZNEhOdjFEMFV6Y013UEt3V2w?oc=5",
    "date": "2014-08-20T05:58:53+00:00",
-   "summary": "شرح المصفوفات - جمل التكرار loop فيجوال بيسك دوت نت 2010 youtube.com",
+   "summary": "شرح المصفوفات - جمل التكرار loop فيجوال بيسك دوت نت 2010 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح فيجوال بيسك 6",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xc3NPOUpucUlZa0pVV3JWMjFVYU8zeG14VWttUnNYY243TDBBaEJYZXBnWFJXVFQzbE1uVjgzMFlIemtBQVoyeFJMeFI0MVlBd3VWVVREcmZKWktZbHloalNYcWtBTVd6THRuZ29vSFdyQ0VMdThCekItQTI?oc=5",
    "date": "2014-08-02T19:58:12+00:00",
-   "summary": "شرح فيجوال بيسك 6 youtube.com",
+   "summary": "شرح فيجوال بيسك 6 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1897,40 +2007,40 @@
    "title": "شرح طريقة برمجة البوربوينت powerpoint بتطبيقات الفيجوال بيسك visual basic application رقم 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DVGRDQkZkcGtnNWgyTzJNWWNURzAzM0F3MlliV19tT0dsUjZkMFoyZ1Y2NzVmWmlDQXdvak9pbFg4Rm9DdWNjTk9wRHFJOEdycUJVM3Nn?oc=5",
    "date": "2013-10-09T22:22:17+00:00",
-   "summary": "شرح طريقة برمجة البوربوينت powerpoint بتطبيقات الفيجوال بيسك visual basic application رقم 1 youtube.com",
+   "summary": "شرح طريقة برمجة البوربوينت powerpoint بتطبيقات الفيجوال بيسك visual basic application رقم 1 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "دورة تعليم فيجوال بيسك 2008 visual basic.net من الصفر للاحتراف المحاضرة رقم 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HNEdMTW4yZlhZYmVOTVU0Z2JXamdBUERZMEczeXlMTDR4WHVFaFhlNE5FNDREU21FUXRjdnljcE1GT0FKSWZzeDRENzJ6QUdXcVhwa2d3?oc=5",
    "date": "2013-10-06T15:15:09+00:00",
-   "summary": "دورة تعليم فيجوال بيسك 2008 visual basic.net من الصفر للاحتراف المحاضرة رقم 1 youtube.com",
+   "summary": "دورة تعليم فيجوال بيسك 2008 visual basic.net من الصفر للاحتراف المحاضرة رقم 1 YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "03شرح فيجوال بيسك 6 الحفظ والتعديل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aeEF4NmxHWFRCU0hDdzQxV1lIeG40ODNNRl9lWDluaGtpVktZOWYyZGc2d0xyLUN3LWtEQTRrdlN6QmYtMkg1bmtzdlgzUWptTlFGMjN3?oc=5",
    "date": "2013-07-24T17:27:36+00:00",
-   "summary": "03شرح فيجوال بيسك 6 الحفظ والتعديل youtube.com",
+   "summary": "03شرح فيجوال بيسك 6 الحفظ والتعديل YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Visual Basic 2012 م/ أحمد الزيني",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qMGVOelZjZVB4QURJS0VFdkxWQUhCZjlpUDlXWnYzM1NkRS1sOGI2OVpZcWVCbWdId3o1bTVOWmMxOG1MZGNiR2txNGd3QVU1X0d1VUFhdDg0eW1mN0MtdlpKRGRoODhxa0Q5WjhvZWNlZFpVNzZiT01CX1M?oc=5",
    "date": "2013-06-22T00:17:45+00:00",
-   "summary": "Visual Basic 2012 م/ أحمد الزيني youtube.com",
+   "summary": "Visual Basic 2012 م/ أحمد الزيني YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1977,10 +2087,10 @@
    "title": "تعليم فيجوال بيسك - التعرف علي كيفية كتابة الكود",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jbXJIY2tYSHFDQzE5NUpiUHNOOXZ0WWVWQ0k0NGVBa0FPLXVRdzNOZ0RRMWRFc0thcnFWbGpIaExKTHBRYllEM3NwNzh0T3hPbkhQM3JR?oc=5",
    "date": "2012-03-18T19:56:21+00:00",
-   "summary": "تعليم فيجوال بيسك - التعرف علي كيفية كتابة الكود youtube.com",
+   "summary": "تعليم فيجوال بيسك - التعرف علي كيفية كتابة الكود YouTube",
    "tech": "vb",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2094,6 +2204,16 @@
    "lang": "en"
   },
   {
+   "title": "Visual Basic Tutorial - 91 - Introduction To Classes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tU0xtQWZoTDJmLThJeV9nTmM1SF9RWXdRUGl5VTMtZGhITVVMUnJpN2tXZGlBRmhua3c4U1VmXzhIN0RQUjZSMTlGcWw5SzFxenRrOE9B?oc=5",
+   "date": "2011-06-05T04:00:09+00:00",
+   "summary": "Visual Basic Tutorial - 91 - Introduction To Classes YouTube",
+   "tech": "vb",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Visual Basic Tutorial - 78 - Overriding Functions",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSlNMdTBCTGlIN0E1X0k0QklqOUQ4cUtVWWFuZ0VJcEdQSkRIUWNyZTE1WEctMW92ekZxdFhlUHdyWVYzcmpialpSejUwZHZPWTh6MHRn?oc=5",
    "date": "2011-06-05T03:47:38+00:00",
@@ -2108,16 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZVN3cGVyV2M2cVVsZnJuU0tQdTdDUFpHYW8tSTJKcUkxYVkya3o3MWJ0QW16TU9GbGJ1QWw1RWhMeFk5UUI2eUZFQktFUms4YW02TmFB?oc=5",
    "date": "2011-06-05T03:42:01+00:00",
    "summary": "Visual Basic Tutorial - 68 - Structures YouTube",
-   "tech": "vb",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Visual Basic Tutorial - 59 - Introduction To Arrays",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92a3Z6NkxpVjFPZVlselhKTDZKWjQ2R3hBQ0VYYmdPaWZxZGNBSE02S01KMFp3Wk1tSkpmblVVbkRkZ2pKUlpvYURQZ1E4dEYwdkJ5aDJn?oc=5",
-   "date": "2011-06-05T03:34:48+00:00",
-   "summary": "Visual Basic Tutorial - 59 - Introduction To Arrays YouTube",
    "tech": "vb",
    "sourceId": "yt",
    "source": "YouTube",

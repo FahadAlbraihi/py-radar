@@ -1,8 +1,51 @@
 {
- "generated": "2026-08-19T05:10:36.246457+00:00",
+ "generated": "2026-08-20T05:17:32.835454+00:00",
  "tech": "assembly",
- "count": 156,
+ "count": 162,
  "items": [
+  {
+   "title": "Sudoku GUI in C language",
+   "url": "https://dev.to/itz_maheen/sudoku-gui-in-c-language-3hjc",
+   "date": "2026-08-19T19:59:37+00:00",
+   "summary": "Hello fellow programmers , I am a self taught beginner and I would like to share a recent project I...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Having fun with SDL3 and C.",
+   "url": "https://dev.to/4deis/having-fun-with-sdl3-and-c-3i2n",
+   "date": "2026-08-19T17:10:14+00:00",
+   "summary": "I have been learning Java for a year now, which made me come to conclusion that I've developed...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Deterministic FinOps Intelligence Engine in C11 — IFM-CostIntel v1.0.0",
+   "url": "https://dev.to/nareshcn2/building-a-deterministic-finops-intelligence-engine-in-c11-ifm-costintel-v100-1ccd",
+   "date": "2026-08-19T08:53:26+00:00",
+   "summary": "Building a Deterministic FinOps Intelligence Engine in C11 — IFM-CostIntel v1.0.0   Cloud...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Built a Chiptune Synth in Pure x86-64 Assembly",
+   "url": "https://hackernoon.com/i-built-a-chiptune-synth-in-pure-x86-64-assembly?source=rss",
+   "date": "2026-08-19T06:50:01+00:00",
+   "summary": "How I built asm.fm, a chiptune synthesizer entirely in x86-64 assembly using syscalls, raw WAV samples, FM synthesis, filters, and effects.",
+   "tech": "assembly",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
   {
    "title": "How to Choose the Right PCBA Manufacturer for Your Electronic Product",
    "url": "https://dev.to/_b3c3f4ea2fe6897a27168f/how-to-choose-the-right-pcba-manufacturer-for-your-electronic-product-2jb9",
@@ -63,7 +106,7 @@
    "url": "https://dev.to/kleber333/comprei-um-water-cooler-sem-suporte-para-linux-entao-fiz-engenharia-reversa-do-software-4gli",
    "date": "2026-08-17T20:50:09+00:00",
    "summary": "Quando comprei um Water Cooler Pichau Aqua 120X, a ideia era simples: resfriar e usar o display LCD...",
-   "points": 0,
+   "points": 1,
    "tech": "assembly",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -311,28 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "8051 What does SDCC do part 1 ?",
-   "url": "https://dev.to/ddupard/8051-what-does-sdcc-do-part-1--2d1d",
-   "date": "2026-08-10T18:53:59+00:00",
-   "summary": "1. Introduction and Problem Statement   A good way to learn what a compiler really does when...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "C to Rust Port",
-   "url": "https://dev.to/pravin_baviskar_d6d9a355e/c-to-rust-port-13b0",
-   "date": "2026-08-10T08:32:48+00:00",
-   "summary": "Porting QOI from C to Rust: proving the port actually holds up   For Port Mortem I picked a...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "SolidWorks course for engineering and assembly drawing, lecture (11)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5VGxHOXdrU05JZ0hDeTVaZFVacV9oaFo0VWZvTmNDVV9YVE50bjdsaWtuQ01LUWVmZGN3c3JadExuVDQtb19BbHMwYVNxR0d0Z1RLT1dB?oc=5",
    "date": "2026-08-10T07:47:44+00:00",
@@ -350,17 +371,6 @@
    "tech": "assembly",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Stream FreeSWITCH call audio to a WebSocket for real-time ASR (mod_ws_media)",
-   "url": "https://dev.to/luoyumin/stream-freeswitch-call-audio-to-a-websocket-for-real-time-asr-modwsmedia-32o2",
-   "date": "2026-08-09T13:09:02+00:00",
-   "summary": "If you're building anything that listens to live phone calls — real-time transcription, an AI voice...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -387,10 +397,10 @@
    "title": "Assembly Lab | مراجعة سريعة قبل الانتقال للمواضيع الكبيرة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hZnl0X096Q3N6dTM5TmcyWFVHbmhUOWUwZUJ6bzI4NFZjckFXOTZtdFFySFZtVGFTZFRFbzNLdWFKUXV3Zk41WEd0RVRzSy1jTi1vNS1R?oc=5",
    "date": "2026-07-04T17:41:56+00:00",
-   "summary": "Assembly Lab | مراجعة سريعة قبل الانتقال للمواضيع الكبيرة youtube.com",
+   "summary": "Assembly Lab | مراجعة سريعة قبل الانتقال للمواضيع الكبيرة YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -417,10 +427,10 @@
    "title": "تعلم لغة التجميع بالعربي من الصفر | الدرس الثالث | كتابة أول برنامج",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMUXc0dHEzUUV4ZUhDYkhzMWpEQnpTMzFMdTlOUGZGNlA4b2dfQnNLSFY4cXBlMGh4N2RUQUhCc09HclA2a0RCY29FaS1MeDFUOHNwdXdn?oc=5",
    "date": "2026-02-06T14:00:00+00:00",
-   "summary": "تعلم لغة التجميع بالعربي من الصفر | الدرس الثالث | كتابة أول برنامج youtube.com",
+   "summary": "تعلم لغة التجميع بالعربي من الصفر | الدرس الثالث | كتابة أول برنامج YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -597,10 +607,10 @@
    "title": "شرح اسمبلي للمهندسة روز (1)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrOW16dHd2NEVfcFVOZVgyeWJVR05HYWV1T0p6ZGptWTZEYzdDcndSdUNOSkFqdFdNZUpEWFQxNEUtZGpWTWR0ZHRGdURCSTI2RmtvRWlR?oc=5",
    "date": "2025-07-06T04:23:34+00:00",
-   "summary": "شرح اسمبلي للمهندسة روز (1) youtube.com",
+   "summary": "شرح اسمبلي للمهندسة روز (1) YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -627,10 +637,10 @@
    "title": "ASM for Cyber Security - Functions - 0x0D | الاسمبلي للأمن السيبراني - الدوال",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zV2VjYmJsalAxRWFLWWZ6ZHZEcE5DazFyQnA0b1JHbWNGWmJKQzFpa1Z6TGhubU1jRjBXbUpnSFdhZUcwck9jMlR1UW50Rmk2dVhjc093?oc=5",
    "date": "2025-03-09T11:05:03+00:00",
-   "summary": "ASM for Cyber Security - Functions - 0x0D | الاسمبلي للأمن السيبراني - الدوال youtube.com",
+   "summary": "ASM for Cyber Security - Functions - 0x0D | الاسمبلي للأمن السيبراني - الدوال YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -642,6 +652,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "ASM for Cyber Security - The Stack - 0x0C | الاسمبلي للأمن السيبراني - الستاك او المكدس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWblNUdEFjZ0w1ak1ZZzMzZV92SGc0RW16bDdQdW4zMTRYdjlQal9TZFpaaTFLYjRNWV9iclVQMXl3RW5JakJNc0ljZmkzeGczWlg3U3V3?oc=5",
+   "date": "2025-01-30T23:56:35+00:00",
+   "summary": "ASM for Cyber Security - The Stack - 0x0C | الاسمبلي للأمن السيبراني - الستاك او المكدس YouTube",
+   "tech": "assembly",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "FreeCAD 1.0 Assembly in 30 minutes Beginners Crash Course / Tutorial 2025",
@@ -657,10 +677,10 @@
    "title": "لماذا لغة التجميع (Assembly language) هي المناسبة لطالب الهندسة الكهربائيّة ليبدأ بها البرمجة.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pQ3lGalN6ZUtVU3ZSbF9vVERBVDRJZWV5Q0hmaUhjWjhRY0piUjI1enBzcS1TS1pFdzMxR0JmWlQxcFA1dERzVEdOVFRqLW04dDRpbk9R?oc=5",
    "date": "2025-01-16T17:03:58+00:00",
-   "summary": "لماذا لغة التجميع (Assembly language) هي المناسبة لطالب الهندسة الكهربائيّة ليبدأ بها البرمجة. youtube.com",
+   "summary": "لماذا لغة التجميع (Assembly language) هي المناسبة لطالب الهندسة الكهربائيّة ليبدأ بها البرمجة. YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -697,10 +717,10 @@
    "title": "ASM for Cyber Security - Arithmetic - 0x09 - الاسمبلي للأمن السبراني - العمليات الحسابية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYVlWT3YyWTNrSnhkeURkLXNnVzVpM0p3Vi0zV041Q3dBTmtBZ1Vqdi1Vb1JxbkxLTWhHZHRxWUVpdlFwU0RQQWVZZzNVRlhaSjZvVl9B?oc=5",
    "date": "2024-12-17T11:43:44+00:00",
-   "summary": "ASM for Cyber Security - Arithmetic - 0x09 - الاسمبلي للأمن السبراني - العمليات الحسابية youtube.com",
+   "summary": "ASM for Cyber Security - Arithmetic - 0x09 - الاسمبلي للأمن السبراني - العمليات الحسابية YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -717,50 +737,50 @@
    "title": "ASM for Cyber Security - Mnemonics - 0x05 - الاسمبلي للأمن السبراني - تعليمات الآلة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03czZVWVYxVDFYaXdZNHMwWGhwYVNDbnRpZ1RLTlJ2VTgzUkx1b1kwVVZ6enNmWjY1MjhMR2JfTDlOLUNYWXNCTWxZNG0xYXk3WE0zZTN3?oc=5",
    "date": "2024-12-10T16:49:31+00:00",
-   "summary": "ASM for Cyber Security - Mnemonics - 0x05 - الاسمبلي للأمن السبراني - تعليمات الآلة youtube.com",
+   "summary": "ASM for Cyber Security - Mnemonics - 0x05 - الاسمبلي للأمن السبراني - تعليمات الآلة YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "ASM for Cyber Security - LAB Set-up - 0x04 - الاسمبلي للأمن السبراني - إعداد معمل عملي (مختبر)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VUcxOXJUUUQ4cGw2Q2hzRmlONXJRZzNwVUh3b0xIMWd1LU1yN3dNQjRHc2hHZkpHR0NTdzhHUlVhU05NS2FfblV5RjhKbHF1TWQ0ZzBR?oc=5",
    "date": "2024-12-05T22:10:17+00:00",
-   "summary": "ASM for Cyber Security - LAB Set-up - 0x04 - الاسمبلي للأمن السبراني - إعداد معمل عملي (مختبر) youtube.com",
+   "summary": "ASM for Cyber Security - LAB Set-up - 0x04 - الاسمبلي للأمن السبراني - إعداد معمل عملي (مختبر) YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "ASM for Cyber Security - Introduction 0x01 - الاسمبلي للأمن السبراني - مقدمة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQklUN3ljUHJkUVNKMEJCblZqTzh6aDJkN2F6YUl2a0FoNFJXMFppNWlzbXdocjhUdzlWUzhQSk1fb3BZQ3dOUUNWS2NnYm1QQkxUcTJB?oc=5",
    "date": "2024-11-26T15:20:23+00:00",
-   "summary": "ASM for Cyber Security - Introduction 0x01 - الاسمبلي للأمن السبراني - مقدمة youtube.com",
+   "summary": "ASM for Cyber Security - Introduction 0x01 - الاسمبلي للأمن السبراني - مقدمة YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Cracking Software: RE with Ghidra & Assembly for Beginners تكريك البرامج بالهندسة العكسية للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zR2J1S2JLSDBWM0RmOWt0a016d0xXRjRKam9KX0VXdXpkV2s1WmhWdGRsNGNlUFNBZV9xLUViWWlMelhRWFIwMTRJUVRGQWJaQ0JxcDFn?oc=5",
    "date": "2024-11-19T22:48:08+00:00",
-   "summary": "Cracking Software: RE with Ghidra & Assembly for Beginners تكريك البرامج بالهندسة العكسية للمبتدئين youtube.com",
+   "summary": "Cracking Software: RE with Ghidra & Assembly for Beginners تكريك البرامج بالهندسة العكسية للمبتدئين YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "البرمجة بلغة التجميع Assembly | الميكرومراقب PIC16F84A",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUFJNcUc1eW9ZYlRUcTlENkk3WVdIVU5VN3diQ1ZWaDl4TU5MMmRrV1UwdjlPcUFkNE1lWGtxNUpvRlRZeHR0MVk5eWpCOUphdjU3WXF3?oc=5",
    "date": "2024-09-21T15:05:47+00:00",
-   "summary": "البرمجة بلغة التجميع Assembly | الميكرومراقب PIC16F84A youtube.com",
+   "summary": "البرمجة بلغة التجميع Assembly | الميكرومراقب PIC16F84A YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -787,10 +807,10 @@
    "title": "أخيرًا كورس أسمبلي على يوديمي - المادة العلمية كاملة وأسئلة إمتحانات و.....",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ndm1HZ3lOWklaWnpaMUtkZ3Q0UjhXcEUyRDE0MDdQSVMyYjdDeHlNOGJELUlCMEc5R0p6emdvX3FkbmdTRW9Remt0TmVaSFJYVENYYm5R?oc=5",
    "date": "2024-09-09T11:00:59+00:00",
-   "summary": "أخيرًا كورس أسمبلي على يوديمي - المادة العلمية كاملة وأسئلة إمتحانات و..... youtube.com",
+   "summary": "أخيرًا كورس أسمبلي على يوديمي - المادة العلمية كاملة وأسئلة إمتحانات و..... YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -868,6 +888,16 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lYnRoRU85Q3BDUzdCSVdBZWVMSlUtd0pTVFA5MDhSZzM1RG13STBrVHNEZmpMVDNSc1NvUHltQzIxeGRUVzVkbU1GRXpfUHdpb0NHQnJiZl9vdXpBNmVZaW1tdlVtYk9JamY4bkg3bWxQU3N3T2VTYlVfV3g?oc=5",
    "date": "2024-04-09T09:59:46+00:00",
    "summary": "Commodore 64 Assembly Programming Course YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Autodesk Inventor Advanced Assembly Modeling Sneak Peek",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qQlVGU1FpNmRmWFRVWkhsRlJRdFlBbkgxVTR6eW5veVkyOEFaV2Rucml1NE1qaGVzek9sVGsxc0F1V2NJUlY0dE1yRWZIaVNSMDdGcUJn?oc=5",
+   "date": "2024-04-05T11:54:35+00:00",
+   "summary": "Autodesk Inventor Advanced Assembly Modeling Sneak Peek YouTube",
    "tech": "assembly",
    "sourceId": "yt",
    "source": "YouTube",
@@ -957,10 +987,10 @@
    "title": "Microprocessor and Assembly Language | معالجات دقيقة و لغة التجميع | شرح عربي (intel 8086) | هندسة و علوم حاسب الطائف",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxU0thR3pnd3MyWlIzMTVuTUNQNnVCLXhnWjctTFVyTU5UWS0zenhBc2lDWWdyclo2ZWVhWmFnODJLOUVvaXAwZnhVYkRnWjVZcUY3RDdBZlcyOFQtR0sxLUlmM0FQTklpZ1pUWjExUEl4dXBOYTJTTjNETzY?oc=5",
    "date": "2023-05-11T21:20:13+00:00",
-   "summary": "Microprocessor and Assembly Language | معالجات دقيقة و لغة التجميع | شرح عربي (intel 8086) | هندسة و علوم حاسب الطائف youtube.com",
+   "summary": "Microprocessor and Assembly Language | معالجات دقيقة و لغة التجميع | شرح عربي (intel 8086) | هندسة و علوم حاسب الطائف YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -987,10 +1017,10 @@
    "title": "برمجة المتحكمات الدقيقة بلغة التجميع microchip pic18f microcontroler assembly programming mpasm p1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MUdTa29Qd21VUUN5RUt3bjZoanM3VHp4VVVuZXgyTUpVWEdzb0dRYkRxcTZ3aFlSQUNWenh6dHN5OWpRT3dnN1k2aUxzdl9BbjJOOXZ3?oc=5",
    "date": "2023-02-14T12:01:12+00:00",
-   "summary": "برمجة المتحكمات الدقيقة بلغة التجميع microchip pic18f microcontroler assembly programming mpasm p1 youtube.com",
+   "summary": "برمجة المتحكمات الدقيقة بلغة التجميع microchip pic18f microcontroler assembly programming mpasm p1 YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1007,10 +1037,10 @@
    "title": "الجزء الثاني الاجراء في لغة اسمبلي لجمع رقمين وطباعة سلسلة على الشاشة/procedure in assembly language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1leDNWbXBrbnUwT0d1Ql9DVHY1Q3BrRllydEdXeTBwSDNCcEllSHhyZ3UzRHdDZlQyM1Q2ZjB3eVlKbkMxRVlIUlhTWmVzeDlLUDc3YVlR?oc=5",
    "date": "2022-12-22T00:11:06+00:00",
-   "summary": "الجزء الثاني الاجراء في لغة اسمبلي لجمع رقمين وطباعة سلسلة على الشاشة/procedure in assembly language youtube.com",
+   "summary": "الجزء الثاني الاجراء في لغة اسمبلي لجمع رقمين وطباعة سلسلة على الشاشة/procedure in assembly language YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1037,10 +1067,10 @@
    "title": "(24) لغة التجميع - Assembly language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IZ0wybm5VdG4zVDFNVEJvTDRwQ2JoM2FEWm5qMml3SFhmSno3VjZsMTByMUtIckJOSU1BTU81T3NtRERsMXlZVXJoUzFpd2FweVhwTEZ3?oc=5",
    "date": "2022-11-24T19:00:05+00:00",
-   "summary": "(24) لغة التجميع - Assembly language youtube.com",
+   "summary": "(24) لغة التجميع - Assembly language YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1057,10 +1087,10 @@
    "title": "(13) لغة التجميع - Assembly language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeWVhaXZXZThEVG1uam5xdVdka2tlNHhwWFk3Q084STl4M25YNlZhOFdFaUh2RzNuX0hfcmZjUG9ic2k0VGlyMVF4QXk0ckpuOGZERE1n?oc=5",
    "date": "2022-10-13T19:00:08+00:00",
-   "summary": "(13) لغة التجميع - Assembly language youtube.com",
+   "summary": "(13) لغة التجميع - Assembly language YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1117,10 +1147,10 @@
    "title": "كورس كامل لغة الاسمبلي في 40 دقيقة للمبتدئين | كامل بريف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaam9SU2cxNHhHalExelU1Q0pfdklEM1R2ZE9KOVI5cExra0ptTTBsaGpScTMxSmpvcUlQUzNzN1ZmYUJxZ1I1WGF5RGZ3TXg4clNMRml3?oc=5",
    "date": "2022-05-03T16:00:12+00:00",
-   "summary": "كورس كامل لغة الاسمبلي في 40 دقيقة للمبتدئين | كامل بريف youtube.com",
+   "summary": "كورس كامل لغة الاسمبلي في 40 دقيقة للمبتدئين | كامل بريف YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1137,10 +1167,10 @@
    "title": "​كورس المعالجات الدقيقة ولغة التجميع 8086 | المحاضرة الأولى: المعمارية ونظم الأعداد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZTd5UnI5R0ZYWU5IaUVPYkhsR0JJaWdPMHVwNFl4REFCakJtcm1oTkVab1dCWGNwUnFEQWRYSW16Z1VJZk9jdEo1aWZ4WGM3U0VzMFBB?oc=5",
    "date": "2022-04-20T14:18:39+00:00",
-   "summary": "​كورس المعالجات الدقيقة ولغة التجميع 8086 | المحاضرة الأولى: المعمارية ونظم الأعداد youtube.com",
+   "summary": "​كورس المعالجات الدقيقة ولغة التجميع 8086 | المحاضرة الأولى: المعمارية ونظم الأعداد YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1167,20 +1197,20 @@
    "title": "5 -تعلم لغة التجميع - اسمبلي - الجزء الثاني [ loop instruction ]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmbXNEM1MwN3hGUl9ybGtSU0JTNWhGS0RWT1RPbVkxQWxkaEppbkM5NXpBVUZmUml4YXBSNWhSdXhYc2ZlYjFGQzlLTE56anVOOURWSjJR?oc=5",
    "date": "2021-11-28T16:16:46+00:00",
-   "summary": "5 -تعلم لغة التجميع - اسمبلي - الجزء الثاني [ loop instruction ] youtube.com",
+   "summary": "5 -تعلم لغة التجميع - اسمبلي - الجزء الثاني [ loop instruction ] YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "دورة تعلم لغة التجميع - اسمبلي - الجزء الثاني",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GWGdwWTR2dTBlMjRyaWZRVDlyaFRRdzctVDgwTlpiaWpSLWNOcXJ1X0lOcThaQ3ZaZ0Jhd0tjcy1RU0FVdnY3aTBVS190aUJjVk5waElRT0Z4RUdCZENrU2F2YzlQMVh2QV9tV01QWVRGTGt1LUJLQzhnY3o?oc=5",
    "date": "2021-11-18T20:59:14+00:00",
-   "summary": "دورة تعلم لغة التجميع - اسمبلي - الجزء الثاني youtube.com",
+   "summary": "دورة تعلم لغة التجميع - اسمبلي - الجزء الثاني YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1227,20 +1257,20 @@
    "title": "لغة التجميع اسمبلي assembly language للمبتدئين",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSmxGRFdERW5qazlQdkI4d1Q3SV9pLW5RNE8wUUpEWkNldVVmSDBfeXNsYlNMNkVZcWNRVEhQaEwzU3A4SlZhOUt4T0hQVXg0WmxIclRn?oc=5",
    "date": "2021-08-31T17:01:20+00:00",
-   "summary": "لغة التجميع اسمبلي assembly language للمبتدئين youtube.com",
+   "summary": "لغة التجميع اسمبلي assembly language للمبتدئين YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "اول محاضرات المعالجات الدقيقة (لغة الاسمبلي ) برنامج EMU8086 - م.محمود سعيد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNXFvM2h6bkFCRVg2cmo2eXp3SmNyWnQ4SXJxZDJBek5Bak5jYkY0MXBYbk55cHBJU2xTMnctZnNKTHBYN2pvc0NsQ09uWkgxU1hfaUl3?oc=5",
    "date": "2021-07-26T15:19:55+00:00",
-   "summary": "اول محاضرات المعالجات الدقيقة (لغة الاسمبلي ) برنامج EMU8086 - م.محمود سعيد youtube.com",
+   "summary": "اول محاضرات المعالجات الدقيقة (لغة الاسمبلي ) برنامج EMU8086 - م.محمود سعيد YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1267,10 +1297,10 @@
    "title": "1.1- دروس في لغة التجميع الاسمبلي 64 بت. كتابة برنامجك الاول. مرحبا يا لوح.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Z1g5VUl3N3ZWMG1tSTQ1X2xjQVpCSW9uUW9jckZMRUFmZjExdEZFdlhZeExFcTNfZU52VjVjcTlyWURhR3YtelA4Vm9jOTdxWjNNT3R3?oc=5",
    "date": "2021-05-04T14:04:34+00:00",
-   "summary": "1.1- دروس في لغة التجميع الاسمبلي 64 بت. كتابة برنامجك الاول. مرحبا يا لوح. youtube.com",
+   "summary": "1.1- دروس في لغة التجميع الاسمبلي 64 بت. كتابة برنامجك الاول. مرحبا يا لوح. YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1304,6 +1334,16 @@
    "lang": "en"
   },
   {
+   "title": "Assembly Language (24) | Procedure Call and Return instructions أسمبلي مفاهيم أساسية",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sRE1WZTBkVFVha0lFU3NzaWIycjJFT0oyVldrLXdVd190UVVIR2ZROF92N21YeTNhSHd6WDNNbEVBM2wtdVJOeVI1dUxqU1JCWFpSamhB?oc=5",
+   "date": "2021-02-28T20:02:20+00:00",
+   "summary": "Assembly Language (24) | Procedure Call and Return instructions أسمبلي مفاهيم أساسية YouTube",
+   "tech": "assembly",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Bottom Up Assembly Method | SOLIDWORKS BEGINNER | Chapter 03: Lesson 02 | CSWA COURSE",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13dm5lb184d3JWU0F6Ty1wYmtBNW1ocTdlWFgxVjZQS0lxNUFXZndDc1RIODc0MUFCRVdyOGsxYm5leFZXR2dvRmpGTUM1S2tMTHBGOF93?oc=5",
    "date": "2021-02-26T04:17:09+00:00",
@@ -1317,20 +1357,20 @@
    "title": "Assembly Language (23) | PUSH & POP Instructions with Stack with Call & Ret أسمبلي مفاهيم أساسية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rTkE4ektvcnBoZW5SeVdZRk56OXQ1WU5XN3RpUzBiTFM4cS1aRXFYS2JhdTJzOU1QcENkSmF0Mmpac0FyY1pwTTVTczltdHRORkFleGpB?oc=5",
    "date": "2021-02-13T19:00:09+00:00",
-   "summary": "Assembly Language (23) | PUSH & POP Instructions with Stack with Call & Ret أسمبلي مفاهيم أساسية youtube.com",
+   "summary": "Assembly Language (23) | PUSH & POP Instructions with Stack with Call & Ret أسمبلي مفاهيم أساسية YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language (22) | Masm Assembler Basic Statements & Inline Assembler أسمبلي مفاهيم أساسية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LWmp6ZHVCZ2s4NU1SNWpEbF9lUVNsajVyNDVmREpFYTFMNllFbmxVUzRhV0dVN1czLTRmbmd3UDd4aTh5THlXdEVlWFB6b0tOaDYwQkdR?oc=5",
    "date": "2021-02-06T19:54:57+00:00",
-   "summary": "Assembly Language (22) | Masm Assembler Basic Statements & Inline Assembler أسمبلي مفاهيم أساسية youtube.com",
+   "summary": "Assembly Language (22) | Masm Assembler Basic Statements & Inline Assembler أسمبلي مفاهيم أساسية YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1367,31 +1407,21 @@
    "title": "#10 Working with subassemblies - كيفية إدراج أسمبلي داخل أسمبلي آخر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KZ2NfUzdoaGI1MWhmbm9JQ0dmZHg4TFBheGFwQURyNW1ia1NEa3NWVE4yeElWWnFJcnFUU3Z3VEtxaEc0M0k0eHFQSGNsUWp0Y0paRE5R?oc=5",
    "date": "2020-10-09T19:13:14+00:00",
-   "summary": "#10 Working with subassemblies - كيفية إدراج أسمبلي داخل أسمبلي آخر youtube.com",
+   "summary": "#10 Working with subassemblies - كيفية إدراج أسمبلي داخل أسمبلي آخر YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "هيكلية الحاسوب ولغة أسمبلي - Assembly Language",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10TW91M1dRVVZFOGxYVlhCa1l3OXJISWdDaXNKaDJaaHpGaFA0endJNUNHLTRkdDMtX0I0NF90WXFLTGk5QVBCMXc3Xzl0ZzBfMnRhQTlJTlFwVTBBN3JDaXhBMURIQTk5ZFAwM1lPYmhsOVlFNk5YRmZMMF8?oc=5",
    "date": "2020-10-07T04:44:16+00:00",
-   "summary": "هيكلية الحاسوب ولغة أسمبلي - Assembly Language youtube.com",
+   "summary": "هيكلية الحاسوب ولغة أسمبلي - Assembly Language YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "Taste of Training: SOLIDWORKS Large Assembly and Drawing Workshop",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16dHFrMklWdGV0RGNhNm03dVpna0I1WVIxNFI0bFJpQlpIcHRKb2U4M21wWElIb1ljZHJheDlEYzJVYlQ2R0dxc19ZQ2ZhNlNhbDVZQUh3?oc=5",
-   "date": "2020-09-28T20:13:38+00:00",
-   "summary": "Taste of Training: SOLIDWORKS Large Assembly and Drawing Workshop YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "الماكرو بلغة أسمبلي :: Macros in Assembly Language",
@@ -1407,20 +1437,20 @@
    "title": "برنامج بلغة أسمبلي لطباعة قيمة مكررة باستخدام التعليمة LOOP :ء: Using LOOP instruction in assembly",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10RHQxMUV5ZHktb3BkTG4xNjIwSVBENUVaSFdFLXBCZU5VZFVVb0ZjOEtjaHM2amx4SW5HTVU0SGZ5eF9jejhOcXlHZ0JyV0NHSS15T09R?oc=5",
    "date": "2020-09-10T23:24:02+00:00",
-   "summary": "برنامج بلغة أسمبلي لطباعة قيمة مكررة باستخدام التعليمة LOOP :ء: Using LOOP instruction in assembly youtube.com",
+   "summary": "برنامج بلغة أسمبلي لطباعة قيمة مكررة باستخدام التعليمة LOOP :ء: Using LOOP instruction in assembly YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "برنامج بلغة أسمبلي لطباعة سلسلة رمزية على الشاشة :: Printing a string using assembly language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RaXJwbWpkc0ZVcU5mTGtGZWU1LUVHc2V0Wml4OGJPWFNJZ25uNjlZWWpuX0tjRmxmZmcwTURXYWdsWWhOUS1fQTlWVUZLcGd6Tzh3N0Z3?oc=5",
    "date": "2020-09-10T23:05:23+00:00",
-   "summary": "برنامج بلغة أسمبلي لطباعة سلسلة رمزية على الشاشة :: Printing a string using assembly language youtube.com",
+   "summary": "برنامج بلغة أسمبلي لطباعة سلسلة رمزية على الشاشة :: Printing a string using assembly language YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1437,160 +1467,190 @@
    "title": "توضيح الهيكل العام لبرنامج لغة أسمبلي :: General Structure of Assembly Language Program",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41NXRXbldLQXJFT0RLaE5vNGpub2loTEdlRUs1UVdiNEc0NTNJcmFVT3djVVU1Y3Y5SFBPc2F3MVBWTU9Pa1VkU1BEOWVBTHBtc0FZSlp3?oc=5",
    "date": "2020-09-10T22:55:17+00:00",
-   "summary": "توضيح الهيكل العام لبرنامج لغة أسمبلي :: General Structure of Assembly Language Program youtube.com",
+   "summary": "توضيح الهيكل العام لبرنامج لغة أسمبلي :: General Structure of Assembly Language Program YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "شرح وتوضيح لبرنامج Emu8086 محاكي مترجم لغة أسمبلي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1YkpsUFY4VnltaFo3VUxmWFc0OHRCakF2d25WMXllV1hpNlBPQktOWklRT0xKbFM0OGlGeFVIVXBQV3A1VzQ0QXpWM29xYkd0TkNZWUZn?oc=5",
    "date": "2020-09-10T22:48:41+00:00",
-   "summary": "شرح وتوضيح لبرنامج Emu8086 محاكي مترجم لغة أسمبلي youtube.com",
+   "summary": "شرح وتوضيح لبرنامج Emu8086 محاكي مترجم لغة أسمبلي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language (20) | Practical Video Display - Video Ram & Array on EMU 8086 شرح أسمبلي بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5keUd1U0ZKYW1hQ3NqNUpNQ3kyU3F5cXdKMTVmQ3lqQ013Z3Z4TU1sdFZiYlFTTWVDUC00Z2k4WkgyVE9QdDg3dmZMUzFZbkVpRkZuSFVB?oc=5",
    "date": "2020-05-21T23:11:56+00:00",
-   "summary": "Assembly Language (20) | Practical Video Display - Video Ram & Array on EMU 8086 شرح أسمبلي بالعربي youtube.com",
+   "summary": "Assembly Language (20) | Practical Video Display - Video Ram & Array on EMU 8086 شرح أسمبلي بالعربي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "اوامر النقل بلغة الاسمبلي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yMkpTc1hfYnU2b0lMNWQ0SkZ1Mk1hRVRTUzFVNFJlRmlLRW1HTkEwbDIzcXU3MFBTMVBBY0RaSGpPa3Y1WHRPNEtZamdWNHFDU3dsSHZn?oc=5",
    "date": "2020-04-14T12:27:56+00:00",
-   "summary": "اوامر النقل بلغة الاسمبلي youtube.com",
+   "summary": "اوامر النقل بلغة الاسمبلي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language (18) | Conditional Control/Jumps instructions شرح أسمبلي بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUdXFJam1kNjUtdjZQNkNnUE5aZTN6aFBlRndNU3JyMkg5dXVJN1ZfWFlZQ0ExdFJjbjdPTHFFX09TOV9Jcmt5aU85ZmtIcGxfejRNN0RB?oc=5",
    "date": "2020-04-13T15:43:01+00:00",
-   "summary": "Assembly Language (18) | Conditional Control/Jumps instructions شرح أسمبلي بالعربي youtube.com",
+   "summary": "Assembly Language (18) | Conditional Control/Jumps instructions شرح أسمبلي بالعربي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "إحتراف برنامج Civil 3d (Assembly & Corridor)",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oYW4xcFI3MU81dTFuOXlLTk5kVU81UER4UnZ1YXdabXBEV1JrRUhJWFFfd3Z5WUNrU0hMU2g1N3VhZjd1Tzc4UnhMM1FUS0VIbm1rLXdwcGwyOVJobXdIcDdmYWF4YkVsaDhwdHBYU29kdzFqODFOOTdnb1o?oc=5",
    "date": "2020-04-08T20:24:05+00:00",
-   "summary": "إحتراف برنامج Civil 3d (Assembly & Corridor) youtube.com",
+   "summary": "إحتراف برنامج Civil 3d (Assembly & Corridor) YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Assembly Language (17) | Practical Loop, Exchange and Array on EMU8086 شرح أسمبلي بالعربي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WZE14RC1jeFAzeHQ5X2RaYWhId2NXcktjQzdmMnFNd1R2VEV0QjNlY3BLcThQbTNXSTlpOVFVUWVUV3N1SlBuX3ltQmZISU5rdThIXzJn?oc=5",
+   "date": "2020-03-30T15:20:58+00:00",
+   "summary": "Assembly Language (17) | Practical Loop, Exchange and Array on EMU8086 شرح أسمبلي بالعربي YouTube",
+   "tech": "assembly",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language (11) | Practical شرح أسمبلي بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tLXFPa1l5V2tuQmYyNkRzbWR2Y2VYTWVzRmY1eFNsMU96WkFzc09XalRCaVhzNVBocHlnTXA4eW1PVm5MVDZ4SVA3cnVrUV9tdV9MU0xR?oc=5",
    "date": "2020-01-04T20:02:53+00:00",
-   "summary": "Assembly Language (11) | Practical شرح أسمبلي بالعربي youtube.com",
+   "summary": "Assembly Language (11) | Practical شرح أسمبلي بالعربي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "فيديو حل أسئلة العملي مايكروبروسيسور وأسمبلي على برنامج EMU8086",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DeUlyTFpjYWlhWmFlTVVmR3hxbV9yYzJGeE9GZnFWREpnbXlFblJWbUt3M3RkTTVHQ3VHcGdUWjlhVjIzOXV3N2lFbkdpcE1qdWhXdnFn?oc=5",
+   "date": "2019-12-23T19:30:11+00:00",
+   "summary": "فيديو حل أسئلة العملي مايكروبروسيسور وأسمبلي على برنامج EMU8086 YouTube",
+   "tech": "assembly",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language (8) | Arithmetic Instructions شرح أسمبلي بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41UGZCWVZSS0xCSXdZaHhvVk1FNURTMWRqUUNVR3BIZnNRc1U3TWV1YVhvZ1E1UTRqUHlGU2dyVTBMNnBJMnc4dHgzdVNsUERnRTJrcUp3?oc=5",
    "date": "2019-12-07T19:17:45+00:00",
-   "summary": "Assembly Language (8) | Arithmetic Instructions شرح أسمبلي بالعربي youtube.com",
+   "summary": "Assembly Language (8) | Arithmetic Instructions شرح أسمبلي بالعربي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language and Microprocessor 8086 (4) (2) | Memory System شرح أسمبلي بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hdkUzSDhNa2MxdjdSSkZqUUMtcDhVN1k5bHFZYkR2cHRQWkF5aVBQdUZpb0xhOXY0TFVTS19DeXgtRnF0R2JFMWxsLUprWFM5a1ByN0VB?oc=5",
    "date": "2019-10-26T19:49:31+00:00",
-   "summary": "Assembly Language and Microprocessor 8086 (4) (2) | Memory System شرح أسمبلي بالعربي youtube.com",
+   "summary": "Assembly Language and Microprocessor 8086 (4) (2) | Memory System شرح أسمبلي بالعربي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "هيكلية الحاسوب و لغة التجميع اسمبلي - الوحدة الثانية - الجزء 1",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45SFRzbzBDZzVNeFhFckVYOV9ZYkdJVS11TFljaEV6bWtrckg0a0VsSWxNNUx1ekxUVVFHVlZUNHRvX1Bobk5yYzg5bGxkSjM5bFktcnZ3?oc=5",
+   "date": "2019-09-26T15:11:11+00:00",
+   "summary": "هيكلية الحاسوب و لغة التجميع اسمبلي - الوحدة الثانية - الجزء 1 YouTube",
+   "tech": "assembly",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "هيكلية الحاسوب و لغة التجميع اسمبلي - الوحدة الاولى - الجزء 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2WFZCa0gzbE1YdUx4V1V3NWk5bmdUYmVNd09xS3lVb3Y2U1BHWUdfTzN1dUVYSnRfQ0xXQUxKRG5xLVZ0YjlXcWxRZWZnQ3lsaGZ5X25n?oc=5",
    "date": "2019-09-24T19:41:11+00:00",
-   "summary": "هيكلية الحاسوب و لغة التجميع اسمبلي - الوحدة الاولى - الجزء 1 youtube.com",
+   "summary": "هيكلية الحاسوب و لغة التجميع اسمبلي - الوحدة الاولى - الجزء 1 YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language (3) | Computer System - 8086 Microprocessor شرح أسمبلي بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xN3FQcEdtVFMtbEJ4aVlzZTc1aVJqVy15dXFnRkpCYjlrdzZZSGdBNENDUVk1MmtyWXg1VmRXUXJDMm9KT2dEUWhQdFEzVzJWNGF4TFZB?oc=5",
    "date": "2019-09-14T18:56:01+00:00",
-   "summary": "Assembly Language (3) | Computer System - 8086 Microprocessor شرح أسمبلي بالعربي youtube.com",
+   "summary": "Assembly Language (3) | Computer System - 8086 Microprocessor شرح أسمبلي بالعربي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Microprocessor 8086 & Assembly Language Course",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jcmtHNUxPY2xsYW1HYmVxWHlxbnB2TUtMLWlpbzdMa0JVLTFJcHF2WXdXQ2FmWENZM3VtZjAtYlNxSzdubFhNaWFSUzNJbVVuZjd2alJ1MFVWY0JFU0FKbXJjcWdxdWw0WWd5R2Ruam40TUhENV9mNEttdEw?oc=5",
    "date": "2019-09-09T20:24:54+00:00",
-   "summary": "Microprocessor 8086 & Assembly Language Course youtube.com",
+   "summary": "Microprocessor 8086 & Assembly Language Course YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "en"
   },
   {
    "title": "Assembly Language (2) | Data Formats شرح أسمبلي بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96T000MldxcDF0TFQ1VlpoNzg3OUJHUmxNRF84TU9EeWZkRDR3RDRHbVAzQlFVVGNkT1Z0RFBPM2xXbmYyNlVBOXdqX1UxdWszOXBwdWdn?oc=5",
    "date": "2019-09-01T19:07:08+00:00",
-   "summary": "Assembly Language (2) | Data Formats شرح أسمبلي بالعربي youtube.com",
+   "summary": "Assembly Language (2) | Data Formats شرح أسمبلي بالعربي YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "ايه هي لغة الأسمبلي؟ وايه الفرق بينها وبين باقي لغات البرمجة؟ ومين ممكن يهتم بدراستها!!",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vUWtra3daV0FmUlhhV1FVUVRwMlpmUERqSklFUlBabHlTX1NtaVFVUlM3Rk8xOEdqZVVraGtDbGtIbE1mUUotdHBHVTZSSTZ4TmMzVGxR?oc=5",
    "date": "2019-08-28T20:59:06+00:00",
-   "summary": "ايه هي لغة الأسمبلي؟ وايه الفرق بينها وبين باقي لغات البرمجة؟ ومين ممكن يهتم بدراستها!! youtube.com",
+   "summary": "ايه هي لغة الأسمبلي؟ وايه الفرق بينها وبين باقي لغات البرمجة؟ ومين ممكن يهتم بدراستها!! YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "Assembly Language (1) (1) | Numbering Systems شرح أسمبلي بالعربي - الأنظمة العددية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DVE9PVHFxOURvdjJyNm1sTWRSSW1vZnFtU0dlck1KeDFiajd5emZzUEJLZUxoeVdvMFlYSG5DZTh1MVh0d1BZUEVSMWJNLXVTZWxDWE9R?oc=5",
    "date": "2019-08-18T18:46:46+00:00",
-   "summary": "Assembly Language (1) (1) | Numbering Systems شرح أسمبلي بالعربي - الأنظمة العددية youtube.com",
+   "summary": "Assembly Language (1) (1) | Numbering Systems شرح أسمبلي بالعربي - الأنظمة العددية YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "x86 Assembly Language - لغة التجميع - Lecture 1 Part 1\\2",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96UDltVkJwRVhOc2JDMUJYR0pCX2ZkaTdTTG9jMFFaZWdtUWtnQU02LTlnNC1HSTFRV3hmUmhHajNMNHZYSklDSUZHbWpNOGcwbUxxMkZR?oc=5",
    "date": "2014-11-28T04:40:18+00:00",
-   "summary": "x86 Assembly Language - لغة التجميع - Lecture 1 Part 1\\2 youtube.com",
+   "summary": "x86 Assembly Language - لغة التجميع - Lecture 1 Part 1\\2 YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   }
  ]

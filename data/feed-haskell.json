@@ -1,14 +1,69 @@
 {
- "generated": "2026-08-19T05:14:04.566937+00:00",
+ "generated": "2026-08-20T05:19:09.296185+00:00",
  "tech": "haskell",
  "count": 109,
  "items": [
+  {
+   "title": "Why Elm, and How I'm Learning It in the Age of AI Agents",
+   "url": "https://dev.to/foreverlovewisdom/why-elm-and-how-im-learning-it-in-the-age-of-ai-agents-1996",
+   "date": "2026-08-19T17:01:32+00:00",
+   "summary": "A Zig video, a GitHub repo that stopped growing on purpose, and a Space Invaders clone — why I picked a functional language this time, and why I'm building instead of reading.",
+   "points": 0,
+   "tech": "haskell",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Going Back to Functional Programming, This Time on Purpose",
+   "url": "https://dev.to/foreverlovewisdom/going-back-to-functional-programming-this-time-on-purpose-2d57",
+   "date": "2026-08-19T16:15:46+00:00",
+   "summary": "I tried Haskell, Elixir, Clojure, and Scala before and it didn't stick. Here's why, and why I'm trying again now that AI writes most of my code.",
+   "points": 0,
+   "tech": "haskell",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know",
+   "url": "https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-5dbp",
+   "date": "2026-08-19T12:51:17+00:00",
+   "summary": "Java devs mastering functional stream operations",
+   "points": 0,
+   "tech": "haskell",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Python Functional Programming: functools Deep Dive",
+   "url": "https://dev.to/qingluan/python-functional-programming-functools-deep-dive-4bl1",
+   "date": "2026-08-19T06:00:55+00:00",
+   "summary": "Python Functional Programming: functools Deep Dive   tags: python, functional, tutorial,...",
+   "points": 0,
+   "tech": "haskell",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Gemini Live API Async Function Calling for Real-Time Voice Agents",
+   "url": "https://dev.to/cheng_zhang_45ee857b979b0/gemini-live-api-async-function-calling-for-real-time-voice-agents-3lon",
+   "date": "2026-08-18T03:40:53+00:00",
+   "summary": "Article Summary   One of the biggest usability problems in real-time voice agents is tool...",
+   "points": 0,
+   "tech": "haskell",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Functional languages are heavily imperative.",
    "url": "https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1",
    "date": "2026-08-17T07:39:18+00:00",
    "summary": "Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.",
-   "points": 8,
+   "points": 10,
    "tech": "haskell",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -180,17 +235,6 @@
    "lang": "en"
   },
   {
-   "title": "Python Functional Programming: functools Deep Dive",
-   "url": "https://dev.to/qingluan/python-functional-programming-functools-deep-dive-4k04",
-   "date": "2026-07-30T10:00:04+00:00",
-   "summary": "Python Functional Programming: functools Deep Dive   tags: python, functional, tutorial,...",
-   "points": 0,
-   "tech": "haskell",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The Role of Haskell in H-E-B's…",
    "url": "https://dev.to/norviktech/the-role-of-haskell-in-h-e-bs-1hge",
    "date": "2026-07-20T01:05:41+00:00",
@@ -330,17 +374,6 @@
    "lang": "en"
   },
   {
-   "title": "Writing more readable parsers in Haskell using keep and skip from elm/parser",
-   "url": "https://dev.to/dwayne/writing-more-readable-parsers-in-haskell-using-keep-and-skip-from-elmparser-322j",
-   "date": "2026-04-16T14:43:44+00:00",
-   "summary": "It shows how thinking in terms of keep and skip can make your Haskell parsers easier to read and write.",
-   "points": 0,
-   "tech": "haskell",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "My 14-Year Journey Away from ORMs — Insights Leading to Creation of a SQL-First Code Generator",
    "url": "https://medium.com/@nikita.y.volkov/my-14-year-journey-away-from-orms-how-i-built-pgenie-the-sql-first-postgres-code-generator-de29d1edc283?source=rss------haskell-5",
    "date": "2026-04-14T10:03:20+00:00",
@@ -348,39 +381,6 @@
    "tech": "haskell",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator",
-   "url": "https://dev.to/nikitavolkov/my-14-year-journey-away-from-orms-how-i-built-pgenie-the-sql-first-postgres-code-generator-5c3j",
-   "date": "2026-04-14T09:47:03+00:00",
-   "summary": "Story about how I went from shipping a popular ORM in 2012… to throwing it all away… to realizing that the database itself should be the single source of truth.",
-   "points": 2,
-   "tech": "haskell",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why JS/TS Is Not a Functional Language (And Why It Matters)",
-   "url": "https://dev.to/divide_/why-jsts-is-not-a-functional-language-and-why-it-matters-1hp8",
-   "date": "2026-04-13T21:44:12+00:00",
-   "summary": "This post grew out of two years of interviewing JS/TS engineers. I'm genuinely interested in...",
-   "points": 1,
-   "tech": "haskell",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why I Built PureMyHA: A Lightweight MySQL 8.4 HA Manager in Haskell",
-   "url": "https://dev.to/ikaro1192/why-i-built-puremyha-a-lightweight-mysql-84-ha-manager-in-haskell-2ood",
-   "date": "2026-04-08T13:45:11+00:00",
-   "summary": "TL;DR    What is it? PureMyHA is a lightweight, asynchronous High Availability manager built...",
-   "points": 0,
-   "tech": "haskell",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -421,6 +421,16 @@
    "tech": "haskell",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "[Haskell'25] A Tale of Two Lambdas: A Haskeller's Journey into OCaml",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50MEFZaVJLLURVRGl5UWd6ZDFUd1VWSEpnOEQxZm1xRW8zQ084X2wtQnRGOU52Rkk4UDU2aUlqV3NvYjUzcjF0Q3NYcktkMDd5TWJDSWJ3?oc=5",
+   "date": "2025-12-05T13:49:19+00:00",
+   "summary": "[Haskell'25] A Tale of Two Lambdas: A Haskeller's Journey into OCaml YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -744,6 +754,16 @@
    "lang": "en"
   },
   {
+   "title": "Haskell Course - Lesson 17 - Semigroup and Monoid",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15MF9kTnFBQkpWQVRWM0VCbHVJb0RIczN0eFBNQXY3T2xsZDgwUjFhNUVrQmZJQ2tmMTV5a2Z6cGxCR2c1dk9CSFFCT2huTE1velJBTElB?oc=5",
+   "date": "2024-02-23T17:40:16+00:00",
+   "summary": "Haskell Course - Lesson 17 - Semigroup and Monoid YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Haskell Programming Walkthrough",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yYWMxYmZBYjduWjJGaURGVW5LMHlpQ0RvQkswcEcwTHFadDA4eWp6TnI5X1oza1lweEQzSTNVcVNCT1FIb2c1VTV5TTBaQW5PbEw2Tm13?oc=5",
    "date": "2024-02-18T17:00:43+00:00",
@@ -848,6 +868,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55N0xqVWF0RDJtQ3RUXzNTRV83S05GZHBxbkRyVzJsbDc2eUY0SUcwTFl3aFpsYmVNUXhBWkxsWWRjdVp3NlVSS0MxaGdZUlJtU2dtcEhB?oc=5",
    "date": "2023-07-08T14:00:08+00:00",
    "summary": "Introduction to Haskell - Part 11 (Applicative Functors) YouTube",
+   "tech": "haskell",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Haskell Course - Lesson 12 - Installing Haskell Locally",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1INDg2c1Iyd2phMmpPLXppUDRISVhBd0RfdkpTSHBSMDhRbG5XQ0dLYVBLRmlaaXdhdm5aYm11cmpCd2hPYWZyS1JOeHp4UzFWbE5zTDhR?oc=5",
+   "date": "2023-05-30T14:23:53+00:00",
+   "summary": "Haskell Course - Lesson 12 - Installing Haskell Locally YouTube",
    "tech": "haskell",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1074,53 +1104,23 @@
    "lang": "en"
   },
   {
-   "title": "Haskell - Tutorial 6 - Functors, Applicative, Monads and Monoids",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ka3Nhd3hJZ2RIcWpJS1ZpVFk3ZVVPRzF5UVVmNE9tekRXZkl1SDI1Tl84bHJ4amNvZ0xHZnFZN1NhY29JRE40OU5IZ3RJWHptS2VmdHRR?oc=5",
-   "date": "2020-10-11T08:00:03+00:00",
-   "summary": "Haskell - Tutorial 6 - Functors, Applicative, Monads and Monoids YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Haskell - Tutorial 5 - Folding",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RNzluNWtGYXpFbUxXU2dJV1NReUNaYXFJOXNTTWpZVk56VGQ4blZVNEQ2UHA5SGd6T3A4VkRuMmIxaTJFMlhhd0RyUXBwMGl4Szljb2lR?oc=5",
-   "date": "2020-10-09T08:00:06+00:00",
-   "summary": "Haskell - Tutorial 5 - Folding YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Haskell - Tutorial 3 - Data Types",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LQW1jdUdNR1lFMGo3VzR0dlY1czlTbHBaSXNTLWtkeHF1dVBIb2lJTXlQR2NIcGNldmFRZ0pBT3Fxd3NTUVhWOFdMaHY0c1hOYkpYUmpB?oc=5",
-   "date": "2020-10-05T08:00:02+00:00",
-   "summary": "Haskell - Tutorial 3 - Data Types YouTube",
-   "tech": "haskell",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Functional Programming in Haskell دورة دروس في لغة البرمجة اﻹقترانية الوظيفية هاسكل",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JblVHVnRtOVVTOUVuWFdkd05tVEctb0M3YnZ6ajJjS2t5TzlnQTB3ZFlEbUExdTJnZTMzazJPb1RMbTVncTRob2ZvYW9hcXVqV21CRlpvQUd6amI4UjRkRlg2V2R2WWQxeVQ2Q1JQQVNES1lDRzVjQU1LeXQ?oc=5",
    "date": "2019-01-23T10:19:57+00:00",
-   "summary": "Functional Programming in Haskell دورة دروس في لغة البرمجة اﻹقترانية الوظيفية هاسكل youtube.com",
+   "summary": "Functional Programming in Haskell دورة دروس في لغة البرمجة اﻹقترانية الوظيفية هاسكل YouTube",
    "tech": "haskell",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "1.1-دورة دروس لغة هاسكل. كل ما تحتاجه هو حساب لامبدا",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZVZIY2dfeGNwRThoeDN2bzE0NUlMTHRuMjZ6Q3F1aG5DcDlscUs2TEdpcDFuMDlBQWxua3E5S1JGVnZaZVdKVzhoMnFidTM0UVZ6WmJn?oc=5",
    "date": "2019-01-23T09:30:00+00:00",
-   "summary": "1.1-دورة دروس لغة هاسكل. كل ما تحتاجه هو حساب لامبدا youtube.com",
+   "summary": "1.1-دورة دروس لغة هاسكل. كل ما تحتاجه هو حساب لامبدا YouTube",
    "tech": "haskell",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   }
  ]

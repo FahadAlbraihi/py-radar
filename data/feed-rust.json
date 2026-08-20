@@ -1,8 +1,118 @@
 {
- "generated": "2026-08-19T04:58:21.339492+00:00",
+ "generated": "2026-08-20T05:03:19.899159+00:00",
  "tech": "rust",
- "count": 116,
+ "count": 117,
  "items": [
+  {
+   "title": "Rust has 1,332 vulnerability advisories for every open-source scanner. Dart has zero scanners.",
+   "url": "https://dev.to/hamelin123/rust-has-1332-vulnerability-advisories-for-every-open-source-scanner-dart-has-zero-scanners-1p49",
+   "date": "2026-08-20T03:38:49+00:00",
+   "summary": "We keep hearing that dependency scanning is a solved problem — pick a tool, wire it into CI, done....",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Bug I Shipped, Then Had to Fix Myself: Disabling proton-pass-cli's Keyring on Android",
+   "url": "https://dev.to/gouranga-das-khulna/the-bug-i-shipped-then-had-to-fix-myself-disabling-proton-pass-clis-keyring-on-android-4l73",
+   "date": "2026-08-20T02:47:44+00:00",
+   "summary": "A little over a week after proton-pass-cli merged into termux-packages, I was still riding the high...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
+   "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
+   "date": "2026-08-20T01:56:59+00:00",
+   "summary": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Testing the claim: a degraded-link matrix as a required CI gate",
+   "url": "https://dev.to/karma0/testing-the-claim-a-degraded-link-matrix-as-a-required-ci-gate-4edm",
+   "date": "2026-08-19T21:04:51+00:00",
+   "summary": "This is a writeup of building a required CI gate for degraded-network behavior. The system under test...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Bun rewrite proves 'never rewrite from scratch' was always a cope",
+   "url": "https://dev.to/adioof/the-bun-rewrite-proves-never-rewrite-from-scratch-was-always-a-cope-4iog",
+   "date": "2026-08-19T19:24:10+00:00",
+   "summary": "In just 11 days, 64 AI agents successfully ported roughly 535,000 lines of Zig code to Rust. It...",
+   "points": 3,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building an AI-Powered Security TUI with Rust and MCP",
+   "url": "https://dev.to/owaspblt/building-an-ai-powered-security-tui-with-rust-and-mcp-oj9",
+   "date": "2026-08-19T16:05:15+00:00",
+   "summary": "Picking up where I left off   In my midterm update, I introduced the two main parts I was...",
+   "points": 1,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Sandboxed Code Evaluation for AI-Generated Outputs — How I Built SafeCode Arena",
+   "url": "https://dev.to/flipslidersand/sandboxed-code-evaluation-for-ai-generated-outputs-how-i-built-safecode-arena-1468",
+   "date": "2026-08-19T15:31:13+00:00",
+   "summary": "AI code verification with \"AI\"",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cockpit for Claude Code agents in Rust – a new UI for AI workflow con…",
+   "url": "https://dev.to/felipejac/cockpit-for-claude-code-agents-in-rust-a-new-ui-for-ai-workflow-con-4ehp",
+   "date": "2026-08-19T13:42:58+00:00",
+   "summary": "Learn how a Rust‑based cockpit for Claude Code agents can streamline your AI‑agent workflows, improve debugging, and boost productivity for production bui…",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TurboVec: How to Use Google's TurboQuant for Faster Vector Search in Rust",
+   "url": "https://dev.to/adilaidev/turbovec-how-to-use-googles-turboquant-for-faster-vector-search-in-rust-2maj",
+   "date": "2026-08-19T12:17:05+00:00",
+   "summary": "A hands-on guide to implementing TurboQuant in Rust for efficient vector search, with benchmarks and practical tips from real-world use.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Built a Lightweight Macro Recorder in Rust (Mostly with an AI Agent)",
+   "url": "https://dev.to/blackixxce12/i-built-a-lightweight-macro-recorder-in-rust-mostly-with-an-ai-agent-27f4",
+   "date": "2026-08-19T09:01:37+00:00",
+   "summary": "I got tired of closed-source macro tools. Most of them store macros in binary formats, have poor DPI...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "I built a static + runtime security scanner for MCP servers (Rust)",
    "url": "https://dev.to/zaydmulani09/i-built-a-static-runtime-security-scanner-for-mcp-servers-rust-4498",
@@ -224,39 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "I'm an AI maintainer. This month, strangers checked my work.",
-   "url": "https://dev.to/navigatorbuilds/im-an-ai-maintainer-this-month-strangers-checked-my-work-139n",
-   "date": "2026-08-17T21:36:34+00:00",
-   "summary": "Written by Elara, the AI maintainer of Elara Protocol, and published under the account of Nenad...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Detecting Duplicate Python Code Is Harder Than Comparing Text",
-   "url": "https://dev.to/spongeb0b/detecting-duplicate-python-code-is-harder-than-comparing-text-3hdo",
-   "date": "2026-08-17T16:59:54+00:00",
-   "summary": "Detecting Duplicate Python Code Is Harder Than Comparing Text   The hard part isn't finding...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Coding Agent Can Read the Code—but Can It See the App Fail?",
-   "url": "https://dev.to/akosidencio/your-coding-agent-can-read-the-code-but-can-it-see-the-app-fail-49dc",
-   "date": "2026-08-17T14:52:44+00:00",
-   "summary": "TailFlow gives coding agents access to live local runtime evidence through MCP, a CLI, a TUI, and a web dashboard.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Meet the Programmer Who Scaled a Pizza Restaurant Into an International Company",
    "url": "https://hackernoon.com/meet-the-programmer-who-scaled-a-pizza-restaurant-into-an-international-company?source=rss",
    "date": "2026-08-17T14:31:47+00:00",
@@ -264,83 +341,6 @@
    "tech": "rust",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Noroboto: Lying Fonts and Rust Mitigation — A Technical Read Without the Hype",
-   "url": "https://dev.to/jtorchia/noroboto-lying-fonts-and-rust-mitigation-a-technical-read-without-the-hype-4gaa",
-   "date": "2026-08-17T14:30:31+00:00",
-   "summary": "Fonts lie. Noroboto documents how the text subsystem can return incorrect metrics and proposes mitigations in Rust. Before you copy it into production, you need to understand what problem it actually solves, where the co",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "From 7MB to 52KB: My WebAssembly Size Optimization Journey",
-   "url": "https://dev.to/cdieck88/from-7mb-to-52kb-my-webassembly-size-optimization-journey-3oah",
-   "date": "2026-08-17T10:03:38+00:00",
-   "summary": "The problem   I built an HTML-to-Markdown converter that runs entirely in the browser via...",
-   "points": 3,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Single-Process Architecture in Rust: Why We Rejected Microservices for an Edge AI Platform",
-   "url": "https://dev.to/mingming_shen_85ea2348fec/single-process-architecture-in-rust-why-we-rejected-microservices-for-an-edge-ai-platform-3he6",
-   "date": "2026-08-17T09:50:56+00:00",
-   "summary": "Microservices are the default for new projects — but they fall apart at the edge. Here's how we built a single-process Rust platform that outperforms an 8-container stack on a Raspberry Pi.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "\"I built a lying MCP server on purpose — here's how you catch it\"",
-   "url": "https://dev.to/wolfejam/i-built-a-lying-mcp-server-on-purpose-heres-how-you-catch-it-102g",
-   "date": "2026-08-17T05:06:18+00:00",
-   "summary": "TL;DR — A server's README can say anything. Its tools/list response either backs that up or it...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ARTF is a gRPC hop. VAST is a different one.",
-   "url": "https://dev.to/aleksuix/artf-is-a-grpc-hop-vast-is-a-different-one-5e4",
-   "date": "2026-08-17T00:57:37+00:00",
-   "summary": "ARTF mutates OpenRTB. The creative in adm is VAST. vastlint-grpc puts the same catalog on the pipeline that already speaks protobuf.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "We catalogued 55+ AI-agent failures in low-level code — and shipped 124 verified skills to fix them",
-   "url": "https://dev.to/trothbyte/we-catalogued-55-ai-agent-failures-in-low-level-code-and-shipped-124-verified-skills-to-fix-them-369l",
-   "date": "2026-08-16T22:26:06+00:00",
-   "summary": "A source-traced catalog of how AI coding agents fail at C, C++, Rust, and assembly — and a 124-skill library that fixes exactly those failures.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The 22 Rust errors every beginner hits, in the order they hit them",
-   "url": "https://dev.to/yetmike/the-22-rust-errors-every-beginner-hits-in-the-order-they-hit-them-13gi",
-   "date": "2026-08-16T20:50:35+00:00",
-   "summary": "Rust's compiler is the best teacher in the language and almost nobody reads it properly. Below are...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -617,10 +617,10 @@
    "title": "البرمجة بلغة rust ، مقدمة سريعة عنها",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlQXhSSjZDX0l3eGhoYkQ5bVdDU0R6RGVGeUR1QWxXc0w0QlBrTENDUUt5dEo5dG1MWEc0UkhhLUJJd1hUbzBIMDB1c0o4eXFWdFJxNA?oc=5",
    "date": "2025-10-07T07:00:00+00:00",
-   "summary": "البرمجة بلغة rust ، مقدمة سريعة عنها youtube.com",
+   "summary": "البرمجة بلغة rust ، مقدمة سريعة عنها YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -757,10 +757,10 @@
    "title": "لغة راست في 5 دقائق | Rust in 5 mins (Arabic) 🧡",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMMkVEOXVoY01ESnpEd0otWFE0cUNzR0QwQVE0TmpYckdyQWk3Q3VmeEt1VGFlbllYQ2xIb1AwVHROZFpHNFNDYjN3MVBkTHVfQndpZkJB?oc=5",
    "date": "2025-03-11T15:58:15+00:00",
-   "summary": "لغة راست في 5 دقائق | Rust in 5 mins (Arabic) 🧡 youtube.com",
+   "summary": "لغة راست في 5 دقائق | Rust in 5 mins (Arabic) 🧡 YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -857,10 +857,10 @@
    "title": "تعلم لغة Rust - الجزء الأول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBib0YzM3RYQS1hZ2k4cTBsdzVMWmxiM2EtSnpYWkxhRGVQeUdXTm5YeC04VzZ3TTZiWG1hcEk2WVF3YlVBSFhmVWl1Y0ZWTFp2YXZsbkdB?oc=5",
    "date": "2024-09-21T12:40:58+00:00",
-   "summary": "تعلم لغة Rust - الجزء الأول youtube.com",
+   "summary": "تعلم لغة Rust - الجزء الأول YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1084,20 +1084,20 @@
    "lang": "en"
   },
   {
-   "title": "How to create website in Rust using HTML & CSS | Rust Tutorial -52 | Dr Vipin Classes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yYjNuTnFKYlBZb0pBdGVhaUF4TzBnNkVZWS1qanNkbGQtNXJOYkg5TEZOcjBJWEFKQ0ViZnFfQWRXY2M3OXBkR0xIeUNqY2FFWmNiYVB3?oc=5",
-   "date": "2024-03-03T14:44:08+00:00",
-   "summary": "How to create website in Rust using HTML & CSS | Rust Tutorial -52 | Dr Vipin Classes YouTube",
+   "title": "Read CSV File in Rust | Rust Tutorial -49 | Dr Vipin Classes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MMmc5am5iZTFIbzFmMkJfVnhjenlsYXJGWjluM2dsamNpN244Z2dCOWxkRW9oa0g5UjVyZWp1Sks2MWt6Y2JXT00zaUd2ZWxDbjdvWVJB?oc=5",
+   "date": "2024-03-07T15:45:19+00:00",
+   "summary": "Read CSV File in Rust | Rust Tutorial -49 | Dr Vipin Classes YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
   {
-   "title": "Creating File in Rust | Rust Tutorial -40 | Dr Vipin Classes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcWJjOXEyckFVUm9TRm01UVBXdWtnNG5Gb1pJd1JSaXREbmhOUFF2SUtYbzg2MFdUQzJxdjJKMk11cm11X0ZuZ181VVR5OHpTdTVRUXF3?oc=5",
-   "date": "2024-02-21T15:33:57+00:00",
-   "summary": "Creating File in Rust | Rust Tutorial -40 | Dr Vipin Classes YouTube",
+   "title": "How to create website in Rust using HTML & CSS | Rust Tutorial -52 | Dr Vipin Classes",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yYjNuTnFKYlBZb0pBdGVhaUF4TzBnNkVZWS1qanNkbGQtNXJOYkg5TEZOcjBJWEFKQ0ViZnFfQWRXY2M3OXBkR0xIeUNqY2FFWmNiYVB3?oc=5",
+   "date": "2024-03-03T14:44:08+00:00",
+   "summary": "How to create website in Rust using HTML & CSS | Rust Tutorial -52 | Dr Vipin Classes YouTube",
    "tech": "rust",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1137,50 +1137,60 @@
    "title": "لغة برمجة تبني بيها لغات برمجة.🌟 لغة Rust",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BUFNJU0ZjZHVVYzZFbTMzdGxPMmdoWDhGdnVMLWF0cTZUWVEzWlBnM3JXSkNXVGJlYUpDTXk4b0EtSnMzUVJHbEhRS25JOTFsck1GXw?oc=5",
    "date": "2023-04-13T15:13:04+00:00",
-   "summary": "لغة برمجة تبني بيها لغات برمجة.🌟 لغة Rust youtube.com",
+   "summary": "لغة برمجة تبني بيها لغات برمجة.🌟 لغة Rust YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الجديدة !!😯أحدث ديكور 2023 رست إفكت ديكور بمظهر الصدأ روعه #شركه_المسك_للديكور",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9paTh0X1hXSzZYeHBFRUdCVDBEMUIwM0xHeU1kT3l0MEZuVDB6UU53UzhmYTRGV1E5VGEzNEw5U1RFT0F3SXZWdGs5MElhS3VHUmR4emRR?oc=5",
+   "date": "2023-03-17T18:45:57+00:00",
+   "summary": "الجديدة !!😯أحدث ديكور 2023 رست إفكت ديكور بمظهر الصدأ روعه #شركه_المسك_للديكور YouTube",
+   "tech": "rust",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "كورس اساسيات لغة البرمجة راست 🦀 Rust 🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTmJVTFFLcWF1NENvOHhvLUlfaW9tNnV4ZzMxQklhbVN0RjFHQ2lzb0VtYzVDbFdRbk1lemhrYUVVY2owbW1EVkwzZHFET19NSWJXM3V3?oc=5",
    "date": "2022-05-12T17:55:43+00:00",
-   "summary": "كورس اساسيات لغة البرمجة راست 🦀 Rust 🔥 youtube.com",
+   "summary": "كورس اساسيات لغة البرمجة راست 🦀 Rust 🔥 YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "لغة الرست - part2 - تثبيت وبدء البرمجة بلغة رست",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EeWhKbl85V1RPM0VSTEk0ZURudUp3UHZHUXluYXhkTFRuRUVKUjlWZE51c2VGekY1dDkwbEFybEc3VW9fdllKMGtQZmJ0QVpjcWF0VGF3?oc=5",
    "date": "2022-03-31T10:00:03+00:00",
-   "summary": "لغة الرست - part2 - تثبيت وبدء البرمجة بلغة رست youtube.com",
+   "summary": "لغة الرست - part2 - تثبيت وبدء البرمجة بلغة رست YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "خمسة برمجة - ماهي لغة RUST استخدامتها - مميزاتها وهل هي افضل من GO ؟ + مصادر تعليمية @GeekHood",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NMzV0NkpFb09CZzRqajkxT0xKVDJNN3liV3psZHdjLUZCOW1TSlhGWmVzZ0RRR2lCVkdfbk5TU28tTmNNRVI5cmNyLWdMMTVpUjFyT1d3?oc=5",
    "date": "2020-12-27T18:40:00+00:00",
-   "summary": "خمسة برمجة - ماهي لغة RUST استخدامتها - مميزاتها وهل هي افضل من GO ؟ + مصادر تعليمية @GeekHood youtube.com",
+   "summary": "خمسة برمجة - ماهي لغة RUST استخدامتها - مميزاتها وهل هي افضل من GO ؟ + مصادر تعليمية @GeekHood YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
    "title": "نسرق بيوت الناس في راست مع الشباب !! 😱 RUST 🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lMEFvd0I3dnVPbXB4UUxsbU5rZlgyaWkwamFOLXhNRVhCODRsR0c4SlFJMnF1cS1tNDRWVXJHSmNOdF91LXk4TFhjb1ZnVlhoWFBDaGlB?oc=5",
    "date": "2020-06-09T14:59:51+00:00",
-   "summary": "نسرق بيوت الناس في راست مع الشباب !! 😱 RUST 🔥 youtube.com",
+   "summary": "نسرق بيوت الناس في راست مع الشباب !! 😱 RUST 🔥 YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {

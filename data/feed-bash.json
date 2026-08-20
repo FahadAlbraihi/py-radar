@@ -1,8 +1,226 @@
 {
- "generated": "2026-08-19T04:58:51.785071+00:00",
+ "generated": "2026-08-20T05:03:50.573746+00:00",
  "tech": "bash",
- "count": 158,
+ "count": 162,
  "items": [
+  {
+   "title": "How to Fix 'command not found' (Without Reinstalling Everything)",
+   "url": "https://dev.to/systemcraftdev/how-to-fix-command-not-found-without-reinstalling-everything-3am0",
+   "date": "2026-08-20T03:46:32+00:00",
+   "summary": "The shell isn't telling you a program doesn't exist — it's telling you it looked in a specific list of places and didn't find it there. Those are different problems with different fixes.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Env Checker: Find Undefined Environment Variables in Shell Scripts Using Pure Python",
+   "url": "https://dev.to/poolion/env-checker-find-undefined-environment-variables-in-shell-scripts-using-pure-python-3",
+   "date": "2026-08-20T01:59:00+00:00",
+   "summary": "Env Checker: Detect Undefined Environment Variables in Shell Scripts   Shell scripts with...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Como o Windows perdeu Milhões de Usuários",
+   "url": "https://dev.to/rafaelbonilha/como-o-windows-perdeu-milhoes-de-usuarios-45pj",
+   "date": "2026-08-19T22:38:07+00:00",
+   "summary": "Segue de forma constante e contínua o declínio do número de usuários do sistema operacional Windows,...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan",
+   "url": "https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1",
+   "date": "2026-08-19T18:35:28+00:00",
+   "summary": "A rollback plan tells you how to undo an AI change, but not what breaks first when the change stays...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Incremental Backup Using pg_basebackup in PostgreSQL 18",
+   "url": "https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag",
+   "date": "2026-08-19T18:02:06+00:00",
+   "summary": "In this article, I will show how to create a full backup and an incremental backup using...",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem",
+   "url": "https://dev.to/schiff_heimlich/when-disk-space-is-not-disk-space-the-inode-exhaustion-problem-gm4",
+   "date": "2026-08-19T17:04:45+00:00",
+   "summary": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem   You run df -h, everything...",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "1-تختيم 100% || Mortal Shell 2 || البدايه",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WMEJQTjZYOHMzeVlCXzJxbldnZTdmcWtnVVRWd1NyYUZfcDRGbUlaWW5ka1lfVnFZcHZTYXk3VkZqbnZtalhhSU1ZREpYa1h4TlJwMmRB?oc=5",
+   "date": "2026-08-19T15:56:52+00:00",
+   "summary": "1-تختيم 100% || Mortal Shell 2 || البدايه YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results",
+   "url": "https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/",
+   "date": "2026-08-19T15:37:39+00:00",
+   "summary": "We traced a frontier model through fifteen C# refactoring tasks and counted what it reached for. It piped text into interactive commands 468 times. It called git 422 times and sed 392 times. It ran dotnet build 163 times. Across 2,513 tool ",
+   "tech": "bash",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Mastering Unattended Remote Desktop on Wayland: A Modern DevOps Guide",
+   "url": "https://dev.to/lightningdev123/mastering-unattended-remote-desktop-on-wayland-a-modern-devops-guide-22p7",
+   "date": "2026-08-19T13:44:54+00:00",
+   "summary": "Introduction to the Wayland Remote Access Dilemma   For developers and system...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
+   "url": "https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p",
+   "date": "2026-08-19T13:10:14+00:00",
+   "summary": "Most DevOps learning content is made by companies that want you to buy their product, or by course mills that teach the exam. Here are eleven resources run by individuals and small teams, what each is actually good for, ",
+   "points": 16,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need",
+   "url": "https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0",
+   "date": "2026-08-19T12:41:16+00:00",
+   "summary": "A surprising share of \"the app is down\" pages resolve to a name-resolution problem, not a broken...",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your sysctl says one thing, the kernel says another",
+   "url": "https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha",
+   "date": "2026-08-19T05:06:12+00:00",
+   "summary": "You set net.ipv4.ip_forward=1 in /etc/sysctl.conf. You rebooted. The value is still 0.  Nothing is...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "3 Weeks of Silent Backup Failure: Why launchd Can't Write to ~/Documents on macOS",
+   "url": "https://dev.to/bokuwalily/3-weeks-of-silent-backup-failure-why-launchd-cant-write-to-documents-on-macos-4ecm",
+   "date": "2026-08-19T05:00:06+00:00",
+   "summary": "Every Sunday at 6:00 AM, my backup job ran, logged no changes, and exited 0. For three weeks straight...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "UFW and WireGuard: the tunnel is up and nothing goes through",
+   "url": "https://dev.to/ricco020/ufw-and-wireguard-the-tunnel-is-up-and-nothing-goes-through-4lpo",
+   "date": "2026-08-19T03:37:35+00:00",
+   "summary": "The tunnel comes up. wg show prints a recent handshake. The client has its address inside the tunnel....",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A new NetworkManager property broke a decade of headless WiFi scripts",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/a-new-networkmanager-property-broke-a-decade-of-headless-wifi-scripts-3hh8",
+   "date": "2026-08-19T03:27:08+00:00",
+   "summary": "TL;DR: NetworkManager 1.52 (in Trixie) added an autoconnect-ports property. That makes autoconnect-p...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "sysctl -p says it worked. The next reboot disagrees.",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/sysctl-p-says-it-worked-the-next-reboot-disagrees-5eph",
+   "date": "2026-08-19T03:15:10+00:00",
+   "summary": "TL;DR: /etc/sysctl.conf doesn't ship on Raspberry Pi OS Trixie, and if you create it, the thing that...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Pi accepts every memory limit you set and enforces none of them",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pi-accepts-every-memory-limit-you-set-and-enforces-none-of-them-1j6e",
+   "date": "2026-08-19T02:57:41+00:00",
+   "summary": "TL;DR: On stock Raspberry Pi OS the memory cgroup controller is disabled, so docker run...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Unbrick Your Framework Laptop Without Panicking",
+   "url": "https://dev.to/adilaidev/how-to-unbrick-your-framework-laptop-without-panicking-4l70",
+   "date": "2026-08-19T02:13:41+00:00",
+   "summary": "A step-by-step guide to recovering a bricked Framework laptop, covering common causes and proven fixes from hands-on experience.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Pi's 2 GB swap file isn't swap, and no swap command will tell you that",
+   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pis-2-gb-swap-file-isnt-swap-and-no-swap-command-will-tell-you-that-1m3j",
+   "date": "2026-08-19T02:05:53+00:00",
+   "summary": "TL;DR: Raspberry Pi OS Trixie ships rpi-swap instead of dphys-swapfile, defaulting to a zram+file...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The storefronts are coming to Linux: Epic, GOG, and the tipping point",
+   "url": "https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468",
+   "date": "2026-08-18T21:50:54+00:00",
+   "summary": "For most of Linux gaming's history, the story has been the same: Linux users want to play games, game...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Mongodb doesnt work with Linux Kernel 6.19",
    "url": "https://dev.to/ralvaracode/mongodb-doesnt-work-with-linux-kernel-619-3f8e",
@@ -30,6 +248,17 @@
    "url": "https://dev.to/lu1tr0n/basler-rul2048-19gm-escanea-19000-lineas-por-segundo-desde-un-tren-cnd",
    "date": "2026-08-18T14:23:31+00:00",
    "summary": "Un hacker usa la cámara industrial Basler ruL2048-19gm, capaz de leer 19.000 líneas por segundo, para fotografiar el paisaje completo desde un tren o ",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Pitfalls in a Morning Repo Audit: launchd, bash 3.2, and Silent Failures on macOS",
+   "url": "https://dev.to/bokuwalily/5-pitfalls-in-a-morning-repo-audit-launchd-bash-32-and-silent-failures-on-macos-1l2e",
+   "date": "2026-08-18T11:00:11+00:00",
+   "summary": "I got laid off, and my monthly revenue went to zero overnight. All I had left was a handful of...",
    "points": 0,
    "tech": "bash",
    "sourceId": "devto",
@@ -80,10 +309,21 @@
    "lang": "en"
   },
   {
+   "title": "5 Content Lanes, One Watchdog: How I Stopped Wondering If My Automation Still Runs",
+   "url": "https://dev.to/bokuwalily/5-content-lanes-one-watchdog-how-i-stopped-wondering-if-my-automation-still-runs-3fh1",
+   "date": "2026-08-18T05:00:07+00:00",
+   "summary": "Every morning I used to open my logs and ask the same question: did it actually run last night? The...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "A Fleet of Self-Healing EC2 Instances (Built Out of Bash and Spite)",
-   "url": "https://medium.com/@shawnastaff/a-fleet-of-self-healing-ec2-instances-built-out-of-bash-and-spite-f39414583b36?source=rss------bash-5",
+   "url": "https://awstip.com/a-fleet-of-self-healing-ec2-instances-built-out-of-bash-and-spite-f39414583b36?source=rss------bash-5",
    "date": "2026-08-18T04:47:26+00:00",
-   "summary": "How I ran a weeks-long cosmology simulation on cheap, disposable spot instances, and taught the fleet to bring its own dead back to life Continue reading on Medium »",
+   "summary": "How I ran a weeks-long cosmology simulation on cheap, disposable spot instances, and taught the fleet to bring its own dead back to life Continue reading on AWS Tip »",
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
@@ -122,6 +362,17 @@
    "lang": "en"
   },
   {
+   "title": "A 46GB Compressed-Memory Leak RSS Monitoring Can't See — and the 10-Minute Guard That Reclaims It",
+   "url": "https://dev.to/bokuwalily/a-46gb-compressed-memory-leak-rss-monitoring-cant-see-and-the-10-minute-guard-that-reclaims-it-33bc",
+   "date": "2026-08-18T00:00:07+00:00",
+   "summary": "Every automated posting lane on my machine sat at zero for an entire day, and top -o mem swore...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?",
    "url": "https://dev.to/rogeroliveira86/upload-cover-imageno-file-chosenuse-a-ratio-of-1000420-for-best-results-generate-image-cover-2kbc",
    "date": "2026-08-17T23:31:30+00:00",
@@ -143,94 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "Understanding chmod Without Memorizing Numbers",
-   "url": "https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h",
-   "date": "2026-08-17T18:28:18+00:00",
-   "summary": "How Linux file permissions actually work under the hood, why symbolic mode is your best friend, and...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Dangerous Docker Firewall Bypass (And How to Fix It Using UFW)",
-   "url": "https://dev.to/sadaf_botanist/the-dangerous-docker-firewall-bypass-and-how-to-fix-it-using-ufw-59h1",
-   "date": "2026-08-17T16:53:40+00:00",
-   "summary": "Every backend engineer and systems administrator knows the importance of running a solid firewall....",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Run AI-Proposed Shell Commands in a systemd Probe Before You Run Them for Real",
-   "url": "https://dev.to/github_7727/run-ai-proposed-shell-commands-in-a-systemd-probe-before-you-run-them-for-real-2aed",
-   "date": "2026-08-17T16:36:40+00:00",
-   "summary": "Disclosure: This article was prepared as part of MonkeyCode's product outreach. A free model can...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Overview of the RTOS Kernel Project",
-   "url": "https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca",
-   "date": "2026-08-17T16:14:35+00:00",
-   "summary": "In previous tutorial, I've gave you the theoretical background about ARM Cortex-M3/4 processors. In...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built a small AI-native Linux desktop as a PoC",
-   "url": "https://dev.to/johnny_jakobsson_1508441a/i-built-a-small-ai-native-linux-desktop-as-a-poc-4ifc",
-   "date": "2026-08-17T15:54:04+00:00",
-   "summary": "GitHub: https://github.com/Johnny70/ladanaOS  I've been working on Ladana OS for a little over two...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Programming for Cybersecurity: What You Actually Need to Know",
-   "url": "https://dev.to/xyberghost007/programming-for-cybersecurity-what-you-actually-need-to-know-1d99",
-   "date": "2026-08-17T15:36:54+00:00",
-   "summary": "When I first got interested in cybersecurity, I thought it was all about tools. Nmap, Metasploit,...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Automating Nginx Installation on a Fresh Debian Server",
-   "url": "https://dev.to/pranjal-sharma/automating-nginx-installation-on-a-fresh-debian-server-5e1l",
-   "date": "2026-08-17T14:59:16+00:00",
-   "summary": "I started building a small Linux server administration project around managing a Debian VPS from the...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Noroboto: Lying Fonts y mitigación en Rust — lectura técnica sin hype",
-   "url": "https://dev.to/jtorchia/noroboto-lying-fonts-y-mitigacion-en-rust-lectura-tecnica-sin-hype-33k1",
-   "date": "2026-08-17T14:30:25+00:00",
-   "summary": "Las fuentes mienten. Noroboto documenta cómo el subsistema de texto puede devolver métricas incorrectas y propone mitigaciones en Rust. Antes de copiarlo a producción, hay que entender qué problema resuelve, dónde falla ",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Linux Commands, Part 2: grep, awk, and sed — Turning Raw Logs into Answers",
    "url": "https://medium.com/@z3r0secops/linux-commands-part-2-grep-awk-and-sed-turning-raw-logs-into-answers-5a160d17fbb3?source=rss------bash-5",
    "date": "2026-08-17T13:06:08+00:00",
@@ -238,17 +401,6 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time",
-   "url": "https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7",
-   "date": "2026-08-17T11:25:52+00:00",
-   "summary": "If cp or npm install feels impossibly slow in WSL2, crossing the Windows/Linux boundary is the tax — and workloads made of many small operat",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -262,94 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "Writing a Minimal sched_ext Scheduler",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/writing-a-minimal-schedext-scheduler-5b8d",
-   "date": "2026-08-17T08:59:38+00:00",
-   "summary": "How to write a minimal sched_ext scheduler: the four callbacks, the dispatch queue model, and how to build, load and verify it on a current kernel.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish",
-   "url": "https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1",
-   "date": "2026-08-17T06:06:10+00:00",
-   "summary": "Part 1 of 2. This part covers getting a kernel that can actually host virtual machines.             ...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux vs Unix: Which Should You Choose for Development in 2026?",
-   "url": "https://dev.to/vickybuilds/linux-vs-unix-which-should-you-choose-for-development-in-2026-34ia",
-   "date": "2026-08-17T05:01:47+00:00",
-   "summary": "Author: Vicky    [🔹 Profile] vickybuilds on Dev.to             Linux vs Unix: Which Should You Choose...",
-   "points": 5,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Cron Job Exits 0 and Does Nothing: Reading Chrome's Cookie SQLite to Know If a Session Is Actually Alive",
-   "url": "https://dev.to/bokuwalily/your-cron-job-exits-0-and-does-nothing-reading-chromes-cookie-sqlite-to-know-if-a-session-is-3c55",
-   "date": "2026-08-17T05:00:06+00:00",
-   "summary": "An automation job can fail for days without making a single sound. Mine did: one Instagram lane ran...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Niri Monitors - Mange Connected Monitors",
-   "url": "https://dev.to/xwaleedahmad/niri-monitors-mange-connected-monitors-261g",
-   "date": "2026-08-17T04:44:10+00:00",
-   "summary": "🚀 Excited to share something I've been building: Niri Monitors — an extension for Vicinae that lets...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Four Failures That Made a Weekly launchd Job Actually Run",
-   "url": "https://dev.to/bokuwalily/four-failures-that-made-a-weekly-launchd-job-actually-run-5hhb",
-   "date": "2026-08-17T00:00:07+00:00",
-   "summary": "Every skill my AI setup learns lives in one folder on my laptop — and none of it reaches the repo I...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A green test is not a running reflex, and a running one is not a placed one",
-   "url": "https://dev.to/ilya_mozerov_867dbdd91feb/a-green-test-is-not-a-running-reflex-and-a-running-one-is-not-a-placed-one-2cl2",
-   "date": "2026-08-16T21:07:40+00:00",
-   "summary": "We run about 283 scheduled jobs across a handful of machines. Each one is a shell script...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Fixing Low USB-C Audio on Fedora Linux: My Battle with the Razer Leviathan",
-   "url": "https://dev.to/dannyslee1996/fixing-low-usb-c-audio-on-fedora-linux-my-battle-with-the-razer-leviathan-1bie",
-   "date": "2026-08-16T19:35:00+00:00",
-   "summary": "TL;DR: If you have a Razer Leviathan connected via USB-C on Linux and the volume is incredibly quiet...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Adding Auto-Closing Quotes and Brackets to Bash",
    "url": "https://medium.com/@u.mair/adding-auto-closing-quotes-and-brackets-to-bash-d51d9fa6f2a7?source=rss------bash-5",
    "date": "2026-08-16T19:20:37+00:00",
@@ -357,50 +421,6 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "A Practical Guide to jq in Shell Scripts",
-   "url": "https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6",
-   "date": "2026-08-16T18:01:26+00:00",
-   "summary": "Learn how to use jq effectively in shell programming, including the correct way to pass bash arrays into jq filters.",
-   "points": 5,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs",
-   "url": "https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02",
-   "date": "2026-08-16T11:00:06+00:00",
-   "summary": "Losing your job costs you a paycheck. What I didn't expect was to spend that same afternoon...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90",
-   "url": "https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij",
-   "date": "2026-08-16T05:00:06+00:00",
-   "summary": "\"Claude Code gets smarter the more you use it\" is only half the story. The other half is that it gets...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why GNU/Linux Isn't for Everyone - and That's a Good Thing",
-   "url": "https://dev.to/aiflux/why-gnulinux-isnt-for-everyone-and-thats-a-good-thing-44ba",
-   "date": "2026-08-15T21:10:47+00:00",
-   "summary": "We have been hearing \"Linux is ready for the desktop\" for twenty years. Maybe the question is the...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -537,10 +557,10 @@
    "title": "Free linux server جوجل كلاود شيل للمبتدئين Google Cloud Shell",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNC14UFlXZ3BzeUxxeDF1YWljeDNTYzBDYldHLW0zSTlRUXhUbkI4R3FxcU05Zm1UR0VyR2hZM3U3LVROUm1XVzI2Z3ltOUR6bDJxLTdR?oc=5",
    "date": "2026-04-01T20:37:26+00:00",
-   "summary": "Free linux server جوجل كلاود شيل للمبتدئين Google Cloud Shell youtube.com",
+   "summary": "Free linux server جوجل كلاود شيل للمبتدئين Google Cloud Shell YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -677,10 +697,10 @@
    "title": "معرفة موقع Shodan واستخدامه في سطر الأوامر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vd3ZzZk1CWmNJQktwckhGVXRnaUtxYmFmdko3MXh4NUtwSzhIdzRLOHJ3ZHNzUWsyRHgyc3lEWDk3UW9CbUlVRG1OTkw4MmROR0JGd3lR?oc=5",
    "date": "2025-07-12T18:30:33+00:00",
-   "summary": "معرفة موقع Shodan واستخدامه في سطر الأوامر youtube.com",
+   "summary": "معرفة موقع Shodan واستخدامه في سطر الأوامر YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -697,10 +717,10 @@
    "title": "البدء مع برنامج Terminal على توزيعة LinuxMint",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LY0ZlYUlCbTNUV2pHd3B0dDFVeUM1MGV5cnRnT0haRVpkTzdTVnJfQ2ozaG5aQlp5bWxvQnp3T0lrMUNVbXBobHN4ajctRHg4YUJ5MjZR?oc=5",
    "date": "2025-06-05T21:00:40+00:00",
-   "summary": "البدء مع برنامج Terminal على توزيعة LinuxMint youtube.com",
+   "summary": "البدء مع برنامج Terminal على توزيعة LinuxMint YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -777,10 +797,10 @@
    "title": "شرح برنامج الترجمة \"Translate Shell\"",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BMTBHb0prZk5fYXloODJERzZueFRMUmJmU2FDMUp0MTQzUW9VY1NiMTJPNUVhX09NQTdXVE0wZER1Y285SWhNUU5CWFI0RExkTXNybnRR?oc=5",
    "date": "2024-10-31T13:00:24+00:00",
-   "summary": "شرح برنامج الترجمة \"Translate Shell\" youtube.com",
+   "summary": "شرح برنامج الترجمة \"Translate Shell\" YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -867,10 +887,20 @@
    "title": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zV053TWNJdU1IZVFXT3JlN2VYYUVZV3ZnUE9ZaGItQXFCejZlTGMyV0duZUFrbGZJUkxybGFnX0hSaG9pd1lMMEw4RWNGOXh1Q01vc1pB?oc=5",
    "date": "2024-03-30T18:00:06+00:00",
-   "summary": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة youtube.com",
+   "summary": "إنشاء أول سكربت Bash - أساسيات لغة باش بسهولة YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الطرفية في لينكس - إنشاء ، مسح الملفات والمجلدات (touch & mkdir & rm)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nWHpuQ2FLU1Y0cmJmcl9NSDlzT1NBTGRwR2VkQXh2VXlGdDVXNVU3bG05N3NlblROQU1rcWJYOUZELUVCLWRhNzl5WnBRWGhEamIwM3Z3?oc=5",
+   "date": "2024-03-18T14:30:21+00:00",
+   "summary": "الطرفية في لينكس - إنشاء ، مسح الملفات والمجلدات (touch & mkdir & rm) YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -917,10 +947,10 @@
    "title": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcnBzci1nTkFoNTR3eGxDd3F1RHlGV1h2WC1LenhVS3ljRVhrTDJuX2IzY3RJaWdRdmZ4ZEpFZERwNHRGYzJsT3AxQkFKc3V2Vmg0bzRn?oc=5",
    "date": "2024-01-24T08:31:18+00:00",
-   "summary": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري youtube.com",
+   "summary": "علاج التهاب الاعصاب الطرفية لمرضي السكري بدون جراحة بالتردد الحراري النبضي يشرحه اد/ محمد يسري YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -957,10 +987,10 @@
    "title": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbXdJbnVuZm5HcGpybEF2MjZFOGF0cnBXTFY3MDZZbHdubkdFS0VXSnFfX2RLb0V6X1NFYzRJSHQ5RFJxWWpVM2JvZklQdTJaV0NkekdR?oc=5",
    "date": "2023-11-02T15:33:53+00:00",
-   "summary": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية youtube.com",
+   "summary": "من القلب للقلب | الدكتور محمد ساهر استشاري أمراض المخ يشرح معنى التهاب الأعصاب الطرفية YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1017,10 +1047,10 @@
    "title": "سطر الأوامر في ويندوز CMD : COPY",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UR2pXTkd0djRQazc0MHJCY1VHVzRWbE4wZTM1Vk1kZzByYkxwS2x1aXdVcWhzMDdGcUtwU2x6ZDdGTTZSSklmWTU1Unl0a3VIcGhOOHB3?oc=5",
    "date": "2023-07-05T16:35:46+00:00",
-   "summary": "سطر الأوامر في ويندوز CMD : COPY youtube.com",
+   "summary": "سطر الأوامر في ويندوز CMD : COPY YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1047,10 +1077,10 @@
    "title": "سطر الأوامر في ويندوز CMD : DIR",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WVA0VVBLZ3NlSkRlcXpwNlc0V2hPcHRGcDRjV3hkVmpEREdUWFJRcWdKdDM0Tkw4RDdZY2lwTEUyS295X1dJV19JUTlnUDBJRFROVlJB?oc=5",
    "date": "2023-07-02T15:26:27+00:00",
-   "summary": "سطر الأوامر في ويندوز CMD : DIR youtube.com",
+   "summary": "سطر الأوامر في ويندوز CMD : DIR YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1072,6 +1102,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "سطر الأوامر لينكس الطرفية ... إنشاء الملفات والمجلدات .. 002",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SN2YzNzZwOVYxc0hFWnJSZ24wQ2pESzVUZkRFMXpPOTlQa2NNRWZ1SHpIc3BSNkl5M2ZhTWpOcEJTUDJ0Um8yVzdCYkFPeEVETDZ2SEx3?oc=5",
+   "date": "2023-05-18T20:59:45+00:00",
+   "summary": "سطر الأوامر لينكس الطرفية ... إنشاء الملفات والمجلدات .. 002 YouTube",
+   "tech": "bash",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Bash Shell Scripting Tutorial | Full Course",
@@ -1127,10 +1167,10 @@
    "title": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HRnh3TmZqYWJvUm9HOXpZNjdEcFlwOUhCMWxmeVNjanYwTFN2cTdYdm9fS2FKQU83bWR5ajVOOXRBSHBZdWtXdk55QXJNMEF3U01FNnh3?oc=5",
    "date": "2022-12-11T18:00:08+00:00",
-   "summary": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure youtube.com",
+   "summary": "اساسيات التمريض | (12) إزاي تركب الكانيولا الطرفية بطريقة احترافية - I.V Cannulation Procedure YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1148,6 +1188,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhbzVoY3R4ekdmNVNSV2FJWXFVeWVLc3Z3WmtWVU9qWnU3LWpFRG0tRlVKVkZTODhpemZtNUU1cnRDaXJ4SmY3MXhTQzMzM1F4NlFIOWN3?oc=5",
    "date": "2022-12-03T21:34:48+00:00",
    "summary": "Passing Arguments to the Script | Shell Scripting Tutorial for Beginners YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How To Write Bash Scripts In Linux - Complete Guide (Part 15 - CRON Jobs)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80ZG9XbThGV0VBeHV6UTJBdDF2Z2FUbmlZX3ZoLW1xV1dSc3E3a0VES08wWXVLQTlQRUxldGpubUFoZ05EUkkzRGdhbVVFSUdjRVZpRklB?oc=5",
+   "date": "2022-11-28T17:45:00+00:00",
+   "summary": "How To Write Bash Scripts In Linux - Complete Guide (Part 15 - CRON Jobs) YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1237,10 +1287,10 @@
    "title": "ما هي Bash",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00MWlaVE80UjFacWtLbU1ocVRYNFlfYy1qaGZtUVJ3NVotX1Q2VTh6MXVPM0VIaXF0SUw0ZWljVXRGMC14bk1UaFJlc1NxWlRDaHJUdHJB?oc=5",
    "date": "2022-10-06T14:00:01+00:00",
-   "summary": "ما هي Bash youtube.com",
+   "summary": "ما هي Bash YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1287,10 +1337,10 @@
    "title": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uWWVRUDVOZDc3cUExUnhDclV1dnl5MUZKMUpRY3VxUndKV1VhYXNfM1ZTaUF5RUQtU2RfcVVUQmJkaDJjNkdrbHpMNGNUMmMwLUVodDNB?oc=5",
    "date": "2022-07-28T18:09:24+00:00",
-   "summary": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮 youtube.com",
+   "summary": "كورس اساسيات التعامل مع Git Bash🔥 في 20 دقيقة فقط 😮 YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1317,10 +1367,10 @@
    "title": "تعريف وتنصيب zsh — [الجزء 1]",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Tdi1YYWRyNU1kM1FIcmxnV3Jkc0pabTh1U0U2a3A2aHJiakNHNkNXNkFlT2VwS3BHZmMyQ1lYOHd3N3hrMUpfd0ktMURUM2ZVS1JRY0pR?oc=5",
    "date": "2022-04-24T20:31:02+00:00",
-   "summary": "تعريف وتنصيب zsh — [الجزء 1] youtube.com",
+   "summary": "تعريف وتنصيب zsh — [الجزء 1] YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1357,10 +1407,10 @@
    "title": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pdzFXdUZvSmR0Vjk1NlZiSVJZbjZYQ3BiQWN4dGFDcHpZX1RlM1c5bUdudWxBbjBZbkZteFp4WURMRWNncmFaM1JJRHl4a3JiUnNqNDln?oc=5",
    "date": "2022-01-20T21:00:56+00:00",
-   "summary": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب youtube.com",
+   "summary": "أشرف قاسم يشرح حالته: أعاني التهاب مزمن في الأعصاب الطرفية بسبب وجود أجسام داخل جسدي تطارد الأعصاب YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1377,10 +1427,10 @@
    "title": "شرح محرر nano لسطر الأوامر في لينكس",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wd19rS1VOZUtTbnEyUm9TLW8teE5ORkVMSDlHSmxKQl9qTG5xNWVMa0pTdGlxS1E3dHl2cktMZXpqMmF1Y3JDZnE4Q0FGaldiNzZPbmhn?oc=5",
    "date": "2022-01-13T19:23:52+00:00",
-   "summary": "شرح محرر nano لسطر الأوامر في لينكس youtube.com",
+   "summary": "شرح محرر nano لسطر الأوامر في لينكس YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1397,10 +1447,10 @@
    "title": "نظم التشغيل المحاضرة السادسة| برمجة لغة c على نظام الكالي لينكس Kali linux | بأستخدام terminal",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENHZ6a0IxOTlsZnZUS1BhN1VqTmtQa1hZbm5IMU5lTTZTNTN0b2QyNWJPWV85ZElFRVQ2UmQzc0ZNTmJ6NUxnS3JqbzhJWmNTNXRoTDR3?oc=5",
    "date": "2021-12-11T06:47:35+00:00",
-   "summary": "نظم التشغيل المحاضرة السادسة| برمجة لغة c على نظام الكالي لينكس Kali linux | بأستخدام terminal youtube.com",
+   "summary": "نظم التشغيل المحاضرة السادسة| برمجة لغة c على نظام الكالي لينكس Kali linux | بأستخدام terminal YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1417,10 +1467,10 @@
    "title": "Remote Terminal Unit (RTU) وحدة الربط الطرفية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CSU91cDNOMlBpaXFvSXJVZ0NjQUN0R2RtZFJHQzdRWEJ4TW5ISW44dDVyNG9DM3NCSl9aY3UwVEZTR2dPUnN6SHNtT2tOUXZhcTNYeG9B?oc=5",
    "date": "2021-11-18T14:11:34+00:00",
-   "summary": "Remote Terminal Unit (RTU) وحدة الربط الطرفية youtube.com",
+   "summary": "Remote Terminal Unit (RTU) وحدة الربط الطرفية YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1447,10 +1497,10 @@
    "title": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QmxnN2lUdy0tVHNLX2NCSUlqY1ZBUFZlT3R1S0wwVWVwR3J6V1hNLVFnakN2X0dhUmlxdEZ0VFlsOUt5a2ZoMGpnZGNuOV96bHZ6VmlR?oc=5",
    "date": "2021-10-29T13:00:12+00:00",
-   "summary": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي youtube.com",
+   "summary": "كيفية الإكثار من نبات العطرشان بالعقلة الطرفية باسهل طريقة شرح عملي YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1527,10 +1577,10 @@
    "title": "شرح تثبيت واستخدام برنامج Windows Terminal",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uYWNaRFN1Q1N1UmVpNFRhQmtKSXVPRlZzWUVVVUFINTY4TFNpS0t5T0dYSW10bXZmcVExOWhheTJpLUdpTkpZNDZTMGh0anQzWlhiMExB?oc=5",
    "date": "2021-02-02T18:00:04+00:00",
-   "summary": "شرح تثبيت واستخدام برنامج Windows Terminal youtube.com",
+   "summary": "شرح تثبيت واستخدام برنامج Windows Terminal YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1567,10 +1617,10 @@
    "title": "شرح سطر الأوامر لنظام لينكس | Linux Terminal",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81WjZfNEpOck5mel9WaXQwbFNKQl9ibzBBTHVGWjhPOHo4Y21QV2ZmQzVHSmplZUNyWVdlclNsaWhyS1FOQUExWGZPNjZMQmdIOWlsZUJn?oc=5",
    "date": "2020-06-11T09:19:20+00:00",
-   "summary": "شرح سطر الأوامر لنظام لينكس | Linux Terminal youtube.com",
+   "summary": "شرح سطر الأوامر لنظام لينكس | Linux Terminal YouTube",
    "tech": "bash",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1578,16 +1628,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UUGJTa0x6SDZLYzJLQWNKWVkwSlpCU0FZUW11akpiUjNPb2laNzRIc0VEYWRqd01Sd1g0NUNZZkpMNm9GRWktU3NBZlBudDNibDFTT3d3?oc=5",
    "date": "2020-05-14T19:35:27+00:00",
    "summary": "Advanced Bash Scripting Tutorial YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Bash Script with Practical Examples | Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82bVRidUZxSzByOGNRbEptbVMtNU94OVlMUG9pZEhLVUIwaUpkUmtXVlZ3TUVfQnNYZnZlNEVqaUJkTVRCM2xmajJfQUExTFNUdVZrSnRB?oc=5",
-   "date": "2020-04-22T13:25:28+00:00",
-   "summary": "Bash Script with Practical Examples | Full Course YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
