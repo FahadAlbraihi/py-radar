@@ -1,8 +1,70 @@
 {
- "generated": "2026-08-20T05:08:00.857511+00:00",
+ "generated": "2026-08-21T05:06:56.406254+00:00",
  "tech": "kotlin",
- "count": 212,
+ "count": 218,
  "items": [
+  {
+   "title": "Device Support Is a Promise, Not a minSdk Number",
+   "url": "https://medium.com/@gsrajeni/device-support-is-a-promise-not-a-minsdk-number-6884a6d47c3c?source=rss------android-5",
+   "date": "2026-08-21T03:12:06+00:00",
+   "summary": "An Android release playbook for deciding which devices you support, what &#x201C;works&#x201D; means, and where to spend a limited test budget. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Optimizing Hermes Agent on Android with Discord",
+   "url": "https://medium.com/@wordok38/optimizing-hermes-agent-on-android-with-discord-5b0db96019ea?source=rss------android-5",
+   "date": "2026-08-21T01:47:09+00:00",
+   "summary": "Turning the Android Hermes Agent into a Repeatable Profiling Workflow Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Architecting a Privacy-First Android App: Why Local-Only Storage is the Only Way",
+   "url": "https://dev.to/haseebthedev0/architecting-a-privacy-first-android-app-why-local-only-storage-is-the-only-way-li7",
+   "date": "2026-08-20T21:51:05+00:00",
+   "summary": "It was the final Friday prayer of Ramadan, and the mosque was packed, shoulder-to-shoulder, in...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Monitor Android Phone Activity Invisibly With Eyezy",
+   "url": "https://grodenfloyd.medium.com/how-to-monitor-android-phone-activity-invisibly-with-eyezy-905742e3b29c?source=rss------android-5",
+   "date": "2026-08-20T21:25:12+00:00",
+   "summary": "This guide walks you through the practical steps of monitoring Android phone activity invisibly without the user knowing. I&#x2019;ll show you&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "What I Learned from 700 Hours of Kotlin",
+   "url": "https://dev.to/gmitch215/what-i-learned-from-700-hours-of-kotlin-3gkl",
+   "date": "2026-08-20T19:19:33+00:00",
+   "summary": "Ported from my blog on August 20, 2026.  While I was working on Kray, I crossed 700 hours of work on...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Seniors Use These 7 Kotlin Features Differently",
+   "url": "https://medium.com/android-alchemy/seniors-use-these-7-kotlin-features-differently-013f7ac916c8?source=rss------android-5",
+   "date": "2026-08-20T17:38:38+00:00",
+   "summary": "The same keywords, wildly different code. Here&#x2019;s what changes after year three. Continue reading on Android Alchemy »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Mau Bikin Aplikasi Android Sendiri? Ini Panduan Lengkapnya untuk Pemula Total",
    "url": "https://azmyhanifabdurrahman.medium.com/mau-bikin-aplikasi-android-sendiri-ini-panduan-lengkapnya-untuk-pemula-total-734cd8d3f0d2?source=rss------android-5",
@@ -418,26 +480,6 @@
    "lang": "en"
   },
   {
-   "title": "Android TV Boxes for US Hotels and Multi-Location Businesses: The 2026 Fleet Deployment Checklist",
-   "url": "https://medium.com/@hatanabiel963/android-tv-boxes-for-us-hotels-and-multi-location-businesses-the-2026-fleet-deployment-checklist-13a13afed025?source=rss------android-5",
-   "date": "2026-08-18T02:57:14+00:00",
-   "summary": "Buying 100 boxes is easy. Keeping 100 boxes identical, recoverable and supportable is the real project. Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Android Architecture Explained: From Linux Kernel to Applications",
-   "url": "https://medium.com/@MazenElsayed_/android-architecture-explained-from-linux-kernel-to-applications-0cf3b6904104?source=rss------android-5",
-   "date": "2026-08-18T00:45:12+00:00",
-   "summary": "Introduction Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "How to Debug Android Chrome Browser Logs from a Windows Laptop",
    "url": "https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib",
    "date": "2026-08-17T23:02:26+00:00",
@@ -479,48 +521,6 @@
    "tech": "kotlin",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Voice-Controlled Robot with Kotlin and LLMs",
-   "url": "https://dev.to/vmodal_ai/building-a-voice-controlled-robot-with-kotlin-and-llms-4mn0",
-   "date": "2026-08-17T20:36:38+00:00",
-   "summary": "Building a Voice-Controlled Robot with Kotlin and LLMs           ...",
-   "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Android + NVIDIA Jetson + ROS 2: Building an AI Robot",
-   "url": "https://dev.to/vmodal_ai/android-nvidia-jetson-ros-2-building-an-ai-robot-1jjd",
-   "date": "2026-08-17T20:36:31+00:00",
-   "summary": "Android + NVIDIA Jetson + ROS 2: Building an AI Robot            Introduction   A practical...",
-   "points": 1,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Android project isn’t on Kotlin 2.4, even though you set it",
-   "url": "https://medium.com/@kevindesai777/your-android-project-isnt-on-kotlin-2-4-even-though-you-set-it-e4f292f3da09?source=rss------android-5",
-   "date": "2026-08-17T19:04:33+00:00",
-   "summary": "You bumped kotlin to 2.4.0 in your version catalog, the build is green, and 2.4 syntax still won&apos;t compile. Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Best Native App Builders in 2026: Top Platforms for Building iOS and Android Apps Without Coding",
-   "url": "https://medium.com/@hamim.appnatively/best-native-app-builders-in-2026-top-platforms-for-building-ios-and-android-apps-without-coding-1425bc1b065f?source=rss------android-5",
-   "date": "2026-08-17T18:43:29+00:00",
-   "summary": "Building a mobile app used to mean hiring iOS and Android developers, managing separate development environments, dealing with long&#x2026; Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -727,10 +727,10 @@
    "title": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRG5EYUhIeFBsdWs3c3FUanI2M1k3UXV3ME9SdTRmOW14OUpSMXJ5bmlYLUhWZ0FKdG9lTWYyQkV6SXl4dGtucVdEb1BhZmZFSXJmX1BR?oc=5",
    "date": "2025-09-20T15:32:27+00:00",
-   "summary": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة youtube.com",
+   "summary": "حوّل موقعك أو لعبة الويب إلى تطبيق Android (APK) مجانًا — شرح Cordova + Gradle خطوة بخطوة YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1434,6 +1434,16 @@
    "lang": "en"
   },
   {
+   "title": "الأندرويد في سوق العمل | Kotlin vs. Java .. Jetpack Compose",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYzlEdkF0Ty14aEFEdjNSTkJYNVE5SnJ6ZUdFZHRHenpJTkVOUzVTYThyOERtU09qdXRYQWE4MlJmbjMwV3hZanpIdExnVGgtcWhhN1J3?oc=5",
+   "date": "2023-09-03T13:00:42+00:00",
+   "summary": "الأندرويد في سوق العمل | Kotlin vs. Java .. Jetpack Compose YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Kotlin Complete Tutorial | Module 2: Object Oriented Programming | OOPs: Classes & Object | @SCALER",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1teVFMSmdQUXpNSEprTUx3cTRYVmNsZWdQQm5FMVhTeEdDM3gwMlEtVEVUVDlXS1VHUGFpVUUwcXNnLU5ZSXd5QkFPclN3cERCSzFGdnlB?oc=5",
    "date": "2023-09-02T12:30:09+00:00",
@@ -1834,10 +1844,30 @@
    "lang": "ar"
   },
   {
+   "title": "انشاء صفحة اضافه بيانات وربطها firebase | دورة انشاء تطبيق اندرويد احترافي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IU0dmYXBTWFM2aVQ1Z3hsLW1LeXRaSURnaElQejBZdWpSU0d3NVBPVi1YTTJKNUNVSldBdC1uM1BabDZmcE1lTGhRWVp4VFNwR2ROZFZB?oc=5",
+   "date": "2021-12-12T10:13:14+00:00",
+   "summary": "انشاء صفحة اضافه بيانات وربطها firebase | دورة انشاء تطبيق اندرويد احترافي YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "بعد مشاكل Android12 طريقة العودة الي Android 11 علي Galaxy S21 Ultra Downgrade Upgrade by Odin",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbVVnWjZqSURIZ3BEbFhFbnF6Yl93bDY4VWxqR2Z2djhWeUhwWnFna0JjWEYzUjZDSmFQQVN5dEJ6Qk5RTTJrOWhFM0JidDFTb2dXaUxn?oc=5",
    "date": "2021-11-22T15:57:39+00:00",
    "summary": "بعد مشاكل Android12 طريقة العودة الي Android 11 علي Galaxy S21 Ultra Downgrade Upgrade by Odin YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "(عمر التميمي ) Jetpack Compose أساسيات ال",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uRzVpMTFCOThxOE0tUHAzcFFDMVNjcEpPck5YTngxd251TlduVHc5R3NWWTJ6bXUxY0FNRGIxdF8yUVFWeTdMVC1SSF9oVGN2UlpacnR3?oc=5",
+   "date": "2021-10-31T17:47:24+00:00",
+   "summary": "(عمر التميمي ) Jetpack Compose أساسيات ال YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1874,10 +1904,30 @@
    "lang": "ar"
   },
   {
+   "title": "دورة تعلم أندرويد: الحلقة #1 اساسيات لغة الجافا - الجزء الأول (إسلام مدحت)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nVEl2RHk4WDF5cms2TGJ5VVhrMFVYYjM3ZmlZLXMtdk02aTNDYzlWWDU0d1RGVTdzSmFKSFRYRmdEOUE5NDFZZklwTENTWE1JcmNjalFR?oc=5",
+   "date": "2021-06-09T18:00:12+00:00",
+   "summary": "دورة تعلم أندرويد: الحلقة #1 اساسيات لغة الجافا - الجزء الأول (إسلام مدحت) YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "7- تجربة التطبيق في أندرويد ستوديو علي محاكي خارجي | Memu Play Emulator |android Studio | Flutter",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPUzVJRFZQdkpycXJiQlBWczVoUDB2VzJ6TmdYZmI4M0llbVQ2akpTTS01N09aS3JDdFZhTmo1ZTZHNklDbkhlLTJkLWpFbnVUOE5NRUt3?oc=5",
    "date": "2021-06-05T09:51:51+00:00",
    "summary": "7- تجربة التطبيق في أندرويد ستوديو علي محاكي خارجي | Memu Play Emulator |android Studio | Flutter YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعليم البرمجة من الصفر الاندرويد باستخدام الكوتلن",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fdGFGYUNlX0I5RXFnaXhsOHYwUWN1S0lRQmtXRWl2TnVLdEF0QnB3eWhVLV9WaldWTF9leVMwa3VmbU5tLWQ1VEhSc2o4V3JUdVF6ZnF4eFRxMlZMS0llZ2V3cm40TlZiei1hTEpUdkxzc3QySzQ0Yy1pNDI?oc=5",
+   "date": "2021-05-26T22:01:18+00:00",
+   "summary": "تعليم البرمجة من الصفر الاندرويد باستخدام الكوتلن YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2018,6 +2068,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mTDBpdURLZXRlaHhtdndBZVdwamhScGlMSlI1UjJDeTJzV2sxY1N6S29KQnVhNW56Ymk1Ums2em9OX1BMZ0szcW1JVGlKdW9jSmhLUXRB?oc=5",
    "date": "2019-07-14T13:38:32+00:00",
    "summary": "شرح تثبيت أندرويد إستوديو android studio بدون مشاكل 2025 YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Learn Android in Arabic #49 - الشعور بالتاتش والتغيير seek bar في اندرويد in android touch",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UdWR5bnZoazhVWjhYcXJiVTBSSklkNlltd3FMV1dKcngwM2lHSTZCd1VhYzJSZHVZOUhRa0pMZTZfNEdrMzl1OGtvbzlwaXFFb3B3MU1B?oc=5",
+   "date": "2019-04-26T08:54:38+00:00",
+   "summary": "Learn Android in Arabic #49 - الشعور بالتاتش والتغيير seek bar في اندرويد in android touch YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",

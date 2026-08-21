@@ -1,8 +1,116 @@
 {
- "generated": "2026-08-20T05:29:27.567110+00:00",
+ "generated": "2026-08-21T05:14:52.192452+00:00",
  "tech": "arduino",
  "count": 220,
  "items": [
+  {
+   "title": "What Can Go Wrong When Environmental Testing Is Skipped Before Construction?",
+   "url": "https://dev.to/fathimath_fida_ffbda72c61/what-can-go-wrong-when-environmental-testing-is-skipped-before-construction-1nf8",
+   "date": "2026-08-21T04:40:10+00:00",
+   "summary": "There are cases where construction sites might appear ideal for construction yet they have...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Adafruit GP8403 I2C DAC Pushes Analog Output All the Way to 10V",
+   "url": "https://dev.to/circuitrocks/adafruit-gp8403-i2c-dac-pushes-analog-output-all-the-way-to-10v-4hch",
+   "date": "2026-08-21T04:10:52+00:00",
+   "summary": "Adafruit GP8403 I2C DAC: Most DACs cap out at 5V. The GP8403 breakout boosts to a real 0-10V analog output over I2C, which unblocks fan drivers, bias rails and set-point rigs.",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I lost 4 days to a firmware bug that cost twelve rupees to fix. So I built HardcoreAI.",
+   "url": "https://dev.to/sricharan_srikrishna_04ef/i-lost-4-days-to-a-firmware-bug-that-cost-twelve-rupees-to-fix-so-i-built-hardcoreai-402o",
+   "date": "2026-08-20T17:47:11+00:00",
+   "summary": "Four days debugging a hard fault on an STM32F4.  Root cause: UART clock not enabled before peripheral...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Self-Hosting AI Models on a Raspberry Pi 5: A Complete Guide to Free, Private, Local AI Inference",
+   "url": "https://hackernoon.com/self-hosting-ai-models-on-a-raspberry-pi-5-a-complete-guide-to-free-private-local-ai-inference?source=rss",
+   "date": "2026-08-20T16:00:02+00:00",
+   "summary": "This guide walks through exactly how I set it up, what works, what doesn’t, and the specific models that actually run well on ARM hardware with limited RAM.",
+   "tech": "arduino",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "RK3566 Can Run YOLOv8 INT8 — But Only Within These Limits",
+   "url": "https://dev.to/zediot/rk3566-can-run-yolov8-int8-but-only-within-these-limits-19ca",
+   "date": "2026-08-20T12:30:00+00:00",
+   "summary": "Running YOLOv8 INT8 on RK3566 isn’t just a model conversion task—it’s a system-level alignment...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "World of Microcontrollers",
+   "url": "https://dev.to/asathyajith/world-of-microcontrollers-2h75",
+   "date": "2026-08-20T10:33:23+00:00",
+   "summary": "Diving into the world of electronics is incredibly exciting, but let’s be honest—staring at a wall of...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Resilient Edge Architectures: The Backbone of Industrial AIoT",
+   "url": "https://dev.to/techwithunnati/building-resilient-edge-architectures-the-backbone-of-industrial-aiot-3l3m",
+   "date": "2026-08-20T09:39:07+00:00",
+   "summary": "When technology bloggers and software developers transition from standard cloud architecture to...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Zero-Latency Ingress: Edge Networks and Live Event Analytics",
+   "url": "https://dev.to/stampiq/building-zero-latency-ingress-edge-networks-and-live-event-analytics-551l",
+   "date": "2026-08-20T09:29:23+00:00",
+   "summary": "Building Zero-Latency Ingress: Edge Networks and Live Event Analytics Engineering the access control...",
+   "points": 1,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "UNO R3 + ESP8266: A Hybrid Arduino Board for Wi-Fi Projects",
+   "url": "https://medium.com/@diyelectronics3/uno-r3-esp8266-a-hybrid-arduino-board-for-wi-fi-projects-ea1600aea1d2?source=rss------arduino-5",
+   "date": "2026-08-20T07:27:14+00:00",
+   "summary": "If you have worked with Arduino UNO and ESP8266 boards, you probably know that they serve slightly different purposes. The Arduino UNO is&#x2026; Continue reading on Medium »",
+   "tech": "arduino",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Do IoT Test Automation: A 7-Step Process",
+   "url": "https://dev.to/perfectqaservices/how-to-do-iot-test-automation-a-7-step-process-1e0m",
+   "date": "2026-08-20T06:01:04+00:00",
+   "summary": "IoT testing involves more than checking whether a device works. Connected products depend on...",
+   "points": 0,
+   "tech": "arduino",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "UV-C LED Sterilization Hits Its Commercial Inflection Point: 5 Gates Your LED Driver Must Pass",
    "url": "https://dev.to/lamp_nex_8cbfdfb5b5aa6b50/uv-c-led-sterilization-hits-its-commercial-inflection-point-5-gates-your-led-driver-must-pass-1if9",
@@ -37,11 +145,22 @@
    "lang": "en"
   },
   {
+   "title": "CUE/IO: Standalone Art-Net + Audio Show Controller",
+   "url": "https://www.hackster.io/manuallvl/cue-io-standalone-art-net-audio-show-controller-a5100d",
+   "date": "2026-08-19T21:50:22+00:00",
+   "summary": "Record Art-Net with synced audio, then run the entire show standalone on a Raspberry Pi — with GPIO, scheduling, LTC and more.",
+   "tech": "arduino",
+   "sourceId": "projects",
+   "source": "مشاريع",
+   "lang": "en",
+   "kind": "project"
+  },
+  {
    "title": "LighthouseReckoning: A Lightweight LoRa Mesh Network for Arduino, ESP32 and RP2040",
    "url": "https://dev.to/fynn_schulz_8dad41ee4e7b/lighthousereckoning-a-lightweight-lora-mesh-network-for-arduino-esp32-and-rp2040-50oh",
    "date": "2026-08-19T15:44:44+00:00",
    "summary": "LighthouseReckoning   LighthouseReckoning is a lightweight LoRa mesh networking library for...",
-   "points": 0,
+   "points": 1,
    "tech": "arduino",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -78,17 +197,6 @@
    "source": "مشاريع",
    "lang": "en",
    "kind": "project"
-  },
-  {
-   "title": "Building Resilient Edge Architectures: The Backbone of Industrial AIoT",
-   "url": "https://dev.to/techwithunnati/building-resilient-edge-architectures-the-backbone-of-industrial-aiot-1g9p",
-   "date": "2026-08-19T10:07:08+00:00",
-   "summary": "When technology bloggers and software developers transition from standard cloud architecture to...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
   },
   {
    "title": "LilyGO T-Display S3 AMOLED NTP Light Dashboard",
@@ -343,80 +451,13 @@
    "lang": "en"
   },
   {
-   "title": "Single-Process Architecture in Rust: Why We Rejected Microservices for an Edge AI Platform",
-   "url": "https://dev.to/mingming_shen_85ea2348fec/single-process-architecture-in-rust-why-we-rejected-microservices-for-an-edge-ai-platform-3he6",
-   "date": "2026-08-17T09:50:56+00:00",
-   "summary": "Microservices are the default for new projects — but they fall apart at the edge. Here's how we built a single-process Rust platform that outperforms an 8-container stack on a Raspberry Pi.",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Zero-Latency Event Architecture: Integrating LED RFID with Cloud Dashboards",
-   "url": "https://dev.to/stampiq/building-zero-latency-event-architecture-integrating-led-rfid-with-cloud-dashboards-379d",
-   "date": "2026-08-17T05:29:33+00:00",
-   "summary": "Building Zero-Latency Event Architecture: Integrating LED RFID with Cloud Dashboards Building...",
-   "points": 1,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The microSD Card Is the Weakest Part of a 24/7 Phone Camera (Silent Write Failure, Wear Cycles, and the Only Honest Test)",
-   "url": "https://dev.to/superfunicular/the-microsd-card-is-the-weakest-part-of-a-247-phone-camera-silent-write-failure-wear-cycles-and-3lf9",
-   "date": "2026-08-17T04:43:24+00:00",
-   "summary": "A phone recording 24/7 is not really a camera problem. It is a sustained-write problem wearing a...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud & More Compared",
-   "url": "https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c",
-   "date": "2026-08-16T20:08:01+00:00",
-   "summary": "An independent, hands-on comparison of the IoT dashboard and device-management platforms makers and...",
-   "points": 0,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "10 Devices and 10,000 Devices Are Completely Different Problems",
-   "url": "https://dev.to/jeem/10-devices-and-10000-devices-are-completely-different-problems-1el4",
-   "date": "2026-08-16T16:07:07+00:00",
-   "summary": "You can manually configure 10 devices.  You probably don't want to manually configure 10,000.  At...",
-   "points": 1,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Edge Computing Finally Made Sense to Me When I Thought About Latency",
-   "url": "https://dev.to/jeem/edge-computing-finally-made-sense-to-me-when-i-thought-about-latency-a34",
-   "date": "2026-08-16T15:36:04+00:00",
-   "summary": "\"Edge computing\" can sound like one of those technology buzzwords.  The basic idea is actually pretty...",
-   "points": 1,
-   "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "From Arduino To Automotive: How I Escaped The IDE And Owned The Bus",
-   "url": "https://dev.to/numbpill3d/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-f8f",
-   "date": "2026-08-15T21:30:22+00:00",
-   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works.  I have a lot of...",
-   "points": 7,
+   "url": "https://medium.com/technology-hits/from-arduino-to-automotive-how-i-escaped-the-ide-and-owned-the-bus-3c66178ba51d?source=rss------arduino-5",
+   "date": "2026-08-15T21:28:04+00:00",
+   "summary": "Arduino taught me how to build. Bare metal taught me how the build actually works. Continue reading on Technology Hits »",
    "tech": "arduino",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "medium",
+   "source": "Medium",
    "lang": "en"
   },
   {
@@ -561,17 +602,6 @@
    "url": "https://www.hackster.io/jhon-paul-baonil/smart-study-space-monitor-assistant-679226",
    "date": "2026-07-23T15:15:44+00:00",
    "summary": "Built to solve my own study challenges with AI, Arduino Uno Q, and smart automation for focus and energy savings.",
-   "tech": "arduino",
-   "sourceId": "projects",
-   "source": "مشاريع",
-   "lang": "en",
-   "kind": "project"
-  },
-  {
-   "title": "RescueMesh — Off-Grid Encrypted SOS over LoRa",
-   "url": "https://www.hackster.io/theoriginalgrantrawlings/rescuemesh-off-grid-encrypted-sos-over-lora-cfd268",
-   "date": "2026-06-29T22:00:47+00:00",
-   "summary": "A pocket SOS beacon that sends your encrypted location miles over LoRa — no cell service, no wifi, no internet. A Raspberry Pi base station",
    "tech": "arduino",
    "sourceId": "projects",
    "source": "مشاريع",
@@ -1039,6 +1069,16 @@
    "lang": "en"
   },
   {
+   "title": "L9: Embedded C programming | three ways to blink an led & control hardware on microcontrollers",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GS3dzRFo2X1czZEpVSFZzcWlDLTc4OXc5NjhtR3p4S2tkbWt0ajBOX29JMUJIT3owVV9oX3FDREktYXJJUXJlMy11d0k2RXVONFphZ2Z3?oc=5",
+   "date": "2025-01-30T04:29:00+00:00",
+   "summary": "L9: Embedded C programming | three ways to blink an led & control hardware on microcontrollers YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "L1: Introduction to embedded systems & embedded c programming",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zYlhkQlZHTDFCRmk5eU9tQ3RMVExnR0Q4TmJLbmsyMXFsM2VrN2FGbkExeVVwSEdyel8zcm9pNThZMG1PSE9CanRwX01IUXd0YWlEQi1R?oc=5",
    "date": "2025-01-30T04:28:12+00:00",
@@ -1083,6 +1123,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rbXdHQ2JXeEtKYUJLUFhlSUdzUVFvQW1DSHJHOURQallYVXU3WUQ1R04zYTdkMDd3WUcwRmZ6VkxRaFFDQTVTMTI2d0FhckU4RDgzZ0pR?oc=5",
    "date": "2024-10-21T16:00:59+00:00",
    "summary": "Arduino for Beginners: Code Your First Project in Minutes! YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Programming Arduino with Visual Studio Code and PlatformIO",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JTHFlUWR6YWlFeGNZdTBYMV82WHVIc29uY21mVnUxRzBLYUJILXdSb25XcW41VDczXzN3M1VaMUVNOEUwWjl2MHViZVI3bGpRZG80ajV3?oc=5",
+   "date": "2024-10-15T04:00:49+00:00",
+   "summary": "Programming Arduino with Visual Studio Code and PlatformIO YouTube",
    "tech": "arduino",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1289,6 +1339,16 @@
    "lang": "ar"
   },
   {
+   "title": "Tutorial 1 - Arduino Embedded LED Control with LabVIEW Community Edition",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80Z21kY0JLd3cwclF4am1icklscndxNU5aVmJLN2pOSlBLdHNPS282cnRNbkI1d2NpRlRyd2c0dWljTTRpQ3dzY0xXWWozV29YUUhnSjJ3?oc=5",
+   "date": "2024-03-14T09:57:07+00:00",
+   "summary": "Tutorial 1 - Arduino Embedded LED Control with LabVIEW Community Edition YouTube",
+   "tech": "arduino",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How to design an ESP32 PCB with KiCad (in less than 25 minutes)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nb1pVVERiNm15dVBGdGprRlJqem5sVm1XXzJ1RTQtQkRJSjRKaU5XdUpUWFJiYjFTS0E4UG1yaUxpcnBZbEROYTBoUi0xNmFVNXl5a1lB?oc=5",
    "date": "2024-02-20T14:00:34+00:00",
@@ -1359,26 +1419,6 @@
    "lang": "en"
   },
   {
-   "title": "Introduction to Embedded Systems Programming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFZW80X3A0MjFZM25TcE5ZSVNrZ2FhSmNjcVlGSmtWMDE2RzkyelU5STVoNmU1X1l2dUtXTjFkamtuX2FVUVVaRUhpQVhtTmQ0dk5jWldR?oc=5",
-   "date": "2023-11-23T02:07:59+00:00",
-   "summary": "Introduction to Embedded Systems Programming YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "How to Code Arduino: Beginner's Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yNTVoSVZSUGp5V2JGaTdIdk1aRG5KRC00RWxYN19hX2paUlM1M2h1amJIb3d3RUR3bXFiSURGcEI3WDRaSnFCajBfTklhSUp2RUlYcjNB?oc=5",
-   "date": "2023-11-19T23:32:00+00:00",
-   "summary": "How to Code Arduino: Beginner's Tutorial YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "3- ربط الأردوينو بالحاسوب | Connecting Arduino to Computer",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZWExeUEtWVpoemZJdW9QaTNVSDR4ZUZCTWFRU0MyTkhWRVp3YmlRZlA1bENJZ3V4aWhZc2Y5WVFqMC1ndWFFLW84ZzN3MFJpTnlPdFlB?oc=5",
    "date": "2023-11-15T19:57:22+00:00",
@@ -1387,26 +1427,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Arduino UNO R4 Lesson 02. Arduino Programming for Absolute Beginners using the New Arduino IDE ver.2",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RaHEtTXNzX2d4dnI4ZWVMMEF6dldKb1NKS3ZtTlZZWjRFUUttVkxsWnBsUm9kdG85cXIyaDg2dTJPdVAyOEJpaVdQaVZRcGRUTzNJTGln?oc=5",
-   "date": "2023-11-09T13:20:31+00:00",
-   "summary": "Arduino UNO R4 Lesson 02. Arduino Programming for Absolute Beginners using the New Arduino IDE ver.2 YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Arduino Course for Everybody",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fVVRKTjM2bkt4RXA3TF90V3p3SWhRd1owVjJfQkcxUXUwU1Z4WFRrdXdNTnI2LWhkYlRwY0FtTVU5RXV5a0tlZWVzajROSjJ6cXNvdXNn?oc=5",
-   "date": "2023-11-08T13:54:22+00:00",
-   "summary": "Arduino Course for Everybody YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "أردوينو (لوحة التوصيل ومشروع بسيط) .. Arduino breadboard and Blink",
@@ -1427,16 +1447,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Arduino UNO R4 Lesson 01. Pinouts | Features | Installation and Setup | Ultimate Training Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95Q3l5LU9xelptdEFnbWMwclpqLTdlN1c5N3FuQU84Y2dsWFVfZ2FvY2lXcGU0VDExdVZJN294bmZCUG1ZblNWRi03ektpNF9taWNlb1F3?oc=5",
-   "date": "2023-10-31T14:47:21+00:00",
-   "summary": "Arduino UNO R4 Lesson 01. Pinouts | Features | Installation and Setup | Ultimate Training Course YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "شرح لوحة الاردوينو .. الدرس الاول",
@@ -1467,16 +1477,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "#0 Modern Embedded Systems Programming: Getting Started",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41c2ZxZ01XVEZqUmZGT3p0LWZBZDhMU3JabzJDaGR4TTZ2dFZlaGtYQ0V5dnhiT3AxZWMycXBaNDFfUlU1SzdkQkJ3YUFNS29MSUV6MlZB?oc=5",
-   "date": "2023-10-21T00:27:48+00:00",
-   "summary": "#0 Modern Embedded Systems Programming: Getting Started YouTube",
-   "tech": "arduino",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "برمجة لوحة ESP32 و ESP8266 بواسطة برنامج Arduino IDE",
@@ -1549,10 +1549,30 @@
    "lang": "ar"
   },
   {
+   "title": "تجربة مشروع مواجهة حساس GY 291 ADXL345 مع اردوينو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OaGY1M05XVVI0bExUWm1CWFlnZmUyVGQ0QlJGdGhjTmlkT2M3R3ctNU82NW9kVndOUFNYZnFtNHh3T2t4ZEsxR195S3o1N3NYVVRrVndB?oc=5",
+   "date": "2023-07-18T17:58:43+00:00",
+   "summary": "تجربة مشروع مواجهة حساس GY 291 ADXL345 مع اردوينو YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "1- ما هو الاردوينو ( Arduino ) ؟ وما هي انواعه ومميزاتها",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2cTVzSG1ub1ZOTlM1WG9MZjJyRlNFOHFSRlFJeWpONFloekRFTU53V1JfVm52ZmI2LTZFeG1VQ2hNUFRseFRvLTdhWnJ1cnFQUGdyTl9B?oc=5",
    "date": "2023-07-10T18:00:26+00:00",
    "summary": "1- ما هو الاردوينو ( Arduino ) ؟ وما هي انواعه ومميزاتها YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الفيديو المنتظر - كيفية دمج الأردوينو مع لغة بايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwMlpSTGx5cXRBTWNySzl5bVUtaXBqa25xbXY2YzFtbDJoeVZkak1zQ2FKM1N2M0NRTjh0aEVnUldwWjhjTEZ1Z2Q4ZEV6SnEzWmp1TTh3?oc=5",
+   "date": "2023-05-26T10:05:19+00:00",
+   "summary": "الفيديو المنتظر - كيفية دمج الأردوينو مع لغة بايثون YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2149,6 +2169,16 @@
    "lang": "ar"
   },
   {
+   "title": "Analog To Digital Conversion (ADC)-Part 2 | Potentiometer| Embedded Systems | المبدل التشابهي الرقمي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JTnk5c29KYU9LQU9vNW5HUGgyUjJfUzQwRXVVQ2ZLMnNOWlVYMlkyR01TM3ZUN1FnWHpUTHViVzdmVzBZTFlrYllTSXg2T3ZQT1BsaFJR?oc=5",
+   "date": "2020-07-17T18:04:52+00:00",
+   "summary": "Analog To Digital Conversion (ADC)-Part 2 | Potentiometer| Embedded Systems | المبدل التشابهي الرقمي YouTube",
+   "tech": "arduino",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Seven Segment Display - Part 2 | Embedded Systems & Microcontrollers | العارضات السباعية مع المتحكم",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pYk1KT0RnazF5dkVjazNGMHRIdGkyeWxSMkxvM09pTXotYzVsQXhfOVZWcU5BNmVuT2dqczRQNlg2ZV9jQnJsYXZJbGVyM0d1bjU3VkR3?oc=5",
    "date": "2020-07-16T18:47:27+00:00",
@@ -2209,40 +2239,10 @@
    "lang": "ar"
   },
   {
-   "title": "Ultrasonic Arduino | مشروع قياس المسافه بحساس الموجات فوق الصوتية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jdDR1YkZBb25aT05GRXozZ1YxN2U1cnZhVWNyWTYyUmJMaGJjWWF0LV9JVUNpOENXZllnODVYeFJCZmFUZUpGODFOQ2pWMTZDR01OUXFn?oc=5",
-   "date": "2020-05-04T17:43:14+00:00",
-   "summary": "Ultrasonic Arduino | مشروع قياس المسافه بحساس الموجات فوق الصوتية YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Arduino Lesson 4 : Type of Arduino / انواع الأردوينو",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBR0V1U29NRHhGX0w0eDdKTGs0al9lWXNqVU01TUhYVWlvNmxOY1hOcGlneEFPVl9KX1FrTHVITTFwVGR1U1JsalhrZWZteHByZjJ5cEFB?oc=5",
-   "date": "2020-04-25T18:37:23+00:00",
-   "summary": "Arduino Lesson 4 : Type of Arduino / انواع الأردوينو YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Lesson22 Arduino: IR Remote Control (ARABIC) كورس اردوينو-دورة الاردوينو",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DZUxWUmFGZS1QQzB6RkJhU0JobWMzRVNPeVh6bF9fLUVTY0RSSVpPcUt4OVhpcUVPYmV3eFZoNVliajkzMTJvbmJGSHNFWFo4U0ZCUVZn?oc=5",
-   "date": "2020-04-22T16:00:24+00:00",
-   "summary": "Lesson22 Arduino: IR Remote Control (ARABIC) كورس اردوينو-دورة الاردوينو YouTube",
-   "tech": "arduino",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Lesson01 Arduino Introduction (ARABIC) كورس اردوينو-دورة الاردوينو",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMTDRuWnlxLVNvZXFmbzlxM202eml6UE9zZGRubXdCSXZNbFAyUUZZdEpCaGphMzh4OElMWV84SnBJUjNfQnVwUzV5dm9pcF9kdVJzNTd3?oc=5",
-   "date": "2020-03-17T20:05:01+00:00",
-   "summary": "Lesson01 Arduino Introduction (ARABIC) كورس اردوينو-دورة الاردوينو YouTube",
+   "title": "Vibration sensor with Arduino | ربط وحدة استشعار الاهتزاز مع اردوينو",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjN0t3SmtIY1NKRmZGRlg5Yzl2X3dVZ01BcWtiZnBLUmpKMkFBYnVXa2lwUWZIRHVCX1NuTW5qQnhJbVZEMHpfeE1uZGdNTU5MTEktSXpn?oc=5",
+   "date": "2020-05-21T08:11:44+00:00",
+   "summary": "Vibration sensor with Arduino | ربط وحدة استشعار الاهتزاز مع اردوينو YouTube",
    "tech": "arduino",
    "sourceId": "ar-yt",
    "source": "YouTube",

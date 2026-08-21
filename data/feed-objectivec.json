@@ -1,8 +1,107 @@
 {
- "generated": "2026-08-20T05:18:37.321680+00:00",
+ "generated": "2026-08-21T05:10:33.111028+00:00",
  "tech": "objectivec",
- "count": 82,
+ "count": 83,
  "items": [
+  {
+   "title": "Two Hours Lost to a Silent 401: Submitting 12 iOS Apps to the App Store With No Human in the Loop (Part 1)",
+   "url": "https://dev.to/bokuwalily/two-hours-lost-to-a-silent-401-submitting-12-ios-apps-to-the-app-store-with-no-human-in-the-loop-1op5",
+   "date": "2026-08-21T05:00:09+00:00",
+   "summary": "I went from earning about ¥100,000 a month as a university student to ¥600,000 by stacking side gigs...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The one-app quarantine rule for stopping doomscrolling on iPhone",
+   "url": "https://dev.to/godnick/the-one-app-quarantine-rule-for-stopping-doomscrolling-on-iphone-l68",
+   "date": "2026-08-21T00:23:00+00:00",
+   "summary": "Most phone distraction advice treats every app the same.  That is not how the loop usually...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built an EV trip planner because a charger pin in an empty lot is a wasted stop",
+   "url": "https://dev.to/stephane_sprauer_245fa607/i-built-an-ev-trip-planner-because-a-charger-pin-in-an-empty-lot-is-a-wasted-stop-4gd8",
+   "date": "2026-08-20T22:00:51+00:00",
+   "summary": "Most EV trip apps treat a charger as a destination. On a real drive, a charger with nothing around it...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building an AI Translator Keyboard for iOS and Android: Privacy, Latency, and UX Lessons",
+   "url": "https://dev.to/ai-translator-keyboard/building-an-ai-translator-keyboard-for-ios-and-android-privacy-latency-and-ux-lessons-57ja",
+   "date": "2026-08-20T16:50:26+00:00",
+   "summary": "Translating a message on a phone often means leaving the conversation, opening a translator, pasting...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "IA no Bolso: Autocomplete de Partituras em Tempo Real no iPhone 15",
+   "url": "https://dev.to/leojulieta/ia-no-bolso-autocomplete-de-partituras-em-tempo-real-no-iphone-15-2d1d",
+   "date": "2026-08-20T12:58:44+00:00",
+   "summary": "IA no Bolso: Como Autocompletar Partituras em Tempo Real no iPhone 15   Descubra, em poucos...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cutting store commission from 30% to 15%: what each application actually asks",
+   "url": "https://dev.to/nicoinu/cutting-store-commission-from-30-to-15-what-each-application-actually-asks-abl",
+   "date": "2026-08-20T12:43:41+00:00",
+   "summary": "Apple and Google both have a program that drops in-app purchase commission from 30% to 15%. Neither...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Universal Links and Deep Linking on iOS",
+   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/universal-links-and-deep-linking-on-ios-64p",
+   "date": "2026-08-20T09:28:52+00:00",
+   "summary": "Learn how to implement Universal Links and custom URL schemes for deep linking in your iOS applications, enhancing user experience and app discoverability.",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GrapheneOS denuncia que Google dejó de usar tags de Git en AOSP",
+   "url": "https://dev.to/lu1tr0n/grapheneos-denuncia-que-google-dejo-de-usar-tags-de-git-en-aosp-3dko",
+   "date": "2026-08-20T08:28:37+00:00",
+   "summary": "GrapheneOS denunció que Google dejó de publicar tags de Git en ciertos repositorios fuente de AOSP, lo que dificulta verificar qué código exacto compo",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Swift ARC Doesn’t Scan the Heap — I Removed strong_release from SIL to Prove It",
+   "url": "https://dev.to/_a3620048b828cbaa5d742/swift-arc-doesnt-scan-the-heap-i-removed-strongrelease-from-sil-to-prove-it-oed",
+   "date": "2026-08-20T07:35:56+00:00",
+   "summary": "Also available: Korean version · Source code and reproducible experiments  A source-to-runtime...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Set it up once. Stop thinking about it.",
    "url": "https://dev.to/maclessdev/set-it-up-once-stop-thinking-about-it-fk0",
@@ -235,105 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "Why HEIC breaks every browser-based image tool, and what it costs to fix",
-   "url": "https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g",
-   "date": "2026-08-16T14:00:40+00:00",
-   "summary": "Every image tool that runs in the browser hits the same wall eventually: someone drops in a photo...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓",
-   "url": "https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k",
-   "date": "2026-08-16T11:02:30+00:00",
-   "summary": "This is a submission for Weekend Challenge: Dog Days Edition              What I Built   Pawford...",
-   "points": 15,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "{{ $('Get Ready Post').item.json.Title }}",
-   "url": "https://dev.to/qmshahzad/-get-ready-postitemjsontitle--22e6",
-   "date": "2026-08-16T09:43:11+00:00",
-   "summary": "Cloud-based AI has two persistent problems for mobile developers: latency, because every inference...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "MapKit Integration with SwiftUI",
-   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/mapkit-integration-with-swiftui-de8",
-   "date": "2026-08-16T09:23:05+00:00",
-   "summary": "Explore integrating Apple's powerful MapKit framework with SwiftUI, from displaying maps and annotations to handling user interaction and drawing routes.",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why your App Tracking Transparency prompt doesn't show up (and how it got my app rejected)",
-   "url": "https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob",
-   "date": "2026-08-16T06:12:52+00:00",
-   "summary": "App Review rejected my iOS app under Guideline 2.1. The note said reviewers were unable to locate the...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Sunday setup for stopping iPhone doomscrolling before Monday",
-   "url": "https://dev.to/godnick/a-sunday-setup-for-stopping-iphone-doomscrolling-before-monday-31b6",
-   "date": "2026-08-16T00:23:24+00:00",
-   "summary": "Sunday night is a good time to set the blocker rule because Monday morning is a terrible time to...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Mathastic Twice: One Math Puzzle Game, Two Native Architectures",
-   "url": "https://dev.to/tapadyutichatterjee/building-mathastic-twice-one-math-puzzle-game-two-native-architectures-1og6",
-   "date": "2026-08-15T23:29:23+00:00",
-   "summary": "I recently released Mathastic, a fast-paced math puzzle game for iOS and Android.  I’m Tapadyuti...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your VPN Is Fine. iOS Swapped the Address.",
-   "url": "https://dev.to/harrisonsec/your-vpn-is-fine-ios-swapped-the-address-56nh",
-   "date": "2026-08-15T22:34:59+00:00",
-   "summary": "Here is a failure that survives every reasonable thing you can check.  One app, on an iPhone, on...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The download button that silently did nothing on mobile",
-   "url": "https://dev.to/bellsal_b44bf6d/the-download-button-that-silently-did-nothing-on-mobile-2a3k",
-   "date": "2026-08-15T17:38:15+00:00",
-   "summary": "For about a year, the save button in my collage editor did nothing on phones. Not \"threw an error.\"...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Objective-C Runtime: From Message Sending to Message Forwarding",
    "url": "https://medium.com/@kousikdasari0475/objective-c-runtime-from-message-sending-to-message-forwarding-578c6f4a4860?source=rss------objective_c-5",
    "date": "2026-08-14T11:04:55+00:00",
@@ -548,6 +548,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFWG5vZ1BBRGFZcFdLWGlqRGd4V0IwSlBTMlN4dmtqMlVtU3BtMld5SWJ2eW9CMU4wWl9jdFNTRG1LaUYxYWNXSkhjYWpzb2M0NFg3MmNn?oc=5",
    "date": "2017-06-16T14:00:02+00:00",
    "summary": "Advantages of Swift vs Objective C: Should I just learn Swift? YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Objective-C Categories - raywenderlich.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10R1J0dkZURHloYXlaWXJ5WUVpc1REbVVha0V4MDFuNzhEMC1iMnFScThCam9qbnY1d3VNcTBmb3VmRk50MUdLREg3eVhiV2pWYU96OWhB?oc=5",
+   "date": "2017-03-27T12:53:31+00:00",
+   "summary": "Objective-C Categories - raywenderlich.com YouTube",
    "tech": "objectivec",
    "sourceId": "yt",
    "source": "YouTube",

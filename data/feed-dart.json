@@ -1,8 +1,140 @@
 {
- "generated": "2026-08-20T05:21:04.364496+00:00",
+ "generated": "2026-08-21T05:11:25.052752+00:00",
  "tech": "dart",
- "count": 181,
+ "count": 188,
  "items": [
+  {
+   "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+   "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
+   "date": "2026-08-21T01:00:50+00:00",
+   "summary": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn. A respectful, deep-dive comparison into why shedding Riverpod's cognitive overhead brings joy back ",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Performance Optimization: Fix Jank and Dropped Frames",
+   "url": "https://dev.to/vmodal_ai/flutter-performance-optimization-fix-jank-and-dropped-frames-5gm0",
+   "date": "2026-08-20T19:56:22+00:00",
+   "summary": "Flutter Performance Optimization: Fix Jank and Dropped Frames   Flutter can render extremely...",
+   "points": 1,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced BLoC Architecture for Production Flutter Apps",
+   "url": "https://dev.to/vmodal_ai/advanced-bloc-architecture-for-production-flutter-apps-4kig",
+   "date": "2026-08-20T19:45:48+00:00",
+   "summary": "Advanced BLoC Architecture for Production Flutter Apps   As Flutter applications grow, state...",
+   "points": 1,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PayPal Android SDK with Flutter: Integrate PayPal Checkout Using Platform Channels",
+   "url": "https://dev.to/vmodal_ai/paypal-android-sdk-with-flutter-integrate-paypal-checkout-using-platform-channels-5ha9",
+   "date": "2026-08-20T19:45:30+00:00",
+   "summary": "PayPal Android SDK with Flutter: Integrate PayPal Checkout Using Platform Channels   Flutter...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Jitsi Meet SDK with Flutter: Build an Embedded Video Meeting App",
+   "url": "https://dev.to/vmodal_ai/jitsi-meet-sdk-with-flutter-build-an-embedded-video-meeting-app-3ion",
+   "date": "2026-08-20T19:45:05+00:00",
+   "summary": "Jitsi Meet SDK with Flutter: Build an Embedded Video Meeting App   Jitsi Meet is an...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter FFI: Integrating Native C/C++ Libraries",
+   "url": "https://dev.to/vmodal_ai/flutter-ffi-integrating-native-cc-libraries-5fkn",
+   "date": "2026-08-20T19:43:57+00:00",
+   "summary": "Flutter FFI: Integrating Native C/C++ Libraries   Flutter applications sometimes need...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Sendbird Chat SDK with Flutter: Build a Real-Time Messaging App",
+   "url": "https://dev.to/vmodal_ai/sendbird-chat-sdk-with-flutter-build-a-real-time-messaging-app-10lb",
+   "date": "2026-08-20T19:43:15+00:00",
+   "summary": "Sendbird Chat SDK with Flutter: Build a Real-Time Messaging App   Sendbird provides a...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Production-Ready REST API Client with Dio",
+   "url": "https://dev.to/vmodal_ai/building-a-production-ready-rest-api-client-with-dio-52k0",
+   "date": "2026-08-20T19:42:38+00:00",
+   "summary": "Building a Production-Ready REST API Client with Dio   A production API client needs more...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Twilio Video SDK with Flutter: Build a Real-Time Video Calling App",
+   "url": "https://dev.to/vmodal_ai/twilio-video-sdk-with-flutter-build-a-real-time-video-calling-app-29la",
+   "date": "2026-08-20T19:41:33+00:00",
+   "summary": "Twilio Video SDK with Flutter: Build a Real-Time Video Calling App   Twilio Programmable...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Agora Video Calling SDK with Flutter: Build a Real-Time Video Call App",
+   "url": "https://dev.to/vmodal_ai/agora-video-calling-sdk-with-flutter-build-a-real-time-video-call-app-4n4i",
+   "date": "2026-08-20T19:40:04+00:00",
+   "summary": "Agora Video Calling SDK with Flutter: Build a Real-Time Video Call App   Real-time video...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Maybe choosing Flutter was the biggest mistake of my life. 😭",
+   "url": "https://dev.to/dt14/maybe-choosing-flutter-was-the-biggest-mistake-of-my-life-34pm",
+   "date": "2026-08-20T10:27:32+00:00",
+   "summary": "Relax guys, it’s just a title. 😉 Because apparently, you people weren’t paying attention to the...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built flutter_auditor — a zero-config CLI tool to audit Flutter apps for permissions, dead assets, security risks, and package hygiene",
+   "url": "https://dev.to/dt14/i-built-flutterauditor-a-zero-config-cli-tool-to-audit-flutter-apps-for-permissions-dead-149n",
+   "date": "2026-08-20T09:51:28+00:00",
+   "summary": "Shipping a Flutter app without auditing native permissions, release keystores, or asset bloat?   To...",
+   "points": 0,
+   "tech": "dart",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
    "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
@@ -302,61 +434,6 @@
    "lang": "en"
   },
   {
-   "title": "Seven Technical Checks Before You Hire a Flutter Team",
-   "url": "https://dev.to/fadieiev_a/seven-technical-checks-before-you-hire-a-flutter-team-55bo",
-   "date": "2026-08-11T15:16:51+00:00",
-   "summary": "Most \"how to pick a dev agency\" advice is unfalsifiable. Check their portfolio. Look at reviews. Make...",
-   "points": 0,
-   "tech": "dart",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Everyone Complains About Flutter. Almost Nobody Fixes It.",
-   "url": "https://dev.to/pranta/everyone-complains-about-flutter-almost-nobody-fixes-it-3342",
-   "date": "2026-08-10T15:21:42+00:00",
-   "summary": "I have written a lot of posts complaining about Flutter.  \"I Love Flutter, But Sometimes It Feels...",
-   "points": 2,
-   "tech": "dart",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Comparing Dart & Flutter package registries",
-   "url": "https://dev.to/another1dd/comparing-dart-flutter-package-registries-o3j",
-   "date": "2026-08-10T13:18:37+00:00",
-   "summary": "dart.dev's custom package repositories page lists six providers for hosting private Dart/Flutter...",
-   "points": 0,
-   "tech": "dart",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dart User Input ?",
-   "url": "https://dev.to/m_rtuhin/dart-user-input--4bi1",
-   "date": "2026-08-09T15:00:32+00:00",
-   "summary": "💙 Dart Basics: Taking User Input  User input is an important part of programming. It allows a program...",
-   "points": 0,
-   "tech": "dart",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Privacy Shield for Flutter Apps: Screenshots, App Switcher Protection, Biometrics, and Root Detection",
-   "url": "https://dev.to/ag1rin/building-a-privacy-shield-for-flutter-apps-screenshots-app-switcher-protection-biometrics-and-5gbh",
-   "date": "2026-08-09T12:11:08+00:00",
-   "summary": "When we talk about mobile app security, we often focus on authentication, APIs, encryption, and...",
-   "points": 0,
-   "tech": "dart",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Dart Tutorial for Beginners | Variables, Data Types, Null Safety, Type Conversion & Operators",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTempmLXBReExwSVI2VW5QVEZFc1ItUGVubjB2U0NfVF9ReWxuQmJURWFQd1VaQ1k0anp5anF6S3U3YXFIWmN3RUhwRnB1N2xLYkZ4Wjh3?oc=5",
    "date": "2026-03-21T12:27:50+00:00",
@@ -451,6 +528,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96OWdjdzBBSHliWmE2d0xlR25RUFphVWFOV0NweG1ocVpHbDQyNzFNcVpSQXFPZ2FYNFhEdjVSU25YZjBhYm03RXBJRHVCb1JvRWhIQXZR?oc=5",
    "date": "2025-10-13T11:01:29+00:00",
    "summary": "Master DART in 200 Seconds (Urdu/Hindi) | DART Programming Tutorial for Beginners YouTube",
+   "tech": "dart",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Learn Dart for Flutter in Tamil | Complete 1 Hour Crash Course (2025)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xQUpKcXBGZlRpbU9YRDJZSHplWncxY2gxRXRKdF9RdzYzeHVWMUdnb2U2dHJOWllrcHZrRjdBQWVHSXl5T0t1N0hjODhFT0UyVXBTbTln?oc=5",
+   "date": "2025-09-12T06:39:55+00:00",
+   "summary": "Learn Dart for Flutter in Tamil | Complete 1 Hour Crash Course (2025) YouTube",
    "tech": "dart",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1607,16 +1694,6 @@
    "lang": "en"
   },
   {
-   "title": "Dart Tutorial #1 - Introduction to Dart and How to write First Dart Code",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12U0ZWcC1pS2Z6T3lVYm56YWFMRWdrblpOdjdyQUJMVnZBMW0yVkREd2E4SnJ2MFJVUll4X0dQNUFFY3ROWUxMN1AxTnplUTlzZ2MtNVdn?oc=5",
-   "date": "2022-03-28T16:00:10+00:00",
-   "summary": "Dart Tutorial #1 - Introduction to Dart and How to write First Dart Code YouTube",
-   "tech": "dart",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Dart 102 -8 | شرح البرمجة الشيئية عربى | Abstract Class & Abstract Method Dart OOP",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQ3hIWkdYLTBNSk5zNHBXYVRLaEJGUE9GV3QwQlpScklCei02R1pmSFJqUi16WGZUWXhveS1oaXBURjEyT1Ryenp6cEN5OXlFZ0d3b0RB?oc=5",
    "date": "2022-01-04T18:00:03+00:00",
@@ -1710,10 +1787,10 @@
    "title": "01 - Algorithms and Data Structure in Dart [Arabic] الخوارزميات وهياكل البيانات - محتويات الدورة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbWttbktEWVp0ODU1Wl83UkdkeFNMVnh5YTN0X2k0cktEcGJid2VaVHJDVFROSFd4RUwtRUUzMTlqak9fNjNkbUtOMmxqNk82TkViUE9R?oc=5",
    "date": "2021-06-08T18:26:05+00:00",
-   "summary": "01 - Algorithms and Data Structure in Dart [Arabic] الخوارزميات وهياكل البيانات - محتويات الدورة youtube.com",
+   "summary": "01 - Algorithms and Data Structure in Dart [Arabic] الخوارزميات وهياكل البيانات - محتويات الدورة YouTube",
    "tech": "dart",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {

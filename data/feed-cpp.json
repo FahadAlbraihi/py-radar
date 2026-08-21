@@ -1,8 +1,96 @@
 {
- "generated": "2026-08-20T05:02:38.068030+00:00",
+ "generated": "2026-08-21T05:04:32.352829+00:00",
  "tech": "cpp",
- "count": 107,
+ "count": 109,
  "items": [
+  {
+   "title": "Bit 0 vs. Bit 7: What 10,000 Random Frames Taught Me About AI-Generated Bitfields",
+   "url": "https://dev.to/datacpp_8185/bit-0-vs-bit-7-what-10000-random-frames-taught-me-about-ai-generated-bitfields-55m5",
+   "date": "2026-08-21T00:36:02+00:00",
+   "summary": "Disclosure: This article was prepared as part of MonkeyCode's product outreach.  0xAA 0x01 0x00 0x1C...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Case Study: A Free Model Rewrote a Config Parser. A Differential Fuzz Gate Found the Crash in 90 Seconds.",
+   "url": "https://dev.to/datacpp_8185/case-study-a-free-model-rewrote-a-config-parser-a-differential-fuzz-gate-found-the-crash-in-90-4bpi",
+   "date": "2026-08-20T21:24:45+00:00",
+   "summary": "Case Study: A Free Model Rewrote a Config Parser. A Differential Fuzz Gate Found the Crash...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter FFI: Integrating Native C/C++ Libraries",
+   "url": "https://dev.to/vmodal_ai/flutter-ffi-integrating-native-cc-libraries-5fkn",
+   "date": "2026-08-20T19:43:57+00:00",
+   "summary": "Flutter FFI: Integrating Native C/C++ Libraries   Flutter applications sometimes need...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Case of the Disappearing Timestamps: Untangling a C++ Database Bug in Mixxx",
+   "url": "https://dev.to/sp_gamer_e8a7ce484708618f/the-case-of-the-disappearing-timestamps-untangling-a-c-database-bug-in-mixxx-3kkc",
+   "date": "2026-08-20T19:03:52+00:00",
+   "summary": "As a 3rd-year computer science student, jumping into a massive, production-grade open-source project...",
+   "points": 1,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Plain Shell: A Lightweight and Portable C++17 Shell with Custom Packs and Themes",
+   "url": "https://dev.to/muchprow/building-plain-shell-a-lightweight-and-portable-c17-shell-with-custom-packs-and-themes-4jlc",
+   "date": "2026-08-20T18:29:03+00:00",
+   "summary": "Hey everyone!  I wanted to share a pet project I’ve been working on recently — Plain Shell, a...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "x86 CALL is relative. that's why your PE compressor leaves money on the table",
+   "url": "https://dev.to/iamsopotatoecoder/x86-call-is-relative-thats-why-your-pe-compressor-leaves-money-on-the-table-27k3",
+   "date": "2026-08-20T17:38:34+00:00",
+   "summary": "compress a Windows exe with gzip or with a \"normal\" LZ77 and the ratio is worse than the file...",
+   "points": 1,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Built a Zero-Cloud, Air-Gapped Flutter App using C++ FFI, Quant Math, and Optical QR Sync",
+   "url": "https://dev.to/alexanders-dev/how-i-built-a-zero-cloud-air-gapped-flutter-app-using-c-ffi-quant-math-and-optical-qr-sync-2lf4",
+   "date": "2026-08-20T15:31:06+00:00",
+   "summary": "Building a modern mobile application usually means relying on the cloud. You hook up a BaaS, send...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Introducing ExyokiOffice: An Open-Source C++ Library for Word, Excel and PowerPoint",
+   "url": "https://dev.to/jakub_melka_0109/introducing-exyokioffice-an-open-source-c-library-for-word-excel-and-powerpoint-38aa",
+   "date": "2026-08-20T13:00:00+00:00",
+   "summary": "What is ExyokiOffice?   When I needed to create and edit DOCX / XLSX / PPTX documents from...",
+   "points": 0,
+   "tech": "cpp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Case Study: A Benchmark Gate Rejected a Free Model's C++ \"Optimization\" — and the Noise Floor Agreed",
    "url": "https://dev.to/datacpp_8185/case-study-a-benchmark-gate-rejected-a-free-models-c-optimization-and-the-noise-floor-agreed-3i5j",
@@ -246,94 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "dog challenge",
-   "url": "https://dev.to/carynyx80/dog-challenge-2g44",
-   "date": "2026-08-16T23:42:35+00:00",
-   "summary": "This is a submission for Weekend Challenge: Dog Days Edition  http://petscope.lovable.app/  I built a...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Crash Router Trusted a 0.97 Confidence Score. It Needed a Vote.",
-   "url": "https://dev.to/datacpp_8185/the-crash-router-trusted-a-097-confidence-score-it-needed-a-vote-1m7f",
-   "date": "2026-08-16T22:28:32+00:00",
-   "summary": "A C++ service processed thousands of crash reports a week. The reports landed as JSONL files. Each...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "C++20 Concepts: Constraining Templates for Cleaner, Safer Code",
-   "url": "https://dev.to/toolloom/c20-concepts-constraining-templates-for-cleaner-safer-code-2ehp",
-   "date": "2026-08-16T21:01:00+00:00",
-   "summary": "Master C++20 concepts to constrain templates, improve error messages, and write safer generic code...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build a Crowd Runner Combat Game in Unity: A Technical Guide",
-   "url": "https://dev.to/unitysourcecode/build-a-crowd-runner-combat-game-in-unity-a-technical-guide-1pke",
-   "date": "2026-08-16T18:03:23+00:00",
-   "summary": "Crowd runner games have quietly become one of the most consistently profitable genres in mobile...",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Having fun with SDL_Texture and C.",
-   "url": "https://dev.to/4deis/having-fun-with-sdltexture-and-c-2h8n",
-   "date": "2026-08-16T14:12:32+00:00",
-   "summary": "I have been learning Java for a year now, which made me come to conclusion that I've developed...",
-   "points": 1,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Free Model Kept Returning Valid JSON With Shifting Types. The C++ Gate Refused the Ambiguous Cases.",
-   "url": "https://dev.to/datacpp_8185/a-free-model-kept-returning-valid-json-with-shifting-types-the-c-gate-refused-the-ambiguous-3d5g",
-   "date": "2026-08-16T12:08:34+00:00",
-   "summary": "The crash-tagging pipeline looked stable. A free model endpoint received a sanitized stack trace and...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "FreSH - First-Run Experience Shell",
-   "url": "https://dev.to/s42yt/fresh-first-run-experience-shell-22ce",
-   "date": "2026-08-16T08:08:47+00:00",
-   "summary": "FreSH GitHub Link A bash like shell i created for windows because powershell is just slow and sloppy....",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Build Your Own SQLite Database From Scratch",
-   "url": "https://dev.to/farhadrahimiklie/how-to-build-your-own-sqlite-database-from-scratch-2lcm",
-   "date": "2026-08-16T05:31:33+00:00",
-   "summary": "Have you ever wondered what actually happens when you run a SQL query like:    SELECT name FROM users...",
-   "points": 0,
-   "tech": "cpp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Multiple Inheritance in C++ | CPP Tutorial - 59 | OOPs Private, Protected and Public",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiQnEyWWt3MVVyTTVfM2pJbHVXM1YzNVMyRUlsVkxDNWVzRThtQ3g5T0JTN09FaFBma3FzaWxfZU1BWGV1TUJLQWJNbUtBYkJobG1aUnJn?oc=5",
    "date": "2026-07-29T15:45:52+00:00",
@@ -342,6 +342,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "شرح تفصيلي للينكد ليست بلغة السي بلس بلس | Linked List in C++ (Arabic)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Mk1EM2F3eTR3N2V2NlN2OE52LXJVZzAxcklJTWdzYkRYT3lPMmZWRE9ESDJDTVVHNnltQkZLODlFX3NuRjVuNy1LcXQtSWVqMWVWS0JB?oc=5",
+   "date": "2026-01-18T12:00:00+00:00",
+   "summary": "شرح تفصيلي للينكد ليست بلغة السي بلس بلس | Linked List in C++ (Arabic) YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "الدرس الثاني | العمليات الحسابية والمنطقية في سي بلس بلس",
@@ -588,6 +598,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVUVlabjFCTlllQU9pZHVXVFJoUl8xbktQNExWUHFnczFyalNkN28xblJHYWhPSjBUQmI1ZUh1Ui1hRjd1bVVfNEhkcndpQXEyS2lfYzBR?oc=5",
    "date": "2024-01-24T18:31:51+00:00",
    "summary": "هل ينفع ابدأ اتعلم برمجة بلغة الجافاسكريبت ولا لازم ابدأ بالسي بلس بلس ؟! 🤯 YouTube",
+   "tech": "cpp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم لغة البرمجة ++c للمبتدئين:الدوال التراجعية | function recursion in cpp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTnZkZFdfbTlmaEw5dGZCWk1XanlUWG9FaVhzaGExSmwzeC1WT3B2cU43eW1XZ3FUTFJlaElxdlc0akVabDZHc3VNT0Z5TUZoUjBwLTFR?oc=5",
+   "date": "2023-10-21T13:00:07+00:00",
+   "summary": "تعلم لغة البرمجة ++c للمبتدئين:الدوال التراجعية | function recursion in cpp YouTube",
    "tech": "cpp",
    "sourceId": "ar-yt",
    "source": "YouTube",

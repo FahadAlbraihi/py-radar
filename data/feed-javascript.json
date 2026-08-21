@@ -1,8 +1,365 @@
 {
- "generated": "2026-08-20T05:02:07.073922+00:00",
+ "generated": "2026-08-21T05:04:01.414993+00:00",
  "tech": "javascript",
  "count": 220,
  "items": [
+  {
+   "title": "React Performance Optimization — Every Technique with Before/After Code + Real Production Metrics",
+   "url": "https://dev.to/kirandeepjassalcrypto/react-performance-optimization-every-technique-with-beforeafter-code-real-production-metrics-5ap7",
+   "date": "2026-08-21T05:01:18+00:00",
+   "summary": "\"Make it faster\" is the vaguest ticket in frontend. Faster what? Measured how? Most React perf advice...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SQLite Bug Hunts, Leaked Reasoning Traces, and pnpm Goes Rust",
+   "url": "https://dev.to/urbanisierung/sqlite-bug-hunts-leaked-reasoning-traces-and-pnpm-goes-rust-11ia",
+   "date": "2026-08-21T04:48:02+00:00",
+   "summary": "Databases are having a moment — and not always a comfortable one. Tailscale spent six months chasing...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Parsing Adobe Illustrator .ai files in the browser with pdf.js — four things the docs don't tell you",
+   "url": "https://dev.to/kyungju_leebenjie_519b/parsing-adobe-illustrator-ai-files-in-the-browser-with-pdfjs-four-things-the-docs-dont-tell-you-17nk",
+   "date": "2026-08-21T04:42:22+00:00",
+   "summary": "An .ai file is not really an Illustrator format. If it was saved with Create PDF Compatible File...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Decoupling UI from Logic: Headless Components in React 🧠",
+   "url": "https://dev.to/iprajapatiparesh/decoupling-ui-from-logic-headless-components-in-react-35lb",
+   "date": "2026-08-21T04:42:01+00:00",
+   "summary": "The Crisis of the \"God Component\"  When an engineering team begins building a Design System or a...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How the Circuit Breaker Pattern Keeps Your Apps from Crashing Under Pressure",
+   "url": "https://dev.to/saurav_tb_pandey/how-the-circuit-breaker-pattern-keeps-your-apps-from-crashing-under-pressure-47kl",
+   "date": "2026-08-21T04:21:43+00:00",
+   "summary": "What is the Circuit Breaker Pattern?   The Circuit Breaker pattern is a software design...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-f31",
+   "date": "2026-08-21T04:10:27+00:00",
+   "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Full-Stack App With Laravel + Vue + Tailwind in 2026: The Architecture That Scales…",
+   "url": "https://sadiqueali.medium.com/building-a-full-stack-app-with-laravel-vue-tailwind-in-2026-the-architecture-that-scales-7ecd375b9e37?source=rss------javascript-5",
+   "date": "2026-08-21T04:09:13+00:00",
+   "summary": "Inertia.js for the bridge, Pinia for state, Spatie roles for permissions, Reverb for real-time, Vite for assets, Pest for tests &#x2014; the&#x2026; Continue reading on Medium »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building Reliable WhatsApp Read/Unread Sync for a Shared Inbox",
+   "url": "https://dev.to/unifyport/building-reliable-whatsapp-readunread-sync-for-a-shared-inbox-pad",
+   "date": "2026-08-21T03:36:29+00:00",
+   "summary": "A shared inbox receives a new WhatsApp message.  Should the conversation immediately become...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Build an AI-Powered Git CLI in Node.js with Gemini API",
+   "url": "https://medium.com/codex/build-an-ai-powered-git-cli-in-node-js-with-gemini-api-4863ad92a829?source=rss------javascript-5",
+   "date": "2026-08-21T03:35:21+00:00",
+   "summary": "Learn how to build a lightweight terminal tool that analyses git diffs, generates AI-powered commits, and raises GitHub PRs in seconds. Continue reading on CodeX »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "🐛 How I Fixed the Delta Time Bug in Limn Engine (And How You Can Too)",
+   "url": "https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-the-delta-time-bug-in-limn-engine-and-how-you-can-too-357",
+   "date": "2026-08-21T03:15:51+00:00",
+   "summary": "🐛 How I Fixed the Delta Time Bug in Limn Engine (And How You Can Too)   A story about frame...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React useTimeout Hook: Declarative setTimeout with Cleanup (2026)",
+   "url": "https://dev.to/childrentime/react-usetimeout-hook-declarative-settimeout-with-cleanup-2026-47pk",
+   "date": "2026-08-21T02:41:25+00:00",
+   "summary": "Here is a \"Copied!\" button. Every codebase has one, and this version has three bugs:    function...",
+   "points": 6,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Running third-party ads on a site with a strict CSP (without weakening the CSP)",
+   "url": "https://dev.to/hblai_filmlook/running-third-party-ads-on-a-site-with-a-strict-csp-without-weakening-the-csp-33l2",
+   "date": "2026-08-21T02:22:57+00:00",
+   "summary": "My static site had a deliberately tight Content-Security-Policy: default-src 'self', a short...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Invalid src prop… hostname is not configured: It's One File, Not Two",
+   "url": "https://dev.to/brokeinprod/invalid-src-prop-hostname-is-not-configured-its-one-file-not-two-1phf",
+   "date": "2026-08-21T01:52:23+00:00",
+   "summary": "--- title: \"Invalid src prop… hostname is not configured: It's One File, Not Two\" published:...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Node.js SEA Just Got Way Simpler — Updating My node-sea Boilerplate for Node 26",
+   "url": "https://dev.to/hamdi_laadhari/nodejs-sea-just-got-way-simpler-updating-my-node-sea-boilerplate-for-node-26-1efl",
+   "date": "2026-08-21T01:38:05+00:00",
+   "summary": "A while back I put together node-sea, a small boilerplate showing how to package a TypeScript app...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Rust vs. JavaScript Undefined Behavior Crisis: Lessons from Recent Security Incidents and Cross-Language Compilation Bugs",
+   "url": "https://dev.to/tamizuddin/the-rust-vs-javascript-undefined-behavior-crisis-lessons-from-recent-security-incidents-and-1hbi",
+   "date": "2026-08-21T00:00:34+00:00",
+   "summary": "Analyze recent security incidents where Rust and JavaScript undefined behavior caused critical failures, exploring cross-language compilation bugs and lessons for systems architects.",
+   "points": 2,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We Built Guardrails Against JSON Precision Loss. Then We Found Out Half of Them Weren't Actually Guarding Anything.",
+   "url": "https://dev.to/jacksmith_de/we-built-guardrails-against-json-precision-loss-then-we-found-out-half-of-them-werent-actually-4nk2",
+   "date": "2026-08-20T23:19:40+00:00",
+   "summary": "A few weeks ago I ran this through our own JSON repair tool, in the browser, on our own...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why \"Vibe Coding\" Fails Without a Behavioral Floor: A Browser-Verified Rerun",
+   "url": "https://dev.to/g_dollar/why-vibe-coding-fails-without-a-behavioral-floor-a-browser-verified-rerun-694",
+   "date": "2026-08-20T22:57:04+00:00",
+   "summary": "The Experiment   We just published a comprehensive, browser-verified rerun experiment...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend",
+   "url": "https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal",
+   "date": "2026-08-20T21:21:20+00:00",
+   "summary": "Hey everyone! 👋  Like many developers and sysadmins, I constantly find myself needing to share...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Blocking vs Non-Blocking Code in Node.js",
+   "url": "https://towardsdev.com/blocking-vs-non-blocking-code-in-node-js-e6784d6e9e5d?source=rss------javascript-5",
+   "date": "2026-08-20T20:51:01+00:00",
+   "summary": "Waiting vs continuing &#x2014; one line, two very different outcomes Continue reading on Towards Dev »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building an interactive WebGL water hero in React — and the four bugs it cost me",
+   "url": "https://dev.to/melissuki/building-an-interactive-webgl-water-hero-in-react-and-the-four-bugs-it-cost-me-4n7f",
+   "date": "2026-08-20T20:39:00+00:00",
+   "summary": "I wanted a hero section that reacts to being touched. Not a video loop of water, not a looping GIF —...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Next.js ile Server Actions Kullanarak Güvenli ve Hızlı Form Yönetimi",
+   "url": "https://medium.com/@onurgoker/next-js-ile-server-actions-kullanarak-g%C3%BCvenli-ve-h%C4%B1zl%C4%B1-form-y%C3%B6netimi-ad7078a27934?source=rss------javascript-5",
+   "date": "2026-08-20T20:34:52+00:00",
+   "summary": "API rotalar&#x131; yazma zahmetine ve karma&#x15F;&#x131;k client-side state s&#xFC;re&#xE7;lerine son verin. Next.js Server Actions ile form verilerini do&#x11F;rudan&#x2026; Continue reading on Medium »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Polaris Web Components Migration: Moving Off React (2026)",
+   "url": "https://dev.to/no7software-uk/polaris-web-components-migration-moving-off-react-2026-5jh",
+   "date": "2026-08-20T20:03:56+00:00",
+   "summary": "Executing a Polaris web components migration is no longer an optional cleanup task for Shopify app...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React Reconciliation & Fiber Architecture: How React Renders Efficiently",
+   "url": "https://medium.com/@CagatayUnal/react-reconciliation-fiber-architecture-how-react-renders-efficiently-260dae5e13b4?source=rss------javascript-5",
+   "date": "2026-08-20T19:46:11+00:00",
+   "summary": "A deep dive into React&#x2019;s reconciliation process, why the old approach had limitations, and how Fiber Architecture changed the way React&#x2026; Continue reading on Medium »",
+   "tech": "javascript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Twitter API Guide: Search Tweets, Scrape Data, and Automate",
+   "url": "https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn",
+   "date": "2026-08-20T18:00:46+00:00",
+   "summary": "While building Xquik, I learned that a Twitter API integration must do more than search tweets.  It...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Premium React UI Components with Tailwind CSS and Framer Motion",
+   "url": "https://dev.to/headbanger/building-premium-react-ui-components-with-tailwind-css-and-framer-motion-56op",
+   "date": "2026-08-20T17:21:18+00:00",
+   "summary": "What is GreatUI?   GreatUI is a curated collection of beautiful, copy-pasteable, and...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Manage State like a Pro: Frontend Edition",
+   "url": "https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0",
+   "date": "2026-08-20T16:32:06+00:00",
+   "summary": "AI models write code better and faster than devs, but what AI cannot do reliably for your specific...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Blade, Inertia and Filament, on purpose",
+   "url": "https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn",
+   "date": "2026-08-20T16:06:41+00:00",
+   "summary": "Laravel 13, Inertia 3, React 19, Filament 5.  Part one covered the public site: 26 Blade views, no...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Blamed React for 45 Minutes. The Bug Was One return. 😭",
+   "url": "https://dev.to/akanksha_sharma/i-blamed-react-for-45-minutes-the-bug-was-one-return-1fp2",
+   "date": "2026-08-20T15:19:52+00:00",
+   "summary": "There are two types of Developers:  People who write clean, predictable code. People who add...",
+   "points": 4,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Angular vs React: How I Decide Which to Use for a New Project",
+   "url": "https://dev.to/savitawadje/angular-vs-react-how-i-decide-which-to-use-for-a-new-project-309b",
+   "date": "2026-08-20T15:15:22+00:00",
+   "summary": "The wrong question  \"Angular vs React, which is better?\" is the wrong question. Both are mature,...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Timing Charts: A Blueprint For SMIL Animations",
+   "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+   "date": "2026-08-20T13:00:00+00:00",
+   "summary": "Discover SMIL, the often-overlooked way to animate SVGs that works inside ` ` tags and can fully animate everything in an SVG without JavaScript.",
+   "tech": "javascript",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "A missing exchange rate is not an exchange rate of 1",
+   "url": "https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474",
+   "date": "2026-08-20T12:56:18+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.    var fx =...",
+   "points": 4,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The lighthouse that leaked WebGL memory every time you changed the theme",
+   "url": "https://dev.to/carlosjcastrog/the-lighthouse-that-leaked-webgl-memory-every-time-you-changed-the-theme-4mib",
+   "date": "2026-08-20T11:48:36+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+   "points": 1,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Built a Tile Calculator That Beats Every Home Depot Clone on Google AND Lighthouse (Next.js + JSON-LD Breakdown)",
+   "url": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-built-a-tile-calculator-that-beats-every-home-depot-clone-on-google-and-lighthouse-nextjs--37ng",
+   "date": "2026-08-20T11:15:37+00:00",
+   "summary": "The Search Result That Broke Me   I typed \"how many tiles do I need for a bathroom floor\"...",
+   "points": 0,
+   "tech": "javascript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "The End of useMemo: React Compiler in Next.js",
    "url": "https://dev.to/iprajapatiparesh/the-end-of-usememo-react-compiler-in-nextjs-d9n",
@@ -19,17 +376,6 @@
    "url": "https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7",
    "date": "2026-08-20T04:13:45+00:00",
    "summary": "If you have ever tried to script a React form — a test helper, a browser extension, a bookmarklet, an...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-   "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-19lh",
-   "date": "2026-08-20T04:08:28+00:00",
-   "summary": "I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer...",
    "points": 0,
    "tech": "javascript",
    "sourceId": "devto",
@@ -68,17 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "7,798 Components. Import One, Ship One.",
-   "url": "https://dev.to/james-coombs/7798-components-import-one-ship-one-nk2",
-   "date": "2026-08-20T02:07:55+00:00",
-   "summary": "James Coombs is a design engineer who maintains the icon package a frontend org installs across...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The QA Learning Curve #10: Loops — for, while, do…while, and forEach",
    "url": "https://medium.com/@narmathasundaram17/the-qa-learning-curve-10-loops-for-while-do-while-and-foreach-aa55cc210062?source=rss------javascript-5",
    "date": "2026-08-20T01:42:45+00:00",
@@ -99,72 +434,6 @@
    "lang": "en"
   },
   {
-   "title": "Is 1.234 one, or one thousand? Getting CSV decimal separators right",
-   "url": "https://dev.to/ink_gu/is-1234-one-or-one-thousand-getting-csv-decimal-separators-right-3n7j",
-   "date": "2026-08-20T01:02:41+00:00",
-   "summary": "Here is a number from a bank statement:    1.234        Enter fullscreen mode            Exit...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Cron Job Ran on Time, Processed the Wrong Day, and Logged Nothing",
-   "url": "https://dev.to/codepy_1473/the-cron-job-ran-on-time-processed-the-wrong-day-and-logged-nothing-3o8o",
-   "date": "2026-08-20T00:48:41+00:00",
-   "summary": "Earlier this week I watched a scheduled job do exactly what it was told and still corrupt a day's...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Perry Mason in: The Case of the Drifting Timer",
-   "url": "https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj",
-   "date": "2026-08-20T00:47:41+00:00",
-   "summary": "Taking a naive timer from 'it ticks' to production-grade — timer drift, effect scopes, shallowRef, Temporal API, and SSR safety.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The loading screen that took down every browser I opened",
-   "url": "https://dev.to/carlosjcastrog/the-loading-screen-that-took-down-every-browser-i-opened-3pe8",
-   "date": "2026-08-20T00:03:35+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  There is a...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Logging Done Right: A Practical Guide",
-   "url": "https://dev.to/codeatlas/logging-done-right-a-practical-guide-1l8f",
-   "date": "2026-08-20T00:00:38+00:00",
-   "summary": "Logging Done Right: A Practical Guide   Logging is one of those things we all do, but rarely...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Runtime Versions: The Compatibility Boundary for React Native OTA Updates",
-   "url": "https://dev.to/gfean/runtime-versions-the-compatibility-boundary-for-react-native-ota-updates-3p6a",
-   "date": "2026-08-19T23:50:20+00:00",
-   "summary": "A React Native application is not one artifact.  The binary users install from the App Store or Play...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "From Code To Pixels: How Javascript interacts with the rendering pipeline",
    "url": "https://medium.com/@glorytefe/from-code-to-pixels-how-javascript-interacts-with-the-rendering-pipeline-646761615b0c?source=rss------javascript-5",
    "date": "2026-08-19T23:22:28+00:00",
@@ -172,61 +441,6 @@
    "tech": "javascript",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Your canvas \"A4 export\" is not A4: DPI, print size, and the number nobody checks",
-   "url": "https://dev.to/bellsal_b44bf6d/your-canvas-a4-export-is-not-a4-dpi-print-size-and-the-number-nobody-checks-5akh",
-   "date": "2026-08-19T22:12:08+00:00",
-   "summary": "When I added an \"A4\" preset to a browser-based collage tool, I thought the hard part was the layout...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Computer Fundamentals: No BS",
-   "url": "https://dev.to/thecoollearner/computer-fundamentals-no-bs-10em",
-   "date": "2026-08-19T21:44:49+00:00",
-   "summary": "I've been working with software for a few years now, and I've noticed something uncomfortable.  I can...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "State Management in Front-end Web Development: Mutators",
-   "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
-   "date": "2026-08-19T21:29:49+00:00",
-   "summary": "Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Next.js 14: Server Components and the Return of the React",
-   "url": "https://dev.to/timevolt/nextjs-14-server-components-and-the-return-of-the-react-7jf",
-   "date": "2026-08-19T21:24:22+00:00",
-   "summary": "The Quest Begins (The \"Why\")   Honestly, I was tired of shipping React apps that felt like...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Replaying real-time telemetry through a live rendering pipeline, without touching the components",
-   "url": "https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33",
-   "date": "2026-08-19T21:19:47+00:00",
-   "summary": "A recorded session and a live socket should drive the same instruments the same way. Making that true comes down to one affine transform and a surprisingly sharp question about which clock the components are watching.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -250,50 +464,6 @@
    "lang": "en"
   },
   {
-   "title": "Watch a Game AI Think: Minimax and Alpha-Beta, in a Browser Tab",
-   "url": "https://dev.to/lucian_lkb_1f009d/watch-a-game-ai-think-minimax-and-alpha-beta-in-a-browser-tab-3onj",
-   "date": "2026-08-19T20:42:51+00:00",
-   "summary": "Every \"AI\" opponent in a board game — Tic-Tac-Toe, Connect 4, Checkers, Othello, Chess — tends to run...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Keep React Email Checks Off the Hot Path",
-   "url": "https://dev.to/ryanlee91/keep-react-email-checks-off-the-hot-path-12eh",
-   "date": "2026-08-19T20:24:14+00:00",
-   "summary": "A practical React and Node.js pattern for async email checks that keeps signup fast, clear, and easier to debug.",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "One line of JavaScript disabled server rendering on 190 pages",
-   "url": "https://dev.to/eugen_taranowski/one-line-of-javascript-disabled-server-rendering-on-190-pages-5akb",
-   "date": "2026-08-19T18:58:05+00:00",
-   "summary": "Google reported soft 404s across almost every page on my site — months after I'd added proper metadata to all of them. The cause was a single property read, and the reason nobody caught it is that this failure is invisib",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "React State Management in 2026 — Context API vs Redux Toolkit vs Zustand vs Jotai (Same Cart, Real Code + Benchmarks)",
-   "url": "https://dev.to/kirandeepjassalcrypto/react-state-management-in-2026-context-api-vs-redux-toolkit-vs-zustand-vs-jotai-same-cart-real-1d2a",
-   "date": "2026-08-19T18:20:45+00:00",
-   "summary": "The React state-management debate has produced more bad takes than any other frontend topic. \"Just...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "CSS Navigation Matching, Early Days",
    "url": "https://css-tricks.com/css-navigation-matching-early-days/",
    "date": "2026-08-19T14:44:41+00:00",
@@ -301,28 +471,6 @@
    "tech": "javascript",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "QZ Tray with React: Print Directly from the Browser",
-   "url": "https://dev.to/juliusz_kowalewski_ff40e0/qz-tray-with-react-print-directly-from-the-browser-1h39",
-   "date": "2026-08-19T14:21:40+00:00",
-   "summary": "Browser printing has always been the awkward corner of web development. window.print() gives you a...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.",
-   "url": "https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0",
-   "date": "2026-08-19T13:58:25+00:00",
-   "summary": "I didn't want to write another \"what's new in Next.js 16.3\" post. Enough of those exist. I wanted to...",
-   "points": 20,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -337,72 +485,6 @@
    "kind": "podcast"
   },
   {
-   "title": "Cómo solucionar \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-   "url": "https://dev.to/erickeduardoramos03/como-solucionar-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-7g7",
-   "date": "2026-08-19T09:26:09+00:00",
-   "summary": "Cómo solucionar \"Text content does not match server-rendered HTML\" en Next.js App...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built an app whose only success metric is how fast you close it",
-   "url": "https://dev.to/uhlighpstack/i-built-an-app-whose-only-success-metric-is-how-fast-you-close-it-42m3",
-   "date": "2026-08-19T08:52:28+00:00",
-   "summary": "Most products I've worked on measure success by time-in-app. Fiamo is my attempt at the opposite: a...",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The CSS Grid vs Flexbox Showdown: A Jedi's Guide to Layout Mastery",
-   "url": "https://dev.to/timevolt/the-css-grid-vs-flexbox-showdown-a-jedis-guide-to-layout-mastery-2eje",
-   "date": "2026-08-19T07:39:38+00:00",
-   "summary": "The Quest Begins (The \"Why\")   Honestly, I still remember the first time I tried to build a...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "We built 800+ developer utilities that run 100% in your browser (zero tracking, privacy-first)",
-   "url": "https://dev.to/tecleadev/we-built-800-developer-utilities-that-run-100-in-your-browser-zero-tracking-privacy-first-kfj",
-   "date": "2026-08-19T04:52:08+00:00",
-   "summary": "Every developer has been there: you need to format a JSON payload, decode a JWT, test a regex, or...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I built a real-time job board watcher that alerts you the second a matching job goes live",
-   "url": "https://dev.to/alex_m_137/i-built-a-real-time-job-board-watcher-that-alerts-you-the-second-a-matching-job-goes-live-3ni1",
-   "date": "2026-08-19T04:48:02+00:00",
-   "summary": "A few months ago I got tired of how job hunting actually works. You find a role you like, you apply,...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Native Modals: Parallel & Intercepted Routes in Next.js 🔀",
-   "url": "https://dev.to/iprajapatiparesh/native-modals-parallel-intercepted-routes-in-nextjs-1pao",
-   "date": "2026-08-19T04:43:35+00:00",
-   "summary": "Liquid syntax error: Variable '{{% raw %}' was not properly terminated with regexp: /\\}\\}/",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The QA Learning Curve #9: Increment and Decrement-The Difference Between ++x and x++",
    "url": "https://medium.com/@narmathasundaram17/the-qa-learning-curve-9-increment-and-decrement-the-difference-between-x-and-x-b2c94f134e6a?source=rss------javascript-5",
    "date": "2026-08-19T03:45:04+00:00",
@@ -410,28 +492,6 @@
    "tech": "javascript",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Building image & video conversion that never leaves the browser",
-   "url": "https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga",
-   "date": "2026-08-19T02:52:56+00:00",
-   "summary": "How VisualRefiner converts HEIC, compresses images, and transcodes video with no server, no upload,...",
-   "points": 0,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Markdown Parser Is Not Your XSS Boundary",
-   "url": "https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk",
-   "date": "2026-08-19T02:36:27+00:00",
-   "summary": "A Markdown parser can produce exactly the right HTML and still leave your application exposed to XSS....",
-   "points": 1,
-   "tech": "javascript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -462,56 +522,6 @@
    "tech": "javascript",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
-   "lang": "en"
-  },
-  {
-   "title": "Stajda Terminal Günlüklerim #3: Vite ile React Frontend Kurulumu",
-   "url": "https://medium.com/@kubrabilim028/stajda-terminal-g%C3%BCnl%C3%BCklerim-3-vite-ile-react-frontend-kurulumu-affb30d7bbd0?source=rss------javascript-5",
-   "date": "2026-08-18T21:36:56+00:00",
-   "summary": "Serinin &#xFC;&#xE7;&#xFC;nc&#xFC; yaz&#x131;s&#x131;nda frontend taraf&#x131;na ge&#xE7;iyorum: Vite ile bir React projesi kurmak, bile&#x15F;en yap&#x131;s&#x131; olu&#x15F;turmak ve production build&#x2026; Continue reading on Medium »",
-   "tech": "javascript",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Beyond useEffect: Engineering Production-Grade AI Workflows in React",
-   "url": "https://medium.com/@hymanaharon/beyond-useeffect-engineering-production-grade-ai-workflows-in-react-92b712ea16da?source=rss------javascript-5",
-   "date": "2026-08-18T20:30:04+00:00",
-   "summary": "Most &#x201C;React + AI&#x201D; tutorials show you how to call a inside fetch to OpenAPI inside a useEffect or pass a prompt to a server action. Continue reading on Medium »",
-   "tech": "javascript",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Angular vs React in 2026: What Each One Actually Is, and When to Pick Which",
-   "url": "https://liu-111.medium.com/angular-vs-react-in-2026-what-each-one-actually-is-and-when-to-pick-which-98e242a918be?source=rss------javascript-5",
-   "date": "2026-08-18T20:28:43+00:00",
-   "summary": "Hi everyone, welcome back. Today, I will be going over Angular and React &#x2014; what each one is, how they differ, and the situations where a&#x2026; Continue reading on Medium »",
-   "tech": "javascript",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "10 JavaScript Formatting Tools, Explained for People Who Just Want Their Code to Look Right",
-   "url": "https://liu-111.medium.com/10-javascript-formatting-tools-explained-for-people-who-just-want-their-code-to-look-right-c6d3afc54939?source=rss------javascript-5",
-   "date": "2026-08-18T20:27:55+00:00",
-   "summary": "Hi everyone, welcome back. Today, I will be going over code formatting tools for JavaScript &#x2014; what each one does, how to actually use it&#x2026; Continue reading on Medium »",
-   "tech": "javascript",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Explaining “this” in JavaScript",
-   "url": "https://medium.com/@nihalmuhd/explaining-this-in-javascript-4122f5713f05?source=rss------javascript-5",
-   "date": "2026-08-18T20:25:44+00:00",
-   "summary": "&#x201C;this&#x201D; in js equals to window in browser or global in node js. Continue reading on Medium »",
-   "tech": "javascript",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -1186,6 +1196,16 @@
    "lang": "en"
   },
   {
+   "title": "{جافا سكريبت من الصفر} (16) Events | التفاعل مع المستخدمين",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoMlVQTjBzSnBwZjBXQTF5SUppS2RFZzAwRXdfd3haX0piWjNlOUlsSGtGZEZRalZ2Y1A5ZERhd21Ma1J1V0EtY1VTN1U0R1U5elB2Vkx3?oc=5",
+   "date": "2024-06-22T16:30:09+00:00",
+   "summary": "{جافا سكريبت من الصفر} (16) Events | التفاعل مع المستخدمين YouTube",
+   "tech": "javascript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "{جافا سكريبت من الصفر} (15) - DOM Manipulation | اضافة عناصر في صفحة الويب",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56VU4xbzJnblJqWF9XWDU0Z3NZYnNaQ3VrUVI0WlRCQkFOYmFaMmp2T2ZjSWt5M0hOd3dZdU1KdEdpdlBCRHZCQ2pydlFwejRNUW5oRzhR?oc=5",
    "date": "2024-06-19T17:00:13+00:00",
@@ -1299,10 +1319,10 @@
    "title": "#2 Java Script Tutorial | Scroll Bar | كورس جافا سكريبت",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbUpTS2ZNM1pId1J1TXdnbFdBQ2pBRGNxZDMxSXNrS0tHR09NMU5pZzR1bEl1TE53cjl6dVVHSHNXOTdlQVh5UjBsVl8yTW1TYk0wMlNR?oc=5",
    "date": "2024-04-30T12:00:28+00:00",
-   "summary": "#2 Java Script Tutorial | Scroll Bar | كورس جافا سكريبت youtube.com",
+   "summary": "#2 Java Script Tutorial | Scroll Bar | كورس جافا سكريبت YouTube",
    "tech": "javascript",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1384,16 +1404,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Testing JavaScript with Jest on Vultr",
-   "url": "https://developer.mozilla.org/en-US/blog/test-javascript-with-jest-on-vultr/",
-   "date": "2024-03-22T00:00:00+00:00",
-   "summary": "This guide introduces you to the common types of tests and the testing conventions. Learn how to test JavaScript with Jest on Vultr.",
-   "tech": "javascript",
-   "sourceId": "sites",
-   "source": "مواقع تقنية",
-   "lang": "en"
   },
   {
    "title": "ببساطة : async و await في جافا سكريبت",
@@ -1520,6 +1530,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VMmlRbWlZRmkyTXdkdFlQUTNMMW83TzRPWlpvdDcyckNlLVFySXpLYlhsallpNWdKa09scVNqc3dRQldxNDRaeTFrY3JTMUNRRjFBWGh3?oc=5",
    "date": "2023-03-26T12:22:29+00:00",
    "summary": "تطبيق الأذكار بالجافاسكريبت ☪️✅.. مشاريع جافاسكربت YouTube",
+   "tech": "javascript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس جافاسكريبت JavaScript/Node.js (Arabic) - #1 Variables",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPTlVZM05RTHBWNkdIbU5wX3o1NUozaDZlMWRudC1qMjJaZGRBaXJmVUdqQnNsYm5IZGlkVGF2dlh3c2FKSkJlNWNzLWpzTGMwR3JXSkNn?oc=5",
+   "date": "2023-03-14T19:41:21+00:00",
+   "summary": "كورس جافاسكريبت JavaScript/Node.js (Arabic) - #1 Variables YouTube",
    "tech": "javascript",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2220,26 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85QWJ1X2FCclRWaFl4UHBral9nV1k4ektCNUk4eFduZE4zYks4Ylg1cGhGSWFtUUJjYVFhNHhac2V4MVk2ZDhQei1lYnh3TzQ3Uy0yN1BR?oc=5",
    "date": "2020-11-01T06:15:00+00:00",
    "summary": "انشاء وظيفة بالجافاسكربت وطلبها عند النقر على الزر | JS function YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "انشاء ملف خاص بالجافا سكربت وشرح طريقة ربطه بملف ال html | جافا سكريبت من الصفر",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRHVuZktMLUs0YWhndjM0VWhHSU9iWnNuc2I5cWJZV0VzeDc3Z1ZPaVl5bzYzdUYzOHFNYXJMX2o2dzVUYW9WNFkzcnh5VVIxNWt5WlVB?oc=5",
-   "date": "2020-10-26T20:55:47+00:00",
-   "summary": "انشاء ملف خاص بالجافا سكربت وشرح طريقة ربطه بملف ال html | جافا سكريبت من الصفر YouTube",
-   "tech": "javascript",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#00 - تعلم رياكت - برمجة واجهات المواقع والتطبيقات من فيسبوك",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlSTJNZXpfeWpaeE0xcUVXdjAzWXNhc0VLRmJTakhfZFpjRzYtdEt4Qm1mMlFNSGVmU3l1YkZzU3drWlVCVVFPMzFEWW5HcWhodFR3MG9B?oc=5",
-   "date": "2020-08-15T16:46:09+00:00",
-   "summary": "#00 - تعلم رياكت - برمجة واجهات المواقع والتطبيقات من فيسبوك YouTube",
    "tech": "javascript",
    "sourceId": "ar-yt",
    "source": "YouTube",

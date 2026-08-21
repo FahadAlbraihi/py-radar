@@ -1,14 +1,122 @@
 {
- "generated": "2026-08-20T05:17:00.566436+00:00",
+ "generated": "2026-08-21T05:09:54.386111+00:00",
  "tech": "solidity",
- "count": 120,
+ "count": 122,
  "items": [
+  {
+   "title": "Your Bridge's Security Page Is Lying to You",
+   "url": "https://dev.to/0xrivet/your-bridges-security-page-is-lying-to-you-40pk",
+   "date": "2026-08-20T19:41:14+00:00",
+   "summary": "I spent the last few months pulling apart bridge security pages and comparing what they claim to what...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build Fault-Tolerant Blockchain RPC Infrastructure",
+   "url": "https://hackernoon.com/how-to-build-fault-tolerant-blockchain-rpc-infrastructure?source=rss",
+   "date": "2026-08-20T18:50:04+00:00",
+   "summary": "Most dApp outages trace back to RPC infrastructure, not smart contracts. Here's what breaks under load and how to build node monitoring that catches it first.",
+   "tech": "solidity",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Who Got Paid: Identifying Anonymous DEX Frontends by Their Fee Recipient",
+   "url": "https://dev.to/andrewmaury/who-got-paid-identifying-anonymous-dex-frontends-by-their-fee-recipient-50i8",
+   "date": "2026-08-20T17:40:08+00:00",
+   "summary": "There is no standard fee event on a swap. Identifying a frontend's cut is exclusion rather than decoding: five exclusions, a fifty-swap run with every survivor inspected, and a medium confidence ceiling on purpose.",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "알고리즘 스테이블코인의 고질적 취약성: 반복되는 붕괴의 서막",
+   "url": "https://dev.to/ice1121/algorijeum-seuteibeulkoinyi-gojiljeog-cwiyagseong-banbogdoeneun-bunggoeyi-seomag-3aln",
+   "date": "2026-08-20T15:13:42+00:00",
+   "summary": "암호화폐의 예측 불가능한 변동성 속에서 법정화폐의 안정성을 연결하고자 탄생한 스테이블코인은 디지털 자산 생태계의 핵심 축이라 할 수 있다. 이들은 예측 가능한 가치 저장 수단을...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Inherent Fragility: Why Algorithmic Stablecoins Repeatedly Fail",
+   "url": "https://dev.to/ice1121/the-inherent-fragility-why-algorithmic-stablecoins-repeatedly-fail-26g8",
+   "date": "2026-08-20T15:13:39+00:00",
+   "summary": "Introduction   Stablecoins, designed to bridge the volatile world of cryptocurrencies with...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MAYAChain Exploit Analysis: How 49M Fake CACAO Tokens Drained $1.7M",
+   "url": "https://dev.to/qanzhi111/mayachain-exploit-analysis-how-49m-fake-cacao-tokens-drained-17m-34ec",
+   "date": "2026-08-20T13:25:11+00:00",
+   "summary": "A Fresh Cross-Chain Accounting Failure   On August 18, 2026, MAYAChain was halted after an...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stacking C2PA Content Credentials with Blockchain Timestamps in Python",
+   "url": "https://dev.to/craig_solomon/stacking-c2pa-content-credentials-with-blockchain-timestamps-in-python-3dob",
+   "date": "2026-08-20T13:00:00+00:00",
+   "summary": "A file arrives from the field. It has C2PA content credentials: the camera model, GPS coordinates,...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Native AA Delayed, ERC-4337 Gets a Reality Check, EOA Migration Debated, Ethereum Drops Poseidon",
+   "url": "https://dev.to/etherspot/native-aa-delayed-erc-4337-gets-a-reality-check-eoa-migration-debated-ethereum-drops-poseidon-200a",
+   "date": "2026-08-20T10:24:21+00:00",
+   "summary": "Welcome to our weekly digest, where we unpack the latest in account and chain abstraction and the...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Happened When We Stress-Tested an AI Solidity Auditor on ~230 Contracts",
+   "url": "https://medium.com/@giladha/what-happened-when-we-stress-tested-an-ai-solidity-auditor-on-230-contracts-d45e0973e5fe?source=rss------solidity-5",
+   "date": "2026-08-20T06:48:30+00:00",
+   "summary": "Weak model vs strong model. Same prompt. Very different outcomes. Continue reading on Medium »",
+   "tech": "solidity",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Who Arbitrates the Arbiter? Where Agent Trades Need a Judge - and Where They Don't",
+   "url": "https://dev.to/barissozen/who-arbitrates-the-arbiter-where-agent-trades-need-a-judge-and-where-they-dont-1f1e",
+   "date": "2026-08-20T06:08:18+00:00",
+   "summary": "Two numbers came out of the agent economy this week, and together they draw a line that most...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "I searched 'Sepolia' in my wallet's network list and got 20+ similar names. Here's the one number that actually matters.",
    "url": "https://dev.to/nomurasan/i-searched-sepolia-in-my-wallets-network-list-and-got-20-similar-names-heres-the-one-number-4eml",
    "date": "2026-08-20T04:34:02+00:00",
    "summary": "My first Web3 hands-on session hit a snag at step two: the network search returned a wall of near-identical names. The chain ID is the only ",
-   "points": 0,
+   "points": 1,
    "tech": "solidity",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -30,7 +138,7 @@
    "url": "https://dev.to/ice1121/gyujeyi-siheomdae-gugga-gweonryeogi-amhohwapyeyi-bulggoceul-ggeul-su-isseulgga-27hc",
    "date": "2026-08-20T03:15:27+00:00",
    "summary": "규제가 암호화폐를 \"죽일\" 수 있는지에 대한 질문은 디지털 자산 생태계에서 가장 오랫동안 이어져 온 핵심적인 논쟁 중 하나다. 이는 주권 국가의 통제와 블록체인 기술의 근간을 이루는...",
-   "points": 0,
+   "points": 1,
    "tech": "solidity",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -41,7 +149,7 @@
    "url": "https://dev.to/ice1121/the-regulatory-crucible-can-state-authority-extinguish-cryptocurrencys-flame-58eb",
    "date": "2026-08-20T03:15:25+00:00",
    "summary": "Introduction   The question of whether regulation can \"kill\" cryptocurrency is one of the...",
-   "points": 0,
+   "points": 1,
    "tech": "solidity",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -286,17 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "진화하는 암호화폐 지형: 본질적 가치, AI 혁신, 그리고 규제적 요구의 통합",
-   "url": "https://dev.to/ice1121/jinhwahaneun-amhohwapye-jihyeong-bonjiljeog-gaci-ai-hyeogsin-geurigo-gyujejeog-yoguyi-tonghab-4b8j",
-   "date": "2026-08-17T03:14:02+00:00",
-   "summary": "암호화폐와 블록체인 생태계는 심오한 변화를 겪고 있으며, 이는 초기 투기 단계를 넘어 보다 성숙하고 가치 중심적인 패러다임으로 전환하고 있다는 신호다. 이러한 진화는 단순한 시가총액...",
-   "points": 1,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Yokai OS Earns a 57.23 Proof of Usefulness Score by Building a Telegram-Native AI Community Operating System",
    "url": "https://hackernoon.com/yokai-os-earns-a-5723-proof-of-usefulness-score-by-building-a-telegram-native-ai-community-operating-system?source=rss",
    "date": "2026-08-16T17:47:52+00:00",
@@ -304,83 +401,6 @@
    "tech": "solidity",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Building PangeniAI: A Decentralized AI dApp on Polygon",
-   "url": "https://dev.to/pratik_pangeni_cf04835748/building-pangeniai-a-decentralized-ai-dapp-on-polygon-3ne0",
-   "date": "2026-08-16T16:23:33+00:00",
-   "summary": "Building PangeniAI: A Decentralized AI dApp on Polygon    AI that actually cares — no...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "이더리움의 패러다임 전환: 더 머지가 가져온 변혁적 영향 심층 분석",
-   "url": "https://dev.to/ice1121/ideoriumyi-paereodaim-jeonhwan-deo-meojiga-gajyeoon-byeonhyeogjeog-yeonghyang-simceung-bunseog-23cd",
-   "date": "2026-08-16T15:13:44+00:00",
-   "summary": "2022년 9월 15일 실행된 이더리움 머지는 탈중앙화 네트워크 역사상 가장 야심 차고 기술적으로 복잡한 업그레이드로 평가받는다. 수년 동안 암호화폐 커뮤니티는 보다 지속 가능하고...",
-   "points": 1,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ethereum's Paradigm Shift: Unpacking the Transformative Impact of The Merge",
-   "url": "https://dev.to/ice1121/ethereums-paradigm-shift-unpacking-the-transformative-impact-of-the-merge-499a",
-   "date": "2026-08-16T15:13:41+00:00",
-   "summary": "Introduction   The Ethereum Merge, executed on September 15, 2022, stands as arguably the...",
-   "points": 1,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Institutional Adoption Rate in Decentralized Finance",
-   "url": "https://dev.to/qistdefi/institutional-adoption-rate-in-decentralized-finance-51ib",
-   "date": "2026-08-16T04:00:05+00:00",
-   "summary": "Learn about the institutional adoption rate in decentralized Islamic finance with Qist: transparency, Sharia compliance, and practical solutions.",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "디지털 금융과 데이터의 교차점: 수렴과 역설 속 기회와 도전",
-   "url": "https://dev.to/ice1121/dijiteol-geumyunggwa-deiteoyi-gyocajeom-suryeomgwa-yeogseol-sog-gihoewa-dojeon-4h6b",
-   "date": "2026-08-16T03:13:56+00:00",
-   "summary": "오늘날 디지털 환경은 전통 금융(TradFi)과 탈중앙화 블록체인 생태계의 급속한 융합, 그리고 AI 기반 데이터 수집의 가속화라는 특징 속에서 심오한 변화를 겪고 있다. 이...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Convergence and Contradiction: Navigating the Evolving Digital Frontier of Finance and Data",
-   "url": "https://dev.to/ice1121/convergence-and-contradiction-navigating-the-evolving-digital-frontier-of-finance-and-data-5h78",
-   "date": "2026-08-16T03:13:53+00:00",
-   "summary": "Introduction   The digital landscape is undergoing a profound transformation, characterized...",
-   "points": 1,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Redbelly Network: A Builder's Troubleshooting Guide",
-   "url": "https://dev.to/chris0x80429/redbelly-network-a-builders-troubleshooting-guide-130e",
-   "date": "2026-08-15T20:22:42+00:00",
-   "summary": "A working troubleshooting reference for developers deploying on Redbelly — written from the Developer...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -451,6 +471,16 @@
    "tech": "solidity",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build Private Smart Contracts on Aztec for Solidity Developers",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tS0JRMmtoWl9GSEkwZGtwZnAxNUtIUUxlYUN2elh1aXhiUWVEeEV5VXk5Z3I1Zmo0YWZJNE9CS29acjFQYXdUeGZ0ZHlETUlBSVQzajd3?oc=5",
+   "date": "2026-04-21T14:59:39+00:00",
+   "summary": "How to Build Private Smart Contracts on Aztec for Solidity Developers YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -914,6 +944,16 @@
    "lang": "en"
   },
   {
+   "title": "Hardhat Localhost Node | Ultimate Web3 Solidity & Javascript Course | Lesson 6 Pt. 10",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUDVZSUZwdWNBVkZyWk5YQ0tfXzlXT3NiYjl4SWFLaE9BWnVxT1ZEV3h4bjZ3S2l1QUR4bEtQcDdpa1EzV2FUMEl4b2Y4UExGY1hXakh3?oc=5",
+   "date": "2022-09-23T13:10:00+00:00",
+   "summary": "Hardhat Localhost Node | Ultimate Web3 Solidity & Javascript Course | Lesson 6 Pt. 10 YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Solana Free 2-hour course : How to Build Smart Contracts (Rust)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rOWhlckJxem9DaG1sNDlFdUlCRGFtWVR0QkZzWk5nMEVyUW1nTFhiVEVTekR0ckxhOGVQOWxOc0dtNXQzb3lUSWgwWjNDM2hVaWVwODFn?oc=5",
    "date": "2022-09-22T18:00:02+00:00",
@@ -1208,26 +1248,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aU1FSQXQtQ0V0UUlUSEtQdFdtTlZjYjdPNVFTMkZ1UjNIcVNRVmlEaTBXSzBzX3lwRHl4Q1p1dGU3aGRGZjdwV1BWdVlXQzJwU1NiOURn?oc=5",
    "date": "2021-10-08T13:30:05+00:00",
    "summary": "Deploy Solidity Smart Contracts with Ganache Personal Blockchain YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "web3.js full course | Master Web3js Library (Ethereum) | Code Eater | Hindi",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wOG81VmVERzJ1dW40aHQ3MnlFbmY4N05ZalIzb2ZTc3RjcmQ0SEJJMDBxWjMyOHQ0WS1neUZMbU9Sb3h3RV9UWU11Z0czYk9WZlVjVkZR?oc=5",
-   "date": "2021-09-30T11:58:48+00:00",
-   "summary": "web3.js full course | Master Web3js Library (Ethereum) | Code Eater | Hindi YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1icHZJenlIY2huYUJkUUdjWWhZc2NHM05SR3FhTHE4dlBhaC1WMkUyV3N5bEkzOHRxOG9HdU5aUXQ3VUhMb0o1UXBXdUtxNlBIalNJMGZB?oc=5",
-   "date": "2021-09-09T13:38:22+00:00",
-   "summary": "Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial YouTube",
    "tech": "solidity",
    "sourceId": "yt",
    "source": "YouTube",

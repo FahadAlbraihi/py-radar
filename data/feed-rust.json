@@ -1,8 +1,96 @@
 {
- "generated": "2026-08-20T05:03:19.899159+00:00",
+ "generated": "2026-08-21T05:05:13.406381+00:00",
  "tech": "rust",
- "count": 117,
+ "count": 118,
  "items": [
+  {
+   "title": "Your Cargo.lock Diff Is Also a Permission Diff",
+   "url": "https://dev.to/demivalerith/your-cargolock-diff-is-also-a-permission-diff-3bg",
+   "date": "2026-08-21T02:22:21+00:00",
+   "summary": "The concrete problem   A Rust dependency change looks deceptively tidy in review. The pull...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Defending Your Rust Builds Against Malicious Proc Macros",
+   "url": "https://dev.to/robust_true_try/defending-your-rust-builds-against-malicious-proc-macros-56li",
+   "date": "2026-08-21T02:00:14+00:00",
+   "summary": "Learn practical steps to detect and block build‑time malware like the Arrayref crate before it infects your CI.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Rust vs. JavaScript Undefined Behavior Crisis: Lessons from Recent Security Incidents and Cross-Language Compilation Bugs",
+   "url": "https://dev.to/tamizuddin/the-rust-vs-javascript-undefined-behavior-crisis-lessons-from-recent-security-incidents-and-1hbi",
+   "date": "2026-08-21T00:00:34+00:00",
+   "summary": "Analyze recent security incidents where Rust and JavaScript undefined behavior caused critical failures, exploring cross-language compilation bugs and lessons for systems architects.",
+   "points": 2,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How we cut repo-wide symbol indexing for LLM agents from 30s to 98ms",
+   "url": "https://dev.to/wulun811/how-we-cut-repo-wide-symbol-indexing-for-llm-agents-from-30s-to-98ms-1mn2",
+   "date": "2026-08-20T18:51:52+00:00",
+   "summary": "How we cut repo-wide symbol indexing for LLM agents from 30s to 98ms   If your coding agent...",
+   "points": 1,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "¿Qué es la criptografía post-cuántica y por qué deberías migrar ya?",
+   "url": "https://dev.to/isazajuancarlos/que-es-la-criptografia-post-cuantica-y-por-que-deberias-migrar-ya-1l45",
+   "date": "2026-08-20T18:15:58+00:00",
+   "summary": "Explicación clara de la amenaza cuántica, el ataque 'harvest now, decrypt later', los estándares ML-KEM y ML-DSA del NIST, y por qué la migración empieza hoy.",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Built a Local Dev Proxy. Six Months Later, Its Daemon No Longer Runs as Root",
+   "url": "https://dev.to/rbas/i-built-a-local-dev-proxy-six-months-later-its-daemon-no-longer-runs-as-root-36on",
+   "date": "2026-08-20T17:34:51+00:00",
+   "summary": "Six months ago, I wrote about why I was tired of developing on URLs like http://localhost:3000 and...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built a Markdown editor under 10MB because Obsidian felt too heavy",
+   "url": "https://dev.to/martzcode/i-built-a-markdown-editor-under-10mb-because-obsidian-felt-too-heavy-4b90",
+   "date": "2026-08-20T12:43:51+00:00",
+   "summary": "I love writing in Markdown. What I don't love is opening a 200MB+ Electron app just to jot down a...",
+   "points": 0,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Octomind 0.44.2: I Removed the Agent's Ability to Grade Its Own Homework",
+   "url": "https://dev.to/donk8r/octomind-0442-i-removed-the-agents-ability-to-grade-its-own-homework-97l",
+   "date": "2026-08-20T08:55:00+00:00",
+   "summary": "The Lie That Bugged Me   I was building a feature last month when Octomind told me it was...",
+   "points": 1,
+   "tech": "rust",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Rust has 1,332 vulnerability advisories for every open-source scanner. Dart has zero scanners.",
    "url": "https://dev.to/hamelin123/rust-has-1332-vulnerability-advisories-for-every-open-source-scanner-dart-has-zero-scanners-1p49",
@@ -19,7 +107,7 @@
    "url": "https://dev.to/gouranga-das-khulna/the-bug-i-shipped-then-had-to-fix-myself-disabling-proton-pass-clis-keyring-on-android-4l73",
    "date": "2026-08-20T02:47:44+00:00",
    "summary": "A little over a week after proton-pass-cli merged into termux-packages, I was still riding the high...",
-   "points": 0,
+   "points": 1,
    "tech": "rust",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -239,94 +327,6 @@
    "url": "https://dev.to/jayeshmepani/modernizing-legacy-css-without-breaking-the-cascade-introducing-cssforge-435c",
    "date": "2026-08-18T11:24:45+00:00",
    "summary": "CSS has changed a lot.  We now have native nesting, :is(), :where(), :has(), range media queries,...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your realtime UI can lie to you, and nothing logs it",
-   "url": "https://dev.to/akosidencio/your-realtime-ui-can-lie-to-you-and-nothing-logs-it-5gbo",
-   "date": "2026-08-18T10:31:58+00:00",
-   "summary": "Polling wastes requests. Push loses events. The failure that should scare you is the one where the page just quietly shows the wrong number — and the stream I built to report it instead.",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The same Rust gave two different answers, and neither matched JavaScript",
-   "url": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
-   "date": "2026-08-18T08:45:11+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Demo...",
-   "points": 22,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I spent about a week and a half building a desktop app for Fooocus, then I panicked about the wrong thing.",
-   "url": "https://dev.to/moersebene/i-spent-about-a-week-and-a-half-building-a-desktop-app-for-fooocus-then-i-panicked-about-the-wrong-253p",
-   "date": "2026-08-18T08:13:04+00:00",
-   "summary": "I spent about a week and a half building Fooocus Front, a Windows desktop app that installs, launches...",
-   "points": 1,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The test asserted exactly what could not fail",
-   "url": "https://dev.to/cleiton_augusto_/the-test-asserted-exactly-what-could-not-fail-77",
-   "date": "2026-08-18T00:05:54+00:00",
-   "summary": "Over the last month I found correctness bugs in three different quantum software projects. All three...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Three gates that should have left one behind",
-   "url": "https://dev.to/cleiton_augusto_/three-gates-that-should-have-left-one-behind-409h",
-   "date": "2026-08-18T00:04:04+00:00",
-   "summary": "I have been building a linter for quantum chemistry setups, nqf-lint. Some of it is easy. Some of it...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI Agents Don’t Need More Context. They Need Memory.",
-   "url": "https://dev.to/mikeross27/ai-agents-dont-need-more-context-they-need-memory-470o",
-   "date": "2026-08-17T23:11:37+00:00",
-   "summary": "We keep making AI models better at reasoning.  We give them larger context windows.  We connect them...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Hashing across architectures",
-   "url": "https://dev.to/geauxvirtual/hashing-across-architectures-3fb4",
-   "date": "2026-08-17T22:56:04+00:00",
-   "summary": "In a previous post, I mentioned how just because you develop on a brand new or nearly new laptop...",
-   "points": 0,
-   "tech": "rust",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A blockchain is a line. We built a mesh: the architecture of offline-first validation",
-   "url": "https://dev.to/navigatorbuilds/a-blockchain-is-a-line-we-built-a-mesh-the-architecture-of-offline-first-validation-564f",
-   "date": "2026-08-17T21:51:37+00:00",
-   "summary": "Written by Elara, the AI maintainer of Elara Protocol, published under the account of my human...",
    "points": 0,
    "tech": "rust",
    "sourceId": "devto",
@@ -1054,6 +1054,16 @@
    "lang": "en"
   },
   {
+   "title": "Enums in Rust - Rust full tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UaDRaQ09JajVhanZqM1lHaEI4bXJLclllNUZjMVkwS2tOU1NUTXlxeTFBajBmMGdKTW9WMXNLY3BoVmF4RWhxdm52eTVqUnF4RXQtUHF3?oc=5",
+   "date": "2024-04-02T13:00:27+00:00",
+   "summary": "Enums in Rust - Rust full tutorial YouTube",
+   "tech": "rust",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Rust AI Function Calling - Full Tutorial (with async-openai)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyQlo3cWJoLU5oOFRFbGxQcnFuU0xmdi1UVTBzU1lyOEdSYlpfdHcteEFZV25qd3hqUERMekFVa1pVZllqZDJPWThMZzVIeXRza1hHM0Z3?oc=5",
    "date": "2024-03-24T13:30:04+00:00",
@@ -1094,23 +1104,13 @@
    "lang": "en"
   },
   {
-   "title": "How to create website in Rust using HTML & CSS | Rust Tutorial -52 | Dr Vipin Classes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yYjNuTnFKYlBZb0pBdGVhaUF4TzBnNkVZWS1qanNkbGQtNXJOYkg5TEZOcjBJWEFKQ0ViZnFfQWRXY2M3OXBkR0xIeUNqY2FFWmNiYVB3?oc=5",
-   "date": "2024-03-03T14:44:08+00:00",
-   "summary": "How to create website in Rust using HTML & CSS | Rust Tutorial -52 | Dr Vipin Classes YouTube",
-   "tech": "rust",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "خد فكرة عن Rust",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvUWwybjhqZVpGbjRYb3J5MEpONURnZEZjaWozOEFubTRFcUpuTzNBcEwydmo4VjBpTjh1cXJqRnZSdkxSNXUxX0pKcllmcFNGX0tmT0FB?oc=5",
    "date": "2024-02-03T07:43:14+00:00",
-   "summary": "خد فكرة عن Rust youtube.com",
+   "summary": "خد فكرة عن Rust YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1127,10 +1127,10 @@
    "title": "C | C++ | Rust | Embedded languages | محمد يوسف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWldvaGdHWE0zMlc5S2RDdTJleHBiM3gtSU83dm9HMFZqOUotcmRORFpLLTJuM1BhTHVLdnp2Vm5MNXhrNGxkZVV3eGtMNk5WSlRaWkdB?oc=5",
    "date": "2023-05-22T17:00:08+00:00",
-   "summary": "C | C++ | Rust | Embedded languages | محمد يوسف youtube.com",
+   "summary": "C | C++ | Rust | Embedded languages | محمد يوسف YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1197,10 +1197,20 @@
    "title": "Rust tutorial in Arabic شرح و تطبيق الكتاب الرسمي للغة البرمجة رصت",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Wb3JXUExEdjZ0NmxpUHVoNndTYWhrX1Q0UHNDSkdzRVpldGtmV1N3U2Z0a2dweVN3cEtkTWlzLVBSam1Mblc0MjRaVExyb0g0bUhSaGNUZU9Wak1BOHBIS3lEekJxY2hRTEF3UTRjUGdVTEgwcmZLaHR1ZGo?oc=5",
    "date": "2018-10-29T13:17:51+00:00",
-   "summary": "Rust tutorial in Arabic شرح و تطبيق الكتاب الرسمي للغة البرمجة رصت youtube.com",
+   "summary": "Rust tutorial in Arabic شرح و تطبيق الكتاب الرسمي للغة البرمجة رصت YouTube",
    "tech": "rust",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "رسالة الى متابعي قناتي و عن لغة البرمجة RUST.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHOUJWZ3BYc2I2bEJZVng3dmFIeENXMEk5MFZZSXV5R0QtdnRSX3JMM3F1Y1I2dlQ1YkpQazExRTBRcU1BajZNT0h4aGxoYW9FcXIwYlRB?oc=5",
+   "date": "2017-05-06T09:05:35+00:00",
+   "summary": "رسالة الى متابعي قناتي و عن لغة البرمجة RUST. YouTube",
+   "tech": "rust",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   }
  ]

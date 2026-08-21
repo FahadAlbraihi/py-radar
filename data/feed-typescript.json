@@ -1,8 +1,203 @@
 {
- "generated": "2026-08-20T05:12:54.515989+00:00",
+ "generated": "2026-08-21T05:08:09.483508+00:00",
  "tech": "typescript",
- "count": 137,
+ "count": 140,
  "items": [
+  {
+   "title": "Don’t Send the Whole Camera: Build One-Shot Visual Context for a Tencent RTC Voice Companion",
+   "url": "https://dev.to/susiewang/dont-send-the-whole-camera-build-one-shot-visual-context-for-a-tencent-rtc-voice-companion-4mnj",
+   "date": "2026-08-21T04:13:39+00:00",
+   "summary": "Build a Gemini-backed voice companion that can discuss a user-approved camera frame without silently turning one visual question into a continuous camera feed. This TypeScript tutorial covers explicit visual state, stale",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What's a \"good\" dividend yield? You need a second number",
+   "url": "https://dev.to/a353551071/whats-a-good-dividend-yield-you-need-a-second-number-h2k",
+   "date": "2026-08-21T03:46:54+00:00",
+   "summary": "Current yield is a ratio, not a verdict. To judge a dividend you need the payout ratio too. Here's why, with code.",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Criteria pattern in NestJS: what a client may ask for is a file, not a signature",
+   "url": "https://dev.to/chacaponquin/the-criteria-pattern-in-nestjs-what-a-client-may-ask-for-is-a-file-not-a-signature-3ifm",
+   "date": "2026-08-21T03:10:36+00:00",
+   "summary": "The Criteria pattern in NestJS   One single way to filter, sort and paginate any list.      ...",
+   "points": 3,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Implementing 3 Pass Node.js Catalog JSON Extraction Within Token Limits",
+   "url": "https://dev.to/ellisvance1273/implementing-3-pass-nodejs-catalog-json-extraction-within-token-limits-4l8e",
+   "date": "2026-08-21T03:05:56+00:00",
+   "summary": "Short answer: for long logistics descriptions, use a retrieval-first three-pass pipeline: chunk...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "El patrón Criteria en NestJS: lo que un cliente puede pedir es un archivo, no una firma",
+   "url": "https://dev.to/chacaponquin/el-patron-criteria-en-nestjs-lo-que-un-cliente-puede-pedir-es-un-archivo-no-una-firma-3jj0",
+   "date": "2026-08-21T02:56:35+00:00",
+   "summary": "Cinco parámetros y un find()   El ejemplo de todo el artículo es el catálogo de una...",
+   "points": 6,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Node.js SEA Just Got Way Simpler — Updating My node-sea Boilerplate for Node 26",
+   "url": "https://dev.to/hamdi_laadhari/nodejs-sea-just-got-way-simpler-updating-my-node-sea-boilerplate-for-node-26-1efl",
+   "date": "2026-08-21T01:38:05+00:00",
+   "summary": "A while back I put together node-sea, a small boilerplate showing how to package a TypeScript app...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Integrate OpenAI, Claude, and Gemini — One Chat API for SaaS CRM Actions",
+   "url": "https://dev.to/lyrap22/how-to-integrate-openai-claude-and-gemini-one-chat-api-for-saas-crm-actions-11in",
+   "date": "2026-08-21T00:33:21+00:00",
+   "summary": "Short answer: choose an OpenAI-compatible chat completions gateway with a live model list, token...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We Built RoasNova: An Open-Source AI Advertising Operations Platform",
+   "url": "https://dev.to/muratkomurcu1/we-built-roasnova-an-open-source-ai-advertising-operations-platform-db9",
+   "date": "2026-08-20T23:26:54+00:00",
+   "summary": "Advertising teams do not suffer from a lack of dashboards.  They suffer from fragmented data,...",
+   "points": 1,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Choose Owned over Provider Templates — Custom-Domain Welcome Email API Flow",
+   "url": "https://dev.to/viggoknight2318/choose-owned-over-provider-templates-custom-domain-welcome-email-api-flow-2pg5",
+   "date": "2026-08-20T22:43:55+00:00",
+   "summary": "To choose an email API for a custom-domain welcome flow, start with the awkward ownership boundary:...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Switch AI Models at Runtime on Telnyx Edge Compute",
+   "url": "https://dev.to/sonam_50a41a4ced7e6b4f3fa/switch-ai-models-at-runtime-on-telnyx-edge-compute-2ncf",
+   "date": "2026-08-20T22:13:11+00:00",
+   "summary": "Build a TypeScript Agent SDK app that changes the active LLM model through a KV feature flag, with no redeploy.",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What SEO Should a Modern Web Framework Handle Automatically?",
+   "url": "https://dev.to/ranjeet_kumarjena_4a6b1b/what-seo-should-a-modern-web-framework-handle-automatically-45be",
+   "date": "2026-08-20T18:38:50+00:00",
+   "summary": "21 August 2026  Every framework has an SEO story now, and almost all of them are the same story: a...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Project Corsa: Porting TypeScript Compiler to Go at Microsoft",
+   "url": "https://medium.com/@0s.and.1s/project-corsa-porting-typescript-compiler-to-go-at-microsoft-b11825bfdb3b?source=rss------typescript-5",
+   "date": "2026-08-20T17:35:40+00:00",
+   "summary": "A 10X Faster TypeScript Ecosystem&#x200A;&#x2014;&#x200A;The Low-level Implementation Details of Project Corsa Continue reading on Medium »",
+   "tech": "typescript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript’s typeof Operator and the Case for Trusting Inference",
+   "url": "https://medium.com/@aisgandy/typescripts-typeof-operator-and-the-case-for-trusting-inference-20c56fd2a102?source=rss------typescript-5",
+   "date": "2026-08-20T16:57:00+00:00",
+   "summary": "The following are notes from TypeScript in the Age of AI course in Frontend Masters (Currently master.dev) Continue reading on Medium »",
+   "tech": "typescript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "7 Retrieval Checks for Fixing Wrong Ask-Your-Docs Chatbot Answers",
+   "url": "https://dev.to/marencrest5138/7-retrieval-checks-for-fixing-wrong-ask-your-docs-chatbot-answers-j2l",
+   "date": "2026-08-20T16:21:48+00:00",
+   "summary": "Short answer: wrong ask-your-docs answers are usually a retrieval and grounding problem, so pair...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built ForgeCMMS, a free open source CMMS to manage work orders, assets and maintenance teams",
+   "url": "https://dev.to/localhh/i-built-forgecmms-a-free-open-source-cmms-to-manage-work-orders-assets-and-maintenance-teams-444l",
+   "date": "2026-08-20T16:05:49+00:00",
+   "summary": "For the past few weekends I've been working on ForgeCMMS, a free, open source and self hosted CMMS,...",
+   "points": 0,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript 5+ Decorators and Metadata: Moving Away from Legacy Decorators",
+   "url": "https://medium.com/@sukhorukova.el/typescript-5-decorators-and-metadata-moving-away-from-legacy-decorators-4b2c3eb978b4?source=rss------typescript-5",
+   "date": "2026-08-20T15:40:20+00:00",
+   "summary": "While learning TypeScript, I found decorators particularly confusing. The TypeScript documentation still contains a section on legacy&#x2026; Continue reading on Medium »",
+   "tech": "typescript",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Money as a data type",
+   "url": "https://dev.to/mashhadi/money-as-a-data-type-14pk",
+   "date": "2026-08-20T14:35:30+00:00",
+   "summary": "A number and a currency code are not the same thing as an amount of money. What modelling money as a plain float costs, and what the alternative looks like.",
+   "points": 1,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The lighthouse that leaked WebGL memory every time you changed the theme",
+   "url": "https://dev.to/carlosjcastrog/the-lighthouse-that-leaked-webgl-memory-every-time-you-changed-the-theme-4mib",
+   "date": "2026-08-20T11:48:36+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+   "points": 1,
+   "tech": "typescript",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch",
    "url": "https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp",
@@ -189,39 +384,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Run a Resilient AI Agent on ECS Fargate Spot — Service Connect, Retry Logic, and Blue/Green Deploys",
-   "url": "https://dev.to/dineshgowtham/how-to-run-a-resilient-ai-agent-on-ecs-fargate-spot-service-connect-retry-logic-and-bluegreen-2mab",
-   "date": "2026-08-19T03:27:09+00:00",
-   "summary": "Container‑based AI agents get tripped up by spot interruptions, but you can turn that weakness into a...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Prompt injection: your customer-facing AI is an attack surface",
-   "url": "https://dev.to/fetchply/prompt-injection-your-customer-facing-ai-is-an-attack-surface-g34",
-   "date": "2026-08-19T03:13:24+00:00",
-   "summary": "Here is a fun little exercise. Imagine you hired a brilliant, tireless, endlessly polite support rep....",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Benchmark a Unified LLM API: Node.js Invoice Extraction Under Latency Limits",
-   "url": "https://dev.to/rivenpulse5812/how-to-benchmark-a-unified-llm-api-nodejs-invoice-extraction-under-latency-limits-n2d",
-   "date": "2026-08-19T02:16:26+00:00",
-   "summary": "Short answer: choose a unified LLM API for a Node.js invoice-extraction backend only after it passes...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Building ctrader-x: A Resilient TypeScript SDK for cTrader",
    "url": "https://medium.com/@nbkmaxine/building-ctrader-x-a-resilient-typescript-sdk-for-ctrader-7b5238d28295?source=rss------typescript-5",
    "date": "2026-08-19T00:27:55+00:00",
@@ -232,61 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "I Wrote 238 Tests Against My Own Auth Package and Found 4 Real Bugs",
-   "url": "https://dev.to/obie/i-wrote-238-tests-against-my-own-auth-package-and-found-4-real-bugs-4n85",
-   "date": "2026-08-19T00:20:36+00:00",
-   "summary": "I'd already done a lot right by the time I started writing tests for Beaver-Auth. Every module had...",
-   "points": 1,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Presenting: The Blueprint for Scalable Frontend Systems — Clean Architecture & DDD in React",
-   "url": "https://dev.to/schorts99/presenting-the-blueprint-for-scalable-frontend-systems-clean-architecture-ddd-in-react-4o4l",
-   "date": "2026-08-18T19:13:12+00:00",
-   "summary": "As React applications grow from simple prototypes into complex, mission-critical systems, they almost...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Transactions in NestJS and TypeORM without passing the EntityManager around",
-   "url": "https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-1k9h",
-   "date": "2026-08-18T18:37:48+00:00",
-   "summary": "A transaction boundary declared once at the controller, repositories that enlist themselves, and three consequences of that boundary that only show up in production.",
-   "points": 2,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "We built a developer portfolio generator using only the public GitHub API",
-   "url": "https://dev.to/aya_abounacer_3d229894639/we-built-a-developer-portfolio-generator-using-only-the-public-github-api-26g7",
-   "date": "2026-08-18T18:25:39+00:00",
-   "summary": "My collaborator and I have been working on an early version of a project called RepoFolio.  The idea...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "error-san: typed errors without giving up `throw`",
-   "url": "https://dev.to/jjeem/error-san-typed-errors-without-giving-up-throw-1glg",
-   "date": "2026-08-18T17:00:00+00:00",
-   "summary": "TypeScript describes what a function returns, but not what it throws. A familiar function:    type...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Building AI Agents with OpenAI Agents SDK (TypeScript) — Part 8: Human-in-the-Loop Approval…",
    "url": "https://medium.com/@shahyash1136/building-ai-agents-with-openai-agents-sdk-typescript-part-8-human-in-the-loop-approval-644aa87f5016?source=rss------typescript-5",
    "date": "2026-08-18T16:36:00+00:00",
@@ -294,17 +401,6 @@
    "tech": "typescript",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
-   "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
-   "date": "2026-08-18T16:08:34+00:00",
-   "summary": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
-   "points": 6,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -328,17 +424,6 @@
    "lang": "en"
   },
   {
-   "title": "I measured what code mode actually saves: 65,500 tokens vs 226",
-   "url": "https://dev.to/codefromanywhere42/i-measured-what-code-mode-actually-saves-65500-tokens-vs-226-1h4p",
-   "date": "2026-08-18T15:22:25+00:00",
-   "summary": "Cloudflare named code mode in September 2025, resting it on one line: \"LLMs are better at writing...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "TypeScript Rewrote Its Brain in Go — and JavaScript Development Just Got 10× Faster",
    "url": "https://medium.com/@codePeasant/typescript-rewrote-its-brain-in-go-and-javascript-development-just-got-10-faster-4952bf206f8b?source=rss------typescript-5",
    "date": "2026-08-18T15:20:23+00:00",
@@ -346,61 +431,6 @@
    "tech": "typescript",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The tenant-safety checklist for an AI endpoint",
-   "url": "https://dev.to/kgjohnson/the-tenant-safety-checklist-for-an-ai-endpoint-5g3j",
-   "date": "2026-08-18T14:59:36+00:00",
-   "summary": "Adding an LLM call to an existing SaaS product can look deceptively small: fetch a document, send it...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why We Ditched the 70MB AWS SDK for Native Web Crypto in Next.js 15 Edge Routes",
-   "url": "https://dev.to/the_zenithwalls/why-we-ditched-the-70mb-aws-sdk-for-native-web-crypto-in-nextjs-15-edge-routes-2me2",
-   "date": "2026-08-18T11:24:15+00:00",
-   "summary": "If you're building a modern media platform, handling large uploads is one of the quickest ways to...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Database Development Without ORM: A Pragmatic Approach to SQL-First Workflows",
-   "url": "https://dev.to/raiyanu/database-development-without-orm-a-pragmatic-approach-to-sql-first-workflows-578j",
-   "date": "2026-08-18T04:52:35+00:00",
-   "summary": "The Problem with ORM Abstraction   Many developers express frustration with ORM tooling,...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Don’t Open Another Feedback Channel: Build an Owned Listening Sprint in Community Chat",
-   "url": "https://dev.to/susiewang/dont-open-another-feedback-channel-build-an-owned-listening-sprint-in-community-chat-1a5p",
-   "date": "2026-08-18T04:11:12+00:00",
-   "summary": "Build a reproducible TypeScript workflow for collecting community needs inside an existing Tencent RTC social-messaging experience, with named ownership, deadlines, consent, escalation, durable decisions, and failure-ori",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Simple Wallet API From Scratch",
-   "url": "https://dev.to/obinna_justice/building-a-simple-wallet-api-from-scratch-2j3c",
-   "date": "2026-08-18T03:48:24+00:00",
-   "summary": "I'm starting something new.  Instead of building another project and only showing the final result, I...",
-   "points": 0,
-   "tech": "typescript",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -454,26 +484,6 @@
    "lang": "en"
   },
   {
-   "title": "Why I’m Learning TypeScript",
-   "url": "https://medium.com/@aisgandy/why-im-learning-typescript-e56019fd0dca?source=rss------typescript-5",
-   "date": "2026-08-14T17:51:55+00:00",
-   "summary": "TypeScript is an open-source programming language developed and maintained by Microsoft. It builds on JavaScript as a syntactic superset&#x2026; Continue reading on Medium »",
-   "tech": "typescript",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "REST API Deeply Nested Types Handling with Zod and TypeScript in React Apps",
-   "url": "https://medium.com/@rahulguptasde/rest-api-deeply-nested-types-handling-with-zod-and-typescript-52bb42883707?source=rss------typescript-5",
-   "date": "2026-08-14T07:52:34+00:00",
-   "summary": "One problem that bugged me for quite long while consuming REST APIs in React apps, is how do I have typescript types for response data&#x2026; Continue reading on Medium »",
-   "tech": "typescript",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Spread Operator : JavaScript & TypeScript",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MazZ1a1VXclJPMnQ5M25ROWJsWjZKMjNoczU5UnhQYTNIci02SldUd0paQXZ0ZVZIcHdsVXdhNnJwN0JqUU5wVW5VSU5ZMWNYai01aE5B?oc=5",
    "date": "2026-08-04T22:06:02+00:00",
@@ -482,6 +492,16 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "نظام تايب سكريبت 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UQ01XX2hfQVg3OWNpOWJaRTVfTE1sVm1RRFI3bmlyYU1weV85Mi1Da2VPdy1JOVB1OGZ5OWpRdWVQb0NZZ2tUUnhDYjZUMG9NZjMySGV3?oc=5",
+   "date": "2026-08-03T12:30:05+00:00",
+   "summary": "نظام تايب سكريبت 2026 YouTube",
+   "tech": "typescript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "TypeScript in Express – TypeScript Tutorial",
@@ -964,6 +984,16 @@
    "lang": "en"
   },
   {
+   "title": "Typescript Crash Course for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94SEZNem9PbmlMY3NUZjhseks5SmJ2VXdPNkM1MEd6MmVPbFgyWWxyR0kyYkZ5bDB5MmlzM2R4UHFRVzRhLUJkcXdRLXVpVl9PWkVfTnVB?oc=5",
+   "date": "2024-02-20T22:22:38+00:00",
+   "summary": "Typescript Crash Course for Beginners YouTube",
+   "tech": "typescript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "🔥 Master Typescript | Learn Typescript in one video | Typescript basics crash course | Hindi",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15LWVKUldtMTRaN19kbmtBZ0hHNjU1M09jX1oyWnBXbjBLN0lYQWFrTUpCRjQxYzZ5emQzMW51TkJ5X3ZCSk1wZFJaZmlYbllaSUFzT3ZR?oc=5",
    "date": "2024-02-18T11:30:18+00:00",
@@ -1034,6 +1064,16 @@
    "lang": "ar"
   },
   {
+   "title": "TypeScript Crash Course #7 - Any Type",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02R0Nvd0tzd3EzNWRWODRmV1B5TF9LRGpwWGlTa0NmNWJxaUlJeVlzYmlsdmowOEp6bnZhdHl0d1FfdHRDY0ZHWFo2dkZSS3JFNjRVVk9R?oc=5",
+   "date": "2023-11-20T10:46:21+00:00",
+   "summary": "TypeScript Crash Course #7 - Any Type YouTube",
+   "tech": "typescript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "TypeScript Crash Course #2 - Installing & Compiling",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlT3BMQXRwR3l3WWZBb0NoU29YZlJ4VHJIVnE0UFl5SDhRSjctR1RVRGRjRU9JLXI0bU5FZTdObUVWU2c0UFRjVUxUZFlEa183MkN6TlRn?oc=5",
    "date": "2023-11-14T07:48:30+00:00",
@@ -1058,6 +1098,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpTW4zc3I2eVV5RkhPMFB6Nm1fSzV6NmJ3MklqMy15RWtmOHBwM3hKaFRnYVpxQ1RoYlZQbzUtYWhqbF83V1hmdFJhaU1ienRhcjBzWlFB?oc=5",
    "date": "2023-11-12T12:41:28+00:00",
    "summary": "New TypeScript Masterclass Course YouTube",
+   "tech": "typescript",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript Classes Tutorial for JavaScript Developers | #typescripttutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FS3I4STRhTTFzRlJVc2xWakZ5VzVyRnVMVFhLckdtRFVWbDhUMWxOTFl0TzBWVy1IVDM0VDNwajZFNnhBUDdRUUtFS25pYmxsWkdMRGl3?oc=5",
+   "date": "2023-11-07T14:00:14+00:00",
+   "summary": "TypeScript Classes Tutorial for JavaScript Developers | #typescripttutorial YouTube",
    "tech": "typescript",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1150,6 +1200,16 @@
    "summary": "Learn TypeScript in Arabic - 1 - Introduction | Tutorial for Beginners YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVEVwOTF4c3VhSnczcmhSU2tQSDZIRk5KMDdlTkVkM082YnZvQ3NYZTNjUUdERmE1b1B4bG84STVmcDdSVTc2dXhwSC1OZndJaUhQQUZB?oc=5",
+   "date": "2023-06-14T14:03:03+00:00",
+   "summary": "TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners YouTube",
+   "tech": "typescript",
+   "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -1294,16 +1354,6 @@
    "lang": "en"
   },
   {
-   "title": "TypeScript Crash Course with Matt Pocock",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HaXJhMlJKMlRxRTVyelhoQ1N5aTJKWDFzenp4Z3V1ekxRSVFzWUJBYmlIQmdNZ2dBVXFZd0trVlV3cUlOZGxaLTIwZE1nLVhndTJua09n?oc=5",
-   "date": "2022-08-25T16:07:59+00:00",
-   "summary": "TypeScript Crash Course with Matt Pocock YouTube",
-   "tech": "typescript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Learn Typescript In Arabic 2022 - #37 - Generics And Interfaces",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoVWFBNVhkOFZEY29iSDNKVDhqdW9oNFB1bDM1NEV1QW9aaHhCU3AzNW9XVW8tVDlmZWRKbTlXeldVMFFJQkI0ZFkzeDBxVE5HQko5WVVB?oc=5",
    "date": "2022-08-10T21:27:29+00:00",
@@ -1324,6 +1374,16 @@
    "lang": "ar"
   },
   {
+   "title": "Learn Typescript In Arabic 2022 - #16 - Data Types - Void And Never",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BQl9MdWNiWEtYUFg0cDVHamY5VE5NcjRZLUFkd2FDOExreUtfV0xRWEw1TGE3d3JJdEQzNG5LdEV0R3hkNEVjWU1sbTNsWml3N3l0eUhB?oc=5",
+   "date": "2022-07-29T16:03:15+00:00",
+   "summary": "Learn Typescript In Arabic 2022 - #16 - Data Types - Void And Never YouTube",
+   "tech": "typescript",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Learn Typescript In Arabic 2022 - #04 - Statically vs Dynamically Typed Languages",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZEhlTndzZkp6dFZnUDZhWWFLWm5VcFlKMUxpQmt2cmcxY2toT2RSTGR0alU5MHhvV3ktdXJrc0hOLUo4a3FTQ1R3dDJxejRKVkxFQmJR?oc=5",
    "date": "2022-07-24T19:41:47+00:00",
@@ -1340,36 +1400,6 @@
    "summary": "Learn Typescript In Arabic 2022 - #01 - Introduction And What Is TypeScript YouTube",
    "tech": "typescript",
    "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Using Classes in TypeScript | TypeScript Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MVhwXzB1ejlRa3NXcEVWUHZPT3dfT2FmRjFvekRCMnZTblJGbWd4T2RZMk5wcUZ0SUk4d0J5NjBCdWxhYTB2SVFOVkFYcVFVWlA1M3FB?oc=5",
-   "date": "2022-06-06T11:30:16+00:00",
-   "summary": "Using Classes in TypeScript | TypeScript Tutorial YouTube",
-   "tech": "typescript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Interface vs Class | TypeScript Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wOWoxOG1XSUxLTXVDQTFaOXlBLUEtLTNxX0ZaTHB0bmRaLWxnZVhWaUd5VzVqQ0NsYUZ0NkZISEIxdlFndDNNaTN2UVNyRjQ3WVR6VTFB?oc=5",
-   "date": "2022-06-04T04:53:37+00:00",
-   "summary": "Interface vs Class | TypeScript Tutorial YouTube",
-   "tech": "typescript",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "TypeScript Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtN0FjNGczRlJPS2otQTU0NVN0LTZUUWtFN0lmOWx2QnJmWXlSbkdaX3VJTmZnMVdYR3BoUmF6QjhMRDg0M1pBUUhIVlZqSE9PVnpBa1l3?oc=5",
-   "date": "2022-05-23T13:00:18+00:00",
-   "summary": "TypeScript Tutorial for Beginners YouTube",
-   "tech": "typescript",
-   "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
   },

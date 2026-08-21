@@ -1,8 +1,137 @@
 {
- "generated": "2026-08-20T05:07:26.912662+00:00",
+ "generated": "2026-08-21T05:06:41.570683+00:00",
  "tech": "swift",
- "count": 182,
+ "count": 183,
  "items": [
+  {
+   "title": "Two Hours Lost to a Silent 401: Submitting 12 iOS Apps to the App Store With No Human in the Loop (Part 1)",
+   "url": "https://dev.to/bokuwalily/two-hours-lost-to-a-silent-401-submitting-12-ios-apps-to-the-app-store-with-no-human-in-the-loop-1op5",
+   "date": "2026-08-21T05:00:09+00:00",
+   "summary": "I went from earning about ¥100,000 a month as a university student to ¥600,000 by stacking side gigs...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Top Skills Every iOS Developer Must Have in 2026",
+   "url": "https://medium.com/@ios-interview/top-skills-every-ios-developer-must-have-in-2026-0a75872244f2?source=rss------ios_app_development-5",
+   "date": "2026-08-21T02:31:01+00:00",
+   "summary": "Being an iOS developer in 2026 isn&#x2019;t just about building screens anymore &#x2014; companies want problem solvers, not just UI coders. Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The one-app quarantine rule for stopping doomscrolling on iPhone",
+   "url": "https://dev.to/godnick/the-one-app-quarantine-rule-for-stopping-doomscrolling-on-iphone-l68",
+   "date": "2026-08-21T00:23:00+00:00",
+   "summary": "Most phone distraction advice treats every app the same.  That is not how the loop usually...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built an EV trip planner because a charger pin in an empty lot is a wasted stop",
+   "url": "https://dev.to/stephane_sprauer_245fa607/i-built-an-ev-trip-planner-because-a-charger-pin-in-an-empty-lot-is-a-wasted-stop-4gd8",
+   "date": "2026-08-20T22:00:51+00:00",
+   "summary": "Most EV trip apps treat a charger as a destination. On a real drive, a charger with nothing around it...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "iOS Application Security: A Practical Guide for iOS Developers",
+   "url": "https://medium.com/@amitaswal87/ios-application-security-a-practical-guide-for-ios-developers-7ec28e8fe625?source=rss------ios_app_development-5",
+   "date": "2026-08-20T22:00:29+00:00",
+   "summary": "Security is not something we should think about only before releasing an iOS application. Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building an AI Translator Keyboard for iOS and Android: Privacy, Latency, and UX Lessons",
+   "url": "https://dev.to/ai-translator-keyboard/building-an-ai-translator-keyboard-for-ios-and-android-privacy-latency-and-ux-lessons-57ja",
+   "date": "2026-08-20T16:50:26+00:00",
+   "summary": "Translating a message on a phone often means leaving the conversation, opening a translator, pasting...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "IA no Bolso: Autocomplete de Partituras em Tempo Real no iPhone 15",
+   "url": "https://dev.to/leojulieta/ia-no-bolso-autocomplete-de-partituras-em-tempo-real-no-iphone-15-2d1d",
+   "date": "2026-08-20T12:58:44+00:00",
+   "summary": "IA no Bolso: Como Autocompletar Partituras em Tempo Real no iPhone 15   Descubra, em poucos...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cutting store commission from 30% to 15%: what each application actually asks",
+   "url": "https://dev.to/nicoinu/cutting-store-commission-from-30-to-15-what-each-application-actually-asks-abl",
+   "date": "2026-08-20T12:43:41+00:00",
+   "summary": "Apple and Google both have a program that drops in-app purchase commission from 30% to 15%. Neither...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Production iOS App with SwiftUI — Part 8: Shopping Cart Screen",
+   "url": "https://medium.com/@russelrajitha/building-a-production-ios-app-with-swiftui-part-8-shopping-cart-screen-55af695ebd02?source=rss------ios_app_development-5",
+   "date": "2026-08-20T11:54:54+00:00",
+   "summary": "In Part 7, we built ProductDetailScreen, the image gallery, the two-state ViewModel (State for the product fetch and CartState for the&#x2026; Continue reading on Medium »",
+   "tech": "swift",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Universal Links and Deep Linking on iOS",
+   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/universal-links-and-deep-linking-on-ios-64p",
+   "date": "2026-08-20T09:28:52+00:00",
+   "summary": "Learn how to implement Universal Links and custom URL schemes for deep linking in your iOS applications, enhancing user experience and app discoverability.",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GrapheneOS denuncia que Google dejó de usar tags de Git en AOSP",
+   "url": "https://dev.to/lu1tr0n/grapheneos-denuncia-que-google-dejo-de-usar-tags-de-git-en-aosp-3dko",
+   "date": "2026-08-20T08:28:37+00:00",
+   "summary": "GrapheneOS denunció que Google dejó de publicar tags de Git en ciertos repositorios fuente de AOSP, lo que dificulta verificar qué código exacto compo",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Swift ARC Doesn’t Scan the Heap — I Removed strong_release from SIL to Prove It",
+   "url": "https://dev.to/_a3620048b828cbaa5d742/swift-arc-doesnt-scan-the-heap-i-removed-strongrelease-from-sil-to-prove-it-oed",
+   "date": "2026-08-20T07:35:56+00:00",
+   "summary": "Also available: Korean version · Source code and reproducible experiments  A source-to-runtime...",
+   "points": 0,
+   "tech": "swift",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Liquid Glass in iOS 26: A UIKit Developer’s Guide",
    "url": "https://medium.com/@ios-interview/liquid-glass-in-ios-26-a-uikit-developers-guide-4177103c6780?source=rss------ios_app_development-5",
@@ -358,135 +487,6 @@
    "url": "https://dev.to/_b6417cbb54ddfef4c4fd0/building-corex-a-native-real-time-macos-monitor-in-swift-1137",
    "date": "2026-08-17T07:31:41+00:00",
    "summary": "I built CoreX to answer a practical question: why does a Mac feel slow right now, why did its fans...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Weekly Dev Log 2026-W17",
-   "url": "https://dev.to/umitomo-lab/weekly-dev-log-2026-w17-1ib",
-   "date": "2026-08-17T04:04:23+00:00",
-   "summary": "Weekly learning log of iOS, web development, and cybersecurity — 2026-W17",
-   "points": 8,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "iOS 27: What Every iOS Developer Needs to Know",
-   "url": "https://medium.com/@adarsh.ranjan/ios-27-what-every-ios-developer-needs-to-know-e28ae44640fe?source=rss------ios_app_development-5",
-   "date": "2026-08-16T23:59:08+00:00",
-   "summary": "Executive Summary Continue reading on Medium »",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The Render Loop That Doubles as a Screenshot Rig",
-   "url": "https://traxr.medium.com/the-render-loop-that-doubles-as-a-screenshot-rig-01c4ce9cdba9?source=rss------ios_app_development-5",
-   "date": "2026-08-16T20:30:58+00:00",
-   "summary": "My watch game draws every frame from one closure that takes a Date. Freezing that Date turned the App Store screenshot set from a game of&#x2026; Continue reading on Medium »",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The Tech World’s Best Kept Secret: What Actually is an Operating System?",
-   "url": "https://dev.to/prasanambigai_sivakumar_0/the-tech-worlds-best-kept-secret-what-actually-is-an-operating-system-1l2o",
-   "date": "2026-08-16T19:44:49+00:00",
-   "summary": "If you’ve ever felt like tech people are speaking a completely different language when they say...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why programmatic inserts don't wrap on iOS multiline TextInput, and the one-line native fix",
-   "url": "https://dev.to/dheerajakula/why-programmatic-inserts-dont-wrap-on-ios-multiline-textinput-and-the-one-line-native-fix-3di1",
-   "date": "2026-08-16T19:43:26+00:00",
-   "summary": "Why iOS multiline TextInput stops wrapping on programmatic inserts, and the one setNativeProps call that fixes it.",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Firefox para iOS bloquea anuncios con la Content Blocker API de Apple",
-   "url": "https://dev.to/lu1tr0n/firefox-para-ios-bloquea-anuncios-con-la-content-blocker-api-de-apple-3d05",
-   "date": "2026-08-16T14:23:15+00:00",
-   "summary": "Firefox para iOS bloquea anuncios y rastreadores con la Content Blocker API de Apple, la misma tecnología de Safari, aplicada con reglas JSON procesad",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why HEIC breaks every browser-based image tool, and what it costs to fix",
-   "url": "https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g",
-   "date": "2026-08-16T14:00:40+00:00",
-   "summary": "Every image tool that runs in the browser hits the same wall eventually: someone drops in a photo...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Xcode 沒開也能開發 App — 外部的 coding agent 透過 Xcode MCP Tools 開發 App",
-   "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/xcode-%E6%B2%92%E9%96%8B%E4%B9%9F%E8%83%BD%E9%96%8B%E7%99%BC-app-%E5%A4%96%E9%83%A8%E7%9A%84-coding-agent-%E9%80%8F%E9%81%8E-xcode-mcp-tools-%E9%96%8B%E7%99%BC-app-37f5fd650c61?source=rss------ios_app_development-5",
-   "date": "2026-08-16T13:54:13+00:00",
-   "summary": "&#x5F9E; Xcode 27 beta 5 &#x958B;&#x59CB;&#xFF0C;&#x5C31;&#x7B97; Xcode &#x6C92;&#x958B;&#xFF0C;&#x5916;&#x90E8;&#x7684; coding agent &#x4E5F;&#x80FD;&#x900F;&#x904E; Xcode MCP Tools &#x9032;&#x884C; App &#x958B;&#x767C;&#x7684;&#x5DE5;&#x4",
-   "tech": "swift",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓",
-   "url": "https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k",
-   "date": "2026-08-16T11:02:30+00:00",
-   "summary": "This is a submission for Weekend Challenge: Dog Days Edition              What I Built   Pawford...",
-   "points": 15,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "{{ $('Get Ready Post').item.json.Title }}",
-   "url": "https://dev.to/qmshahzad/-get-ready-postitemjsontitle--22e6",
-   "date": "2026-08-16T09:43:11+00:00",
-   "summary": "Cloud-based AI has two persistent problems for mobile developers: latency, because every inference...",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "MapKit Integration with SwiftUI",
-   "url": "https://dev.to/rahul_bandal_afe623cbf2e2/mapkit-integration-with-swiftui-de8",
-   "date": "2026-08-16T09:23:05+00:00",
-   "summary": "Explore integrating Apple's powerful MapKit framework with SwiftUI, from displaying maps and annotations to handling user interaction and drawing routes.",
-   "points": 0,
-   "tech": "swift",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why your App Tracking Transparency prompt doesn't show up (and how it got my app rejected)",
-   "url": "https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob",
-   "date": "2026-08-16T06:12:52+00:00",
-   "summary": "App Review rejected my iOS app under Guideline 2.1. The note said reviewers were unable to locate the...",
    "points": 0,
    "tech": "swift",
    "sourceId": "devto",
@@ -1084,6 +1084,16 @@
    "lang": "ar"
   },
   {
+   "title": "Learning UIKit, when you already know SwiftUI 📱",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlQkR1R3ItX1lQTm0yOUMxdTB5bDI3QmV6T0VlSWNpaEJoV0tkaFZLSHpSQVhxWEx0bkVZSFBIZ3lCcDlhYWpaaDgxX29sNGZjV2VDRE5B?oc=5",
+   "date": "2024-03-04T21:08:16+00:00",
+   "summary": "Learning UIKit, when you already know SwiftUI 📱 YouTube",
+   "tech": "swift",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How To Use Text Fields in SwiftUI (2024)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aWEFqZ0hROE1MRWF5OTNveGxGOF80X01LNGlkdlRVMHZyaEVuVFpnLVgyeUVaVk1wQkJNaGc0RXpyV0lDVmgzWjFVejBPd3d3eWRWVXhn?oc=5",
    "date": "2024-02-29T17:00:31+00:00",
@@ -1484,6 +1494,16 @@
    "lang": "ar"
   },
   {
+   "title": "AwiftAssess Reports تقارير الاختبارات النهائية في سويفت أسيس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sYTlVZWxZMVhibExBYzE3LVB4TEl0OEZzS3U2MVljRTNYd2p1cG1idzdfM2lCZ0h3NWZLNG5WekxSYjR3Y3duUG5uR29wUFpzWmlzdERB?oc=5",
+   "date": "2022-05-11T16:30:12+00:00",
+   "summary": "AwiftAssess Reports تقارير الاختبارات النهائية في سويفت أسيس YouTube",
+   "tech": "swift",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "الفتيس كهربا ولازم تدوس فرامل(swift & Dzire )",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZY2JBMFpLaXdseThBdHdlZ3g3aU1XUldPMHA1WE9Iem9zQ21uTjRSbjZ4ODNBRFJ3UHBBbHRObWhxNlh4UFIzQXExSG9IZjBaeUYyam1n?oc=5",
    "date": "2022-04-15T12:25:58+00:00",
@@ -1618,16 +1638,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoSzZ2UlBvRkFuZVVZb2p3dWRGSnp3blpMUVY0N0hjN3E1emNWUWw1YmlyZ3JXME5wbE41aktfMWtsVWNxcWREajBXUV96NWtQdzN4LUdR?oc=5",
    "date": "2021-08-27T13:49:23+00:00",
    "summary": "Swift: Dependency Injection Tutorial (2022) – iOS YouTube",
-   "tech": "swift",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "SwiftUI Crash Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNTJxcXdJQW8yUl85aWQzWHhaWlRiZTVrOWNndWl2OEYtaGs4ekVvZ1A4TkUzM21HYWcwcEVOV1NaVUR5ZDlxa1AtblhoQWhjOWNPbWZn?oc=5",
-   "date": "2021-06-27T09:25:40+00:00",
-   "summary": "SwiftUI Crash Course YouTube",
    "tech": "swift",
    "sourceId": "yt",
    "source": "YouTube",

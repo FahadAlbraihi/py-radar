@@ -1,8 +1,245 @@
 {
- "generated": "2026-08-20T05:10:20.876359+00:00",
+ "generated": "2026-08-21T05:07:41.489013+00:00",
  "tech": "linux",
  "count": 220,
  "items": [
+  {
+   "title": "How to Secure Your Ubuntu/Debian Server with OSSEC",
+   "url": "https://dev.to/ctcservers/how-to-secure-your-ubuntudebian-server-with-ossec-2lh",
+   "date": "2026-08-21T04:36:56+00:00",
+   "summary": "Are you looking for a way to monitor and protect your Linux servers from unauthorized access and...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why Is Your Linux Server Slow? A Practical Guide to Performance Troubleshooting",
+   "url": "https://medium.com/@muhammadpahrizal790/why-is-your-linux-server-slow-a-practical-guide-to-performance-troubleshooting-871885c7ac1e?source=rss------linux-5",
+   "date": "2026-08-21T03:31:54+00:00",
+   "summary": "A Linux server can be running without any obvious errors and still feel painfully slow. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How does Linux actually run programs?",
+   "url": "https://medium.com/@oshwickramasinghe43/how-does-linux-actually-run-programs-25a9d6db2ea3?source=rss------linux-5",
+   "date": "2026-08-21T03:18:04+00:00",
+   "summary": "The simple flow is: Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "A Step-by-Step Guide: Deploying Apache DolphinScheduler with Docker on Ubuntu for Data Workflows",
+   "url": "https://dev.to/chen_debra_3060b21d12b1b0/a-step-by-step-guide-deploying-apache-dolphinscheduler-with-docker-on-ubuntu-for-data-workflows-52a2",
+   "date": "2026-08-21T01:52:26+00:00",
+   "summary": "1. Why Apache DolphinScheduler?            1.1 What Is Apache DolphinScheduler?   Apache...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CVE-2026-66066 (KindaRails2Shell): Arbitrary File Read to RCE in Rails Active Storage via libvips",
+   "url": "https://dev.to/guidance_white/cve-2026-66066-kindarails2shell-arbitrary-file-read-to-rce-in-rails-active-storage-via-libvips-506c",
+   "date": "2026-08-20T23:13:37+00:00",
+   "summary": "Overview      Item Detail     CVE...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bypassing the “Mac Tax”: How I Built an Engine to Develop, Sign, and Deploy iOS Apps on Linux",
+   "url": "https://medium.com/@kisalnelaka6/bypassing-the-mac-tax-how-i-built-an-engine-to-develop-sign-and-deploy-ios-apps-on-linux-d23402944ce7?source=rss------linux-5",
+   "date": "2026-08-20T21:50:04+00:00",
+   "summary": "Native Swift cross-compilation, pure-Linux code signing, and live USB deployment inside VS Code and WSL. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How to Set Up WordPress on a Development Server with NGINX",
+   "url": "https://khushal-savalakha.medium.com/how-to-set-up-wordpress-on-a-development-server-with-nginx-896ac79a4baf?source=rss------linux-5",
+   "date": "2026-08-20T19:03:41+00:00",
+   "summary": "Setting up a fresh WordPress installation on your own Ubuntu server doesn&#x2019;t have to be complicated. In this guide, I&#x2019;ll walk you through&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The Linux Command SOC Analysts Use to Catch Hackers Faster",
+   "url": "https://medium.com/@xpert4cyber/the-linux-command-soc-analysts-use-to-catch-hackers-faster-c88087fb00ba?source=rss------linux-5",
+   "date": "2026-08-20T18:56:34+00:00",
+   "summary": "&#x1F525; The Linux Command SOC Analysts Use to Catch Hackers Faster Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Sudo vs Root: What's the Difference?",
+   "url": "https://dev.to/asepsayyad007/sudo-vs-root-whats-the-difference-901",
+   "date": "2026-08-20T14:25:29+00:00",
+   "summary": "The architectural differences between the root account and sudo delegation, how the SUID bit works,...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Turned a Dusty 2014 Lenovo Into a Two-Brained Dev + Hacker Machine (and So Can You)",
+   "url": "https://dev.to/icaromol/i-turned-a-dusty-2014-lenovo-into-a-two-brained-dev-hacker-machine-and-so-can-you-3jep",
+   "date": "2026-08-20T12:45:00+00:00",
+   "summary": "It was dying in a drawer and I turned it into this:    ONE LAPTOP   │   ├── 🐧 Fedora → coding,...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why is my Linux server slow? A practical checklist",
+   "url": "https://dev.to/opservo/why-is-my-linux-server-slow-a-practical-checklist-225e",
+   "date": "2026-08-20T12:30:00+00:00",
+   "summary": "A no-nonsense order of operations for finding what’s actually slowing a Linux box down — CPU, memory,...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding /proc/pressure",
+   "url": "https://dev.to/hosni_zaaraoui/understanding-procpressure-538k",
+   "date": "2026-08-20T12:27:00+00:00",
+   "summary": "/proc/pressure is a Linux Pressure Stall Information (PSI) interface. It tells you whether processes...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "10 Linux Server Disasters & Open-Source SRE Cures",
+   "url": "https://dev.to/jaksontate/10-linux-server-disasters-open-source-sre-cures-13dj",
+   "date": "2026-08-20T11:58:47+00:00",
+   "summary": "When a production server goes down at 2 AM, standard beginner advice fails. Running df -h, staring...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Locking Down Secrets and SSH with AI (and the Cloud-Init Trap)",
+   "url": "https://dev.to/dineshstack/locking-down-secrets-and-ssh-with-ai-and-the-cloud-init-trap-305n",
+   "date": "2026-08-20T11:18:04+00:00",
+   "summary": "Part 3 of a 5-part series on using Claude AI to run, secure, and ship a real production server. Part...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Server Infrastructure Analysis",
+   "url": "https://dev.to/abisha_berci04/server-infrastructure-analysis-114f",
+   "date": "2026-08-20T07:30:46+00:00",
+   "summary": "The purpose is to understand how different server components work together to provide services to...",
+   "points": 3,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Share Docker Across Multiple WSL 2 Distros and Windows (Without Docker Desktop)",
+   "url": "https://dev.to/kim-ch/how-to-share-docker-across-multiple-wsl-2-distros-and-windows-without-docker-desktop-5bbo",
+   "date": "2026-08-20T07:25:25+00:00",
+   "summary": "Docker Desktop makes local container development easy, but its resource overhead and strict licensing...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Setup JupyterLab & PyTorch on Ubuntu 24.04: Remote GPU Server",
+   "url": "https://dev.to/jaksontate/setup-jupyterlab-pytorch-on-ubuntu-2404-remote-gpu-server-525h",
+   "date": "2026-08-20T07:20:00+00:00",
+   "summary": "Ditch your local laptop. Build a persistent Deep Learning lab on Bare Metal. Master Secure SSH...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Deploy Apache CloudStack on Ubuntu 24.04: Build a Private AWS",
+   "url": "https://dev.to/jaksontate/deploy-apache-cloudstack-on-ubuntu-2404-build-a-private-aws-430f",
+   "date": "2026-08-20T06:43:30+00:00",
+   "summary": "The ultimate VMware Escape Plan. Master cloud repatriation, secure KVM hypervisors, and slash...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Reel-Quick: Feature #23: Simpler Service Management with systemd",
+   "url": "https://dev.to/munirfarhan/reel-quick-feature-23-simpler-service-management-with-systemd-50gl",
+   "date": "2026-08-20T05:27:57+00:00",
+   "summary": "Feature #23: Simpler Service Management with systemd   I added a small but practical...",
+   "points": 1,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kernel & Embedded News: 32-bit Arm Deprecations in 7.3; Rsync 3.5",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-32-bit-arm-deprecations-in-73-rsync-35-4eob",
+   "date": "2026-08-20T05:25:57+00:00",
+   "summary": "Linux 7.3 begins a broad 32-bit Arm deprecation, rsync 3.5 fixes 33 CVEs, Arm preps 128-bit page tables, Pine64 pauses devices, and Mojo goes open source.",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Device Tree Ownership Is Moving Up Into Firmware",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/firmware-provided-device-tree-is-a-product-decision-not-a-boot-detail-2jlh",
+   "date": "2026-08-20T05:11:52+00:00",
+   "summary": "Under Arm SystemReady and EBBR, a firmware-provided device tree moves board ownership to the platform and makes firmware update a requirement, not a choice.",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Waiting on Log Parsers: Practical nftables Dynamic Sets and Meters on Linux",
+   "url": "https://dev.to/lyraalishaikh/stop-waiting-on-log-parsers-practical-nftables-dynamic-sets-and-meters-on-linux-2g3d",
+   "date": "2026-08-20T05:02:27+00:00",
+   "summary": "Rate-limit and temporarily ban abusive sources in the packet path with nftables dynamic sets, timeouts, limit meters, and ct count — no Fail2ban required.",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "What Really Happens When You Turn On a Linux Computer?",
    "url": "https://medium.com/@oshwickramasinghe43/what-really-happens-when-you-turn-on-a-linux-computer-ed75404a504c?source=rss------linux-5",
@@ -237,39 +474,6 @@
    "lang": "en"
   },
   {
-   "title": "Your Pi accepts every memory limit you set and enforces none of them",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pi-accepts-every-memory-limit-you-set-and-enforces-none-of-them-1j6e",
-   "date": "2026-08-19T02:57:41+00:00",
-   "summary": "TL;DR: On stock Raspberry Pi OS the memory cgroup controller is disabled, so docker run...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Unbrick Your Framework Laptop Without Panicking",
-   "url": "https://dev.to/adilaidev/how-to-unbrick-your-framework-laptop-without-panicking-4l70",
-   "date": "2026-08-19T02:13:41+00:00",
-   "summary": "A step-by-step guide to recovering a bricked Framework laptop, covering common causes and proven fixes from hands-on experience.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Pi's 2 GB swap file isn't swap, and no swap command will tell you that",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pis-2-gb-swap-file-isnt-swap-and-no-swap-command-will-tell-you-that-1m3j",
-   "date": "2026-08-19T02:05:53+00:00",
-   "summary": "TL;DR: Raspberry Pi OS Trixie ships rpi-swap instead of dphys-swapfile, defaulting to a zram+file...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "100+ Handy Knowledge Hub: All-in-One Linux, DevOps, Cloud & Automation Blogs",
    "url": "https://aws.plainenglish.io/100-handy-knowledge-hub-all-in-one-linux-devops-cloud-automation-blogs-e03ad346d7c8?source=rss------linux-5",
    "date": "2026-08-19T01:24:37+00:00",
@@ -287,210 +491,6 @@
    "tech": "linux",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The storefronts are coming to Linux: Epic, GOG, and the tipping point",
-   "url": "https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468",
-   "date": "2026-08-18T21:50:54+00:00",
-   "summary": "For most of Linux gaming's history, the story has been the same: Linux users want to play games, game...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux memory forensics — Memory capture using Lime, AVML and analysis using volatility",
-   "url": "https://mahimavi.medium.com/linux-memory-forensics-memory-capture-using-lime-avml-and-analysis-using-volatility-5d46c808158a?source=rss------linux-5",
-   "date": "2026-08-18T19:48:10+00:00",
-   "summary": "In the old days we used dd command to point out /dev/mem or /dev/fmem or /dev/kmem as the input source to capture memory but we cannot do&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Mongodb doesnt work with Linux Kernel 6.19",
-   "url": "https://dev.to/ralvaracode/mongodb-doesnt-work-with-linux-kernel-619-3f8e",
-   "date": "2026-08-18T14:34:14+00:00",
-   "summary": "Also found in my blog: Web Warrior Toolbox   When I updated Linux kernel in my Zorin PC to kernel 7...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why systemctl --user daemon-reload silently does nothing",
-   "url": "https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9",
-   "date": "2026-08-18T14:25:58+00:00",
-   "summary": "A failed per-user systemd manager turns systemctl --user daemon-reload into a silent no-op, so your unit files never load. Here is how to spot it, read the cause, and fix it.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Basler ruL2048-19gm: escanea 19.000 líneas por segundo desde un tren",
-   "url": "https://dev.to/lu1tr0n/basler-rul2048-19gm-escanea-19000-lineas-por-segundo-desde-un-tren-cnd",
-   "date": "2026-08-18T14:23:31+00:00",
-   "summary": "Un hacker usa la cámara industrial Basler ruL2048-19gm, capaz de leer 19.000 líneas por segundo, para fotografiar el paisaje completo desde un tren o ",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Getting Started with Linux Foundation Certifications: Key Insights & Study Strategies published: true",
-   "url": "https://dev.to/dylanhayesit/getting-started-with-linux-foundation-certifications-key-insights-study-strategies-published-13li",
-   "date": "2026-08-18T09:51:47+00:00",
-   "summary": "Over the past few years, the infrastructure landscape has undergone a massive shift toward...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "50 Essential Linux Commands Every Developer Should Know in 2026",
-   "url": "https://dev.to/vickybuilds/50-essential-linux-commands-every-developer-should-know-in-2026-58d3",
-   "date": "2026-08-18T09:42:45+00:00",
-   "summary": "Author: Vicky Builds           50 Essential Linux Commands Every Developer Should Know in...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Opinion: A Free Server Is a Verifier, Not a Demo: Gate AI-Proposed Server Changes by Diffing Runtime Shape",
-   "url": "https://dev.to/github_7727/opinion-a-free-server-is-a-verifier-not-a-demo-gate-ai-proposed-server-changes-by-diffing-2cpp",
-   "date": "2026-08-18T08:20:40+00:00",
-   "summary": "The strongest argument for using a free server is not that it saves money while you explore generated...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "\"Your cron job isn't broken. It never even started.\"",
-   "url": "https://dev.to/developer_tech/your-cron-job-isnt-broken-it-never-even-started-4ag9",
-   "date": "2026-08-18T04:40:43+00:00",
-   "summary": "You've spent 40 minutes staring at a crontab line that looks perfect. The command works when you...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Hak Akses File Linux",
-   "url": "https://medium.com/@hernandibagas/hak-akses-file-linux-b8f3559c1157?source=rss------linux-5",
-   "date": "2026-08-18T03:56:42+00:00",
-   "summary": "Tahukah kamu kalau seluruh keamanan data pentingmu di Linux ternyata cuma bergantung pada 3 huruf saja? Kunci rahasia r, w, dan x inilah&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Use ViciDial Admin Utilities — Archive, Cleanup & Maintenance",
-   "url": "https://dev.to/moisi_trungu_31647b7ac300/how-to-use-vicidial-admin-utilities-archive-cleanup-maintenance-22id",
-   "date": "2026-08-18T03:30:02+00:00",
-   "summary": "How to Use ViciDial Admin Utilities — Archive, Cleanup &amp; Maintenance   Master production...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Installed My Own Linux Kernel — Here’s What Actually Happened",
-   "url": "https://medium.com/@graj200026/i-installed-my-own-linux-kernel-heres-what-actually-happened-d188ef8411cd?source=rss------linux-5",
-   "date": "2026-08-18T02:46:13+00:00",
-   "summary": "What started as a simple experiment turned into a deep dive into kernels, system calls, bootloaders, drivers, memory, and the layers&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "I Built 193 Linux Commands for Windows and They’re All the Same File",
-   "url": "https://medium.com/@waytosarojkhanal/i-built-193-linux-commands-for-windows-and-theyre-all-the-same-file-c158ef20e130?source=rss------linux-5",
-   "date": "2026-08-18T02:04:28+00:00",
-   "summary": "I built a Linux command layer for Windows CMD. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "When Codex Arrived on Linux, The AI-Native OS Idea Changed",
-   "url": "https://medium.com/@atabarezz/when-codex-arrived-on-linux-the-ai-native-os-idea-changed-eb4aaced9153?source=rss------linux-5",
-   "date": "2026-08-17T23:40:02+00:00",
-   "summary": "TARS Revisited: I thought the future needed a new operating system. Maybe it needs a new relationship between humans and computers. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?",
-   "url": "https://dev.to/rogeroliveira86/upload-cover-imageno-file-chosenuse-a-ratio-of-1000420-for-best-results-generate-image-cover-2kbc",
-   "date": "2026-08-17T23:31:30+00:00",
-   "summary": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?   When people...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Understanding chmod Without Memorizing Numbers",
-   "url": "https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h",
-   "date": "2026-08-17T18:28:18+00:00",
-   "summary": "How Linux file permissions actually work under the hood, why symbolic mode is your best friend, and...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Dangerous Docker Firewall Bypass (And How to Fix It Using UFW)",
-   "url": "https://dev.to/sadaf_botanist/the-dangerous-docker-firewall-bypass-and-how-to-fix-it-using-ufw-59h1",
-   "date": "2026-08-17T16:53:40+00:00",
-   "summary": "Every backend engineer and systems administrator knows the importance of running a solid firewall....",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Run AI-Proposed Shell Commands in a systemd Probe Before You Run Them for Real",
-   "url": "https://dev.to/github_7727/run-ai-proposed-shell-commands-in-a-systemd-probe-before-you-run-them-for-real-2aed",
-   "date": "2026-08-17T16:36:40+00:00",
-   "summary": "Disclosure: This article was prepared as part of MonkeyCode's product outreach. A free model can...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Overview of the RTOS Kernel Project",
-   "url": "https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca",
-   "date": "2026-08-17T16:14:35+00:00",
-   "summary": "In previous tutorial, I've gave you the theoretical background about ARM Cortex-M3/4 processors. In...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -562,6 +562,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "أخطر أمر في لينكس.. وأقوى مفهوم فيه | كورس لينكس #6",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WNXR6eGJ1bGU3YVd2R1dQR1FLcEZxeTJocm5TZnFmS0ppbGl4X0dXSDJwYTEydk1lcXQtaUI1UFZsTWI4bTcxRXFLdVFWLTY2VTBpOEZ3?oc=5",
+   "date": "2026-08-09T13:00:06+00:00",
+   "summary": "أخطر أمر في لينكس.. وأقوى مفهوم فيه | كورس لينكس #6 YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Linux Packaging Formats: Deb, RPM, Flatpak, Snap & AppImage",
@@ -807,10 +817,10 @@
    "title": "كيف تستخدم برامج مايكروسوفت وأدوبي الأصلية على لينكس بسلاسة عبر WinBoat؟",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DaFlxZlFpclgteVhyVEJ2bHdzQmF4NWdmdm5lU3pXTC1SRnlRcV9OT05kY2hucDZPeEs2MXVUTW5pNmM4WldiOEJxa3U3d0FIM19sTzRB?oc=5",
    "date": "2026-05-15T17:00:06+00:00",
-   "summary": "كيف تستخدم برامج مايكروسوفت وأدوبي الأصلية على لينكس بسلاسة عبر WinBoat؟ youtube.com",
+   "summary": "كيف تستخدم برامج مايكروسوفت وأدوبي الأصلية على لينكس بسلاسة عبر WinBoat؟ YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1454,6 +1464,16 @@
    "lang": "ar"
   },
   {
+   "title": "لية محدش بيتكلم عن التوزيعة دي افضل توزيعة لينكس | حسونة اكاديمي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdEtuU2FfQ21TRTZ6d0hZdzNjZE11cFNZYkVlSjZORGplTm5lVzRlZEVXM04yUjJpSy02VTdyR3JtMG5jZVlNMWJTMkFIUHlIdWttTlRB?oc=5",
+   "date": "2025-06-28T14:20:02+00:00",
+   "summary": "لية محدش بيتكلم عن التوزيعة دي افضل توزيعة لينكس | حسونة اكاديمي YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "اكتشف أفضل 3 تطبيقات في طرفية لينكس لزيادة إنتاجيتك اليومية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNEswb1YzbFNVUENZM2lTakJZaWYwZVZ6b29KZGtNc1lzU2lNRXY3OU9kcllENXBzdXdpUXg1azhpYnA1MHdCU2ZNUFFIUjhsZGh1Y0hB?oc=5",
    "date": "2025-06-20T17:54:04+00:00",
@@ -1548,6 +1568,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4WWo3UzUzbFptNS1pODlmdmdEZ2dxV1l6Q3dxMHZNOVZDeDFSQzN6YktEclM2Xy1ETk5GcVg3bWt0bnNBOHZqZEpxVExScS01T1VJRl93?oc=5",
    "date": "2025-05-17T10:46:12+00:00",
    "summary": "linux for beginner | لينكس للمبتدئين YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تنزيل وتثبيت توزيعة Linux Mint على VirtualBox",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CaUpjLUY3MllzaUNTamtfVWZBUDFUQnpUU01wYVZfRC1YeExnMjk0MUJIVjRjUjc1M2hVSndGZFpLTHJlWFBQemt4Q29wU0d6MlFENEpB?oc=5",
+   "date": "2025-05-05T09:44:14+00:00",
+   "summary": "تنزيل وتثبيت توزيعة Linux Mint على VirtualBox YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1794,6 +1824,16 @@
    "lang": "ar"
   },
   {
+   "title": "ايش هو لينكس ؟ هل لينكس افضل من ويندوز ؟ هل اثبت لينكس كنظام اساسي ؟",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JRXFEOXI3SnlCUDhaRFRjNTFfMHRGWW5SdmtUYkxqS0NhdnZtYjBHeGIxMmVVR19fNWRGLUxKRlo0UWUzZm1Ja1BjM0JLTnduQzU5Z2N3?oc=5",
+   "date": "2024-11-14T08:25:45+00:00",
+   "summary": "ايش هو لينكس ؟ هل لينكس افضل من ويندوز ؟ هل اثبت لينكس كنظام اساسي ؟ YouTube",
+   "tech": "linux",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تحسين دقة الشاشة وأداء العرض في Ubuntu 24.04",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PczltOGdhSTl2Znd1MklnUllWRlhmX2E0cWNoRG9nRlIwWTNSOUZicExpc3BuQkUwR0xKOUVMbl9oSUxtdi1rTi11TU5zS1RSSko2eTBR?oc=5",
    "date": "2024-11-10T12:28:33+00:00",
@@ -1837,10 +1877,10 @@
    "title": "تثبيت أوبونتو UBUNTU على أجهزة الماك 2024 💻🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2aTJiX2MtdHdjUmkxanZCbEZSUGMyejZna2VlSmxvelhPVF9RbVNhd2dYS2JkMWF4X0JmRDlNRWdteTJfQV93RnFZSEdiV1dubDJ6Q0d3?oc=5",
    "date": "2024-10-06T16:30:52+00:00",
-   "summary": "تثبيت أوبونتو UBUNTU على أجهزة الماك 2024 💻🔥 youtube.com",
+   "summary": "تثبيت أوبونتو UBUNTU على أجهزة الماك 2024 💻🔥 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2188,46 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYXljNDUyRUZFU2ZIb0lFMGFQWVdhalB0czdoblNZaEZ3YUxaeFlzcDdzYVEtbG0wblA5VXQtWjkzdUZnZXFGUVZ2OUcwa0huenpXMWp3?oc=5",
    "date": "2023-11-10T15:30:19+00:00",
    "summary": "Fedora | شرح تحميل وتنصيب فيدورا 39 YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح و مراجعة تثبيت البرامج على 22.04.3 ubuntu",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KcmV2c3JTUmNyQW5WVzVwNlhSY0xKQ2w1eXZEWUd1ZzVGYm1sRUxxZWNmcUc3Q2J2eW40RUliUDdheFg4VVU3dnRzZ3ctVmw4UVY5ZndB?oc=5",
-   "date": "2023-11-09T01:03:27+00:00",
-   "summary": "شرح و مراجعة تثبيت البرامج على 22.04.3 ubuntu YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Home Server | ترقية توزيعة ديبان 11 إلى 12",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnVzh5QzdxMS1CbUdGNlhER1N2dnp4ZWlGSmpLaUVqVUoxcXNHWFNRMW1hMEsxVEwzTVJfc0NQY18xVENnWklNcEwtQnQ5cV9DOHo1Z0xn?oc=5",
-   "date": "2023-11-08T15:30:13+00:00",
-   "summary": "Home Server | ترقية توزيعة ديبان 11 إلى 12 YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الكتابة عربي 22.04.3 ubuntu | كيفية تغير الكيبورد ubuntu",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10Tk1lQTZCUmFuc09HQjhNdEt1MGk3ZkJNVlV2S0V1eTBsU3NpQlFYT09ydG9tQ1hHelJoUEZhSE54RjRsSGh6OUY1ZlljSVhubUVyd3JR?oc=5",
-   "date": "2023-11-07T17:52:18+00:00",
-   "summary": "الكتابة عربي 22.04.3 ubuntu | كيفية تغير الكيبورد ubuntu YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zSGliLUFXZnJjX1dJdHlmZEZqVFZSSE1KUWs3TXlqWEp3YTBpWHg1dG5yb0g2ZjFVaTl1UGN3ZGFBcXFxOGRDeUNFQ0lSZ2NTSTZkWnpR?oc=5",
-   "date": "2023-10-31T13:27:50+00:00",
-   "summary": "طريقة تثبيت Ubuntu 23.10 على 2023 VirtualBox YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",

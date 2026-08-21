@@ -1,8 +1,255 @@
 {
- "generated": "2026-08-20T05:09:31.164419+00:00",
+ "generated": "2026-08-21T05:07:11.492464+00:00",
  "tech": "flutter",
  "count": 220,
  "items": [
+  {
+   "title": "Mastering Flutter Animations: From Custom Shimmers & Spring Physics to Hero Transitions",
+   "url": "https://medium.com/@giovanniyuda29/mastering-flutter-animations-from-custom-shimmers-spring-physics-to-hero-transitions-49b19d02d869?source=rss------flutter-5",
+   "date": "2026-08-21T04:24:54+00:00",
+   "summary": "A deep dive into explicit animations, custom gradient ShaderMasks, spring-elastic physics with TweenSequence, and seamless Hero spatial&#x2026; Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Progress-Driven Task Manager in Flutter: Native Swipe Gestures, Inline Composers, and…",
+   "url": "https://medium.com/@giovanniyuda29/building-a-progress-driven-task-manager-in-flutter-native-swipe-gestures-inline-composers-and-2be0b605637f?source=rss------flutter-5",
+   "date": "2026-08-21T04:01:01+00:00",
+   "summary": "Learn how to minimize user friction with inline task input, implement native swipe-to-dismiss gestures with confirmation dialogs, and&#x2026; Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+   "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
+   "date": "2026-08-21T01:00:50+00:00",
+   "summary": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn. A respectful, deep-dive comparison into why shedding Riverpod's cognitive overhead brings joy back ",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter Performance Optimization: Fix Jank and Dropped Frames",
+   "url": "https://dev.to/vmodal_ai/flutter-performance-optimization-fix-jank-and-dropped-frames-5gm0",
+   "date": "2026-08-20T19:56:22+00:00",
+   "summary": "Flutter Performance Optimization: Fix Jank and Dropped Frames   Flutter can render extremely...",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced BLoC Architecture for Production Flutter Apps",
+   "url": "https://dev.to/vmodal_ai/advanced-bloc-architecture-for-production-flutter-apps-4kig",
+   "date": "2026-08-20T19:45:48+00:00",
+   "summary": "Advanced BLoC Architecture for Production Flutter Apps   As Flutter applications grow, state...",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PayPal Android SDK with Flutter: Integrate PayPal Checkout Using Platform Channels",
+   "url": "https://dev.to/vmodal_ai/paypal-android-sdk-with-flutter-integrate-paypal-checkout-using-platform-channels-5ha9",
+   "date": "2026-08-20T19:45:30+00:00",
+   "summary": "PayPal Android SDK with Flutter: Integrate PayPal Checkout Using Platform Channels   Flutter...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Jitsi Meet SDK with Flutter: Build an Embedded Video Meeting App",
+   "url": "https://dev.to/vmodal_ai/jitsi-meet-sdk-with-flutter-build-an-embedded-video-meeting-app-3ion",
+   "date": "2026-08-20T19:45:05+00:00",
+   "summary": "Jitsi Meet SDK with Flutter: Build an Embedded Video Meeting App   Jitsi Meet is an...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Flutter FFI: Integrating Native C/C++ Libraries",
+   "url": "https://dev.to/vmodal_ai/flutter-ffi-integrating-native-cc-libraries-5fkn",
+   "date": "2026-08-20T19:43:57+00:00",
+   "summary": "Flutter FFI: Integrating Native C/C++ Libraries   Flutter applications sometimes need...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Sendbird Chat SDK with Flutter: Build a Real-Time Messaging App",
+   "url": "https://dev.to/vmodal_ai/sendbird-chat-sdk-with-flutter-build-a-real-time-messaging-app-10lb",
+   "date": "2026-08-20T19:43:15+00:00",
+   "summary": "Sendbird Chat SDK with Flutter: Build a Real-Time Messaging App   Sendbird provides a...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Production-Ready REST API Client with Dio",
+   "url": "https://dev.to/vmodal_ai/building-a-production-ready-rest-api-client-with-dio-52k0",
+   "date": "2026-08-20T19:42:38+00:00",
+   "summary": "Building a Production-Ready REST API Client with Dio   A production API client needs more...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Certificate Pinning in Flutter",
+   "url": "https://dev.to/vmodal_ai/certificate-pinning-in-flutter-55kc",
+   "date": "2026-08-20T19:41:45+00:00",
+   "summary": "Certificate Pinning in Flutter   HTTPS protects data in transit by authenticating the server...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Twilio Video SDK with Flutter: Build a Real-Time Video Calling App",
+   "url": "https://dev.to/vmodal_ai/twilio-video-sdk-with-flutter-build-a-real-time-video-calling-app-29la",
+   "date": "2026-08-20T19:41:33+00:00",
+   "summary": "Twilio Video SDK with Flutter: Build a Real-Time Video Calling App   Twilio Programmable...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Agora Video Calling SDK with Flutter: Build a Real-Time Video Call App",
+   "url": "https://dev.to/vmodal_ai/agora-video-calling-sdk-with-flutter-build-a-real-time-video-call-app-4n4i",
+   "date": "2026-08-20T19:40:04+00:00",
+   "summary": "Agora Video Calling SDK with Flutter: Build a Real-Time Video Call App   Real-time video...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I added gravity to a block puzzle to make players take risks — here's the design logic",
+   "url": "https://dev.to/bellsal_b44bf6d/i-added-gravity-to-a-block-puzzle-to-make-players-take-risks-heres-the-design-logic-2j2m",
+   "date": "2026-08-20T19:15:56+00:00",
+   "summary": "Block puzzles have a math problem: the optimal strategy is almost always the safe one. Place each...",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New FFmpeg, FFprobe & FFplay Features for Flutter and React Native",
+   "url": "https://dev.to/akashskypatel/ffmpeg-kit-extended-upgraded-to-ffmpeg-901-new-ffmpeg-ffprobe-ffplay-features-for-flutter-and-1fgg",
+   "date": "2026-08-20T19:14:09+00:00",
+   "summary": "https://www.npmjs.com/package/ffmpeg-kit-extended  https://pub.dev/packages/ffmpeg_kit_extended_flu...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Shipping a Flutter arcade game to both app stores with AdMob and consent — 4 things that bit me",
+   "url": "https://dev.to/bellsal_b44bf6d/shipping-a-flutter-arcade-game-to-both-app-stores-with-admob-and-consent-4-things-that-bit-me-21k5",
+   "date": "2026-08-20T18:10:14+00:00",
+   "summary": "I built a small arcade puzzle game in Flutter and shipped it to Google Play and the App Store from...",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Engineering a Real-Time Mobile Booking & Payment Flow with Flutter: Lessons from Futsmandu",
+   "url": "https://medium.com/@nirushstha/engineering-a-real-time-mobile-booking-payment-flow-with-flutter-lessons-from-futsmandu-cdbc7b109360?source=rss------flutter-5",
+   "date": "2026-08-20T16:53:12+00:00",
+   "summary": "Managing slot contention, payment deep links, and transient states in cross-platform mobile apps. Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How I Built a Zero-Cloud, Air-Gapped Flutter App using C++ FFI, Quant Math, and Optical QR Sync",
+   "url": "https://medium.com/@alexanders1993/how-i-built-a-zero-cloud-air-gapped-flutter-app-using-c-ffi-quant-math-and-optical-qr-sync-adf3beb8d291?source=rss------flutter-5",
+   "date": "2026-08-20T15:52:21+00:00",
+   "summary": "Building a modern mobile application usually means relying on the cloud. You hook up a BaaS, send user data to an API, process it through&#x2026; Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Como valores chegam ao longo do tempo? Construindo uma Stream mínima em Dart",
+   "url": "https://medium.com/@rudsonalves67/como-valores-chegam-ao-longo-do-tempo-construindo-uma-stream-m%C3%ADnima-em-dart-74b21709fb87?source=rss------flutter-5",
+   "date": "2026-08-20T14:01:04+00:00",
+   "summary": "Uma fun&#xE7;&#xE3;o b&#xE1;sica de uma aplica&#xE7;&#xE3;o financeira &#xE9; manter o saldo atualizado enquanto o titular da conta utiliza o aplicativo. Uma abordagem&#x2026; Continue reading on Medium »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Mastering BlocObserver: From Events to State Changes",
+   "url": "https://blog.stackademic.com/mastering-blocobserver-from-events-to-state-changes-fa65bb3bea3d?source=rss------flutter-5",
+   "date": "2026-08-20T13:15:07+00:00",
+   "summary": "State management is one of the most important aspects of building a scalable Flutter application. As an application grows, managing how&#x2026; Continue reading on Stackademic »",
+   "tech": "flutter",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How we implemented client-side encrypted streaming in Flutter with Dart Isolates",
+   "url": "https://dev.to/natexcorporation/how-we-implemented-client-side-encrypted-streaming-in-flutter-with-dart-isolates-1g99",
+   "date": "2026-08-20T11:32:42+00:00",
+   "summary": "Over the past few months, we built and launched RonikCloud (https://ronikcloud.com/), a client-side...",
+   "points": 1,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Maybe choosing Flutter was the biggest mistake of my life. 😭",
+   "url": "https://dev.to/dt14/maybe-choosing-flutter-was-the-biggest-mistake-of-my-life-34pm",
+   "date": "2026-08-20T10:27:32+00:00",
+   "summary": "Relax guys, it’s just a title. 😉 Because apparently, you people weren’t paying attention to the...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I built flutter_auditor — a zero-config CLI tool to audit Flutter apps for permissions, dead assets, security risks, and package hygiene",
+   "url": "https://dev.to/dt14/i-built-flutterauditor-a-zero-config-cli-tool-to-audit-flutter-apps-for-permissions-dead-149n",
+   "date": "2026-08-20T09:51:28+00:00",
+   "summary": "Shipping a Flutter app without auditing native permissions, release keystores, or asset bloat?   To...",
+   "points": 0,
+   "tech": "flutter",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Repository Pattern Explained With Real-World Flutter Examples",
    "url": "https://medium.com/@savaliya.ravi.rs/repository-pattern-explained-with-real-world-flutter-examples-673780d612b5?source=rss------flutter-5",
@@ -138,16 +385,6 @@
    "lang": "en"
   },
   {
-   "title": "Understanding Dart’s class keywords in Flutter",
-   "url": "https://medium.com/@dev_bbong/understanding-darts-class-keywords-in-flutter-ae627ff7e840?source=rss------flutter-5",
-   "date": "2026-08-19T01:42:08+00:00",
-   "summary": "As you read Flutter code, you keep running into keywords attached to classes. abstract is familiar enough, but base, interface, final, and&#x2026; Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
    "url": "https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp",
    "date": "2026-08-18T20:50:05+00:00",
@@ -159,16 +396,6 @@
    "lang": "en"
   },
   {
-   "title": "From Widgets to Agents: A Flutter Developer’s Field Guide to Google’s ADK",
-   "url": "https://helloyogita.medium.com/from-widgets-to-agents-a-flutter-developers-field-guide-to-google-s-adk-48907f5b2ecb?source=rss------flutter-5",
-   "date": "2026-08-18T16:23:51+00:00",
-   "summary": "Why an &#x201C;agent framework&#x201D; should be on your radar even if you live in main.dart Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
    "url": "https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/",
    "date": "2026-08-18T16:05:44+00:00",
@@ -176,16 +403,6 @@
    "tech": "flutter",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
-   "lang": "en"
-  },
-  {
-   "title": "Decoupling Material and Cupertino in Flutter: What’s new?",
-   "url": "https://juan-campuzano.medium.com/decoupling-material-and-cupertino-in-flutter-whats-new-f584cf411034?source=rss------flutter-5",
-   "date": "2026-08-18T15:22:28+00:00",
-   "summary": "For years, starting a Flutter project meant importing package:flutter/material.dart or package:flutter/cupertino.dart almost by default&#x2026; Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -244,36 +461,6 @@
    "lang": "en"
   },
   {
-   "title": "What’s Actually Inside Your Flutter Release?",
-   "url": "https://medium.com/@himanshusharma_4140/whats-actually-inside-your-flutter-release-4dbddebc103e?source=rss------flutter-5",
-   "date": "2026-08-17T16:11:01+00:00",
-   "summary": "The first time a customer&#x2019;s security team asked us for a Software Bill of Materials for our Flutter app, I did what most mobile leads do. Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Deploying TensorFlow Lite for Stroke-Order Biometric Verification in Flutter",
-   "url": "https://toetech.medium.com/deploying-tensorflow-lite-for-stroke-order-biometric-verification-in-flutter-0757921a5030?source=rss------flutter-5",
-   "date": "2026-08-17T15:47:31+00:00",
-   "summary": "Static signature verification is fundamentally broken. Continue reading on Medium »",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "2026 年 7 月 Flutter 大小事：零 feature release 的一個月，38 個 commit 全花在 agent 上",
-   "url": "https://yiichenhi.medium.com/2026-%E5%B9%B4-7-%E6%9C%88-flutter-%E5%A4%A7%E5%B0%8F%E4%BA%8B-%E9%9B%B6-feature-release-%E7%9A%84%E4%B8%80%E5%80%8B%E6%9C%88-38-%E5%80%8B-commit-%E5%85%A8%E8%8A%B1%E5%9C%A8-agent-%E4%B8%8A-50dda6b7507c?source=rss------flutter-5",
-   "date": "2026-08-17T14:20:30+00:00",
-   "summary": "stable &#x505C;&#x5728; 3.44.8 &#x6574;&#x6574;&#x4E00;&#x500B;&#x6708;&#x3002;&#x4F46; LG &#x958B;&#x6E90;&#x4E86; webOS embedder&#xFF0C;Flutter GPU &#x7684;&#x539F;&#x4F5C;&#x8005;&#x4EA4;&#x51FA;&#x5B8C;&#x6574; 3D &#x5F15;&#x64CE;&#xFF0",
-   "tech": "flutter",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Testing Payment Gateways in Flutter Without Real Money",
    "url": "https://dev.to/mryadavgulshan/testing-payment-gateways-in-flutter-without-real-money-jm",
    "date": "2026-08-17T13:30:00+00:00",
@@ -307,149 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "Building an AI Assistant: flutter nodejs ai browser automation",
-   "url": "https://dev.to/umair24171/building-an-ai-assistant-flutter-nodejs-ai-browser-automation-533d",
-   "date": "2026-08-17T04:37:20+00:00",
-   "summary": "Built a personal AI assistant with flutter nodejs ai browser automation. Here's how I orchestrated LLM decisions with Playwright to cut busywork by 60%.",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)",
-   "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
-   "date": "2026-08-16T18:12:39+00:00",
-   "summary": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
-   "points": 2,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Offline-First Flutter: Syncing Local and Remote Data Reliably",
-   "url": "https://dev.to/bimal-py/offline-first-flutter-syncing-local-and-remote-data-reliably-4fdh",
-   "date": "2026-08-16T15:55:08+00:00",
-   "summary": "Build offline-first Flutter apps that work without a connection: local source of truth, an outbox sync queue, conflict resolution, and failure handling, with real Dart code.",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter CI/CD with GitHub Actions and Fastlane: A Real Pipeline",
-   "url": "https://dev.to/bimal-py/flutter-cicd-with-github-actions-and-fastlane-a-real-pipeline-4do4",
-   "date": "2026-08-16T15:55:02+00:00",
-   "summary": "Build a real Flutter CI/CD pipeline with GitHub Actions and Fastlane: PR checks, signed iOS/Android builds, and uploads to TestFlight and the Play Store on a tag.",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Clean Architecture in Flutter with BLoC: A Practical Guide",
-   "url": "https://dev.to/bimal-py/clean-architecture-in-flutter-with-bloc-a-practical-guide-npa",
-   "date": "2026-08-16T15:36:26+00:00",
-   "summary": "A practical guide to clean architecture in Flutter with BLoC: split your app into domain, data, and presentation layers with a real, testable feature example.",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
-   "url": "https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4",
-   "date": "2026-08-15T18:45:56+00:00",
-   "summary": "Why persistent domain state is the wrong place for transient dialogs and snackbars, how classic BLoC solved it with bloc_presentation, and how to handle one-shot side effects in BlocSignal with zero dependencies.",
-   "points": 1,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter Desktop Input Design — Where Does the Enter Key Actually Go?",
-   "url": "https://dev.to/yuelinghuashu/flutter-desktop-input-design-where-does-the-enter-key-actually-go-1d0i",
-   "date": "2026-08-15T09:37:15+00:00",
-   "summary": "From \"pressing Enter does nothing\" to \"the numpad Enter still inserts a newline\" — all these desktop input field pitfalls trace back to the same root cause: the Focus Chain. A deep dive into LogicalKeyboardKey, Shift+Ent",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What a Flutter app actually costs to build",
-   "url": "https://dev.to/shahryarahmad/what-a-flutter-app-actually-costs-to-build-11ai",
-   "date": "2026-08-15T05:30:58+00:00",
-   "summary": "Almost every page answering this question gives you a table: simple app $20,000 to $50,000, complex...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Where redundant API calls come from in a production Flutter app",
-   "url": "https://dev.to/shahryarahmad/where-redundant-api-calls-come-from-in-a-production-flutter-app-a7e",
-   "date": "2026-08-15T05:27:52+00:00",
-   "summary": "On an app that already has users, cutting unnecessary network traffic by around forty per cent did...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Getting a Flutter app through App Review",
-   "url": "https://dev.to/shahryarahmad/getting-a-flutter-app-through-app-review-3did",
-   "date": "2026-08-15T05:17:02+00:00",
-   "summary": "Most App Review rejections are not surprises. They come from a small, stable set of guidelines, and...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI Agent Product Testing: My Bot Found 3 Critical UX Flaws",
-   "url": "https://dev.to/umair24171/ai-agent-product-testing-my-bot-found-3-critical-ux-flaws-33gf",
-   "date": "2026-08-15T04:25:37+00:00",
-   "summary": "My custom AI agent, built with Node.js and Flutter using Gemini-Vision, exposed 3 critical UX flaws in my app, proving next-gen ai agent product testing is h...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Flutter Cashfree Integration Step-by-Step",
-   "url": "https://dev.to/mryadavgulshan/flutter-cashfree-integration-step-by-step-3jaa",
-   "date": "2026-08-14T13:30:00+00:00",
-   "summary": "So, in this article, I will be showing you how you can integrate Cashfree Payments into your Flutter...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Case Study in Integrating the Zoom Native SDK into a Flutter Monorepo",
-   "url": "https://dev.to/syed11/a-case-study-in-integrating-the-zoom-native-sdk-into-a-flutter-monorepo-4il",
-   "date": "2026-08-14T10:40:07+00:00",
-   "summary": "Forking a plugin, fighting Gradle and AAR packaging, migrating a repo to Git LFS, and chasing a...",
-   "points": 1,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Unreliable Xiaomi Wireless Debugging: Troubleshooting Connectivity Drops for Flutter App Testing",
    "url": "https://hackernoon.com/unreliable-xiaomi-wireless-debugging-troubleshooting-connectivity-drops-for-flutter-app-testing?source=rss",
    "date": "2026-08-14T10:28:17+00:00",
@@ -457,50 +501,6 @@
    "tech": "flutter",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Every ModalRoute in Flutter creates a full-screen ModalBarrier — even with opaque: false",
-   "url": "https://dev.to/nateshmbhat/every-modalroute-in-flutter-creates-a-full-screen-modalbarrier-even-with-opaque-false-321e",
-   "date": "2026-08-14T07:49:06+00:00",
-   "summary": "It changes how the barrier paints. It does not stop it existing.   I lost a genuinely embarrassing...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Termux proot to avf flutter build",
-   "url": "https://dev.to/kojiisd/termux-proot-to-avf-flutter-build-3a1m",
-   "date": "2026-08-14T07:12:32+00:00",
-   "summary": "Termux+proot Claude Code was too slow   So I moved to Android's built-in Linux VM (AVF) and...",
-   "points": 5,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Fixing DeepSeek Harness Flutter coding agent: My 30% Better ListView Prompt",
-   "url": "https://dev.to/umair24171/fixing-deepseek-harness-flutter-coding-agent-my-30-better-listview-prompt-5hmh",
-   "date": "2026-08-14T05:28:53+00:00",
-   "summary": "Battling widget hallucinations with your DeepSeek Harness Flutter coding agent? My custom prompt pattern cuts `ListView.builder` errors by 30%, making your A...",
-   "points": 0,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-   "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-   "date": "2026-08-14T02:57:56+00:00",
-   "summary": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-   "points": 11,
-   "tech": "flutter",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -527,10 +527,10 @@
    "title": "Flutter Roadmap 2026 🤔 من الصفر للاحتراف خطوة بخطوة | ازاي تبدأ برمجة تطبيقات الموبايل صح",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnY3Nubkw1QWk3OWxHU3NZRDF3d2VLTTBzaWhBR01DV0x0ek1oTzEwTl90MEttNER0M2xpaTYxSDhUMk5fU1hNRHNzMnBtcmw0TWZXSjZB?oc=5",
    "date": "2026-02-23T20:06:49+00:00",
-   "summary": "Flutter Roadmap 2026 🤔 من الصفر للاحتراف خطوة بخطوة | ازاي تبدأ برمجة تطبيقات الموبايل صح youtube.com",
+   "summary": "Flutter Roadmap 2026 🤔 من الصفر للاحتراف خطوة بخطوة | ازاي تبدأ برمجة تطبيقات الموبايل صح YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1077,10 +1077,10 @@
    "title": "تعلم Dart من الصفر للاحتراف: انواع البيانات (Map)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uQUJGZ2xPTXFsczBXSm1LSkhrb0pCN0FZalM5Wkc1Nkc3d244NzRjVkEyd0xXNm5DRFZpN0VCd2dMUkxFUy1iMjNROXFjcDNmVzF3djdB?oc=5",
    "date": "2024-09-28T14:00:39+00:00",
-   "summary": "تعلم Dart من الصفر للاحتراف: انواع البيانات (Map) youtube.com",
+   "summary": "تعلم Dart من الصفر للاحتراف: انواع البيانات (Map) YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1127,10 +1127,10 @@
    "title": "انواع البيانات في Dart (List): تعلم دارت من الصفر للإحتراف",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pWkRka2lYQ3VaSlNwMHpjc3FwdU1FeTJucUhfcEE1WXIxajI3SHB6ODN3SDFOWjFWdEpWd2xtY1NTNjBWTFRqZ2dWdlZWYkxvRllYSVVB?oc=5",
    "date": "2024-08-14T14:00:57+00:00",
-   "summary": "انواع البيانات في Dart (List): تعلم دارت من الصفر للإحتراف youtube.com",
+   "summary": "انواع البيانات في Dart (List): تعلم دارت من الصفر للإحتراف YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1474,6 +1474,16 @@
    "lang": "en"
   },
   {
+   "title": "Dart Crash Course #1 - What is Dart?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aFNBUERlRW9tSzBjcldEMnR1RFRUVnRxS0F6Q25vbjhzMVdpaTRKUUx3aXR1OW5URFZZTTFGb21lNHI4Ujh5bU5pSE9ORnJXYTNwZFFn?oc=5",
+   "date": "2024-01-08T09:06:07+00:00",
+   "summary": "Dart Crash Course #1 - What is Dart? YouTube",
+   "tech": "flutter",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Flutter Provider Tutorial - Flutter Provider State Management Guide",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yZWhMX3V3VC1rLVZScjdvRzNKaGs1dG9teVhVTGpjdEQ3cjdYUlAyeW9xeHJjNi1xb0FqSmtBeUlsWVBNUVVTLUdsMVR0bXh2NmFXZnVR?oc=5",
    "date": "2023-12-18T08:27:26+00:00",
@@ -1764,14 +1774,14 @@
    "lang": "en"
   },
   {
-   "title": "Flutter Full Course BLoC State Management Tutorial | Rest Api | Part 2",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcnVqTXVVWU9NeUtsa3FZLVl3NkMxeWZxVDBxX3J4dGUta2x1R0I2Y1pScnRDSVBRSjFyRmxyWVdic3pka2ExM1JxT1hMQzFRQ3c5UGVB?oc=5",
-   "date": "2023-04-14T11:32:57+00:00",
-   "summary": "Flutter Full Course BLoC State Management Tutorial | Rest Api | Part 2 YouTube",
+   "title": "كورس فلاتر برمجة تطبيقات الموبايل | برمجة تطبيق افلام - المقدمة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83cVBhd3ZTVTdWT1N2cnE3cjZIU01aTnJpQlJnQTM5SnVKcG5UM1hxR29BeGsyeGRxMEV2a0ViczRNSWhJY0VEQVBsYy1sV2NDZ1FuTE1B?oc=5",
+   "date": "2023-04-15T17:45:57+00:00",
+   "summary": "كورس فلاتر برمجة تطبيقات الموبايل | برمجة تطبيق افلام - المقدمة YouTube",
    "tech": "flutter",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "كورس فلاتر برمجة تطبيقات الموبايل | Flutter Provider State Management",
@@ -1808,6 +1818,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGX3RjcHY1ZDJQSzk1azZfX2dZLWE5UkpRdnVBb2xrUHNPNG5JVEJuck9SMDRuOENpSzFrNGlzc21HUDU4enB6NmdqLVFKc1A0Qm1WQjZB?oc=5",
    "date": "2023-03-04T01:23:40+00:00",
    "summary": "Flutter Roadmap - بالعربي YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس فلاتر برمجة تطبيقات الموبايل | Flutter Connect Firebase",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcEJlSFpmQXpQdUhuNXlQenNIcmpCaVZidHlKVmJkdHNZdFRlY1cxZHJsWHZJUGt0WHpvRFhkMXVhWkdJR0tWZm11Y0RLbXBQbVBtQ3pn?oc=5",
+   "date": "2023-02-28T15:39:16+00:00",
+   "summary": "كورس فلاتر برمجة تطبيقات الموبايل | Flutter Connect Firebase YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1898,6 +1918,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuVU9STnFIZkpVMW5WV21sUFlIcHI4S0lBTUF2dXNGZVlZZFhXSWNXenNYR095V0tHaHJEV293XzJRWG9Takp1dHJCWmpUZmhGVjB5VldR?oc=5",
    "date": "2023-01-28T13:23:42+00:00",
    "summary": "كورس برمجة تطبيقات الموبايل والويب وتطبيقات سطح المكتب | تثبيت فلاتر على الويندوز | Flutter Windows YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "كورس برمجة تطبيقات الموبايل والويب وتطبيقات سطح المكتب - فلاتر | Flutter Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53emxObUFVX003XzRQS0h6UE5XUl8zUXFnQ181SUhIY3oyNHVnSVJUY290TGR5d0ZGQzlsaUhOc25QN0ZQcUpzei1KMnd1d202TkZxRERR?oc=5",
+   "date": "2023-01-28T11:34:23+00:00",
+   "summary": "كورس برمجة تطبيقات الموبايل والويب وتطبيقات سطح المكتب - فلاتر | Flutter Course YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2028,6 +2058,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PbkF2N3c2b2xZTzBXUVBlaXpMTEtYY0xkZ0tSQXN4MlUxSENoWk1mc1IxRS03Mml0N0dVcG1IUklucjZFdG5FbmFCVkZWN1NjOUJHWC1B?oc=5",
    "date": "2022-07-15T03:34:03+00:00",
    "summary": "13 #flutter Dart OOP Class, Object, Constructor - فلاتر بالعربي YouTube",
+   "tech": "flutter",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "13 خبير لغة دارت - الفرق بين var ,dynamic ,const ,final",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxQVdVbzE4TDhtWVphNHBtcEg5OU9QLXl3bFI1V2cxWXc5WmhqMFpUdmlGT3lFMHE5Z3VKWDZWY0J4MmJQb2VBRkM5NlJJakdnYXUzaS1n?oc=5",
+   "date": "2022-06-13T11:31:09+00:00",
+   "summary": "13 خبير لغة دارت - الفرق بين var ,dynamic ,const ,final YouTube",
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2191,46 +2231,6 @@
    "tech": "flutter",
    "sourceId": "ar-yt",
    "source": "youtube.com",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح Flutter | برمجة تطبيق موبايل كامل من الصفر #3",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBycVNwWUhzT2I4TXhKbnF3TmJtT1YtZThkaGNVbkRsSXFIbHV1MG5ycWRTMDlhS0tnR3Z6cVc4aEs5THJNZU94NHR3TnVPX2VBWVZZMlRR?oc=5",
-   "date": "2021-08-29T07:38:48+00:00",
-   "summary": "شرح Flutter | برمجة تطبيق موبايل كامل من الصفر #3 YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "برمجة تطبيق موبايل مع قاعدة بيانات من الفايربيز : Chat mobile app - Flutter & Firebase/Firestore",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ia2NPcERxbUxGQkI0TEdpaV9ueFFOeTVZUm9ybndWRXB2WVhFYXpXaTFRYWRITEdhT3UtRzZoT3psTm91eHhYTm9OREIyX283QWRhM2hB?oc=5",
-   "date": "2021-08-25T11:30:06+00:00",
-   "summary": "برمجة تطبيق موبايل مع قاعدة بيانات من الفايربيز : Chat mobile app - Flutter & Firebase/Firestore YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Best Flutter Course for beginners -First Dart program #05 | بالعربي",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWVZQMjY1ZmNqbGpSWGhMMkZDcXRsMk4yTnJnelppa3cwOFVzTVpoVDNkNkNyN1A3bHA3Z3Q5d0gyZmxhSzZhS0FlOHBIZ09GN0wxemFR?oc=5",
-   "date": "2021-08-10T12:47:28+00:00",
-   "summary": "Best Flutter Course for beginners -First Dart program #05 | بالعربي YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "برمجة موقع ويب وتطبيق موبايل كامل مع فلاتر ـ موقع تطويرعقاري - Real Estate mobile app - Flutter web",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NakVQY3lQNm9UeVNKc0tmRUNVOFUyZVdCeDJFUC11YVpSV0pSM2NieF9za0s1Y1EyTDJ2aXVMTVloUmQ3Rm1pakVqSjFGN2NsRVdXRE9n?oc=5",
-   "date": "2021-08-04T12:00:29+00:00",
-   "summary": "برمجة موقع ويب وتطبيق موبايل كامل مع فلاتر ـ موقع تطويرعقاري - Real Estate mobile app - Flutter web YouTube",
-   "tech": "flutter",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
    "lang": "ar"
   }
  ]

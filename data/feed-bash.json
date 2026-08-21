@@ -1,14 +1,199 @@
 {
- "generated": "2026-08-20T05:03:50.573746+00:00",
+ "generated": "2026-08-21T05:05:43.515163+00:00",
  "tech": "bash",
- "count": 162,
+ "count": 163,
  "items": [
+  {
+   "title": "Why is it better to use double parentheses in Bash?",
+   "url": "https://medium.com/@u.mair/why-is-it-better-to-use-double-parentheses-in-bash-b6ba972927c6?source=rss------bash-5",
+   "date": "2026-08-20T20:40:17+00:00",
+   "summary": "So, here I&#x2019;m with another article on bad Bash practices. The thing is, you cannot just take a condition from another language and replace&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Tab completion, without writing a completion script",
+   "url": "https://dev.to/mauvilsa/tab-completion-without-writing-a-completion-script-4nab",
+   "date": "2026-08-20T16:45:24+00:00",
+   "summary": "The first post derived a whole command line interface from a client class, and the second turned it...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Sudo vs Root: What's the Difference?",
+   "url": "https://dev.to/asepsayyad007/sudo-vs-root-whats-the-difference-901",
+   "date": "2026-08-20T14:25:29+00:00",
+   "summary": "The architectural differences between the root account and sudo delegation, how the SUID bit works,...",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Turned a Dusty 2014 Lenovo Into a Two-Brained Dev + Hacker Machine (and So Can You)",
+   "url": "https://dev.to/icaromol/i-turned-a-dusty-2014-lenovo-into-a-two-brained-dev-hacker-machine-and-so-can-you-3jep",
+   "date": "2026-08-20T12:45:00+00:00",
+   "summary": "It was dying in a drawer and I turned it into this:    ONE LAPTOP   │   ├── 🐧 Fedora → coding,...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why is my Linux server slow? A practical checklist",
+   "url": "https://dev.to/opservo/why-is-my-linux-server-slow-a-practical-checklist-225e",
+   "date": "2026-08-20T12:30:00+00:00",
+   "summary": "A no-nonsense order of operations for finding what’s actually slowing a Linux box down — CPU, memory,...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding /proc/pressure",
+   "url": "https://dev.to/hosni_zaaraoui/understanding-procpressure-538k",
+   "date": "2026-08-20T12:27:00+00:00",
+   "summary": "/proc/pressure is a Linux Pressure Stall Information (PSI) interface. It tells you whether processes...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "10 Linux Server Disasters & Open-Source SRE Cures",
+   "url": "https://dev.to/jaksontate/10-linux-server-disasters-open-source-sre-cures-13dj",
+   "date": "2026-08-20T11:58:47+00:00",
+   "summary": "When a production server goes down at 2 AM, standard beginner advice fails. Running df -h, staring...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Locking Down Secrets and SSH with AI (and the Cloud-Init Trap)",
+   "url": "https://dev.to/dineshstack/locking-down-secrets-and-ssh-with-ai-and-the-cloud-init-trap-305n",
+   "date": "2026-08-20T11:18:04+00:00",
+   "summary": "Part 3 of a 5-part series on using Claude AI to run, secure, and ship a real production server. Part...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your Claude Code Hooks Are Costing You Minutes a Day — Here's How I Measured It",
+   "url": "https://dev.to/bokuwalily/your-claude-code-hooks-are-costing-you-minutes-a-day-heres-how-i-measured-it-4im4",
+   "date": "2026-08-20T11:04:09+00:00",
+   "summary": "If Claude Code feels sluggish lately, the culprit probably isn't the model — it's the pile of shell...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The One Linux Setting That Decides What Color Your Terminal Even Uses",
+   "url": "https://medium.com/my-lifes-mirrow/the-one-linux-setting-that-decides-what-color-your-terminal-even-uses-db85a468268f?source=rss------bash-5",
+   "date": "2026-08-20T11:01:01+00:00",
+   "summary": "Colors in the terminal are not automatic. One environment variable controls whether they appear at all, and most people never know it&#x2026; Continue reading on Bash_DevOps_AI »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Server Infrastructure Analysis",
+   "url": "https://dev.to/abisha_berci04/server-infrastructure-analysis-114f",
+   "date": "2026-08-20T07:30:46+00:00",
+   "summary": "The purpose is to understand how different server components work together to provide services to...",
+   "points": 3,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Share Docker Across Multiple WSL 2 Distros and Windows (Without Docker Desktop)",
+   "url": "https://dev.to/kim-ch/how-to-share-docker-across-multiple-wsl-2-distros-and-windows-without-docker-desktop-5bbo",
+   "date": "2026-08-20T07:25:25+00:00",
+   "summary": "Docker Desktop makes local container development easy, but its resource overhead and strict licensing...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A 4-Minute Freeze, a Dead PATH, and 3 More: 5 launchd Pitfalls From Mapping 26 Automation Jobs",
+   "url": "https://dev.to/bokuwalily/a-4-minute-freeze-a-dead-path-and-3-more-5-launchd-pitfalls-from-mapping-26-automation-jobs-1h6",
+   "date": "2026-08-20T05:33:41+00:00",
+   "summary": "Automation doesn't fail loudly. It accumulates until nobody — including the person who wrote it — can...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Reel-Quick: Feature #23: Simpler Service Management with systemd",
+   "url": "https://dev.to/munirfarhan/reel-quick-feature-23-simpler-service-management-with-systemd-50gl",
+   "date": "2026-08-20T05:27:57+00:00",
+   "summary": "Feature #23: Simpler Service Management with systemd   I added a small but practical...",
+   "points": 1,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Kernel & Embedded News: 32-bit Arm Deprecations in 7.3; Rsync 3.5",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-32-bit-arm-deprecations-in-73-rsync-35-4eob",
+   "date": "2026-08-20T05:25:57+00:00",
+   "summary": "Linux 7.3 begins a broad 32-bit Arm deprecation, rsync 3.5 fixes 33 CVEs, Arm preps 128-bit page tables, Pine64 pauses devices, and Mojo goes open source.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Device Tree Ownership Is Moving Up Into Firmware",
+   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/firmware-provided-device-tree-is-a-product-decision-not-a-boot-detail-2jlh",
+   "date": "2026-08-20T05:11:52+00:00",
+   "summary": "Under Arm SystemReady and EBBR, a firmware-provided device tree moves board ownership to the platform and makes firmware update a requirement, not a choice.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stop Waiting on Log Parsers: Practical nftables Dynamic Sets and Meters on Linux",
+   "url": "https://dev.to/lyraalishaikh/stop-waiting-on-log-parsers-practical-nftables-dynamic-sets-and-meters-on-linux-2g3d",
+   "date": "2026-08-20T05:02:27+00:00",
+   "summary": "Rate-limit and temporarily ban abusive sources in the packet path with nftables dynamic sets, timeouts, limit meters, and ct count — no Fail2ban required.",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "How to Fix 'command not found' (Without Reinstalling Everything)",
    "url": "https://dev.to/systemcraftdev/how-to-fix-command-not-found-without-reinstalling-everything-3am0",
    "date": "2026-08-20T03:46:32+00:00",
    "summary": "The shell isn't telling you a program doesn't exist — it's telling you it looked in a specific list of places and didn't find it there. Those are different problems with different fixes.",
-   "points": 0,
+   "points": 1,
    "tech": "bash",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -189,116 +374,6 @@
    "lang": "en"
   },
   {
-   "title": "How to Unbrick Your Framework Laptop Without Panicking",
-   "url": "https://dev.to/adilaidev/how-to-unbrick-your-framework-laptop-without-panicking-4l70",
-   "date": "2026-08-19T02:13:41+00:00",
-   "summary": "A step-by-step guide to recovering a bricked Framework laptop, covering common causes and proven fixes from hands-on experience.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Pi's 2 GB swap file isn't swap, and no swap command will tell you that",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pis-2-gb-swap-file-isnt-swap-and-no-swap-command-will-tell-you-that-1m3j",
-   "date": "2026-08-19T02:05:53+00:00",
-   "summary": "TL;DR: Raspberry Pi OS Trixie ships rpi-swap instead of dphys-swapfile, defaulting to a zram+file...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The storefronts are coming to Linux: Epic, GOG, and the tipping point",
-   "url": "https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468",
-   "date": "2026-08-18T21:50:54+00:00",
-   "summary": "For most of Linux gaming's history, the story has been the same: Linux users want to play games, game...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Mongodb doesnt work with Linux Kernel 6.19",
-   "url": "https://dev.to/ralvaracode/mongodb-doesnt-work-with-linux-kernel-619-3f8e",
-   "date": "2026-08-18T14:34:14+00:00",
-   "summary": "Also found in my blog: Web Warrior Toolbox   When I updated Linux kernel in my Zorin PC to kernel 7...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why systemctl --user daemon-reload silently does nothing",
-   "url": "https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9",
-   "date": "2026-08-18T14:25:58+00:00",
-   "summary": "A failed per-user systemd manager turns systemctl --user daemon-reload into a silent no-op, so your unit files never load. Here is how to spot it, read the cause, and fix it.",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Basler ruL2048-19gm: escanea 19.000 líneas por segundo desde un tren",
-   "url": "https://dev.to/lu1tr0n/basler-rul2048-19gm-escanea-19000-lineas-por-segundo-desde-un-tren-cnd",
-   "date": "2026-08-18T14:23:31+00:00",
-   "summary": "Un hacker usa la cámara industrial Basler ruL2048-19gm, capaz de leer 19.000 líneas por segundo, para fotografiar el paisaje completo desde un tren o ",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "5 Pitfalls in a Morning Repo Audit: launchd, bash 3.2, and Silent Failures on macOS",
-   "url": "https://dev.to/bokuwalily/5-pitfalls-in-a-morning-repo-audit-launchd-bash-32-and-silent-failures-on-macos-1l2e",
-   "date": "2026-08-18T11:00:11+00:00",
-   "summary": "I got laid off, and my monthly revenue went to zero overnight. All I had left was a handful of...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Getting Started with Linux Foundation Certifications: Key Insights & Study Strategies published: true",
-   "url": "https://dev.to/dylanhayesit/getting-started-with-linux-foundation-certifications-key-insights-study-strategies-published-13li",
-   "date": "2026-08-18T09:51:47+00:00",
-   "summary": "Over the past few years, the infrastructure landscape has undergone a massive shift toward...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "50 Essential Linux Commands Every Developer Should Know in 2026",
-   "url": "https://dev.to/vickybuilds/50-essential-linux-commands-every-developer-should-know-in-2026-58d3",
-   "date": "2026-08-18T09:42:45+00:00",
-   "summary": "Author: Vicky Builds           50 Essential Linux Commands Every Developer Should Know in...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Opinion: A Free Server Is a Verifier, Not a Demo: Gate AI-Proposed Server Changes by Diffing Runtime Shape",
-   "url": "https://dev.to/github_7727/opinion-a-free-server-is-a-verifier-not-a-demo-gate-ai-proposed-server-changes-by-diffing-2cpp",
-   "date": "2026-08-18T08:20:40+00:00",
-   "summary": "The strongest argument for using a free server is not that it saves money while you explore generated...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Shell: The Messenger between Linux and Its Users",
    "url": "https://jharaunak.medium.com/shell-the-messenger-between-linux-and-its-users-e8a32fc8b3c0?source=rss------bash-5",
    "date": "2026-08-18T07:56:01+00:00",
@@ -306,17 +381,6 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "5 Content Lanes, One Watchdog: How I Stopped Wondering If My Automation Still Runs",
-   "url": "https://dev.to/bokuwalily/5-content-lanes-one-watchdog-how-i-stopped-wondering-if-my-automation-still-runs-3fh1",
-   "date": "2026-08-18T05:00:07+00:00",
-   "summary": "Every morning I used to open my logs and ask the same question: did it actually run last night? The...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -330,17 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "\"Your cron job isn't broken. It never even started.\"",
-   "url": "https://dev.to/developer_tech/your-cron-job-isnt-broken-it-never-even-started-4ag9",
-   "date": "2026-08-18T04:40:43+00:00",
-   "summary": "You've spent 40 minutes staring at a crontab line that looks perfect. The command works when you...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "7 Bash Scripts Every Devops Engineer Should Have",
    "url": "https://medium.com/@muhammadpahrizal790/7-bash-scripts-every-devops-engineer-should-have-35db71bb931a?source=rss------bash-5",
    "date": "2026-08-18T04:12:56+00:00",
@@ -348,39 +401,6 @@
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Use ViciDial Admin Utilities — Archive, Cleanup & Maintenance",
-   "url": "https://dev.to/moisi_trungu_31647b7ac300/how-to-use-vicidial-admin-utilities-archive-cleanup-maintenance-22id",
-   "date": "2026-08-18T03:30:02+00:00",
-   "summary": "How to Use ViciDial Admin Utilities — Archive, Cleanup &amp; Maintenance   Master production...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A 46GB Compressed-Memory Leak RSS Monitoring Can't See — and the 10-Minute Guard That Reclaims It",
-   "url": "https://dev.to/bokuwalily/a-46gb-compressed-memory-leak-rss-monitoring-cant-see-and-the-10-minute-guard-that-reclaims-it-33bc",
-   "date": "2026-08-18T00:00:07+00:00",
-   "summary": "Every automated posting lane on my machine sat at zero for an entire day, and top -o mem swore...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?",
-   "url": "https://dev.to/rogeroliveira86/upload-cover-imageno-file-chosenuse-a-ratio-of-1000420-for-best-results-generate-image-cover-2kbc",
-   "date": "2026-08-17T23:31:30+00:00",
-   "summary": "Linux from Zero #1: What Is Linux and Which Distribution Should You Choose?   When people...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -484,16 +504,6 @@
    "lang": "en"
   },
   {
-   "title": "Learn how to build a single Bash script that reports CPU, memory, disk, uptime and top processes.",
-   "url": "https://medium.com/@subramanya1496/learn-how-to-build-a-single-bash-script-that-reports-cpu-memory-disk-uptime-and-top-processes-5fcf0df90be3?source=rss------bash-5",
-   "date": "2026-08-11T15:24:56+00:00",
-   "summary": "According to the 2023 Linux Sysadmin Survey, 73% of administrators rely on custom Bash scripts to consolidate CPU, memory, and disk&#x2026; Continue reading on Medium »",
-   "tech": "bash",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Linux Command Line Masterclass | احتراف سطر أوامر لينكس من الصفر إلى الاحتراف | Bash + Scripts",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nUXVtX3dGQzZ3NFlZdDFYWHVXcGxkQXNwaFlYclpkMEs1TWx5b3ZGMDhPYWlQNGt3OU9wTGpNOWtHMkdNcHkzeXZGTkFlWUZLS1loUER3?oc=5",
    "date": "2026-07-30T15:57:52+00:00",
@@ -578,6 +588,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IQzhMdnlHdEIyWkdsS1VpYWxBNjZaTmtqRUFZYkFUcUJFYk1oVWFVejBkTTNXNEFub1ZLV0Z3VVRsSGE1ang4YlYtRTFnMTdqcC1CdGln?oc=5",
    "date": "2026-03-11T12:30:28+00:00",
    "summary": "[ಕನ್ನಡ] Linux Full Course with Shell Scripting 2026 | Linux Tutorial in One-Shot | Microdegree YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Terminal and Finder (files on the terminal) - Bash Scripting Course (pt2)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqSkRHcTJRN3hHb0t2QTdUN3dSeDd1ZGNrcUxUMUxTcVA4V083UWhfNjU5TnB6RUpvT1dyRWF1SW9jcGNIUGg4d044X25HclBkNTBQMkNn?oc=5",
+   "date": "2026-03-03T13:00:53+00:00",
+   "summary": "Terminal and Finder (files on the terminal) - Bash Scripting Course (pt2) YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1434,6 +1454,16 @@
    "lang": "ar"
   },
   {
+   "title": "Shell Scripting Tutorial for Beginners | Crash Course | Easy Explanation",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVzFnV2VybmVIcnVKZTFfUnctS3RhREFfM2dFTElYNU50dUllamhXRnRkeHRETi1lQ2V6Um0yLVQ2T2F1djdIUl9qLXZTZHpVQ29mZ0t3?oc=5",
+   "date": "2022-01-12T04:30:11+00:00",
+   "summary": "Shell Scripting Tutorial for Beginners | Crash Course | Easy Explanation YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "تعلم لينكس : الأوامر pwd - ls - cd - man",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96TmE2enpXbTR3VEZhTWhXcXZBd1VudjdYSDZMcWJudzQ1MFRmWXRqRXROd3pmNDl0akxpT0xiV0hmYlZZTWpmVTVENTBxTTBUUjZNMXd3?oc=5",
    "date": "2021-12-17T18:03:37+00:00",
@@ -1584,16 +1614,6 @@
    "lang": "ar"
   },
   {
-   "title": "Shell Scripting Full Course 2022 | Become a expert | Tech Arkit",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVTExc1A1OFIwXzRCUDVNOTVvc0RVaEY5dU9VajBBVnFXdFBSZ2dhZFdUQnpZdmFpX3NYM0J6dTJoNTVjSVRCMlpobjVyLU5mdnd2ZlpR?oc=5",
-   "date": "2020-12-21T09:24:04+00:00",
-   "summary": "Shell Scripting Full Course 2022 | Become a expert | Tech Arkit YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "كورس تعليم اوبنتو | 1 | مقدمة عن اللينكس | مقدمة عن نظم التشغيل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XYVJmVU5sS044NkU4S1R6TWUzRFd4czNhM0lpdGRPLW5JY3RuT01fRFBJanN3OG80eE95RGFCanFSemw2MVhkY1JpZmc1THliZC16ZjFn?oc=5",
    "date": "2020-10-04T18:52:58+00:00",
@@ -1622,16 +1642,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Advanced Bash Scripting Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UUGJTa0x6SDZLYzJLQWNKWVkwSlpCU0FZUW11akpiUjNPb2laNzRIc0VEYWRqd01Sd1g0NUNZZkpMNm9GRWktU3NBZlBudDNibDFTT3d3?oc=5",
-   "date": "2020-05-14T19:35:27+00:00",
-   "summary": "Advanced Bash Scripting Tutorial YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "40 أمر مهم لإدارة نظام لينكس Linux - الجزء الأول",

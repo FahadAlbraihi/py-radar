@@ -1,8 +1,18 @@
 {
- "generated": "2026-08-20T05:24:03.744958+00:00",
+ "generated": "2026-08-21T05:12:29.013644+00:00",
  "tech": "erlang",
- "count": 42,
+ "count": 43,
  "items": [
+  {
+   "title": "Learn Gleam OTP (Part 3): Building the First OTP Actor",
+   "url": "https://medium.com/@marioraspiantoro/learn-gleam-otp-part-3-building-the-first-otp-actor-5629de7b7e0c?source=rss------erlang-5",
+   "date": "2026-08-20T07:30:56+00:00",
+   "summary": "So far, we have learned how a BEAM process can keep our application state alive and interact with the rest of the application through&#x2026; Continue reading on Medium »",
+   "tech": "erlang",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Building Distributed Systems in Elixir: Part 4 — Process Linking",
    "url": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-4-process-linking-okb",

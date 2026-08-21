@@ -1,8 +1,213 @@
 {
- "generated": "2026-08-20T05:03:35.488533+00:00",
+ "generated": "2026-08-21T05:05:28.430644+00:00",
  "tech": "cyber",
  "count": 220,
  "items": [
+  {
+   "title": "Active Directory",
+   "url": "https://sobanmalikk.medium.com/active-directory-ac0f6045f90f?source=rss------cybersecurity-5",
+   "date": "2026-08-21T04:33:31+00:00",
+   "summary": "Complete Hands-On Lab &#x2014; Administration Security Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Boogey Man 1 | TryHackMe Lab",
+   "url": "https://medium.com/@ozzya07/boogey-man-1-tryhackme-lab-b50e24bf85ac?source=rss------cybersecurity-5",
+   "date": "2026-08-21T04:30:03+00:00",
+   "summary": "This is my write-up of the Capstone Challenge &#x2014; Boogeyman1, from the TryHackMe SOC1 Learning Path. Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The Age of AI Agents",
+   "url": "https://medium.com/@shravanimahale06/the-age-of-ai-agents-52cf3f472ae0?source=rss------cybersecurity-5",
+   "date": "2026-08-21T04:21:20+00:00",
+   "summary": "This is my older covered story on the JADEPUFFER attack and my first article regarding the security domain. Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "OAuth Client Credentials for EDI Pipelines",
+   "url": "https://dev.to/praveenlavu/oauth-client-credentials-for-edi-pipelines-4a5m",
+   "date": "2026-08-21T04:05:25+00:00",
+   "summary": "Securing the Invisible Pipeline: OAuth 2.0 Client Credentials and the EDI Authentication...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Are We Sending Too Much Data to LLMs? Agentic Production Support (APS)",
+   "url": "https://dev.to/dev_hajare_d11ce990734a91/are-we-sending-too-much-data-to-llms-agentic-production-support-aps-b5p",
+   "date": "2026-08-21T04:00:42+00:00",
+   "summary": "While working on Agentic AI for production support, one question came to my mind: Do we really know...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Finding Network Blind Spots: A Practical Guide to Scanning and Scripting with ScanSearch",
+   "url": "https://dev.to/devyjones/finding-network-blind-spots-a-practical-guide-to-scanning-and-scripting-with-scansearch-5h39",
+   "date": "2026-08-21T04:00:15+00:00",
+   "summary": "Ever been in a situation where you need to quickly check if a specific port is exposed on a range of...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Vulnerability advisories grew 2.3x-6.6x in 5 years; open-source tool count stayed flat",
+   "url": "https://dev.to/hamelin123/vulnerability-advisories-grew-23x-66x-in-5-years-open-source-tool-count-stayed-flat-4a5m",
+   "date": "2026-08-21T03:33:57+00:00",
+   "summary": "We bucketed every advisory in OSV.dev's public per-ecosystem archives by its record-publication year...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MLflow CVE-2026-64849: Cloud Credential Theft via Webhook SSRF",
+   "url": "https://dev.to/anoymask/mlflow-cve-2026-64849-cloud-credential-theft-via-webhook-ssrf-2j",
+   "date": "2026-08-21T02:48:58+00:00",
+   "summary": "1. Basic Information     Article Title: Unauthenticated SSRF in MLflow Webhooks  Publisher:...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "UAT-10147 AI-Assisted Intrusion and SPECTRE Malware",
+   "url": "https://dev.to/anoymask/uat-10147-ai-assisted-intrusion-and-spectre-malware-3ej",
+   "date": "2026-08-21T02:48:46+00:00",
+   "summary": "1. Basic Information     Article Title: UAT-10147: A Chinese-speaking adversary integrates...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Manic Android Malware: Information Theft via Transparent Overlays and Short-Range Device Relaying",
+   "url": "https://dev.to/anoymask/manic-android-malware-information-theft-via-transparent-overlays-and-short-range-device-relaying-193a",
+   "date": "2026-08-21T02:48:35+00:00",
+   "summary": "1. Basic Information     Article Title: Manic: A blend between banking malware and...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Zimbra CVE-2026-73570: Unauthenticated Command Injection via SMTP",
+   "url": "https://dev.to/anoymask/zimbra-cve-2026-73570-unauthenticated-command-injection-via-smtp-kl4",
+   "date": "2026-08-21T02:48:23+00:00",
+   "summary": "1. Basic Information     Article Title: Actively exploited vulnerability in Zimbra...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SilkParasite: Cloud C2 and Multi-Language RATs Targeting Central Asia",
+   "url": "https://dev.to/anoymask/silkparasite-cloud-c2-and-multi-language-rats-targeting-central-asia-1ikl",
+   "date": "2026-08-21T02:48:10+00:00",
+   "summary": "1. Basic Information     Article Title: SilkParasite: Tracking a China-Nexus APT Across...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Running third-party ads on a site with a strict CSP (without weakening the CSP)",
+   "url": "https://dev.to/hblai_filmlook/running-third-party-ads-on-a-site-with-a-strict-csp-without-weakening-the-csp-33l2",
+   "date": "2026-08-21T02:22:57+00:00",
+   "summary": "My static site had a deliberately tight Content-Security-Policy: default-src 'self', a short...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Is a Vulnerability, Really? Source, Sink, and Taint",
+   "url": "https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75",
+   "date": "2026-08-20T20:22:58+00:00",
+   "summary": "Two Java methods. One of them will let an attacker delete your entire products table. The other is...",
+   "points": 9,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Airlock Digital Completes Independent IRAP Assessment at the PROTECTED Level",
+   "url": "https://hackernoon.com/airlock-digital-completes-independent-irap-assessment-at-the-protected-level?source=rss",
+   "date": "2026-08-20T19:08:45+00:00",
+   "summary": "For Australian security teams, confidence in a technology provider depends on more than features. It also means understanding how that provider",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "One rented /24 could eclipse a Kademlia node. Now it takes ten.",
+   "url": "https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p",
+   "date": "2026-08-20T18:56:59+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           The...",
+   "points": 7,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p",
+   "url": "https://dev.to/yashksaini/the-sdp-endpoint-that-trusted-its-callers-fixing-a-memory-amplification-dos-in-py-libp2p-3g2e",
+   "date": "2026-08-20T18:56:05+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+   "points": 7,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your agent isn't reckless. It just can't see the blast radius.",
+   "url": "https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj",
+   "date": "2026-08-20T18:29:21+00:00",
+   "summary": "I've been running Claude Code as a daily driver for about three months now. It writes Ansible I'd...",
+   "points": 5,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Solving Gradle metadata and Renovate integration",
+   "url": "https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a",
+   "date": "2026-08-20T09:02:00+00:00",
+   "summary": "My current company has settled on using Gradle. It doesn't make me very happy, but you need to learn...",
+   "points": 6,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "When the CIA Triad Isn’t Enough: Parkerian Hexad & Ciana Pentagon",
    "url": "https://medium.com/@theunseengrid/when-the-cia-triad-isnt-enough-parkerian-hexad-ciana-pentagon-9022e7099003?source=rss------cybersecurity-5",
@@ -209,61 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "API Security: How to Protect a Public API in 2026",
-   "url": "https://dev.to/mecanik-dev/api-security-how-to-protect-a-public-api-in-2026-2iip",
-   "date": "2026-08-19T18:00:00+00:00",
-   "summary": "Most teams treat API security as an authentication problem. They add tokens, check them on every...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Add Google Authenticator 2FA to your Node app in two steps",
-   "url": "https://dev.to/amansoomro062/add-google-authenticator-2fa-to-your-node-app-in-two-steps-3n3n",
-   "date": "2026-08-19T17:33:56+00:00",
-   "summary": "Adding 2FA to an app sounds like a weekend of reading RFCs, so most side projects never get it. I...",
-   "points": 5,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "THEY WANT YOU TO BELIEVE AI BROKE THE CAGE. IT ONLY PROVED THE CAGE HAD FLAWS.",
-   "url": "https://dev.to/t474r0b07/they-want-you-to-believe-ai-broke-the-cage-it-only-proved-the-cage-had-flaws-4doh",
-   "date": "2026-08-19T17:00:00+00:00",
-   "summary": "We are being sold stories about AI agents “escaping” their sandboxes as if we had just...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Maintaining a Forked npm Package Actually Buys",
-   "url": "https://dev.to/megapixel99/what-maintaining-a-forked-npm-package-actually-buys-4m4h",
-   "date": "2026-08-19T16:47:32+00:00",
-   "summary": "I would have said \"eighteen releases of upkeep\". What npm audit can see is one digit in a dependency range: a caret below 1.0.0 walls off the published fix, so it reports \"No fix available\". What it could not see is the ",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Open Source Anti Virus",
-   "url": "https://dev.to/nolan_crowley_1d0aa0f727d/open-source-anti-virus-350j",
-   "date": "2026-08-19T16:08:44+00:00",
-   "summary": "OpenSecurity DOWNLOAD: https://github.com/nolancrowley101-bot/OpenSecurity  An on-demand malware...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The New Generation of AI: From Chatbots to Intelligent Agents",
    "url": "https://hackernoon.com/the-new-generation-of-ai-from-chatbots-to-intelligent-agents?source=rss",
    "date": "2026-08-19T14:22:50+00:00",
@@ -274,83 +424,6 @@
    "lang": "en"
   },
   {
-   "title": "Four CVEs, One Deadline: CISA Flags macOS, SharePoint, vCenter, and IKE Bugs Under Active Attack",
-   "url": "https://dev.to/etairos/four-cves-one-deadline-cisa-flags-macos-sharepoint-vcenter-and-ike-bugs-under-active-attack-5c31",
-   "date": "2026-08-19T14:04:54+00:00",
-   "summary": "TL;DR     what: CISA added four critical flaws in Apple macOS, Microsoft SharePoint, VMware...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The SolarWinds Attack: When One Compromised Vendor Became a Supply-Chain Crisis",
-   "url": "https://dev.to/saranyo/the-solarwinds-attack-when-one-compromised-vendor-became-a-supply-chain-crisis-35dc",
-   "date": "2026-08-19T14:03:39+00:00",
-   "summary": "The Trojan Horse of the Digital Age Remember the story of the Trojan Horse? A gift that seemed too...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Stuxnet Attack: How Software Changed Cyber Warfare",
-   "url": "https://dev.to/saranyo/the-stuxnet-attack-how-software-changed-cyber-warfare-173k",
-   "date": "2026-08-19T13:46:23+00:00",
-   "summary": "The Day the Digital World Reached Out and Touched the Physical Imagine a piece of code so...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The ROI of Zero Trust: What the Breach-Cost Data Actually Shows",
-   "url": "https://dev.to/simonrr/the-roi-of-zero-trust-what-the-breach-cost-data-actually-shows-51m9",
-   "date": "2026-08-19T11:41:00+00:00",
-   "summary": "The ROI of Zero Trust: What the Breach-Cost Data Actually Shows   If you've ever tried to...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your firewall log knows a connection happened and nothing about what it carried",
-   "url": "https://dev.to/tiltedlunar123/your-firewall-log-knows-a-connection-happened-and-nothing-about-what-it-carried-5dka",
-   "date": "2026-08-19T11:21:13+00:00",
-   "summary": "Security Operations is the biggest domain on Security+ SY0-701, at 28 percent. Threats and...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🔥 I’m Done Building ATLOCK Just to “Make It Work.”",
-   "url": "https://dev.to/akhourianmolkumar/im-done-building-atlock-just-to-make-it-work-30mk",
-   "date": "2026-08-19T11:02:29+00:00",
-   "summary": "I want to build something actually worth using.  When I started ATLOCK, the goal was simple:  Build a...",
-   "points": 6,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Earn $10k+/Year from Bug Bounties",
-   "url": "https://dev.to/qingluan/how-to-earn-10kyear-from-bug-bounties-1ejg",
-   "date": "2026-08-19T10:00:11+00:00",
-   "summary": "How to Earn $10k+/Year from Bug Bounties   tags: security, bugbounty, money,...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case",
    "url": "https://hackernoon.com/faster-incident-response-how-anyrun-helps-socs-cut-mttr-by-up-to-21-minutes-per-case?source=rss",
    "date": "2026-08-19T09:47:36+00:00",
@@ -358,17 +431,6 @@
    "tech": "cyber",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "wazuh-siem-sysmon-project",
-   "url": "https://dev.to/jason_hunter_a8c41099de88/wazuh-siem-sysmon-project-1f7l",
-   "date": "2026-08-19T08:27:48+00:00",
-   "summary": "Building and Testing a Wazuh SIEM with Sysmon            Introduction    Detecting the...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -389,28 +451,6 @@
    "tech": "cyber",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "How to Encode Tacit Knowledge into SOC Agents: Five Methods That Actually Work",
-   "url": "https://dev.to/sanyaduan/how-to-encode-tacit-knowledge-into-soc-agents-five-methods-that-actually-work-42i6",
-   "date": "2026-08-19T04:47:18+00:00",
-   "summary": "How to Encode Tacit Knowledge into SOC Agents: Five Methods That Actually Work   The hardest...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "🛡️ InfoSec vs. Cybersecurity: Know the Difference",
-   "url": "https://dev.to/yash-infra/infosec-vs-cybersecurity-know-the-difference-59ic",
-   "date": "2026-08-19T04:45:31+00:00",
-   "summary": "🛡️ InfoSec vs. Cybersecurity: Know the Difference People often mix these two up, but they aren't the...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -539,36 +579,6 @@
    "url": "https://bevijaygupta.medium.com/free-kali-linux-course-in-india-2026-complete-beginners-learning-guide-690247bdb788?source=rss------cybersecurity-5",
    "date": "2026-08-16T04:31:07+00:00",
    "summary": "Cybersecurity has become one of the fastest-growing career paths in India. With rising digital adoption, increasing cyberattacks, and&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Zero Trust Network Access (ZTNA): The Complete Guide for 2026",
-   "url": "https://medium.com/@panktisavaliya/zero-trust-network-access-ztna-the-complete-guide-for-2026-2c9b49992be8?source=rss------cybersecurity-5",
-   "date": "2026-08-16T03:40:55+00:00",
-   "summary": "The traditional network security model was built around a simple assumption: if a user or device is inside the corporate network, it can&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Build a Home SOC with Proxmox: A Free Lab for CySA+ Study and Blue-Team Practice",
-   "url": "https://medium.com/@william86townsend/build-a-home-soc-with-proxmox-a-free-lab-for-cysa-study-and-blue-team-practice-792df60120df?source=rss------cybersecurity-5",
-   "date": "2026-08-15T03:33:12+00:00",
-   "summary": "Certification study gets abstract fast. You read about SQL injection, memorize the phases of incident response, and answer multiple-choice&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "AI-Powered SOC",
-   "url": "https://medium.com/@mr.vamshi001/ai-powered-soc-853cf6ba47fd?source=rss------cybersecurity-5",
-   "date": "2026-08-15T03:13:56+00:00",
-   "summary": "AI-Powered SOC: How Artificial Intelligence Is Changing Security Operations SIEM &#x2192; AI Detection &#x2192; Alert Triage &#x2192; Investigation &#x2192; Response Continue reading on Medium »",
    "tech": "cyber",
    "sourceId": "medium",
    "source": "Medium",
@@ -1150,10 +1160,10 @@
    "title": "اختراق chatGPT | تدريب عملي - Prompt Injection",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZEZseHlIRkNYbllQd2ptV21DMnIxLXNSWUZGZzNjZ09tMDk0WWZ0Y0dXRFBzeFd4SGRUblM1X0dMYUdXUzBZMzBBYUlJbXJpdTE4dVhB?oc=5",
    "date": "2025-09-24T16:22:18+00:00",
-   "summary": "اختراق chatGPT | تدريب عملي - Prompt Injection youtube.com",
+   "summary": "اختراق chatGPT | تدريب عملي - Prompt Injection YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1905,16 +1915,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "FREE Cyber Security Training for Beginners (HIGH Demand Skills)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbHdyOEQydjduQU8tRGFvcnQ0RUdEeDh0blJKQWFzT1ZMckZoUU9aMjVFd0tyZlYyU05aOE9lMnpyR1Z5QzFFcEFoeHJfQjRKbjRMVzN3?oc=5",
-   "date": "2024-03-29T11:55:51+00:00",
-   "summary": "FREE Cyber Security Training for Beginners (HIGH Demand Skills) YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "اخترقت Mr robot !! كيف؟ | غرفة عمليات اختبار الاختراق",

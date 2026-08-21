@@ -1,8 +1,199 @@
 {
- "generated": "2026-08-20T05:04:24.824856+00:00",
+ "generated": "2026-08-21T05:05:58.453007+00:00",
  "tech": "csharp",
  "count": 220,
  "items": [
+  {
+   "title": "ASP.NET Core Fundamentals: What Actually Happens Between the Browser and Your Controller",
+   "url": "https://medium.com/@thecurlybrace/asp-net-core-fundamentals-what-actually-happens-between-the-browser-and-your-controller-dc957ab67965?source=rss------csharp-5",
+   "date": "2026-08-21T04:31:05+00:00",
+   "summary": "Kestrel, the middleware U-turn, configuration precedence, and the 9 other things this round always covers. Part 7 of 25. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "MCP C# SDK Array Tool Outputs: Stop Looking for a `result` Wrapper",
+   "url": "https://dev.to/ssukhpinder/mcp-c-sdk-array-tool-outputs-stop-looking-for-a-result-wrapper-452c",
+   "date": "2026-08-21T01:23:31+00:00",
+   "summary": "MCP C# SDK array tool outputs are easy to misread after a protocol upgrade. A client written around...",
+   "points": 5,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "REST APIs Don’t Break on Launch Day. They Break Six Months Later.",
+   "url": "https://blog.devgenius.io/rest-apis-dont-break-on-launch-day-they-break-six-months-later-db841a9f90f2?source=rss------csharp-5",
+   "date": "2026-08-20T20:56:01+00:00",
+   "summary": "4 production patterns every .NET engineer should understand beyond CRUD Continue reading on Dev Genius »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "ASP.NET Core: JWT Authentication and Authorization",
+   "url": "https://towardsdev.com/asp-net-core-jwt-authentication-and-authorization-9f3eaf09df40?source=rss------csharp-5",
+   "date": "2026-08-20T19:08:09+00:00",
+   "summary": "Continue reading on Towards Dev »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Vertical Slice Architecture: The .NET 10 Project Setup That Cut Our PRs in Half",
+   "url": "https://medium.com/@mariammaurice/vertical-slice-architecture-the-net-10-project-setup-that-cut-our-prs-in-half-d7cd50f5eaeb?source=rss------csharp-5",
+   "date": "2026-08-20T17:01:04+00:00",
+   "summary": "We migrated from Clean Architecture to Vertical Slices. A new feature went from 27 files changed to 15. Here&#x2019;s the exact folder structure&#x2026; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": ".NET 10 Numeric String Sorting: Put File 10 After File 9",
+   "url": "https://dev.to/ssukhpinder/net-10-numeric-string-sorting-put-file-10-after-file-9-1nff",
+   "date": "2026-08-20T16:58:53+00:00",
+   "summary": "When I display generated filenames, .NET 10 numeric string sorting gives me the order people usually...",
+   "points": 5,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your First AI Agent in C# — Without Becoming an AI Expert",
+   "url": "https://medium.com/@mohsho10/your-first-ai-agent-in-c-without-becoming-an-ai-expert-48af082bbbc9?source=rss------csharp-5",
+   "date": "2026-08-20T16:16:24+00:00",
+   "summary": "You don&#x2019;t need to become an AI researcher to build an AI agent. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Balanced Totals Can Still Hide Wrong Routing",
+   "url": "https://dev.to/iqtechsolutions/balanced-totals-can-still-hide-wrong-routing-4dan",
+   "date": "2026-08-20T16:12:35+00:00",
+   "summary": "Some defects announce themselves through a failed total. More dangerous ones preserve the total while...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "C# init vs private set: What Should You Use?",
+   "url": "https://medium.com/@hafsatariq277/c-init-vs-private-set-what-should-you-use-71507cb86406?source=rss------csharp-5",
+   "date": "2026-08-20T14:42:49+00:00",
+   "summary": "When designing C# classes, records, and Data Transfer Objects (DTOs), controlling how and when property values change is critical for&#x2026; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "🚀 Como comunicar .NET 10 com Pydantic usando Logfire",
+   "url": "https://dev.to/daniloopinheiro/como-comunicar-net-10-com-pydantic-usando-logfire-g8g",
+   "date": "2026-08-20T13:47:37+00:00",
+   "summary": "Uma implementação simples de observabilidade com OpenTelemetry  Quando pensamos no ecossistema...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Asked a C# Candidate What Happens When Two Dictionary Keys Have the Same Hash",
+   "url": "https://medium.com/@shemeenasrawther/i-asked-a-c-candidate-what-happens-when-two-dictionary-keys-have-the-same-hash-1b5fafaf6b1f?source=rss------csharp-5",
+   "date": "2026-08-20T13:44:51+00:00",
+   "summary": "&#x201C;Two keys in a Dictionary have the same hash code. What happens?&#x201D; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Protecting Desktop Software: Hardware Fingerprinting and Heartbeat",
+   "url": "https://dev.to/fedisoltani1/protecting-desktop-software-hardware-fingerprinting-and-heartbeat-53p4",
+   "date": "2026-08-20T13:44:18+00:00",
+   "summary": "How to tie a licence to a machine, verify it continuously, and cut access the moment it stops being...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Automating Hydraulic Structure Design Inside AutoCAD",
+   "url": "https://dev.to/fedisoltani1/automating-hydraulic-structure-design-inside-autocad-3c39",
+   "date": "2026-08-20T13:41:32+00:00",
+   "summary": "A .NET 8 plugin generating culverts and technical sheets from an alignment and a surface, hydraulic...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "OpenSKP 1.1.0: A Native .skp Writer, Now in All Five Languages",
+   "url": "https://dev.to/iamahsanmehmood/openskp-110-a-native-skp-writer-now-in-all-five-languages-5d0m",
+   "date": "2026-08-20T13:35:52+00:00",
+   "summary": "Until 1.1.0, OpenSKP was a read path. You could parse a .skp file — either container format, all five...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Crossing Five .NET Versions Without Rewriting the Application",
+   "url": "https://dev.to/fedisoltani1/crossing-five-net-versions-without-rewriting-the-application-2e30",
+   "date": "2026-08-20T13:35:46+00:00",
+   "summary": "From .NET 5 to .NET 10 on production projects: what an upgrade actually costs, and why waiting costs...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "NBomber Studio 0.9.0",
+   "url": "https://dev.to/nbomber/nbomber-studio-090-44da",
+   "date": "2026-08-20T13:04:26+00:00",
+   "summary": "NBomber Studio 0.9.0 is out! This release adds a Logs tab that shows the logs of every node of your...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I'm a .NET Developer. I Spent Two Months Benchmarking Go vs C# and I Didn't Like the Answer.",
+   "url": "https://dev.to/haikasatryan/im-a-net-developer-i-spent-two-months-benchmarking-go-vs-c-and-i-didnt-like-the-answer-31fm",
+   "date": "2026-08-20T11:22:10+00:00",
+   "summary": "Same invoicing API, built twice. 358 million requests, six cores each, one 20 ms latency promise. Go did the same work for a third of the CPU.",
+   "points": 1,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your endpoint returns 200 OK. It also ran 51 queries.",
+   "url": "https://dev.to/benziza/your-endpoint-returns-200-ok-it-also-ran-51-queries-4m5d",
+   "date": "2026-08-20T10:19:14+00:00",
+   "summary": "A 200 OK doesn't tell you how much database work happened behind the response.  An endpoint can...",
+   "points": 0,
+   "tech": "csharp",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "I rebuilt the \"Simple Web Server\" from 20 years ago.",
    "url": "https://dev.to/charmpic/i-rebuilt-the-simple-web-server-from-20-years-ago-15a2",
@@ -171,16 +362,6 @@
    "lang": "en"
   },
   {
-   "title": "I’m Opening a Waitlist for C#/.NET Mock Interviews",
-   "url": "https://medium.com/@shemeenasrawther/im-opening-a-waitlist-for-c-net-mock-interviews-98c737d00654?source=rss------csharp-5",
-   "date": "2026-08-19T04:44:31+00:00",
-   "summary": "If you&#x2019;re preparing for a Senior, Staff, or Principal .NET interview, this is for you. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "One Quality Score Is a Lie: Split Your RAG Judge Into Retrieval, Groundedness, and Relevance",
    "url": "https://dev.to/saurav_bhattacharya/one-quality-score-is-a-lie-split-your-rag-judge-into-retrieval-groundedness-and-relevance-473m",
    "date": "2026-08-19T01:02:05+00:00",
@@ -189,16 +370,6 @@
    "tech": "csharp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A Kubernetes Pod Is a Failure Boundary: Preserving Runtime Identity and Recovery in .NET",
-   "url": "https://medium.com/@m.marano2k14/a-kubernetes-pod-is-a-failure-boundary-preserving-runtime-identity-and-recovery-in-net-1d229ba129b3?source=rss------csharp-5",
-   "date": "2026-08-19T00:58:07+00:00",
-   "summary": "How a multi-process .NET Runtime Pool uses Pod UID, exact child identity, atomic membership suppression, recovery claims, and durable&#x2026; Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -254,56 +425,6 @@
    "tech": "csharp",
    "sourceId": "devto",
    "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Build a Tamper-Evident AI Agent Audit Ledger in .NET 10",
-   "url": "https://medium.com/@michaelmaurice410/build-a-tamper-evident-ai-agent-audit-ledger-in-net-10-710aa68624ba?source=rss------csharp-5",
-   "date": "2026-08-18T18:08:36+00:00",
-   "summary": "Bind every tool decision to an agent identity with canonical hashing, ECDSA signatures, chain verification, and honest evidence boundaries. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "OpenTelemetry for GenAI in .NET 10: Trace Models, Tokens, and Retries Safely",
-   "url": "https://medium.com/@mariammaurice/opentelemetry-for-genai-in-net-10-trace-models-tokens-and-retries-safely-1387394770db?source=rss------csharp-5",
-   "date": "2026-08-18T17:01:04+00:00",
-   "summary": "Your AI endpoint returned in 12 seconds. HTTP telemetry says it was slow. It doesn&#x2019;t tell you whether the model stalled, a retry fired&#x2026; Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "What Is a Partial Class in C#? A Complete Guide",
-   "url": "https://medium.com/dot-net-sql-learning/what-is-a-partial-class-in-c-a-complete-guide-0fbbc7fc0ea9?source=rss------csharp-5",
-   "date": "2026-08-18T16:48:33+00:00",
-   "summary": "In C#, a partial class allows you to split the definition of a single class into multiple files. Although the class is divided physically&#x2026; Continue reading on Dot Net, API SQL Learning »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Memory & Garbage Collection: 12 Questions Nobody Prepares For (And Everyone Gets Asked)",
-   "url": "https://medium.com/@thecurlybrace/memory-garbage-collection-12-questions-nobody-prepares-for-and-everyone-gets-asked-795afc1b1b67?source=rss------csharp-5",
-   "date": "2026-08-18T16:09:54+00:00",
-   "summary": "Where your objects actually live, when they die, and why .NET absolutely can leak memory. Part 5 of 25. Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Supercharging .NET Resource Management: Introducing Esox.SharpAndRusty.ObjectPool — Code nomad",
-   "url": "https://towardsdev.com/supercharging-net-resource-management-introducing-esox-sharpandrusty-objectpool-code-nomad-74c544171643?source=rss------csharp-5",
-   "date": "2026-08-18T15:49:20+00:00",
-   "summary": "Introduction Continue reading on Towards Dev »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -373,127 +494,6 @@
    "lang": "en"
   },
   {
-   "title": "Is LitMotion the Best Tween Library for Unity in 2026? A Practical Guide",
-   "url": "https://dev.to/gamedevtoollab/is-litmotion-the-best-tween-library-for-unity-in-2026-a-practical-guide-1k4e",
-   "date": "2026-08-18T10:19:47+00:00",
-   "summary": "DOTween has been the default answer for Unity tweening for years, and it is still a very strong...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "When Rider Forgets How to Write Assembly Definitions: My Day-Long Fight With UnityAtoms",
-   "url": "https://dev.to/mario_mignemi/the-rider-bug-thats-probably-already-in-your-project-you-just-havent-noticed-yet-2p0c",
-   "date": "2026-08-18T05:08:47+00:00",
-   "summary": "Yesterday, adding a dependency in Jetbrains Rider was a non-event: type the class name, hit...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Supabase .NET DevLog #6",
-   "url": "https://dev.to/tr00d/supabase-net-devlog-6-40b2",
-   "date": "2026-08-18T04:55:06+00:00",
-   "summary": "Welcome to our weekly log for the Supabase .NET SDK 🎉  Following the monorepo migration, I started...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ArbNet Bug Smash: Fixing Cloud Expiration & Database Connection Failures with Sentry & Google AI",
-   "url": "https://dev.to/eliezer_josepolidorsola/arbnet-bug-smash-fixing-cloud-expiration-database-connection-failures-with-sentry-google-ai-401f",
-   "date": "2026-08-18T04:46:08+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-   "points": 1,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Sending Email Using Gmail SMTP",
-   "url": "https://dev.to/harsh_gs/sending-email-using-gmail-smtp-2745",
-   "date": "2026-08-18T02:22:51+00:00",
-   "summary": "*1. Create the Email Service Interface *  public interface IEmailService {     Task SendEmailAsync(  ...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Spent 30+ Hours Building \"The Boring SaaS Stack\" So I Never Have To Do It Again",
-   "url": "https://dev.to/azhadsuhaimi/i-spent-30-hours-building-the-boring-saas-stack-so-i-never-have-to-do-it-again-pa9",
-   "date": "2026-08-18T02:13:05+00:00",
-   "summary": "We’ve all been there:   You get an exciting idea for a micro-SaaS on a Friday night. You fire up your...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "xUnit 4 ParallelMode.All: Protect Shared State from Test Races",
-   "url": "https://dev.to/ssukhpinder/xunit-4-parallelmodeall-protect-shared-state-from-test-races-58jj",
-   "date": "2026-08-18T00:37:45+00:00",
-   "summary": "xUnit 4.0.0 makes full test-case parallelization an explicit option. That is useful, but xUnit 4...",
-   "points": 5,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "CVE-2026-40021: How Invalid XML Properties Could Silently Drop Log Events in Apache Log4net",
-   "url": "https://dev.to/f00dat/cve-2026-40021-how-invalid-xml-properties-could-silently-drop-log-events-in-apache-log4net-abl",
-   "date": "2026-08-17T23:11:56+00:00",
-   "summary": "While researching the Apache Log4j Bug Bounty Program on YesWeHack, I found a flaw in Apache Log4net...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure",
-   "url": "https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga",
-   "date": "2026-08-17T18:11:49+00:00",
-   "summary": "When every unauthorized request becomes the same dashboard line, diagnosis turns into guessing....",
-   "points": 5,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Designing an AI Service Layer",
-   "url": "https://dev.to/lukaswalter/designing-an-ai-service-layer-1kdm",
-   "date": "2026-08-17T15:30:00+00:00",
-   "summary": "An AI service layer has one job: expose an application operation without leaking the model...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Vertical Slices: Organizing Code by Feature, Not by Layer",
-   "url": "https://dev.to/rhuturaj_takle/vertical-slices-organizing-code-by-feature-not-by-layer-4jp",
-   "date": "2026-08-17T14:59:46+00:00",
-   "summary": "Vertical Slices: Organizing Code by Feature, Not by Layer   A practical guide to Vertical...",
-   "points": 0,
-   "tech": "csharp",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Meet the Programmer Who Scaled a Pizza Restaurant Into an International Company",
    "url": "https://hackernoon.com/meet-the-programmer-who-scaled-a-pizza-restaurant-into-an-international-company?source=rss",
    "date": "2026-08-17T14:31:47+00:00",
@@ -538,6 +538,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1haHFYRnJtWEY4TEN2b2QzVDctQi1HbXdwOURFbnpUVmdmRGs0bDJYQlpiM2dwWjEtTWZkNWlZc3dFT1lJU3VNN2xxWHMyTFQ2RGx6R0l3?oc=5",
    "date": "2026-05-23T16:01:25+00:00",
    "summary": ".NET Core Full Course 2026 | Build Real Projects & Crack Interviews YouTube",
+   "tech": "csharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "1. Zero To .NET Developer with AI – Course Introduction & Roadmap",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13U0xNQW1fQUg5YzRSQjFYbF8xMlVqNktseWFCRzFQNlRCRUZjNVNEcEdNUHlXckY3di1qQXhzcVhxbEFuNUtFNVUyOUtDRFp4ZFFOSjR3?oc=5",
+   "date": "2026-03-30T18:35:09+00:00",
+   "summary": "1. Zero To .NET Developer with AI – Course Introduction & Roadmap YouTube",
    "tech": "csharp",
    "sourceId": "yt",
    "source": "YouTube",
@@ -652,6 +662,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "[Arabic - بالعربي] 3. What is .Net? - .Net MVC Fundamentals",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ed0ZzSVg3UUxIVFl4SmE0ajFQZXhYclpobFplSE5UR3N0Vk5iaFVSX1kzckFGRmlsa2dhRXdCX21nVFpzZ3hMX2RCU1BVSVlqb3pvdURB?oc=5",
+   "date": "2026-01-17T21:41:54+00:00",
+   "summary": "[Arabic - بالعربي] 3. What is .Net? - .Net MVC Fundamentals YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "شرح Visual Basic .NET من الصفر | شرح سهل ومراجعة هامة للممتحنين في الجهاز المركزي تخصص حاسب آلي",
@@ -957,10 +977,10 @@
    "title": "1.Introduction to ASP.NET Core Web Api شرح بالعربي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0c29CcUZOb1lZS250dFJCaW9RZ2IxUkpibjlIQjBCbHpMNjdnS1FoNGw0MUFsb1RtSThpMHREOU9DbUZHWHgyMkFhd2Q1Vk9FLTFHTmZB?oc=5",
    "date": "2025-04-02T17:22:25+00:00",
-   "summary": "1.Introduction to ASP.NET Core Web Api شرح بالعربي youtube.com",
+   "summary": "1.Introduction to ASP.NET Core Web Api شرح بالعربي YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1297,10 +1317,10 @@
    "title": "شرح انشاء مشروع بـ ASP.Net Core من البداية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VanlnZnpDTlhYbEZMZ0xoS3ZRV3c5OGpwUnI2RHZFVkluMjFLTHlGam5udmI0bFlsdzI4VlpqUWphWWZkeWotTndjY2liblBFWU43SUpB?oc=5",
    "date": "2024-04-24T19:19:58+00:00",
-   "summary": "شرح انشاء مشروع بـ ASP.Net Core من البداية youtube.com",
+   "summary": "شرح انشاء مشروع بـ ASP.Net Core من البداية YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1422,16 +1442,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Build a.NET 8 API in 2024: Step-by-Step Tutorial for Beginners 1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Tm5BdmNaNWpmcnZiN0pEcjk1ZUtiOFFxUldoTXJDQ3pPbjQtZEwtR1FKU3h5S1JEQnFEeEtFekd1bnFSbEt4RkZiakJWTXFRYVhCN1VR?oc=5",
-   "date": "2024-01-13T17:01:57+00:00",
-   "summary": "Build a.NET 8 API in 2024: Step-by-Step Tutorial for Beginners 1 YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "3.Start build your first Asp.Net Core MVC Project شرح بالعربي",
@@ -1558,6 +1568,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00c3N6N1FWZUlHVk9vTFU3S1pFTVVTWnV5eVQzTUs0cGdiU3JtQXNVZWg5WTBTbFBEaEx1MEF2YnF1dnFYcEowbURmcUQtc3BSNG1VWlNn?oc=5",
    "date": "2023-08-05T21:30:00+00:00",
    "summary": "كورس بناء REST & RESTful API مع ASP .NET CORE بالعربي YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "هل ال C# .NET كويس في مجال ال Backend ؟!",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zSkxaTEJaUHZLdmpaa0pBc0ViQlBNVFRqd0ZCUDBvc2dOMlZya0ZNN2E5MFZveHNETG1tZGpLQm5aenIyTHBmcGN3YmkwTGxGdldTTjZB?oc=5",
+   "date": "2023-08-04T15:07:26+00:00",
+   "summary": "هل ال C# .NET كويس في مجال ال Backend ؟! YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2208,26 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wa0dhaU1vSk5fTTlQWXlwRmJsTEs1MVJvNFBJS0djbW1VX2RJYUdHT09BZy1fTTlzWFFLd1hOY3k2dmVsU1pzQ25YYTk4b3pLazF1Q0Z3?oc=5",
    "date": "2022-01-30T17:16:25+00:00",
    "summary": "#10 C Sharp | C# | Console read line | boolean | قراءة بيانات من المستخدم | شرح سى شارب YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#9 C Sharp Tutorial | C# | namespace | class | method | شرح كورس سى شارب 🔥🔥",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55OTFhOHVIQ3FkNkZ1QnNDcE1ybklkM3J0SEgyVWd1N0EtNTJPNjBoSEdVb1hKRXMtMEdRT2NjeWtxZ0ZVVlVqQTQ2WlNVWndDM3NxZHVn?oc=5",
-   "date": "2022-01-19T12:43:12+00:00",
-   "summary": "#9 C Sharp Tutorial | C# | namespace | class | method | شرح كورس سى شارب 🔥🔥 YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "1 ASP.Net core 6 | دورة انشاء متجر الكترونى متكامل | Template | انشاء المشروع وتركيب التيمبلت",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Tk83V01JQUQwSy1GQ1Zpb09TTkFfZ1BmM2YzZUdXMUp3dUFGa2pMZ21GNUdqc0NtdnQ3Sl9ub2hUbFl2dzc1RzBSckFXYXBON2gxYzBn?oc=5",
-   "date": "2022-01-13T11:03:22+00:00",
-   "summary": "1 ASP.Net core 6 | دورة انشاء متجر الكترونى متكامل | Template | انشاء المشروع وتركيب التيمبلت YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
    "source": "YouTube",

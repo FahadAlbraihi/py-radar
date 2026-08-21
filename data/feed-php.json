@@ -1,8 +1,264 @@
 {
- "generated": "2026-08-20T05:04:59.182411+00:00",
+ "generated": "2026-08-21T05:06:13.469420+00:00",
  "tech": "php",
  "count": 220,
  "items": [
+  {
+   "title": "Slate: shadcn-style UI for Laravel — in Blade, not React",
+   "url": "https://dev.to/neerajsohal/slate-shadcn-style-ui-for-laravel-in-blade-not-react-40hh",
+   "date": "2026-08-21T04:53:45+00:00",
+   "summary": "If you’ve ever wanted shadcn-like composition in Laravel and ended up with React in a Blade app (or a...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Unbreakable SaaS: Postgres Row-Level Security in Laravel 🛡️",
+   "url": "https://dev.to/iprajapatiparesh/unbreakable-saas-postgres-row-level-security-in-laravel-3e1k",
+   "date": "2026-08-21T04:40:00+00:00",
+   "summary": "The Fatal Flaw of Application-Level Tenancy  When engineering a B2B Software-as-a-Service (SaaS)...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Splitting Anokii into composable core, identity, and operator packages",
+   "url": "https://dev.to/jonesrussell/splitting-anokii-into-composable-core-identity-and-operator-packages-1he2",
+   "date": "2026-08-21T04:15:22+00:00",
+   "summary": "How Anokii went from one monolithic repo with duplicate identity code to three composable Composer packages, published by a governed CI split instead of a manual release process.",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel Model Casting — When array Cast Corrupts Your JSON Column",
+   "url": "https://medium.com/@annxsa/laravel-model-casting-when-array-cast-corrupts-your-json-column-628415c3fa71?source=rss------php-5",
+   "date": "2026-08-21T03:43:57+00:00",
+   "summary": "Laravel 8+ has AsArrayObject and AsCollection for a reason. The bug in the plain &#x2018;array&#x2019; cast + the fix. Verified in PHP 8.3.6. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Three Clicks, Three Concurrent Builds: Move Long Work Out of the HTTP Request",
+   "url": "https://dev.to/nasrulhazim/three-clicks-three-concurrent-builds-move-long-work-out-of-the-http-request-28cm",
+   "date": "2026-08-21T03:03:30+00:00",
+   "summary": "TL;DR — A Redeploy button in a Livewire component ran the full clone-and-build inline in the HTTP...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your SSH Command Timeout Is Probably a Budget, Not an Inactivity Window",
+   "url": "https://dev.to/nasrulhazim/your-ssh-command-timeout-is-probably-a-budget-not-an-inactivity-window-3pob",
+   "date": "2026-08-21T03:02:25+00:00",
+   "summary": "TL;DR — I spent an evening chasing a deploy that kept dying with \"command produced no output for 30s...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Active Flag Trap: unvalidated-but-logged-in in CakeDC/Users",
+   "url": "https://dev.to/viniciusbig/the-active-flag-trap-unvalidated-but-logged-in-in-cakedcusers-c8a",
+   "date": "2026-08-20T21:44:16+00:00",
+   "summary": "Why a CakeDC/Users account can be \"not validated\" and \"logged in\" at the same time — and how to build the flow the plugin leaves to you, using its own events.",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RAG Without a Vector Database: My Production Assistant Runs on MariaDB and 10 Lines of Cosine Similarity",
+   "url": "https://dev.to/sunny_dagar_9dc293f7ebf1d/rag-without-a-vector-database-my-production-assistant-runs-on-mariadb-and-10-lines-of-cosine-3c8o",
+   "date": "2026-08-20T19:11:52+00:00",
+   "summary": "Everyone will tell you that building a RAG (Retrieval-Augmented Generation) assistant means signing...",
+   "points": 1,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Além do PHP-FPM: Como Evitar Vazamentos de Memória e Dados no FrankenPHP, RoadRunner e Swoole",
+   "url": "https://medium.com/@themattos/al%C3%A9m-do-php-fpm-como-evitar-vazamentos-de-mem%C3%B3ria-e-dados-no-frankenphp-roadrunner-e-swoole-b19bfefd110f?source=rss------php-5",
+   "date": "2026-08-20T18:32:48+00:00",
+   "summary": "H&#xE1; um ano, decidimos adotar o FrankenPHP ainda na vers&#xE3;o 1.0 como o principal servidor para aplica&#xE7;&#xF5;es PHP na The Mattos e hoje vou&#x2026; Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Two Decorators, One Broken Retry: Symfony HttpClient’s SSE + Retry Trap",
+   "url": "https://medium.com/@laurentmn/two-decorators-one-broken-retry-symfony-httpclients-sse-retry-trap-071d95f3343a?source=rss------php-5",
+   "date": "2026-08-20T18:17:30+00:00",
+   "summary": "&#x1F50C; One Client, Two Jobs Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I built a Laravel 11 + React SaaS Starter Kit to speed up new web apps",
+   "url": "https://dev.to/samu_braga_ebc6cf34f3f650/i-built-a-laravel-11-react-saas-starter-kit-to-speed-up-new-web-apps-3nf3",
+   "date": "2026-08-20T16:30:00+00:00",
+   "summary": "Hey devs!   I created a clean, production-ready starter kit combining Laravel 11, React, and Tailwind...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Millions of log lines in PHP, at constant memory",
+   "url": "https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n",
+   "date": "2026-08-20T16:09:01+00:00",
+   "summary": "Laravel 13, Horizon, PostgreSQL 18.  Our product needs to answer a question about a customer's site:...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Blade, Inertia and Filament, on purpose",
+   "url": "https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn",
+   "date": "2026-08-20T16:06:41+00:00",
+   "summary": "Laravel 13, Inertia 3, React 19, Filament 5.  Part one covered the public site: 26 Blade views, no...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A modern marketing site without a modern front-end stack",
+   "url": "https://dev.to/nessflow_8283f7335b896207/a-modern-marketing-site-without-a-modern-front-end-stack-2a12",
+   "date": "2026-08-20T16:04:05+00:00",
+   "summary": "Laravel 13, Blade, Tailwind 4, Vite 8.  Astro, Hugo, Eleventy and Next are all good at building fast...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Stale-While-Revalidate in WordPress: Designing Cache Around Latency, Consistency, and Failure",
+   "url": "https://medium.com/@claudiocirinojr/stale-while-revalidate-in-wordpress-designing-cache-around-latency-consistency-and-failure-2a316f0551a8?source=rss------php-5",
+   "date": "2026-08-20T15:41:25+00:00",
+   "summary": "Caching is usually introduced as a performance optimization. That description is useful, but incomplete. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel env() Outside config/: Catch Deployment Bugs Before config:cache",
+   "url": "https://dev.to/codegenie_be/laravel-env-outside-config-catch-deployment-bugs-before-configcache-d83",
+   "date": "2026-08-20T11:45:01+00:00",
+   "summary": "The bug only appears after configuration caching   A Laravel application can behave...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why PHP Environment Variables Can Behave Differently Across Environments",
+   "url": "https://towardsdev.com/why-php-environment-variables-can-behave-differently-across-environments-2f0a9f2dd671?source=rss------php-5",
+   "date": "2026-08-20T11:02:45+00:00",
+   "summary": "The practical details behind PHP environment variables, configuration, and common mistakes. Continue reading on Towards Dev »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building a PHP Project from Scratch: Complete Guide",
+   "url": "https://medium.com/@wedowebappsuk/building-a-php-project-from-scratch-complete-guide-d3c306167e6c?source=rss------php-5",
+   "date": "2026-08-20T10:17:28+00:00",
+   "summary": "There&#x2019;s a big difference between getting a PHP project working and building one that you&#x2019;ll still be happy to work on six months later. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "igbinary: half the Redis memory for one line of config",
+   "url": "https://dev.to/kevariable/igbinary-half-the-redis-memory-for-one-line-of-config-3o13",
+   "date": "2026-08-20T10:13:08+00:00",
+   "summary": "Everything PHP stores in Redis gets serialized first: sessions, cache entries, queued jobs. PHP's...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PHP-FPM vs FrankenPHP classic vs Octane worker",
+   "url": "https://dev.to/kevariable/php-fpm-vs-frankenphp-classic-vs-octane-worker-59oj",
+   "date": "2026-08-20T10:12:17+00:00",
+   "summary": "The same Laravel app, served three ways. Same code, same database, same box. The only difference is...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding PHP-FPM's process manager (by actually watching it)",
+   "url": "https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g",
+   "date": "2026-08-20T09:05:10+00:00",
+   "summary": "I thought I understood pm = dynamic until I sat down and watched it work in real time. It turns out...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Multi-Tenant SaaS Authorization System in Laravel: A Complete Step-by-Step Guide (RBAC + ABAC + Teams)",
+   "url": "https://dev.to/hosseinhezami/building-a-multi-tenant-saas-authorization-system-in-laravel-a-complete-step-by-step-guide-rbac--304l",
+   "date": "2026-08-20T08:14:18+00:00",
+   "summary": "TL;DR: In this hands-on tutorial, we'll build a complete authorization system for a fictional...",
+   "points": 1,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)",
+   "url": "https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/",
+   "date": "2026-08-20T07:40:00+00:00",
+   "summary": "Andi Gutmans, head of Agentic Data Cloud at Google and co-creator of PHP, joins Leaders of Code to talk about why agentic development feels less like a break from the past and more like the next chapter of the same story. This is part one o",
+   "tech": "php",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "What Makes Laravel Pest Testing Faster Than PHPUnit",
+   "url": "https://blog.stackademic.com/what-makes-laravel-pest-testing-faster-than-phpunit-096f663d0b1d?source=rss------php-5",
+   "date": "2026-08-20T06:42:13+00:00",
+   "summary": "Anyone who&#x2019;s waited on a bloated PHPUnit suite before pushing code knows the frustration. Laravel Pest testing has picked up serious&#x2026; Continue reading on Stackademic »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Decoupling Laravel: Hexagonal Architecture Guide 🏗️",
    "url": "https://dev.to/iprajapatiparesh/decoupling-laravel-hexagonal-architecture-guide-278d",
@@ -228,17 +484,6 @@
    "lang": "en"
   },
   {
-   "title": "PHP 8.6 Deep Dive: Every New Feature, Syntax Change, and Code Example",
-   "url": "https://dev.to/mmurtuzah/php-86-deep-dive-every-new-feature-syntax-change-and-code-example-1ef3",
-   "date": "2026-08-19T11:24:46+00:00",
-   "summary": "PHP continues its relentless modernization cycle. With PHP 8.6 slated for release on November 19,...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Best Tech Stack for Enterprise Applications: .NET vs PHP vs Node.js",
    "url": "https://medium.com/@social200kuser/best-tech-stack-for-enterprise-applications-net-vs-php-vs-node-js-f975ff816570?source=rss------php-5",
    "date": "2026-08-19T09:43:01+00:00",
@@ -256,241 +501,6 @@
    "tech": "php",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "How to upload a file over JSON-RPC, when JSON has no type for a file",
-   "url": "https://dev.to/otezvikentiy/how-to-upload-a-file-over-json-rpc-when-json-has-no-type-for-a-file-5g76",
-   "date": "2026-08-19T06:40:00+00:00",
-   "summary": "JSON has no representation for a file. Strings, numbers, arrays, objects - that is the whole list. So...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Fundamentals of AI Engineering - EP 01",
-   "url": "https://dev.to/kbzaman2/the-fundamentals-of-ai-engineering-ep-01-1949",
-   "date": "2026-08-19T06:08:30+00:00",
-   "summary": "AI Engineering means using an existing AI model to add useful AI features to a real software...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Using Test Impact Analysis on Slow Laravel Test Suites Without Losing Trust",
-   "url": "https://dev.to/saqueib/using-test-impact-analysis-on-slow-laravel-test-suites-without-losing-trust-4efa",
-   "date": "2026-08-19T05:19:05+00:00",
-   "summary": "Slow Laravel suites make fast refactors harder than they should be. This piece covers when test impact analysis helps, where the trust boundary belongs, and when selective runs are too risky to rely on.",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ditch Pusher: First-Party WebSockets with Laravel Reverb 📡",
-   "url": "https://dev.to/iprajapatiparesh/ditch-pusher-first-party-websockets-with-laravel-reverb-4gna",
-   "date": "2026-08-19T04:40:07+00:00",
-   "summary": "The High Cost of Real-Time Infrastructure  In the modern enterprise web, real-time communication is...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "File Upload Security: Polyglots, Content-Type Confusion, and Storage Risks",
-   "url": "https://medium.com/@cybermindspace/file-upload-security-polyglots-content-type-confusion-and-storage-risks-dcf0e0772101?source=rss------php-5",
-   "date": "2026-08-19T03:46:24+00:00",
-   "summary": "The file passed image validation. It was also PHP. That&#x2019;s the whole attack. Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Dev Log: 2026-08-18 — everything that had to survive being called twice",
-   "url": "https://dev.to/nasrulhazim/dev-log-2026-08-18-everything-that-had-to-survive-being-called-twice-11ji",
-   "date": "2026-08-18T23:48:04+00:00",
-   "summary": "Eight commits across four repos, and by evening they'd all quietly converged on the same question:...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "One person, one contact: deduping at the point of capture",
-   "url": "https://dev.to/nasrulhazim/one-person-one-contact-deduping-at-the-point-of-capture-12ak",
-   "date": "2026-08-18T23:46:42+00:00",
-   "summary": "Today I shipped both sides of a form. A marketing site got a \"Get Notified\" modal on its course...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Security Headers in PHP that Harden Every Response",
-   "url": "https://medium.com/@talhaouimouad04/security-headers-in-php-that-harden-every-response-e79569370d91?source=rss------php-5",
-   "date": "2026-08-18T19:01:53+00:00",
-   "summary": "Security headers are server-side configurations rather than application code. They act as directives that instruct the browser on how to&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Find and Fix Slow Queries in Laravel Database?",
-   "url": "https://medium.com/@talhaouimouad04/how-to-find-and-fix-slow-queries-in-laravel-database-89e42222b132?source=rss------php-5",
-   "date": "2026-08-18T14:26:02+00:00",
-   "summary": "The first time I noticed a Laravel application slowing down, my first instinct was to inspect the PHP code. The routes were functioning&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Symfony 8.1: From Static Reflection to Request-Aware Attributes",
-   "url": "https://towardsdev.com/symfony-8-1-from-static-reflection-to-request-aware-attributes-39a0873d1a37?source=rss------php-5",
-   "date": "2026-08-18T10:53:50+00:00",
-   "summary": "Attributes can now be read anywhere in the request lifecycle, and listeners only fire when their attribute is actually present &#x2014; no more&#x2026; Continue reading on Towards Dev »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Why exporting support tickets is a security risk and how to fix it local first",
-   "url": "https://dev.to/ace2016/why-exporting-support-tickets-is-a-security-risk-and-how-to-fix-it-local-first-mai",
-   "date": "2026-08-18T10:32:21+00:00",
-   "summary": "When a critical bug, billing dispute, or compliance issue happens, someone on the team inevitably...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building Document Studio: a PDF template builder that doesn't trust anyone by default",
-   "url": "https://dev.to/tommaso_musetti/building-document-studio-a-pdf-template-builder-that-doesnt-trust-anyone-by-default-4ak1",
-   "date": "2026-08-18T09:58:32+00:00",
-   "summary": "Every agency project has the same recurring ticket: \"can you change the layout on the quote PDF?\" The...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Automating Social Media Orders Through a REST API: Five Things I Got Wrong First",
-   "url": "https://dev.to/boostero_panel/automating-social-media-orders-through-a-rest-api-five-things-i-got-wrong-first-3h7o",
-   "date": "2026-08-18T09:57:45+00:00",
-   "summary": "If you run social campaigns for more than a handful of clients, at some point you stop clicking...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Advanced PHP Web Development Training",
-   "url": "https://medium.com/@dhritishah472/advanced-php-web-development-training-5d788892191c?source=rss------php-5",
-   "date": "2026-08-18T09:51:02+00:00",
-   "summary": "PHP Training in Chandigarh helps learners develop practical skills in server-side web development, database integration, and dynamic&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "When “Premature End of Script Headers” Isn’t PHP: The Laravel Vite Bug That Cost Me Hours",
-   "url": "https://medium.com/@trig79/when-premature-end-of-script-headers-isnt-php-the-laravel-vite-bug-that-cost-me-hours-0ce3df155c7d?source=rss------php-5",
-   "date": "2026-08-18T09:41:17+00:00",
-   "summary": "I lost the better part of a morning chasing one of the most frustrating production bugs I&#x2019;ve hit in a long time. Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "One Plugin, Every Client Stack: Building a Universal WordPress Webhook Adapter",
-   "url": "https://dev.to/webequipe/one-plugin-every-client-stack-building-a-universal-wordpress-webhook-adapter-65k",
-   "date": "2026-08-18T09:08:39+00:00",
-   "summary": "A client asked me for something simple a while back: send a Telegram message every time someone fills...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Software Craftsmanship et web sur-mesure : ma démarche avec Sazulis",
-   "url": "https://dev.to/sazulis/software-craftsmanship-et-web-sur-mesure-ma-demarche-avec-sazulis-i2",
-   "date": "2026-08-18T08:43:51+00:00",
-   "summary": "Hello à tous👋  Développeur web et fondateur de Sazulis, je conçois des applications et des sites web...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Defeating the OFFSET Death Spiral: Cursor Pagination",
-   "url": "https://dev.to/iprajapatiparesh/defeating-the-offset-death-spiral-cursor-pagination-1nn3",
-   "date": "2026-08-18T08:27:59+00:00",
-   "summary": "The Illusion of Standard Pagination  When you build a data-heavy application—like an e-commerce...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Symfony Aggregate Has Been Lying About Its Encapsulation",
-   "url": "https://medium.com/@laurentmn/your-symfony-aggregate-has-been-lying-about-its-encapsulation-9fb8476adad8?source=rss------php-5",
-   "date": "2026-08-18T07:36:50+00:00",
-   "summary": "A PHP 8.4 aggregate that refuses invalid state on its own, paired with a Voter that decides who gets to try. Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Rotating JWT Refresh Tokens Without Logging Out Every Video Client",
-   "url": "https://dev.to/ahmet_gedik778845/rotating-jwt-refresh-tokens-without-logging-out-every-video-client-36ce",
-   "date": "2026-08-18T07:00:03+00:00",
-   "summary": "How we fixed refresh-token rotation logging users out on mobile: family IDs, a 30-second grace windo",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Security Headers in PHP and Laravel — The Lines That Harden Every Response",
-   "url": "https://dev.to/kriosa/security-headers-in-php-and-laravel-the-lines-that-harden-every-response-abc",
-   "date": "2026-08-18T07:00:00+00:00",
-   "summary": "ORIGINALLY POSTED ON KRIOSA  This is the fourteenth article in a series on PHP and Laravel...",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Do you really need all of this to build a website?",
-   "url": "https://dev.to/wellingtonpragidi/do-you-really-need-all-of-this-to-build-a-website-3lp8",
-   "date": "2026-08-18T02:06:10+00:00",
-   "summary": "You need to build a site. So you install a CMS, and then:  • You need an SEO plugin • Then another...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -1554,6 +1564,16 @@
    "lang": "ar"
   },
   {
+   "title": "php تعلم لغة البرمجة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zelZ5RDFQaFo2dGllZ1EwTTE3MDRSc1JiaHdwaWJxT3VSWlZMR3pPcDNDVUlBNEdOQURhbDNPUHZ6M0t5ZGJLcEdZcTRlZmxpU0xia3NB?oc=5",
+   "date": "2023-11-30T12:14:02+00:00",
+   "summary": "php تعلم لغة البرمجة YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "PHP Laravel Ecommerce project tutorial",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01MEVFM19uWlNhWWtLUzYyTFRFbkRlR2hHdUlsbTZEalZFTmRPdVptTGZZVkF5OVZzZ2pWaVlHRzBLekRIVlJaQk0wRGF1aENxMGhURmlnNmlsLW4teHdRLThFb1ZyRGxjbEVKUW9jRjB0a0tLX2Rud2RIMDg?oc=5",
    "date": "2023-11-27T23:12:55+00:00",
@@ -1740,6 +1760,16 @@
    "summary": "PHP Full Course for free 🐘 YouTube",
    "tech": "php",
    "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel events and listeners in depth | Arabic",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oYWFaSlc4SVJiR25wSTFEaGZrbVVoV1NtcS13UjJmZnltSGR2bEFudGM0dGNsRWc2YlJqSVpyb0NFLWJfU3ZvNUN5TFo4cjdvczNXbXJn?oc=5",
+   "date": "2023-03-28T09:16:58+00:00",
+   "summary": "Laravel events and listeners in depth | Arabic YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -2094,26 +2124,6 @@
    "lang": "ar"
   },
   {
-   "title": "The Complete HTML 5 CSS 3 and PHP Master Class for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EYmVuMUJYaUJtOVJjaXF5cDlKaW9Qd2F4WF9rU0VLWlhkU0xRZXI5ZWRsVGE0QWdkbFQzbEF2QXd0MXFKd3hUaXRqMTZZNk9hT3U2ZE1n?oc=5",
-   "date": "2022-08-04T12:45:09+00:00",
-   "summary": "The Complete HTML 5 CSS 3 and PHP Master Class for Beginners YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn PHP: Complete Beginner's Guide, Full Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcGtiTDlfSGZGYjVwYjBzQVBnS2tXczczaXlyT1lxVGk5ZTQ2dXEwY3NOVUQxVV9fNWdqM0hEUnlOR2FQR29Idk5ySDBRbUVZTXZEUmh3?oc=5",
-   "date": "2022-07-28T11:30:12+00:00",
-   "summary": "Learn PHP: Complete Beginner's Guide, Full Course YouTube",
-   "tech": "php",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تعليم لارافيل خطوة بخطوة من الصفر",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VOXBjS25FRU1rWHlGeFdEWmpweV9BT0F4ZDVsRmt6V3k3ZGIxamJYVVJRaHN6VjZJRmFmOHVrR2xTWnlkYUZsVEZpeXNNN3VsNHJQWHFR?oc=5",
    "date": "2022-07-27T20:15:12+00:00",
@@ -2218,16 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1OXJaNkFEZlJiRU9idlpEZ0R3MUVKVDVwNk5oOXhkcXV5VXhFSnpUXzZjYTFJS0hhbFpGZW1pNXRzcVcxU2lfZGh6MUd1SjRKWGw2VVdB?oc=5",
    "date": "2022-04-23T01:44:02+00:00",
    "summary": "ربط الـ PHP مع MySQL بسهولة وعمل صفحة تسجيل مستخدم #2 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "05 تجهيز واجهات لوحة التحكم وتقسيم الملفات creating dashboard files and translate in Laravel",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tNTl2WlZ3b3R2dXlyaFRBNzlkb1k1cmgwWGhnTkdhS1hEQmY0TG9jTDNqUGdYN1FXQmJaSE5icHB5WHUyY2RFaUxOZWRCR0dpaEF0Rkl3?oc=5",
-   "date": "2022-04-21T22:44:30+00:00",
-   "summary": "05 تجهيز واجهات لوحة التحكم وتقسيم الملفات creating dashboard files and translate in Laravel YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",

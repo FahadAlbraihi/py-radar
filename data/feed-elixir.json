@@ -1,8 +1,18 @@
 {
- "generated": "2026-08-20T05:15:32.630183+00:00",
+ "generated": "2026-08-21T05:09:41.638841+00:00",
  "tech": "elixir",
- "count": 96,
+ "count": 97,
  "items": [
+  {
+   "title": "QFM122: Elixir Reading List — July 2026",
+   "url": "https://matthewsinclair.medium.com/qfm122-elixir-reading-list-july-2026-2ac59f904541?source=rss------elixir-5",
+   "date": "2026-08-20T14:01:03+00:00",
+   "summary": "Everything I found interesting last month about the Elixir programming ecosystem Continue reading on Medium »",
+   "tech": "elixir",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "Dynamic machine ID leases in Elixir",
    "url": "https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj",
@@ -365,6 +375,16 @@
    "lang": "en"
   },
   {
+   "title": "Mastering Task Supervision in Elixir: A Quick Guide",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5adlBjUUU5dllJYWNwVi1pSWY2NjVkZW9LcGljUjRsNjFtY3lIWWY1elFzVUFEYjhfMUNYZE9HT1lFc1JqRGhWZVIwV0NNcF9QRlJMWQ?oc=5",
+   "date": "2025-04-01T00:15:23+00:00",
+   "summary": "Mastering Task Supervision in Elixir: A Quick Guide YouTube",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Elixir Full Course: 41 - Tasks",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5USXl5UWl2RDd4Q21RdWpxMkpUUU9idWxoeWdWZEhaRk10Q3NDeVpkWTV6MzJzUUlvNGxyMmd5ZlFzd2ppZWFsaXhsSi1aUEFSUzdxTl9n?oc=5",
    "date": "2025-03-31T15:00:24+00:00",
@@ -715,6 +735,16 @@
    "lang": "en"
   },
   {
+   "title": "Elixir Full Course: 2 - Meet your instructor",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3YzdTWkdvdVRrQmN3ZEx5Um1tZXBTVnNqc09UN250bVJNc0xOcXJ2dnJiTklUS3Z1b2doNG9TdUc5TURuT09HaEdjeWxldGJCU2Q0THV3?oc=5",
+   "date": "2024-11-06T17:16:33+00:00",
+   "summary": "Elixir Full Course: 2 - Meet your instructor YouTube",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Elixir Full Course: 1 - Welcome to the course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtU19iRGllTmpBVm5lSlBhSGZhc09JZ3RoNXRScHBiencydUtwbjRLRW84cXJmdzNDNUtFbF9rWHZxQ2g0SzRhc3lkMHJ2WFktQ0NkclpB?oc=5",
    "date": "2024-11-06T17:16:25+00:00",
@@ -855,6 +885,16 @@
    "lang": "en"
   },
   {
+   "title": "Building a Gist Clone (an Elixir Full Course) Pt. 20: Live Component Magic",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CcW1mR2x4ZGxtQVJLLWVlNnltY3ZrYXVCU0dONFZEN2ZpT0RuWVRFVzFqeEd2WEdPUkx1bW52UVpOWHhJajlsa25ackRjNDN2VVlRdDV3?oc=5",
+   "date": "2024-02-21T15:10:19+00:00",
+   "summary": "Building a Gist Clone (an Elixir Full Course) Pt. 20: Live Component Magic YouTube",
+   "tech": "elixir",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Basic to Advanced Elixir Course #1 (Updated) - Maps, Structs",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ENnB2QzZ4T3hIM1dXV3hlZkdrMEZqUjhDTmc1bkV1OXNIdjhJQjlIaFE0SklScU50RG9mankwT0NvZW9qTDlkZFFxSWpqZFZka2w2dWxB?oc=5",
    "date": "2024-02-03T13:00:12+00:00",
@@ -949,36 +989,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14QWdZVngzR01RTUY5ZW5NRGtIQmkxcHNxQURGX1lsOTFnU1Y5aG1tLThPMXlITWg2SEd0WDlaM05mRk9lQlBlMEJRN2FpX2tDTWtIWE93?oc=5",
    "date": "2023-03-08T14:00:03+00:00",
    "summary": "18 - Case, Cond And If/else Statements in Elixir | Full Course - Complete Beginner Tutorial YouTube",
-   "tech": "elixir",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "11 - Hello World in Elixir | Full Course - Complete Beginner Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lYktON1I2aU1IaUxneWF1ZVBiZXNCWGhyclB1bFlMLXJqQ1VqZEpIU2ZlSWM4LWZXUU1BZW5LRXpRTkZ2WXprUWlXR0lSaW1NbHpMeFBB?oc=5",
-   "date": "2023-02-25T21:57:09+00:00",
-   "summary": "11 - Hello World in Elixir | Full Course - Complete Beginner Tutorial YouTube",
-   "tech": "elixir",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "10 Actor Model in Elixir | Full Course - Complete Beginner Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBcnVqRGRrbk9nNXRZVHRLYzhuV21ZOXZXOWVMVlNkeE81NHVzYTJPbkh6WGE0R0xJdmFVV3lhU0Nid1Uxa1Q2aEwyTXFxMEs5MW9lMVJ3?oc=5",
-   "date": "2023-02-21T14:00:01+00:00",
-   "summary": "10 Actor Model in Elixir | Full Course - Complete Beginner Tutorial YouTube",
-   "tech": "elixir",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn Elixir In 5 Minutes",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTzNybzNQY0pUT19uYi15cmJZLTFRek9RMzRZNTZKc0tuOXpPNENyUW9jcGtVWGQ4bGVMa3NoUVcyWnF4UlJPUXk4akRxVzFuVDNMVTNn?oc=5",
-   "date": "2023-01-28T16:51:04+00:00",
-   "summary": "Learn Elixir In 5 Minutes YouTube",
    "tech": "elixir",
    "sourceId": "yt",
    "source": "YouTube",

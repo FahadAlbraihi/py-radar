@@ -1,8 +1,313 @@
 {
- "generated": "2026-08-20T05:01:51.475669+00:00",
+ "generated": "2026-08-21T05:03:46.415182+00:00",
  "tech": "python",
  "count": 220,
  "items": [
+  {
+   "title": "Two Hours Lost to a Silent 401: Submitting 12 iOS Apps to the App Store With No Human in the Loop (Part 1)",
+   "url": "https://dev.to/bokuwalily/two-hours-lost-to-a-silent-401-submitting-12-ios-apps-to-the-app-store-with-no-human-in-the-loop-1op5",
+   "date": "2026-08-21T05:00:09+00:00",
+   "summary": "I went from earning about ¥100,000 a month as a university student to ¥600,000 by stacking side gigs...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Multithreading vs Multiprocessing in Python: What Actually Works?",
+   "url": "https://dailypythonpro.medium.com/multithreading-vs-multiprocessing-in-python-what-actually-works-d16d9b8188a8?source=rss------python-5",
+   "date": "2026-08-21T04:27:20+00:00",
+   "summary": "The mental models, code realities, and race conditions every Python developer must master. Continue reading on Medium »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Membuat Program Data Diri Menggunakan Python di VS Code",
+   "url": "https://medium.com/@rikzxy_0/membuat-program-data-diri-menggunakan-python-di-vs-code-948f852e0660?source=rss------python-5",
+   "date": "2026-08-21T04:24:34+00:00",
+   "summary": "Halo Semuanya !!! Continue reading on Medium »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation",
+   "url": "https://pandeyparul.medium.com/how-much-of-a-data-science-workflow-can-run-on-a-gpu-today-part-1-accelerating-data-preparation-7ca09f7feca5?source=rss------python-5",
+   "date": "2026-08-21T04:08:16+00:00",
+   "summary": "Exploring GPU acceleration with cuDF, cudf.pandas and the Polars GPU Engine Continue reading on Medium »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Finding Network Blind Spots: A Practical Guide to Scanning and Scripting with ScanSearch",
+   "url": "https://dev.to/devyjones/finding-network-blind-spots-a-practical-guide-to-scanning-and-scripting-with-scansearch-5h39",
+   "date": "2026-08-21T04:00:15+00:00",
+   "summary": "Ever been in a situation where you need to quickly check if a specific port is exposed on a range of...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Started an Open-Source Python Handbook",
+   "url": "https://dev.to/adombire_dev/why-i-started-an-open-source-python-handbook-180n",
+   "date": "2026-08-21T03:56:05+00:00",
+   "summary": "A few days ago, I decided to start documenting my Python journey in public.  Not because I’m new to...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Top Vector Databases for AI Agents in 2026: Qdrant vs Pinecone vs Weaviate vs PgVector vs Milvus",
+   "url": "https://dev.to/agdex_ai/top-vector-databases-for-ai-agents-in-2026-qdrant-vs-pinecone-vs-weaviate-vs-pgvector-vs-milvus-4ng2",
+   "date": "2026-08-21T03:50:05+00:00",
+   "summary": "Compare the leading vector databases for persistent AI agent memory, RAG, and multi-tenant semantic search in 2026. Detailed benchmarks on latency, filtering, hybrid search, and operational cost.",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Top AI Agent Security & Guardrails Frameworks in 2026: Defending Against Prompt Injections & Tool Hijacking",
+   "url": "https://dev.to/agdex_ai/top-ai-agent-security-guardrails-frameworks-in-2026-defending-against-prompt-injections-tool-3njo",
+   "date": "2026-08-21T03:49:48+00:00",
+   "summary": "Compare the leading AI agent security and guardrail frameworks in 2026: Lakera, NeMo Guardrails, LLM Guard, Rebuff, and Llama Guard. Learn how to defend against prompt injections, memory poisoning, and tool execution hij",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Biggest Python Tool Since pip Might Be uv",
+   "url": "https://medium.com/@komalbaparmar007/the-biggest-python-tool-since-pip-might-be-uv-8c127d97b2be?source=rss------python-5",
+   "date": "2026-08-21T03:31:01+00:00",
+   "summary": "Python finally has a package manager that feels like it belongs in 2026. Continue reading on Medium »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Jupyter Notebook Tutorial: Learn Python Interactively",
+   "url": "https://medium.com/@khayyamshah2007/jupyter-notebook-tutorial-learn-python-interactively-36a429c1eb40?source=rss------python-5",
+   "date": "2026-08-21T03:12:12+00:00",
+   "summary": "Want to learn Python, Data Science, Machine Learning, or NLP in a practical way? Continue reading on Medium »",
+   "tech": "python",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I built a crypto trading bot. It lost to doing nothing.",
+   "url": "https://dev.to/nar1frames/i-built-a-crypto-trading-bot-it-lost-to-doing-nothing-355a",
+   "date": "2026-08-21T02:18:56+00:00",
+   "summary": "Every trading bot post ends the same way: a green equity curve and a suspicious silence about whether...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Django Weblog: DSF Membership Open Space at DjangoCon US",
+   "url": "https://www.djangoproject.com/weblog/2026/aug/20/dsf-membership-open-space-at-djangocon-us/",
+   "date": "2026-08-21T02:11:52+00:00",
+   "summary": "If you are at DjangoCon US this year, join us for 45 minutes to talk about the Django Software Foundation. What: Django Software Foundation Membership Open Space When: Wednesday, August 26th, 1:00 pm to 1:45 pm Where: Wolf Point Ballroom, v",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "We tested \"tokenize before you compress\" against 452 configurations, and it mostly held up",
+   "url": "https://dev.to/ronak_parmar_033c50d168b5/we-tested-tokenize-before-you-compress-against-452-configurations-and-it-mostly-held-up-4m6p",
+   "date": "2026-08-21T01:37:16+00:00",
+   "summary": "A few weeks ago my friend @u84u and I (@ronak-create) had a simple, slightly annoying question: if...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The 128k Context Illusion: How to Test 'Lost in the Middle' in Local LLMs",
+   "url": "https://dev.to/minh_phuongnguyen_b13201/the-128k-context-illusion-how-to-test-lost-in-the-middle-in-local-llms-9i8",
+   "date": "2026-08-21T01:00:17+00:00",
+   "summary": "The 128k Context Illusion: How to Test 'Lost in the Middle' in Local LLMs   In August 2026,...",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Principle of Least Privilege: Why File Permissions Like 600/644/755 Exist",
+   "url": "https://dev.to/susumun/the-principle-of-least-privilege-why-file-permissions-like-600644755-exist-2a5o",
+   "date": "2026-08-21T00:16:39+00:00",
+   "summary": "Anyone who has worked with SSH private keys has run into an instruction to \"set it to 600.\" Config...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What's an event loop anyways?",
+   "url": "https://dev.to/johnrushwrs/whats-an-event-loop-anyways-1n6o",
+   "date": "2026-08-21T00:09:32+00:00",
+   "summary": "Event loops are a paradigm for processing events different than your typical single-threaded or...",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "iCloud Silently Evicted 69 Article Files and Killed 4 Days of Publishing: EDEADLK and a read_text_resilient Design",
+   "url": "https://dev.to/bokuwalily/icloud-silently-evicted-69-article-files-and-killed-4-days-of-publishing-edeadlk-and-a-1n6i",
+   "date": "2026-08-21T00:04:58+00:00",
+   "summary": "Every one of my publishing lanes went dark for four days, and every script involved exited with...",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The No Title® Tech Blog: Optimize Images X adds internationalization",
+   "url": "https://no-title.victordomingos.com/articles/2026/optimize-images-x-internationalization",
+   "date": "2026-08-20T22:50:00+00:00",
+   "summary": "Optimize Images X, the multi-platform desktop application that helps you reduce the file size of your images on macOS, Windows and Linux, has just been updated to version 2.2.0. This new version adds full internationalization support with s",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "The Most Expensive Bug in My Trading System Was Me",
+   "url": "https://hackernoon.com/the-most-expensive-bug-in-my-trading-system-was-me?source=rss",
+   "date": "2026-08-20T21:45:26+00:00",
+   "summary": "Any system with a human override is a hybrid, and the human half never gets profiled. Three pandas audits that recover the cost from a broker CSV export.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Didn't Put a Proxy Between My App and OpenAI",
+   "url": "https://hackernoon.com/why-i-didnt-put-a-proxy-between-my-app-and-openai?source=rss",
+   "date": "2026-08-20T20:40:37+00:00",
+   "summary": "An open-source Python wrapper for OpenAI/Anthropic that reports per-call cost without adding a proxy to your request path. Visibility over blocking, on purpose.",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "I found a $45 billion number that vanished from NVIDIA's SEC filings",
+   "url": "https://dev.to/tianninglab/i-found-a-45-billion-number-that-vanished-from-nvidias-sec-filings-1g5n",
+   "date": "2026-08-20T19:47:56+00:00",
+   "summary": "Liquid syntax error: 'raw' tag was never closed",
+   "points": 1,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "One rented /24 could eclipse a Kademlia node. Now it takes ten.",
+   "url": "https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p",
+   "date": "2026-08-20T18:56:59+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           The...",
+   "points": 7,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The test was green. Every real connection would have failed.",
+   "url": "https://dev.to/yashksaini/the-test-was-green-every-real-connection-would-have-failed-3e37",
+   "date": "2026-08-20T18:54:53+00:00",
+   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           The...",
+   "points": 10,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
+   "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
+   "date": "2026-08-20T17:00:00+00:00",
+   "summary": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
+   "tech": "python",
+   "sourceId": "fcc",
+   "source": "freeCodeCamp",
+   "lang": "en"
+  },
+  {
+   "title": "Python Software Foundation: How AWS Powers PyPI and the PSF",
+   "url": "https://pyfound.blogspot.com/2026/08/how-aws-powers-pypi-and-psf.html",
+   "date": "2026-08-20T16:10:05+00:00",
+   "summary": "Written by Jacob Coffee, Director of Engineering at the Python Software Foundation Working on infrastructure at the Python Software Foundation (PSF) as the Director of Engineering is a broad job with many hats. Python turns up everywhere. I",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "What a Code Completer's Eval Never Measures: Ghost Text",
+   "url": "https://dev.to/megapixel99/what-a-code-completers-eval-never-measures-ghost-text-3a64",
+   "date": "2026-08-20T14:00:00+00:00",
+   "summary": "A hybrid n-gram and 2.48M-parameter code completer that gets 54.6% of tokens right, tuned dial by dial against its own held-out eval. Then I scored the one feature that emits more than a single token and it came back at ",
+   "points": 0,
+   "tech": "python",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PyCharm: PyCharm for AI-assisted Django Workflows",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/pycharm-for-ai-assisted-django-workflows/",
+   "date": "2026-08-20T13:06:50+00:00",
+   "summary": "The 2026 Django Developers Survey (results coming soon!) found that AI is part of the weekly or daily workflow for 90% of respondents. AI can write code quickly, but Django developers still need to understand the application, evaluate what ",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
+  {
+   "title": "PyCharm for AI-assisted Django Workflows",
+   "url": "https://blog.jetbrains.com/pycharm/2026/08/pycharm-for-ai-assisted-django-workflows/",
+   "date": "2026-08-20T13:06:50+00:00",
+   "summary": "The 2026 Django Developers Survey (results coming soon!) found that AI is part of the weekly or daily workflow for 90% of respondents. AI can write code quickly, but Django developers still need to understand the application, evaluate what ",
+   "tech": "python",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Quiz: Your Guide to the CPython Source Code",
+   "url": "https://realpython.com/quizzes/cpython-source-code-guide/",
+   "date": "2026-08-20T12:00:00+00:00",
+   "summary": "Test your grasp of the CPython source code, from bytecode and memory management to frames and generators. Based on the CPython 3.8 walkthrough.",
+   "tech": "python",
+   "sourceId": "blogs",
+   "source": "مدونات",
+   "lang": "en"
+  },
   {
    "title": "Arquitectura de Aplicaciones en Python: Implementando el patrón Generic Host de .NET",
    "url": "https://medium.com/@ttchristofer/arquitectura-de-aplicaciones-en-python-implementando-el-patr%C3%B3n-generic-host-de-net-6aaa8feaa9b3?source=rss------python-5",
@@ -229,28 +534,6 @@
    "lang": "en"
   },
   {
-   "title": "My AI Agent Saved Me from a 287% Revenue Growth Trap",
-   "url": "https://dev.to/masaoshimadaopen/my-ai-agent-saved-me-from-a-287-revenue-growth-trap-339e",
-   "date": "2026-08-19T23:30:17+00:00",
-   "summary": "Hey, it's Ojii. I'm a 38-year-old side-hustle engineer, tinkering with AI agents and automated...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Free Server Wiped My SQLite Queue Overnight and the Health Check Never Noticed",
-   "url": "https://dev.to/codepy_1473/the-free-server-wiped-my-sqlite-queue-overnight-and-the-health-check-never-noticed-5ce6",
-   "date": "2026-08-19T21:42:24+00:00",
-   "summary": "The background job worker looked perfect when I deployed it. A free model available through...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "#559: 12 Things You Should (and Shouldn't) Do in AWS",
    "url": "https://talkpython.fm/episodes/show/559/12-things-you-should-and-shouldnt-do-in-aws",
    "date": "2026-08-19T18:57:47+00:00",
@@ -269,39 +552,6 @@
    "tech": "python",
    "sourceId": "blogs",
    "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Is it possible to code while learning something new? Of course, it’s more fun.",
-   "url": "https://dev.to/eren_poger/is-it-possible-to-code-while-learning-something-new-of-course-its-more-fun-1lhd",
-   "date": "2026-08-19T16:08:37+00:00",
-   "summary": "Hey guys;) Long time no see.           General   Actually I wanna change my blog format. Now I’m...",
-   "points": 5,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Day 4:My Python Full Stack Development Learning Journey",
-   "url": "https://dev.to/kalainithi_sekar/day-4my-python-full-stack-development-learning-journey-300h",
-   "date": "2026-08-19T15:32:29+00:00",
-   "summary": "Day 4 of learning Python Full Stack Development,  Today its starts with learning NLP concept like ...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My AI said the PDF was empty. The PDF was not empty.",
-   "url": "https://dev.to/andrewavery7/my-ai-said-the-pdf-was-empty-the-pdf-was-not-empty-1b1l",
-   "date": "2026-08-19T14:51:30+00:00",
-   "summary": "I asked Claude Code to pull the key dates out of a PDF I had saved from a webpage. It came back...",
-   "points": 1,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -365,27 +615,6 @@
    "lang": "en"
   },
   {
-   "title": "Python Software Foundation: How AWS Powers PyPI and the PSF",
-   "url": "https://pyfound.blogspot.com/2026/08/how-aws-powers-pypi-and-psf.html",
-   "date": "2026-08-19T11:20:12+00:00",
-   "summary": "Written by Jacob Coffee, Director of Engineering at the Python Software Foundation Working on infrastructure at the Python Software Foundation (PSF) as the Director of Engineering is a broad job with many hats. Python turns up everywhere. I",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Eleven Terabytes and No Raster Database",
-   "url": "https://dev.to/srdjan_poppovic/eleven-terabytes-and-no-raster-database-3bll",
-   "date": "2026-08-19T08:53:56+00:00",
-   "summary": "DailyMeteo is about 11 TB of GeoTIFFs — 1 km daily temperature and precipitation for all land on...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Python GUIs: Creating PySide6 UI without .ui / Qt Designer — Build your entire GUI in pure Python code, no .ui files required",
    "url": "https://www.pythonguis.com/faq/creating-pyside2-ui-without-ui-qt-designer/",
    "date": "2026-08-19T06:00:00+00:00",
@@ -393,17 +622,6 @@
    "tech": "python",
    "sourceId": "blogs",
    "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "binquery: a local CLI shortlist, now also an agent skill",
-   "url": "https://dev.to/harry_xu_74d04f7a971995d5/binquery-a-local-cli-shortlist-now-also-an-agent-skill-2pl1",
-   "date": "2026-08-19T04:53:30+00:00",
-   "summary": "I cut from a local footage box. I wanted 8–15 candidates from one sentence, not a full-library skim...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -437,39 +655,6 @@
    "lang": "en"
   },
   {
-   "title": "I Stopped Answering \"Which Language Should I Learn First.\" The Real Question Makes the Choice Almost Automatic.",
-   "url": "https://dev.to/nomurasan/i-stopped-answering-which-language-should-i-learn-first-the-real-question-makes-the-choice-252p",
-   "date": "2026-08-19T04:00:06+00:00",
-   "summary": "For years I answered 'which language first' with a language name. Then I changed the question — and for trainees who could answer it, the la",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "# Public Robot Dataset Health Check — as measured by RDA v0.5.2",
-   "url": "https://dev.to/liesliy/-public-robot-dataset-health-check-as-measured-by-rda-v052-1ge8",
-   "date": "2026-08-19T03:30:56+00:00",
-   "summary": "We ran RDA across 11 public LeRobot-format datasets — 4,909 episodes in total, spanning sim and real,...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stacking: The Editor Who Never Reported a Story and Still Wrote the Best One",
-   "url": "https://dev.to/sachin_krrajput/stacking-the-editor-who-never-reported-a-story-and-still-wrote-the-best-one-4ich",
-   "date": "2026-08-19T03:30:00+00:00",
-   "summary": "The One-Line Summary: Stacking trains a small model to combine your other models, and the entire...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "7 Python Libraries Every AI Engineer Should Learn This Year",
    "url": "https://ai.gopubby.com/7-python-libraries-every-ai-engineer-should-learn-this-year-2de007377025?source=rss------python-5",
    "date": "2026-08-19T03:18:54+00:00",
@@ -477,71 +662,6 @@
    "tech": "python",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The Model Did Not Change: The Test Was Comparing Strings, Not Behavior",
-   "url": "https://dev.to/codepy_1473/the-model-did-not-change-the-test-was-comparing-strings-not-behavior-4ahd",
-   "date": "2026-08-19T03:10:42+00:00",
-   "summary": "A red build that feels random is worse than a consistent failure. Recently, a generated integration...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "DeepSeek vs Qwen vs Kimi vs GLM: An Architect's 2026 Breakdown",
-   "url": "https://dev.to/eagerspark/deepseek-vs-qwen-vs-kimi-vs-glm-an-architects-2026-breakdown-apm",
-   "date": "2026-08-19T02:32:54+00:00",
-   "summary": "DeepSeek vs Qwen vs Kimi vs GLM: An Architect's 2026 Breakdown  I spend my nights watching p99...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How I Automated 90% of My Daily Work Using Open-Source AI and Python",
-   "url": "https://medium.com/@musausmaniofficial/how-i-automated-90-of-my-daily-work-using-open-source-ai-and-python-86ce6a3553ab?source=rss------python-5",
-   "date": "2026-08-19T02:22:01+00:00",
-   "summary": "A practical guide to building personal AI sidecars, local document search, and hands-off email triage with zero API costs. Continue reading on Medium »",
-   "tech": "python",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The cp932 crash in the build gate that only happened on Windows — static detection, behavioral testing, and a negative check",
-   "url": "https://dev.to/susumun/the-cp932-crash-in-the-build-gate-that-only-happened-on-windows-static-detection-behavioral-mpd",
-   "date": "2026-08-19T01:26:25+00:00",
-   "summary": "The symptom   During the Windows build for v1.6.11, the build gate reported \"version number...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Arabic PDF bug was never in my code — it was the library version",
-   "url": "https://dev.to/support_confileo_ce7442eb/the-arabic-pdf-bug-was-never-in-my-code-it-was-the-library-version-8a9",
-   "date": "2026-08-19T00:31:04+00:00",
-   "summary": "I spent months writing bidi reconstruction logic for reversed Arabic text in PDF extraction. The actual fix was deleting all of it and upgrading two dependencies. Here is how to tell which one is lying to you.",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Sun-like Star May Have Swallowed an Exoplanet with Help from a Mysterious Companion",
-   "url": "https://dev.to/yagyaraj_sharma_6cd410179/sun-like-star-may-have-swallowed-an-exoplanet-with-help-from-a-mysterious-companion-342c",
-   "date": "2026-08-19T00:25:06+00:00",
-   "summary": "Sun-like Star May Have Swallowed an Exoplanet with Help from a Mysterious Companion   The...",
-   "points": 0,
-   "tech": "python",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -613,46 +733,6 @@
    "tech": "python",
    "sourceId": "blogs",
    "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "The Python Automation Trick That Turned a Boring Daily Task Into a Tool I Could Sell",
-   "url": "https://medium.com/@SulemanSafdar/the-python-automation-trick-that-turned-a-boring-daily-task-into-a-tool-i-could-sell-d3b97f86d481?source=rss------python-5",
-   "date": "2026-08-18T03:38:13+00:00",
-   "summary": "How I used Python libraries, file processing, APIs, automation, and a little AI to build something useful without turning the project into&#x2026; Continue reading on Medium »",
-   "tech": "python",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Automating EC2 Infrastructure Standardization at Scale with Terraform and Python",
-   "url": "https://medium.com/@oluwagbemilekeadekunle22/automating-ec2-infrastructure-standardization-at-scale-with-terraform-and-python-aebe671ce076?source=rss------python-5",
-   "date": "2026-08-18T02:54:12+00:00",
-   "summary": "Introduction Continue reading on Medium »",
-   "tech": "python",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Implement Reliable Deduplication for Duplicate Trade Records in HK Real‑time API",
-   "url": "https://medium.com/@kels180/how-to-implement-reliable-deduplication-for-duplicate-trade-records-in-hk-real-time-api-e989507c04ce?source=rss------python-5",
-   "date": "2026-08-18T02:38:03+00:00",
-   "summary": "Tags: #Python #HongKongStockAPI #WebSocket #QuantitativeTrading #DataEngineering Continue reading on Medium »",
-   "tech": "python",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How APIs Work: A Beginner’s Guide with Python",
-   "url": "https://medium.com/@python-ai/how-apis-work-a-beginners-guide-with-python-76c163d3a469?source=rss------python-5",
-   "date": "2026-08-18T02:31:01+00:00",
-   "summary": "How APIs Actually Work (Explained With Python) Continue reading on Medium »",
-   "tech": "python",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -831,46 +911,6 @@
    "url": "https://blog.jetbrains.com/pycharm/2026/08/hybrid-and-local-ai-course-at-deeplearning-ai/",
    "date": "2026-08-13T10:01:32+00:00",
    "summary": "",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Python Software Foundation: Announcing the PSF Board Candidates for 2026!",
-   "url": "https://pyfound.blogspot.com/2026/08/announcing-psf-board-candidates-for-2026.html",
-   "date": "2026-08-13T09:59:40+00:00",
-   "summary": "What an exciting list! Please take a look at the 18 candidates running for the PSF Board this year on the Nominees page . This year there are 4 seats open on the PSF Board. You can see who is currently on the board on the PSF Officers Direc",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Wingware: Wing Python IDE Version 12.0.2 - August 13, 2026",
-   "url": "https://wingware.com/news/2026-08-13",
-   "date": "2026-08-13T01:00:00+00:00",
-   "summary": "Wing Python IDE version 12.0.2 has been released. This release adds a native ARM64 Windows version of Wing, improves remote development on Windows, streamlines Claude Code setup, and improves performance and responsiveness, particularly whe",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Trey Hunner: Reorganizing Python's sys module",
-   "url": "https://treyhunner.com/2026/08/reorganizing-pythons-sys-module/",
-   "date": "2026-08-13T00:30:00+00:00",
-   "summary": "The sys module is the primary junk drawer of the Python standard library. A good junk drawer holds miscellaneous items that don&rsquo;t have another sensible home. I often think of utils modules as &ldquo;junk drawer&rdquo; modules. I belie",
-   "tech": "python",
-   "sourceId": "blogs",
-   "source": "مدونات",
-   "lang": "en"
-  },
-  {
-   "title": "Python Insider: Announcing the Packaging Council Election Candidates for 2026!",
-   "url": "https://blog.python.org/2026/08/2026-packaging-council-nominees/",
-   "date": "2026-08-13T00:00:00+00:00",
-   "summary": "Announcing the 17 nominees for the inaugural Python Packaging Council election, and how to vote in the election.",
    "tech": "python",
    "sourceId": "blogs",
    "source": "مدونات",
@@ -1177,46 +1217,6 @@
    "lang": "en"
   },
   {
-   "title": "Python Array Add: How to Append, Extend & Insert Elements",
-   "url": "https://www.digitalocean.com/community/tutorials/python-add-to-array",
-   "date": "2026-06-12T00:00:00+00:00",
-   "summary": "Learn how to add to an array in Python with append(), extend(), insert(), and NumPy. Compare lists vs arrays, avoid common errors, and see tested examples.",
-   "tech": "python",
-   "sourceId": "sites",
-   "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Python Socket Programming: Server and Client Guide",
-   "url": "https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client",
-   "date": "2026-06-08T14:17:41.126000+00:00",
-   "summary": "Learn Python socket programming with working server and client examples. Build TCP connections, handle multiple clients, and fix common errors.",
-   "tech": "python",
-   "sourceId": "sites",
-   "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Build a Medical Report Analyzer on Dedicated Inference with Python",
-   "url": "https://www.digitalocean.com/community/tutorials/medical-report-analyzer-dedicated-inference",
-   "date": "2026-06-04T10:39:00+00:00",
-   "summary": "Use DigitalOcean’s Dedicated Inference to build an app that reads blood test reports from PDFs and photos, flags abnormal values, and explains results.",
-   "tech": "python",
-   "sourceId": "sites",
-   "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Python ValueError: Exception Handling Examples & Fixes",
-   "url": "https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples",
-   "date": "2026-06-03T06:49:43+00:00",
-   "summary": "Learn how to handle Python ValueError exceptions with code examples, common causes, and best practices. Read the full guide to fix errors fast.",
-   "tech": "python",
-   "sourceId": "sites",
-   "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
    "title": "انضم لتعلم البرمجة بلغة بايثون | 14 ساعة 💻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBaVlfNkdzd3dySkhVTTlaak5xaGxBempWQmRKeWNHMzlGZ1ZKbnFfSUZBZDlzcHJ0NWVGbEJUWmJtZGNuVGM2TlZpVmVDUzF4dWtha3pn?oc=5",
    "date": "2026-04-13T15:58:47+00:00",
@@ -1271,6 +1271,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrWGU2UXJPTGpJZ2VKOHUwSXVQVHc4WHlqaEg0cGtuakVkdlBhNVd4Q3lIV3REQlZIVVdHaFFPX3VhbWN3UUdreDd4aXhzeFRfQ2lraDZn?oc=5",
    "date": "2025-08-09T14:07:52+00:00",
    "summary": "مشاريع بايثون للمبتدئين | احترف التفكير البرمجي YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "تعلم البرمجة في ساعة | اساسيات البرمجة من الصفر | شرح بايثون | Python Programming Crash Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlNE1PdEpKdzZvcDNoZTRjUWh0MWM0WkRCa2ZnakU5MEJxY2tuRDNVbXIzLW1YbTJiajJBM2kyS3ROeHlNMk5mYmFTNEVjMlFncEZaSHdR?oc=5",
+   "date": "2025-07-18T16:44:05+00:00",
+   "summary": "تعلم البرمجة في ساعة | اساسيات البرمجة من الصفر | شرح بايثون | Python Programming Crash Course YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1697,6 +1707,16 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم بايثون من الصفر للمبتدئين: شرح اللوب في بايثون Python Loop",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McjFLMkdHVDh4STAwdDkyUGcwOUhqSGI0aS00b0tyYlhxY2pkNnM0aUJ1NHZwdWVDeFBtZllXeU1OblE3U1hva0NFM01WR3NUejVzeGFn?oc=5",
+   "date": "2023-11-05T13:00:07+00:00",
+   "summary": "تعلم بايثون من الصفر للمبتدئين: شرح اللوب في بايثون Python Loop YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "! اساسيات البايثون للهاكرز",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtSWlfTmp3amd5YUhfejlHcFdETTY3OVlQa2FPNmx4VS1hNUNsaEo1bGJ4SVoydi1nYUJyQ1phdGMycFJwRGJELWFMeWpCUE5CMnZGSkFR?oc=5",
    "date": "2023-10-30T15:00:51+00:00",
@@ -1937,6 +1957,16 @@
    "lang": "ar"
   },
   {
+   "title": "04 - | Python Basics | - |أساسيات البايثون| - Basic Data Structures - تراكيب البيانات فى البايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XOEFiWl9yQXBHR0V1OVN4MFNqT252Yjg2WDN5SGk1MC1WWjlqVW9RRDJlb1MtaC1ZQzZwcnlRZzNISmU4Y1hwcmFZNktndWZNbUdpeldR?oc=5",
+   "date": "2023-06-24T17:00:04+00:00",
+   "summary": "04 - | Python Basics | - |أساسيات البايثون| - Basic Data Structures - تراكيب البيانات فى البايثون YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم بايثون من الصفر إلى الاحتراف للمبتدئين : المشروع الأول وتهيئة بيئة العمل",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqZUozMWR6WGtLa3Z4NWhHYkZSUHVhTmlXTmF3eEhScGpxXy15ZUhaVEZqckkzUTJsNktoOWtKVVNWTlFWOWt5WlNWcUhSSVhQMU9RbHJB?oc=5",
    "date": "2023-06-19T12:00:09+00:00",
@@ -2001,6 +2031,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wbTRmcmpQMUpyZ0ZmYi1YZUZWbHZ6UjZEbVYtdmNGWmNYSl9YUElRVWhVR2RHdjE5Q195c2Q0dmRwZk9BOS03VENNU3ZDN3Z3WDhMbndB?oc=5",
    "date": "2023-03-03T12:00:22+00:00",
    "summary": "تعلم البرمجة | شرح بايثون | مقدمة كاملة في البرمجة | الجزء الثاني - Programming with Python Part 2 YouTube",
+   "tech": "python",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "39: استخدام ال while loop مع ال arrays في البايثون",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAybWZ5a2hwNGFGTzFiQmcwWm1hdnhmMXNmdzBHcS1oMzl6WkxuTm43ZHJINHdpcl83VzgtV2toMzhGZDNwWkp0UWdjdkFONG84cjhMYW1B?oc=5",
+   "date": "2023-03-03T09:54:03+00:00",
+   "summary": "39: استخدام ال while loop مع ال arrays في البايثون YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2201,46 +2241,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40ZFhSbFFDWHpubTZ5REtoSmpnNkF5LVFkVE5KWlJmSEdiaUhYTmFsUkg0YzEyN2ZnVnVCWFB1T2dVOG9zMWs2SEhkU0x1U1hLUjEtTG1n?oc=5",
    "date": "2022-09-14T15:31:15+00:00",
    "summary": "بايثون تصميم و تطوير المواقع | python fullstack web application YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم البرمجة بلغة بايثون | تحميل و تثبيت البرامج المستخدمة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdHRtTHZwRW5GU1o3aVhRSmlOWnJGQTROaWxlby1UbmZodmVlRUJyeklPTHNyd1lwTmVlQ05ITElHQnh5THU0bnJ5dnA4cjFwVWptckl3?oc=5",
-   "date": "2022-08-30T17:00:34+00:00",
-   "summary": "تعلم البرمجة بلغة بايثون | تحميل و تثبيت البرامج المستخدمة YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "الدرس 5 - القوائم List في البايثون #python",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSWNxempKWDg2NGItYjJKckRBNUJuMHh0ZHpDQmxfMzdubUtNYVFDeWR5UXgyUWZ2cVFxVmtrNUdiZDZWeEhwTUpsQnlSWTM0dG9uOHVn?oc=5",
-   "date": "2022-08-25T15:00:32+00:00",
-   "summary": "الدرس 5 - القوائم List في البايثون #python YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "بايثون برمجة مشروع سوبر ماركيت مع الفواتير وحفظها الدرس الاخير python tkinter projects",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qM2FzSS1JdzFsczJ5dmxOb3loT0tWdmg2SmJlQ0FFRExzVGRXaVBJNjZZZ3RYUlVCZlVIUFQzMEx3Rjg2QW1Nc3prbE5tSDRFeWNLdnBn?oc=5",
-   "date": "2022-08-12T16:37:53+00:00",
-   "summary": "بايثون برمجة مشروع سوبر ماركيت مع الفواتير وحفظها الدرس الاخير python tkinter projects YouTube",
-   "tech": "python",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعلم بايثون من الهاتف تنفيذ الاوامر في سطر واحد (Excutions) | python from mobile",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rWDcxdklCVmt3b2FETFJXaUFaNW1UaWNVVGctU0VVTjNqT3U5UGdsdHhHdlhMZGNkalRkOVpySmpRSldPbW4xQmhzbEc1c0xOa3B5bkNB?oc=5",
-   "date": "2022-08-12T09:48:33+00:00",
-   "summary": "تعلم بايثون من الهاتف تنفيذ الاوامر في سطر واحد (Excutions) | python from mobile YouTube",
    "tech": "python",
    "sourceId": "ar-yt",
    "source": "YouTube",
