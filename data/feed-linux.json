@@ -1,13 +1,225 @@
 {
- "generated": "2026-08-21T05:07:41.489013+00:00",
+ "generated": "2026-08-22T04:23:36.202097+00:00",
  "tech": "linux",
  "count": 220,
  "items": [
+  {
+   "title": "My Linux Journey",
+   "url": "https://medium.com/@deanbaberows/my-linux-journey-1a70c1239f80?source=rss------linux-5",
+   "date": "2026-08-22T03:23:16+00:00",
+   "summary": "As a working IT professional, I&#x2019;ve spent most of my career in software development and IT support. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Simple Linux Soundboard with PipeWire and StreamController",
+   "url": "https://medium.com/@jmariossilva/building-a-simple-linux-soundboard-with-pipewire-and-streamcontroller-eab10d24d22b?source=rss------linux-5",
+   "date": "2026-08-22T03:12:34+00:00",
+   "summary": "To briefly give some context: Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Linux Reps Through Burnout: Nginx, PHP-FPM, and Git Repository Tasks",
+   "url": "https://medium.com/@Kwindisch/linux-reps-through-burnout-nginx-php-fpm-and-git-repository-tasks-ad89796f1332?source=rss------linux-5",
+   "date": "2026-08-22T02:44:16+00:00",
+   "summary": "Today was about going back to assigned Linux tasks. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Ketika Remote Workstation Tidak Bisa Dibangunkan, Saya Mengubah Android Menjadi Linux Workstation",
+   "url": "https://medium.com/@fahminugroho23/ketika-remote-workstation-tidak-bisa-dibangunkan-saya-mengubah-android-menjadi-linux-workstation-aceb016e1d5b?source=rss------linux-5",
+   "date": "2026-08-21T23:55:39+00:00",
+   "summary": "Dari STB Armbian + Tailscale + Wake-on-LAN hingga Ubuntu CLI + tmux + code-server di Android. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Fixing a Snapcraft Build that had been Broken for Two Years",
+   "url": "https://dev.to/professortom/fixing-a-snapcraft-build-that-had-been-broken-for-two-years-1140",
+   "date": "2026-08-21T21:53:36+00:00",
+   "summary": "As I stated in my introduction, the first piece of work I did on Packet Sender was fix the Snapcraft...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "O mínimo que vc precisa saber sobre Terminal Linux para os primeiros passos na programação e…",
+   "url": "https://medium.com/@jhserodio/o-m%C3%ADnimo-que-vc-precisa-saber-sobre-terminal-linux-para-os-primeiros-passos-na-programa%C3%A7%C3%A3o-e-d39066788140?source=rss------linux-5",
+   "date": "2026-08-21T21:50:51+00:00",
+   "summary": "Houve um tempo em que jovens aprendizes temiam a tela escura. Eles se escondiam atr&#xE1;s de janelas coloridas, arrastando &#xED;cones com seus&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Linux from Zero #2 Processes: what's actually running under your terminal",
+   "url": "https://dev.to/rogeroliveira86/linux-from-zero-2-processes-whats-actually-running-under-your-terminal-1a0f",
+   "date": "2026-08-21T19:40:58+00:00",
+   "summary": "Part 2 of the \"Linux from Zero\" series. If you haven't read #1 yet, it's on Medium and DEV.to — start...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Run Hermes Agent Locally (and securely) with Ollama and Rootless Podman on Arch Linux",
+   "url": "https://medium.com/@y3t1_sec/run-hermes-agent-locally-and-securely-with-ollama-and-rootless-podman-on-arch-linux-bab1ff410bd9?source=rss------linux-5",
+   "date": "2026-08-21T19:12:04+00:00",
+   "summary": "I wanted to experiment with Nous Research&#x2019;s Hermes Agent using a completely local model, primarily for working on Markdown and Obsidian&#x2026; Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Linux do Zero",
+   "url": "https://medium.com/@rogeroliveira86/linux-do-zero-89a1f6cc85c3?source=rss------linux-5",
+   "date": "2026-08-21T18:35:53+00:00",
+   "summary": "2 &#x2014; Processos: o que roda por baixo do seu terminal Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Linux “UPower” Command Tool",
+   "url": "https://richiepagard.medium.com/linux-upower-command-tool-9f16f2ffe54a?source=rss------linux-5",
+   "date": "2026-08-21T17:00:11+00:00",
+   "summary": "Hello, this is Richie. Continue reading on Medium »",
+   "tech": "linux",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why I built TuxInDrive: one open-source sync client for multiple clouds",
+   "url": "https://dev.to/tpluharik/why-i-built-tuxindrive-one-open-source-sync-client-for-multiple-clouds-2cnp",
+   "date": "2026-08-21T14:38:35+00:00",
+   "summary": "Linux cloud synchronization is still surprisingly fragmented. One provider may have a native client,...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Minecraft Server - Part 3: Running on Kubernetes",
+   "url": "https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf",
+   "date": "2026-08-21T14:20:55+00:00",
+   "summary": "🇧🇷 Versão em português           Minecraft Server - Part 3: Running on Kubernetes   In Part 2 of this...",
+   "points": 5,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Minecraft Server - Part 2: Running with Docker",
+   "url": "https://dev.to/celsonery/minecraft-server-part-2-running-with-docker-17bb",
+   "date": "2026-08-21T14:20:12+00:00",
+   "summary": "🇧🇷 Versão em português           Minecraft Server - Part 2: Running with Docker   In Part 1 of this...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Minecraft Server - Part 1: Bare Metal Installation",
+   "url": "https://dev.to/celsonery/minecraft-server-part-1-bare-metal-installation-1dno",
+   "date": "2026-08-21T14:19:02+00:00",
+   "summary": "🇧🇷 Versão em português           Minecraft Server - Part 1: Bare Metal Installation           ...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Servidor Minecraft - Parte 3: Rodando no Kubernetes",
+   "url": "https://dev.to/celsonery/servidor-minecraft-parte-3-rodando-no-kubernetes-208c",
+   "date": "2026-08-21T14:17:17+00:00",
+   "summary": "🇺🇸 English version comming soon           Servidor Minecraft - Parte 3: Rodando no Kubernetes   Na...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Servidor Minecraft - Parte 2: Rodando com Docker",
+   "url": "https://dev.to/celsonery/servidor-minecraft-parte-2-rodando-com-docker-3ai0",
+   "date": "2026-08-21T14:16:02+00:00",
+   "summary": "🇺🇸 English version comming soon           Servidor Minecraft - Parte 2: Rodando com Docker   Na Parte...",
+   "points": 5,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Servidor Minecraft - Parte 1: Instalação Bare Metal",
+   "url": "https://dev.to/celsonery/servidor-minecraft-parte-1-instalacao-bare-metal-3g2d",
+   "date": "2026-08-21T14:15:05+00:00",
+   "summary": "🇺🇸 English version comming soon           Servidor Minecraft - Parte 1: Instalação Bare Metal        ...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Linux in Real-World Data Engineering",
+   "url": "https://dev.to/anthony_kibet_4f0cc67d37f/linux-in-real-world-data-engineering-2fid",
+   "date": "2026-08-21T11:01:13+00:00",
+   "summary": "Linux is the one most people never see at all, even though it's running underneath almost everything...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cómo solucionar `docker run` con `Exited (1)` en Raspberry Pi",
+   "url": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exited-1-en-raspberry-pi-2no2",
+   "date": "2026-08-21T09:29:23+00:00",
+   "summary": "Cómo solucionar docker run con Exited (1) en Raspberry Pi            ¿Por qué ocurre este...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "How to Secure Your Ubuntu/Debian Server with OSSEC",
    "url": "https://dev.to/ctcservers/how-to-secure-your-ubuntudebian-server-with-ossec-2lh",
    "date": "2026-08-21T04:36:56+00:00",
    "summary": "Are you looking for a way to monitor and protect your Linux servers from unauthorized access and...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Crashed My Machine Running AI Workloads",
+   "url": "https://dev.to/praveenlavu/how-i-crashed-my-machine-running-ai-workloads-1p66",
+   "date": "2026-08-21T04:10:24+00:00",
+   "summary": "When Everything Is Running, Nothing Survives   I knew something was wrong before the screen...",
    "points": 0,
    "tech": "linux",
    "sourceId": "devto",
@@ -57,6 +269,17 @@
    "lang": "en"
   },
   {
+   "title": "Two YubiKeys, One Prompt Too Many",
+   "url": "https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78",
+   "date": "2026-08-20T23:00:00+00:00",
+   "summary": "I carry two YubiKeys. One lives on my keyring, one lives in a drawer, and both are enrolled...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Bypassing the “Mac Tax”: How I Built an Engine to Develop, Sign, and Deploy iOS Apps on Linux",
    "url": "https://medium.com/@kisalnelaka6/bypassing-the-mac-tax-how-i-built-an-engine-to-develop-sign-and-deploy-ios-apps-on-linux-d23402944ce7?source=rss------linux-5",
    "date": "2026-08-20T21:50:04+00:00",
@@ -64,6 +287,17 @@
    "tech": "linux",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The error pointed at the GPU. The culprit was the HBA. — a Proxmox passthrough recovery",
+   "url": "https://dev.to/jjozzietech/the-error-pointed-at-the-gpu-the-culprit-was-the-hba-a-proxmox-passthrough-recovery-3c33",
+   "date": "2026-08-20T20:03:27+00:00",
+   "summary": "The plan looked textbook. PCIe passthrough an NVIDIA RTX A4000 from a Proxmox 8 host into an Ubuntu...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -84,6 +318,17 @@
    "tech": "linux",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "A Linux video player with NVIDIA VFX VSR support (real-time upscaling + frame interpolation, built with an AI coding agent)",
+   "url": "https://dev.to/zhangmq/a-linux-video-player-with-nvidia-vfx-vsr-support-real-time-upscaling-frame-interpolation-built-3fbd",
+   "date": "2026-08-20T16:40:23+00:00",
+   "summary": "Short version of a recent write-up — no full article here, just the pitch.  I wanted RTX VSR-class...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -113,6 +358,17 @@
    "url": "https://dev.to/opservo/why-is-my-linux-server-slow-a-practical-checklist-225e",
    "date": "2026-08-20T12:30:00+00:00",
    "summary": "A no-nonsense order of operations for finding what’s actually slowing a Linux box down — CPU, memory,...",
+   "points": 0,
+   "tech": "linux",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "[LINUX] Understanding /proc/pressure",
+   "url": "https://dev.to/hosni_zaaraoui/understanding-procpressure-538k",
+   "date": "2026-08-20T12:27:00+00:00",
+   "summary": "/proc/pressure is a Linux Pressure Stall Information (PSI) interface. It tells you whether processes...",
    "points": 0,
    "tech": "linux",
    "sourceId": "devto",
@@ -208,39 +464,6 @@
    "lang": "en"
   },
   {
-   "title": "Kernel & Embedded News: 32-bit Arm Deprecations in 7.3; Rsync 3.5",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-32-bit-arm-deprecations-in-73-rsync-35-4eob",
-   "date": "2026-08-20T05:25:57+00:00",
-   "summary": "Linux 7.3 begins a broad 32-bit Arm deprecation, rsync 3.5 fixes 33 CVEs, Arm preps 128-bit page tables, Pine64 pauses devices, and Mojo goes open source.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Device Tree Ownership Is Moving Up Into Firmware",
-   "url": "https://dev.to/raghu_bharadwaj_404e60eb0c/firmware-provided-device-tree-is-a-product-decision-not-a-boot-detail-2jlh",
-   "date": "2026-08-20T05:11:52+00:00",
-   "summary": "Under Arm SystemReady and EBBR, a firmware-provided device tree moves board ownership to the platform and makes firmware update a requirement, not a choice.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stop Waiting on Log Parsers: Practical nftables Dynamic Sets and Meters on Linux",
-   "url": "https://dev.to/lyraalishaikh/stop-waiting-on-log-parsers-practical-nftables-dynamic-sets-and-meters-on-linux-2g3d",
-   "date": "2026-08-20T05:02:27+00:00",
-   "summary": "Rate-limit and temporarily ban abusive sources in the packet path with nftables dynamic sets, timeouts, limit meters, and ct count — no Fail2ban required.",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "What Really Happens When You Turn On a Linux Computer?",
    "url": "https://medium.com/@oshwickramasinghe43/what-really-happens-when-you-turn-on-a-linux-computer-ed75404a504c?source=rss------linux-5",
    "date": "2026-08-20T03:58:09+00:00",
@@ -261,112 +484,6 @@
    "lang": "en"
   },
   {
-   "title": "Como o Windows perdeu Milhões de Usuários",
-   "url": "https://dev.to/rafaelbonilha/como-o-windows-perdeu-milhoes-de-usuarios-45pj",
-   "date": "2026-08-19T22:38:07+00:00",
-   "summary": "Segue de forma constante e contínua o declínio do número de usuários do sistema operacional Windows,...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Deleted a File. Linux Kept Using It Anyway",
-   "url": "https://medium.com/@SuneraKonara/i-deleted-a-file-linux-didnt-get-the-memory-847462471d68?source=rss------linux-5",
-   "date": "2026-08-19T21:56:17+00:00",
-   "summary": "A while back I found a fat log file eating up disk space on a server, deleted it, and felt pretty good about myself. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Day 08 of My DevOps Journey: POSIX & Introduction to Shell Scripting",
-   "url": "https://medium.com/@abhiyanlimbu4/day-08-of-my-devops-journey-posix-introduction-to-shell-scripting-2ac4ebfdbe73?source=rss------linux-5",
-   "date": "2026-08-19T21:36:01+00:00",
-   "summary": "Linux commands are something I have already been using regularly to build muscle memory, but shell scripting takes it a step further&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "TryHackMe Easy Peasy — How I Went from Nmap to Root",
-   "url": "https://medium.com/@vaishnavij190506/tryhackme-easy-peasy-how-i-went-from-nmap-to-root-5fe39d1f5568?source=rss------linux-5",
-   "date": "2026-08-19T19:30:48+00:00",
-   "summary": "A practical walkthrough of enumeration, encoding, hash cracking, steganography, SSH and Linux privilege escalation. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Fundamentals for Pentesting: The Commands You’ll Use Every Single Day",
-   "url": "https://medium.com/@vipin007mohan/linux-fundamentals-for-pentesting-the-commands-youll-use-every-single-day-2b0d4f39d976?source=rss------linux-5",
-   "date": "2026-08-19T19:22:24+00:00",
-   "summary": "Every pentester&#x2019;s story starts the same way &#x2014; staring at a blinking cursor, unsure whether ls -la is enough or if you&apos;re missing something&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan",
-   "url": "https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1",
-   "date": "2026-08-19T18:35:28+00:00",
-   "summary": "A rollback plan tells you how to undo an AI change, but not what breaks first when the change stays...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Incremental Backup Using pg_basebackup in PostgreSQL 18",
-   "url": "https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag",
-   "date": "2026-08-19T18:02:06+00:00",
-   "summary": "In this article, I will show how to create a full backup and an incremental backup using...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Ubuntu Freezing Touchpad After Login on Matebook X",
-   "url": "https://dev.to/mkalioby/ubuntu-freezing-touchpad-after-login-on-matebook-x-4174",
-   "date": "2026-08-19T17:40:11+00:00",
-   "summary": "Problem   On my Huawei MateBook X Pro running Ubuntu 26.04 LTS, the built-in touchpad would...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem",
-   "url": "https://dev.to/schiff_heimlich/when-disk-space-is-not-disk-space-the-inode-exhaustion-problem-gm4",
-   "date": "2026-08-19T17:04:45+00:00",
-   "summary": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem   You run df -h, everything...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Set Up and Secure an Ubuntu VPS from Scratch: A Beginner’s Blueprint",
-   "url": "https://dev.to/arthur_luca/how-to-set-up-and-secure-an-ubuntu-vps-from-scratch-a-beginners-blueprint-2h38",
-   "date": "2026-08-19T16:57:05+00:00",
-   "summary": "Setting up a Virtual Private Server (VPS) for the first time can feel overwhelming. Many developers...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "354 Blog Posts To Learn About Linux",
    "url": "https://hackernoon.com/354-blog-posts-to-learn-about-linux?source=rss",
    "date": "2026-08-19T14:00:06+00:00",
@@ -377,121 +494,24 @@
    "lang": "en"
   },
   {
-   "title": "Mastering Unattended Remote Desktop on Wayland: A Modern DevOps Guide",
-   "url": "https://dev.to/lightningdev123/mastering-unattended-remote-desktop-on-wayland-a-modern-devops-guide-22p7",
-   "date": "2026-08-19T13:44:54+00:00",
-   "summary": "Introduction to the Wayland Remote Access Dilemma   For developers and system...",
-   "points": 0,
+   "title": "شرح بروتوكول SSH وتفعيلة على لينكس وليه key auth أفضل من password auth",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtemVyUzh2SWxOV3FKSHozVjFxSEFWUFc1cGw1VjRNN3hYMm0yS2tzYlNuVmZ4ajNadXNRamdyeE1qSkU2dnlsQ3FSYTA0OTgxUHBMQ1RvSDI2Y0xPcFBodFdYUmp4TnM1M05kTk9B?oc=5",
+   "date": "2026-08-19T10:32:15+00:00",
+   "summary": "شرح بروتوكول SSH وتفعيلة على لينكس وليه key auth أفضل من password auth YouTube",
    "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
-   "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
-   "url": "https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p",
-   "date": "2026-08-19T13:10:14+00:00",
-   "summary": "Most DevOps learning content is made by companies that want you to buy their product, or by course mills that teach the exam. Here are eleven resources run by individuals and small teams, what each is actually good for, ",
-   "points": 16,
+   "title": "شرح الشبكات فى لينكس وأهم الأوامر فى النظام",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EQnlXbUZrTnNZLW44S19rV1lUVU5pNkdqV2p3ZWNYMlZMZTZfYkhrSk1mUHBrUW1pU29jQWR3S0cxcXVGMUdzVkhzbktjT0ZpeVYzTFJB?oc=5",
+   "date": "2026-08-18T10:09:26+00:00",
+   "summary": "شرح الشبكات فى لينكس وأهم الأوامر فى النظام YouTube",
    "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need",
-   "url": "https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0",
-   "date": "2026-08-19T12:41:16+00:00",
-   "summary": "A surprising share of \"the app is down\" pages resolve to a name-resolution problem, not a broken...",
-   "points": 1,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your sysctl says one thing, the kernel says another",
-   "url": "https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha",
-   "date": "2026-08-19T05:06:12+00:00",
-   "summary": "You set net.ipv4.ip_forward=1 in /etc/sysctl.conf. You rebooted. The value is still 0.  Nothing is...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Day 07 of My DevOps Journey: Linux Services, systemd & Logs",
-   "url": "https://medium.com/@abhiyanlimbu4/day-07-of-my-devops-journey-linux-services-systemd-logs-27ebda134f9b?source=rss------linux-5",
-   "date": "2026-08-19T04:28:36+00:00",
-   "summary": "These topics are important in DevOps because applications running on servers should not depend on someone manually starting them. They&#x2026; Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Linux Kernel Got “Too Big” from AI! Linus: AI Finds Small Bugs, but It’s the “New Normal”",
-   "url": "https://medium.com/codeelevation/linux-kernel-got-too-big-from-ai-linus-ai-finds-small-bugs-but-its-the-new-normal-ffdeece32c03?source=rss------linux-5",
-   "date": "2026-08-19T03:57:37+00:00",
-   "summary": "Continue reading on CodeElevation »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "UFW and WireGuard: the tunnel is up and nothing goes through",
-   "url": "https://dev.to/ricco020/ufw-and-wireguard-the-tunnel-is-up-and-nothing-goes-through-4lpo",
-   "date": "2026-08-19T03:37:35+00:00",
-   "summary": "The tunnel comes up. wg show prints a recent handshake. The client has its address inside the tunnel....",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A new NetworkManager property broke a decade of headless WiFi scripts",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/a-new-networkmanager-property-broke-a-decade-of-headless-wifi-scripts-3hh8",
-   "date": "2026-08-19T03:27:08+00:00",
-   "summary": "TL;DR: NetworkManager 1.52 (in Trixie) added an autoconnect-ports property. That makes autoconnect-p...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "sysctl -p says it worked. The next reboot disagrees.",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/sysctl-p-says-it-worked-the-next-reboot-disagrees-5eph",
-   "date": "2026-08-19T03:15:10+00:00",
-   "summary": "TL;DR: /etc/sysctl.conf doesn't ship on Raspberry Pi OS Trixie, and if you create it, the thing that...",
-   "points": 0,
-   "tech": "linux",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "100+ Handy Knowledge Hub: All-in-One Linux, DevOps, Cloud & Automation Blogs",
-   "url": "https://aws.plainenglish.io/100-handy-knowledge-hub-all-in-one-linux-devops-cloud-automation-blogs-e03ad346d7c8?source=rss------linux-5",
-   "date": "2026-08-19T01:24:37+00:00",
-   "summary": "100+ real-world blogs covering Linux, DevOps, cloud, AI, automation, Kubernetes, Docker, Ansible, Terraform, programming, and&#x2026; Continue reading on AWS in Plain English »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "A Comparison Between Windows, macOS and Linux",
-   "url": "https://medium.com/@winui64/a-comparison-between-windows-macos-and-linux-9ef27873bcb5?source=rss------linux-5",
-   "date": "2026-08-19T00:15:51+00:00",
-   "summary": "After using Windows, macOS and Linux for different tasks, different times, I decided to compare the OSs. Here&#x2019;s what I found. Continue reading on Medium »",
-   "tech": "linux",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "لينكس يقترب من إسقاط ويندوز؟",
@@ -2208,26 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IbDJELWtKMVREb1d1bC1LLWFJWjMzdTBfUWJzTzlFN0ZUTWtVZW4tSDgtdDRlR1Y5TnBHanMzZlVtMFVsdFZaT0VDNk9oRGQtWTlsNDJPUXJ3NGdkcjZjdlhacjJ2QVpMcVJNRjlLb1ZmVHdxWnppdUVwckM?oc=5",
    "date": "2023-11-30T13:38:59+00:00",
    "summary": "الدرس الأول - مقدمة دورة أساسيات سطر الأوامر في لينكس | Linux Command Line Essentials YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Fedora | جديد فيدورا 39 وتجربتي بعد الترقية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kUS1kbTFIaU0zYURjSWRvZktiODRFUm41ajMzSW9uWWxvTElTWjJHcEJaalljZ3hHMGwyOHVqbnhtUWVMU01sY2FUTmJCSE9SZThyMmRR?oc=5",
-   "date": "2023-11-13T15:30:14+00:00",
-   "summary": "Fedora | جديد فيدورا 39 وتجربتي بعد الترقية YouTube",
-   "tech": "linux",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "Fedora | شرح تحميل وتنصيب فيدورا 39",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYXljNDUyRUZFU2ZIb0lFMGFQWVdhalB0czdoblNZaEZ3YUxaeFlzcDdzYVEtbG0wblA5VXQtWjkzdUZnZXFGUVZ2OUcwa0huenpXMWp3?oc=5",
-   "date": "2023-11-10T15:30:19+00:00",
-   "summary": "Fedora | شرح تحميل وتنصيب فيدورا 39 YouTube",
    "tech": "linux",
    "sourceId": "ar-yt",
    "source": "YouTube",

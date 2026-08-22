@@ -1,8 +1,52 @@
 {
- "generated": "2026-08-21T05:10:07.265305+00:00",
+ "generated": "2026-08-22T04:26:08.780341+00:00",
  "tech": "assembly",
- "count": 175,
+ "count": 177,
  "items": [
+  {
+   "title": "Playing with SDL_Texture alpha in C.",
+   "url": "https://dev.to/4deis/playing-with-sdltexture-alpha-in-c-1pi6",
+   "date": "2026-08-21T15:31:18+00:00",
+   "summary": "I have been learning Java for a year now, which made me come to conclusion that I've developed...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Ran a 284B-Parameter LLM From 3.2GB of RAM — in Plain C",
+   "url": "https://dev.to/ronak_parmar_033c50d168b5/i-ran-a-284b-parameter-llm-from-32gb-of-ram-in-plain-c-cbp",
+   "date": "2026-08-21T13:54:48+00:00",
+   "summary": "DeepSeek-V4-Flash has 284 billion parameters and takes up about 160GB on disk. My laptop does not...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Porting Intel SSE Intrinsics to ARM NEON in a Real C Project",
+   "url": "https://dev.to/yunar-r/porting-intel-sse-intrinsics-to-arm-neon-in-a-real-c-project-5f5f",
+   "date": "2026-08-21T10:48:49+00:00",
+   "summary": "I recently wanted to see what actually happens when an existing C project containing Intel SSE...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RISC-V 32-bit: What does GCC do? (Part 1)",
+   "url": "https://dev.to/ddupard/risc-v-32-bit-what-does-gcc-do-part-1-1cg9",
+   "date": "2026-08-21T01:06:22+00:00",
+   "summary": "1. Introduction and Problem Statement   A good way to learn what a compiler really does when...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why Is Saunacloud the Best for Fast Assembly?",
    "url": "https://medium.com/@zomxholopf/why-is-saunacloud-the-best-for-fast-assembly-e9eb72400633?source=rss------assembly-5",
@@ -11,6 +55,39 @@
    "tech": "assembly",
    "sourceId": "medium",
    "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "I Reviewed 5 Open-Source HALs — What They Got Right and Wrong",
+   "url": "https://dev.to/pranavhj1998/i-reviewed-5-open-source-hals-what-they-got-right-and-wrong-4kn0",
+   "date": "2026-08-20T10:01:27+00:00",
+   "summary": "A comparative review of Zephyr's device tree, CMSIS, Arduino HAL, libopencm3, and Tock OS — evaluating portability, performance, API design, and developer experience.",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Designing a HAL That Doesn't Lock You In",
+   "url": "https://dev.to/pranavhj1998/designing-a-hal-that-doesnt-lock-you-in-50ho",
+   "date": "2026-08-20T09:53:28+00:00",
+   "summary": "A practitioner's guide to hardware abstraction layer design in embedded C — comparing Zephyr, STM32 HAL, Arduino, CMSIS, and hand-rolled approaches, with concrete GPIO and SPI examples you can steal.",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Five Months Building a Game Engine, One Month Building a Game. Why I Wrote My Own Engine in C",
+   "url": "https://dev.to/dima_popov_843a723b94804c/five-months-building-a-game-engine-one-month-building-a-game-why-i-wrote-my-own-engine-in-c-46nk",
+   "date": "2026-08-20T09:48:59+00:00",
+   "summary": "I've been developing games for more than ten years. During that time, I've released mobile and web...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -87,6 +164,16 @@
    "lang": "en"
   },
   {
+   "title": "2026 New JOYOR T12 & T12 Ultra Unboxing & Assembly Guide",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HN3BwOHJORU5YUlFCUVB1MU4tVk1pczB5U2VHZFVseXNHUmcycXhvWDNtNEl0YndfV04zeWFoWk85RzA1emM4eTRmNmg5YjBYNDNwUkVR?oc=5",
+   "date": "2026-08-19T07:36:34+00:00",
+   "summary": "2026 New JOYOR T12 & T12 Ultra Unboxing & Assembly Guide YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "I Built a Chiptune Synth in Pure x86-64 Assembly",
    "url": "https://hackernoon.com/i-built-a-chiptune-synth-in-pure-x86-64-assembly?source=rss",
    "date": "2026-08-19T06:50:01+00:00",
@@ -94,6 +181,17 @@
    "tech": "assembly",
    "sourceId": "sites",
    "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Why does 1 + \"1\" equal \"11\" in JavaScript?",
+   "url": "https://dev.to/piotr_zarycki_fe062ceaa4c/why-does-1-1-equal-11-in-javascript-44c4",
+   "date": "2026-08-19T03:40:41+00:00",
+   "summary": "The + Operator as a Silent Carrier of Bugs   In JavaScript, there’s another surprising...",
+   "points": 0,
+   "tech": "assembly",
+   "sourceId": "devto",
+   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -316,94 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "C Programming Course in Laxmi Nagar: Build a Strong Foundation in Coding",
-   "url": "https://dev.to/shahin_981ca06dd02c65874f/c-programming-course-in-laxmi-nagar-build-a-strong-foundation-in-coding-oic",
-   "date": "2026-08-14T06:51:10+00:00",
-   "summary": "C Programming Course in Laxmi Nagar: Build a Strong Foundation in Coding  If you want to start a...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Swift vs Objective-C: Which Language Is Better for iOS App Development?",
-   "url": "https://dev.to/ngssolution23/swift-vs-objective-c-which-language-is-better-for-ios-app-development-2jlh",
-   "date": "2026-08-13T14:13:55+00:00",
-   "summary": "A few years ago, choosing between Swift and Objective-C for an iPhone application could feel like a...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I thought porting TinyExpr to Rust would be easy. Then the tests started disagreeing.",
-   "url": "https://dev.to/kausalya_s_0f6addb958c160/i-thought-porting-tinyexpr-to-rust-would-be-easy-then-the-tests-started-disagreeing-g3o",
-   "date": "2026-08-13T06:07:15+00:00",
-   "summary": "I’m sharing this to show how I resurrected TinyExpr in Rust, proved behavioral equivalence, and...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "first year reversi AI bot gets the W",
-   "url": "https://dev.to/sunnwydays/first-year-reversi-ai-bot-gets-the-w-10fm",
-   "date": "2026-08-12T19:38:00+00:00",
-   "summary": "Throwback to when we played Reversi/Othello in first year of engineering at the University of...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a 100% Freestanding, Zero-CRT JIT & AOT Compiler Engine in C++20 for Anastasia Assembly (.ana)",
-   "url": "https://dev.to/nadermkhan/building-a-100-freestanding-zero-crt-jit-aot-compiler-engine-in-c20-for-anastasia-assembly-lkn",
-   "date": "2026-08-12T18:19:18+00:00",
-   "summary": "Hi everyone,Hope you all are doing well :)  Over the past few months, I built Anastasia Engine v7.1:...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Jaithon 3 (the perfect programing language)",
-   "url": "https://dev.to/abhiramasonny/introducing-jaithon-3-the-perfect-programing-language-2o75",
-   "date": "2026-08-12T03:52:57+00:00",
-   "summary": "Hi! Ive recently been working on an old project of mine called...",
-   "points": 1,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Hi everyone! I kinda made a simple lexer, does anyone have feedback? I really appreciate it.",
-   "url": "https://dev.to/johnryzon123/hi-everyone-i-kinda-made-a-simple-lexer-does-anyone-have-feedback-i-really-appreciate-it-543c",
-   "date": "2026-08-11T09:38:58+00:00",
-   "summary": "Does anyone have feedbacks in my lexer?  A few days to weeks earlier, me and a contributor decided to...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Ported QOI to Rust. Here's What Almost Broke It.",
-   "url": "https://dev.to/anish_prakash1/i-ported-qoi-to-rust-heres-what-almost-broke-it-2g0",
-   "date": "2026-08-11T06:50:49+00:00",
-   "summary": "The PortMortem hackathon asked participants to choose a track and then within the track pick a...",
-   "points": 0,
-   "tech": "assembly",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "SolidWorks course for engineering and assembly drawing, lecture (11)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5VGxHOXdrU05JZ0hDeTVaZFVacV9oaFo0VWZvTmNDVV9YVE50bjdsaWtuQ01LUWVmZGN3c3JadExuVDQtb19BbHMwYVNxR0d0Z1RLT1dB?oc=5",
    "date": "2026-08-10T07:47:44+00:00",
@@ -598,6 +608,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Rng4VDY0OG50c29OWm9XcDR3R3F2dW83bmNrMXhlcHNKTzYwcTlIOGU1NVprWmpBcTljajJEMkZlMDVRbDl4N2lXQVR3YWVpZjlaamZR?oc=5",
    "date": "2025-10-28T14:01:21+00:00",
    "summary": "Master Siemens NX Assembly Basics in Just 40 Minutes YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "AC Mechanical Repairing Course | Learning Full AC Assembly in Class | AC Repairing Institute",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXdGlFbHNXcDBmRi1DTV9rS2Vsc01sdS1yQURINC1RZG5YV1VHQ2tMRUNpSjI4aUpyS1ZDVVgwNlIybXY1NFNXU21YdUJsdjlqMWZsbw?oc=5",
+   "date": "2025-10-10T07:00:00+00:00",
+   "summary": "AC Mechanical Repairing Course | Learning Full AC Assembly in Class | AC Repairing Institute YouTube",
    "tech": "assembly",
    "sourceId": "yt",
    "source": "YouTube",
@@ -814,6 +834,16 @@
    "lang": "ar"
   },
   {
+   "title": "ASM for Cyber Security - Registers... 0x02 - الاسمبلي للأمن السبراني - السجلات والذاكرة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSlNPbkxiZ3VPbkJRcl9vRnN0ZmhCMmJ4Qm1oQ1ZGLWZxdHhSMGpkZ21iZTZzcWhTTVlhWWJfOGZkc1RrelZUS1IxVC1DNkh3cHBuemh3?oc=5",
+   "date": "2024-11-29T00:56:35+00:00",
+   "summary": "ASM for Cyber Security - Registers... 0x02 - الاسمبلي للأمن السبراني - السجلات والذاكرة YouTube",
+   "tech": "assembly",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "ASM for Cyber Security - Introduction 0x01 - الاسمبلي للأمن السبراني - مقدمة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQklUN3ljUHJkUVNKMEJCblZqTzh6aDJkN2F6YUl2a0FoNFJXMFppNWlzbXdocjhUdzlWUzhQSk1fb3BZQ3dOUUNWS2NnYm1QQkxUcTJB?oc=5",
    "date": "2024-11-26T15:20:23+00:00",
@@ -984,6 +1014,16 @@
    "lang": "en"
   },
   {
+   "title": "SolidWorks Parts And Assembly Tutorial",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90dWVUY1RDMjdFN2szX1FmUkt4aGpYUVpvQlAxUVQyd2MxRGd4RGRTeHJmYThiLXZjbC1pcHBIUUhZX05qR0U5T2ZBREk5T3RlTXpKaWNR?oc=5",
+   "date": "2023-12-25T12:52:43+00:00",
+   "summary": "SolidWorks Parts And Assembly Tutorial YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "x64 assembly language crash course (Visual Studio + MASM)",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xMUlDR1ExZHBXMmhaTzNwRlZIRTV2bV9BU0g3cVpTZHRxV2Njcm9ocU5sdEVxSmFRRVVRRlBLQm44YVlCdVdQellpcklvX0doSW1hYm43bHAxSzBUMWlyWGJxZ1d4YmlicmhZWUpnNDR0Z040OGFLRVphUzA?oc=5",
    "date": "2023-11-13T15:04:29+00:00",
@@ -1078,6 +1118,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MUdTa29Qd21VUUN5RUt3bjZoanM3VHp4VVVuZXgyTUpVWEdzb0dRYkRxcTZ3aFlSQUNWenh6dHN5OWpRT3dnN1k2aUxzdl9BbjJOOXZ3?oc=5",
    "date": "2023-02-14T12:01:12+00:00",
    "summary": "برمجة المتحكمات الدقيقة بلغة التجميع microchip pic18f microcontroler assembly programming mpasm p1 YouTube",
+   "tech": "assembly",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "02_Embedded systems: Overview of 8051 microcontroller and basics of assembly language (بالعربي)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52WkNHODI2QktVOFFJbTc4M202c0pmVzgwVUdxY3Fpa3hzakxPVlMzZlZCZUNuaWtLYW9jTUhSemVONy03STlfTUY5OFZpRmJxMWowd1NR?oc=5",
+   "date": "2023-02-01T13:52:12+00:00",
+   "summary": "02_Embedded systems: Overview of 8051 microcontroller and basics of assembly language (بالعربي) YouTube",
    "tech": "assembly",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -1344,6 +1394,16 @@
    "lang": "ar"
   },
   {
+   "title": "How to Run Assembly Language Program in MASM 8086 DOSBox in Windows 10 | Assembly Course Lecture 2",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSDdXeUV6djBIVG90Mjg0bGNhbU5rXzd5ZmptLUt3SnNoLUxPdGstbU91S2pqZHE5MVMwbE9taS11VHdNWjlzaFlIQXhUWXE0TTJB?oc=5",
+   "date": "2021-08-11T11:51:54+00:00",
+   "summary": "How to Run Assembly Language Program in MASM 8086 DOSBox in Windows 10 | Assembly Course Lecture 2 YouTube",
+   "tech": "assembly",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "اول محاضرات المعالجات الدقيقة (لغة الاسمبلي ) برنامج EMU8086 - م.محمود سعيد",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNXFvM2h6bkFCRVg2cmo2eXp3SmNyWnQ4SXJxZDJBek5Bak5jYkY0MXBYbk55cHBJU2xTMnctZnNKTHBYN2pvc0NsQ09uWkgxU1hfaUl3?oc=5",
    "date": "2021-07-26T15:19:55+00:00",
@@ -1404,16 +1464,6 @@
    "lang": "en"
   },
   {
-   "title": "[ENG] Tutorial 01 - The Complete Amiga 68000 Assembly Hardware Programming & Development Course",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KaEZvVWZ2b1B5ZnVBbFBrbGRoVkFYcTA2cm9jZlVyWnN6VUhSNnhoX0VJVm5WNGh6ZmtJQXloUy1LRURzSW0talY1WWFYTGZCbWUzekpZMktHVVJvcC1JUzZaU2xNemNERVVuLTBHS3Q5b25jdUlXMXVQeGw?oc=5",
-   "date": "2021-03-08T13:20:00+00:00",
-   "summary": "[ENG] Tutorial 01 - The Complete Amiga 68000 Assembly Hardware Programming & Development Course YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Assembly Language (24) | Procedure Call and Return instructions أسمبلي مفاهيم أساسية",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sRE1WZTBkVFVha0lFU3NzaWIycjJFT0oyVldrLXdVd190UVVIR2ZROF92N21YeTNhSHd6WDNNbEVBM2wtdVJOeVI1dUxqU1JCWFpSamhB?oc=5",
    "date": "2021-02-28T20:02:20+00:00",
@@ -1422,16 +1472,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Bottom Up Assembly Method | SOLIDWORKS BEGINNER | Chapter 03: Lesson 02 | CSWA COURSE",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13dm5lb184d3JWU0F6Ty1wYmtBNW1ocTdlWFgxVjZQS0lxNUFXZndDc1RIODc0MUFCRVdyOGsxYm5leFZXR2dvRmpGTUM1S2tMTHBGOF93?oc=5",
-   "date": "2021-02-26T04:17:09+00:00",
-   "summary": "Bottom Up Assembly Method | SOLIDWORKS BEGINNER | Chapter 03: Lesson 02 | CSWA COURSE YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "Assembly Language (23) | PUSH & POP Instructions with Stack with Call & Ret أسمبلي مفاهيم أساسية",
@@ -1452,26 +1492,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "6502 Assembly Language: Getting Started",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuNmMzMXY4ZHM2eGZtVTUyMXp6OTBuTFM1RHpoU18zOU9NMy1hWUNyNXFEYUY4Y3Jia1Fub2d5c05uWUhqajRoelY0MzViYlR6b1p6d093?oc=5",
-   "date": "2021-01-15T23:00:12+00:00",
-   "summary": "6502 Assembly Language: Getting Started YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Training Wheels Spider Web Assembly Tutorial for Bungee Box - House Trap Activity",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yeFFxcS14X2kyYjU3dXBuS2tpcFdVUUk5Z0dabG9qUkhwdlpUVFh2VDdiejFMZmlmbnBpY3djNVVnQXd3Wml2NzRtUUJ3ZkpSS0w3ZnB3?oc=5",
-   "date": "2020-10-13T18:46:43+00:00",
-   "summary": "Training Wheels Spider Web Assembly Tutorial for Bungee Box - House Trap Activity YouTube",
-   "tech": "assembly",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "#10 Working with subassemblies - كيفية إدراج أسمبلي داخل أسمبلي آخر",

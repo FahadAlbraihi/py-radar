@@ -1,8 +1,128 @@
 {
- "generated": "2026-08-21T05:09:54.386111+00:00",
+ "generated": "2026-08-22T04:25:55.380417+00:00",
  "tech": "solidity",
- "count": 122,
+ "count": 123,
  "items": [
+  {
+   "title": "What Your Multisig Threshold Actually Protects",
+   "url": "https://dev.to/0xrivet/what-your-multisig-threshold-actually-protects-4jd",
+   "date": "2026-08-21T18:45:11+00:00",
+   "summary": "I've been digging into multisig configurations for bridge and protocol security reviews. The...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "5 Silent Bugs That Break On-Chain RWA Trading Bots (and How to Handle Them)",
+   "url": "https://dev.to/ttt34567890/5-silent-bugs-that-break-on-chain-rwa-trading-bots-and-how-to-handle-them-2a1d",
+   "date": "2026-08-21T16:16:19+00:00",
+   "summary": "I've watched (and built) enough on-chain trading bots to know that the ones that fail rarely blow up...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "변화하는 세계 통화 패권 속 비트코인의 부상하는 역할",
+   "url": "https://dev.to/ice1121/byeonhwahaneun-segye-tonghwa-paegweon-sog-biteukoinyi-busanghaneun-yeoghal-oie",
+   "date": "2026-08-21T15:14:57+00:00",
+   "summary": "수십 년간 미국 달러(USD)는 세계의 기축 통화이자 국제 무역의 지배적인 매개체, 그리고 글로벌 금융 시장의 닻으로서 군림해왔다. 브레턴우즈 협정으로 기반을 다지고 페트로달러...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bitcoin's Emergent Role Amidst Shifting Global Monetary Hegemony",
+   "url": "https://dev.to/ice1121/bitcoins-emergent-role-amidst-shifting-global-monetary-hegemony-59hk",
+   "date": "2026-08-21T15:14:54+00:00",
+   "summary": "Introduction   For decades, the United States Dollar (USD) has reigned supreme as the...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FRE 901 Blockchain Evidence Authentication: What the Standard Actually Requires",
+   "url": "https://dev.to/craig_solomon/fre-901-blockchain-evidence-authentication-what-the-standard-actually-requires-5hhm",
+   "date": "2026-08-21T13:00:00+00:00",
+   "summary": "Meta description: How blockchain timestamps satisfy FRE 901(b)(9) and FRE 902(13) for evidence...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Binance Launches Agent OS, Letting AI Agents Trade on Your Account With Limits You Set",
+   "url": "https://hackernoon.com/binance-launches-agent-os-letting-ai-agents-trade-on-your-account-with-limits-you-set?source=rss",
+   "date": "2026-08-21T12:40:00+00:00",
+   "summary": "Covering AI, Web3, Cybersecurity, Startup Funding & Enterprise SaaS. Top Journalist & Thought Leadership Media Leader",
+   "tech": "solidity",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Synthetics' Last Cradle is live — identity-backed agents racing a closed cosmos",
+   "url": "https://dev.to/discernible-io/synthetics-last-cradle-is-live-identity-backed-agents-racing-a-closed-cosmos-2b3b",
+   "date": "2026-08-21T11:57:51+00:00",
+   "summary": "Synthetics' Last Cradle is live   Identity-backed agents racing the heat death of a closed...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Actually Happens Behind a “One-Click” DeFi Strategy?",
+   "url": "https://dev.to/axionaeu/what-actually-happens-behind-a-one-click-defi-strategy-1naf",
+   "date": "2026-08-21T09:00:21+00:00",
+   "summary": "What Actually Happens Behind a “One-Click” DeFi Strategy?   “One-click DeFi” sounds...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "BNB Chain Roadmap: What Infrastructure Providers Need to Know",
+   "url": "https://dev.to/noode/bnb-chain-roadmap-what-infrastructure-providers-need-to-know-4m12",
+   "date": "2026-08-21T07:09:43+00:00",
+   "summary": "BNB Chain’s 2026 roadmap is not simply a plan to make BNB Smart Chain faster. It represents a broader...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Agent Payment Stack Just Split. Who Guarantees Both Legs Land?",
+   "url": "https://dev.to/barissozen/the-agent-payment-stack-just-split-who-guarantees-both-legs-land-1fil",
+   "date": "2026-08-21T06:07:25+00:00",
+   "summary": "Something quietly structural happened in agent payments this month. On August 7, OSL Group launched...",
+   "points": 0,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "성숙기에 접어든 암호화폐 시장: 비트코인의 비상, 파생상품의 진화, 그리고 규제 마찰 속에서 길을 찾다",
+   "url": "https://dev.to/ice1121/seongsuggie-jeobeodeun-amhohwapye-sijang-biteukoinyi-bisang-pasaengsangpumyi-jinhwa-geurigo-gyuje-macal-sogeseo-gileul-cajda-2kkk",
+   "date": "2026-08-21T03:13:54+00:00",
+   "summary": "암호화폐 시장이 다시금 전 세계의 이목을 집중시키고 있다. 비트코인(BTC)이 75,000달러 선을 단호하게 돌파하며 강력한 상승 랠리의 지속을 알린 것이다. 이번 급등은 24시간...",
+   "points": 1,
+   "tech": "solidity",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Your Bridge's Security Page Is Lying to You",
    "url": "https://dev.to/0xrivet/your-bridges-security-page-is-lying-to-you-40pk",
@@ -244,50 +364,6 @@
    "lang": "en"
   },
   {
-   "title": "SpookySwap: The Wrong Pool Costs More Than Fees",
-   "url": "https://dev.to/hafil_de614778408ace0a2ef/spookyswap-the-wrong-pool-costs-more-than-fees-nkk",
-   "date": "2026-08-18T10:18:36+00:00",
-   "summary": "SpookySwap: The Wrong Pool Costs More Than Fees   SpookySwap is a non-custodial...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "decentralized universal computer: every machine is a folder under /",
-   "url": "https://dev.to/rishabh_kharyal_5d4e2610b/decentralized-universal-computer-every-machine-is-a-folder-under--3bco",
-   "date": "2026-08-18T04:30:07+00:00",
-   "summary": "Every folder is a computer. cd into a folder is the same as cd into a computer; the root is the...",
-   "points": 1,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "My Bitcoin Wallet Recovery Story: How I Connected with Mighty Hacker Recovery",
-   "url": "https://dev.to/esther_bump_6dc49d5c30602/my-bitcoin-wallet-recovery-story-how-i-connected-with-mighty-hacker-recovery-5091",
-   "date": "2026-08-18T00:54:51+00:00",
-   "summary": "How I Regained Access to My Bitcoin Wallet  I was extremely worried when I suddenly lost access to my...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "From HTTP Requests to Atomic On-Chain Transactions",
-   "url": "https://dev.to/parnita_singh_73778510977/from-http-requests-to-atomic-on-chain-transactions-3517",
-   "date": "2026-08-17T17:12:15+00:00",
-   "summary": "Coming from Web2, I initially thought of a Solana transaction like an API request:  send request...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "EIP-712 Explained: Sign and Verify Typed Data with ethers.js and Solidity",
    "url": "https://medium.com/coinmonks/eip-712-explained-sign-and-verify-typed-data-with-ethers-js-and-solidity-ae48d94eddaf?source=rss------solidity-5",
    "date": "2026-08-17T16:43:16+00:00",
@@ -295,17 +371,6 @@
    "tech": "solidity",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "비트코인 맥시멀리즘: 그 장점과 한계를 비판적으로 탐구하다",
-   "url": "https://dev.to/ice1121/biteukoin-maegsimeolrijeum-geu-jangjeomgwa-hangyereul-bipanjeogeuro-tamguhada-3j7b",
-   "date": "2026-08-17T15:14:30+00:00",
-   "summary": "비트코인 맥시멀리즘은 암호화폐 생태계 내에서 매우 두드러진 이념적 입장으로, 비트코인(BTC)만이 유일하게 진정으로 탈중앙화되어 있고 안전하며 궁극적으로 가치 있는 암호화폐라고...",
-   "points": 1,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -329,50 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "What a Bitcoin Blockchain Explorer Taught Me About Reading Data I Didn't Write",
-   "url": "https://dev.to/rjeff-sudo/what-a-bitcoin-blockchain-explorer-taught-me-about-reading-data-i-didnt-write-1hh6",
-   "date": "2026-08-17T12:19:27+00:00",
-   "summary": "I thought building a blockchain explorer was going to be a JSON parsing exercise. Call bitcoind over...",
-   "points": 1,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Using AI to Audit Smart Contracts Before Deployment",
-   "url": "https://dev.to/chainbox43/using-ai-to-audit-smart-contracts-before-deployment-2gh1",
-   "date": "2026-08-17T11:45:46+00:00",
-   "summary": "Smart contract audits used to mean one thing: a team of security researchers manually combing through...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Stablecoin settlement b2b: як бізнес використовує стейблкоїни для міжнародних розрахунків",
-   "url": "https://dev.to/tanya_kamenskih_fae915d43/stablecoin-settlement-b2b-iak-biznies-vikoristovuie-stieiblkoyini-dlia-mizhnarodnikh-rozrakhunkiv-4d3b",
-   "date": "2026-08-17T11:35:35+00:00",
-   "summary": "TL;DR     Stablecoin settlement b2b — це використання стейблкоїнів для розрахунків між...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Free Option Hiding Inside Every Atomic Forward (and What It Costs to Close It)",
-   "url": "https://dev.to/barissozen/the-free-option-hiding-inside-every-atomic-forward-and-what-it-costs-to-close-it-1a4j",
-   "date": "2026-08-17T10:08:22+00:00",
-   "summary": "Seven years ago today - 17 August 2019 - Runchao Han, Haoyu Lin and Jiangshan Yu filed ERC-2266,...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "A Basic Smart Insurance using Blockchain",
    "url": "https://medium.com/@ranjana-jha/a-basic-smart-insurance-using-blockchain-be6c2bf964cc?source=rss------solidity-5",
    "date": "2026-08-17T09:44:24+00:00",
@@ -380,17 +401,6 @@
    "tech": "solidity",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "What Is Tokenized Gold and How Does It Actually Work?",
-   "url": "https://dev.to/rayan_cooper_f5814449bcdc/what-is-tokenized-gold-and-how-does-it-actually-work-23j6",
-   "date": "2026-08-17T06:56:26+00:00",
-   "summary": "Gold has always been associated with physical ownership, but technology is changing how people can...",
-   "points": 0,
-   "tech": "solidity",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -698,6 +708,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YRzFZSldKYTNJRFluWDBRckRadFJqVTBhcDdNMmpZZUE1U1FQQmVCdFQyMGgyRlptRndLdFhVTW42aDlMTmJJZ3RLd0std3UyUEJqZDB3?oc=5",
    "date": "2023-12-22T07:45:02+00:00",
    "summary": "Smart Contract Audits, Security, and DeFi FULL Course | Learn smart contract auditing YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "How To Become a Solidity Developer?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SZmx0ZzQwa2V1ZDhTdXY0RlVOckY5elFUZXBXSkd2YkN5dWs5YkhiYkZ5SkZyNUc5WGFkMllPc25QY1JCQzVGNVl4YWlyaF9tSUlMRXZB?oc=5",
+   "date": "2023-11-21T04:57:36+00:00",
+   "summary": "How To Become a Solidity Developer? YouTube",
    "tech": "solidity",
    "sourceId": "yt",
    "source": "YouTube",
@@ -1154,6 +1174,16 @@
    "lang": "ar"
   },
   {
+   "title": "React Solidity Twitter Clone Dapp Tutorial Full Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80YXNiUmZjWnNISmhNZmoteDN2NjNvVGxvczZqaHpOZlRFX2xabWZYdWdWVVZpM3JaVlhZUmhxdjlpdWZvYTRVTjZaaEo1ZWR1UjNqTm93?oc=5",
+   "date": "2022-03-13T18:59:51+00:00",
+   "summary": "React Solidity Twitter Clone Dapp Tutorial Full Course YouTube",
+   "tech": "solidity",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Solidity, Blockchain, and Smart Contract Course – Beginner Python Tutorial",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sZW91Q2gtNjFpRWxaX09hdXFfVUk5QkgtRXZfd251Z29PcWRjeHRreEd4RElYeHA1WHdRTkFUU3hlWDVtWVc4Q1Z4bEFfRDhYMjBkeDRn?oc=5",
    "date": "2022-03-12T16:00:13+00:00",
@@ -1228,26 +1258,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4N3NQSlFoS2J2R1A1blZJOERpdGQtaEpoaHNOUWtJUGh1clpoOF9EUjhLR1Jtcmt4RE1MdS1OTk9RellJQ0JUbkRTbTZOdWhIQUM0OFFR?oc=5",
    "date": "2021-12-28T16:00:08+00:00",
    "summary": "Blockchain For Beginners #1 - Smart Contracts With Ethereum & Solidity YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Solidity Tutorial | Visibility Modifiers - Public, External, Internal Private",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JS1pmVmN3N0tSckM0R2hmS0JvS3hudkRmWU1LWXNUU3EwWTF2ZTgta1lhd2ZCSUtsVUsxUThtaDYxeHZ0bE1ta0ZKdXI2TzAwcXV4OWF3?oc=5",
-   "date": "2021-11-17T21:00:08+00:00",
-   "summary": "Solidity Tutorial | Visibility Modifiers - Public, External, Internal Private YouTube",
-   "tech": "solidity",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Deploy Solidity Smart Contracts with Ganache Personal Blockchain",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aU1FSQXQtQ0V0UUlUSEtQdFdtTlZjYjdPNVFTMkZ1UjNIcVNRVmlEaTBXSzBzX3lwRHl4Q1p1dGU3aGRGZjdwV1BWdVlXQzJwU1NiOURn?oc=5",
-   "date": "2021-10-08T13:30:05+00:00",
-   "summary": "Deploy Solidity Smart Contracts with Ganache Personal Blockchain YouTube",
    "tech": "solidity",
    "sourceId": "yt",
    "source": "YouTube",

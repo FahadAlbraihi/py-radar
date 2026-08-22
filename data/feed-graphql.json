@@ -1,8 +1,195 @@
 {
- "generated": "2026-08-21T05:15:17.981987+00:00",
+ "generated": "2026-08-22T04:31:30.455679+00:00",
  "tech": "graphql",
  "count": 127,
  "items": [
+  {
+   "title": "A Segment Track Call Needs an Event Name. The HTTP 200 Does Not Check.",
+   "url": "https://dev.to/aleksuix/a-segment-track-call-needs-an-event-name-the-http-200-does-not-check-3m71",
+   "date": "2026-08-22T02:45:28+00:00",
+   "summary": "The HTTP Tracking API documents event as required on track, and userId or anonymousId on every call. A Unix epoch timestamp is the wrong type. None of that shows up in the status code.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "PostHog Capture Treats an Epoch Timestamp as Ingestion Time",
+   "url": "https://dev.to/aleksuix/posthog-capture-treats-an-epoch-timestamp-as-ingestion-time-2bng",
+   "date": "2026-08-22T02:44:51+00:00",
+   "summary": "PostHog's capture API documents timestamp as ISO 8601. A Unix epoch number is accepted, then ignored, so a backfill looks like it happened just now. distinct_id is required on every event, including each row in a batch.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Meta's Conversions API Wants Seconds. Date.now() Sends Milliseconds.",
+   "url": "https://dev.to/aleksuix/metas-conversions-api-wants-seconds-datenow-sends-milliseconds-4p80",
+   "date": "2026-08-22T02:13:12+00:00",
+   "summary": "JavaScript's Date.now() is 13 digits. Meta's event_time is 10. The event lands far in the future, outside the 7-day window, and never attributes. Three other CAPI mistakes sit in the same payload.",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to launch an AI automation agency offering voice AI agents for local businesses",
+   "url": "https://dev.to/samchenreviews/how-to-launch-an-ai-automation-agency-offering-voice-ai-agents-for-local-businesses-1n0o",
+   "date": "2026-08-22T00:32:35+00:00",
+   "summary": "You'll build a repeatable service that lets plumbers, dentists, and other service-business owners...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "how to build voice ai for inbound calls",
+   "url": "https://dev.to/samchenreviews/how-to-build-voice-ai-for-inbound-calls-2hpk",
+   "date": "2026-08-22T00:32:08+00:00",
+   "summary": "You can have a Vapi agent answer every inbound call, ask qualifying questions, and hand the prospect...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The best free AI models 2026 for an automation-first business",
+   "url": "https://dev.to/samchenreviews/the-best-free-ai-models-2026-for-an-automation-first-business-38jh",
+   "date": "2026-08-22T00:29:44+00:00",
+   "summary": "The best free AI models 2026 are the ones that give you production-grade quality without a bill at...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "We’re Building a Network for AI Agents — Not Another AI Chat App",
+   "url": "https://dev.to/agentel_tech/were-building-a-network-for-ai-agents-not-another-ai-chat-app-3dc7",
+   "date": "2026-08-21T23:49:19+00:00",
+   "summary": "I’ve been thinking about one question for a while:  What happens when AI agents stop being isolated...",
+   "points": 1,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Shopify Mutation That Returns Success and Changes Nothing",
+   "url": "https://dev.to/alexandr_m_c387d9a4e6fde/a-shopify-mutation-that-returns-success-and-changes-nothing-1epa",
+   "date": "2026-08-21T20:28:20+00:00",
+   "summary": "There is a specific failure mode that costs more than a crash, because nothing in your logs flags it:...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "7 JavaScript APIs Every Browser Game Developer Should Know",
+   "url": "https://dev.to/vishvkamani/7-javascript-apis-every-browser-game-developer-should-know-1102",
+   "date": "2026-08-21T20:22:37+00:00",
+   "summary": "When people think about browser games, they usually think about graphics, animations, or game...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GitHub's traffic API has a 14 day memory. Here's what I learned archiving it.",
+   "url": "https://dev.to/resetnak/githubs-traffic-api-has-a-14-day-memory-heres-what-i-learned-archiving-it-1lc0",
+   "date": "2026-08-21T19:00:26+00:00",
+   "summary": "Open any repo you own and click Insights → Traffic.  You get views, clones, unique visitors, top...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Node.js vs Python - Which Backend Language to Choose in 2026",
+   "url": "https://dev.to/mecanik-dev/nodejs-vs-python-which-backend-language-to-choose-in-2026-1j4p",
+   "date": "2026-08-21T18:00:00+00:00",
+   "summary": "Search interest in \"Node.js vs Python\" has grown roughly 25% year-on-year and shows no signs of...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Upscaled 2K and re-generated 2K are not the same file",
+   "url": "https://dev.to/whereisthisplace/upscaled-2k-and-re-generated-2k-are-not-the-same-file-4pil",
+   "date": "2026-08-21T17:14:28+00:00",
+   "summary": "Two video APIs both advertise a 2K output. You send the same prompt to each, you get back two files...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The duration your video API accepts is not the duration it renders",
+   "url": "https://dev.to/whereisthisplace/the-duration-your-video-api-accepts-is-not-the-duration-it-renders-4j86",
+   "date": "2026-08-21T15:38:33+00:00",
+   "summary": "A sequence I cut to a music bed was three frames out at the first transition, nine at the second, and...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What a lost dispute actually costs a Connect platform",
+   "url": "https://dev.to/veristria/what-a-lost-dispute-actually-costs-a-connect-platform-5gh2",
+   "date": "2026-08-21T13:40:43+00:00",
+   "summary": "Refunds get the attention. Disputes are worse, and the reason is structural rather than a matter of...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Stripe Connect refund that only costs the platform",
+   "url": "https://dev.to/veristria/the-stripe-connect-refund-that-only-costs-the-platform-1l68",
+   "date": "2026-08-21T13:39:36+00:00",
+   "summary": "There is a class of bug in Stripe Connect that never throws, never logs, and never fails a webhook....",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)",
+   "url": "https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an",
+   "date": "2026-08-21T12:17:03+00:00",
+   "summary": "Last year I renamed a field in an API response. customer_id became customerId, matching the rest of...",
+   "points": 1,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Goodreads Has No Book API — So Its Site Is One Big GraphQL Cache",
+   "url": "https://dev.to/devil_scrapes/goodreads-has-no-book-api-so-its-site-is-one-big-graphql-cache-3ccp",
+   "date": "2026-08-21T09:23:08+00:00",
+   "summary": "Goodreads scraper: the book page has no API, only a GraphQL cache hiding in a script tag. Here's how...",
+   "points": 0,
+   "tech": "graphql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Two Hours Lost to a Silent 401: Submitting 12 iOS Apps to the App Store With No Human in the Loop (Part 1)",
    "url": "https://dev.to/bokuwalily/two-hours-lost-to-a-silent-401-submitting-12-ios-apps-to-the-app-store-with-no-human-in-the-loop-1op5",
@@ -107,7 +294,7 @@
    "url": "https://dev.to/alex_crciun_c0adaad75972/how-i-built-an-ai-movie-tracker-as-a-solo-dev-564c",
    "date": "2026-08-21T00:24:02+00:00",
    "summary": "I am a full-stack developer in the Netherlands, a bit over ten years in. For the last year my...",
-   "points": 0,
+   "points": 2,
    "tech": "graphql",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -147,61 +334,6 @@
    "lang": "en"
   },
   {
-   "title": "How to pull every open job from Greenhouse, Lever, Ashby and SmartRecruiters with public APIs (and monitor changes)",
-   "url": "https://dev.to/primeflowio/how-to-pull-every-open-job-from-greenhouse-lever-ashby-and-smartrecruiters-with-public-apis-and-55l5",
-   "date": "2026-08-20T15:56:55+00:00",
-   "summary": "Job postings are one of the most underrated public data sources on the internet. Recruiters use them...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "API 429 Errors: Rate Limits, Retry-After, and Safe Retries",
-   "url": "https://dev.to/bettertoken_ai/api-429-errors-rate-limits-retry-after-and-safe-retries-1ioe",
-   "date": "2026-08-20T15:00:25+00:00",
-   "summary": "Distinguish API rate limits from quota errors, honor Retry-After, add bounded backoff with jitter, and avoid executing side effects twice safely.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Migrate an OpenRouter Integration to Another API Gateway",
-   "url": "https://dev.to/bettertoken_ai/how-to-migrate-an-openrouter-integration-to-another-api-gateway-3cp7",
-   "date": "2026-08-20T15:00:08+00:00",
-   "summary": "Migrate an OpenRouter integration safely with a requirements matrix, five-step canary, Python test, streaming and usage checks, and rollback rules.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Introducing Quero",
-   "url": "https://dev.to/aceyash/introducing-quero-4mgf",
-   "date": "2026-08-20T13:22:19+00:00",
-   "summary": "AI tools are everywhere now.   There are chatbots for writing, coding, research, brainstorming,...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A missing exchange rate is not an exchange rate of 1",
-   "url": "https://dev.to/hammad4june1999/a-missing-exchange-rate-is-not-an-exchange-rate-of-1-4474",
-   "date": "2026-08-20T12:56:18+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.    var fx =...",
-   "points": 4,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Getting Started with GraphQL on AWS",
    "url": "https://medium.com/@ashankavinda277/getting-started-with-graphql-on-aws-93ed25d6c2bd?source=rss------graphql-5",
    "date": "2026-08-20T11:45:36+00:00",
@@ -209,83 +341,6 @@
    "tech": "graphql",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Change Page Orientation in Word Documents using Python",
-   "url": "https://dev.to/groupdocs-cloud/change-page-orientation-in-word-documents-using-python-5e7m",
-   "date": "2026-08-20T05:23:44+00:00",
-   "summary": "Ever needed to flip a Word page from portrait to landscape on the fly, but dreaded manual...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The x402 ecosystem quietly split — and your endpoint may be unpayable",
-   "url": "https://dev.to/kirothebot/the-x402-ecosystem-quietly-split-and-your-endpoint-may-be-unpayable-3nl5",
-   "date": "2026-08-20T04:56:57+00:00",
-   "summary": "The x402 server SDK went v2; the most-installed client is still v1-only. Four silent wire-format breaks make modern paid endpoints unpayable by stock clients — how we found it, measured it, and proved the fix on-chain.",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Claude Sonnet 5's Introductory Pricing Expires August 31. Your Cost Model Doesn't Know That Yet.",
-   "url": "https://dev.to/assili_salim_e3c07f9954de/claude-sonnet-5s-introductory-pricing-expires-august-31-your-cost-model-doesnt-know-that-yet-4e1j",
-   "date": "2026-08-20T04:35:31+00:00",
-   "summary": "11 days from now, Sonnet 5 goes from $2/$10 to $3/$15 per million tokens. A 50% increase across the...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Google Search Pagination Is Not results.length",
-   "url": "https://dev.to/reserp/google-search-pagination-is-not-resultslength-5959",
-   "date": "2026-08-20T04:04:12+00:00",
-   "summary": "Disclosure: I work on Reserp. This article explains the public API contract and keeps application...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Is Your REST API really a REST API?",
-   "url": "https://dev.to/daniel_possiblekwabi_b57/is-your-rest-api-really-a-rest-api-3bbj",
-   "date": "2026-08-20T01:13:53+00:00",
-   "summary": "A practical walk through the Richardson Maturity Model and the 6 REST constraints.",
-   "points": 1,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Generation Queue Tool for Batch Character Creation",
-   "url": "https://dev.to/hirodeath/building-a-generation-queue-tool-for-batch-character-creation-2lk3",
-   "date": "2026-08-20T00:28:44+00:00",
-   "summary": "This article is an English translation of the original Japanese article.  I added a batch generation...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Grading Security Headers Isn't the Full Picture",
-   "url": "https://dev.to/josejux/grading-security-headers-isnt-the-full-picture-1gpm",
-   "date": "2026-08-19T21:01:39+00:00",
-   "summary": "A few days ago someone left a comment on my last post about grading security headers...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -299,17 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "API Security: How to Protect a Public API in 2026",
-   "url": "https://dev.to/mecanik-dev/api-security-how-to-protect-a-public-api-in-2026-2iip",
-   "date": "2026-08-19T18:00:00+00:00",
-   "summary": "Most teams treat API security as an authentication problem. They add tokens, check them on every...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How GraphQL Actually Works Under the Hood: Protocol, Data Format, Execution & HTTP Status Codes",
    "url": "https://medium.com/@itsaiswaryamurali/how-graphql-actually-works-under-the-hood-protocol-data-format-execution-http-status-codes-5b508252870d?source=rss------graphql-5",
    "date": "2026-08-19T17:22:14+00:00",
@@ -317,50 +361,6 @@
    "tech": "graphql",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Build a GraphQL API with Python and Strawberry",
-   "url": "https://dev.to/qingluan/build-a-graphql-api-with-python-and-strawberry-435h",
-   "date": "2026-08-19T16:00:16+00:00",
-   "summary": "Build a GraphQL API with Python and Strawberry   tags: python, graphql, api,...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built a Claude Code Skill That Reverse-Engineers Undocumented APIs",
-   "url": "https://dev.to/prasen-sky/i-built-a-claude-code-skill-that-reverse-engineers-undocumented-apis-2h47",
-   "date": "2026-08-19T15:44:05+00:00",
-   "summary": "I Built a Claude Code Skill That Reverse-Engineers Undocumented APIs  Because \"the docs are in the...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Polymarket CLOB: How the Order Book and Trading API Work",
-   "url": "https://dev.to/soulcrancerdev/polymarket-clob-how-the-order-book-and-trading-api-work-1d2d",
-   "date": "2026-08-19T15:33:25+00:00",
-   "summary": "Learn how the Polymarket CLOB works, from outcome token IDs and order books to authentication,...",
-   "points": 9,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Polymarket API Guide 2026: CLOB, Gamma, WebSockets, Rate Limits and the IP Gate",
-   "url": "https://dev.to/will_c38674673aba82fa4cbe/polymarket-api-guide-2026-clob-gamma-websockets-rate-limits-and-the-ip-gate-51mp",
-   "date": "2026-08-19T13:14:13+00:00",
-   "summary": "I went looking for \"the Polymarket API\" and spent an hour confused before realizing that's the wrong...",
-   "points": 0,
-   "tech": "graphql",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -491,6 +491,16 @@
    "tech": "graphql",
    "sourceId": "sites",
    "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "GraphQL API Full Course LIVE 🔴 Backend Development Roadmap | Vishwa Sir | upGrad",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wdEg0OGhJd3hydnY3c3ZoMGJVdzdMYUtLWEFRdVBRTExKZXBNS0hoZGJSVnlZeWVmSUZxeU1tX3F0SnhVLVJqM0lPRVU5RVgweGpGcDFB?oc=5",
+   "date": "2026-05-21T03:28:26+00:00",
+   "summary": "GraphQL API Full Course LIVE 🔴 Backend Development Roadmap | Vishwa Sir | upGrad YouTube",
+   "tech": "graphql",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1282,16 +1292,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Shopify Admin API Tutorial | GraphQL & Rest Queries",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XYmpOdXZMSnU5TkYzTHR5YTBVRkdHdGk0VW5zdHVFMW13NGczRDk4Sjk1T2thekstTE5nZkhRaHhuNko5cnh0R0JZRm9ETE9UenJGUjZ3?oc=5",
-   "date": "2023-02-05T04:32:56+00:00",
-   "summary": "Shopify Admin API Tutorial | GraphQL & Rest Queries YouTube",
-   "tech": "graphql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "ايه هي الـ GraphQL وليه ممكن هتستبدل الـ REST APIs - سيمي كولون | SemiColon",

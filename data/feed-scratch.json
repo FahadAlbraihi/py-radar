@@ -1,8 +1,182 @@
 {
- "generated": "2026-08-21T05:14:37.306555+00:00",
+ "generated": "2026-08-22T04:30:49.148875+00:00",
  "tech": "scratch",
  "count": 220,
  "items": [
+  {
+   "title": "Antes de escrever uma linha de código, tive que provar que aguentava trocar de SO",
+   "url": "https://dev.to/tomasmsardinha/antes-de-escrever-uma-linha-de-codigo-tive-que-provar-que-aguentava-trocar-de-so-2e6a",
+   "date": "2026-08-22T01:48:15+00:00",
+   "summary": "Conteúdo    1. Apresentação - Omarchy 2. Praticidade 3. Agentes de IA 4. Desuso do Mouse 5....",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Review AI-Generated SQL Before You Trust the Number",
+   "url": "https://dev.to/michaelnocito/how-to-review-ai-generated-sql-before-you-trust-the-number-19ek",
+   "date": "2026-08-22T00:43:48+00:00",
+   "summary": "AI-written SQL usually runs, and running is not the same as right. Five checks that catch the wrong number: join fan-out, NULL in the filter, WHERE vs HAVING, the denominator, and the read-back.",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Practice SQL Online With Nothing Installed (And Where Your Data Goes)",
+   "url": "https://dev.to/michaelnocito/how-to-practice-sql-online-with-nothing-installed-and-where-your-data-goes-ka9",
+   "date": "2026-08-22T00:20:25+00:00",
+   "summary": "Run SQL in a browser tab with no install and no account. Five tools compared on what they hold, which dialect they speak, and the question that matters most: whether your data leaves your machine.",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Where to Get a Sample Database to Practice SQL (And How to Check It Loaded)",
+   "url": "https://dev.to/michaelnocito/where-to-get-a-sample-database-to-practice-sql-and-how-to-check-it-loaded-g2n",
+   "date": "2026-08-22T00:20:17+00:00",
+   "summary": "Download a real multi-table sample database in five minutes. Chinook, Northwind and Sakila compared, the one query that proves it loaded, and your first join across two tables.",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Customer Segmentation in SQL With CASE WHEN",
+   "url": "https://dev.to/michaelnocito/customer-segmentation-in-sql-with-case-when-4j20",
+   "date": "2026-08-22T00:20:08+00:00",
+   "summary": "Aggregate to one row per customer, label with CASE, group by the label. The order that deletes a whole segment, the gap that creates a NULL one, and fixed cut-offs against NTILE.",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript Features Worth Adopting First",
+   "url": "https://dev.to/stackhorizon/typescript-features-worth-adopting-first-2jfo",
+   "date": "2026-08-22T00:00:33+00:00",
+   "summary": "Start with the essentials, not the entire type system   When you first adopt TypeScript, the...",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho",
+   "url": "https://dev.to/gabrielvictorcruz/ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-2fl5",
+   "date": "2026-08-21T23:50:52+00:00",
+   "summary": "👋 Olá! Eu sou o Gabriel Victor   Sou estudante de Engenharia de Software em Brasília e este...",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "POO: Polimorfismo",
+   "url": "https://dev.to/yuripeixinho/poo-polimorfismo-1b1a",
+   "date": "2026-08-21T23:26:48+00:00",
+   "summary": "Introdução   Imagina que você tá fazendo um jogo com vários tipos de monstro, mas ainda sem...",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Which SQL Database Should You Install?",
+   "url": "https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n",
+   "date": "2026-08-21T22:56:36+00:00",
+   "summary": "File-based engines like SQLite and DuckDB versus servers like PostgreSQL, MySQL and SQL Server. One question decides it.",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "POO: Encapsulamento",
+   "url": "https://dev.to/yuripeixinho/poo-encapsulamento-36lb",
+   "date": "2026-08-21T22:42:23+00:00",
+   "summary": "Introdução   O conceito de encapusalento é primordial para proteger nossas classes. Vamos...",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Programação Orientada a Objetos",
+   "url": "https://dev.to/yuripeixinho/programacao-orientada-a-objetos-2623",
+   "date": "2026-08-21T22:31:07+00:00",
+   "summary": "Introdução   Programação Orientada a Objetos é um paradigma (um jeito de organizar código)...",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Actually Happens When an LLM Generates a Token? A Deep Dive into Softmax",
+   "url": "https://dev.to/younic/what-actually-happens-when-an-llm-generates-a-token-a-deep-dive-into-softmax-4g48",
+   "date": "2026-08-21T22:23:15+00:00",
+   "summary": "Euler's night   21:38. Berlin. Tuesday evening.  I had just come home from a meetup with a...",
+   "points": 0,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My first website said \"Don't commit without context.\" I never committed it at all.",
+   "url": "https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57",
+   "date": "2026-08-21T18:45:03+00:00",
+   "summary": "The renewal notice came and I decided to let it go.  threadkeeper.io was my first idea and my first...",
+   "points": 7,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How ChatGPT Serves 900 Million Users at a Time",
+   "url": "https://dev.to/lovestaco/how-chatgpt-serves-900-million-users-at-a-time-64h",
+   "date": "2026-08-21T17:04:40+00:00",
+   "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+   "points": 12,
+   "tech": "scratch",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The HackerNoon Newsletter: How I Built a Data Pipeline From Scratch Using Python (8/21/2026)",
+   "url": "https://hackernoon.com/8-21-2026-newsletter?source=rss",
+   "date": "2026-08-21T16:04:26+00:00",
+   "summary": "8/21/2026: Top 5 stories on the HackerNoon homepage!",
+   "tech": "scratch",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "How I Built a Data Pipeline From Scratch Using Python",
+   "url": "https://hackernoon.com/how-i-built-a-data-pipeline-from-scratch-using-python?source=rss",
+   "date": "2026-08-21T16:00:06+00:00",
+   "summary": "Learn how I built a scalable data pipeline from scratch using Python, covering ingestion, processing, storage, and automation.",
+   "tech": "scratch",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
   {
    "title": "# HEIC to JPG: How to Convert iPhone Photos Without Installing Anything",
    "url": "https://dev.to/_544bf5cbd223c35a49756/-heic-to-jpg-how-to-convert-iphone-photos-without-installing-anything-3f6g",
@@ -180,72 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "AI Workflow Template: One Task, Six Sections, and a Safe Close",
-   "url": "https://dev.to/moonshot_1341/ai-workflow-template-one-task-six-sections-and-a-safe-close-1fp1",
-   "date": "2026-08-20T05:00:13+00:00",
-   "summary": "A beginner AI workflow template for one task, human review, privacy checks, clear handoff, and a safe stop decision.",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI agents explained simply: a beginner comparison checklist",
-   "url": "https://dev.to/moonshot_1341/ai-agents-explained-simply-a-beginner-comparison-checklist-3935",
-   "date": "2026-08-20T05:00:07+00:00",
-   "summary": "AI agents explained simply through input, tools, judgment, approval, and recovery, using one synthetic task.",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I searched 'Sepolia' in my wallet's network list and got 20+ similar names. Here's the one number that actually matters.",
-   "url": "https://dev.to/nomurasan/i-searched-sepolia-in-my-wallets-network-list-and-got-20-similar-names-heres-the-one-number-4eml",
-   "date": "2026-08-20T04:34:02+00:00",
-   "summary": "My first Web3 hands-on session hit a snag at step two: the network search returned a wall of near-identical names. The chain ID is the only ",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Notes From the Other Side of the AI Hype",
-   "url": "https://dev.to/malfoy_thinks_that/notes-from-the-other-side-of-the-ai-hype-3p72",
-   "date": "2026-08-20T03:47:08+00:00",
-   "summary": "Intro to my world   i am malfoy consider me a third person character i live in someones mind...",
-   "points": 1,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "How to Fix 'command not found' (Without Reinstalling Everything)",
-   "url": "https://dev.to/systemcraftdev/how-to-fix-command-not-found-without-reinstalling-everything-3am0",
-   "date": "2026-08-20T03:46:32+00:00",
-   "summary": "The shell isn't telling you a program doesn't exist — it's telling you it looked in a specific list of places and didn't find it there. Those are different problems with different fixes.",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "5 Common Subnetting Mistakes That Break Real Networks",
-   "url": "https://dev.to/subnetica/5-common-subnetting-mistakes-that-break-real-networks-4an7",
-   "date": "2026-08-20T03:40:26+00:00",
-   "summary": "Subnetting errors rarely announce themselves as \"bad math.\" More often, two devices make different...",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How to Build an Email List From Scratch",
    "url": "https://medium.com/@mahin010/how-to-build-an-email-list-from-scratch-0ecafba927d7?source=rss------scratch-5",
    "date": "2026-08-20T01:44:08+00:00",
@@ -256,61 +364,6 @@
    "lang": "en"
   },
   {
-   "title": "Is Your REST API really a REST API?",
-   "url": "https://dev.to/daniel_possiblekwabi_b57/is-your-rest-api-really-a-rest-api-3bbj",
-   "date": "2026-08-20T01:13:53+00:00",
-   "summary": "A practical walk through the Richardson Maturity Model and the 6 REST constraints.",
-   "points": 1,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "✅❌ The Limn Engine Commandments: 31 Do's and Don'ts for Better Games",
-   "url": "https://dev.to/kehinde_owolabi_e2e54567a/the-limn-engine-commandments-31-dos-and-donts-for-better-games-3b9g",
-   "date": "2026-08-19T21:46:44+00:00",
-   "summary": "✅❌ The Limn Engine Commandments: 31 Do's and Don'ts for Better Games               🎯 Setup...",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "# Join Me on My Coding Journey",
-   "url": "https://dev.to/cassie_codes/-join-me-on-my-coding-journey-3d68",
-   "date": "2026-08-19T20:44:11+00:00",
-   "summary": "WHO  Hi, I'm Cassie!  I'm an aspiring front-end developer, lifelong learner, and someone who has...",
-   "points": 1,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Learning Python Loops as a Beginner: What I Finally Understood",
-   "url": "https://dev.to/iszy/learning-python-loops-as-a-beginner-what-i-finally-understood-3n3a",
-   "date": "2026-08-19T19:35:44+00:00",
-   "summary": "When I started learning Python, I understood variables, data types, conditionals, and functions. But...",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built a Live Multiplayer Game Where a Shared Multiplier Grows — Until It Collapses. Here's the Real-Time Architecture.",
-   "url": "https://dev.to/jacob_miller_6a433a011a83/i-built-a-live-multiplayer-game-where-a-shared-multiplier-grows-until-it-collapses-heres-the-1a78",
-   "date": "2026-08-19T18:53:42+00:00",
-   "summary": "Following up on my last post about iCourt — this time I want to walk through Pyramid, the flagship...",
-   "points": 1,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
    "url": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
    "date": "2026-08-19T14:24:07+00:00",
@@ -318,39 +371,6 @@
    "tech": "scratch",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
-   "lang": "en"
-  },
-  {
-   "title": "The Names Came In as Gibberish and Excel Said Nothing",
-   "url": "https://dev.to/michaelnocito/the-names-came-in-as-gibberish-and-excel-said-nothing-8gc",
-   "date": "2026-08-19T13:00:05+00:00",
-   "summary": "Why names import as gibberish: the file was written in UTF-8 and Excel read it as Western European. The signature, the File Origin fix, and why it is data loss.",
-   "points": 0,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built a Drag-and-Drop Kanban Board with Vanilla JavaScript",
-   "url": "https://dev.to/praise-04-dev/i-built-a-drag-and-drop-kanban-board-with-vanilla-javascript-j31",
-   "date": "2026-08-19T11:08:53+00:00",
-   "summary": "If you've ever wanted to understand how drag-and-drop actually works under the hood — no libraries,...",
-   "points": 2,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built an Expense Tracker with Vanilla JavaScript (No Frameworks, No Libraries)",
-   "url": "https://dev.to/praise-04-dev/i-built-an-expense-tracker-with-vanilla-javascript-no-frameworks-no-libraries-52he",
-   "date": "2026-08-19T10:48:06+00:00",
-   "summary": "As part of my \"one project a week\" roadmap toward becoming a software engineer, this week I built an...",
-   "points": 2,
-   "tech": "scratch",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -635,6 +655,16 @@
    "lang": "ar"
   },
   {
+   "title": "Scratch Tutorial for Beginners: Learn Scratch in 1 Hour",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82YWJlZS0yRHJLdkhtcm8tYW5hbDhqbzRIMHVtOFZkNGNoN0FmNlhrbVMydFVDWFBxaTJrby1TaW9Tc2tva29ZdEczZy04NEw0NmtDeElB?oc=5",
+   "date": "2025-02-24T05:30:10+00:00",
+   "summary": "Scratch Tutorial for Beginners: Learn Scratch in 1 Hour YouTube",
+   "tech": "scratch",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "How I Made A Laptop From Scratch - anyon_e",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSmtEWUVnQVFhdmZrTDdveFVTOTE5d3lqMVFWYWhPdTRPc3ljMFJoX09ETDlQVVhqM2tKSUFlc3ZSQ0VtbVpTaS1zR0ZpQ0dfZkl5Zmhn?oc=5",
    "date": "2025-01-22T20:37:26+00:00",
@@ -915,6 +945,16 @@
    "lang": "en"
   },
   {
+   "title": "11 Story Using Look Block | Programming For Kids Using Scratch",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sRUVRdXJ4STBPZmgyaFI5S01HTmFfb2FMVkxDZVNLOURIczN3OUVDeXpHUmU1aHN5WTB5LUhheW9fYy15cVhfQkNSR2FmV2IzY1N4VVpn?oc=5",
+   "date": "2023-11-16T14:05:01+00:00",
+   "summary": "11 Story Using Look Block | Programming For Kids Using Scratch YouTube",
+   "tech": "scratch",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "شرح سكراتش من الصفر | تعلم برنامج سكراتش | scratch",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50SUVRSWFXeC1RTFJmVTMzMndlRVRhbFlyRUVBVVJHd3FvWWpJRTNKbHFGZlppWV9FcDU1V3QydzA3a0Q3Q0w4dVRiNnI4SFJhd3ZWb2ZR?oc=5",
    "date": "2023-11-02T08:00:07+00:00",
@@ -1145,6 +1185,16 @@
    "lang": "ar"
   },
   {
+   "title": "نشاط رسم مستطيل بالاحداثيات (س وص) في سكراتش scratch - اقلب الجوال للمشاهدة 😎",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwRnNRcmlLOGhMSGx6bGtFaktROU1xRUVPY1J1b3hCLXpTOTBRcmFlVUlVVHJGeHZvWGEzT1UwMUJPOGRjRW44TnFiM2VmV2RoWUpnZg?oc=5",
+   "date": "2022-11-12T18:10:12+00:00",
+   "summary": "نشاط رسم مستطيل بالاحداثيات (س وص) في سكراتش scratch - اقلب الجوال للمشاهدة 😎 YouTube",
+   "tech": "scratch",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "شرح شامل لبرنامج سكراتش / عمل لعبة scratch 2023",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hRkJvQU9RX05XQzNFVGM2Q0kwbHg5cUdfTDRMLV9aaEZuWDJobGxLWWxNcW81OW1xLUZPbW9TdnhNUjI3cjFOZDlvYXZWbVFsMjJHUUxB?oc=5",
    "date": "2022-11-12T11:24:44+00:00",
@@ -1325,6 +1375,16 @@
    "lang": "ar"
   },
   {
+   "title": "برمجة لعبة Catch Game in scratch ( شرح بالتفصيل باللغة العربية)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51RnhwZWZhX0xWQmtkSTVfTWs5U0lKazZrdHh5R1lwNll0VnJUeTRST1R5SzFtUEhzNjNOaTVyeUY2dFJJRXk3bll1ekNiWmV5OV9fNXhn?oc=5",
+   "date": "2022-06-10T10:51:15+00:00",
+   "summary": "برمجة لعبة Catch Game in scratch ( شرح بالتفصيل باللغة العربية) YouTube",
+   "tech": "scratch",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Welcome to Scratch | Beginner Scratch Class | Lesson 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2YjNaTDVPWWxNQ3ZwSVhvY2NXRXhMTDBLZ3dPZVBsWkNnTnRsR3MzN01scTVpM1BQdEtiN0l2a0J0cFM5am8tZ2JNc2lYZGhTV28zTnZR?oc=5",
    "date": "2022-06-07T21:30:15+00:00",
@@ -1368,10 +1428,10 @@
    "title": "سكراتش - الدرس الثالث - أوامر البرمجة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWE02WU5jYW5HX2hHSHV6SnFIT3ByX18tTXdxcFhTZlNROG00S3kza1d0QzFRdjA4clZjM0M2Y2QtbE53cmxwT0JqNm1qWTZrZ3h0SVlB?oc=5",
    "date": "2022-03-18T02:54:48+00:00",
-   "summary": "سكراتش - الدرس الثالث - أوامر البرمجة youtube.com",
+   "summary": "سكراتش - الدرس الثالث - أوامر البرمجة YouTube",
    "tech": "scratch",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1685,6 +1745,16 @@
    "lang": "en"
   },
   {
+   "title": "طريقة تحميل وتثبيت برنامج سكراتش - How to install scratch",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lM3pFZkhkTF85ZGlmVjJ3ZmdPay1acHlidllZYkpMa09MTkVoQXUzSFZMWUdOaXo4LUNhOHg4dldWM09ONU9sR1dZalllb1h4LVFqRjlR?oc=5",
+   "date": "2021-09-10T23:18:16+00:00",
+   "summary": "طريقة تحميل وتثبيت برنامج سكراتش - How to install scratch YouTube",
+   "tech": "scratch",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Arduino Tutorials for Beginners -Class 1| Arduino Uno for Beginners | Arduino with Scratch/PictoBlox",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82NHNEa2V3LWphLWlHOFZYT2FFLUVTZzl1dVVDcEEyUUlqb1Z3QXZpbzhPOE1KeFUyMFNoNjVlWWtFeVpXTzl1Y21ENlMtRnlLVlBTLThB?oc=5",
    "date": "2021-08-31T14:00:21+00:00",
@@ -1713,6 +1783,16 @@
    "sourceId": "yt",
    "source": "YouTube",
    "lang": "en"
+  },
+  {
+   "title": "سكراتش | برمجة محادثة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XakZIUGJ0RG5uV0NEMGdNWHBIZU55Z19Rbm14QnpYRDVEbVRKVGgyUGo2OHFMLVpEYlFKQndnekNDalNURWxjQ1JXRUNHMUh1aDFNTTd3?oc=5",
+   "date": "2021-08-16T13:44:46+00:00",
+   "summary": "سكراتش | برمجة محادثة YouTube",
+   "tech": "scratch",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Code a Fun Space Shooter Game 🚀 | 1. Move & Shoot | Scratch Tutorial",
@@ -2095,46 +2175,6 @@
    "lang": "ar"
   },
   {
-   "title": "Scratch 3.0 Review",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVRGhfWkZkZ0ppX3ZoakUwQVA2TXByOFZvTHN1SGs4UVVnWlBUS2hibmtCWGtITExiQnNBSmFDNnJCU2syaGFsT0VuekExSkg3S3hPaTh3?oc=5",
-   "date": "2020-09-23T09:21:38+00:00",
-   "summary": "Scratch 3.0 Review YouTube",
-   "tech": "scratch",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Coding for Beginners - Class 7 | Maze Game in Scratch (English)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qNlA2bEVpaU9ROWVqeXNtZTF2bnFzX01fTzU3NmRnQ3hjOXIzY3VGTlgtdld0RkJvYmJRV1ViMDFQOUNFNnRLLXVIbW55MjlqU25NemZn?oc=5",
-   "date": "2020-09-20T07:51:14+00:00",
-   "summary": "Coding for Beginners - Class 7 | Maze Game in Scratch (English) YouTube",
-   "tech": "scratch",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Lecture: 09 | MAKE CAT FLYING GAME IN SCRATCH | Game Development | Scratch Tutorial",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82amE1VlJBSFNxVXZ5ODA0aGNfa3BNbVZZZnJTcjRSalNYRXc0SS1OVUJSNTRlb2FzN3JGdUs0TkpOaDdfQWhtbTZzdWtTbDRxT1B0OEN3?oc=5",
-   "date": "2020-09-05T09:30:12+00:00",
-   "summary": "Lecture: 09 | MAKE CAT FLYING GAME IN SCRATCH | Game Development | Scratch Tutorial YouTube",
-   "tech": "scratch",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "What is Scratch Programming? - Easy Block Coding Language for Kids Ages 8+ | Start Learning Coding!",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GdUhwOUlEcm94VVJsLUhGWWdObzF2dmd3NzF1RFF3VFVsamtUQktwTy1yRTBGbERDUXR2Q1lLQ3JRMkUtX0QzS2tvX2h2aU13YXAzbENn?oc=5",
-   "date": "2020-08-31T22:00:04+00:00",
-   "summary": "What is Scratch Programming? - Easy Block Coding Language for Kids Ages 8+ | Start Learning Coding! YouTube",
-   "tech": "scratch",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "شرح برنامج سكراتش Scratch | برمجة للأطفال خطوة بخطوة لعبة باك مان الشهيرة #الدرس_السابع",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSFdSc3RmNmNlZ2RXamtsc0ZmWS1uM1E2a0dZN1VLRWl1SjRDUWEyQkx2YlhNRFA5NkN5V0VfRjVnRmVUaDlNXzlwNGtsSjE2akZGZFhR?oc=5",
    "date": "2020-07-07T19:00:53+00:00",
@@ -2149,6 +2189,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZTmRJd3JILVF6TGtpR3JjYkVEeFM3d2VUY3lEaXFKZFBPVUxXRUl1SmZwZ0k4cFVhN1R0MVAzNHdRM2JmUlYwQXUyRExGb3lKLXZfanJR?oc=5",
    "date": "2020-07-01T18:17:23+00:00",
    "summary": "شرح برنامج سكراتش Scratch | برمجة للأطفال خطوة بخطوة لعمل ألعاب وقصص ورسوم متحركة #الدرس_السادس YouTube",
+   "tech": "scratch",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "عمل main menu في لعبتك في 5 دقائق😰 ب scratch 3 - سكراتش",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTy11d3lvNXFvWkk5MEhMUmlTb0g4TGZ0d2Jha0MyeTVpN09KdV9iWU9jTDZTbU1lUl85V0c2a2Z5MVhqYy1oX3pmMlBxYk43cGctajlR?oc=5",
+   "date": "2020-05-07T20:25:51+00:00",
+   "summary": "عمل main menu في لعبتك في 5 دقائق😰 ب scratch 3 - سكراتش YouTube",
    "tech": "scratch",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2179,56 +2229,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5Z2l6T0pHaGV5cm5yMlUxc3cyY2tCX0EwNFE2YnVmakJIOWducHY0VXM0ZllSUWVuRXc1aG1GdXBXSjlRNlUtY29BeV92NnVwdmlWdnR3?oc=5",
    "date": "2020-03-31T19:00:20+00:00",
    "summary": "علم طفلك البرمجة بسهولة بإستخدام سكراتش - مقدمة عن الكورس Programming for kids by scratch intro YouTube",
-   "tech": "scratch",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "سلسلة تعليم سكراتش |ح2| مكونات الشاشة الرئيسية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXNDFoMV84R1lVNHVybzVOM2ZZTEhfN3RNcGxMZHVOMm5XSE9sajhFME83Tm4xaEJfaF9uNTZQalFRUFdnTWJPWkxRQTZJTkVSTTJ2NU1R?oc=5",
-   "date": "2020-03-07T09:08:39+00:00",
-   "summary": "سلسلة تعليم سكراتش |ح2| مكونات الشاشة الرئيسية YouTube",
-   "tech": "scratch",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "برمجة ألعاب | لعبة تحريك الكائن بشكل عشوائي في سكراتش",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92YTJ5bGRiN0loRXIyeHg0VzV3ZFJIVGJVc0ZDZ3hma1h3TFVQVWhWZjJRajFQbFZFZmEyYUFsc283eWltMS1HaHBrWXJfNjIzZlg5QXR3?oc=5",
-   "date": "2019-09-24T11:44:13+00:00",
-   "summary": "برمجة ألعاب | لعبة تحريك الكائن بشكل عشوائي في سكراتش YouTube",
-   "tech": "scratch",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح لبنة قل مرحبا لمدة 2 ثانية في السكراتش",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzSVNrMEQxWGg3dzlVLVVDOGZQZFdOZW1xaFlNbjgyY0VrWVZnM1JMWUgtdXpJb0lJVzlCVG1UZ05BVURILXRlRjBkQ1ZRdGpKdW1KUzdn?oc=5",
-   "date": "2019-09-13T05:38:21+00:00",
-   "summary": "شرح لبنة قل مرحبا لمدة 2 ثانية في السكراتش YouTube",
-   "tech": "scratch",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تعليم البرمجة للأطفال و للمبتدئين باستخدام لغة سكراتش Scratch ومبادئ لغة جافا",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sOFpyVENiYU5jMlFxamViV3QzajkzMFNtdzFqYXloVExiQWZSMjBmc3ZUWWNxRzZSY3FPclJlWFRfb0c2cGRCdkdodVNXMk9zTkVZdXFB?oc=5",
-   "date": "2019-09-10T19:18:12+00:00",
-   "summary": "تعليم البرمجة للأطفال و للمبتدئين باستخدام لغة سكراتش Scratch ومبادئ لغة جافا YouTube",
-   "tech": "scratch",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح طريقة مشاركة العابك مع الاصدقاء على موقع سكراتش",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RaEVMaDBiSW5lbGdYdVNaZFgydkl6c18teGpkU1NCQk5PTTdhS3Npdk56dzRwRzlFT1MtemM3b1A1akJfNGVtQ2I2WFc4dUI4MlpXLUx3?oc=5",
-   "date": "2019-03-06T11:56:34+00:00",
-   "summary": "شرح طريقة مشاركة العابك مع الاصدقاء على موقع سكراتش YouTube",
    "tech": "scratch",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,8 +1,355 @@
 {
- "generated": "2026-08-21T05:05:28.430644+00:00",
+ "generated": "2026-08-22T04:21:18.388704+00:00",
  "tech": "cyber",
  "count": 220,
  "items": [
+  {
+   "title": "Pentest vs VAPT vs Code Audit: What Are You Actually Paying For?",
+   "url": "https://medium.com/@SdxShadowlabs/pentest-vs-vapt-vs-code-audit-what-are-you-actually-paying-for-6892139dc1e6?source=rss------cybersecurity-5",
+   "date": "2026-08-22T03:58:04+00:00",
+   "summary": "Imagine you&#x2019;re buying a house. One inspector walks around the outside, checks the doors, jiggles the windows, and tells you which ones&#x2026; Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "We created a tool that diagnoses website security vulnerabilities in just 10 seconds and gives you…",
+   "url": "https://medium.com/@leegoheun9/we-created-a-tool-that-diagnoses-website-security-vulnerabilities-in-just-10-seconds-and-gives-you-412a87668636?source=rss------cybersecurity-5",
+   "date": "2026-08-22T03:00:06+00:00",
+   "summary": "Hello, I am an entrepreneur developing products as a one-person maker. Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "You’re Probably Making These Simple Security Mistakes Every Day",
+   "url": "https://medium.com/@python-ai/youre-probably-making-these-simple-security-mistakes-every-day-bae516d44f8c?source=rss------cybersecurity-5",
+   "date": "2026-08-22T02:31:01+00:00",
+   "summary": "You don&#x2019;t need advanced cybersecurity skills to protect yourself online. These small habits take minutes to adopt and can prevent&#x2026; Continue reading on Medium »",
+   "tech": "cyber",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Three Russian-Linked Clusters Abuse Legitimate Authentication Flows",
+   "url": "https://dev.to/anoymask/three-russian-linked-clusters-abuse-legitimate-authentication-flows-4h0b",
+   "date": "2026-08-22T01:59:21+00:00",
+   "summary": "1. Basic Information     Article Title: Going with the Flow(s): Distinct Clusters Target...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SynkLoader Deploying Multi-Stage Modules via Teams Phishing",
+   "url": "https://dev.to/anoymask/synkloader-deploying-multi-stage-modules-via-teams-phishing-1cal",
+   "date": "2026-08-22T01:59:00+00:00",
+   "summary": "1. Basic Information     Article Title: SynkLoader: when you throw in everything but the...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "JavaScript Sandbox Escape via Type Confusion in isolated-vm",
+   "url": "https://dev.to/anoymask/javascript-sandbox-escape-via-type-confusion-in-isolated-vm-4op9",
+   "date": "2026-08-22T01:18:28+00:00",
+   "summary": "1. Basic Information     Article Name: GHSA-864f-rcv7-6rh4: Critical Type Confusion...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bridge-Wrapped Tokens — Who Actually Holds the Keys to Your Asset?",
+   "url": "https://dev.to/verixia_233e4721792ce3390/bridge-wrapped-tokens-who-actually-holds-the-keys-to-your-asset-47k1",
+   "date": "2026-08-22T00:03:21+00:00",
+   "summary": "HostDeFi HostDeFi › Guides › Bridge-wrapped token custody risk  The \"ETH\" in your Solana wallet isn't...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CVE-2026-68508: CVE-2026-68508: Arbitrary Code Execution via Unsafe Dynamic Instantiation in Hydra Core",
+   "url": "https://dev.to/cverports/cve-2026-68508-cve-2026-68508-arbitrary-code-execution-via-unsafe-dynamic-instantiation-in-hydra-356",
+   "date": "2026-08-21T23:31:01+00:00",
+   "summary": "CVE-2026-68508: Arbitrary Code Execution via Unsafe Dynamic Instantiation in Hydra...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "keybound: auditoria de aislamiento de prompt cache en relays LLM multi-tenant",
+   "url": "https://dev.to/magopredator/keybound-auditoria-de-aislamiento-de-prompt-cache-en-relays-llm-multi-tenant-2pfe",
+   "date": "2026-08-21T22:33:56+00:00",
+   "summary": "keybound: auditoría de aislamiento de prompt cache en relays LLM multi-tenant    Una...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Agentic AI Feels Like the Internet in 1998: Powerful, Exciting, and Full of Risks We Don't Yet Understand",
+   "url": "https://dev.to/michaelbutak/agentic-ai-feels-like-the-internet-in-1998-powerful-exciting-and-full-of-risks-we-dont-yet-51cb",
+   "date": "2026-08-21T21:44:21+00:00",
+   "summary": "OWASP Top 10 for Agentic Applications for 2026 - OWASP Gen AI Security Project   If you haven't read...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How AI Models Can Leak the Data They Were Trained On",
+   "url": "https://dev.to/theaidownside/how-ai-models-can-leak-the-data-they-were-trained-on-4i67",
+   "date": "2026-08-21T21:43:24+00:00",
+   "summary": "AI models memorise fragments of their training data and can be prompted to reproduce them, turning membership inference and data extraction into a genuine privacy risk. Here is how",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Security news weekly round-up - 21st August 2026",
+   "url": "https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44",
+   "date": "2026-08-21T21:08:13+00:00",
+   "summary": "Learn about the top cybersecurity news between August 14, 2026, and August 21, 2026. Read now and increase your cybersecurity knowledge.",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide",
+   "url": "https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip",
+   "date": "2026-08-21T20:46:06+00:00",
+   "summary": "A complete, end-to-end authentication flow for React + Spring Boot: login, token issuance, secure storage, protected routes, token refresh, and logout.",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GHSA-8HGV-XC77-JMCR: GHSA-8HGV-XC77-JMCR: Privilege Escalation to Super-Admin via Twig Sandbox Escape and Stored XSS in Grav CMS Assets",
+   "url": "https://dev.to/cverports/ghsa-8hgv-xc77-jmcr-ghsa-8hgv-xc77-jmcr-privilege-escalation-to-super-admin-via-twig-sandbox-53g2",
+   "date": "2026-08-21T20:30:32+00:00",
+   "summary": "GHSA-8HGV-XC77-JMCR: Privilege Escalation to Super-Admin via Twig Sandbox Escape and Stored...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.",
+   "url": "https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm",
+   "date": "2026-08-21T20:07:21+00:00",
+   "summary": "You scan your application code. You scan your dependencies. You scan your containers.  You have never...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Defender's Own BTR.sys Driver Can Delete Your EDR During Boot",
+   "url": "https://dev.to/etairos/defenders-own-btrsys-driver-can-delete-your-edr-during-boot-1p5m",
+   "date": "2026-08-21T20:06:53+00:00",
+   "summary": "TL;DR     what: Check Point Research disclosed BTR Reforged, a technique that loads...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Shipped a Security Product I Cannot Fully Audit",
+   "url": "https://dev.to/sangyeonpark/i-shipped-a-security-product-i-cannot-fully-audit-47ji",
+   "date": "2026-08-21T19:32:57+00:00",
+   "summary": "That is the uncomfortable part. It is also the argument.  I write commercial copy for a living. I...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your AI Assistant Ships Insecure Code Almost Half the Time. Catching It in Review Is Too Late.",
+   "url": "https://dev.to/sangyeonpark/your-ai-assistant-ships-insecure-code-almost-half-the-time-catching-it-in-review-is-too-late-4ml",
+   "date": "2026-08-21T19:24:32+00:00",
+   "summary": "By Sangyeon Park — creator of Cencurity, an open-source security gateway for LLM coding agents  In...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "📝 Growing pytest into an “Incident Prevention Log” — Stage 3: Authentication, CSRF, and Access Control (51 69 Tests)",
+   "url": "https://dev.to/tosane932/growing-pytest-into-an-incident-prevention-log-stage-3-authentication-csrf-and-access-5gi2",
+   "date": "2026-08-21T19:02:46+00:00",
+   "summary": "Stage 3 of my pytest series: adding single-admin authentication, CSRF protection, access control, and CI checks while growing the suite from 51 to 69 tests.",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Your Multisig Threshold Actually Protects",
+   "url": "https://dev.to/0xrivet/what-your-multisig-threshold-actually-protects-4jd",
+   "date": "2026-08-21T18:45:11+00:00",
+   "summary": "I've been digging into multisig configurations for bridge and protocol security reviews. The...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "MyZubster Update: Comics, the Time Machine and a Decentralized Onion Architecture",
+   "url": "https://dev.to/danielioni/myzubster-update-comics-the-time-machine-and-a-decentralized-onion-architecture-32o8",
+   "date": "2026-08-21T18:38:29+00:00",
+   "summary": "MyZubster Update: Comics, the Time Machine and a Decentralized Onion Architecture   A lot...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cifrado híbrido: por qué combinar criptografía clásica y post-cuántica",
+   "url": "https://dev.to/isazajuancarlos/cifrado-hibrido-por-que-combinar-criptografia-clasica-y-post-cuantica-3k69",
+   "date": "2026-08-21T18:25:21+00:00",
+   "summary": "Qué es el cifrado híbrido, por qué combinar X25519 con ML-KEM-1024 (y Ed25519 con ML-DSA-87) es más seguro que elegir uno solo, y cómo lo aplica Quipu.",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Stopped Sharing Servers With Strangers",
+   "url": "https://dev.to/dhruv_malaviya_cdcc71e595/i-stopped-sharing-servers-with-strangers-3dcf",
+   "date": "2026-08-21T16:32:27+00:00",
+   "summary": "I used to not think about who else was running on my host.  Then one day it hit me: my VPS, my...",
+   "points": 1,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Burp Suite: What It Is, Why We Use It, and How It Works",
+   "url": "https://dev.to/lokesh_kannan_48aa8ec76d5/burp-suite-what-it-is-why-we-use-it-and-how-it-works-1f7c",
+   "date": "2026-08-21T16:31:56+00:00",
+   "summary": "When learning web application security, one of the most important tools to understand is Burp...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RinHit: Drilling into the macOS Ecosystem for Red Team Reconnaissance",
+   "url": "https://dev.to/toxy4ny/rinhit-drilling-into-the-macos-ecosystem-for-red-team-reconnaissance-4g47",
+   "date": "2026-08-21T15:37:52+00:00",
+   "summary": "\"How we built an open-source macOS reconnaissance framework that turns Wi-Fi artifacts, Bluetooth...",
+   "points": 2,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Fantastic resource. Treating API keys like passwords—rotation, secure storage, least privilege—is simple advice that prevents massive breaches. The OWASP framework gives it authority, and the practical steps make it easy to implement.",
+   "url": "https://dev.to/sadique_anwar_b90373bc79c/fantastic-resource-treating-api-keys-like-passwords-rotation-secure-storage-least-privilege-is-1m6h",
+   "date": "2026-08-21T14:16:31+00:00",
+   "summary": "OWASP API Key Management Best Practices Secrets Guide                                          ...",
+   "points": 1,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "IDOR in PHP and Laravel — When Changing One Number Exposes Someone Else's Data",
+   "url": "https://dev.to/kriosa/idor-in-php-and-laravel-when-changing-one-number-exposes-someone-elses-data-2l6m",
+   "date": "2026-08-21T13:58:19+00:00",
+   "summary": "This is the fifteenth article in a series on PHP and Laravel application security.  So far we have...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "IA na Perícia Digital: Analise Terabytes de Dados em Tempo Recorde",
+   "url": "https://dev.to/andr_diasmoreiraprol_b/ia-na-pericia-digital-analise-terabytes-de-dados-em-tempo-recorde-2hhh",
+   "date": "2026-08-21T13:02:22+00:00",
+   "summary": "Imagine ter que analisar manualmente o conteúdo de 500 notebooks, 2.000 celulares e centenas de...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "GHSA-5CWR-5JXG-PCF6: GHSA-5CWR-5JXG-PCF6: Stored Cross-Site Scripting via Improper Cache Sanitization in Winter CMS Custom Styles",
+   "url": "https://dev.to/cverports/ghsa-5cwr-5jxg-pcf6-ghsa-5cwr-5jxg-pcf6-stored-cross-site-scripting-via-improper-cache-5997",
+   "date": "2026-08-21T10:31:56+00:00",
+   "summary": "GHSA-5CWR-5JXG-PCF6: Stored Cross-Site Scripting via Improper Cache Sanitization in Winter...",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Admin Keys, Phishing, and DNS: The New Front Line of Crypto Security",
+   "url": "https://hackernoon.com/admin-keys-phishing-and-dns-the-new-front-line-of-crypto-security?source=rss",
+   "date": "2026-08-21T08:57:22+00:00",
+   "summary": "Crypto losses fell in H1 2026, but attacks reached a record. Learn why admin keys, phishing, DNS, credentials, & governance are becoming critical security risks",
+   "tech": "cyber",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "AI Agent Hacks Gym Waitlist, Tech World Reacts",
+   "url": "https://dev.to/10x/ai-agent-hacks-gym-waitlist-tech-world-reacts-4lhc",
+   "date": "2026-08-21T07:12:35+00:00",
+   "summary": "A Claude AI agent infiltrated a gym's reservation system to boost its boss on a class waitlist, igniting industry debate on AI security and governance.",
+   "points": 0,
+   "tech": "cyber",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "كورس اختبار الاختراق الشامل | شهادة eJPT | مجاني 12 ساعة",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yTTNnX01CWVJWSHJ6dkhsc243ZTVSZU85dlhzWlJTR2NvWmNhQUMxeVpXMjl4TWdoM3JFRG5vcHpFSUpvRVJhdjNLUy0wX3lHWFZKZGdR?oc=5",
+   "date": "2026-08-21T05:15:29+00:00",
+   "summary": "كورس اختبار الاختراق الشامل | شهادة eJPT | مجاني 12 ساعة YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
   {
    "title": "Active Directory",
    "url": "https://sobanmalikk.medium.com/active-directory-ac0f6045f90f?source=rss------cybersecurity-5",
@@ -67,94 +414,6 @@
    "lang": "en"
   },
   {
-   "title": "Vulnerability advisories grew 2.3x-6.6x in 5 years; open-source tool count stayed flat",
-   "url": "https://dev.to/hamelin123/vulnerability-advisories-grew-23x-66x-in-5-years-open-source-tool-count-stayed-flat-4a5m",
-   "date": "2026-08-21T03:33:57+00:00",
-   "summary": "We bucketed every advisory in OSV.dev's public per-ecosystem archives by its record-publication year...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "MLflow CVE-2026-64849: Cloud Credential Theft via Webhook SSRF",
-   "url": "https://dev.to/anoymask/mlflow-cve-2026-64849-cloud-credential-theft-via-webhook-ssrf-2j",
-   "date": "2026-08-21T02:48:58+00:00",
-   "summary": "1. Basic Information     Article Title: Unauthenticated SSRF in MLflow Webhooks  Publisher:...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "UAT-10147 AI-Assisted Intrusion and SPECTRE Malware",
-   "url": "https://dev.to/anoymask/uat-10147-ai-assisted-intrusion-and-spectre-malware-3ej",
-   "date": "2026-08-21T02:48:46+00:00",
-   "summary": "1. Basic Information     Article Title: UAT-10147: A Chinese-speaking adversary integrates...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Manic Android Malware: Information Theft via Transparent Overlays and Short-Range Device Relaying",
-   "url": "https://dev.to/anoymask/manic-android-malware-information-theft-via-transparent-overlays-and-short-range-device-relaying-193a",
-   "date": "2026-08-21T02:48:35+00:00",
-   "summary": "1. Basic Information     Article Title: Manic: A blend between banking malware and...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Zimbra CVE-2026-73570: Unauthenticated Command Injection via SMTP",
-   "url": "https://dev.to/anoymask/zimbra-cve-2026-73570-unauthenticated-command-injection-via-smtp-kl4",
-   "date": "2026-08-21T02:48:23+00:00",
-   "summary": "1. Basic Information     Article Title: Actively exploited vulnerability in Zimbra...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "SilkParasite: Cloud C2 and Multi-Language RATs Targeting Central Asia",
-   "url": "https://dev.to/anoymask/silkparasite-cloud-c2-and-multi-language-rats-targeting-central-asia-1ikl",
-   "date": "2026-08-21T02:48:10+00:00",
-   "summary": "1. Basic Information     Article Title: SilkParasite: Tracking a China-Nexus APT Across...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Running third-party ads on a site with a strict CSP (without weakening the CSP)",
-   "url": "https://dev.to/hblai_filmlook/running-third-party-ads-on-a-site-with-a-strict-csp-without-weakening-the-csp-33l2",
-   "date": "2026-08-21T02:22:57+00:00",
-   "summary": "My static site had a deliberately tight Content-Security-Policy: default-src 'self', a short...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Is a Vulnerability, Really? Source, Sink, and Taint",
-   "url": "https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75",
-   "date": "2026-08-20T20:22:58+00:00",
-   "summary": "Two Java methods. One of them will let an attacker delete your entire products table. The other is...",
-   "points": 9,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Airlock Digital Completes Independent IRAP Assessment at the PROTECTED Level",
    "url": "https://hackernoon.com/airlock-digital-completes-independent-irap-assessment-at-the-protected-level?source=rss",
    "date": "2026-08-20T19:08:45+00:00",
@@ -165,47 +424,13 @@
    "lang": "en"
   },
   {
-   "title": "One rented /24 could eclipse a Kademlia node. Now it takes ten.",
-   "url": "https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p",
-   "date": "2026-08-20T18:56:59+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           The...",
-   "points": 7,
+   "title": "Best Free Cyber Security Courses for 2026: Top 7 Free Cybersecurity Certification Programs in 2026",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01bWZiSnAwTEFaaExHa3kxaExJRTBhRUpPR2VOaG1pQWExRXhHY2tmbzkyWk15RFNrZzhfUmVPemRuNHd5czJLMlZTRE80ckNtdllRYkJR?oc=5",
+   "date": "2026-08-20T15:00:34+00:00",
+   "summary": "Best Free Cyber Security Courses for 2026: Top 7 Free Cybersecurity Certification Programs in 2026 YouTube",
    "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p",
-   "url": "https://dev.to/yashksaini/the-sdp-endpoint-that-trusted-its-callers-fixing-a-memory-amplification-dos-in-py-libp2p-3g2e",
-   "date": "2026-08-20T18:56:05+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-   "points": 7,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your agent isn't reckless. It just can't see the blast radius.",
-   "url": "https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj",
-   "date": "2026-08-20T18:29:21+00:00",
-   "summary": "I've been running Claude Code as a daily driver for about three months now. It writes Ansible I'd...",
-   "points": 5,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Solving Gradle metadata and Renovate integration",
-   "url": "https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a",
-   "date": "2026-08-20T09:02:00+00:00",
-   "summary": "My current company has settled on using Gradle. It doesn't make me very happy, but you need to learn...",
-   "points": 6,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -236,171 +461,6 @@
    "tech": "cyber",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Rust has 1,332 vulnerability advisories for every open-source scanner. Dart has zero scanners.",
-   "url": "https://dev.to/hamelin123/rust-has-1332-vulnerability-advisories-for-every-open-source-scanner-dart-has-zero-scanners-1p49",
-   "date": "2026-08-20T03:38:49+00:00",
-   "summary": "We keep hearing that dependency scanning is a solved problem — pick a tool, wire it into CI, done....",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-   "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
-   "date": "2026-08-20T02:13:13+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  I maintain a small...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Two Verifiers, One Verdict: Closing the 'Self-Reported Exit Code' Hole",
-   "url": "https://dev.to/dengyier/two-verifiers-one-verdict-closing-the-self-reported-exit-code-hole-1cmd",
-   "date": "2026-08-20T02:11:03+00:00",
-   "summary": "An agent says 'tests all green'. Another agent says 'I reviewed it — it's fine.' Two independent executions, two keys, one verdict — or no decision at all. OpenWorkProof v0.5's dual-verifier cross-validation, built in 7 ",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6",
-   "url": "https://dev.to/anoymask/lshiy-large-scale-password-spraying-abusing-ropc-and-ipv6-26cb",
-   "date": "2026-08-20T01:20:55+00:00",
-   "summary": "LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6            1. Basic...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Operation CameraSwarm: Over 14,000 Dahua Cameras Compromised via Three Attack Vectors",
-   "url": "https://dev.to/anoymask/operation-cameraswarm-over-14000-dahua-cameras-compromised-via-three-attack-vectors-5d77",
-   "date": "2026-08-20T01:20:43+00:00",
-   "summary": "Operation CameraSwarm: Over 14,000 Dahua Cameras Compromised via Three Attack Vectors       ...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Permission Audit CLI: Find World-Writable Files in Python",
-   "url": "https://dev.to/poolion/permission-audit-cli-find-world-writable-files-in-python-2poh",
-   "date": "2026-08-20T01:20:30+00:00",
-   "summary": "Permission Audit CLI: A Minimal Tool for Security Reviews and Compliance Checks   Security...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Active Exploitation of Windows IKE Extension RCE (CVE-2026-33824)",
-   "url": "https://dev.to/anoymask/active-exploitation-of-windows-ike-extension-rce-cve-2026-33824-1i2m",
-   "date": "2026-08-20T01:20:18+00:00",
-   "summary": "Active Exploitation of Windows IKE Extension RCE (CVE-2026-33824)            1. Basic...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI-Generated Attack Tools Targeting Siemens S7 PLCs",
-   "url": "https://dev.to/anoymask/ai-generated-attack-tools-targeting-siemens-s7-plcs-g63",
-   "date": "2026-08-20T01:12:05+00:00",
-   "summary": "AI-Generated Attack Tools Targeting Siemens S7 PLCs            1. Basic...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Unguarded, Sonnet 5 read another customer's order 100/100 times. Guarded: zero.",
-   "url": "https://dev.to/fissible/unguarded-sonnet-5-read-another-customers-order-100100-times-guarded-zero-1mf5",
-   "date": "2026-08-20T00:35:41+00:00",
-   "summary": "I ran the same storefront attacks against three models — one with its safety training deliberately...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built an AI Code Reviewer. Then OWASP Broke It.",
-   "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
-   "date": "2026-08-19T22:57:14+00:00",
-   "summary": "Most AI coding tools are very good at helping developers write code.  But I wanted to explore a...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "CVE-2026-63123: CVE-2026-63123: Cross-Site Request Forgery leading to Cross-Origin Arbitrary File Write in @tinacms/cli",
-   "url": "https://dev.to/cverports/cve-2026-63123-cve-2026-63123-cross-site-request-forgery-leading-to-cross-origin-arbitrary-file-2ada",
-   "date": "2026-08-19T22:30:30+00:00",
-   "summary": "CVE-2026-63123: Cross-Site Request Forgery leading to Cross-Origin Arbitrary File Write in...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "5 Laravel Authorization Problems You're Probably Facing (And How to Solve Them in 2026)",
-   "url": "https://dev.to/hosseinhezami/5-laravel-authorization-problems-youre-probably-facing-and-how-to-solve-them-in-2026-11la",
-   "date": "2026-08-19T21:20:35+00:00",
-   "summary": "TL;DR: Most Laravel apps hit the same 5 authorization walls as they grow — role explosion, exception...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Grading Security Headers Isn't the Full Picture",
-   "url": "https://dev.to/josejux/grading-security-headers-isnt-the-full-picture-1gpm",
-   "date": "2026-08-19T21:01:39+00:00",
-   "summary": "A few days ago someone left a comment on my last post about grading security headers...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Most Advanced Laravel Permission Manager: Enterprise Authorization Engine with RBAC, ABAC, Role Hierarchy & Multi-Tenancy",
-   "url": "https://dev.to/hosseinhezami/the-most-advanced-laravel-permission-manager-enterprise-authorization-engine-with-rbac-abac-role-30n6",
-   "date": "2026-08-19T20:53:21+00:00",
-   "summary": "A complete, production-ready authorization platform for Laravel — combining RBAC, ABAC, Role...",
-   "points": 1,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Five US Agencies Warn: AI-Generated Python Scripts Are Probing Siemens S7 PLCs",
-   "url": "https://dev.to/etairos/five-us-agencies-warn-ai-generated-python-scripts-are-probing-siemens-s7-plcs-4mom",
-   "date": "2026-08-19T20:05:21+00:00",
-   "summary": "TL;DR     what: NSA, CISA, FBI, the Department of Energy and the EPA jointly warned on...",
-   "points": 0,
-   "tech": "cyber",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -545,26 +605,6 @@
    "lang": "en"
   },
   {
-   "title": "I Built 3 Python Security Tools in a Month. Here’s What I Actually Learned.",
-   "url": "https://medium.com/@chandeshgunawardena/i-built-3-python-security-tools-in-a-month-heres-what-i-actually-learned-175eec925b1a?source=rss------cybersecurity-5",
-   "date": "2026-08-17T03:54:50+00:00",
-   "summary": "From manual QA tester to writing my own recon and security tooling &#x2014; a practical breakdown of what I built, why, and what surprised me. Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Two Security Vulnerabilities in Joomla! — CVE-2026–48901 & CVE-2026–48902",
-   "url": "https://0xjacks.medium.com/two-security-vulnerabilities-in-joomla-cve-2026-48901-cve-2026-48902-3b4b151a10dc?source=rss------cybersecurity-5",
-   "date": "2026-08-17T03:34:14+00:00",
-   "summary": "Alhamdulillah &#x2764;&#xFE0F; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Coldcard’s Entropy Bug Exposed a Hidden Weakness in Hardware Wallet Security",
    "url": "https://hackernoon.com/coldcards-entropy-bug-exposed-a-hidden-weakness-in-hardware-wallet-security?source=rss",
    "date": "2026-08-16T09:24:13+00:00",
@@ -572,16 +612,6 @@
    "tech": "cyber",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Free Kali Linux Course in India (2026): Complete Beginner’s Learning Guide",
-   "url": "https://bevijaygupta.medium.com/free-kali-linux-course-in-india-2026-complete-beginners-learning-guide-690247bdb788?source=rss------cybersecurity-5",
-   "date": "2026-08-16T04:31:07+00:00",
-   "summary": "Cybersecurity has become one of the fastest-growing career paths in India. With rising digital adoption, increasing cyberattacks, and&#x2026; Continue reading on Medium »",
-   "tech": "cyber",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -872,6 +902,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "هل الذكاء الاصطناعي يقدر يخترق بنك؟ جربت 6 نماذج ذكاء اصطناعي لاختراق موقع بنكي (تجربة عملية كاملة)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80dTkxTEdNNFdubENSVjZxWEJ4SG1nblZrOHBNYjhpOXBlWTFSM3k3TnlyWTVPX1lrUmFPaUF4R3ZURXEwb2J6ekUzSEFiQ21say05TjRB?oc=5",
+   "date": "2026-02-26T19:00:00+00:00",
+   "summary": "هل الذكاء الاصطناعي يقدر يخترق بنك؟ جربت 6 نماذج ذكاء اصطناعي لاختراق موقع بنكي (تجربة عملية كاملة) YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Cyber Security Full Course Free 2026 | Cyber Security Course For Beginners | Intellipaat",
@@ -1850,10 +1890,20 @@
    "title": "تكنيك اختراق السيرفرات الأسرع | تدريب عملي على شركة - غرفة العمليات",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3ekRmU0dfLXhzWEx5ZmRlV0ItZ01LS1prazF6Z3laZTRYWUs3UDQ2cFFXRnhTc3BKcVZkWFpZOXFnQVdWSWQtWDF2VVRRa0VYcTBqeFV3?oc=5",
    "date": "2024-06-11T17:00:25+00:00",
-   "summary": "تكنيك اختراق السيرفرات الأسرع | تدريب عملي على شركة - غرفة العمليات youtube.com",
+   "summary": "تكنيك اختراق السيرفرات الأسرع | تدريب عملي على شركة - غرفة العمليات YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "5 - كورس أمن المعلومات باللغة العربية | Metasploit VS Metasploitable",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUc3V1WENrbHRWRFJncnNJdHloVkN6QjR2LWprU2ZQWG5MTS12dXBaaU1YcUdrLXBLYmJaRE85bWw0ZUNobzROTGRMYUNMcVMzNjZsYzZ3?oc=5",
+   "date": "2024-06-05T00:33:07+00:00",
+   "summary": "5 - كورس أمن المعلومات باللغة العربية | Metasploit VS Metasploitable YouTube",
+   "tech": "cyber",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -1875,26 +1925,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Real World Windows Pentest Tutorial (demos of Top 5 Active Directory hacks)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mTHR5WkprZVFzWFE5dVpTOFd5UVJ2LTFpWXdtVTJmOHM3eXp2MEEwcjJzXzdFTnkzb1VoQk4tdmwyN0lhMVRFT1RTTzJ1cjdiYVUtTU53?oc=5",
-   "date": "2024-04-28T13:30:05+00:00",
-   "summary": "Real World Windows Pentest Tutorial (demos of Top 5 Active Directory hacks) YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Cyber Security Full Course 2026 | Cyber Security Course Training For Beginners 2026 | Simplilearn",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuOWk2WEZjZDI1RUdHM3B3cVh1anRTZTV6YS1LN1J1bm83WkhydVo3UE5ad3BRSzgxN1l2bm96UFlocFNDRzZmSEpmZXF2TjFPaGhiRlNn?oc=5",
-   "date": "2024-04-27T16:30:08+00:00",
-   "summary": "Cyber Security Full Course 2026 | Cyber Security Course Training For Beginners 2026 | Simplilearn YouTube",
-   "tech": "cyber",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "ما هى حقيقة الاختراق وهل انت متخرق الان شرح لغرض نشر الوعى",
@@ -2200,10 +2230,10 @@
    "title": "نظام كالي لينكس الجديد للدفاع والتحقيق الجنائي | Kali Purple",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ZE5Ob2RQbkY1YkZITFZ6RzY1cFViLXZjcE53Z2NFa1JKTWMwQ2dSeVl5dk1sMnpHbXFTZmI3SWVhQm1HRkJmTG5OdUt1U2F0SUtmY2N3?oc=5",
    "date": "2023-03-23T19:35:01+00:00",
-   "summary": "نظام كالي لينكس الجديد للدفاع والتحقيق الجنائي | Kali Purple youtube.com",
+   "summary": "نظام كالي لينكس الجديد للدفاع والتحقيق الجنائي | Kali Purple YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
-   "source": "youtube.com",
+   "source": "YouTube",
    "lang": "ar"
   },
   {
@@ -2211,36 +2241,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hSGI3SHBGb282QUY3X3VDcUxqc2s3UHVoZGFXRGRLQ28wYTJRQjd3WTRfUzd3UXJ5S3ZqYTBPVFdmbWJuc0FIYUJOSmZoTTlWR0JsVGF3?oc=5",
    "date": "2023-03-20T11:00:18+00:00",
    "summary": "الدرس ٢١ | دورة حياة البيانات و أنواع خوارزميات التشفير YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "فتح البورتات في الراوتر قبل اختبار الاختراق الخارجي - Port Forwarding",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xV2tFaE84aS14WHBoNFkxdFplU1E2NDg0OU1uZFNXQTZ3SXBkc1l4WVctVkNrcVlmVTI1VzVYQVlPWF8yTmRkV2lBY3ZMelpRc085TzN3?oc=5",
-   "date": "2023-03-02T17:27:06+00:00",
-   "summary": "فتح البورتات في الراوتر قبل اختبار الاختراق الخارجي - Port Forwarding YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "تدريب مدير أمن المعلومات المعتمد - ISACA CISM Arabic - Domain 1 - التسلسل الاداري وبناء الخطة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ScGF0T19SdmlkME81NmRpckdBZVBVVTBCWjI3bVgySmlxUTF1QXBWLUozTHV2SVN1ZDJyYzRpbUxEVzE2b3BNLTREajRnWEVWZGRWRkxn?oc=5",
-   "date": "2023-03-01T13:36:24+00:00",
-   "summary": "تدريب مدير أمن المعلومات المعتمد - ISACA CISM Arabic - Domain 1 - التسلسل الاداري وبناء الخطة YouTube",
-   "tech": "cyber",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح اداه recon-ng - الفصل الثالث",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMXlENFQ2ZDh0WXhYSHJwcmxrWjBDR21idzFqS21OZkFFbVRDcndFeTNJd01EbkplQlAwSzJnTUtWbl9ZM0dzODM4T3M4bzJIbGZKWDJn?oc=5",
-   "date": "2023-02-22T12:30:47+00:00",
-   "summary": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح اداه recon-ng - الفصل الثالث YouTube",
    "tech": "cyber",
    "sourceId": "ar-yt",
    "source": "YouTube",

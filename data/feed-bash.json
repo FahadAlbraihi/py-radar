@@ -1,8 +1,150 @@
 {
- "generated": "2026-08-21T05:05:43.515163+00:00",
+ "generated": "2026-08-22T04:21:33.731336+00:00",
  "tech": "bash",
  "count": 163,
  "items": [
+  {
+   "title": "Linux from Zero #2 Processes: what's actually running under your terminal",
+   "url": "https://dev.to/rogeroliveira86/linux-from-zero-2-processes-whats-actually-running-under-your-terminal-1a0f",
+   "date": "2026-08-21T19:40:58+00:00",
+   "summary": "Part 2 of the \"Linux from Zero\" series. If you haven't read #1 yet, it's on Medium and DEV.to — start...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Terminal Is an Art",
+   "url": "https://j3ffyang.medium.com/the-terminal-is-an-art-ef159043e273?source=rss------bash-5",
+   "date": "2026-08-21T14:51:01+00:00",
+   "summary": "I&#x2019;ve been using Unix and Linux for almost thirty years now, and I still spend most of my day inside a terminal. Not because I have to &#x2014;&#x2026; Continue reading on Medium »",
+   "tech": "bash",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why I built TuxInDrive: one open-source sync client for multiple clouds",
+   "url": "https://dev.to/tpluharik/why-i-built-tuxindrive-one-open-source-sync-client-for-multiple-clouds-2cnp",
+   "date": "2026-08-21T14:38:35+00:00",
+   "summary": "Linux cloud synchronization is still surprisingly fragmented. One provider may have a native client,...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Minecraft Server - Part 3: Running on Kubernetes",
+   "url": "https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf",
+   "date": "2026-08-21T14:20:55+00:00",
+   "summary": "🇧🇷 Versão em português           Minecraft Server - Part 3: Running on Kubernetes   In Part 2 of this...",
+   "points": 5,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Minecraft Server - Part 2: Running with Docker",
+   "url": "https://dev.to/celsonery/minecraft-server-part-2-running-with-docker-17bb",
+   "date": "2026-08-21T14:20:12+00:00",
+   "summary": "🇧🇷 Versão em português           Minecraft Server - Part 2: Running with Docker   In Part 1 of this...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Minecraft Server - Part 1: Bare Metal Installation",
+   "url": "https://dev.to/celsonery/minecraft-server-part-1-bare-metal-installation-1dno",
+   "date": "2026-08-21T14:19:02+00:00",
+   "summary": "🇧🇷 Versão em português           Minecraft Server - Part 1: Bare Metal Installation           ...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Servidor Minecraft - Parte 3: Rodando no Kubernetes",
+   "url": "https://dev.to/celsonery/servidor-minecraft-parte-3-rodando-no-kubernetes-208c",
+   "date": "2026-08-21T14:17:17+00:00",
+   "summary": "🇺🇸 English version comming soon           Servidor Minecraft - Parte 3: Rodando no Kubernetes   Na...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Servidor Minecraft - Parte 2: Rodando com Docker",
+   "url": "https://dev.to/celsonery/servidor-minecraft-parte-2-rodando-com-docker-3ai0",
+   "date": "2026-08-21T14:16:02+00:00",
+   "summary": "🇺🇸 English version comming soon           Servidor Minecraft - Parte 2: Rodando com Docker   Na Parte...",
+   "points": 5,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Servidor Minecraft - Parte 1: Instalação Bare Metal",
+   "url": "https://dev.to/celsonery/servidor-minecraft-parte-1-instalacao-bare-metal-3g2d",
+   "date": "2026-08-21T14:15:05+00:00",
+   "summary": "🇺🇸 English version comming soon           Servidor Minecraft - Parte 1: Instalação Bare Metal        ...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Linux in Real-World Data Engineering",
+   "url": "https://dev.to/anthony_kibet_4f0cc67d37f/linux-in-real-world-data-engineering-2fid",
+   "date": "2026-08-21T11:01:13+00:00",
+   "summary": "Linux is the one most people never see at all, even though it's running underneath almost everything...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cómo solucionar `docker run` con `Exited (1)` en Raspberry Pi",
+   "url": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exited-1-en-raspberry-pi-2no2",
+   "date": "2026-08-21T09:29:23+00:00",
+   "summary": "Cómo solucionar docker run con Exited (1) en Raspberry Pi            ¿Por qué ocurre este...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Crashed My Machine Running AI Workloads",
+   "url": "https://dev.to/praveenlavu/how-i-crashed-my-machine-running-ai-workloads-1p66",
+   "date": "2026-08-21T04:10:24+00:00",
+   "summary": "When Everything Is Running, Nothing Survives   I knew something was wrong before the screen...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Two YubiKeys, One Prompt Too Many",
+   "url": "https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78",
+   "date": "2026-08-20T23:00:00+00:00",
+   "summary": "I carry two YubiKeys. One lives on my keyring, one lives in a drawer, and both are enrolled...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Why is it better to use double parentheses in Bash?",
    "url": "https://medium.com/@u.mair/why-is-it-better-to-use-double-parentheses-in-bash-b6ba972927c6?source=rss------bash-5",
@@ -14,10 +156,32 @@
    "lang": "en"
   },
   {
+   "title": "The error pointed at the GPU. The culprit was the HBA. — a Proxmox passthrough recovery",
+   "url": "https://dev.to/jjozzietech/the-error-pointed-at-the-gpu-the-culprit-was-the-hba-a-proxmox-passthrough-recovery-3c33",
+   "date": "2026-08-20T20:03:27+00:00",
+   "summary": "The plan looked textbook. PCIe passthrough an NVIDIA RTX A4000 from a Proxmox 8 host into an Ubuntu...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
    "title": "Tab completion, without writing a completion script",
    "url": "https://dev.to/mauvilsa/tab-completion-without-writing-a-completion-script-4nab",
    "date": "2026-08-20T16:45:24+00:00",
    "summary": "The first post derived a whole command line interface from a client class, and the second turned it...",
+   "points": 0,
+   "tech": "bash",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A Linux video player with NVIDIA VFX VSR support (real-time upscaling + frame interpolation, built with an AI coding agent)",
+   "url": "https://dev.to/zhangmq/a-linux-video-player-with-nvidia-vfx-vsr-support-real-time-upscaling-frame-interpolation-built-3fbd",
+   "date": "2026-08-20T16:40:23+00:00",
+   "summary": "Short version of a recent write-up — no full article here, just the pitch.  I wanted RTX VSR-class...",
    "points": 0,
    "tech": "bash",
    "sourceId": "devto",
@@ -200,61 +364,6 @@
    "lang": "en"
   },
   {
-   "title": "Env Checker: Find Undefined Environment Variables in Shell Scripts Using Pure Python",
-   "url": "https://dev.to/poolion/env-checker-find-undefined-environment-variables-in-shell-scripts-using-pure-python-3",
-   "date": "2026-08-20T01:59:00+00:00",
-   "summary": "Env Checker: Detect Undefined Environment Variables in Shell Scripts   Shell scripts with...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Como o Windows perdeu Milhões de Usuários",
-   "url": "https://dev.to/rafaelbonilha/como-o-windows-perdeu-milhoes-de-usuarios-45pj",
-   "date": "2026-08-19T22:38:07+00:00",
-   "summary": "Segue de forma constante e contínua o declínio do número de usuários do sistema operacional Windows,...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan",
-   "url": "https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1",
-   "date": "2026-08-19T18:35:28+00:00",
-   "summary": "A rollback plan tells you how to undo an AI change, but not what breaks first when the change stays...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Incremental Backup Using pg_basebackup in PostgreSQL 18",
-   "url": "https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag",
-   "date": "2026-08-19T18:02:06+00:00",
-   "summary": "In this article, I will show how to create a full backup and an incremental backup using...",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem",
-   "url": "https://dev.to/schiff_heimlich/when-disk-space-is-not-disk-space-the-inode-exhaustion-problem-gm4",
-   "date": "2026-08-19T17:04:45+00:00",
-   "summary": "When Disk Space Is Not Disk Space: The Inode Exhaustion Problem   You run df -h, everything...",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "1-تختيم 100% || Mortal Shell 2 || البدايه",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WMEJQTjZYOHMzeVlCXzJxbldnZTdmcWtnVVRWd1NyYUZfcDRGbUlaWW5ka1lfVnFZcHZTYXk3VkZqbnZtalhhSU1ZREpYa1h4TlJwMmRB?oc=5",
    "date": "2026-08-19T15:56:52+00:00",
@@ -272,105 +381,6 @@
    "tech": "bash",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "Mastering Unattended Remote Desktop on Wayland: A Modern DevOps Guide",
-   "url": "https://dev.to/lightningdev123/mastering-unattended-remote-desktop-on-wayland-a-modern-devops-guide-22p7",
-   "date": "2026-08-19T13:44:54+00:00",
-   "summary": "Introduction to the Wayland Remote Access Dilemma   For developers and system...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
-   "url": "https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p",
-   "date": "2026-08-19T13:10:14+00:00",
-   "summary": "Most DevOps learning content is made by companies that want you to buy their product, or by course mills that teach the exam. Here are eleven resources run by individuals and small teams, what each is actually good for, ",
-   "points": 16,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need",
-   "url": "https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0",
-   "date": "2026-08-19T12:41:16+00:00",
-   "summary": "A surprising share of \"the app is down\" pages resolve to a name-resolution problem, not a broken...",
-   "points": 1,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your sysctl says one thing, the kernel says another",
-   "url": "https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha",
-   "date": "2026-08-19T05:06:12+00:00",
-   "summary": "You set net.ipv4.ip_forward=1 in /etc/sysctl.conf. You rebooted. The value is still 0.  Nothing is...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "3 Weeks of Silent Backup Failure: Why launchd Can't Write to ~/Documents on macOS",
-   "url": "https://dev.to/bokuwalily/3-weeks-of-silent-backup-failure-why-launchd-cant-write-to-documents-on-macos-4ecm",
-   "date": "2026-08-19T05:00:06+00:00",
-   "summary": "Every Sunday at 6:00 AM, my backup job ran, logged no changes, and exited 0. For three weeks straight...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "UFW and WireGuard: the tunnel is up and nothing goes through",
-   "url": "https://dev.to/ricco020/ufw-and-wireguard-the-tunnel-is-up-and-nothing-goes-through-4lpo",
-   "date": "2026-08-19T03:37:35+00:00",
-   "summary": "The tunnel comes up. wg show prints a recent handshake. The client has its address inside the tunnel....",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A new NetworkManager property broke a decade of headless WiFi scripts",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/a-new-networkmanager-property-broke-a-decade-of-headless-wifi-scripts-3hh8",
-   "date": "2026-08-19T03:27:08+00:00",
-   "summary": "TL;DR: NetworkManager 1.52 (in Trixie) added an autoconnect-ports property. That makes autoconnect-p...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "sysctl -p says it worked. The next reboot disagrees.",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/sysctl-p-says-it-worked-the-next-reboot-disagrees-5eph",
-   "date": "2026-08-19T03:15:10+00:00",
-   "summary": "TL;DR: /etc/sysctl.conf doesn't ship on Raspberry Pi OS Trixie, and if you create it, the thing that...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your Pi accepts every memory limit you set and enforces none of them",
-   "url": "https://dev.to/_a2a5aeb0db084c76b8ea/your-pi-accepts-every-memory-limit-you-set-and-enforces-none-of-them-1j6e",
-   "date": "2026-08-19T02:57:41+00:00",
-   "summary": "TL;DR: On stock Raspberry Pi OS the memory cgroup controller is disabled, so docker run...",
-   "points": 0,
-   "tech": "bash",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -488,16 +498,6 @@
    "url": "https://medium.com/@bektiaw/bash-aliases-that-will-save-you-hours-7ab982cae507?source=rss------bash-5",
    "date": "2026-08-11T16:31:01+00:00",
    "summary": "Work faster, type less, and make your terminal more productive Continue reading on Medium »",
-   "tech": "bash",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "How to Use Bash as a Template Engine",
-   "url": "https://medium.com/@u.mair/how-to-use-bash-as-a-template-engine-abadfcd7ab52?source=rss------bash-5",
-   "date": "2026-08-11T16:31:01+00:00",
-   "summary": "If you have used Ansible, you have probably seen templates where variables are substituted into a configuration file before it is deployed&#x2026; Continue reading on Medium »",
    "tech": "bash",
    "sourceId": "medium",
    "source": "Medium",
@@ -1134,6 +1134,16 @@
    "lang": "ar"
   },
   {
+   "title": "Bash Shell Scripting Tutorial for Beginners on Linux (Ubuntu)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByMV8xemtTYlRHS25YTFU5SmxtOHBmYURMMVotUFprNHc4NFpaZU1XdFRUNnRESnk1a28wT2UtSXZxSXowSmg4VmxSOF94YnJQMkNZVFZR?oc=5",
+   "date": "2023-05-18T14:52:09+00:00",
+   "summary": "Bash Shell Scripting Tutorial for Beginners on Linux (Ubuntu) YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Bash Shell Scripting Tutorial | Full Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMkZWWS1rbmNTdHBnMndQVzItdVMxNE94XzFnVUt0V3VJUE1uYWMwWHV5emdVanp0SWVzNWNZeFo4U0lyZUczbE0xYzkwUzBLY1M1dEJR?oc=5",
    "date": "2023-02-12T16:00:08+00:00",
@@ -1394,6 +1404,16 @@
    "lang": "ar"
   },
   {
+   "title": "Linux Crash Course - The grep Command",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zOU1ldXhJZl9RNmxtRU1JaWdnQ2VSZ19PSUwwUlJNTVNwa3FDX0FTOWt2RHVTamp0T1QxT0JnSWlrbnEtMGNIUy1IMTVWM2JKUFVmNWdR?oc=5",
+   "date": "2022-03-29T15:23:48+00:00",
+   "summary": "Linux Crash Course - The grep Command YouTube",
+   "tech": "bash",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "you need to learn BASH Scripting RIGHT NOW!! // EP 1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0waDlKZUVXUW94N0pOeXFaLVk4ZkxWSnE2R0ZORlBadWRGbmI5Ujk3bDRvVDhra0s3di1RcHFCc0oxUGRpMG9jWEpvYWw4cTNQTW9QQVFn?oc=5",
    "date": "2022-03-25T15:36:31+00:00",
@@ -1568,26 +1588,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waUtqQ3c3czJfQzZXQ0luR1A3aXNCSnZENDhQTjZTZFk2VU9HZWVSZ1kyaXBpTG1KYXFZRmlMMTR0YnJPaE1rTmpKZW9XbjBHRmFDS3dR?oc=5",
    "date": "2021-10-06T14:45:01+00:00",
    "summary": "Linux Crash Course - Bash Aliases YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Git Bash Tutorial | Git Bash Basics | Git and GitHub Tutorial | DevOps Training | Edureka",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BX1N2Y3Njell2TlpoREtZa0ZNaEtmNmZlZlJZYXdDX19yZzlfWDZjNjQ5aURUQlExWlBoQTRLN2tiY1dVNDhVUVAyeFJ6Z2NVbTUycEtR?oc=5",
-   "date": "2021-03-15T14:00:12+00:00",
-   "summary": "Git Bash Tutorial | Git Bash Basics | Git and GitHub Tutorial | DevOps Training | Edureka YouTube",
-   "tech": "bash",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Bash Terminal Course for Beginners | Linux Command Line Tutorial for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PZVBKX3FSNFl2YVk3cFZCTnowNWFfandUX1I0SzdFcmJlelFFQUNweXNRVDl1ckpiUjRXdGNfT2d1UHFScFQxT3JUOEZDclA5b0JSTEtR?oc=5",
-   "date": "2021-03-05T21:23:08+00:00",
-   "summary": "Bash Terminal Course for Beginners | Linux Command Line Tutorial for Beginners YouTube",
    "tech": "bash",
    "sourceId": "yt",
    "source": "YouTube",

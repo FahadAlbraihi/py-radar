@@ -1,8 +1,193 @@
 {
- "generated": "2026-08-21T05:04:16.736515+00:00",
+ "generated": "2026-08-22T04:20:04.466597+00:00",
  "tech": "sql",
  "count": 220,
  "items": [
+  {
+   "title": "How to Practice SQL Online With Nothing Installed (And Where Your Data Goes)",
+   "url": "https://dev.to/michaelnocito/how-to-practice-sql-online-with-nothing-installed-and-where-your-data-goes-ka9",
+   "date": "2026-08-22T00:20:25+00:00",
+   "summary": "Run SQL in a browser tab with no install and no account. Five tools compared on what they hold, which dialect they speak, and the question that matters most: whether your data leaves your machine.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Where to Get a Sample Database to Practice SQL (And How to Check It Loaded)",
+   "url": "https://dev.to/michaelnocito/where-to-get-a-sample-database-to-practice-sql-and-how-to-check-it-loaded-g2n",
+   "date": "2026-08-22T00:20:17+00:00",
+   "summary": "Download a real multi-table sample database in five minutes. Chinook, Northwind and Sakila compared, the one query that proves it loaded, and your first join across two tables.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Customer Segmentation in SQL With CASE WHEN",
+   "url": "https://dev.to/michaelnocito/customer-segmentation-in-sql-with-case-when-4j20",
+   "date": "2026-08-22T00:20:08+00:00",
+   "summary": "Aggregate to one row per customer, label with CASE, group by the label. The order that deletes a whole segment, the gap that creates a NULL one, and fixed cut-offs against NTILE.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Which SQL Database Should You Install?",
+   "url": "https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n",
+   "date": "2026-08-21T22:56:36+00:00",
+   "summary": "File-based engines like SQLite and DuckDB versus servers like PostgreSQL, MySQL and SQL Server. One question decides it.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "NULL in SQL: Why = NULL Finds Nothing and What to Write Instead",
+   "url": "https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64",
+   "date": "2026-08-21T22:56:06+00:00",
+   "summary": "WHERE assignee = NULL returns 0 of 10 rows, every time. What NULL actually means, IS NULL, the NOT IN trap, COALESCE, and how NULLs quietly move your averages.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps",
+   "url": "https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp",
+   "date": "2026-08-21T22:55:57+00:00",
+   "summary": "The MoM growth formula, LAG() in everyday words, and the trap where one skipped month makes SQL report a fake 30.6% drop. Every query run on a real table.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Find Duplicate Rows in SQL (and Decide What Counts as One)",
+   "url": "https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i",
+   "date": "2026-08-21T22:55:49+00:00",
+   "summary": "The GROUP BY HAVING pattern that lists every duplicate, a ten-second COUNT test for any table, and why analysts mark extras instead of deleting them.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Comment Syntax by Database: MySQL, PostgreSQL, SQL Server, SQLite, Oracle",
+   "url": "https://dev.to/michaelnocito/sql-comment-syntax-by-database-mysql-postgresql-sql-server-sqlite-oracle-40i0",
+   "date": "2026-08-21T22:54:40+00:00",
+   "summary": "The comment character for every major database, in one table, plus the four differences that break a query when it moves between engines.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "COMMENT ON TABLE: How to Store a Table Description in the Database Itself",
+   "url": "https://dev.to/michaelnocito/comment-on-table-how-to-store-a-table-description-in-the-database-itself-2noj",
+   "date": "2026-08-21T22:54:32+00:00",
+   "summary": "COMMENT ON TABLE and COMMENT ON COLUMN store a description inside the database. The exact syntax in PostgreSQL and Oracle, the different syntax MySQL and SQL Server need, and how to read them back.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Comment in SQL: -- and /* */, and the Two Traps That Break a Query",
+   "url": "https://dev.to/michaelnocito/how-to-comment-in-sql-and-and-the-two-traps-that-break-a-query-3bc",
+   "date": "2026-08-21T22:54:24+00:00",
+   "summary": "How to comment in SQL: the two comment syntaxes, where each one goes, the two ways commenting out a line breaks a query, and the comma habit that makes it safe.",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I benchmarked CognoDB against four other graph databases. The most interesting result had nothing to do with CognoDB.",
+   "url": "https://dev.to/sachin_meru/i-benchmarked-cognodb-against-four-other-graph-databases-the-most-interesting-result-had-nothing-4ha6",
+   "date": "2026-08-21T19:19:49+00:00",
+   "summary": "I was asked to benchmark CognoDB Cloud, a managed graph database, against four other graph platforms...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Polyglot persistence was the mistake. Postgres was always enough.",
+   "url": "https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41",
+   "date": "2026-08-21T19:16:42+00:00",
+   "summary": "Four databases in one would be great if you had a reason for needing them.  That used to be our...",
+   "points": 3,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Why I Built a Simple App to Understand Isar in Flutter (And the Challenges I Faced)",
+   "url": "https://dev.to/ali_cimen/why-i-built-a-simple-app-to-understand-isar-in-flutter-and-the-challenges-i-faced-4p1n",
+   "date": "2026-08-21T17:56:37+00:00",
+   "summary": "When learning a new tool or technology, everyone usually tries to build massive projects like...",
+   "points": 0,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
+   "url": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
+   "date": "2026-08-21T17:19:14+00:00",
+   "summary": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
+   "tech": "sql",
+   "sourceId": "fcc",
+   "source": "freeCodeCamp",
+   "lang": "en"
+  },
+  {
+   "title": "Row-level security in Symfony: the role that ran your migrations bypasses every policy you wrote",
+   "url": "https://dev.to/mollenthiel/row-level-security-in-symfony-the-role-that-ran-your-migrations-bypasses-every-policy-you-wrote-34bi",
+   "date": "2026-08-21T16:38:18+00:00",
+   "summary": "A comment on my last article was better than the article. The subject was single-database...",
+   "points": 3,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How Multi-Agent AI Closes the Test Coverage Gaps Humans Miss",
+   "url": "https://hackernoon.com/how-multi-agent-ai-closes-the-test-coverage-gaps-humans-miss?source=rss",
+   "date": "2026-08-21T12:30:56+00:00",
+   "summary": "A multi-agent testing architecture analyzes requirements, code, APIs, databases, UI, and risk before generating tests, helping surface hidden coverage gaps.",
+   "tech": "sql",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Understanding the ORC File Format: Why Is It So Fast",
+   "url": "https://dev.to/mohhddhassan/understanding-the-orc-file-format-why-is-it-so-fast-3pa6",
+   "date": "2026-08-21T10:15:32+00:00",
+   "summary": "Every article about ORC says the same thing.  \"Columnar storage, built-in indexes, predicate pushdown...",
+   "points": 1,
+   "tech": "sql",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Chinilpa Scanner (친일파 스캐너): Korea's Collaborator Database, Explained",
    "url": "https://dev.to/cc_h_6385c1b4fc86a8b8e2d7/chinilpa-scanner-cinilpa-seukaeneo-koreas-collaborator-database-explained-l7m",
@@ -169,171 +354,6 @@
    "lang": "en"
   },
   {
-   "title": "Why Your Team Needs a Multi-Cloud Database Inventory",
-   "url": "https://dev.to/abda_net/why-your-team-needs-a-multi-cloud-database-inventory-25ll",
-   "date": "2026-08-20T04:25:46+00:00",
-   "summary": "Most engineering teams don't know how many databases they're running or where. A database inventory fixes that -- multi-cloud makes it harder to do manually.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "One hard question is a better database acceptance test than ten easy ones",
-   "url": "https://dev.to/mads_hansen_27b33ebfee4c9/one-hard-question-is-a-better-database-acceptance-test-than-ten-easy-ones-4lnm",
-   "date": "2026-08-20T01:20:48+00:00",
-   "summary": "Do not approve a PostgreSQL-to-ChatGPT connection because ten easy questions returned plausible...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "SELECT 1 is not a production MySQL connection test",
-   "url": "https://dev.to/mads_hansen_27b33ebfee4c9/select-1-is-not-a-production-mysql-connection-test-1hao",
-   "date": "2026-08-20T01:20:47+00:00",
-   "summary": "The connection test says “success.” ChatGPT still cannot see the right tables—or it can see far more...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Supabase vs Firebase: Which BaaS Should You Pick?",
-   "url": "https://dev.to/alan_529cf536b9cf0f88ec8c/supabase-vs-firebase-which-baas-should-you-pick-4gl1",
-   "date": "2026-08-20T01:15:19+00:00",
-   "summary": "Backend-as-a-Service lets frontend developers skip server setup. But which one?           Core...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Commit Was Named After the Wrong Half",
-   "url": "https://dev.to/henry_dan_81513dd35a2f540/the-commit-was-named-after-the-wrong-half-a5a",
-   "date": "2026-08-20T00:44:55+00:00",
-   "summary": "I shipped a 4,600-line fix for 220 pages serving an empty shell to crawlers, and fixed a fifteen-line lookup bug beside it as an afterthought. Two weeks of data say the afterthought did most of the work — because those t",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Three of the First Four Alerts Were the Question's Fault",
-   "url": "https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb",
-   "date": "2026-08-20T00:24:52+00:00",
-   "summary": "My build fails when two copies of a fact disagree — but a fact wrong in every copy at once sails through, because agreement isn't truth. So I built a weekly sampler: a web-connected model as tripwire, never a writer. Its",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Implementing IN statements using JooqTemplate",
-   "url": "https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc",
-   "date": "2026-08-20T00:18:43+00:00",
-   "summary": "@Service public class SimpleUserService {     @Autowired     private JooqTemplate jt;     public...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Free Server Wiped My SQLite Queue Overnight and the Health Check Never Noticed",
-   "url": "https://dev.to/codepy_1473/the-free-server-wiped-my-sqlite-queue-overnight-and-the-health-check-never-noticed-5ce6",
-   "date": "2026-08-19T21:42:24+00:00",
-   "summary": "The background job worker looked perfect when I deployed it. A free model available through...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Audit Became a Build Step",
-   "url": "https://dev.to/henry_dan_81513dd35a2f540/the-audit-became-a-build-step-45je",
-   "date": "2026-08-19T19:54:25+00:00",
-   "summary": "I audited my travel site's legal-status dataset twice and the drift came back anyway — because an audit is a snapshot, and nothing held the agreement after the auditor left. So the third audit became a script that runs f",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "PostGIS vs DuckDB — Choosing the Right Tool for Spatial Data",
-   "url": "https://dev.to/vahid_aghajani_60ce9dbec9/postgis-vs-duckdb-choosing-the-right-tool-for-spatial-data-4997",
-   "date": "2026-08-19T19:30:45+00:00",
-   "summary": "A practical guide to OLTP vs OLAP for geospatial workloads. When to use PostGIS for serving and transactions, when DuckDB wins for analytics and batch processing, and how to combine both in a modern spatial data stack.",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Incremental Backup Using pg_basebackup in PostgreSQL 18",
-   "url": "https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag",
-   "date": "2026-08-19T18:02:06+00:00",
-   "summary": "In this article, I will show how to create a full backup and an incremental backup using...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Real-World Data Engineering on Snowflake: Architectural Patterns and DEA-C01 Insights",
-   "url": "https://dev.to/lucasitpro/real-world-data-engineering-on-snowflake-architectural-patterns-and-dea-c01-insights-4gn3",
-   "date": "2026-08-19T17:04:33+00:00",
-   "summary": "As enterprise data architectures evolve toward unified cloud data platforms, moving away from legacy...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Database interview questions for backend engineers",
-   "url": "https://dev.to/moputa/database-interview-questions-for-backend-engineers-4nob",
-   "date": "2026-08-19T11:21:00+00:00",
-   "summary": "The database section is where senior backend interviews get decided, because it is the hardest area...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "When a perfect audit was too hard to use",
-   "url": "https://dev.to/islamov/when-a-perfect-audit-was-too-hard-to-use-hjb",
-   "date": "2026-08-19T10:50:37+00:00",
-   "summary": "There are tasks in the database world that engineers genuinely enjoy: query optimization,...",
-   "points": 0,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code",
-   "url": "https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09",
-   "date": "2026-08-19T09:20:24+00:00",
-   "summary": "In my last post I wrote about an error that cost me a full evening: my pom.xml had the MongoDB...",
-   "points": 1,
-   "tech": "sql",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "How to Work with Subqueries in SQL",
    "url": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
    "date": "2026-08-17T21:31:33+00:00",
@@ -381,6 +401,16 @@
    "tech": "sql",
    "sourceId": "fcc",
    "source": "freeCodeCamp",
+   "lang": "en"
+  },
+  {
+   "title": "SQL Full Course in Telugu — Zero to Advanced | 8 Hour Complete Masterclass",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtallsWmxuMUdnWi1UWXNPbUoteTJqZXBBX0hwNURxYkx3ekxWbUV0U2FzcHFhVUpYME94RGtwZHhoeWdOUFpDNnNkUk5fNVNGT2RMV0tB?oc=5",
+   "date": "2026-08-11T11:56:14+00:00",
+   "summary": "SQL Full Course in Telugu — Zero to Advanced | 8 Hour Complete Masterclass YouTube",
+   "tech": "sql",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1816,26 +1846,6 @@
    "lang": "en"
   },
   {
-   "title": "Microsoft SQL Server 2022 Tutorial for Beginners | Amit Thinks | Class 11th 12th",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DX2hNc2FjbUI5TmlJcTVpdEkxdlRxanZXVmpQMXd4eFM2dzVGQWUzYnBIQVRyXzlHSGdvalY2ZWRLRzhOTDloajMtdGxETkR4aUVPMm9B?oc=5",
-   "date": "2023-03-02T12:43:03+00:00",
-   "summary": "Microsoft SQL Server 2022 Tutorial for Beginners | Amit Thinks | Class 11th 12th YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Welcome to FREE SQL Course",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ia0dNb3ltdHB5aFBaaHRWRXZjTzNhZVJGeDY1WjhuLUFEZzlnN3RCekhzdnZTQ1BjbE1yU3pXNUNIdVVfWWxoTUlSbEJNUmh5S01TR1V3?oc=5",
-   "date": "2023-02-22T22:29:19+00:00",
-   "summary": "Welcome to FREE SQL Course YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "🔥دورة MySQL دورة كاملة في 6 ساعات فقط🔥",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN24yNWdzZVFsMFd5Y3loUEhvZjhXZ2NVLW9ST3FhMUlObFVVRGhsUzdEUDlRdThPYmVhSTN3RUNTSE4wdlI4b21wbFZfb3V6RkpxMTNB?oc=5",
    "date": "2023-02-10T17:30:08+00:00",
@@ -1854,16 +1864,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "SQL Full Course | Learn Structured Query Language from Scratch | SQL Tutorial | @SCALER",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yU1JGRlRkdnotdjBldkJud0xVYUc5MnliQ0tYQnExdEZNbFJwQWc1aFR6ck5UMW42dlg5MURrY1otenZLMVNWcVRaZG1UNFdPMlExQVJB?oc=5",
-   "date": "2023-02-08T13:30:08+00:00",
-   "summary": "SQL Full Course | Learn Structured Query Language from Scratch | SQL Tutorial | @SCALER YouTube",
-   "tech": "sql",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "ما الفارق بين أنواع قواعد البيانات SQL vs NoSQL",
@@ -2066,6 +2066,16 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم قواعد البيانات php + python - sql - mysql - sqlite3 - sql server",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10S0NueHpFd0xBUHRhMDRNU2tpNFN6ZmlkUXZzOC1rZzloQThnb1NONTFhRFhfUDNWS0pCekZhZHlfcnBCakFPLTRSNzQ3cEJkWlp5bUNJbW5ISjgtUmhENS1fdmQ3c0xMNzhVSkd4R0VEX0lQWlExcEJkYjQ?oc=5",
+   "date": "2022-05-14T22:40:56+00:00",
+   "summary": "تعلم قواعد البيانات php + python - sql - mysql - sqlite3 - sql server YouTube",
+   "tech": "sql",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "تعلم قواعد البيانات بأحترافية لغاية تحويل اللغة نفسها الى تطبيق سطح المكتب sql with projects #1",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tamMySUVxR0pUY3RLMnNvQlYzUUZGMm9LZ2VsT2R6UGFiUkhaaldidXdCV0dVQkEwWUpMNGZlNzdlZjF2YzAwUzhURFlXTXpXV25KaXNn?oc=5",
    "date": "2022-05-14T07:00:00+00:00",
@@ -2230,16 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmemVvbTdMdlNoX21hUklUNklVRHRIZnRsVzE3VC1Bd2lXWldwV1VOOWNmVEh4b09wOU5LVWxIQV9WOXpkNjNMV1ZLOHhsaFEzWmltZWJB?oc=5",
    "date": "2021-09-16T06:38:17+00:00",
    "summary": "شرح LEFT JOIN في SQL | دورة تعلم SQL و MySQL كاملة 35 YouTube",
-   "tech": "sql",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "SQL Server 2019 in one video شرح سكول سيرفر في نصف ساعة",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybDY1RFZqb3JMUW9Wc0N6UjJSQUxIbFVhczV6YlJnOTRCUC1LSEhKa1dQS2JFbHRqQ3IzS1RscVI1cmhCbkJLMlQzNnEtX3BjOGFkb3p3?oc=5",
-   "date": "2021-08-30T16:30:12+00:00",
-   "summary": "SQL Server 2019 in one video شرح سكول سيرفر في نصف ساعة YouTube",
    "tech": "sql",
    "sourceId": "ar-yt",
    "source": "YouTube",

@@ -1,8 +1,118 @@
 {
- "generated": "2026-08-21T05:10:33.111028+00:00",
+ "generated": "2026-08-22T04:26:35.420304+00:00",
  "tech": "objectivec",
- "count": 83,
+ "count": 86,
  "items": [
+  {
+   "title": "Cobalt lleva una App Store no oficial y SDK en Rust a los Kobo Clara BW",
+   "url": "https://dev.to/lu1tr0n/cobalt-lleva-una-app-store-no-oficial-y-sdk-en-rust-a-los-kobo-clara-bw-2l15",
+   "date": "2026-08-21T20:24:51+00:00",
+   "summary": "Cobalt es una plataforma de código abierto que convierte los Kobo Clara BW en dispositivos capaces de instalar apps nativas en Rust, con una App Store",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Was Manually Managing iOS Certificates — Then I Found Fastlane Match",
+   "url": "https://dev.to/smitp7502/i-was-manually-managing-ios-certificates-then-i-found-fastlane-match-30el",
+   "date": "2026-08-21T17:50:57+00:00",
+   "summary": "Manual code signing works fine — right up until a second developer touches your project. Then Apple's...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "RinHit: Drilling into the macOS Ecosystem for Red Team Reconnaissance",
+   "url": "https://dev.to/toxy4ny/rinhit-drilling-into-the-macos-ecosystem-for-red-team-reconnaissance-4g47",
+   "date": "2026-08-21T15:37:52+00:00",
+   "summary": "\"How we built an open-source macOS reconnaissance framework that turns Wi-Fi artifacts, Bluetooth...",
+   "points": 2,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The beauty of zero telemetry software: A look at a truly local first meditation app",
+   "url": "https://dev.to/brentvandy/the-beauty-of-zero-telemetry-software-a-look-at-a-truly-local-first-meditation-app-2l1e",
+   "date": "2026-08-21T15:24:17+00:00",
+   "summary": "Modern consumer apps have a serious bloat problem. If you look at the health and wellness space...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Third-Generation GUI Builder: One Workspace for Every Form",
+   "url": "https://dev.to/codenameone/the-third-generation-gui-builder-one-workspace-for-every-form-4mdh",
+   "date": "2026-08-21T13:39:34+00:00",
+   "summary": "Codename One's third-generation GUI Builder keeps the guided layout work from the previous editor and rebuilds the workflow around Maven projects, live CSS, protected Java regions, and fast switching between forms.",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "6 Background Removal API Tests I Run Before Shipping Video",
+   "url": "https://dev.to/dave_gordon/6-background-removal-api-tests-i-run-before-shipping-video-a4a",
+   "date": "2026-08-21T13:33:50+00:00",
+   "summary": "TL;DR:   Real-time background removal is a frame budget problem before it is a quality...",
+   "points": 1,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The cipher was the easy part: AES-GCM in a personal app",
+   "url": "https://dev.to/simple_memo/the-cipher-was-the-easy-part-aes-gcm-in-a-personal-app-75c",
+   "date": "2026-08-21T13:31:28+00:00",
+   "summary": "I added AES-GCM to a small iOS app and found the cipher is the trivial part. The real work is the nonce, key storage, and surviving a device restore.",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Shipping 12 iOS Apps to the App Store Unattended, Part 2 — Every Review Trap (Beta Builds Rejected, Pricing, Name Collisions)",
+   "url": "https://dev.to/bokuwalily/shipping-12-ios-apps-to-the-app-store-unattended-part-2-every-review-trap-beta-builds-rejected-2jim",
+   "date": "2026-08-21T11:00:07+00:00",
+   "summary": "I got laid off with ¥0 in the bank. Six months later, rebuilt around Claude Code running as an...",
+   "points": 0,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The Hidden Reasons Your iOS App Feels Slow",
+   "url": "https://dev.to/vasundhra/the-hidden-reasons-your-ios-app-feels-slow-2h9o",
+   "date": "2026-08-21T06:05:57+00:00",
+   "summary": "An iOS app can feel slow even when its interface looks well-designed and responsive. The problem may...",
+   "points": 4,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I ship iOS apps to the App Store without owning a Mac, using GitHub Actions' free macOS runners",
+   "url": "https://dev.to/maclessdev/i-ship-ios-apps-to-the-app-store-without-owning-a-mac-using-github-actions-free-macos-runners-b3j",
+   "date": "2026-08-21T05:18:25+00:00",
+   "summary": "I don't own a Mac. When I built my last iOS app (Citolex, a speed reading app with a couple of native...",
+   "points": 1,
+   "tech": "objectivec",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Two Hours Lost to a Silent 401: Submitting 12 iOS Apps to the App Store With No Human in the Loop (Part 1)",
    "url": "https://dev.to/bokuwalily/two-hours-lost-to-a-silent-401-submitting-12-ios-apps-to-the-app-store-with-no-human-in-the-loop-1op5",
@@ -218,116 +328,6 @@
    "date": "2026-08-18T07:26:49+00:00",
    "summary": "If you've written Kotlin for any length of time, you've bumped into coroutines. Maybe you copy-pasted...",
    "points": 5,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "A header scan says 16/16. Here's what it can't see.",
-   "url": "https://dev.to/maclessdev/a-header-scan-says-1616-heres-what-it-cant-see-14ab",
-   "date": "2026-08-18T01:48:57+00:00",
-   "summary": "A few days after how I built and shipped an iOS app without a Mac went up here, a reader named Amit...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "get_intraday: a live within-day window for Apple Health, over MCP",
-   "url": "https://dev.to/philipad/getintraday-a-live-within-day-window-for-apple-health-over-mcp-5585",
-   "date": "2026-08-18T00:35:01+00:00",
-   "summary": "Most health MCP servers stop at yesterday. The live within-day window was the missing...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Breaking Up Big SwiftUI Views the Right Way",
-   "url": "https://dev.to/emadbeyrami/breaking-up-big-swiftui-views-the-right-way-3m42",
-   "date": "2026-08-17T23:28:32+00:00",
-   "summary": "Why computed properties help readability, what @ViewBuilder actually does, and when a...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The calendar-gap iPhone app blocker rule to stop doomscrolling",
-   "url": "https://dev.to/godnick/the-calendar-gap-iphone-app-blocker-rule-to-stop-doomscrolling-4pni",
-   "date": "2026-08-17T15:23:18+00:00",
-   "summary": "The most dangerous phone window is not always the long break.  It is the weird 7 to 12 minute gap...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "One codebase, one website, two app stores: what Capacitor actually costs you",
-   "url": "https://dev.to/bellsal_b44bf6d/one-codebase-one-website-two-app-stores-what-capacitor-actually-costs-you-2igc",
-   "date": "2026-08-17T14:44:05+00:00",
-   "summary": "My photo collage editor was a static site: vanilla JS, a canvas, no framework. Putting it on the Play...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Swift 6 Strict Concurrency: 4 Migration Mistakes and How to Fix Them",
-   "url": "https://dev.to/mrugeshtank/swift-6-strict-concurrency-4-migration-mistakes-and-how-to-fix-them-50ij",
-   "date": "2026-08-17T14:43:51+00:00",
-   "summary": "I enabled Swift 6 mode on a project I'd been shipping for two years. Sixty-plus errors. My first...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building CoreX: A Native Real-Time macOS Monitor in Swift",
-   "url": "https://dev.to/_b6417cbb54ddfef4c4fd0/building-corex-a-native-real-time-macos-monitor-in-swift-1137",
-   "date": "2026-08-17T07:31:41+00:00",
-   "summary": "I built CoreX to answer a practical question: why does a Mac feel slow right now, why did its fans...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Tech World’s Best Kept Secret: What Actually is an Operating System?",
-   "url": "https://dev.to/prasanambigai_sivakumar_0/the-tech-worlds-best-kept-secret-what-actually-is-an-operating-system-1l2o",
-   "date": "2026-08-16T19:44:49+00:00",
-   "summary": "If you’ve ever felt like tech people are speaking a completely different language when they say...",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why programmatic inserts don't wrap on iOS multiline TextInput, and the one-line native fix",
-   "url": "https://dev.to/dheerajakula/why-programmatic-inserts-dont-wrap-on-ios-multiline-textinput-and-the-one-line-native-fix-3di1",
-   "date": "2026-08-16T19:43:26+00:00",
-   "summary": "Why iOS multiline TextInput stops wrapping on programmatic inserts, and the one setNativeProps call that fixes it.",
-   "points": 0,
-   "tech": "objectivec",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Firefox para iOS bloquea anuncios con la Content Blocker API de Apple",
-   "url": "https://dev.to/lu1tr0n/firefox-para-ios-bloquea-anuncios-con-la-content-blocker-api-de-apple-3d05",
-   "date": "2026-08-16T14:23:15+00:00",
-   "summary": "Firefox para iOS bloquea anuncios y rastreadores con la Content Blocker API de Apple, la misma tecnología de Safari, aplicada con reglas JSON procesad",
-   "points": 0,
    "tech": "objectivec",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -554,6 +554,16 @@
    "lang": "en"
   },
   {
+   "title": "Objective-C Runtime - raywenderlich.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PMFg1cDZWOTZNcmdFSTg4MVV6MExtRFBiQmUyUWx0S25yemZMOWhPSHRkUnhLTDV3YVdhVTZPS194R21iQ1FoTkpEY1M0VE5Ea1NneTNn?oc=5",
+   "date": "2017-04-05T18:05:05+00:00",
+   "summary": "Objective-C Runtime - raywenderlich.com YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Objective-C Categories - raywenderlich.com",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10R1J0dkZURHloYXlaWXJ5WUVpc1REbVVha0V4MDFuNzhEMC1iMnFScThCam9qbnY1d3VNcTBmb3VmRk50MUdLREg3eVhiV2pWYU96OWhB?oc=5",
    "date": "2017-03-27T12:53:31+00:00",
@@ -574,6 +584,16 @@
    "lang": "en"
   },
   {
+   "title": "Objective-C Protocol and Delegates- raywenderlich.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hMUd5ejhzU2w1NGxwUmoyb2hkdzlOWE13TTZJUUdsVFhkUXk5RmhGdEFNN0FQbVZjZkpUdlJzX21SaGYzSDFINTFkaWtkdkhmbUxYcm53?oc=5",
+   "date": "2017-03-21T19:43:50+00:00",
+   "summary": "Objective-C Protocol and Delegates- raywenderlich.com YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "Beginning Objective-C Properties - raywenderlich.com",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00XzZQd29PTExoamNFTUR6anZJS1lrR2t2RHF4SHBOcy1PTXAyN2VNV1FFVDVHbTJtcEZCb2FtMVhkbzlXM3BubE5ZVVg3cTYySlEyZTlB?oc=5",
    "date": "2017-03-14T15:24:14+00:00",
@@ -588,6 +608,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5emJTWnZPemZHZWpvaHlobFZHRG1lenpGZi1yWTl2UjF2TDMzWU5wZ3I2S3hYa0NNY0xnWkY1cHhkai15WnBXMUxBNmt3Y0s0VnN1RjVB?oc=5",
    "date": "2017-03-09T13:32:31+00:00",
    "summary": "Beginning Objective-C Classes and Methods - raywenderlich.com YouTube",
+   "tech": "objectivec",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "Beginning Objective-C Data Types: Bool - raywenderlich.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55NUIyOUFNR0VKOFh3VGJibzdLbDJZSzUzc1psQWdtczQwY3RPWHA2bzY1TnJOT2hmVjFvVnpNbExRU3hzaWp2SlFSV1ZOMFBLeVNvVVpB?oc=5",
+   "date": "2017-02-22T13:04:57+00:00",
+   "summary": "Beginning Objective-C Data Types: Bool - raywenderlich.com YouTube",
    "tech": "objectivec",
    "sourceId": "yt",
    "source": "YouTube",

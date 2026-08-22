@@ -1,8 +1,59 @@
 {
- "generated": "2026-08-21T05:06:56.406254+00:00",
+ "generated": "2026-08-22T04:22:49.588436+00:00",
  "tech": "kotlin",
- "count": 218,
+ "count": 220,
  "items": [
+  {
+   "title": "The “Downcast Trap” in Kotlin’s Explicit Backing Fields",
+   "url": "https://medium.com/@ehab_elwan/the-downcast-trap-in-kotlins-explicit-backing-fields-626ef0d66e50?source=rss------android-5",
+   "date": "2026-08-22T02:30:16+00:00",
+   "summary": "Why eliminating the double-property boilerplate changes how we protect our architecture Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Ketika Remote Workstation Tidak Bisa Dibangunkan, Saya Mengubah Android Menjadi Linux Workstation",
+   "url": "https://medium.com/@fahminugroho23/ketika-remote-workstation-tidak-bisa-dibangunkan-saya-mengubah-android-menjadi-linux-workstation-aceb016e1d5b?source=rss------android-5",
+   "date": "2026-08-21T23:55:39+00:00",
+   "summary": "Dari STB Armbian + Tailscale + Wake-on-LAN hingga Ubuntu CLI + tmux + code-server di Android. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Fun Animations with Mesh Gradients: Jetpack Compose 1.12",
+   "url": "https://medium.com/@kevindesai777/fun-animations-with-mesh-gradients-jetpack-compose-1-12-0f708eed6c56?source=rss------android-5",
+   "date": "2026-08-21T21:35:09+00:00",
+   "summary": "A beginner-friendly guide to the new MeshGradientPainter in Compose 1.12 and the math behind rolling water waves. Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Receiving Shared Content in Jetpack Compose",
+   "url": "https://medium.com/@AttaMuhammad16/receiving-shared-content-in-jetpack-compose-da0ab5f8faad?source=rss------android-5",
+   "date": "2026-08-21T17:14:08+00:00",
+   "summary": "A useful Android feature that every modern app developer should understand: how to receive content shared from other apps using Jetpack&#x2026; Continue reading on Medium »",
+   "tech": "kotlin",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Can Two Apps Use the Same Android Camera at Once? How the OS Picks a Winner - and Why a 24/7 Recording Is the One That Loses",
+   "url": "https://dev.to/superfunicular/can-two-apps-use-the-same-android-camera-at-once-how-the-os-picks-a-winner-and-why-a-247-2ik3",
+   "date": "2026-08-21T07:19:07+00:00",
+   "summary": "Short answer: No — on Android, one app holds a given camera at a time, and the tie-break is not...",
+   "points": 0,
+   "tech": "kotlin",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Device Support Is a Promise, Not a minSdk Number",
    "url": "https://medium.com/@gsrajeni/device-support-is-a-promise-not-a-minsdk-number-6884a6d47c3c?source=rss------android-5",
@@ -310,46 +361,6 @@
    "lang": "en"
   },
   {
-   "title": "Building Android Apps at the Speed of Thought with Android CLI",
-   "url": "https://proandroiddev.com/building-android-apps-at-the-speed-of-thought-with-android-cli-7109c8a2184e?source=rss------android-5",
-   "date": "2026-08-18T21:57:28+00:00",
-   "summary": "Orchestrating an AI Agent Companion using Android Skills without breaking our code architecture Continue reading on ProAndroidDev »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Composition Over Inheritance in Android ViewModels",
-   "url": "https://medium.com/@omarsahl/composition-over-inheritance-in-android-viewmodels-51f3efba5f90?source=rss------android-5",
-   "date": "2026-08-18T21:02:37+00:00",
-   "summary": "Introduction Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Pinco for Android: APK Installation, Updates and Common Setup Issues",
-   "url": "https://medium.com/@daneclark7588/pinco-for-android-apk-installation-updates-and-common-setup-issues-7adab050b68e?source=rss------android-5",
-   "date": "2026-08-18T20:41:47+00:00",
-   "summary": "Pinco for Android: APK Installation, Updates and Common Setup Issues Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Swift Runs on Android.",
-   "url": "https://medium.com/@jacksonfdam/swift-runs-on-android-9c655dd12888?source=rss------android-5",
-   "date": "2026-08-18T20:12:07+00:00",
-   "summary": "I Compiled the Snippet Everyone Says Doesn&#x2019;t. Continue reading on Medium »",
-   "tech": "kotlin",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
    "title": "Week 2 of Shipaton 2026: Pinoy-Made App, Todochi, Enters Public Testing",
    "url": "https://hackernoon.com/week-2-of-shipaton-2026-pinoy-made-app-todochi-enters-public-testing?source=rss",
    "date": "2026-08-18T18:17:21+00:00",
@@ -507,17 +518,6 @@
    "date": "2026-08-17T20:47:47+00:00",
    "summary": "Android APK Distribution: What Developers Should Consider Outside Google Play   Android has...",
    "points": 0,
-   "tech": "kotlin",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Object Detection on Android for Autonomous Robots",
-   "url": "https://dev.to/vmodal_ai/object-detection-on-android-for-autonomous-robots-5hf0",
-   "date": "2026-08-17T20:36:47+00:00",
-   "summary": "Object Detection on Android for Autonomous Robots            Introduction   Autonomous...",
-   "points": 1,
    "tech": "kotlin",
    "sourceId": "devto",
    "source": "DEV.to",
@@ -1534,6 +1534,16 @@
    "lang": "en"
   },
   {
+   "title": "أدوات متابعة تطبيقات أندرويد باستخدام فايربيس (مريم الحذيفي)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iakZmZmRzaUJwMlVRZEVqM2NnSG5wbk9CNzZVVWUxcXFsaW1zWDFScGhKWTZlV3Zsc0g2X2JxTDFWWTlnOG9nOWo0SGhtRzIzUjNCNWhn?oc=5",
+   "date": "2023-02-02T18:07:59+00:00",
+   "summary": "أدوات متابعة تطبيقات أندرويد باستخدام فايربيس (مريم الحذيفي) YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "The Jetpack Compose Beginner Crash Course 💻 (Android Studio Tutorial)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZlVEQnBLMHVPWU5EakZXNmhVbDE2MjVyUTdBSXFaY29aS1FQNnlVby16ZXJyTlNvZ2VnRlE5MzdxMS1jUno3MmxsQUtCSTEtVFBRdE1B?oc=5",
    "date": "2023-02-01T11:30:05+00:00",
@@ -1814,16 +1824,6 @@
    "lang": "en"
   },
   {
-   "title": "Kotlin Tutorial for Beginners - Logical Operators in Kotlin (With Example)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HNTR2S3Y4cmpTcHhya1NzenhqWEdmTVR5OG90OFdUU2RqMGtQUnBkckFfeXhVTjhpUmNLcy1Jckl3cHZkbnh5bTk4MElqbkFoNktmN1NR?oc=5",
-   "date": "2022-02-22T02:00:08+00:00",
-   "summary": "Kotlin Tutorial for Beginners - Logical Operators in Kotlin (With Example) YouTube",
-   "tech": "kotlin",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "تسجيل الأعضاء في التطبيق من خلال firebase | دورة انشاء تطبيق أندرويد احترافي",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wN2dYdnA2bUp5ZWlqM3AtcG42WFd4UEJ3d1pJNHJmQ0FkRnppanhPbm9HZFJ5dkRDSmZQNEtLaERDdWpZamRXaEhIY0M2dGJiaTF5Wk9B?oc=5",
    "date": "2022-01-12T20:28:48+00:00",
@@ -1904,6 +1904,16 @@
    "lang": "ar"
   },
   {
+   "title": "appetize تشغيل تطبيق اندرويد بدون محاكي",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WRkdoNWY2VUdVVVVFaVNtRmcxQ3JoN05uaUI3aUs5cGZWcTI3SzV5c242WGZMNGN6dGxuOVZiLVhKMERJZy1wZHR3bDJhXzZUTXEzZVdR?oc=5",
+   "date": "2021-06-27T18:50:49+00:00",
+   "summary": "appetize تشغيل تطبيق اندرويد بدون محاكي YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "دورة تعلم أندرويد: الحلقة #1 اساسيات لغة الجافا - الجزء الأول (إسلام مدحت)",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nVEl2RHk4WDF5cms2TGJ5VVhrMFVYYjM3ZmlZLXMtdk02aTNDYzlWWDU0d1RGVTdzSmFKSFRYRmdEOUE5NDFZZklwTENTWE1JcmNjalFR?oc=5",
    "date": "2021-06-09T18:00:12+00:00",
@@ -1948,6 +1958,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ellYdmtHeHVhQWpFX1Z6WHM4bUdlU1hMdlNEQWMtdVJnMEJfZnVtQnZYSmFmQjlFMDVVVU9QNTdIdk1jNXQwN1JDNjFFb1VFcVlpMll3?oc=5",
    "date": "2021-04-24T18:21:37+00:00",
    "summary": "دورة تعلم اندرويد ستوديو كاملة 2024 Android Studio course in Arabic YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "الدوال في كوتلن (أحمد نبيل)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1N1FMT284a2g1RjVHTUVBb04xdHMyczdZYmlQVmtRZ1AwUXR3czhoUUFMU3ZwWGItRjZBbFZDZUNCQW1HU1lJSmFnaU5rU3dHNUNKUHZ3?oc=5",
+   "date": "2021-03-31T18:06:25+00:00",
+   "summary": "الدوال في كوتلن (أحمد نبيل) YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2044,16 +2064,6 @@
    "lang": "ar"
   },
   {
-   "title": "Android & Kotlin || R Class",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CY1ZyU2hMZC1SX191d0l5ZTg1V0ZLcllkd1Q1cnlvdTZrd2RiVjVaNUFSWXRLVnZCelhyTmtlV0VlREN1cWttSlNOcEtIdTFIYmNjRTZn?oc=5",
-   "date": "2019-09-08T14:57:59+00:00",
-   "summary": "Android & Kotlin || R Class YouTube",
-   "tech": "kotlin",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "Android & Kotlin || انشاء المشروع الاول",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbXI5RG93NDUtaklpLUpvWTBDcWVEY3Izckx1T2pYSXdXNTd3aE44OE9mQzhOb1lydm9URlZGX29iZXVDV0UwdVh4MjlCWU5XMjhlWmp3?oc=5",
    "date": "2019-09-07T15:34:59+00:00",
@@ -2098,6 +2108,16 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPNnJjMndqNXdJcTBRWENyakRIQWFwNlRvdVo0RWxWVXRPRjdEU1VYa2d1SEdqWllucUk1Y3lxSUpKWVFzQVhaZnhGNF83T1R6c2wwOUZR?oc=5",
    "date": "2019-04-14T07:57:22+00:00",
    "summary": "Learn Android in Arabic اندرويد حسونة | احترف الاندرويد 📱 توضيح مسار اندرويد كوتلن YouTube",
+   "tech": "kotlin",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "Learn Android in Arabic #19 - طلب البيرمشن من اليوزر اثناء تشغيل برنامج اندرويد request permission",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yV1Vvczc3SWhiLWU1ay1zaXBaT1NRdVlfbzFWNG1mNVo4YXVxMFo1RHpFZnlUZFZRRnREbzFMYmJTaEhlQURzTVZyMUQxcExsNVZTZGtB?oc=5",
+   "date": "2019-04-11T19:37:41+00:00",
+   "summary": "Learn Android in Arabic #19 - طلب البيرمشن من اليوزر اثناء تشغيل برنامج اندرويد request permission YouTube",
    "tech": "kotlin",
    "sourceId": "ar-yt",
    "source": "YouTube",

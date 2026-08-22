@@ -1,8 +1,274 @@
 {
- "generated": "2026-08-21T05:06:13.469420+00:00",
+ "generated": "2026-08-22T04:22:05.074434+00:00",
  "tech": "php",
  "count": 220,
  "items": [
+  {
+   "title": "Zero-Downtime Deployments in Laravel",
+   "url": "https://dev.to/iprajapatiparesh/zero-downtime-deployments-in-laravel-7bi",
+   "date": "2026-08-22T04:09:20+00:00",
+   "summary": "The Unacceptable Cost of Maintenance Mode  In the early days of a startup, deploying new code to a...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations",
+   "url": "https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27",
+   "date": "2026-08-22T03:54:13+00:00",
+   "summary": "When building an appointment scheduling system, one of the problems that looks simple at first...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Laravel Authentication in 2026: Breeze vs Jetstream vs Fortify vs Custom — The Decision You Can’t…",
+   "url": "https://sadiqueali.medium.com/laravel-authentication-in-2026-breeze-vs-jetstream-vs-fortify-vs-custom-the-decision-you-cant-130687df0762?source=rss------php-5",
+   "date": "2026-08-22T02:18:40+00:00",
+   "summary": "Four authentication approaches. Completely different architectures. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "This Week In PHP Internals | August 19, 2026",
+   "url": "https://dev.to/projektgopher/this-week-in-php-internals-august-19-2026-6mh",
+   "date": "2026-08-21T22:56:58+00:00",
+   "summary": "Hello world, it's Wednesday, August 19, 2026, and here's what happened This Week in PHP...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Naming eZ Publish Web Transactions in New Relic (2013)",
+   "url": "https://dev.to/hamdi_laadhari/naming-ez-publish-web-transactions-in-new-relic-2013-4inc",
+   "date": "2026-08-21T22:29:02+00:00",
+   "summary": "Archival repost — originally published on my old blog on October 5, 2013. Already in English, lightly...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "eZ Publish's Native RSS Import: Making It Actually Import <enclosure> Media (2012)",
+   "url": "https://dev.to/hamdi_laadhari/ez-publishs-native-rss-import-making-it-actually-import-media-2012-2lk5",
+   "date": "2026-08-21T22:11:51+00:00",
+   "summary": "Archival repost — originally published on my old blog on July 20, 2012. Translated from French,...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Custom ImageMagick Filters for eZ Publish Thumbnails (2011)",
+   "url": "https://dev.to/hamdi_laadhari/custom-imagemagick-filters-for-ez-publish-thumbnails-2011-4pim",
+   "date": "2026-08-21T22:08:12+00:00",
+   "summary": "Archival repost — originally published on my old blog on July 13, 2011. Translated from French,...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My First UWA Widget for Netvibes and iGoogle (2009)",
+   "url": "https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln",
+   "date": "2026-08-21T22:04:16+00:00",
+   "summary": "Archival repost — originally published on my old blog on January 18, 2009. Lightly cleaned up for...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "hash_equals('', '') Is true: When an Empty Config Opens Basic Auth",
+   "url": "https://dev.to/tegos/hashequals-is-true-when-an-empty-config-opens-basic-auth-34c6",
+   "date": "2026-08-21T20:10:00+00:00",
+   "summary": "An empty credential makes hash_equals() return true and your Laravel Basic Auth middleware let anyone in. Why it happens, and the guard that fails closed.",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Advanced WordPress Performance Optimization: A Developer's Guide",
+   "url": "https://dev.to/kai01916/advanced-wordpress-performance-optimization-a-developers-guide-2a73",
+   "date": "2026-08-21T18:53:05+00:00",
+   "summary": "WordPress performance problems are rarely caused by one thing.  A slow site might have an inefficient...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Asynchronous Large File Import in Laravel: Processing 100k+ Rows Without Crashing the Server",
+   "url": "https://medium.com/@karensuckow.dev/asynchronous-large-file-import-in-laravel-processing-100k-rows-without-crashing-the-server-d9b2eff69999?source=rss------php-5",
+   "date": "2026-08-21T18:52:18+00:00",
+   "summary": "Importing financial reports from payment gateways (such as Stripe, PayPal, and MercadoPago) is a standard requirement in e-commerce&#x2026; Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How declare(strict_types=1) Changes the Bytecode PHP Runs",
+   "url": "https://levelup.gitconnected.com/how-declare-strict-types-1-changes-the-bytecode-php-runs-5f2c1baea6a4?source=rss------php-5",
+   "date": "2026-08-21T18:30:04+00:00",
+   "summary": "Same PHP opcodes. One file-level flag. That&#x2019;s what strict_types actually is. Verified bytecode dump + coercion rules table. Continue reading on Level Up Coding »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How a Laravel Consultant Ensures Project Transparency and Security",
+   "url": "https://medium.com/@aqibjavaidabbasi/how-a-laravel-consultant-ensures-project-transparency-and-security-2325824f1373?source=rss------php-5",
+   "date": "2026-08-21T18:25:56+00:00",
+   "summary": "When a business hires a Laravel consultant, it is trusting someone with more than its code. The developer may have access to customer data&#x2026; Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Ambiguous Mapping: The Exception Symfony’s ObjectMapper Throws at Runtime",
+   "url": "https://medium.com/@laurentmn/ambiguous-mapping-the-exception-symfonys-objectmapper-throws-at-runtime-e555232e6cb3?source=rss------php-5",
+   "date": "2026-08-21T18:01:01+00:00",
+   "summary": "&#x1F3AF; Why skip the Serializer for this one job Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Safer Sign in with Apple Library for PHP",
+   "url": "https://medium.com/@binukajayaweera/safer-sign-in-with-apple-library-for-php-6cb6cb2545c1?source=rss------php-5",
+   "date": "2026-08-21T17:55:09+00:00",
+   "summary": "A defensive, framework-neutral PHP implementation with bounded JWKS fetching, modern JWT verification, full OAuth lifecycle support. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "我做了一個「注音符號驗證碼」Laravel 套件 — 機器人看不懂，台灣人秒懂",
+   "url": "https://hengineer.medium.com/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E5%80%8B-%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F%E9%A9%97%E8%AD%89%E7%A2%BC-laravel-%E5%A5%97%E4%BB%B6-%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%9C%8B%E4%B8%8D%E6%87%82-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%A7%92%E6%87%82-daa1796fc22d?source=rss------php-5",
+   "date": "2026-08-21T16:46:08+00:00",
+   "summary": "&#x70BA;&#x4EC0;&#x9EBC;&#x662F;&#x6CE8;&#x97F3; Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Row-level security in Symfony: the role that ran your migrations bypasses every policy you wrote",
+   "url": "https://dev.to/mollenthiel/row-level-security-in-symfony-the-role-that-ran-your-migrations-bypasses-every-policy-you-wrote-34bi",
+   "date": "2026-08-21T16:38:18+00:00",
+   "summary": "A comment on my last article was better than the article. The subject was single-database...",
+   "points": 3,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "IDOR in PHP and Laravel — When Changing One Number Exposes Someone Else's Data",
+   "url": "https://dev.to/kriosa/idor-in-php-and-laravel-when-changing-one-number-exposes-someone-elses-data-2l6m",
+   "date": "2026-08-21T13:58:19+00:00",
+   "summary": "This is the fifteenth article in a series on PHP and Laravel application security.  So far we have...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Scrape Google Trends Data With PHP Using the G-Trends API",
+   "url": "https://declan-kay117.medium.com/scrape-google-trends-data-with-php-using-the-g-trends-api-5bd8b09a7618?source=rss------php-5",
+   "date": "2026-08-21T12:49:25+00:00",
+   "summary": "Learn to scrape Google Trends data with PHP using the unofficial G-Trends API, process historical trend data and analyse search interest. Continue reading on Medium »",
+   "tech": "php",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "WordPress Security Hardening: A 10-Step Technical Checklist",
+   "url": "https://dev.to/reituman602/wordpress-security-hardening-a-10-step-technical-checklist-3g5l",
+   "date": "2026-08-21T12:24:02+00:00",
+   "summary": "WordPress powers 40%+ of the web, which also makes it the most heavily targeted CMS by automated...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building Reactive MPAs in 2KB: Meet Flynt.js",
+   "url": "https://dev.to/marsbos/building-reactive-mpas-in-2kb-meet-flyntjs-31ap",
+   "date": "2026-08-21T11:52:05+00:00",
+   "summary": "Why I Built Flynt.js: Reactivity Without Messy HTML Clutter   If you build Multi-Page...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I stopped asking for Laravel Cloud API tokens",
+   "url": "https://dev.to/jvbalcita/i-stopped-asking-for-laravel-cloud-api-tokens-4731",
+   "date": "2026-08-21T10:50:03+00:00",
+   "summary": "I originally verified LaraShipped launches with a Laravel Cloud API token.  Creators pasted a token....",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The 5 Levels of Laravel Authorization: From Basic RBAC to ABAC, Role Hierarchy & Multi-Tenancy (2026 Edition)",
+   "url": "https://dev.to/hosseinhezami/the-5-levels-of-laravel-authorization-from-basic-rbac-to-abac-role-hierarchy-multi-tenancy-1ge",
+   "date": "2026-08-21T08:16:22+00:00",
+   "summary": "TL;DR: Authorization maturity isn't binary — it's a ladder. Most Laravel apps start at Level 1...",
+   "points": 1,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Get rid of your CAPTCHA, the future of the web is bots",
+   "url": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/",
+   "date": "2026-08-21T07:40:00+00:00",
+   "summary": "Ryan chats with Brian Alvey, CTO at WordPress VIP, about how AI agents are changing the business models of the web, what parts of how we build our sites won’t survive our current digital evolution, and why your site will always need structu",
+   "tech": "php",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "Your Laravel queue worker count is a guess. Here is the math that replaces it.",
+   "url": "https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba",
+   "date": "2026-08-21T07:29:39+00:00",
+   "summary": "Every Laravel deployment I have seen has a line like this...",
+   "points": 0,
+   "tech": "php",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
   {
    "title": "Slate: shadcn-style UI for Laravel — in Blade, not React",
    "url": "https://dev.to/neerajsohal/slate-shadcn-style-ui-for-laravel-in-blade-not-react-40hh",
@@ -218,28 +484,6 @@
    "lang": "en"
   },
   {
-   "title": "Understanding PHP-FPM's process manager (by actually watching it)",
-   "url": "https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g",
-   "date": "2026-08-20T09:05:10+00:00",
-   "summary": "I thought I understood pm = dynamic until I sat down and watched it work in real time. It turns out...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Building a Multi-Tenant SaaS Authorization System in Laravel: A Complete Step-by-Step Guide (RBAC + ABAC + Teams)",
-   "url": "https://dev.to/hosseinhezami/building-a-multi-tenant-saas-authorization-system-in-laravel-a-complete-step-by-step-guide-rbac--304l",
-   "date": "2026-08-20T08:14:18+00:00",
-   "summary": "TL;DR: In this hands-on tutorial, we'll build a complete authorization system for a fictional...",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)",
    "url": "https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/",
    "date": "2026-08-20T07:40:00+00:00",
@@ -254,240 +498,6 @@
    "url": "https://blog.stackademic.com/what-makes-laravel-pest-testing-faster-than-phpunit-096f663d0b1d?source=rss------php-5",
    "date": "2026-08-20T06:42:13+00:00",
    "summary": "Anyone who&#x2019;s waited on a bloated PHPUnit suite before pushing code knows the frustration. Laravel Pest testing has picked up serious&#x2026; Continue reading on Stackademic »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Decoupling Laravel: Hexagonal Architecture Guide 🏗️",
-   "url": "https://dev.to/iprajapatiparesh/decoupling-laravel-hexagonal-architecture-guide-278d",
-   "date": "2026-08-20T04:22:24+00:00",
-   "summary": "The Trap of Framework Coupling  When you start building a Laravel application, the framework provides...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Laravel Soft Deletes in 2026: Everything You Think You Know Is Probably Incomplete",
-   "url": "https://sadiqueali.medium.com/laravel-soft-deletes-in-2026-everything-you-think-you-know-is-probably-incomplete-7e0841aefffd?source=rss------php-5",
-   "date": "2026-08-20T04:16:29+00:00",
-   "summary": "softDeletableResources(), restoring with relationships, force deleting safely, soft delete scopes that cause silent bugs, the performance&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The excluded-plugin setting that Playwright ignored — fixing browser-mode updates and false residual warnings",
-   "url": "https://dev.to/susumun/the-excluded-plugin-setting-that-playwright-ignored-fixing-browser-mode-updates-and-false-3ceo",
-   "date": "2026-08-20T03:08:25+00:00",
-   "summary": "The symptom   In browser-mode maintenance (Playwright, no SSH), plugins marked as \"excluded...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Laravel SaaS AI Architecture: Hexagonal Architecture — Swap OpenAI for Claude Without a Rewrite…",
-   "url": "https://medium.com/codex/laravel-saas-ai-architecture-hexagonal-architecture-swap-openai-for-claude-without-a-rewrite-b16c8ed05c21?source=rss------php-5",
-   "date": "2026-08-20T02:47:05+00:00",
-   "summary": "Series: Building a SaaS AI Product with Laravel &#x2014; Part 6 of 9 Continue reading on CodeX »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Unguarded, Sonnet 5 read another customer's order 100/100 times. Guarded: zero.",
-   "url": "https://dev.to/fissible/unguarded-sonnet-5-read-another-customers-order-100100-times-guarded-zero-1mf5",
-   "date": "2026-08-20T00:35:41+00:00",
-   "summary": "I ran the same storefront attacks against three models — one with its safety training deliberately...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Dev Log: 2026-08-19 — the bugs that never threw",
-   "url": "https://dev.to/nasrulhazim/dev-log-2026-08-19-the-bugs-that-never-threw-3cb3",
-   "date": "2026-08-19T23:26:42+00:00",
-   "summary": "Thirteen commits across five repos today, and once I lined them up in the evening the pattern was...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "findnix.eu: A GDPR-Compliant Search Engine Built From Scratch",
-   "url": "https://dev.to/findnix/findnixeu-a-gdpr-compliant-search-engine-built-from-scratch-39d2",
-   "date": "2026-08-19T23:23:57+00:00",
-   "summary": "A no-tracking, GDPR-compliant search engine from the EU — web, news, podcasts, science and more, with a companion kid-safe site and a growing set of privacy-first features.",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Bolting a rich-text editor onto a column full of plain text",
-   "url": "https://dev.to/nasrulhazim/bolting-a-rich-text-editor-onto-a-column-full-of-plain-text-10o5",
-   "date": "2026-08-19T23:22:44+00:00",
-   "summary": "Today's job: let people write email bodies with bold text, headings, links and inline images instead...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "5 Laravel Authorization Problems You're Probably Facing (And How to Solve Them in 2026)",
-   "url": "https://dev.to/hosseinhezami/5-laravel-authorization-problems-youre-probably-facing-and-how-to-solve-them-in-2026-11la",
-   "date": "2026-08-19T21:20:35+00:00",
-   "summary": "TL;DR: Most Laravel apps hit the same 5 authorization walls as they grow — role explosion, exception...",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Most Advanced Laravel Permission Manager: Enterprise Authorization Engine with RBAC, ABAC, Role Hierarchy & Multi-Tenancy",
-   "url": "https://dev.to/hosseinhezami/the-most-advanced-laravel-permission-manager-enterprise-authorization-engine-with-rbac-abac-role-30n6",
-   "date": "2026-08-19T20:53:21+00:00",
-   "summary": "A complete, production-ready authorization platform for Laravel — combining RBAC, ABAC, Role...",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your test suite is lying to you about which process it's in",
-   "url": "https://dev.to/andreas_huttenrauch/your-test-suite-is-lying-to-you-about-which-process-its-in-39l0",
-   "date": "2026-08-19T20:12:10+00:00",
-   "summary": "I found 2,684 junk records in a live third-party app. Every one of them was created by our own test...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Symfony 8 Just Killed XML Config (And YAML Didn’t Even Flinch)",
-   "url": "https://medium.com/@laurentmn/symfony-8-just-killed-xml-config-and-yaml-didnt-even-flinch-36a7d3d936cb?source=rss------php-5",
-   "date": "2026-08-19T19:38:09+00:00",
-   "summary": "Symfony 8.0 shipped on November 27, 2025, next to the 7.4 LTS release. Both share the same code, but 8.0 drops every feature marked&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Le typage en php :",
-   "url": "https://medium.com/@chemseddinehoufel/le-typage-en-php-partie-1-d12f1f193d52?source=rss------php-5",
-   "date": "2026-08-19T19:16:14+00:00",
-   "summary": "En Laravel, les types de classes (type hinting) sont utilis&#xE9;s partout gr&#xE2;ce &#xE0; l&#x2019;injection de d&#xE9;pendances (Dependency Injection). Voici les&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Quick note: il pattern make() e l'igiene delle istanze",
-   "url": "https://dev.to/dev_iadicola/quick-note-il-pattern-make-e-ligiene-delle-istanze-49o2",
-   "date": "2026-08-19T17:00:13+00:00",
-   "summary": "Quick note su perché il framework usa ClassName::make() invece di new ClassName() e cosa cambia nella pratica.",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Migrating from spatie/laravel-permission to Redis: A Production Playbook",
-   "url": "https://medium.com/@sebarca0/migrating-from-spatie-laravel-permission-to-redis-a-production-playbook-eaf10f807e1a?source=rss------php-5",
-   "date": "2026-08-19T16:54:41+00:00",
-   "summary": "spatie/laravel-permission is the de facto standard for roles and permissions in Laravel, and for most apps it is exactly the right choice&#x2026; Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Writing a Tiny PHP Extension — What php-src Looks Like From the Outside",
-   "url": "https://levelup.gitconnected.com/writing-a-tiny-php-extension-what-php-src-looks-like-from-the-outside-b878b31eec68?source=rss------php-5",
-   "date": "2026-08-19T16:16:49+00:00",
-   "summary": "php-src tour + a working extension in 60 lines of C. Verified compile + load + call. When to write extensions (rarely) and why. Continue reading on Level Up Coding »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "PHP Delray Beach vs IOP: Choosing the Right Level",
-   "url": "https://medium.com/@delraybeachiop/php-delray-beach-vs-iop-choosing-the-right-level-cde9b6c89df8?source=rss------php-5",
-   "date": "2026-08-19T16:16:04+00:00",
-   "summary": "Continue reading on Medium »",
-   "tech": "php",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "What Actually Happens When You Call `->save()` in Laravel Eloquent",
-   "url": "https://dev.to/haseebmirza/what-actually-happens-when-you-call-save-in-laravel-eloquent-444f",
-   "date": "2026-08-19T16:00:00+00:00",
-   "summary": "Most Laravel developers call -&gt;save() a hundred times a day.  Almost none of them know what...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Single-database multi-tenancy in Symfony: a 31-line Doctrine filter, and the five places it never runs",
-   "url": "https://dev.to/mollenthiel/single-database-multi-tenancy-in-symfony-a-31-line-doctrine-filter-and-the-five-places-it-never-18pg",
-   "date": "2026-08-19T15:51:43+00:00",
-   "summary": "Single-database multi-tenancy is the cheapest kind: one schema, one connection, an organization_id...",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Scanning 50,000 WooCommerce Products Without Hitting a PHP Timeout",
-   "url": "https://dev.to/arcsviel/scanning-50000-woocommerce-products-without-hitting-a-php-timeout-5fl",
-   "date": "2026-08-19T15:27:18+00:00",
-   "summary": "If you've ever managed a WooCommerce store past a few hundred products, you already know the catalog...",
-   "points": 0,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "24 workers configured, 6 ever used, and the number that actually mattered was MySQL's max_connections",
-   "url": "https://dev.to/dineshstack/24-workers-configured-6-ever-used-and-the-number-that-actually-mattered-was-mysqls-5206",
-   "date": "2026-08-19T12:10:06+00:00",
-   "summary": "PHP-FPM worker count is not a performance dial you turn up. It is the smallest of three separate...",
-   "points": 1,
-   "tech": "php",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Best Tech Stack for Enterprise Applications: .NET vs PHP vs Node.js",
-   "url": "https://medium.com/@social200kuser/best-tech-stack-for-enterprise-applications-net-vs-php-vs-node-js-f975ff816570?source=rss------php-5",
-   "date": "2026-08-19T09:43:01+00:00",
-   "summary": "Choosing a technology stack for an enterprise application shapes how fast you scale, how easily you secure the system, how well it&#x2026; Continue reading on Medium »",
    "tech": "php",
    "sourceId": "medium",
    "source": "Medium",
@@ -1174,6 +1184,16 @@
    "lang": "en"
   },
   {
+   "title": "13 - شرح مفهوم العلاقات Eloquent ORM One To Many - دورة تعلم لارافيل Laravel Course",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwQk5JUy05ZE1WaG5ObnB5S2tmXzluYWxDUnQ4SFp5NEdmaG5PTEFubklTSHZLaEVaOC1yR3lUenBUMW1iQnpCaktVVkdOOG5TdjR1TVZB?oc=5",
+   "date": "2025-02-07T12:02:46+00:00",
+   "summary": "13 - شرح مفهوم العلاقات Eloquent ORM One To Many - دورة تعلم لارافيل Laravel Course YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "12 - شرح مفهوم العلاقات Eloquent ORM One To One - دورة تعلم لارافيل Laravel Course",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VW9uaEFWem1rekRqZHQ3RHRfaTZvbE13Qnp5d0hHdGRzdkwzcVp2ZWROTGF4ZFk3VkNpYjRReWg2NWgxQ18zdUlUZ195NEtvNmRhRnFB?oc=5",
    "date": "2025-02-07T11:38:47+00:00",
@@ -1554,6 +1574,16 @@
    "lang": "ar"
   },
   {
+   "title": "لغة PHP هي لغة برمجة نصية مفتوحة المصدر",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TV3lnR0RIcFlkaGV6aFpDWXhqTnk2N1ZpRVMxS0FvNndLQkhFb25jSS1KcHdTTk9WRUd4MHByR01CU3hIN1NSR2kxalQ5cGhlT1RZMA?oc=5",
+   "date": "2023-12-28T18:37:42+00:00",
+   "summary": "لغة PHP هي لغة برمجة نصية مفتوحة المصدر YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "24-معالجة الأخطاء والاستثناءات في PHP: دليل شامل لتحسين جودة البرمجة - php try and catch",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjZHpKWjlzQk5vWG1ZXzk2WUFYS2NtYk9CUTRTVV9TeXZPZmlSNEFlVVp6Um1VZEk3SDJGcHJLZ3cyaklheFJSZ2xBaV9LdWM4SGtGTk5n?oc=5",
    "date": "2023-12-26T19:30:31+00:00",
@@ -1824,6 +1854,16 @@
    "lang": "en"
   },
   {
+   "title": "تثبيت بيئة لارافيل || حل مشاكل تثبيت لارافيل || تثبيت laravel",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TbU5fTG45MVNFWjhRalJqRklIaGVqVUZRcE5kOGJPbk54QXh5VGoyTERnQWNQSXI3TG5NV3I3WDFTQ0RyVTFIV3UyaUpDRTVxSVZHMGlR?oc=5",
+   "date": "2023-03-03T08:43:49+00:00",
+   "summary": "تثبيت بيئة لارافيل || حل مشاكل تثبيت لارافيل || تثبيت laravel YouTube",
+   "tech": "php",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "افضل طريقة اضافة الصوره من form واستقبالها في php عرضها بشكل بسيط اضافة صوره html php img",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VWE5QSnh0RUo5YUY4M2VHcjdUYkNUb2ZYaHdraGF4dEptM28yQjd1UnpfaHdxVkhDSWlyX1FOeUUyemtVaThfRUNsUGJTa1d4eE9lZnlR?oc=5",
    "date": "2023-02-28T19:14:54+00:00",
@@ -1992,16 +2032,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "02- Set laravel database connection for laravel multi-tenancy",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qLTIyS0d2T3FXa2ZlVmRJOUo5eW1mTF9ZS21WT3gzTXVaNDhicEJIbGd1a0hoTGVQTng1OGwtcE5uTlR6bk0tcnpCd055dkxmVV9jLU5R?oc=5",
-   "date": "2022-10-24T20:42:57+00:00",
-   "summary": "02- Set laravel database connection for laravel multi-tenancy YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "23 - You are now ready to enter the sales course | دورة شرح لارافيل 9 كاملا",
@@ -2198,36 +2228,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfaWZnX2liODBZTmltNXc5QzN6ZDFvN01vazR4SDhmR0NJcDZRS1ltUHFGcnJRM0h4TXJCVHZUS054ZGppRFhxX0lpZDQ2MmNLS0J2MXFn?oc=5",
    "date": "2022-05-01T19:32:29+00:00",
    "summary": "تصميم وبرمجة متجر الكتروني الجزء الاخير اضافة مستخدمين وحجز منتجات والسعر الكلي php sql YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "دمج HTML Template مع كود PHP وتقسيمة بطريقة سهلة وصحيحة #3",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOS3JDa2QyXzE1Z2pLdUQ1cU5mS3c1dHl4Y1oweGFQSl9Md1B5MTNCTEJ0MGRRXzJHZ2MzSkF1ZW5FQ0Z0YUs5YXZ5NUpNOE9oTnRadkVn?oc=5",
-   "date": "2022-05-01T13:00:22+00:00",
-   "summary": "دمج HTML Template مع كود PHP وتقسيمة بطريقة سهلة وصحيحة #3 YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "16 - create categories and subcategories Laravel شرح انشاء أقسام رئيسية وفرعية",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DTTdBVGxRMmliWVN5U19rOGp4ajdNdEI1VEFkdmNfd1lGci1fa0wycnZVVTlsc2JZZlUwVUN1M3h0YVNqbnJ1dmExbTJ2czNqRm9vb2V3?oc=5",
-   "date": "2022-04-26T15:05:00+00:00",
-   "summary": "16 - create categories and subcategories Laravel شرح انشاء أقسام رئيسية وفرعية YouTube",
-   "tech": "php",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "ربط الـ PHP مع MySQL بسهولة وعمل صفحة تسجيل مستخدم #2",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1OXJaNkFEZlJiRU9idlpEZ0R3MUVKVDVwNk5oOXhkcXV5VXhFSnpUXzZjYTFJS0hhbFpGZW1pNXRzcVcxU2lfZGh6MUd1SjRKWGw2VVdB?oc=5",
-   "date": "2022-04-23T01:44:02+00:00",
-   "summary": "ربط الـ PHP مع MySQL بسهولة وعمل صفحة تسجيل مستخدم #2 YouTube",
    "tech": "php",
    "sourceId": "ar-yt",
    "source": "YouTube",

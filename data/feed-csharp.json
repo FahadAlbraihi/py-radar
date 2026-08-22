@@ -1,8 +1,58 @@
 {
- "generated": "2026-08-21T05:05:58.453007+00:00",
+ "generated": "2026-08-22T04:21:49.270557+00:00",
  "tech": "csharp",
  "count": 220,
  "items": [
+  {
+   "title": "The C# Interview Question That Looks Like LINQ — Until the Data Gets Huge",
+   "url": "https://medium.com/@shemeenasrawther/the-c-interview-question-that-looks-like-linq-until-the-data-gets-huge-edddbe13fc53?source=rss------csharp-5",
+   "date": "2026-08-22T03:57:20+00:00",
+   "summary": "I was asked a C# interview question that looked almost too easy. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Performance Tuning in Modern C# Applications: Stop Using Brute Force and Start Thinking in Grey…",
+   "url": "https://medium.com/@anirban.banerje/performance-tuning-in-modern-c-applications-stop-using-brute-force-and-start-thinking-in-grey-255d10d24c1d?source=rss------csharp-5",
+   "date": "2026-08-21T21:22:39+00:00",
+   "summary": "Performance tuning is often approached as a race to make individual operations faster. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Rubbish Code, Clean Memory: Understanding the .NET Garbage Collector",
+   "url": "https://truestorydavestorey.medium.com/rubbish-code-clean-memory-understanding-the-net-garbage-collector-1aacaf20e286?source=rss------csharp-5",
+   "date": "2026-08-21T12:06:22+00:00",
+   "summary": "Automatic memory management is a cornerstone of what makes many modern programming languages and runtimes so appealing to many engineers&#x2026; Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Building WinUI Apps in Pure C#: A Hands-On Tour of Microsoft UI Reactor",
+   "url": "https://blog.devops.dev/building-winui-apps-in-pure-c-a-hands-on-tour-of-microsoft-ui-reactor-c1c9be061193?source=rss------csharp-5",
+   "date": "2026-08-21T11:49:03+00:00",
+   "summary": "The C# first programming model, hooks and a reconciler, and how the experimental Reactor framework fits alongside the XAML apps you&#x2026; Continue reading on DevOps.dev »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "C# Properties Just Lost One of Their Most Annoying Pieces of Boilerplate",
+   "url": "https://medium.com/@shemeenasrawther/c-properties-just-lost-one-of-their-most-annoying-pieces-of-boilerplate-4053b63f03de?source=rss------csharp-5",
+   "date": "2026-08-21T07:35:03+00:00",
+   "summary": "I&#x2019;ve been writing C# for a long time. Continue reading on Medium »",
+   "tech": "csharp",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "ASP.NET Core Fundamentals: What Actually Happens Between the Browser and Your Controller",
    "url": "https://medium.com/@thecurlybrace/asp-net-core-fundamentals-what-actually-happens-between-the-browser-and-your-controller-dc957ab67965?source=rss------csharp-5",
@@ -280,33 +330,13 @@
    "lang": "en"
   },
   {
-   "title": "Stop Retrying Slow APIs: Build Safe HTTP Hedging in .NET 10",
-   "url": "https://medium.com/@mariammaurice/stop-retrying-slow-apis-build-safe-http-hedging-in-net-10-c8a2df092a0d?source=rss------csharp-5",
-   "date": "2026-08-19T17:01:03+00:00",
-   "summary": "Your retry policy just turned a 2-second slowdown into a 12-second outage. Hedging would have fixed it in 500 milliseconds. Continue reading on Medium »",
+   "title": "Explore the Future of ASP.NET Core & Blazor in .NET 11",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zQ29MVzJOLTg0ZFQ5TjNOcFlUYmp1ZjFIc1RTOWV3ZXNkWl9UaUZ0REtGV2JDc0tXSHlPd3V2QTNlTXB2Y3BYN1VmdWNPcFIySEN5ZjhB?oc=5",
+   "date": "2026-08-19T16:00:39+00:00",
+   "summary": "Explore the Future of ASP.NET Core & Blazor in .NET 11 YouTube",
    "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Latest C# 14 Features: 7 Practical Improvements for .NET 10 Developers",
-   "url": "https://medium.com/c-sharp-programming/latest-c-14-features-7-practical-improvements-for-net-10-developers-480e4b7b814c?source=rss------csharp-5",
-   "date": "2026-08-19T16:52:37+00:00",
-   "summary": "Cleaner Code with Latest C# 14 Features Continue reading on .Net Programming »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "The Definitive Guide to C# .NET UI Controls",
-   "url": "https://medium.com/mesciusinc/the-definitive-guide-to-c-net-ui-controls-276a720d3c72?source=rss------csharp-5",
-   "date": "2026-08-19T16:44:48+00:00",
-   "summary": ".NET provides a rich ecosystem of user interface (UI) frameworks that enable developers to build applications for desktop, web, and mobile&#x2026; Continue reading on MESCIUS inc. »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -328,26 +358,6 @@
    "tech": "csharp",
    "sourceId": "sites",
    "source": "مواقع تقنية",
-   "lang": "en"
-  },
-  {
-   "title": "C# Records: Syntax, Examples, Immutability, and Best Practices",
-   "url": "https://medium.com/@hafsatariq277/c-records-syntax-examples-immutability-and-best-practices-db7130165fb3?source=rss------csharp-5",
-   "date": "2026-08-19T14:46:01+00:00",
-   "summary": "URL Slug: /csharp-records-syntax-examples-best-practices Continue reading on Medium »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Beyond 99.99%",
-   "url": "https://towardsaws.com/beyond-99-99-470dbd3dc0b4?source=rss------csharp-5",
-   "date": "2026-08-19T14:45:16+00:00",
-   "summary": "How to design bulletproof AWS systems in .NET 10 that gracefully handle downstream service crashes without dropping a single user request. Continue reading on Towards AWS »",
-   "tech": "csharp",
-   "sourceId": "medium",
-   "source": "Medium",
    "lang": "en"
   },
   {
@@ -864,12 +874,32 @@
    "lang": "en"
   },
   {
+   "title": "#1 [arabic] ASP.NET Core 9 Web API – Intro and Setup | مقدمة وإنشاء مشروع واجهة API",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83ckpFMHJ4OGdnZjU3SGx3S1BHRlRSWElmaFlOTTBVUFpHUUNnUm1aekNNZVF0dEFtZ3ZRcUswWlhrQ2NhZWVJRllvbW51UkxPYXo1UkVR?oc=5",
+   "date": "2025-07-24T22:03:14+00:00",
+   "summary": "#1 [arabic] ASP.NET Core 9 Web API – Intro and Setup | مقدمة وإنشاء مشروع واجهة API YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Fullstack application with .net core and angular - using minimal APIs and angular signals",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fMDRuNDFUZUx5eTVaNEl5XzdWdDF1MWZkb0JjcjFwZTg2Z19GTnZZTkl6OTRYNmZtcXBlaG1jSnlYSTZ1WjZCQ0dJVHJPcGhDbUlqQ0FB?oc=5",
    "date": "2025-07-21T18:50:00+00:00",
    "summary": "Fullstack application with .net core and angular - using minimal APIs and angular signals YouTube",
    "tech": "csharp",
    "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "🚀 New Course Launched – Master ASP.NET Core & Build Real-World APIs",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tQnh4VXJ1T29FQjB0UzRPN3hzTF9VZ1J4VEdZdUowR3EwcmlkRTV6NU5QbEdJY0lLTUlMcUpnT1BpY1AtaDRnUW1ucHlIUjNhT29OWDhB?oc=5",
+   "date": "2025-07-20T14:33:36+00:00",
+   "summary": "🚀 New Course Launched – Master ASP.NET Core & Build Real-World APIs YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "en"
   },
@@ -1354,6 +1384,26 @@
    "lang": "en"
   },
   {
+   "title": "C# Bangla Tutorial 1 : .NET Developer l .NET Framework Ecosystem? .NET Core?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HVlE5anYweXlNOHp0VW1NSk5HWmxmb3lNRTA1LThHRDVDdWM4VzdGSEg5d0F6V3BrbFRFanZMX0hYbTFiV0dfV05pMnN0M1ZSNEZFYi1R?oc=5",
+   "date": "2024-03-21T15:15:08+00:00",
+   "summary": "C# Bangla Tutorial 1 : .NET Developer l .NET Framework Ecosystem? .NET Core? YouTube",
+   "tech": "csharp",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "محددات الوصول في لغة السي شارب | c# access modifiers |",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5za3ZQMXNWa2ptN0VaczIwbWw1SGdsYkJFclRSMWVXQzZoeVN4cnU4bzZ2VWdadE9zTjZ1MTM0WGMzVDR3NEY5N3Zhd2dkQ3lIdUp2NQ?oc=5",
+   "date": "2024-03-20T20:00:12+00:00",
+   "summary": "محددات الوصول في لغة السي شارب | c# access modifiers | YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "ASP.NET Core Tutorial – Beginner to Advanced Projects",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlc3hmTUpCSERkcWtOZFEzWFh4eEJRckJpajI5MEZKU1RiNEFIREZjaWxXM2JLcFBjZnZyQzJjZ0xCOHNDbl92WmhxdUVGRGJhcW80MXZn?oc=5",
    "date": "2024-03-20T14:40:17+00:00",
@@ -1384,16 +1434,6 @@
    "lang": "en"
   },
   {
-   "title": "MongoDB with DotNet Core - .Net Core Rest API Tutorial | MongoDB",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzdW53djR4Rkp3azZJMmpEenhnZGlDRXJQOUEzaTBYdGpEWUxKLWRPRk1BbnZtMXpzazJkbHhuYnU5TWZEdWtkX2podkxHZ0ZmajBhRkV3?oc=5",
-   "date": "2024-02-15T11:30:14+00:00",
-   "summary": "MongoDB with DotNet Core - .Net Core Rest API Tutorial | MongoDB YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "01 البداية الشاملة في تعلم .NET Framework",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MTBwQndmMlhWRm9XMUFaQzY1dVIzT0c1ZTBzdVluNTRTc09La1lxbldLS1NjcUZnWE45R3JPbFRHZ1JweGV6RklPY2R0V1MxdTM4cmlR?oc=5",
    "date": "2024-02-15T03:00:26+00:00",
@@ -1412,26 +1452,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "Kubernetes Crash Course for DotNet Developers [Kubernetes Crash Course For Dotnet Developer Part 1]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sT0hrTVF4RWJnazAyOTFDbmdzX0NqdURuWllIOGk5TFJsMnhkMlQtZkJtYk9kU2ZvYWJtTEZkNUVrOVFZN05aVGlUN3ZjTjBTcGhtdzVn?oc=5",
-   "date": "2024-02-02T05:00:11+00:00",
-   "summary": "Kubernetes Crash Course for DotNet Developers [Kubernetes Crash Course For Dotnet Developer Part 1] YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction to APIs with .NET [Pt 1] | Back-end Web Development with .NET for Beginners",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80Zmw1aDRlaGpTN1JFOC1nam1CR1F1ckpjTmw1R29WY0ZaVkdGc0pQeFNiM2psd0tGNGdOdGFQNjBEQVEtUkpLakJiUUFiZFYzcHN4Z3Vn?oc=5",
-   "date": "2024-02-01T14:00:28+00:00",
-   "summary": "Introduction to APIs with .NET [Pt 1] | Back-end Web Development with .NET for Beginners YouTube",
-   "tech": "csharp",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "11.Dependency Injection With ASP.NET Core MVC شرح بالعربي",
@@ -2194,40 +2214,20 @@
    "lang": "ar"
   },
   {
+   "title": "تعلم البرمجة بلغة سي شارب c# _ كورس السي شارب",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MTHQ2MkljSEJsQy14NGllaHRYM1J1RGF4R0x4V1hITnVlN2x1blRTdFhSYzBIWVJwMXdsUWd5UGVvT3VLdmhySkhUM3VuT0g2WEh1Qm1n?oc=5",
+   "date": "2022-02-06T14:00:15+00:00",
+   "summary": "تعلم البرمجة بلغة سي شارب c# _ كورس السي شارب YouTube",
+   "tech": "csharp",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "004 شرح مفهوم ال Namespace & Class & Method | تعلم السي شارب C# programing language",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQXBKbHhucGpjbjRpR0ZfWE83Tzg3aUFpeHcxOFlKbmFHU2tEdGpyUTdZVVJ2cUpvRjlQalVERTYwN3hsVTdSd21wZ29wQ19BWW90TTRR?oc=5",
    "date": "2022-02-06T02:52:13+00:00",
    "summary": "004 شرح مفهوم ال Namespace & Class & Method | تعلم السي شارب C# programing language YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#12 C Sharp | C# | Comments | التعليقات | شرح كورس سى شارب",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KT2ZVd2ZVT1BxNngwUWVRbHVRUlBQSTFCSnQ5b2J5SWlQTFV5RkpxbC11LW9xcDBBQkpyUUN4bllkMFVjdGh3SnZtX3Nqb04wdnZsNDVB?oc=5",
-   "date": "2022-02-05T15:47:15+00:00",
-   "summary": "#12 C Sharp | C# | Comments | التعليقات | شرح كورس سى شارب YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "001 مدخل إلى عالم ال سي شارب C# Basic | تعلم السي شارب C# programing language",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yLXR5ekNEcU9udjlCYXZUdHJQc0Uza1V6Q1RpRFVfa0MtSFltc3c1RkdLNE9Ud0xRRVNrVVRrVEtlTWNkdXJiekd5MlNqSjVnWTZ4aXZR?oc=5",
-   "date": "2022-02-01T23:27:02+00:00",
-   "summary": "001 مدخل إلى عالم ال سي شارب C# Basic | تعلم السي شارب C# programing language YouTube",
-   "tech": "csharp",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "#10 C Sharp | C# | Console read line | boolean | قراءة بيانات من المستخدم | شرح سى شارب",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wa0dhaU1vSk5fTTlQWXlwRmJsTEs1MVJvNFBJS0djbW1VX2RJYUdHT09BZy1fTTlzWFFLd1hOY3k2dmVsU1pzQ25YYTk4b3pLazF1Q0Z3?oc=5",
-   "date": "2022-01-30T17:16:25+00:00",
-   "summary": "#10 C Sharp | C# | Console read line | boolean | قراءة بيانات من المستخدم | شرح سى شارب YouTube",
    "tech": "csharp",
    "sourceId": "ar-yt",
    "source": "YouTube",

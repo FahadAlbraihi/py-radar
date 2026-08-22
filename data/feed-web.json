@@ -1,8 +1,310 @@
 {
- "generated": "2026-08-21T05:08:24.464471+00:00",
+ "generated": "2026-08-22T04:24:21.297432+00:00",
  "tech": "web",
  "count": 220,
  "items": [
+  {
+   "title": "Common CSS Mistakes Beginners Make (and How to Actually Fix Them)",
+   "url": "https://medium.com/@ishwaryagopinathan/common-css-mistakes-beginners-make-and-how-to-actually-fix-them-f688f034babe?source=rss------css-5",
+   "date": "2026-08-22T04:09:03+00:00",
+   "summary": "If you&#x2019;ve made it through this whole series, you already know a genuinely solid amount of CSS. Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations",
+   "url": "https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27",
+   "date": "2026-08-22T03:54:13+00:00",
+   "summary": "When building an appointment scheduling system, one of the problems that looks simple at first...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "AI crawler user agents are self-reported: 468 real fetches, 991 fake ones",
+   "url": "https://dev.to/aulvem/ai-crawler-user-agents-are-self-reported-468-real-fetches-991-fake-ones-bgo",
+   "date": "2026-08-22T03:31:26+00:00",
+   "summary": "I used to watch AI crawler traffic on my site as a table grouped by User-Agent: so many requests from...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "FieldOS, Part 1: I Built the Core System and Timed Every Single Hour",
+   "url": "https://dev.to/scott_steinmetz/fieldos-part-1-i-built-the-core-system-and-timed-every-single-hour-2ig6",
+   "date": "2026-08-22T03:18:01+00:00",
+   "summary": "Every time a business owner asks me what a custom system will cost, I give them a number I can't...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "How to Add AI to Your Existing SaaS Application: A Practical Guide for 2026",
+   "url": "https://dev.to/amar74/how-to-add-ai-to-your-existing-saas-application-a-practical-guide-for-2026-22ej",
+   "date": "2026-08-22T03:08:04+00:00",
+   "summary": "\"Should we add AI to our product?\" isn't really the right question anymore. Most SaaS founders and...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Are Custom Hooks Ruining Your React App Performance?",
+   "url": "https://dev.to/nainikmehta/are-custom-hooks-ruining-your-react-app-performance-1o49",
+   "date": "2026-08-22T03:01:12+00:00",
+   "summary": "The Hidden Cost of \"Clean\" Code   As React developers, we are taught to value clean, DRY...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
+   "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911",
+   "date": "2026-08-22T02:59:36+00:00",
+   "summary": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, CubitSignal, BlocSignal, and persistence mixins.",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Site list scrolls to top on every delete — fixing the missing keepScroll argument across 6 call sites",
+   "url": "https://dev.to/susumun/site-list-scrolls-to-top-on-every-delete-fixing-the-missing-keepscroll-argument-across-6-call-1lki",
+   "date": "2026-08-22T02:45:34+00:00",
+   "summary": "The symptom   Every time a site was deleted from the WordPress Maintenance Manager site...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "HLD: URL Shortener (like bit.ly)",
+   "url": "https://dev.to/gouranga-das-khulna/hld-url-shortener-like-bitly-3696",
+   "date": "2026-08-22T02:00:00+00:00",
+   "summary": "Design a system that takes a long URL and returns a short URL, and redirects short URLs to their...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Architectural Breakdown: Olá, dev.to! Sou o Gabriel e automatizo o escritório jurídico onde trabalho",
+   "url": "https://dev.to/agenticstack/architectural-breakdown-ola-devto-sou-o-gabriel-e-automatizo-o-escritorio-juridico-onde-trabalho-13fm",
+   "date": "2026-08-22T00:11:33+00:00",
+   "summary": "# Olá, dev.to. I Automate My Law Firm, Here’s the Hardened Python Stack That Replaced...",
+   "points": 1,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "TypeScript Features Worth Adopting First",
+   "url": "https://dev.to/stackhorizon/typescript-features-worth-adopting-first-2jfo",
+   "date": "2026-08-22T00:00:33+00:00",
+   "summary": "Start with the essentials, not the entire type system   When you first adopt TypeScript, the...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Nuance Is a Double-Edged Sword ⚔️",
+   "url": "https://dev.to/edmundsparrow/nuance-is-a-double-edged-sword-3oi0",
+   "date": "2026-08-21T23:35:14+00:00",
+   "summary": "The dictionary defines nuance as a subtle distinction or variation. In practice, it's the difference...",
+   "points": 3,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "The cheapest model on my plan loses every benchmark. It still beats models charging 14x more.",
+   "url": "https://dev.to/dev_michael/the-cheapest-model-on-my-plan-loses-every-benchmark-it-still-beats-models-charging-14x-more-2po8",
+   "date": "2026-08-21T20:38:31+00:00",
+   "summary": "I ran the $0.14 model against the $0.44 model expecting a close fight. It lost 4-0. Then I looked at what it does to everything priced in between.",
+   "points": 2,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Overflow",
+   "url": "https://dev.to/abishek_m_82/css-overflow-2419",
+   "date": "2026-08-21T19:11:23+00:00",
+   "summary": "CSS overflow is used to control what happens when the content inside an HTML element is larger than...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "My first website said \"Don't commit without context.\" I never committed it at all.",
+   "url": "https://dev.to/earlgreyhot1701d/my-first-website-said-dont-commit-without-context-i-never-committed-it-at-all-5d57",
+   "date": "2026-08-21T18:45:03+00:00",
+   "summary": "The renewal notice came and I decided to let it go.  threadkeeper.io was my first idea and my first...",
+   "points": 7,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Lesson 14: The CSS Cascade Algorithm — How Browsers Decide Which Style Wins",
+   "url": "https://medium.com/@yuvaraj.io/lesson-14-the-css-cascade-algorithm-how-browsers-decide-which-style-wins-37721085fadf?source=rss------css-5",
+   "date": "2026-08-21T18:26:01+00:00",
+   "summary": "Introduction &#x2014; When Three CSS Rules Want to Style the Same Element &#x1F914; Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "RGB is dead, long live RGB!",
+   "url": "https://dev.to/alvaromontoro/rgb-is-dead-long-live-rgb-2219",
+   "date": "2026-08-21T18:05:59+00:00",
+   "summary": "The appearance of new color formats in CSS has lead to a disruption in the language and how we work with colors. The more traditional color formats like RGB are \"on the way out\" while new formats like OKLab or OKLCH are ",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Resolved: CSS Class Prefix Selector",
+   "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+   "date": "2026-08-21T15:13:03+00:00",
+   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-* . Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks . You should real",
+   "tech": "web",
+   "sourceId": "sites",
+   "source": "مواقع تقنية",
+   "lang": "en"
+  },
+  {
+   "title": "My Frontend Development Journey",
+   "url": "https://medium.com/@philipsdimeji139/my-frontend-development-journey-3d0d43e877fd?source=rss------css-5",
+   "date": "2026-08-21T15:03:51+00:00",
+   "summary": "Starting my journey into frontend development has been an exciting experience. Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Why OKLCH CSS variables need @supports for a real fallback",
+   "url": "https://dev.to/ivan_kulkin_1522025957eee/why-oklch-css-variables-need-supports-for-a-real-fallback-2fgp",
+   "date": "2026-08-21T14:49:04+00:00",
+   "summary": "I added CSS export to an OKLCH palette generator this week. The obvious output looked like...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Selectors in CSS",
+   "url": "https://dev.to/raksha_murugesan/selectors-in-css-cll",
+   "date": "2026-08-21T14:30:00+00:00",
+   "summary": "There are five types of selectors are there:     •   Simple Selector   •   Combinator Selector   •  ...",
+   "points": 3,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "React: feedback de verificacion sin saltos",
+   "url": "https://dev.to/silviutech/react-feedback-de-verificacion-sin-saltos-2a5k",
+   "date": "2026-08-21T14:24:15+00:00",
+   "summary": "Un patron en React y CSS para verificar email con menos saltos visuales, mejor accesibilidad y una sensacion mas fluida.",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building an OKLCH palette generator that survives gamut limits and exports to Aseprite",
+   "url": "https://dev.to/ivan_kulkin_1522025957eee/building-an-oklch-palette-generator-that-survives-gamut-limits-and-exports-to-aseprite-4g51",
+   "date": "2026-08-21T14:04:10+00:00",
+   "summary": "A row of attractive swatches is not yet a useful pixel-art palette.  A working palette needs a...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "🌐 I Took APIC From Desktop to the Browser",
+   "url": "https://dev.to/akhourianmolkumar/i-took-apic-from-desktop-to-the-browser-i6p",
+   "date": "2026-08-21T11:34:10+00:00",
+   "summary": "When I started building APIC (Advanced Image Processing Center), the idea was simple:  Make everyday...",
+   "points": 5,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Web Development Is Changing Fast — Here’s What Developers Need to Learn in 2026",
+   "url": "https://medium.com/codeelevation/web-development-is-changing-fast-heres-what-developers-need-to-learn-in-2026-784a60e22e34?source=rss------css-5",
+   "date": "2026-08-21T11:22:35+00:00",
+   "summary": "The web is no longer just HTML, CSS, and JavaScript. The developers who understand where it&#x2019;s going will have a massive advantage. Continue reading on CodeElevation »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "The Modal Was Open. So Was Everything Behind It.",
+   "url": "https://dev.to/parsajiravand/the-modal-was-open-so-was-everything-behind-it-266n",
+   "date": "2026-08-21T06:54:16+00:00",
+   "summary": "Mina was running a keyboard-only pass on a settings page — no mouse, just Tab and Enter, the way a...",
+   "points": 8,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "A CSS Hover-Reveal Pattern for Technical Specs",
+   "url": "https://dev.to/richardlemon/a-css-hover-reveal-pattern-for-technical-specs-413h",
+   "date": "2026-08-21T06:46:13+00:00",
+   "summary": "The problem on the Gate Seal page  The Gate Seal product page for a maritime client needed to present...",
+   "points": 0,
+   "tech": "web",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "CSS Variables: Stop Repeating Yourself in Every Stylesheet",
+   "url": "https://medium.com/@ishwaryagopinathan/css-variables-stop-repeating-yourself-in-every-stylesheet-d979679b5502?source=rss------css-5",
+   "date": "2026-08-21T05:10:29+00:00",
+   "summary": "Here&#x2019;s a situation that happens to almost everyone eventually. Continue reading on Medium »",
+   "tech": "web",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "This week in AI + Indian markets: a zero-click exploit, an open-weight frontier, and a losing streak that snapped",
    "url": "https://dev.to/abhishek_sharma_a9792aee8/this-week-in-ai-indian-markets-a-zero-click-exploit-an-open-weight-frontier-and-a-losing-400h",
@@ -92,17 +394,6 @@
    "lang": "en"
   },
   {
-   "title": "HTML title Attribute",
-   "url": "https://dev.to/code1/html-title-attribute-1pcp",
-   "date": "2026-08-21T03:58:31+00:00",
-   "summary": "😄 This post is based on the content from coding.courses.            Definition and Usage   The title...",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "5th Week Learning Advanced CSS",
    "url": "https://medium.com/@kentakbaradhitya21/5th-week-learning-advanced-css-0789f49affcd?source=rss------css-5",
    "date": "2026-08-21T03:03:35+00:00",
@@ -113,83 +404,6 @@
    "lang": "en"
   },
   {
-   "title": "Running third-party ads on a site with a strict CSP (without weakening the CSP)",
-   "url": "https://dev.to/hblai_filmlook/running-third-party-ads-on-a-site-with-a-strict-csp-without-weakening-the-csp-33l2",
-   "date": "2026-08-21T02:22:57+00:00",
-   "summary": "My static site had a deliberately tight Content-Security-Policy: default-src 'self', a short...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Knowledge Bases Are Better Hosted Online Rather Than as Local Markdown",
-   "url": "https://dev.to/songofhawk/why-knowledge-bases-are-better-hosted-online-rather-than-as-local-markdown-37e3",
-   "date": "2026-08-21T02:16:12+00:00",
-   "summary": "Why Knowledge Bases Are Better Hosted Online Rather Than as Local Markdown    Doco series ·...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "7 Practical Responsive Design Tips for Better Mobile Experiences",
-   "url": "https://dev.to/l444mobilegames/7-practical-responsive-design-tips-for-better-mobile-experiences-24ph",
-   "date": "2026-08-21T02:10:41+00:00",
-   "summary": "Responsive design is no longer just about making a desktop website fit on a smaller screen.  Modern...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Make Basic HTML Analysis More Difficult",
-   "url": "https://dev.to/uni928/make-basic-html-analysis-more-difficult-372e",
-   "date": "2026-08-21T01:14:10+00:00",
-   "summary": "This plugin makes saving the page with “Save As” and analyzing it through Developer Tools more...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Clean code isn't what I thought it was",
-   "url": "https://dev.to/alekswritescode/clean-code-isnt-what-i-thought-it-was-2akk",
-   "date": "2026-08-20T20:42:46+00:00",
-   "summary": "What working on real systems taught me about maintainable code.  My second job was the first time I...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Is a Vulnerability, Really? Source, Sink, and Taint",
-   "url": "https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75",
-   "date": "2026-08-20T20:22:58+00:00",
-   "summary": "Two Java methods. One of them will let an attacker delete your entire products table. The other is...",
-   "points": 11,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Can I use it in a PDF? CSS support across HTML to PDF engines",
-   "url": "https://dev.to/accreditly/can-i-use-it-in-a-pdf-css-support-across-html-to-pdf-engines-4n53",
-   "date": "2026-08-20T20:02:13+00:00",
-   "summary": "Which CSS features actually work in Chrome headless, wkhtmltopdf, WeasyPrint and Prince: a caniuse-style support table for HTML to PDF.",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "Lesson 19: CSS Grid — For Your Modern Layouts",
    "url": "https://medium.com/@yuvaraj.io/lesson-19-css-grid-for-your-modern-layouts-fdb91f461a2e?source=rss------css-5",
    "date": "2026-08-20T19:21:01+00:00",
@@ -197,50 +411,6 @@
    "tech": "web",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Minimal JS, modern CSS anchored product tours",
-   "url": "https://dev.to/railsdesigner/minimal-js-modern-css-anchored-product-tours-2c4j",
-   "date": "2026-08-20T18:30:00+00:00",
-   "summary": "Ever wondered how to build those interactive product tours that spotlight elements and walk users...",
-   "points": 1,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Modern PWA Blueprint [Part 1]: Cross-Platform Reach & UI Freedom",
-   "url": "https://dev.to/albertoboffi/the-modern-pwa-blueprint-part-1-cross-platform-reach-ui-freedom-3lle",
-   "date": "2026-08-20T16:51:10+00:00",
-   "summary": "Explore how Progressive Web Apps deliver cross-platform reach across Android, iOS, and Desktop with complete UI design freedom and zero app store gatekeeping.",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why Browser Games That Look Offline Still Need an Internet Connection",
-   "url": "https://dev.to/renato_cindori/why-browser-games-that-look-offline-still-need-an-internet-connection-2fgn",
-   "date": "2026-08-20T16:41:42+00:00",
-   "summary": "Some browser games feel almost offline. They start quickly, use simple controls, and may continue...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The <geolocation> element lands in Chrome 144",
-   "url": "https://dev.to/leobaniak/the-element-lands-in-chrome-144-5g7m",
-   "date": "2026-08-20T16:08:44+00:00",
-   "summary": "Chrome 144 ships a new <geolocation> HTML element that requests location through attributes instead of a JavaScript dance, exposes a :granted CSS pseudo-class for styling the permission state, and lets you nest an old-AP",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -274,61 +444,6 @@
    "lang": "en"
   },
   {
-   "title": "CSS Interview Questions",
-   "url": "https://dev.to/raksha_murugesan/css-interview-questions-4dnm",
-   "date": "2026-08-20T13:30:00+00:00",
-   "summary": "CSS Interview Questions and Answers            1. What is CSS? What are the different ways...",
-   "points": 2,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why CSS Comfort Food Art Improves Conversion on Slow Networks",
-   "url": "https://dev.to/amitesh0512/why-css-comfort-food-art-improves-conversion-on-slow-networks-51p6",
-   "date": "2026-08-20T13:01:14+00:00",
-   "summary": "Mastering CSS Comfort Food Art: Recipes for Warm, Scalable Frontend Designs            Quick...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "# Instalar uma biblioteca de CSS quase apagou um botão do sistema",
-   "url": "https://dev.to/l00p4/-instalar-uma-biblioteca-de-css-quase-apagou-um-botao-do-sistema-4ohj",
-   "date": "2026-08-20T11:52:58+00:00",
-   "summary": "Eu tinha acabado de instalar o Tailwind em um sistema que roda sobre styled-components há anos. Build...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "El navegador ya tiene una arquitectura. La mayoría de los proyectos la ignoran.",
-   "url": "https://dev.to/ortizfranklindev/el-navegador-ya-tiene-una-arquitectura-la-mayoria-de-los-proyectos-la-ignoran-1e65",
-   "date": "2026-08-20T10:50:29+00:00",
-   "summary": "El navegador ya tiene una arquitectura: comprende el origen, la importancia y el orden de @layer antes de depurar errores de especificidad en CSS.",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Browser Already Has an Architecture. Most Projects Ignore It.",
-   "url": "https://dev.to/ortizfranklindev/the-browser-already-has-an-architecture-most-projects-ignore-it-2bap",
-   "date": "2026-08-20T10:49:19+00:00",
-   "summary": "The Browser Already Has an Architecture: Understand origin, importance, and @layer order before debugging CSS specificity bugs.",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "10 CSS Tips and Tricks for Better Responsive Web Design",
    "url": "https://artclick-inc.medium.com/10-css-tips-and-tricks-for-better-responsive-web-design-e287494014d6?source=rss------css-5",
    "date": "2026-08-20T10:25:19+00:00",
@@ -339,17 +454,6 @@
    "lang": "en"
   },
   {
-   "title": "I Linted My Own Design System. All 8 Breaks Were Pasted In.",
-   "url": "https://dev.to/ofri-peretz/i-linted-my-own-design-system-all-8-breaks-were-pasted-in-3hm4",
-   "date": "2026-08-20T09:23:07+00:00",
-   "summary": "I ran four design-system rules over 401 of my own components. 144 violations — and every color break was in code I pasted in.",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "The Future of Frontend: Are AI Agents Going to Replace CSS Frameworks?",
    "url": "https://medium.com/@mubashirali01/the-future-of-frontend-are-ai-agents-going-to-replace-css-frameworks-8f9eb613f8ab?source=rss------css-5",
    "date": "2026-08-20T07:20:28+00:00",
@@ -357,50 +461,6 @@
    "tech": "web",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "After the Agent Pays: The Missing Transaction Trail in AI Commerce",
-   "url": "https://dev.to/seasonkoh/after-the-agent-pays-the-missing-transaction-trail-in-ai-commerce-2k27",
-   "date": "2026-08-20T04:30:49+00:00",
-   "summary": "AI agents are getting surprisingly good at the first half of commerce. They can search catalogs,...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "HTML & CSS Interview Questions",
-   "url": "https://dev.to/abishek_m_82/html-css-interview-questions-1ii8",
-   "date": "2026-08-20T04:27:03+00:00",
-   "summary": "HTML QUESTIONS            1. What is HTML?   HTML (HyperText Markup Language) is the...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Why input.value = 'x' doesn't fill a React form (and what actually works)",
-   "url": "https://dev.to/flinthive/why-inputvalue-x-doesnt-fill-a-react-form-and-what-actually-works-1hl7",
-   "date": "2026-08-20T04:13:45+00:00",
-   "summary": "If you have ever tried to script a React form — a test helper, a browser extension, a bookmarklet, an...",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch",
-   "url": "https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp",
-   "date": "2026-08-20T04:12:41+00:00",
-   "summary": "Build a consent-aware TypeScript policy layer for Tencent RTC Beauty AR that selects effects by device capability, degrades safely under frame pressure, rejects stale callbacks, and can be verified without turning a poli",
-   "points": 0,
-   "tech": "web",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -438,56 +498,6 @@
    "url": "https://artclick-inc.medium.com/a-practical-guide-to-native-css-nesting-f1373d3a47d5?source=rss------css-5",
    "date": "2026-08-19T11:34:52+00:00",
    "summary": "For years, nesting selectors inside each other was one of the main reasons teams reached for Sass in the first place. You&#x2019;d write .card {&#x2026; Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "CSS Grid: The Layout Tool That Finally Ends the Flexbox Workarounds",
-   "url": "https://medium.com/@ishwaryagopinathan/css-grid-the-layout-tool-that-finally-ends-the-flexbox-workarounds-b281871fe5c7?source=rss------css-5",
-   "date": "2026-08-19T09:33:26+00:00",
-   "summary": "Think about the last news website or dashboard you visited. A header up top. A sidebar on the left. A grid of articles or cards in the&#x2026; Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "7 CSS Concepts That Finally Made CSS Make Sense to Me",
-   "url": "https://medium.com/@khuzeemajaved/7-css-concepts-that-finally-made-css-make-sense-to-me-49ca12b566fd?source=rss------css-5",
-   "date": "2026-08-18T20:33:35+00:00",
-   "summary": "When I first started learning CSS, I thought the hardest part would be remembering the syntax. Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Your CSS Components Can Finally React to Their Context",
-   "url": "https://medium.com/@shailendrakawadkar/your-css-components-can-finally-react-to-their-context-cc544f1d721f?source=rss------css-5",
-   "date": "2026-08-18T14:01:04+00:00",
-   "summary": "Reusable components have a familiar problem. Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "HTML Lists in HTML: Complete Guide with Examples",
-   "url": "https://medium.com/@amolpawar.me/html-lists-in-html-complete-guide-with-examples-840dc7cc2f7a?source=rss------css-5",
-   "date": "2026-08-18T13:16:32+00:00",
-   "summary": "HTML Lists are elements used to group and structure related pieces of content. Instead of writing items as plain paragraphs, HTML provides&#x2026; Continue reading on Medium »",
-   "tech": "web",
-   "sourceId": "medium",
-   "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "CSS Flexbox vs CSS Grid",
-   "url": "https://medium.com/@sadhurka/css-flexbox-vs-css-grid-c4e55476e652?source=rss------css-5",
-   "date": "2026-08-18T11:43:16+00:00",
-   "summary": "When to Use Which and Why? Continue reading on Medium »",
    "tech": "web",
    "sourceId": "medium",
    "source": "Medium",
@@ -941,6 +951,16 @@
    "tech": "web",
    "sourceId": "yt",
    "source": "youtube.com",
+   "lang": "en"
+  },
+  {
+   "title": "HTML & CSS for Absolute Beginners: Introduction",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IOGJTUEVzLWxVbFhWOHlibnRiNl94VnhCTXUweno5SlJ6S1NiY2RYajlMa2R0WHNQS0hvY2FaVmJqTW5GaFNtRkw3bWx6Ykp2ODhtaVJB?oc=5",
+   "date": "2025-01-10T15:02:48+00:00",
+   "summary": "HTML & CSS for Absolute Beginners: Introduction YouTube",
+   "tech": "web",
+   "sourceId": "yt",
+   "source": "YouTube",
    "lang": "en"
   },
   {
@@ -1612,26 +1632,6 @@
    "sourceId": "ar-yt",
    "source": "YouTube",
    "lang": "ar"
-  },
-  {
-   "title": "HTML And CSS Projects for Beginners 2024 | HTML & CSS Tutorial With 5 Projects Source Code",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUVdpXzlJeGd2Mmg4d2swUTA2dHZmcHFuYUZfY3A1bHJDd3ZoR3VsYTZpX0d2TXVES0EwMlpSYUJVSnZIYjUyYXQ4NGFpa1JObjNITmRR?oc=5",
-   "date": "2023-04-13T13:30:03+00:00",
-   "summary": "HTML And CSS Projects for Beginners 2024 | HTML & CSS Tutorial With 5 Projects Source Code YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZFdJNFk5N1A0QUUwcTJKbUpOdEE4cTduVlRYRThMMnhOVXBPbm4xTmtRY2dvWmhDX2xxLVUtaTI3UUtDUUlwOTYxc2s1eVJkUF9wVkRR?oc=5",
-   "date": "2023-04-04T16:05:02+00:00",
-   "summary": "Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) YouTube",
-   "tech": "web",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
   },
   {
    "title": "تحويل تصاميم Figma إلى Webflow (HTML, CSS, JS)",

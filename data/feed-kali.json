@@ -1,8 +1,192 @@
 {
- "generated": "2026-08-21T05:07:56.489093+00:00",
+ "generated": "2026-08-22T04:23:51.816024+00:00",
  "tech": "kali",
  "count": 220,
  "items": [
+  {
+   "title": "Three Russian-Linked Clusters Abuse Legitimate Authentication Flows",
+   "url": "https://dev.to/anoymask/three-russian-linked-clusters-abuse-legitimate-authentication-flows-4h0b",
+   "date": "2026-08-22T01:59:21+00:00",
+   "summary": "1. Basic Information     Article Title: Going with the Flow(s): Distinct Clusters Target...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "SynkLoader Deploying Multi-Stage Modules via Teams Phishing",
+   "url": "https://dev.to/anoymask/synkloader-deploying-multi-stage-modules-via-teams-phishing-1cal",
+   "date": "2026-08-22T01:59:00+00:00",
+   "summary": "1. Basic Information     Article Title: SynkLoader: when you throw in everything but the...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "JavaScript Sandbox Escape via Type Confusion in isolated-vm",
+   "url": "https://dev.to/anoymask/javascript-sandbox-escape-via-type-confusion-in-isolated-vm-4op9",
+   "date": "2026-08-22T01:18:28+00:00",
+   "summary": "1. Basic Information     Article Name: GHSA-864f-rcv7-6rh4: Critical Type Confusion...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Bridge-Wrapped Tokens — Who Actually Holds the Keys to Your Asset?",
+   "url": "https://dev.to/verixia_233e4721792ce3390/bridge-wrapped-tokens-who-actually-holds-the-keys-to-your-asset-47k1",
+   "date": "2026-08-22T00:03:21+00:00",
+   "summary": "HostDeFi HostDeFi › Guides › Bridge-wrapped token custody risk  The \"ETH\" in your Solana wallet isn't...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Burp Suite Mastery — Complete Methodology",
+   "url": "https://medium.com/@ahmed240102345/burp-suite-mastery-complete-methodology-398f5b71d3b3?source=rss------penetration_testing-5",
+   "date": "2026-08-21T23:58:43+00:00",
+   "summary": "A consolidated write-up covering every Burp Suite room I completed in the TryHackMe Jr Penetration Tester path &#x2014; from initial setup to&#x2026; Continue reading on Medium »",
+   "tech": "kali",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "keybound: auditoria de aislamiento de prompt cache en relays LLM multi-tenant",
+   "url": "https://dev.to/magopredator/keybound-auditoria-de-aislamiento-de-prompt-cache-en-relays-llm-multi-tenant-2pfe",
+   "date": "2026-08-21T22:33:56+00:00",
+   "summary": "keybound: auditoría de aislamiento de prompt cache en relays LLM multi-tenant    Una...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Agentic AI Feels Like the Internet in 1998: Powerful, Exciting, and Full of Risks We Don't Yet Understand",
+   "url": "https://dev.to/michaelbutak/agentic-ai-feels-like-the-internet-in-1998-powerful-exciting-and-full-of-risks-we-dont-yet-51cb",
+   "date": "2026-08-21T21:44:21+00:00",
+   "summary": "OWASP Top 10 for Agentic Applications for 2026 - OWASP Gen AI Security Project   If you haven't read...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Security news weekly round-up - 21st August 2026",
+   "url": "https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44",
+   "date": "2026-08-21T21:08:13+00:00",
+   "summary": "Learn about the top cybersecurity news between August 14, 2026, and August 21, 2026. Read now and increase your cybersecurity knowledge.",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide",
+   "url": "https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip",
+   "date": "2026-08-21T20:46:06+00:00",
+   "summary": "A complete, end-to-end authentication flow for React + Spring Boot: login, token issuance, secure storage, protected routes, token refresh, and logout.",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "I Shipped a Security Product I Cannot Fully Audit",
+   "url": "https://dev.to/sangyeonpark/i-shipped-a-security-product-i-cannot-fully-audit-47ji",
+   "date": "2026-08-21T19:32:57+00:00",
+   "summary": "That is the uncomfortable part. It is also the argument.  I write commercial copy for a living. I...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Your AI Assistant Ships Insecure Code Almost Half the Time. Catching It in Review Is Too Late.",
+   "url": "https://dev.to/sangyeonpark/your-ai-assistant-ships-insecure-code-almost-half-the-time-catching-it-in-review-is-too-late-4ml",
+   "date": "2026-08-21T19:24:32+00:00",
+   "summary": "By Sangyeon Park — creator of Cencurity, an open-source security gateway for LLM coding agents  In...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "📝 Growing pytest into an “Incident Prevention Log” — Stage 3: Authentication, CSRF, and Access Control (51 69 Tests)",
+   "url": "https://dev.to/tosane932/growing-pytest-into-an-incident-prevention-log-stage-3-authentication-csrf-and-access-5gi2",
+   "date": "2026-08-21T19:02:46+00:00",
+   "summary": "Stage 3 of my pytest series: adding single-admin authentication, CSRF protection, access control, and CI checks while growing the suite from 51 to 69 tests.",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "What Your Multisig Threshold Actually Protects",
+   "url": "https://dev.to/0xrivet/what-your-multisig-threshold-actually-protects-4jd",
+   "date": "2026-08-21T18:45:11+00:00",
+   "summary": "I've been digging into multisig configurations for bridge and protocol security reviews. The...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "Cifrado híbrido: por qué combinar criptografía clásica y post-cuántica",
+   "url": "https://dev.to/isazajuancarlos/cifrado-hibrido-por-que-combinar-criptografia-clasica-y-post-cuantica-3k69",
+   "date": "2026-08-21T18:25:21+00:00",
+   "summary": "Qué es el cifrado híbrido, por qué combinar X25519 con ML-KEM-1024 (y Ed25519 con ML-DSA-87) es más seguro que elegir uno solo, y cómo lo aplica Quipu.",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "IDOR in PHP and Laravel — When Changing One Number Exposes Someone Else's Data",
+   "url": "https://dev.to/kriosa/idor-in-php-and-laravel-when-changing-one-number-exposes-someone-elses-data-2l6m",
+   "date": "2026-08-21T13:58:19+00:00",
+   "summary": "This is the fifteenth article in a series on PHP and Laravel application security.  So far we have...",
+   "points": 0,
+   "tech": "kali",
+   "sourceId": "devto",
+   "source": "DEV.to",
+   "lang": "en"
+  },
+  {
+   "title": "When Nmap Says Nothing: A Small Change That Made Internal Service Discovery Possible During an…",
+   "url": "https://janmuhammadzaidi.medium.com/when-nmap-says-nothing-a-small-change-that-made-internal-service-discovery-possible-during-an-15094f77e7ce?source=rss------penetration_testing-5",
+   "date": "2026-08-21T12:08:27+00:00",
+   "summary": "By Syed Jan Muhammad Zaidi Continue reading on Medium »",
+   "tech": "kali",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
+  {
+   "title": "Managing Scan Results in Metasploit",
+   "url": "https://medium.com/fmisec/managing-scan-results-in-metasploit-39f3351d9141?source=rss------penetration_testing-5",
+   "date": "2026-08-21T10:55:32+00:00",
+   "summary": "In this post, let&#x2019;s go through managing scan results using Metasploit&#x2019;s database. Covering everything from setup, workspaces, importing&#x2026; Continue reading on FMI Cyber Security Consulting Services »",
+   "tech": "kali",
+   "sourceId": "medium",
+   "source": "Medium",
+   "lang": "en"
+  },
   {
    "title": "OAuth Client Credentials for EDI Pipelines",
    "url": "https://dev.to/praveenlavu/oauth-client-credentials-for-edi-pipelines-4a5m",
@@ -180,105 +364,6 @@
    "lang": "en"
   },
   {
-   "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-   "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
-   "date": "2026-08-20T02:13:13+00:00",
-   "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  I maintain a small...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Two Verifiers, One Verdict: Closing the 'Self-Reported Exit Code' Hole",
-   "url": "https://dev.to/dengyier/two-verifiers-one-verdict-closing-the-self-reported-exit-code-hole-1cmd",
-   "date": "2026-08-20T02:11:03+00:00",
-   "summary": "An agent says 'tests all green'. Another agent says 'I reviewed it — it's fine.' Two independent executions, two keys, one verdict — or no decision at all. OpenWorkProof v0.5's dual-verifier cross-validation, built in 7 ",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6",
-   "url": "https://dev.to/anoymask/lshiy-large-scale-password-spraying-abusing-ropc-and-ipv6-26cb",
-   "date": "2026-08-20T01:20:55+00:00",
-   "summary": "LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6            1. Basic...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Operation CameraSwarm: Over 14,000 Dahua Cameras Compromised via Three Attack Vectors",
-   "url": "https://dev.to/anoymask/operation-cameraswarm-over-14000-dahua-cameras-compromised-via-three-attack-vectors-5d77",
-   "date": "2026-08-20T01:20:43+00:00",
-   "summary": "Operation CameraSwarm: Over 14,000 Dahua Cameras Compromised via Three Attack Vectors       ...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Permission Audit CLI: Find World-Writable Files in Python",
-   "url": "https://dev.to/poolion/permission-audit-cli-find-world-writable-files-in-python-2poh",
-   "date": "2026-08-20T01:20:30+00:00",
-   "summary": "Permission Audit CLI: A Minimal Tool for Security Reviews and Compliance Checks   Security...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Active Exploitation of Windows IKE Extension RCE (CVE-2026-33824)",
-   "url": "https://dev.to/anoymask/active-exploitation-of-windows-ike-extension-rce-cve-2026-33824-1i2m",
-   "date": "2026-08-20T01:20:18+00:00",
-   "summary": "Active Exploitation of Windows IKE Extension RCE (CVE-2026-33824)            1. Basic...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "AI-Generated Attack Tools Targeting Siemens S7 PLCs",
-   "url": "https://dev.to/anoymask/ai-generated-attack-tools-targeting-siemens-s7-plcs-g63",
-   "date": "2026-08-20T01:12:05+00:00",
-   "summary": "AI-Generated Attack Tools Targeting Siemens S7 PLCs            1. Basic...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Unguarded, Sonnet 5 read another customer's order 100/100 times. Guarded: zero.",
-   "url": "https://dev.to/fissible/unguarded-sonnet-5-read-another-customers-order-100100-times-guarded-zero-1mf5",
-   "date": "2026-08-20T00:35:41+00:00",
-   "summary": "I ran the same storefront attacks against three models — one with its safety training deliberately...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "I Built an AI Code Reviewer. Then OWASP Broke It.",
-   "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
-   "date": "2026-08-19T22:57:14+00:00",
-   "summary": "Most AI coding tools are very good at helping developers write code.  But I wanted to explore a...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
    "title": "TryHackMe Easy Peasy: From Enumeration to Root",
    "url": "https://medium.com/@barhatevinay7777/tryhackme-easy-peasy-from-enumeration-to-root-33e321ed7009?source=rss------penetration_testing-5",
    "date": "2026-08-19T22:46:59+00:00",
@@ -286,39 +371,6 @@
    "tech": "kali",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "5 Laravel Authorization Problems You're Probably Facing (And How to Solve Them in 2026)",
-   "url": "https://dev.to/hosseinhezami/5-laravel-authorization-problems-youre-probably-facing-and-how-to-solve-them-in-2026-11la",
-   "date": "2026-08-19T21:20:35+00:00",
-   "summary": "TL;DR: Most Laravel apps hit the same 5 authorization walls as they grow — role explosion, exception...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "Grading Security Headers Isn't the Full Picture",
-   "url": "https://dev.to/josejux/grading-security-headers-isnt-the-full-picture-1gpm",
-   "date": "2026-08-19T21:01:39+00:00",
-   "summary": "A few days ago someone left a comment on my last post about grading security headers...",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "The Most Advanced Laravel Permission Manager: Enterprise Authorization Engine with RBAC, ABAC, Role Hierarchy & Multi-Tenancy",
-   "url": "https://dev.to/hosseinhezami/the-most-advanced-laravel-permission-manager-enterprise-authorization-engine-with-rbac-abac-role-30n6",
-   "date": "2026-08-19T20:53:21+00:00",
-   "summary": "A complete, production-ready authorization platform for Laravel — combining RBAC, ABAC, Role...",
-   "points": 1,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -339,28 +391,6 @@
    "tech": "kali",
    "sourceId": "medium",
    "source": "Medium",
-   "lang": "en"
-  },
-  {
-   "title": "Add Google Authenticator 2FA to your Node app in two steps",
-   "url": "https://dev.to/amansoomro062/add-google-authenticator-2fa-to-your-node-app-in-two-steps-3n3n",
-   "date": "2026-08-19T17:33:56+00:00",
-   "summary": "Adding 2FA to an app sounds like a weekend of reading RFCs, so most side projects never get it. I...",
-   "points": 5,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
-   "lang": "en"
-  },
-  {
-   "title": "What Maintaining a Forked npm Package Actually Buys",
-   "url": "https://dev.to/megapixel99/what-maintaining-a-forked-npm-package-actually-buys-4m4h",
-   "date": "2026-08-19T16:47:32+00:00",
-   "summary": "I would have said \"eighteen releases of upkeep\". What npm audit can see is one digit in a dependency range: a caret below 1.0.0 walls off the published fix, so it reports \"No fix available\". What it could not see is the ",
-   "points": 0,
-   "tech": "kali",
-   "sourceId": "devto",
-   "source": "DEV.to",
    "lang": "en"
   },
   {
@@ -445,6 +475,16 @@
    "source": "بودكاست",
    "lang": "en",
    "kind": "podcast"
+  },
+  {
+   "title": "Kali Linux أم Parrot OS؟ أيهما أفضل لاختبار الاختراق؟",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iYlRKMk1PakJlU1p5Wlg0ZnFjTGhMYWxqRkxhODZyb0g1cS0zeVZfbG9wd08wY2VOeEZVQVNnMEVTQTctbTNHMmFHa3pyR01BeWU1RG5n?oc=5",
+   "date": "2026-07-19T18:48:59+00:00",
+   "summary": "Kali Linux أم Parrot OS؟ أيهما أفضل لاختبار الاختراق؟ YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
   },
   {
    "title": "Why Every Ethical Hacker Uses Kali Linux 🔥 | GoLogica #shorts",
@@ -1136,6 +1176,16 @@
    "lang": "ar"
   },
   {
+   "title": "مراجعة نظام الاختراق الوحيد الذي تفوق على كالي لينكس | Parrot Security 6.3.2",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RRWxRdnNEWkYtbmJPaVVieFFQY2lqTU8wX2MwY1FkUklQQVFRaHRwUEV2OTgweGx1bkdnZjlfN0hxR0NGVEU1U1VzcUI2NzVvQlpFLTRB?oc=5",
+   "date": "2025-04-09T17:59:19+00:00",
+   "summary": "مراجعة نظام الاختراق الوحيد الذي تفوق على كالي لينكس | Parrot Security 6.3.2 YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Tor & torsocks on Kali Linux – Stay Anonymous While Hacking",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZUzF1c0pCZmstRF9KQXBFLWJ0TUt2b3l5aGppaWthUzc3Q29zWU5nanFoUVUycHVXRGR1RE9zRGdDNFp5eTdHN0hvejNlUllrMlFoSWtB?oc=5",
    "date": "2025-03-30T13:13:50+00:00",
@@ -1486,6 +1536,16 @@
    "lang": "ar"
   },
   {
+   "title": "\"Complete Kali Linux Guide for Ethical Hackers | TheCyberSecurityClassroom\"",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nNC0tY2MyN29mSGNsOUhSdmNKOWxtN0lkQ2FoNWlsdzNOcEp5bG9fd3Z6UXM5QVdKS0lvUUFCdHBpc2E0ZzF6RTJNV2RicXFraUw5Q1Rn?oc=5",
+   "date": "2024-09-24T07:03:42+00:00",
+   "summary": "\"Complete Kali Linux Guide for Ethical Hackers | TheCyberSecurityClassroom\" YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
    "title": "كيفية كسر كلمات المرور باستخدام أدوات Kali Linux: شرح Hashcat للمبتدئين | الجزء 2",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05c1c1ZlUxWlFKSU1FUVhOREc0SmxKSjFpRVowdUExQ0ZCaEVGOEVpdDZiOTV5VU14Ykd3OEo3UkhaenB2MnNpU25nZVkwYS0yb2lfbDJn?oc=5",
    "date": "2024-09-18T09:00:45+00:00",
@@ -1636,6 +1696,16 @@
    "lang": "ar"
   },
   {
+   "title": "5 - كورس أمن المعلومات باللغة العربية | Metasploit VS Metasploitable",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUc3V1WENrbHRWRFJncnNJdHloVkN6QjR2LWprU2ZQWG5MTS12dXBaaU1YcUdrLXBLYmJaRE85bWw0ZUNobzROTGRMYUNMcVMzNjZsYzZ3?oc=5",
+   "date": "2024-06-05T00:33:07+00:00",
+   "summary": "5 - كورس أمن المعلومات باللغة العربية | Metasploit VS Metasploitable YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "ETHICAL HACKING COURSE IN 8 HOURS || KALI LINUX || PHISHING ATTACKS || VEIL || BURP SUITE || DVWA",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiaVdQcXBVMW1xcnpVcHdkbl8wMV83SThrS2EwTS1jZVRUbnBJNlJTSmN4dzE1SUVzejNXZmhuVGdkUHZyaHg3UDFlbE5aRVRfajJVeEJB?oc=5",
    "date": "2024-05-29T01:00:12+00:00",
@@ -1736,6 +1806,26 @@
    "lang": "ar"
   },
   {
+   "title": "Kali Linux Essentials: A Practical Intro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tT21tU2FrallqbGViQmtQOW1PT055TG1uSWxLMWRyQjFwOEh6UW5DdUkwSkFaYnEwYlhGckNsRER6UVFQbFJ5dkkyWVFGb09KYjRhQzhB?oc=5",
+   "date": "2024-01-25T15:00:07+00:00",
+   "summary": "Kali Linux Essentials: A Practical Intro YouTube",
+   "tech": "kali",
+   "sourceId": "yt",
+   "source": "YouTube",
+   "lang": "en"
+  },
+  {
+   "title": "كالي لينكس اهم الاعدادات بعد تثبيت kali linux على الاندرويد",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSjd6TlJnSEd1WmRGd1lIUGVvMUpNdEVJNF9XZXJ5Q3JLcW5BRFNsblluMDF1ai1vTkRySDhsWk0wOVl6SnU0UEYxdm50dVR4NDZDczR3?oc=5",
+   "date": "2023-12-31T10:02:32+00:00",
+   "summary": "كالي لينكس اهم الاعدادات بعد تثبيت kali linux على الاندرويد YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
    "title": "Ethical Hacking using Kali Linux | Ethical Hacking Tutorial | Edureka | Cybersecurity Rewind - 3",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IUHVxVkhGaGJ5VHNtS2dic1l6d09NbVFaYllSTlpSNV9VVGhRa2tPbXBKMms0U0d5MlZZaWcwemtjdGRTazYwbUJJMEdkR3pyZ1BYQmln?oc=5",
    "date": "2023-12-15T10:38:45+00:00",
@@ -1796,14 +1886,14 @@
    "lang": "en"
   },
   {
-   "title": "Kali Linux Basics for Beginners || Tutorial (2023/2024)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwVnhmQlRTQXlNXzFoWjFSU09QM3hfNC1ra1hJaVV4LXIyZUhNbzR5SENrYW96ZG9fUmZmUVJYTGNEUlRZMjhUU3FQM25QT0lzRFRRZjBR?oc=5",
-   "date": "2023-09-24T19:07:11+00:00",
-   "summary": "Kali Linux Basics for Beginners || Tutorial (2023/2024) YouTube",
+   "title": "شرح واجهة نظام كالي لينكس kali linux",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bWp1cDE3eWdUdkc0VFVPalIzYTNRVFdqRUdZTzJacmNBRWxneGR5MFMwNmpWUmk5d3FzeENVM3UyNW1qNTljNWYxT3dSNnVlVHJVcU9B?oc=5",
+   "date": "2023-10-05T12:17:03+00:00",
+   "summary": "شرح واجهة نظام كالي لينكس kali linux YouTube",
    "tech": "kali",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "تعلم اساسيات الكالي لينكس | تعلم الاختراق للمبتدئين",
@@ -1826,26 +1916,6 @@
    "lang": "ar"
   },
   {
-   "title": "Install Kali Linux on Windows 11 for FREE",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nRFV2RHBfeU1KaDdiVjBYLWZjNVlxaW5lV1MwYk9RSE9vcXZKVFBjZlhFeExFZ0pIZk9kREt2ZTg1VHliZ05Yc3NsTlFuRXVCWFU2M3hn?oc=5",
-   "date": "2023-09-03T14:00:21+00:00",
-   "summary": "Install Kali Linux on Windows 11 for FREE YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Introduction, Downloading & Installation of Kali Linux - Setting Kali's [Hindi] - Kali Linux #1",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWWxCYXJ0bEdTQzZvaWd1RTI2X0FUQklnRHpPNlM4WGcwMWhqcEU1OGpFSXN3WTlmbWF3ZDVxT1R6NGV1TXBZWmdUcWhRZm1pRlRWWi1n?oc=5",
-   "date": "2023-08-29T08:25:57+00:00",
-   "summary": "Introduction, Downloading & Installation of Kali Linux - Setting Kali's [Hindi] - Kali Linux #1 YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
-  },
-  {
    "title": "NMAP Course | دورة فحص الانظمة",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hd21DdmZNeGxSb3NfTDNuYzhkZzhVR3dmMWhSUFJfS3lGOEFVN2RZaW9Jc1gyaWtYaTBCTFNlLVZhQlN6X0hvaTVrTFNTa0FDYXpzTzVB?oc=5",
    "date": "2023-08-17T21:41:51+00:00",
@@ -1866,30 +1936,30 @@
    "lang": "ar"
   },
   {
-   "title": "Learn Kali Linux Basics - How to Use Kali Linux (हिंदी में )",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FX09KeE1JTFZCM3RGWUJXTmFCd3FoLWtMbFZ2NFhtcVVCS2hvbHVJeW5SN1RsaHRhTVN1R3VCM2toVHNiVWFqWWxpMWlCeFRzX1VlN0NB?oc=5",
-   "date": "2023-07-17T08:50:09+00:00",
-   "summary": "Learn Kali Linux Basics - How to Use Kali Linux (हिंदी में ) YouTube",
+   "title": "3 - استخراج source code الخاص بالتطبيقات apk في الكالي لينكس",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kcGN1N0xiS2xIMGp1SWZ6S0JSaVd3VTViUlo4ZUdYWXljNHRQek5HY2RzVEJaMHNjRE1MQWlkb1pqZVNMQkcyQVY0TTFoMGdyUWlQTXpB?oc=5",
+   "date": "2023-06-29T23:23:13+00:00",
+   "summary": "3 - استخراج source code الخاص بالتطبيقات apk في الكالي لينكس YouTube",
    "tech": "kali",
-   "sourceId": "yt",
+   "sourceId": "ar-yt",
    "source": "YouTube",
-   "lang": "en"
-  },
-  {
-   "title": "Learn Ethical Hacking With Kali Linux | Ethical Hacking | Ethical Hacking Course | Edureka Rewind",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Xb3k4TkpKd3E5dDkyQWtpMV9Xdnd5NC03X2JBdS16dy1tQlhkMWE2OUtRU2hhV3JGLVRDVGQ3U0ppNTcyc1lucUxUU1pBS3hFcnFVcnpB?oc=5",
-   "date": "2023-07-14T23:19:29+00:00",
-   "summary": "Learn Ethical Hacking With Kali Linux | Ethical Hacking | Ethical Hacking Course | Edureka Rewind YouTube",
-   "tech": "kali",
-   "sourceId": "yt",
-   "source": "YouTube",
-   "lang": "en"
+   "lang": "ar"
   },
   {
    "title": "16 - الاتصال عن بعد والتحكم بالكالي kali linux عن طريق المتصفح بإستخدام novnc",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wNmdrTmhhM0tDa051Um9oY1BlTU5FR1RFUEtUNm5VMDJvY281N2JSb1BpY0s1M3BQd0F5VWdoMzZtZEpKbjlfcWh6bmV3T0hER0tDN2J3?oc=5",
    "date": "2023-06-27T14:36:02+00:00",
    "summary": "16 - الاتصال عن بعد والتحكم بالكالي kali linux عن طريق المتصفح بإستخدام novnc YouTube",
+   "tech": "kali",
+   "sourceId": "ar-yt",
+   "source": "YouTube",
+   "lang": "ar"
+  },
+  {
+   "title": "11 - تفعيل المستخدم الجذر root في kali linux",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSV9tNmxheTZGVDZpa2FCb1U5ZFNKR3cwVFNCNDVlcmJMSk55NmkzSklnV0hLekVEUkplM3RlVC1scFlTaUFCcHVjRXh5dXg1U0VZLXNR?oc=5",
+   "date": "2023-06-26T17:21:44+00:00",
+   "summary": "11 - تفعيل المستخدم الجذر root في kali linux YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
@@ -2170,76 +2240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13NTZZNnBYOTBVLTBqZUlHaDk3U1VwSG5EZ21TVU42MEZOeFJGUDRDNDgwM0d2Vko0TkN4M0Q0Rk9tNlFtdUtNQTNtRG1ZV0U4MEtrY0NR?oc=5",
    "date": "2022-05-20T11:21:48+00:00",
    "summary": "2022 شرح اداة كويل لانشاء ملف قائمة كلمات مخصصة - اختبار الاختراق باستخدام كالى لينكس YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "2022 اختبار الاختراق باستخدام كالى لينكس - CUPP انشاء ملفات كلمات السر بأستخدام برنامج",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TWnhVVVdIWDV3RVRlYXNJV0VhUXZ6UC01N3YyQXg3RkhIVl9ENUpKMUpnejlMWXpmblJFTGU0Vk5qeHZ1TXFoRXJUYzJYRndyc0ktaFF3?oc=5",
-   "date": "2022-05-16T10:12:04+00:00",
-   "summary": "2022 اختبار الاختراق باستخدام كالى لينكس - CUPP انشاء ملفات كلمات السر بأستخدام برنامج YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "creat wordlist \"password\" with cupp kali linux | اقوى اداة انشاء ملف باسسورد مخصص كالي لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80WGZ4MlpvcE9lNFRnbHQ0YmdRZF8yZWpObnlndTFlTzloUVhIa2J1azZWc29FR3JTV1BneDNJdUVBMkowOVBMQy01VFZKazlWVl9Gd2Fn?oc=5",
-   "date": "2022-05-15T16:00:07+00:00",
-   "summary": "creat wordlist \"password\" with cupp kali linux | اقوى اداة انشاء ملف باسسورد مخصص كالي لينكس YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "شرح تثبيت نظام Kali على النظام الافتراضي | How to install Kali Linux on VirtualBox",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjOU5wM1ROV2lYakJBRVoxM0NZRDdGLVgzdHpiU2ZsNGV3ckRLWl9HaGhvY3NaMkY1b0x2bmJxTUhrRXVOMnM0MnVVem5zb0VtRjB0ODB3?oc=5",
-   "date": "2022-04-20T10:29:59+00:00",
-   "summary": "شرح تثبيت نظام Kali على النظام الافتراضي | How to install Kali Linux on VirtualBox YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح برنامج Maltego",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xOUx1VC1kWXhDREh0Wm5kMWpnYWdsZTB1bW9jTlJwUi1rR2xpMk5Ra01YSW9vUkxKQnhmYjYtRVQzSjZtLTZPLTktd3dsbG1vbEpWN0NB?oc=5",
-   "date": "2022-04-15T19:59:07+00:00",
-   "summary": "اتقان كالي لينكس لاختبار الاختراق المتقدم - شرح برنامج Maltego YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اتقان كالي لينكس لاختبار الاختراق المتقدم - استخبارات المصادر المفتوحة (OSINT)",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aMzJYeUI1QVlvVEt4Y0YtcndnczNoQjMwZEt4WG9rSXNxb1FUZlh0dGkxVWdiSzQ1ajEyN0pKX1dXeHRKaG1vVmJ6Q3k4WXIxWEUzSGx3?oc=5",
-   "date": "2022-04-15T12:53:55+00:00",
-   "summary": "اتقان كالي لينكس لاختبار الاختراق المتقدم - استخبارات المصادر المفتوحة (OSINT) YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "اتقان كالي لينكس لاختبار الاختراق المتقدم - إعداد نظام كالي لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IQVNSeGZBQXQ4TWVvbmVYajFLbUxfS0lReUFGRDBrbDhBNnJ1Y3FaRFI0djhCUURyV1c5TEswUVB0TExxX1dVMkI5ck9QQUF1M2Q1STlB?oc=5",
-   "date": "2022-03-20T20:48:32+00:00",
-   "summary": "اتقان كالي لينكس لاختبار الاختراق المتقدم - إعداد نظام كالي لينكس YouTube",
-   "tech": "kali",
-   "sourceId": "ar-yt",
-   "source": "YouTube",
-   "lang": "ar"
-  },
-  {
-   "title": "top 5 wifi testing tools in kali linux أقوى 5 أدوات اختبار الوايفاي في كالي لينكس",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rMkYzbU9MQjBjclBwNjVHakdOWk11Uko4d3RMdUI5OU5kdWk5R2Rkc01XTHFaVWRobXVfQjJmZGxlR1RzMDZYcVA5SFZscV9qWC1ZQUxR?oc=5",
-   "date": "2022-03-18T16:00:25+00:00",
-   "summary": "top 5 wifi testing tools in kali linux أقوى 5 أدوات اختبار الوايفاي في كالي لينكس YouTube",
    "tech": "kali",
    "sourceId": "ar-yt",
    "source": "YouTube",
